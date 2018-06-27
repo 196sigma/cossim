@@ -1,0 +1,1075 @@
+ITEM 8. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+The Board of Directors and Shareholders
+Onyx Software Corporation
+We have audited the accompanying consolidated balance sheets of Onyx
+Software Corporation as of December 31, 1998 and 1999, and the related
+consolidated statements of operations, shareholders' equity, and cash flows for
+each of the three years in the period ended December 31, 1999. These financial
+statements are the responsibility of the Company management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test
+basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated financial position of Onyx Software
+Corporation at December 31, 1998 and 1999, and the consolidated results of its
+operations and its cash flows for each of the three years in the period ended
+December 31, 1999 in conformity with accounting principles generally accepted
+in the United States.
+ERNST & YOUNG LLP
+Seattle, Washington
+January 28, 2000, except for Note 14,
+as to which the date is March 1, 2000
+34              ONYX SOFTWARE CORPORATION
+CONSOLIDATED BALANCE SHEETS
+In thousands, except share and per share data                                December 31,
+1998   1999
+ASSETS
+Current assets:
+Cash and cash  $ 1,853 $ 3,691
+Securities    --  19,804
+Accounts receivable, less allowances of $1,154 $536 in
+13,149  22,987
+Prepaid expense and   1,327  2,570
+Total current  16,329  49,052
+Property and equipment,   1,664  8,628
+Purchased technology,   3,216  3,071
+Intangibles,    642  10,683
+Long-term marketable    --    991
+Other    639   755
+Total  $22,490 $73,180
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts  $ 1,654 $ 1,906
+Salary and benefits    905  2,557
+Accrued   1,685  2,673
+Income taxes    288   435
+Current portion of capital lease obligations.   216   183
+Current portion of long-term    975   123
+Deferred   6,745  11,028
+Total current  12,468  18,905
+Capital lease obligations, less current portion.   191    70
+Long-term debt, net of current   4,295    63
+Deferred tax    --   2,304
+Redeemable convertible preferred stock, issued and
+outstanding shares--6,867,850 in 1998; Liquidation value of
+$11,000 in  13,285    Commitments and contingencies
+Shareholders' equity deficit:
+Preferred stock, $001 par value:
+Authorized    --     Common stock, $001 par value:
+Authorized shares--80,000,000
+Issued and outstanding shares--19,705,114 and 35,329,864
+in 1998 and 1999,   1,912  61,166
+Notes receivable from officers for common stock.  212  212
+Deferred stock-based  1,785  903
+Accumulated  7,621 8,065
+Accumulated other comprehensive loss.   43  148
+Total shareholders' equity  7,749 51,838
+Total liabilities and shareholders' equity. $22,490 $73,180
+See accompanying notes.
+35              ONYX SOFTWARE CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+In thousands, except per share data                           Year Ended December 31,
+1997   1998   1999
+Revenues:
+$13,191 $22,811 $38,122
+Support and   6,246  12,299  22,452
+19,437  35,110  60,574
+Cost of revenues:
+250  1,127  2,243
+Support and   5,022  7,927  11,466
+5,272  9,054  13,709
+Gross  14,165  26,056  46,865
+Operating expenses:
+Sales and  11,026  19,656  29,941
+Research and   4,729  8,855  10,545
+General and   2,156  4,136  5,966
+Acquisition-related charges and amortization of
+--   109  1,564
+Total operating  17,911  32,756  48,016
+Loss from  3,746 6,700 1,151
+Interest income,    314    61  1,224
+Income loss before income taxes. 3,432 6,639   73
+Income tax provision   888   340   517
+Net  2,544 6,979  444
+Preferred stock   923 1,215 1,442
+Net loss to common  $3,467 $8,194 $1,886
+Net loss per share:
+Basic and  $ 021 $ 049 $ 006
+Pro forma basic and      $ 030 $ 001
+Shares used in calculation of net loss per share:
+Basic and  16,136  16,574  30,400
+Pro forma basic and       23,642  31,216               See accompanying notes.
+36              ONYX SOFTWARE CORPORATION
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+In thousands, except share data                             Note
+Receivable         Retained  Accumulated   Total
+Common Stock     from    Deferred   Earnings    Other   Shareholders'
+Officers for Stock-Based Accumulated Comprehensive  Equity
+Shares  Amount  Common Stock Compensation  Deficit    Loss    Deficit
+Balance at January 1, 1997. 16,020,000 $  24  $ --     $ --    $ 1,902    $ --     $ 1,878
+Exercise of stock options.   255,752   24    --      --      --      --       24
+Stock options exchanged for
+services.     --    14    --      --      --      --       14
+Deferred stock compensation.     --   215    --      215     --      --        Preferred stock accretion.     --   923   --      --      --      --      923
+Comprehensive loss:
+Cumulative translation loss.     --   --    --      --      --      1
+Net loss.     --   --    --      --    2,544      Total comprehensive loss.                                        2,545
+Balance at December 31, 1997. 16,275,752  694   --      215    642     1    1,552
+Exercise of stock options,
+net of shareholder loans.  2,962,696   248   212     --      --              36
+Stock options exchanged for
+services.     --    9    --      --      --      --        9
+Deferred stock compensation.     --  2,153    --     2,153     --      --        Amortization of deferred
+stock compensation.     --   --    --      583     --      --       583
+Issuance of common stock and
+options in connection with
+acquisition Note 2.   466,666  1,411    --      --      --      --      1,411
+Preferred stock accretion.     --  1,215   --      --      --      --     1,215
+Comprehensive loss:
+Cumulative translation loss.     --   --    --      --      --      42
+Net loss.     --   --    --      --    6,979     Total comprehensive loss.                                        7,021
+Balance at December 31, 1998. 19,705,114  1,912   212    1,785   7,621     43    7,749
+Proceeds from initial public
+offering, net of offering
+costs of $4,472..  7,130,000 41,873    --      --      --      --     41,873
+Preferred stock accretion.     --  1,442   --      --      --      --     1,442
+Conversion of preferred
+stock.  7,067,850 14,727    --      --      --      --     14,727
+Amortization of deferred
+stock compensation.     --   --    --      882     --      --       882
+Exercise of stock options.   950,206   415    --      --      --      --       415
+Stock-based compensation.   27,462   158    --      --      --      --       158
+Issuance of common stock
+under ESPP.   124,798   969    --      --      --      --       969
+Issuance of common stock in
+connection with acquisitions
+Note 2.   324,434  2,554    --      --      --      --      2,554
+Comprehensive loss:
+Cumulative translation loss.     --   --    --      --      --      46
+Unrealized losses on
+marketable securities.     --   --    --      --      --      59
+Net loss.     --   --    --      --     444     Total comprehensive loss.                                         549
+Balance at December 31, 1999. 35,329,864 $61,166   $212    $ 903   $8,065    $148    $51,838
+See accompanying notes.
+37              ONYX SOFTWARE CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+In thousands                            Year Ended December 31
+1997   1998   1999
+OPERATING ACTIVITIES
+Net loss to common  $3,467 $8,194 $1,886
+Adjustments to reconcile net loss to net cash
+provided by used in operating activities:
+Preferred stock    923  1,215  1,442
+In-process research and development.   --    --    390
+Depreciation and    689  1,042  3,054
+Accretion of premium discounts on investments.   95   9   132
+Deferred income     54   --   134
+Noncash stock-based compensation expense.    14   592   921
+Changes in operating assets and liabilities:
+Accounts   4,443 5,350 9,225
+Other    188 1,473 1,234
+Accounts payable and accrued liabilities.  1,255  1,987   597
+Deferred   1,773  3,861  3,401
+Income   1,487  1,185   221
+Net cash used in operating activities.  4,972 5,144 2,321 INVESTING ACTIVITIES
+Purchases of   4,989   --  31,916
+Proceeds from maturity of securities.  5,045  2,073  10,989
+Acquisition of EnCyc in 1998 and Versametrix and
+Market Solutions in    --   750 5,162
+Purchase of    --    85    Purchases of property and equipment.   410  974 8,236
+Net cash provided by used in investing
+354   264 34,325 FINANCING ACTIVITIES
+Proceeds from exercise of stock options.    24    36   415
+Proceeds from shares issued through employee stock
+purchase    --    --    969
+Proceeds from line of credit.   --   3,963    Payments on capital lease obligations.   486  540  221
+Payments on long-term debt.   --   237 4,554
+Net proceeds from issuance of Series B preferred
+7,945   --     Net proceeds from initial public offering.   --    --  41,873
+Net cash provided by financing activities.  7,483  3,222  38,482
+Effect of exchange rate changes on cash.    1   1    2
+Net increase decrease in cash and cash
+2,156  1,659  1,838
+Cash and cash equivalents at beginning of year.  1,356  3,512  1,853
+Cash and cash equivalents at end of year. $ 3,512 $ 1,853 $ 3,691
+SUPPLEMENTAL CASH FLOW DISCLOSURE
+Interest  $  62 $  77 $  88
+Income taxes paid refunded, net.   565   846   430
+Fixed assets financed through capital lease
+439   317    Technology purchased through long-term debt.   --   1,544    Issuance of common stock to employees in connection
+with 1998    --    --    119
+Issuance of common stock and stock options in
+connection with    --   1,411  2,554
+Conversion of preferred stock to common stock.   --    --  14,727               See accompanying notes.
+38              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. DESCRIPTION OF THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES
+Description of the Company
+Onyx Software and subsidiaries Company provides enterprise-wide, customer-
+centric e-business solutions. Using the Internet in combination with
+traditional forms of interaction, including phone, mail, fax and email
+solutions, the Company solution enables enterprises to more effectively
+acquire, manage and retain customers, partners and other relationships. The
+Company designed its solution for companies that want to merge new e-business
+processes with traditional business processes to enhance their customer-facing
+operations. The Company software applications use a single data model across
+all customer interactions, resulting in a single repository for all marketing,
+sales and service information. The Company was incorporated in the State of
+Washington on February 23, 1994 and maintains its headquarters in Bellevue,
+Washington.
+Principles of Consolidation
+The consolidated financial statements include the accounts of the Company
+and its foreign subsidiaries. All intercompany accounts and transactions have
+been eliminated in consolidation.
+Use of Estimates
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect amounts reported in the financial statements. Changes
+in these estimates and assumptions may have a material impact on the financial
+statements. The Company has used estimates in determining certain provisions,
+including uncollectible trade accounts receivable, useful lives for fixed
+assets and intangibles, and tax liabilities.
+Revenue Recognition
+Statement of Position 97-2, Software Revenue Recognition SOP 97-2, was
+issued in October 1997 by the American Institute of Certified Public
+Accountants and was amended by Statement of Position 98-4 SOP 98-4. The
+Company adopted SOP 97-2 effective January 1, 1998. The AICPA issued SOP 98-9,
+which provides certain amendments to SOP 97-2, which is effective for
+transactions entered into beginning January 1, 2000. This pronouncement may
+require more revenue to be deferred for certain types of transactions.
+The Company generates revenues through two sources: 1 software license
+revenues and 2 service revenues. Software license revenues are generated from
+licensing the rights to use the Company products directly to end-users and
+indirectly through sublicense fees from resellers and, to a lesser extent,
+through third-party products the Company distributes. Service revenues are
+generated from sales of customer support services, consulting and training
+services performed for customers that license the Company products.
+Revenues from software license agreements are recognized upon delivery of
+software if persuasive evidence of an arrangement exists, collection is
+probable, the fee is fixed or determinable, and vendor-specific objective
+evidence exists to allocate the total fee to elements of the arrangement.
+Vendor-specific objective evidence is typically based on the price charged when
+an element is sold separately, or, in the case of an element not yet sold
+separately, the price established by authorized management, if it is probable
+that the price, once established, will not change before market introduction.
+Elements included in multiple element arrangements could consist of software
+products, upgrades, enhancements, customer support services, or consulting
+services. If an acceptance period is required, revenues are recognized upon the
+earlier of customer acceptance or the expiration of the acceptance period. The
+Company agreements with its customers and resellers do not contain product
+return rights.
+39              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  Revenues from customer support services are recognized ratably over the term
+of the contract, typically one year. Consulting revenues are primarily related
+to implementation services performed on a time-and-materials basis under
+separate service arrangements related to the installation of the Company
+software products. Revenues from consulting and training services are
+recognized as services are performed. If a transaction includes both license
+and service elements, license fee revenues are recognized on shipment of the
+software, provided services do not include significant customization or
+modification of the base product, and the payment terms for licenses are not
+subject to acceptance criteria. In cases where license fee payments are
+contingent on the acceptance of services, the Company defers recognition of
+revenues from both the license and the service elements until the acceptance
+criteria are met.
+Cash Equivalents, Short-term Marketable Securities and Long-term Marketable
+Securities
+The Company considers all highly liquid investments with an original
+maturity of three months or less at the date of purchase to be cash
+equivalents. The Company cash equivalents consist of banker acceptances
+with a maturity of three months or less and money market funds. Short-term
+marketable securities generally consist of highly liquid debt securities which
+mature within one year of the balance sheet date. Long-term marketable
+securities generally consist of highly liquid debt securities with remaining
+maturities in excess of one year.
+Fair Values of Financial Instruments
+At December 31, 1999, the Company has the following financial instruments:
+cash and cash equivalents, short-term marketable securities, accounts
+receivable, long-term marketable securities, accounts payable, accrued
+liabilities, capital lease obligations and long-term debt. The carrying value
+of cash and cash equivalents, accounts receivable, accounts payable and accrued
+liabilities approximates their fair value based on the liquidity of these
+financial instruments or based on their short-term nature. The Company has
+classified its short-term and long-term marketable securities as available-
+for-sale. Such investments are carried at fair value with unrealized gains and
+losses, net of related tax effects, reported within accumulated other
+comprehensive income. Realized gains and losses on available-for-sale
+securities are computed using the specific identification method. The carrying
+value of capital lease obligations and long-term debt approximates fair value
+based on the market interest rates available to the Company for debt of similar
+risk and maturities.
+Property and Equipment
+Property and equipment is stated at cost less accumulated depreciation.
+Depreciation and amortization is provided using the straight-line method over
+the estimated useful lives of the related assets or over the lease term if it
+is shorter for leasehold improvements, which range from two to seven years.
+Leasehold improvements are amortized over the shorter of the lease term or
+estimated useful life.
+Purchased Technology and Intangibles
+Purchased technology represents software source code and software licenses
+acquired from third parties. Amortization of purchased technology is provided
+on a product-by-product basis over the estimated economic life of the software,
+generally two to five years, using the straight-line method. Unamortized
+capitalized costs determined to be in excess of the net realizable value of a
+product are expensed at the date of such determination.
+Intangibles represent the excess of the purchase price over the fair value
+of identifiable tangible and intangible assets acquired and is amortized using
+the straight-line method over their estimated lives of two to five years. The
+carrying value of goodwill is reviewed periodically. In the event that the sum
+of expected undiscounted future cash flows is less than the recorded book
+value, the carrying value will be reduced to its fair value.
+40              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued Research and Development
+Research and development costs, which consist primarily of software
+development costs, are expensed as incurred. Financial accounting standards
+provide for the capitalization of certain software development costs after
+technological feasibility of the software is established. Under the Company
+current practice of developing new products and enhancements, the technological
+feasibility of the underlying software is not established until substantially
+all product development is complete, including the development of a working
+model. No such costs have been capitalized because the impact of capitalizing
+such costs would not be material.
+Concentration of Credit Risk and Major Customers
+Financial instruments that potentially subject the Company to a
+concentration of credit risk consist principally of accounts receivable. The
+Company customer base is dispersed across many different geographic areas
+throughout North America, Europe, Asia Pacific and Latin America and consists
+of companies in a variety of industries. During 1997, 1998 and 1999, no single
+customer accounted for 10% or more of total revenues. The Company does not
+require collateral or other security to support credit sales, but provides an
+allowance for bad debts based on historical experience and specifically
+identified risks.
+Foreign Currency Translation
+The functional currency of the Company foreign subsidiaries is the local
+currency in the country in which the subsidiary is located. Assets and
+liabilities denominated in foreign currencies are translated to U.S. dollars at
+the exchange rate in effect on the balance sheet date. Revenues and expenses
+are translated at the average rates of exchange prevailing during the year. The
+translation adjustment resulting from this process is shown within accumulated
+other comprehensive income loss as a component of shareholders' equity. Gains
+and losses on foreign currency transactions are included in the consolidated
+statement of operations as incurred. To date, gains and losses on foreign
+currency transactions have not been significant.
+Income Taxes
+The Company accounts for income taxes under the liability method. Under the
+liability method, deferred tax assets and liabilities are determined based on
+differences between financial reporting and tax bases of assets and liabilities
+and are measured using the enacted tax rates and laws that will be in effect
+when the differences are expected to reverse. Valuation allowances are
+established, when necessary, to reduce deferred tax assets to the amounts
+expected to be realized.
+Stock-Based Compensation
+The Company has elected to follow Accounting Principles Board Opinion No.
+25, Accounting for Stock Issued to Employees APB No. 25, and related
+interpretations, in accounting for employee stock options rather than the
+alternative fair value accounting allowed by Statement of Financial Accounting
+Standards No. 123, Accounting for Stock-Based Compensation SFAS No. 123.
+Under APB No. 25, compensation expense related to the Company employee stock
+options is measured based on the intrinsic value of the stock option. SFAS No.
+123 requires companies that continue to follow APB No. 25 to provide pro forma
+disclosure of the impact of applying the fair value method of SFAS No. 123. The
+Company recognizes compensation expense for options granted to non-employees in
+accordance with the provisions of SFAS No. 123 and the Emerging Issues Task
+Force consensus Issue 96-18, Accounting for Equity Instruments that are Issued
+to Other Than Employees for Acquiring, or in Conjunction with Selling, Goods or
+Services, which require using a Black-Scholes option pricing model and
+remeasuring such stock options to the current fair market value until the
+performance date has been reached.
+Deferred stock-based compensation consists of amounts recorded when the
+exercise price of an option or the sales price of restricted stock was lower
+than the subsequently determined deemed fair value for financial reporting
+purposes. Deferred stock-based compensation is amortized over the vesting
+period of the underlying options.
+41              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued Advertising
+Advertising costs are expensed as the related promotional materials are
+released. Advertising expense was $16 million, $21 million and $41 million
+during the years ended December 31, 1997, 1998 and 1999, respectively.
+Earnings Per Share and Pro Forma Earnings Per Share
+Basic earnings per share is computed by dividing net income loss available
+to common shareholders by the weighted average number of common shares
+outstanding for the period. Diluted earnings per share reflects the potential
+dilution of securities by including other common stock equivalents, including
+stock options and redeemable convertible preferred stock, in the weighted
+average number of common shares outstanding for a period, if dilutive.
+Pro forma earnings per share is computed by dividing net income loss by
+the weighted average number of common shares outstanding and the weighted
+average redeemable convertible preferred stock outstanding as if such shares
+were converted into common stock at the time of issuance.
+Other Comprehensive Income
+In June 1997, the FASB issued SFAS No. 130, Reporting Comprehensive Income,
+which establishes standards for reporting and display of comprehensive income
+and its components in the financial statements. The only items of other
+comprehensive income loss which the Company currently reports are foreign
+currency translation adjustments and unrealized gains losses on marketable
+securities.
+Business Segments
+In June 1997, the FASB issued SFAS No. 131, Disclosures about Segments of an
+Enterprise and Related Information, which establishes standards for reporting
+information about operating segments in annual financial statements. It also
+establishes standards for related disclosures about products and services,
+geographic areas and major customers. Information related to segment
+disclosures is contained in Note 13.
+Recent Accounting Pronouncements
+In June 1998, the FASB issued SFAS No. 133, Accounting for Derivatives and
+Hedging Activities, which establishes accounting and reporting standards for
+derivative instruments, including certain derivative instruments embedded in
+other contracts collectively referred to as derivatives, and for hedging
+activities. The new standard is effective for the Company beginning January 1,
+2001. Because the Company has never used nor currently intends to use
+derivatives, management does not anticipate that the adoption of this new
+standard will have a significant effect on earnings or the financial position
+of the Company.
+In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin No. 101 SAB 101. This summarizes certain areas of the
+Staff views in applying generally accepted accounting principles to revenue
+recognition in financial statements. The Company believes that its current
+revenue recognition policies comply with SAB 101.
+SOP 98-9 amends SOP 97-2 and 98-4, extending the deferral of the application
+of certain provisions of SOP 97-2 amended by SOP 98-4 through fiscal years
+beginning on or before March 15, 1999. All other provisions of SOP 98-9 are
+effective for transactions entered into in fiscal years beginning after March
+15, 1999.
+Reclassifications
+Certain prior year amounts have been reclassified to conform with the
+current year presentation. Such reclassifications had no impact on the results
+of operations or shareholders' equity for any year presented.
+42              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 2. ACQUISITIONS
+EnCyc, Inc.
+In September 1998, the Company acquired EnCyc, Inc. EnCyc, a privately
+held marketing encyclopedia software developer. In exchange for all the
+outstanding shares of EnCyc, the Company issued 466,666 shares of its common
+stock, paid $500,000 to EnCyc shareholders, and liquidated $250,000 of EnCyc
+existing long-term debt. In addition, in connection with the acquisition, the
+Company issued options to EnCyc employees to purchase up to 150,000 shares of
+common stock at an exercise price of $250 per share. These options have been
+treated as part of the purchase price, resulting in a total purchase price of
+$24 million, including direct costs of the acquisition. The acquisition was
+accounted for using the purchase method of accounting, and, accordingly, the
+results of EnCyc operations are included in the Company consolidated
+financial statements from the date of acquisition.
+Versametrix Corporation
+On August 2, 1999, the Company acquired Versametrix Corporation, a privately
+held developer of a comprehensive, browser-based personalization framework and
+a Web-based business intelligence solution. In exchange for all the outstanding
+shares of Versametrix, the Company issued 192,386 shares of Onyx Common Stock
+valued at $1,554,000 and assumed $62,000 of Versametrix debt, which was
+immediately liquidated. As a result of the acquisition, $100,000 of recent
+royalty advances to Versametrix was capitalized and accounted for as part of
+the purchase price.
+Including direct costs of the acquisition, the total purchase price was
+approximately $18 million. The transaction was accounted for using the
+purchase method of accounting, and, accordingly, the results of Versametrix
+operations have been included in the consolidated financial statements from the
+date of acquisition. The Company recorded capitalized technology and other
+intangible assets of $19 million, which will be amortized on a straight-line
+basis over their expected lives of three to five years.
+Market Solutions Limited
+On October 1, 1999, the Company acquired Market Solutions Limited, a
+corporation formed under the laws of England. Market Solutions, a privately
+held company established in 1989, is a provider of Web-based customer
+relationship management systems in the United Kingdom. The Company paid $50
+million in cash and issued 132,048 shares of common stock valued at $10
+million in exchange for all the outstanding capital stock of Market Solutions.
+The Company is also obligated to issue up to an additional $36 million in
+common stock on October 1, 2000 and up to an additional $432 million in common
+stock on October 1, 2001, depending on Market Solutions' attainment of certain
+revenue and profitability targets in each of the next two years. The number of
+shares of common stock will be determined based on the trading prices of the
+Company common stock on the Nasdaq National Market on the three trading days
+immediately prior to issuance. Such additional consideration, if any, would be
+considered additional purchase price related to goodwill and amortized over the
+remaining expected useful life.
+At the date of acquisition, the total purchase price, including direct costs
+associated with the acquisition, was approximately $74 million. The
+transaction was accounted for using the purchase method of accounting, and,
+accordingly, the results of Market Solutions operations have been included in
+the consolidated financial statements from the date of acquisition. The Company
+recorded capitalized technology and other intangible assets of $107 million,
+which will be amortized on a straight-line basis over a two and one-half to
+five-year period following the acquisition. This represents the expected life
+of the intangible assets that the Company acquired.
+43              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  A summary of the purchase price for the acquisitions is as follows                                     Market
+EnCyc Versametrix Solutions
+In thousands
+Common stock and stock options. $1,411  $1,554   $1,000
+Cash paid to   500   --    5,000
+Cash paid to liquidate notes payable.  250    62      Capitalization of royalty advances.  --    100      Accrued direct acquisition costs.  280   130   1,400
+$2,441  $1,846   $7,400
+The purchase price was allocated as follows                                     Market
+EnCyc  Versametrix Solutions
+In thousands
+Assets  $ 248  $  7   $1,030
+Liabilities   145   25  1,885
+In-process research and development.  --    390      Purchased  1,670    798    655
+Assembled   --    240   2,342
+Customer   --    --    4,175
+668    436   3,522
+Deferred tax   --    --   2,439
+$2,441  $1,846   $7,400
+To determine the value of the developed technology, the expected future cash
+flows of the existing technology products were discounted, taking into account
+risks related to the characteristics and applications of each product, existing
+and future markets, and assessments of the life cycle stage of each product.
+Based on this analysis, the existing technology that had reached technological
+feasibility was capitalized. Amounts allocated to in-process research and
+development were immediately expensed in the period of acquisition because
+technological feasibility was not established and no alternative commercial use
+was identified. Amounts attributable to purchased technology, goodwill and
+other intangibles will be amortized over their estimated useful life of two and
+one-half to five years on a straight-line basis.
+The unaudited pro forma combined historical results of operations, as if
+Versametrix and Market Solutions Limited had been acquired on January 1, 1998,
+are as follows                       Year Ended December 31,
+1998         1999
+Actual  Pro Forma Actual  Pro Forma
+Unaudited     Unaudited
+In thousands, except per share data
+$35,110  $41,253  $60,574  $63,223
+Net loss to common shareholders.  8,194  7,555  1,886  3,856
+Net loss per share basic and
+$ 049  $ 045 $ 006 $ 013  The pro forma information does not purport to be indicative of the results
+that would have been attained had these events occurred at the beginning of the
+period presented and is not necessarily indicative of future results.
+44              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 3. COMPREHENSIVE INCOME LOSS
+The following table reconciles net loss as reported to comprehensive loss
+for the years ended December 31, 1997, 1998 and 1999                             Year Ended December
+31,
+1997   1998  1999
+In thousands
+Net  $2,544 $6,979 $444
+Other comprehensive income loss:
+Unrealized currency loss.   1   42  46
+Unrealized loss on marketable securities.   --    --   59
+Total comprehensive loss. $2,545 $7,021 $549
+4. INVESTMENTS
+Investments at December 31, 1999 are summarized below                          Gross   Gross  Estimated
+Amortized Unrealized Unrealized  Fair
+Cost   Gains   Losses   Value
+In thousands
+Commercial paper. $ 5,100       $ 4  $ 5,096
+Certificates of deposit.  7,999   --     20   7,979
+Corporate debt securities.  7,755   --     35   7,720
+$20,854       $59  $20,795
+At December 31, 1999, investments with maturity dates of 90 days or less
+totaled $123 million, investments with maturity dates ranging from 91 days to
+one year totaled $75 million, and investments with maturity dates ranging from
+one to three years totaled $991,000.
+5. PROPERTY AND EQUIPMENT
+Property and equipment consists of the following                                 December 31,
+1998   1999
+In thousands
+Computer and office  $ 2,605 $ 5,852
+Purchased    468  1,353
+Furniture and    255  1,828
+Leasehold    221  2,026
+3,549  11,059
+Less accumulated depreciation and amortization. 1,885 2,431
+$1,664 $ 8,628
+Included in property and equipment are assets acquired under capital lease
+obligations with an original cost of approximately $15 million and $563,000 as
+of December 31, 1998 and 1999, respectively. Accumulated amortization on the
+leased assets was approximately $12 million and $359,000 as of December 31,
+1998 and 1999, respectively.
+45              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 6. LINE OF CREDIT
+Accounts Receivable Line of Credit
+In August 1998, the Company entered into a revolving credit agreement with
+Silicon Valley Bank. The agreement allows the Company to borrow up to $80
+million, with maximum borrowings not to exceed 80% of eligible receivables as
+defined by the agreement. Interest on borrowings is, at the Company
+discretion, at the lender prime rate or LIBOR plus 20% 850% at December
+31, 1999. Among other provisions, the Company is required to maintain certain
+financial covenants, and the agreement restricts the payment of dividends. The
+line of credit agreement expires in June 2000. As of December 31, 1999, the
+Company had no outstanding borrowings under the working capital facility;
+however, there was approximately $778,000 in standby letters of credit
+outstanding in connection with facility lease commitments, which reduces the
+amount available under this credit facility.
+Equipment Term Loan Facility
+In August 1998, the Company entered into an agreement with Silicon Valley
+Bank providing a $30 million term loan facility, with maximum borrowings not
+to exceed invoice amounts for equipment purchased after June 1, 1998, for the
+purpose of financing new capital equipment purchases. Interest on borrowings is
+at the lender prime rate plus 025% 875% at December 31, 1999. The
+facility provided for a twelve-month advance period with monthly payments of
+interest only, followed by 36 monthly payments of principal plus interest.
+Among other provisions, the Company is required to maintain certain financial
+covenants, and the agreement restricts the payment of dividends. The equipment
+term loan facility expires in August 2002. At December 31, 1999, the Company
+had borrowed $63,000 under this credit facility.
+Both credit facilities are cross-collateralized by liens against accounts
+receivable and specific assets financed by the lender, with a negative pledge
+on other assets. The Company was in compliance with all financial covenants of
+the credit facilities at December 31, 1999.
+Other Current Debt Obligations
+At December 31, 1999, other current debt obligations totaled $123,000,
+consisting of amounts due against an overderaft facility provided to Market
+Solutions and amounts due under purchased technology agreements.
+46              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued
+7. LONG-TERM DEBT, COMMITMENTS AND CONTINGENCIES
+Leases
+The Company leases its facilities under noncancelable operating lease
+agreements that expire on various dates through July 2006. The Company leases
+certain equipment under noncancelable capital and operating leases that expire
+on various dates through July 2001.
+Minimum future lease payments under noncancelable capital and operating
+leases for the periods ended December 31 pursuant to leases outstanding as of
+December 31, 1999 are summarized as follows                                Capital Operating
+Leases  Leases
+In thousands
+Year ending December 31:
+$ 200  $ 3,770
+77   3,349
+--   2,889
+--   2,784
+--   2,776
+--   3,571
+277  $19,139
+Less amount representing   24
+Present value of minimum capital lease obligations.  253
+Less current   183
+Capital lease obligations, less current portion. $ 70
+Rental expense was approximately $11 million, $23 million and $37 million
+in 1997, 1998 and 1999, respectively.
+Third-Party License Agreements
+The Company has entered into various agreements that allow the Company to
+incorporate licensed technology into its products or that allow the Company the
+right to sell separately the licensed technology. The Company incurs royalty
+fees under these agreements that are based on a predetermined fee per license
+sold. Royalty costs incurred under these agreements are recognized as products
+are licensed and are included in cost of license revenues. These amounts
+totaled $156,000, $900,000 and $21 million in 1997, 1998 and 1999. As of
+December 31, 1999, future commitments under these arrangements were not
+significant.
+47              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 8. REDEEMABLE CONVERTIBLE PREFERRED STOCK
+The redeemable convertible preferred stock outstanding at December 31, 1998
+and 1999 is as follows                                  December 31,
+1998  1999
+In
+thousands
+Series A, par value $001 per share, issued and outstanding
+4,348,164 shares at December 31, 1998, none at December 31,
+1999; net of $23,000 in offering costs, plus accretion to
+redemption  $ 3,880   Series B, par value $001 per share, issued and outstanding
+2,519,686 shares at December 31, 1998, none at December 31,
+1999; net of $55,000 in offering costs, plus accretion to
+redemption   9,405                                                                     $13,285                                    Series A Redeemable Convertible Preferred Stock
+In March 1996, the Company completed a $30 million private placement of
+4,348,164 shares of Series A Convertible and Redeemable Preferred Stock
+Series A at $069 per share. Net proceeds from the financing amounted to
+$2,977,000. Each share of Series A converted into common stock upon the
+closing of the initial public offering. Holders of Series A had preferential
+rights over common shareholders to dividends of $0069 10% per share per
+annum, when and if declared, and were entitled to the number of votes equal to
+the number of shares of common stock into which their stock could be
+converted. The Company was not allowed to carry out certain events, as
+specified in the Articles of Incorporation, without the advance consent of the
+majority of the preferred shareholders, as specified in the Articles of
+Incorporation. In the event of liquidation, the holders of Series A had
+preferential rights over common shareholders to liquidation payments at the
+original purchase price, plus declared but unpaid dividends. The Company never
+declared any Series A dividends.
+Series B Redeemable Convertible Preferred Stock
+In March 1997, the Company completed an $80 million private placement of
+2,519,686 shares of Series B Convertible and Redeemable Preferred Stock
+Series B at $318 per share. Net proceeds from the financing amounted to
+$7,945,000. In conjunction with the sales of Series B, the Company entered
+into amended Investors' Rights, Voting, and Co-Sale, and Right of First Offer
+Agreements. Each share of Series B was converted into common stock upon the
+closing of the initial public offering. In December 1998, the Board of
+Directors authorized a 200,000 share increase in the number of shares of
+common stock issuable upon conversion of the Series B Redeemable Convertible
+Preferred Stock, effectively increasing the conversion ratio from one-to-one
+to 1079-to-one. The fair value of the 200,000 share increase in the number of
+shares of common stock issuable upon a conversion of the Series B Redeemable
+Convertible Preferred Stock was accounted for as a deemed dividend at $650
+per share based on the price of stock issued in the initial public offering,
+and has been reflected within preferred stock accretion in the statement of
+operations. Under the terms of the agreement, Series B shareholders had rights
+in preference to, but otherwise similar to those of, Series A shareholders,
+including dividends of $0318 10% per share per annum, when and if declared.
+The Company never declared any Series B dividends.
+9. SHAREHOLDERS' EQUITY
+Initial Public Offering
+On February 12, 1999, the Company completed an initial public offering of
+7,130,000 shares of common stock, including 930,000 shares pursuant to the
+underwriters' exercise of their overallotment option, as adjusted to reflect
+the 2-for-1 split of the common stock effected March 1, 2000. The offered
+shares generated net proceeds to the Company of approximately $419 million.
+Concurrent with the offering, all 6,867,850 shares of
+48              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued
+the Company redeemable convertible preferred stock automatically converted
+into 7,067,850 shares of common stock.
+Shareholder Rights Plan
+On October 22, 1999, the Company Board of Directors adopted a Shareholder
+Rights Plan the Rights Plan in which preferred stock purchase rights Rights
+were distributed as a dividend at the rate of one Right for each share of
+Common Stock held as of the close of business on November 9, 1999. The Company
+adopted the plan to guard against partial tender offers and other abusive
+tactics that might be used in an attempt to gain control of the Company without
+paying all shareholders a fair price for their shares. The Rights Plan, which
+expires on November 9, 2009, will not prevent takeovers, but it is designed to
+deter coercive takeover tactics and to encourage anyone attempting to acquire
+the Company to first negotiate with the Board.
+Each Right will entitle each shareholder to buy one one-hundredth of a newly
+issued share of Series A Participating Cumulative Preferred Stock of the
+Company at an exercise price of $6000 per one one-hundredth of a preferred
+share. The Rights will be exercisable only if a person or group, other than an
+exempted person, makes a tender offer for, or acquires beneficial ownership, of
+15% or more of the Company then outstanding Common Stock.
+If any person other than an exempted person becomes the beneficial owner of
+15% or more of the Company outstanding Common Stock, then each Right not
+owned by such person or certain related parties will entitle its holder to
+purchase, at the Right then current exercise price, shares of the Company
+Common Stock or, in certain circumstances, cash, property or other securities
+of the Company having a market value equal to twice the then current exercise
+price. In addition, if, after a person becomes the beneficial owner of 15% or
+more of the Company outstanding Common Stock, the Company is acquired in a
+merger or other business combination transaction, or sells 50% or more of its
+assets or earning power to another person, each Right will entitle its holder
+to purchase, at the Right then current exercise price, shares of Common Stock
+of such other person having a market value equal to twice the then current
+exercise price.
+The Company Board of Directors will generally be entitled to redeem the
+Rights at $01 per Right at any time prior to a person or group acquiring 15%
+or more of the Company Common Stock.
+Notes Receivable from Officers
+In July 1998, certain officers exercised options to purchase 2,600,000
+shares of common stock and paid the exercise price by issuing promissory notes
+to the Company totaling $212,000. These notes, which have been offset against
+common stock for financial statement presentation, are due in July 2001 and
+bear interest at 539%, payable annually. These notes and the interest thereon
+are full recourse.
+1994 Combined Incentive and Nonqualified Stock Option Plan
+Under the terms of the 1994 Combined Incentive and Nonqualified Stock Option
+Plan the 1994 option plan, the Board of Directors may grant incentive and
+nonqualified stock options to employees, officers, directors, agents,
+consultants, and independent contractors of the Company. There were 10,000,000
+shares of common stock reserved under the 1994 option plan. Generally, the
+Company grants stock options with exercise prices equal to the fair market
+value of the common stock on the date of grant, as determined by the Company
+Board of Directors. Options generally vest over a four and one-half year
+period; 25% vest after 18 months, with 125% vesting every six months
+thereafter. In December 1997, the Board of Directors made a special grant of
+283,200 options to certain key employees that vest 167% after 18 months, and
+an additional 167% at the end of each month thereafter, with the result that
+100% of the options are vested six and one-half years from the date of grant.
+Options generally expire ten years from the date of grant. In October 1998, the
+Board of Directors suspended the 1994 option plan and determined that no
+further grants shall be made pursuant to the 1994 option plan see 1998 Stock
+Incentive Compensation Plan.
+49              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 1998 Stock Incentive Compensation Plan
+In October 1998, the Board of Directors adopted the 1998 Stock Incentive
+Compensation Plan the 1998 option plan, which was approved by the Company
+shareholders in November 1998. The 1998 option plan provides for both stock
+options and restricted stock awards to employees, officers, directors, agents,
+advisors, consultants and independent contractors of the Company. There were
+3,000,000 shares of common stock reserved under the 1998 option plan and the
+plan provides that any options cancelled and returned to the 1994 option plan
+shall become available for future grant under the 1998 option plan. The 1998
+option plan provides for an annual increase to be added on the first day of
+each fiscal year beginning in 2000 equal to the lesser of a 3,351,526 shares,
+or b 5% of the average common shares outstanding used to calculate fully
+diluted earnings per share, as reported for the preceding year. Options granted
+under the 1998 option plan generally vest and become exercisable over a four
+and one-half year period; 25% vest after 18 months, with 125% vesting every
+six months thereafter.
+Stock Option Activity
+A summary of stock option activity follows                              Outstanding Options
+Weighted
+Shares        Average
+Available  Number of  Exercise
+for Grant   Shares   Prices
+Balance at January 1, 1997. 3,762,400  6,217,600  $009
+Options  2,182,800 2,182,800  $033
+Options   482,496  482,496 $013
+Options      --  255,752 $010
+Balance at December 31, 1997
+2,062,096  7,662,152  $016
+1998 option plan introduction. 3,000,000     --  $    Options  2,913,320 2,913,320  $177
+Options  1,143,716 1,143,716 $044
+Options     --  2,962,696 $009
+Balance at December 31, 1998
+3,292,492  6,469,060  $086
+Options  3,325,768 3,325,768  $780
+Options   997,054  997,054 $211
+Options     --   950,206 $044
+Outstanding at December 31, 1999
+963,778  7,847,568  $369
+The following table summarizes information concerning currently outstanding
+and exercisable options at December 31, 1999               Outstanding        Exercisable
+Weighted Average
+Remaining
+Range of    Number of Contractual Life Number of Weighted Average
+Exercise Prices  Options   Years    Options Exercise Prices
+$ 005 - $ 020  1,779,264    621     944,414   $009
+$ 035 - $ 060   995,724    700     293,730    037
+$ 075 - $ 175  1,081,230    840     184,018    122
+$ 250 - $ 450  1,069,934    873     60,334    250
+$ 650 - $ 672  1,536,716    939     17,600    650
+$ 768 - $ 991   938,500    850     50,000    991
+$1110 - $1588   446,200    910       --                           $ 005 - $1588  7,847,568    802    1,550,096   $076
+50              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 1998 Employee Stock Purchase Plan
+In December 1998, the Board of Directors and shareholders approved the 1998
+Employee Stock Purchase Plan ESPP, which was implemented upon the
+effectiveness of the initial public offering in February 1999. The ESPP permits
+eligible employees of the Company and its subsidiaries to purchase common stock
+through payroll deductions of up to 10% of their compensation. Under the ESPP,
+no employee may purchase common stock worth more than $25,000 in any calendar
+year, valued as of the first day of each offering period. In addition, owners
+of 5% or more of the Company or a subsidiary common stock may not
+participate in the ESPP. The Company authorized the issuance under the ESPP of
+a total of 1,000,000 shares of common stock, plus an automatic annual increase,
+to be added on the first day of the fiscal year beginning in 2000, equal to the
+lesser of a 400,000 shares, b 12% of the average common shares outstanding
+as used to calculate fully diluted earnings per share as reported in the Annual
+Report for the preceding year, or c a lesser amount determined by the Board
+of Directors. Accordingly, on January 1, 2000, the ESPP pool will be increased
+by 374,592 shares. Any shares from increases in previous years that are not
+actually issued shall be added to the aggregate number of shares available for
+issuance under the ESPP.
+The ESPP provides for six-month offering periods. The first offering period
+commenced on the effectiveness of the initial public offering in February 1999
+and ended June 30, 1999. Subsequent offering periods begin on each January 1
+and July 1. The price of the common stock purchased under the ESPP will be the
+lesser of 85% of the fair market value on the first day of an offering period
+and 85% of the fair market value on the last day of an offering period, except
+that the purchase price for the first offering period was equal to the lesser
+of 100% of the initial public offering price of the common stock and 85% of the
+fair market value on June 30, 1999. The ESPP does not have a fixed expiration
+date, but the Company Board of Directors may terminate it at any time.
+During 1999, 124,798 shares of common stock were purchased under the ESPP.
+At December 31, 1999, the Company had a total of 875,202 shares of common stock
+reserved for future issuance under its ESPP.
+Pro Forma Disclosure Under SFAS No. 123
+Under APB No. 25, because the exercise price of the Company employee stock
+options generally equals the fair value of the underlying stock on the date of
+grant, no compensation expense is recognized. Deferred compensation expense of
+$215,000 and $2,153,000 was recorded during 1997 and 1998, respectively, for
+those situations where the exercise price of an option was lower than the
+deemed fair value for financial reporting purposes of the underlying common
+stock. No deferred compensation expense was recorded in 1999. The deferred
+compensation is being amortized over the vesting period of the underlying
+options. Amortization of the deferred stock-based compensation balance of
+$903,000 at December 31, 1999 will approximate $489,000, $270,000 and $144,000
+for the fiscal years ending December 31, 2000, 2001 and 2002, respectively.
+51              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  Had the stock compensation expense for the Company stock option plan and
+employee stock purchase plan been determined based on the minimum value model
+using the multiple-option approach, the Company net income loss would have
+been adjusted to these pro forma amounts                             December 31,
+1997   1998   1999
+In thousands, except
+per share data
+Net income loss available to common
+shareholders:
+As  $3,467 $8,194 $1,886
+SFAS No. 123 pro forma. $3,526 $8,626 $6,372
+Diluted earnings loss per share:
+As  $ 021 $ 049 $ 006
+SFAS No. 123 pro forma. $ 022 $ 052 $ 021  The fair value of each option grant is estimated on the date of grant using
+the Black-Scholes option pricing model for periods after the Company initial
+public offering and the minimum value option pricing model for periods prior to
+the initial public offering. Subsequent to the Company initial public
+offering, the volatility of the Company stock was based on actual prices
+subsequent to the initial month of trading. The following weighted average
+assumptions were utilized in arriving at the fair value of each option grant                              December 31,
+1997   1998   1999
+Expected dividend    00%   00%   00%
+Risk-free interest    53%   50%   62%
+NA    NA    89%
+Expected life  5 years 5 years 4 years  For purposes of the pro forma disclosures, the estimated weighted average
+fair value of the options granted, estimated to be $008, $058 and $614 at
+December 31, 1997, 1998 and 1999, respectively, is amortized to expense over
+the options' vesting period. Compensation expense recognized in providing pro
+forma disclosures may not be representative of the effects on pro forma
+earnings for future years because SFAS No. 123 does not apply to stock option
+grants made prior to 1995.
+The fair value of employees' stock purchase rights under the ESPP at
+December 31, 1999 was estimated using the Black-Scholes model with the same
+assumptions as the table above except that the expected life is six months.
+Common Shares Reserved for Future Issuance
+The Company has reserved shares of common stock as of December 31, 1999 as
+follows                                   
+Stock  8,811,346
+Employee Stock Purchase   875,202
+9,686,548
+52              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 10. EARNINGS PER SHARE
+The following represents the calculations for earnings per share                           Year Ended December 31,
+1997   1998   1999
+In thousands, except
+per share data
+Net loss  $2,544 $6,979 $ 444
+Preferred stock   923 1,215 1,442
+Loss available to common shareholders B. $3,467 $8,194 $1,886
+Weighted average number of common shares
+16,136  16,574  30,400
+Effect of dilutive securities:
+Stock    **    **       Redeemable convertible preferred stock       **    **                                   Adjusted weighted average shares and assumed
+conversions  16,136  16,574  30,400
+Pro forma adjustment for redeemable convertible
+preferred       7,068   816
+Pro forma weighted average shares E.      23,642  31,216
+Earnings loss per share:
+Basic  $ 021 $ 049 $ 006
+Diluted  $ 021 $ 049 $ 006
+Pro forma basic and diluted A/E.     $ 030 $ 001  1 For purposes of determining the weighted average number of common shares
+outstanding, 2,600,000 shares of restricted common stock acquired through
+the July 1998 exercise of stock options in exchange for promissory notes to
+the Company are only considered in the calculation of diluted earnings per
+share.  Excluded from the computation of diluted earnings per share given the
+effects are antidilutive. Outstanding stock options to purchase 7,662,152,
+9,069,060 and 10,447,568 shares of common stock at December 31, 1997, 1998
+and 1999, respectively, were excluded from the computation of diluted
+earnings per share because their effect was antidilutive see Note 9 for
+additional stock option information.                    53              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 11. INCOME TAXES
+Income loss before taxes consists of the following                            Year Ended December
+31,
+1997   1998  1999
+In thousands
+Current:
+$3,601 $7,495 $ 564
+169   856  491
+$3,432 $6,639 $ 73
+The provision benefit for income taxes consists of the following                            Year Ended December
+31,
+1997   1998  1999
+In thousands
+Current:
+$1,007 $  --  $ 40
+State and     5   --   15
+60   340  596
+Total current income taxes.  942   340  651
+Deferred:
+54   --         --    --  134
+Income tax provision benefit. $ 888 $  340 $ 517
+The effective rate differs from the U.S. federal statutory rate as follows                            Year Ended December
+31,
+1997   1998  1999
+In thousands
+Income tax expense benefit at statutory rate of
+$1,167 $2,257 $ 25
+State taxes, net of federal benefit.    3   --   10
+Losses producing no current tax benefit.   276  2,597  482
+Income tax provision benefit. $ 888 $  340 $ 517
+At December 31, 1999, the Company had a domestic net operating loss,
+research and development and foreign tax credit carryforwards of $52 million 675,000 and $337,000, respectively, which begin to expire in 2017. Utilization
+of these carryforwards depends on the recognition of future taxable income. The
+Company ability to utilize net operating loss carryforwards may be limited in
+the event that a change in ownership, as defined in the Internal Revenue Code,
+occurs in the future. To the extent that any single-year loss is not utilized
+to the full amount of the limitation, such unused loss is carried forward to
+subsequent years until the earlier of its utilization or the expiration of the
+relevant carryforward period.
+54              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  Deferred tax assets reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and the amounts used for income tax purposes. Significant components
+of the Company deferred tax assets and liabilities are as follows                                December 31,
+1998   1999
+In thousands
+Deferred tax assets:
+Book reserves in excess of tax. $  211 $  454
+Foreign tax credit    74   337
+Research and development credit carryforward.   520   675
+Net operating loss   2,395  1,762
+Total gross deferred tax   3,200  3,228
+Less valuation  2,516 2,420
+684   808
+Deferred tax liabilities:
+Deductible basis in fixed   145   73
+Purchased technology and other intangibles.  539 3,039
+684 3,112
+Net deferred tax  $  --  $2,304
+Since the Company utilization of these deferred tax assets is dependent on
+future profits, which are not assured, a valuation allowance equal to the net
+deferred tax assets has been provided. The valuation allowance for deferred tax
+assets increased decreased by $22 million and $96,000 during the years
+ended December 31, 1998 and 1999, respectively.
+12. EMPLOYEE BENEFIT PLAN
+The Company maintains a profit-sharing retirement plan for eligible
+employees under the provisions of Internal Revenue Code Section 401k.
+Participants may defer up to 15% of their annual compensation on a pretax
+basis, subject to maximum limits on contributions prescribed by law.
+Contributions by the Company are at the discretion of the Board of Directors.
+No discretionary contributions have been made by the Company to date.
+55              ONYX SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 13. INTERNATIONAL OPERATIONS
+The Company reports operating results based on geographic areas. A summary
+of key financial data by segment is as follows                            North  Rest of
+America  World  Total
+In thousands
+Year ended December 31, 1999:
+$49,339 $11,235 $60,574
+Operating   3,660  4,811 1,151
+Interest,   1,230    6  1,224
+Depreciation and   2,386   668  3,054
+In-process research and development.   390   --    390
+Purchases of property and equipment.  8,095   141  8,236
+Long-lived  23,339   790  24,129
+Total  69,514  3,666  73,180
+Year ended December 31, 1998:
+$29,918 $ 5,192 $35,110
+Operating  4,044 2,656 6,700
+Interest,    61   --    61
+Depreciation and    998    44  1,042
+Purchases of property and equipment.   816   158   974
+Long-lived   5,685   476  6,161
+Total  21,254  1,236  22,490
+Year ended December 31, 1997:
+$18,272 $ 1,165 $19,437
+Operating  2,060 1,686 3,746
+Interest,    314   --    314
+Depreciation and    675    14   689
+Purchases of property and equipment.   293   117   410
+Long-lived   1,232   134  1,366
+Total  15,485   467  15,952 14. SUBSEQUENT EVENTS
+Stock Split
+On January 21, 2000, the Company Board of Directors approved a two-for-one
+stock split to be effective in the form of a stock dividend, payable on March
+1, 2000. All share and per share amounts in the accompanying consolidated
+financial statements have been adjusted to reflect this stock split.
+Acquisition of CSN Computer Consulting
+On February 22, 2000, the Company acquired CSN Computer Consulting CSN, a
+privately held e-business consulting, training and technology development
+company headquartered in Germany. The purchase price consisted of approximately
+$23 million in cash and approximately $23 million 69,398 shares of common
+stock in exchange for all the outstanding capital stock of CSN. Approximately
+$115 million in cash was paid at closing and $115 million in cash is payable
+upon evidence of tax obligations owed by the sellers, but in no event later
+than January 31, 2001. The transaction will be accounted for using the purchase
+method of accounting, and, accordingly, the results of CSN operations will be
+included in the Company consolidated financial statements from the date of
+acquisition. Allocation of the purchase price will be determined in the first
+quarter of 2000.
+56 Item 1.    3
+Item 2.   20
+Item 3. Legal   20
+Item 4. Submission of Matters to a Vote of Security Holders.  21                   PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The information required by this Item is included in our proxy statement for
+our 2000 annual meeting of shareholders and is incorporated by reference. The
+information appears in the proxy statement under the headings Election of
+Directors and Executive Officers Who Are Not Directors. We will file the
+proxy statement within 120 days of December 31, 1999.

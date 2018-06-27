@@ -1,0 +1,809 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS                                PAGE
+Report of Independent   26
+Consolidated Balance Sheets as of December 31, 1998 and
+27
+Consolidated Statements of Operations for the years ended
+December 31, 1997, 1998 and   28
+Consolidated Statements of Stockholders' Equity for the
+years ended December 31, 1997, 1998
+and   29
+Consolidated Statements of Cash Flows for the years ended
+December 31, 1997, 1998 and   30
+Notes to Consolidated Financial Statements.  31                    25
+28
+REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Stockholders of
+TelCom Semiconductor, Inc.
+In our opinion, the accompanying consolidated balance sheets and the related
+consolidated statements of operations, of stockholders' equity and of cash flows
+present fairly, in all material respects, the financial position of TelCom
+Semiconductor, Inc. and its subsidiaries at December 31, 1998 and 1999, and the
+results of their operations and their cash flows for each of the three years in
+the period ended December 31, 1999, in conformity with accounting principles
+generally accepted in the United States. These financial statements are the
+responsibility of the Company management; our responsibility is to express an
+opinion on these financial statements based on our audits. We conducted our
+audits of these statements in accordance with auditing standards generally
+accepted in the United States, which require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements, assessing
+the accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for the opinion expressed above.
+PricewaterhouseCoopers LLP
+San Jose, California
+January 20, 2000, except as to Note 13
+which is as of February 1, 2000
+26
+29
+TELCOM SEMICONDUCTOR, INC.
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS, EXCEPT SHARE DATA                                 DECEMBER 31,
+1998    1999
+ASSETS
+Current assets:
+Cash and cash  $14,059  $ 18,413
+Short term     --    2,286
+Accounts receivable, less allowance for doubtful accounts
+of $195 and   6,944    8,314
+6,377    5,863
+Deferred income   1,099     88
+Other current    799    1,186
+Total current   29,278   36,150
+Property and equipment,   10,388    6,791
+Other   1,500    3,000
+$41,166  $ 45,941
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Current portion of notes  $ 1,886  $    Accounts   3,247    2,889
+Accrued   2,982    1,832
+Deferred distributor   1,484    1,635
+Income taxes   2,571     603
+Total current   12,170    6,959
+Notes payable and other long term obligations, net of
+current   2,678      Deferred income    400     400
+Total   15,248    7,359
+Commitments and contingencies Note 10
+Stockholders' equity:
+Preferred stock, $0001 par value; 5,000,000 shares
+authorized; none issued or outstanding.    --       Common stock, $0001 par value; 30,000,000 shares
+authorized; 16,859,214 and 17,434,407 shares issued and
+14,557,214 and 14,315,107 shares outstanding.    17     17
+Additional paid-in   35,355   38,644
+Treasury stock 2,302,000 and 3,119,300 shares at cost.  7,925  12,697
+Accumulated other comprehensive income.    --    1,018
+Retained   1,529   11,600
+Total stockholders'   25,918   38,582
+$41,166  $ 45,941
+The accompanying notes are an integral part of these consolidated financial
+statements.
+27
+30
+TELCOM SEMICONDUCTOR, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+IN THOUSANDS, EXCEPT PER SHARE DATA                                 YEAR ENDED DECEMBER 31,
+1997    1998    1999
+Net  $55,435  $54,263  $57,322
+Cost of   31,175   34,896   31,626
+Gross   24,260   19,367   25,696
+Operating expenses:
+Research and   5,455   5,588   6,794
+Selling, general and   9,530   9,496   10,007
+Loss on foundry   8,264     --      Restructuring and     --   7,258    269
+Total operating   23,249   22,342   17,070
+Income loss from   1,011   2,975   8,626
+Interest    959    845    584
+Interest   1,247   459   199
+Gain on sale of     --     --   5,819
+Income loss before income    723   2,589  14,830
+Provision for income   2,427    958   1,701
+Net income  $1,704  $3,547  $13,129
+Per share data:
+Net income loss
+$ 011  $ 022  $ 092
+$ 011  $ 022  $ 084
+Number of shares used to compute per share data:
+16,184   15,933   14,302
+16,184   15,933   15,676
+The accompanying notes are an integral part of these consolidated financial
+statements.
+28
+31
+TELCOM SEMICONDUCTOR, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+IN THOUSANDS                                      ACCUMULATED
+COMMON STOCK   ADDITIONAL         OTHER           TOTAL
+PAID-IN   TREASURY  COMPREHENSIVE  RETAINED  STOCKHOLDERS'
+SHARES  AMOUNT  CAPITAL   STOCK    INCOME    EARNINGS   EQUITY
+Balance at December 31,
+1996. 15,706  $16   $33,188   $   --   $  --    $ 3,722    $36,926
+Sale of common stock.   712   --    1,190      --     --      --     1,190
+Repurchase of common stock.   --   --      --      --     --      --       Payment on notes receivable
+from stockholders.   --   --      9      --            --       9
+Net loss.   --   --      --      --     --    1,704      Comprehensive loss.   --   --      --      --     --      --    1,704
+Balance at December 31,
+1997. 16,418   16    34,387      --     --     2,018    36,421
+Sale of common stock.   441   1     968      --     --      --      969
+Repurchase of common stock.   --   --      --    7,925     --      --    7,925
+Net loss.   --   --      --      --     --    3,547      Comprehensive loss.   --   --      --      --     --      --    3,547
+Balance at December 31,
+1998. 16,859   17    35,355    7,925     --    1,529   $25,918
+Sale of common stock.   575   --    1,953      --     --      --     1,953
+Repurchase of common stock.   --   --      --    4,772     --      --    4,772
+Tax benefit from stock
+options.   --   --    1,336      --     --      --     1,336
+Unrealized gain on short term
+investment net of deferred
+taxes of $679.   --   --      --      --    1,018      --       Net income.   --   --      --      --     --    13,129       Comprehensive income.   --   --      --      --     --      --    14,147
+Balance at December 31,
+1999. 17,434  $17   $38,644   $12,697   $1,018    $11,600    $38,582
+The accompanying notes are an integral part of these consolidated financial
+statements.
+29
+32
+TELCOM SEMICONDUCTOR, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS                                 YEAR ENDED DECEMBER 31,
+1997    1998    1999
+Cash flows from operating activities:
+Net income  $ 1,704  $3,547  $13,129
+Adjustments to reconcile net income loss to net cash
+provided by used for operating activities:
+Loss on foundry    8,264     --        Gain on sale of     --     --   5,819
+Restructuring and     --   7,258        Depreciation and    4,113   5,247   2,701
+Deferred income     77    776    332
+Changes in assets and liabilities:
+Accounts   2,164    508   1,370
+1,799   1,912    514
+Income taxes    1,430     --         Other current    393    48   387
+Accounts    1,419    214   358
+Accrued     454    543  1,021
+Deferred distributor     352     55    151
+Income taxes    1,805     5    632
+Net cash provided by operating activities.  11,854   9,857   7,240
+Cash flows from investing activities:
+Purchases of property and   7,574  5,816  1,612
+Net proceeds from sale of     --     --   1,511
+Investment in Silicon Aquarius Incorporated..    --     --   3,000
+Investment in IC WORKS,   1,500    --      Net proceeds from sale of equipment at IC WORKS, Inc.   5,099     --      Sales of short term    2,733   2,469   6,730
+Net cash provided used for investing activities.  1,242  3,347   3,629
+Cash flow from financing activities:
+Proceeds from sale of common stock.   1,190    969   1,953
+Payment on notes receivable from stockholders.     9     --      Repurchase of common     --   7,925  4,772
+Proceeds from issuance of notes payable.   3,333     --      Principal payments on notes   10,795  2,605  3,696
+Net cash used for financing   6,263  9,561  6,515
+Net increase decrease in cash and cash equivalents.   4,349   3,051   4,354
+Cash and cash equivalents at the beginning of period.  12,761   17,110   14,059
+Cash and cash equivalents at the end of period. $ 17,110  $14,059  $18,413
+Cash paid during the year for:
+$ 1,247  $  459  $  199
+Income taxes paid received, net.   885   1,807   2,102  The accompanying notes are an integral part of these consolidated financial
+statements.
+30
+33
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+NOTE 1 -- THE COMPANY AND BASIS OF PRESENTATION   TelCom Semiconductor, Inc. TelCom or the Company designs, develops
+and markets a diversified portfolio of high performance analog integrated
+circuits for use in a wide variety of electronic systems. The Company was
+organized in Delaware in June 1993 and began operations in December 1993 after
+the management-led buyout of the semiconductor operations of Teledyne, Inc. The
+Company has operations in the United States, Hong Kong and Germany. The Company
+operates and reports financial results on a 52-53 week fiscal year. During 1997,
+the Company changed its fiscal year end from the last Friday of December to the
+Friday closest to the last day of December. Fiscal year 1997 is a 53 week year
+ended on January 2, 1998. Fiscal 1998 and 1999 are 52 week years ended on
+January 1, 1999 and December 31, 1999, respectively. For convenience, the
+Company presents its fiscal years as ending on December 31.
+The preparation of financial statements in accordance with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosures of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenue and expenses during the period.
+Actual results could differ from those estimates.
+NOTE 2 -- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES PRINCIPLES OF CONSOLIDATION
+The consolidated financial statements include the accounts of the Company
+and its wholly-owned subsidiaries. All material intercompany accounts and
+transactions have been eliminated.
+REVENUE RECOGNITION
+Revenue from product sales to customers other than domestic distributors is
+recognized upon shipment. Sales to domestic distributors are generally subject
+to agreements allowing certain rights of return and price protection with
+respect to unsold merchandise held by each distributor. The Company defers
+recognition of revenue and related gross margin on the sales to domestic
+distributors until the product is sold by these distributors.
+SALES TO SIGNIFICANT CUSTOMERS
+Sales to one customer represented 30%, 35% and 34% of the Company net
+sales for the years ended December 31, 1997, 1998 and 1999, respectively. Sales
+to another customer represented 10%, 11% and 12% of the Company net sales for
+the years ended December 31, 1997, 1998 and 1999, respectively.
+CASH EQUIVALENTS AND SHORT TERM INVESTMENTS
+For purposes of the statement of cash flows, the Company considers all
+highly liquid instruments with an original maturity of three months or less to
+be cash equivalents. Cash equivalents consist primarily of money market funds.
+Short term investments consist of a common stock investment in Cypress
+Semiconductor, Inc. The Company categorizes its short-term investments as
+available for sale and the investments are reported at fair market value. The
+fair value of the Company investments was determined based on quoted market
+prices at the reporting date for those instruments.
+FOREIGN CURRENCY TRANSLATION
+The functional currency of the Company foreign entities is the U.S.
+dollar; however, certain of the Company costs and expenses are paid in
+currencies other than the U.S. dollar. The Company does not currently hedge
+against foreign currency exchange rate fluctuations and gains and losses arising
+from the
+31
+34
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+translation of foreign currency balances and transactions are included in
+consolidated results of operations. Gains and losses from such fluctuations have
+not been material to the Company consolidated results of operations.
+INVENTORIES
+Inventory is stated at the lower of cost, determined on a first-in,
+first-out basis, or market.
+PROPERTY AND EQUIPMENT
+Equipment and leasehold improvements are stated at cost, or fair market
+value at the time of impairment for impaired assets. Depreciation is computed
+using the straight-line method with estimated useful lives of three to five
+years for equipment. Leasehold improvements consist of improvements to the
+Company facilities and are amortized over the remaining term of the lease or
+useful life of the asset, whichever is less.
+LONG-LIVED ASSETS
+The Company reviews long-lived assets for impairment whenever events or
+changes in circumstances indicate that the carrying amount of an asset may not
+be recoverable. The Company assesses the impairment of long-lived assets based
+upon the estimated future undiscounted cash flows from these assets.
+CONCENTRATION OF CREDIT RISK
+Financial instruments that potentially subject the Company to significant
+concentration of credit risk consist principally of trade accounts receivable.
+The Company sells its integrated circuits to customers throughout the world. The
+Company performs ongoing credit evaluations of its customers' financial
+condition and, generally, requires no collateral from its customers. The Company
+maintains an allowance for uncollectable accounts receivable. The Company
+write-offs of accounts receivable were not significant in 1997, 1998 and 1999.
+The Company accounts receivable were concentrated with three customers at
+December 31, 1998 representing 10%, 11% and 25% of aggregate receivables and
+one customer at December 31, 1999 representing 27% of aggregate receivables.
+NET INCOME LOSS PER SHARE
+Basic EPS is computed by dividing net income available to common
+stockholders numerator by the weighted average number of common shares
+outstanding denominator during the period. Diluted EPS gives effect to all
+dilutive potential common shares outstanding during the period including stock
+options, using the treasury stock method, and convertible preferred stock, using
+the if-converted method. In computing Diluted EPS, the average stock price for
+the period is used in determining the number of shares assumed to be purchased
+from the exercise of stock options.
+32
+35
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+Following is a reconciliation of the numerators and denominators of the
+Basic and Diluted EPS computations, in thousands, except for per share data                                 YEAR ENDED DECEMBER 31,
+1997    1998    1999
+Net income loss attributable to common shareholders. $1,704  $3,547  $13,129
+Weighted average common shares outstanding basic.  16,184   15,933   14,302
+Effect of dilutive     --     --   1,374
+Weighted average common shares outstanding diluted.  16,184   15,933   15,676
+Net income loss per share:
+$ 011  $ 022  $ 092
+$ 011  $ 022  $ 084
+Due to the Company net loss from continuing operations in 1997 and 1998,
+a calculation of EPS assuming dilution is not required. At December 31, 1997,
+there were 2,386,000 options and warrants outstanding to purchase common stock
+at a weighted average price of $440 per share. At December 31, 1998, there were
+2,975,000 options outstanding to purchase common stock at a weighted average
+price of $365 per share. The securities have been excluded from the computation
+of dilutive EPS because the inclusion of such warrants and options would have
+been anti-dilutive.
+STOCK-BASED COMPENSATION
+The Company accounts for stock-based compensation using the intrinsic value
+method prescribed in Accounting Principles Board Opinion APB No. 25,
+Accounting for Stock Issued to Employees. The Company policy is to grant
+options with an exercise price equal to the quoted market price of the Company
+stock on the date of the grant. Accordingly, no compensation cost has been
+recognized in the Company statements of operations. The Company provides
+additional pro forma disclosures as required under Statement of Financial
+Accounting Standards No. 123 SFAS 123, Accounting for Stock-Based
+Compensation.
+COMPREHENSIVE INCOME
+In 1998, the Company adopted SFAS No. 130, Reporting Comprehensive
+Income. SFAS No. 130 establishes standards for disclosure and financial
+statement display for reporting total comprehensive income and its individual
+components. Comprehensive income, as defined, includes all changes in equity
+during a period from non-owner sources. The Company comprehensive income
+includes net income and unrealized gains and losses on investments and is
+displayed in the statement of stockholders' equity.
+SEGMENT REPORTING
+In 1998, the Company adopted Statement of Financial Accounting Standards
+No. 131 SFAS 131, Disclosures about Segments of an Enterprise and Related
+Information. SFAS 131 supersedes SFAS 14, Financial Reporting for Segments of
+a Business Enterprise, replacing the Industry Segment approach with the
+Management approach. The management approach designates the internal
+organization that is used by management for making operating decisions and
+assessing performance as the source of the Company reportable segments. SFAS
+131 also requires disclosures about products and services, geographic areas, and
+major customers. The Company operates in one industry segment comprising the
+design, development, manufacture and sale of integrated circuits. The adoption
+of SFAS 131 did not affect results of the Company operations or financial
+position or the segments reported in 1998.
+33
+36
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+ACCOUNTING FOR DERIVATIVES
+In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards SFAS No. 133 Accounting for Derivative
+Instruments and Hedging Activities. SFAS No. 133 establishes standards for
+accounting and reporting on derivative instruments for periods beginning after
+June 15, 2000 and early adoption is permitted. SFAS No. 133 requires that all
+derivative instruments be recognized in the balance sheet as either assets or
+liabilities and measured at fair value. Furthermore, SFAS No. 133 requires
+current recognition in earnings of changes in the fair value of derivative
+instruments depending on the intended use of the derivative and the resulting
+designation. The Company is currently evaluating the effects of the new standard
+and has not determined its method or timing of adopting SFAS No. 133 or the
+impact on its financial statements.
+NOTE 3 -- BALANCE SHEET DETAILS                                 DECEMBER 31,
+1998    1999
+Inventories:
+Raw  $  108  $  17
+4,331   4,490
+Finished   1,938   1,356
+$ 6,377  $ 5,863
+Property and equipment:
+$15,077  $12,844
+Carrying value of assets to be disposed of.  2,594    266
+Leasehold     81    123
+17,752   13,233
+Accumulated   8,313  7,562
+9,439   5,671
+Construction in    949   1,120
+$10,388  $ 6,791
+Accrued liabilities:
+Payroll and  $ 2,074  $ 1,434
+908    398
+$ 2,982  $ 1,832
+NOTE 4 -- RESTRUCTURING AND OTHER CHARGES   During 1998, the Company recorded restructuring and other charges totaling
+$7,258, consisting of $6,515 of items relating to the closure of the Company
+wafer fabrication facility, and $743 relating to other one-time charges.
+In August 1998, the Company announced its plans to shut down its five-inch
+wafer fabrication facility in Mountain View, California and use third party
+foundries for all of its wafer fabrication. In conjunction with the shut-down of
+its wafer fabrication foundry, the Company recorded fab closure charges totaling
+$6,515 to write down and write off manufacturing equipment and facilities
+improvements; accrue for future idle facility space; accrue severance of
+manufacturing and other personnel and other costs.
+34
+37
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+A majority of the Company new products that have been developed in the
+past years utilize sub-micron wafer technology and are currently fabricated by
+outside foundries. All other remaining wafers were fabricated in the Mountain
+View facility. In January 1999, the wafer fabrication facility was shut-down and
+the fabrication equipment is no longer in use and is being held for sale. By the
+end of the first quarter of 1999, all fabrication of wafers was transferred to
+third party foundries. The facility shutdown was a result of developments in the
+semiconductor industry, primarily the availability of low cost wafer fabrication
+capacity and the willingness of outside foundries to offer non-standard
+processes. Competitive designs use submicron technology which allows for more
+die per wafer than the five inch wafer fabrication used in the old Mountain View
+facility. The restructuring charge relating to the write down of the carrying
+value of the Company fabrication equipment to its estimated fair value was
+$4,458. The cost and accumulated depreciation of the fabrication equipment prior
+to the write down was $13,027 and $6,330, respectively. The fair value of the
+fabrication equipment was estimated to be $2,239 and was recorded as assets to
+be disposed of The fair value of the fabrication equipment was based on third
+party estimates of fair value. Separately, during 1998 the Company recorded a
+one time charge relating to, amongst other items, the write-off of certain
+equipment in Mountain View, California. The fair value of the equipment was
+estimated to be $355 and is recorded as assets to be disposed of. During the
+first nine months of 1999, net proceeds for the sale of the equipment was $978.
+Due to the weakness in the market for used semiconductor equipment, the Company
+booked an additional charge in the period ending September 30, 1999 of $997.
+This additional charge and the net proceeds from the equipment sales in the
+fourth quarter of 1999 adjusts the carrying value of the remaining equipment to
+$266 at December 31, 1999. Given the continued oversupply in the used
+semiconductor equipment market, the Company is unable to predict the time needed
+to dispose of the assets classified as assets to be disposed of.
+The restructuring charge for 1998 also included charges for idle facilities
+of $1,406, severance payments totaling $519 for employees terminated upon
+closing of the facility and environmental and related clean up costs of $132.
+Additional restructuring charges were included in the first quarter of 1999 for
+employee severance costs of $243 and environmental and related clean up costs of
+$26. During the period ending September 30, 1999, the Company renegotiated its
+lease for the Mt. View facility by terminating its lease with Teledyne
+Industries in exchange for a sublease of the facility from Clontech
+Laboratories, Inc. The new sublease provides for a reduction in the square
+footage currently occupied by the company by June 1, 2000 which will eliminate
+the idle facility. As a result, the Company reversed idle facility costs of
+$1,047, previously accrued in 1998, leaving a remaining balance of $161 that
+will be amortized through May 2000. Additionally, the Company recorded
+additional restructuring charges in the third quarter 1999 of $50 for additional
+costs associated with the facility clean up and removal of the fabrication
+equipment.
+The following table sets forth the Company activity for the restructuring
+accrual and charges taken against the accrual and the remaining restructuring
+accrual balance at December 31, 1999                            RESTRUCTURING ACCRUAL
+TWELVE MONTHS ENDED
+BALANCE    DECEMBER 31, 1999    BALANCE
+DECEMBER 31,     DECEMBER 31,
+1998    EXPENSE  UTILIZED    1999
+Idle facility charge.   $1,406    $1,047  $ 257    $102
+Employee severance and other.    651      319    927     43
+$2,057    $ 728  $1,184    $145
+NOTE 5 -- GAIN ON SALE OF INVESTMENT   At the end of the quarter ended March 31, 1999, the Company recognized a
+gain of $5,006 on the sale of its investment in IC WORKS. IC WORKS was purchased
+by Cypress Semiconductor, Inc., a publicly held
+35
+38
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+company and, as part of the purchase agreement between IC WORKS and Cypress
+Semiconductor, the Company preferred shares, with a book value of $1,500, were
+exchanged for common shares of Cypress Semiconductor with a fair market value of
+$6,506. As part of the agreement, ten percent of the common shares received by
+the Company are held in escrow pending final closure of the purchase of IC WORKS
+by Cypress Semiconductor or one year from the date of purchase. During the
+quarter ended June 30, 1999, the company sold all of the shares it held, except
+the shares held in escrow, for $6,730 and recognized an additional gain on the
+sale of $813 representing the increase in the fair value between the date the
+shares were received and the date the shares were sold. The value of the shares
+held in escrow at December 31, 1999 is $2,286 and is presented as short term
+investments. These shares are accounted for as an available for sale security in
+accordance with FAS 115.
+NOTE 6 -- INVESTMENT IN SAI   On October 7, 1999, the Company entered into a Common Stock Agreement and a
+Stockholder Purchase Agreement with Silicon Aquarius Incorporated SAI. In
+accordance with the Common Stock Agreement the Company purchased 13 million
+shares of common stock of SAI, representing an 1867% ownership interest in SAI,
+for $30 million. In addition, the Common Stock Agreement provides the Company
+with an option to purchase an additional 17 million shares for $40 million on
+or before October 7, 2000. The Stockholder Purchase Agreement gives the Company
+an option to purchase the remaining outstanding shares from the major
+stockholders of SAI on or before November 30, 2001 at the then fair market value
+of SAI stock. Notwithstanding this determination, the fair market value shall
+not be less than $334 or greater than $900 per share. The Company accounts for
+this investment on the equity method with a 90-day lag in recording the
+Company share of results for the entity.
+NOTE 7 -- INCOME TAXES   The Company accounts for income taxes under an asset and liability approach
+that requires recognition of deferred tax assets and liabilities for the
+expected future tax consequences of events that have been recognized in the
+Company financial statements or income tax returns. Provisions are made for
+estimated United States and foreign income taxes, less available tax credits and
+deductions, which may be incurred on the remittance of certain of the Company
+foreign subsidiaries' undistributed earnings. Deferred taxes have not been
+provided for the cumulative undistributed earnings of foreign subsidiaries which
+are considered by management to be permanently reinvested.
+The components of income loss before income taxes were as follows                          YEAR ENDED DECEMBER 31,
+1997    1998    1999
+U.S.  $1,414  $3,424  $11,879
+2,137    835   2,951
+Income before  $  723  $2,589  $14,830
+36
+39
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+The components of the provision for income taxes were as follows                               YEAR ENDED DECEMBER 31,
+1997   1998   1999
+Current:
+$1,253  $ 993  $ 486
+590    543    667
+507    198    216
+2,350   1,734   1,369
+Deferred:
+77   776   332
+Provision for income  $2,427  $ 958  $1,701
+The components of deferred taxes are as follows                                 DECEMBER 31,
+1998    1999
+Reserves and other non-deductible expenses. $ 3,561  $  102
+Research and development credit carryforwards.   871    877
+Deferred distributor    594    654
+Property and    114     34
+Gross deferral tax   5,140   1,667
+Unremitted earnings of foreign subsidiaries.   400   400
+Unrealized gain on short term     --    679
+Gross deferred tax    400  1,079
+Deferred tax asset valuation   4,041   900
+$  699  $ 312
+Due to the uncertainty of the realization of a portion of deferred tax
+assets, the Company has provided a valuation allowance on these assets to the
+extent there is no current realization at December 31, 1998 and 1999. Upon
+recognition of the Company deferred tax assets, approximately $900 will be
+credited directly to equity as a result of previous exercises of non qualified
+stock options and disqualifying dispositions of incentive stock options.
+The provision for income taxes differs from the amount computed by applying
+the U.S. statutory federal rate to income before taxes as a result of the
+following                               YEAR ENDED DECEMBER 31,
+1997   1998   1999
+Tax at statutory  $ 253  $ 906  $ 5,191
+Differential in rates on earnings of foreign
+158   196   336
+State    507    129    130
+Loss on foundry   1,050    --     Change in valuation    688   1,969   3,141
+Research and development    --    56   154
+87    18     11
+$2,427  $ 958  $ 1,701
+37
+40
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+NOTE 8 -- PREFERRED STOCK   The Company has authorized 5,000,000 shares of undesignated Preferred
+Stock. The Board of Directors has the authority to issue the undesignated
+Preferred Stock in one or more series and to fix the rights, preferences,
+privileges and restrictions granted to or imposed upon any wholly unissued
+shares of undesignated Preferred Stock and to fix the number of shares
+constituting any series in the designations of such series, without any further
+vote or action by the stockholders. The Board of Directors, without stockholder
+approval, can issue Preferred Stock with voting and conversion rights which
+could adversely affect the voting power of the holders of Common Stock. In
+November 1998, the Company designated 30,000 shares of Preferred Stock as Series
+A of Participating Preferred Stock in connection with the adoption of a
+shareholders rights program. The issuance of Preferred Stock may have the effect
+of delaying, deferring or preventing a change in control of the Company.
+NOTE 9 -- COMMON STOCK TREASURY STOCK
+In July 1998, the Company Board of Directors approved a plan to
+repurchase an aggregate of up to 2 million shares of common stock. In October
+1998, the Company Board of Directors approved a plan to repurchase an
+additional 2 million shares of common stock, for a total repurchase of up to 4
+million shares. At December 31, 1999, a total of 31 million shares have been
+repurchased by the Company at an aggregate cost of $12,697 at an average price
+of $407 per share.
+STOCK PURCHASE RIGHTS PLAN
+In November 1998, the Company implemented a plan to protect shareholders'
+rights in the event of a proposed takeover of the Company. Under the plan, each
+share of the Company outstanding common stock carries one right to purchase
+one-thousandth of a share of the Company Series A Participating Preferred
+Stock the Right at an exercise price of $3000 per share. The Right enables
+the holder to purchase common stock of the Company or of the acquiring company
+ten days after a person or group publicly announces it has acquired or has
+tendered an offer for 15% or more of the Company outstanding common stock. The
+Rights are redeemable by the Company at $0001 per Right at any time on or
+before the tenth day following acquisition by a person or group of 15% or more
+of the Company common stock. If prior to redemption of the Rights, a person or
+group acquires 15% or more of the Company common stock, each Right not owned
+by a holder of 15% or more of the common stock or an affiliate of such holder
+will entitle the holder to purchase, at the Right then current exercise price,
+that number of shares of common stock of the Company having a market value at
+the time of twice the Right exercise price. The Rights expire in November
+2008.
+EMPLOYEE STOCK OPTION PLAN
+In February 1994, the Company adopted its 1994 Stock Option Plan the
+Option Plan which provides for the granting of incentive stock options and
+nonstatutory stock options to officers, employees and consultants of the
+Company. Incentive stock options are granted at an amount not less than 100% of
+the fair market value of the stock on the grant date. During 1997, the Board of
+Directors and shareholders approved an increase to the number of shares that may
+be issued under the plan from 2,800,000 shares to 3,300,000 shares. During 1998,
+the Board of Directors and shareholders approved an increase to the number of
+shares that may be issued under the plan from 3,300,000 shares to 4,300,000
+shares. During 1999, the Board of Directors and shareholders approved an
+increase to the number of shares that may be issued under the plan from
+4,300,000 shares to 5,300,000 shares. In January 1996, the Board of Directors
+approved an option exchange program whereby certain employees were able to
+exchange their existing options to purchase an aggregate of
+38
+41
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+418,500 shares of Common Stock at exercise prices ranging from $600 to $875
+for new options to purchase an aggregate of 418,500 shares at $487 per share.
+In June 1998, the Board of Directors approved an option exchange program whereby
+certain employees were able to exchange their existing options to purchase an
+aggregate of 934,243 shares of Common Stock at exercise prices ranging from
+$788 to $1594 for new options to purchase an aggregate of 934,243 shares at
+$431 per share. Generally all employees exchanged their existing options for
+new options. Options generally vest over a four year period. Option terms may
+not exceed ten years from the date of grant and unexercised options expire upon
+termination of employment. The weighted average fair value of options granted
+during 1997, 1998, 1999 was $378, $250 and $526, respectively.
+DIRECTOR STOCK OPTION PLAN
+During 1996, the Company adopted and approved the Company 1996 Director
+Stock Option Plan the Director Plan with 100,000 shares of Common Stock
+reserved for issuance thereunder. Under the Director Plan, each non-employee
+director who joins the Board will automatically be granted a non-statutory
+option to purchase 12,000 shares of Common Stock on the date upon which such
+person first becomes a director. In addition, each non-employee director will
+automatically receive a non-statutory option to purchase 3,000 shares of Common
+Stock upon such director annual re-election to the Board, provided the
+director has been a member of the Board for at least six months upon the date of
+reelection. The exercise price of each option granted under the Director Plan
+must be equal to the fair market value of the Common Stock on the date of the
+grant. The 12,000 share grant vests at the rate of twenty-five percent 25% of
+the option shares upon the first anniversary of the date of grant and as to
+twenty-five 25% of the shares each year thereafter and the 3,000 share grant
+vests monthly over a twelve 12 month period. Options granted under the
+Director Plan have a term of ten years unless terminated sooner, whether upon
+termination of the optionee status as a director or otherwise pursuant to the
+Director Plan. The weighted average fair values of the options granted during
+1997, 1998 and 1999 was $322, $714 and $310 per share, respectively. The
+Board believes that the Director Plan is necessary to attract and retain highly
+qualified individuals to serve as non-employee members of the Board of
+Directors.
+39
+42
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+The Option Plan and the Directors Plan activity is summarized as follows                                 OPTIONS OUTSTANDING
+SHARES                           AVAILABLE            PRICE
+FOR GRANT    SHARES    PER SHARE
+Balance at December 31, 1996.   469,233   2,145,050  $010 - $ 638
+Increase in authorized shares.   500,000       Options  1,008,743  1,008,743  $425 - $1594
+Options      --   327,140  $010 - $ 494
+Options    474,315   474,315  $010 - $1325
+Balance at December 31, 1997.   434,805   2,352,338
+Increase in authorized shares.  1,000,000       Options  2,428,243  2,428,243  $294 - $1038
+Options      --   290,762  $010 - $ 638
+Options   1,481,748  1,481,748  $010 - $1594
+Balance at December 31, 1998.   488,310   3,008,071
+Increase in authorized shares.  1,000,000       Options  1,039,600  1,039,600  $456 - $1669
+Options      --   446,878  $010 - $ 856
+Options    494,678   494,678  $010 - $ 963
+Balance at December 31, 1999.   943,388   3,106,115
+Information relating to stock options outstanding under the Option Plan and
+Director Plan at December 31, 1999 is as follows                                  OPTIONS OUTSTANDING
+WEIGHTED
+AVERAGE       WEIGHTED
+NUMBER      REMAINING      AVERAGE
+OUTSTANDING   CONTRACTUAL LIFE   EXERCISE PRICE
+Range of exercise prices 010 - $    147,863     45 years       $ 015
+$    143,680     53 years       $ 150
+$ 294 - $   1,445,955     83 years       $ 389
+$ 456 - $    943,660     83 years       $ 501
+$ 788 -    169,457     94 years       $1016
+$1244 -    255,500     96 years       $1312
+3,106,115     81 years       $ 500
+40
+43
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA                                  OPTIONS EXERCISABLE
+WEIGHTED
+NUMBER     AVERAGE
+EXERCISABLE  EXERCISE PRICE
+Range of exercise prices:
+$010 - $    147,863     $015
+143,680     $150
+$294 - $    572,659     $397
+$456 - $    291,107     $493
+$788 -    23,459     $826
+1,178,768     $346
+The fair value of each option is estimated on the date of grant using the
+Black-Scholes model with the following assumptions used for grants during 1997,
+1998 and 1999: annual dividend yield of 00% for all periods; risk-free annual
+interest rates of 587% to 667% for options granted during the year ended
+December 31, 1997, 425% to 562% for options granted during the year ended
+December 31, 1998 and 472% to 602% for options granted in the year ended
+December 31, 1999; a weighted average expected option term of five years for all
+periods; and an expected volatility factor of 60% for 1997, 72% for 1998 and 81%
+for 1999.
+EMPLOYEE STOCK PURCHASE PLAN
+In May 1995, the Company adopted its 1995 Employee Stock Purchase Plan
+Purchase Plan. Under the Purchase Plan, an eligible employee may purchase
+shares of Common Stock from the Company through payroll deductions of up to 10%
+of their base compensation plus commissions, at a price per share equal to 85%
+of the fair market value as of the first day or the last day, whichever is
+lower, of each six-month offering period under the Purchase Plan. An employee
+can purchase at the lowest offering period purchase price going back for up to
+two years of participation. The offering periods commence on July 1 and January
+1 of each year. The Company has reserved 200,000 shares of Common Stock for
+issuance under the Purchase Plan. During 1996, the Purchase Plan was amended to
+increase the shares reserved for issuance by 200,000 shares, bringing the total
+number of shares issuable under the Purchase Plan to 400,000. During 1998, the
+Purchase Plan was amended to increase the shares reserved for issuance by
+500,000 shares, bringing the total number of shares issuable under the Purchase
+Plan to 900,000. At December 31, 1999, 480,720 shares of Common Stock had been
+issued under the Purchase Plan, and 419,280 shares remained available for future
+issuance under the Purchase Plan.
+The fair value of each stock award is estimated on the date of grant using
+the Black-Scholes model with the following assumptions used for grants during
+1997, 1998 and 1999: annual dividend yield of 00% for all periods; risk-free
+annual interest rates of 549% to 566% for stock awards granted during the year
+ended December 31, 1997, 527% to 579% for stock awards granted during the year
+ended December 31, 1998 and 451% and 488% for stock swards granted during the
+year ended December 31, 1999; a weighted average expected stock award term of
+six months for all periods; and an expected volatility factor of 60% for 1997,
+72% for 1998 and 81% for 1999.
+FAIR VALUE DISCLOSURES
+Had compensation cost for the Company stock option and stock purchase
+plans been determined based on the fair value of the options at the grant dates
+using the Black-Scholes model as provided by FAS 123, the
+41
+44
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+Company net income loss and net income loss per share for the years ended
+December 31, 1997, 1998 and 1999 would have been as follows                                 YEAR ENDED DECEMBER 31,
+1997    1998    1999
+Net income loss:
+As  $1,704  $3,547  $13,129
+Pro  $3,022  $5,219  $10,289
+Net income loss per share:
+As reported
+$ 011  $ 022  $ 092
+$ 011  $ 022  $ 084
+Pro forma
+$ 019  $ 033  $ 072
+$ 019  $ 033  $ 066   The pro forma amounts reflect compensation expenses related to 1996, 1997,
+1998 and 1999 employee and director option grants and employee stock purchase
+plan awards only. In future years, the annual compensation expense will increase
+due to the expense associated with future grants.
+NOTE 10 -- COMMITMENTS AND CONTINGENCIES   The Company occupies its present principal facilities under non-cancelable
+operating leases expiring May 2003 and July 2000. The Company is required to pay
+taxes, insurance and maintenance expenses.
+Future minimum lease payments under non-cancelable leases at December 31,
+1999 are as follows amounts include payments accrued for idle facility charges;
+see Note 4          YEAR ENDING DECEMBER 31,
+$1,157
+708
+708
+295
+Minimum lease  $2,868
+Rent expense for the years ended December 31, 1997, 1998 and 1999 was $767 867 and $1,460, respectively.
+42
+45
+TELCOM SEMICONDUCTOR, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+NOTE 11 -- SEGMENT INFORMATION   The Company operates in one industry segment comprising the design,
+development, manufacture and sale of integrated circuits. The following is a
+summary of the Company operations                              YEAR ENDED DECEMBER 31,
+1997    1998    1999
+Sales to third-party customers located in:
+United  $19,420  $19,035  $17,302
+18,367   18,373   23,436
+6,288   6,102   4,824
+United   7,872   7,431   9,148
+Other   3,488   3,322   2,612
+$55,435  $54,263  $57,322
+DECEMBER 31,
+1998    1999
+Identifiable assets:
+United  $26,300  $26,052
+Hong   14,074   18,991
+792    898
+$41,166  $45,941
+NOTE 12 -- LOSS ON FOUNDRY INVESTMENT   In November 1995, the Company entered into certain agreements with IC
+WORKS, Inc. a privately-held company located in San Jose, California. Pursuant
+to these agreements, in 1996 the Company purchased $30 million of preferred
+stock of IC WORKS and provided $104 million in capital equipment. In return for
+this investment, TelCom received a guarantee of submicron wafer capacity at
+specified prices for a period of five years, projected to start in late 1997.
+The shortage of wafer capacity projected in late 1995 has diminished and since
+late 1995, substantial foundry capacity has been available worldwide while
+overall demand has not increased proportionately. Consequently, wafer pricing
+has decreased dramatically, which has changed the economic viability of the
+foundry business in which the Company invested. As a result, in the first
+quarter of 1997, the Company recorded an impairment loss on its foundry
+investment of $80 million, consisting of a $30 million write down of the
+preferred stock and a $50 million impairment write down of the equipment. In
+the fourth quarter of 1997, pursuant to an agreement with IC WORKS, the Company
+sold the $104 million dollars of equipment at IC WORKS for $52 million and
+invested an additional $15 million in preferred stock of IC WORKS. This
+agreement terminates the Company operating agreement with IC WORKS. As a
+result of these events and transactions, the Company recorded a loss of $83
+million on its foundry investment in 1997 of which $80 million was recorded in
+the first quarter of 1997, which consists of a $30 million write down of the
+preferred stock, a loss on the sale of the equipment of $52 million, and $1
+million of costs associated with prepayment penalties on financing of the
+equipment and legal fees. Two of the Company directors who served during 1997
+also served as directors of IC WORKS.
+NOTE 13 -- SUBSEQUENT EVENT   On February 1, 2000, the Company invested $16 million for approximately a
+4% equity interest in Central Semiconductor Holdings Company Limited which owns
+100% of Central Semiconductor Manufacturing Company Limited CSMC. CSMC is one
+of the foundries used by the Company to manufacture the Company products.
+43
+46

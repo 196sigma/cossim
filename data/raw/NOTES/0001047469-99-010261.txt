@@ -1,0 +1,913 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO FINANCIAL STATEMENTS
+PAGE
+Report of Arthur Andersen LLP, Independent Public      39
+Consolidated Balance Sheets as of December 31, 1998 and      40
+Consolidated Statements of Operations for the years ending December 31, 1998, 1997 and 1996.     41
+Consolidated Statements of Stockholders' Equity for the years ending December 31, 1998, 1997 and 1996.     42
+Consolidated Statements of Cash Flows for the years ending December 31, 1998, 1997 and 1996.     43
+Notes to Consolidated Financial      44
+37
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+To Transaction Network Services, Inc.:
+We have audited the accompanying consolidated balance sheets of Transaction
+Network Services, Inc. a Delaware corporation and subsidiaries as of December
+31, 1998 and 1997, and the related statements of operations, stockholders'
+equity and cash flows for each of the three years in the period ended December
+31, 1998. These financial statements are the responsibility of the Company
+management. Our responsibility is to express an opinion on these financial
+statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform an audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Transaction Network
+Services, Inc. and subsidiaries as of December 31, 1998 and 1997, and the
+results of their operations and their cash flows for each of the three years in
+the period ended December 31, 1998, in conformity with generally accepted
+accounting principles.
+ARTHUR ANDERSEN LLP
+Washington, D.C.
+February 10, 1999
+38
+TRANSACTION NETWORK SERVICES, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS
+DECEMBER 31,  DECEMBER 31,
+1998      1997
+ASSETS
+CURRENT ASSETS:
+Cash and cash   $  12,339   $ 18,516
+Short-term      3,092     9,899
+Accounts receivable, net
+Trade accounts     15,230     9,635
+TAS     13,076       Due from       530      389
+Other current      5,477     2,047
+Total current     49,744    40,486
+EQUIPMENT, at cost:
+Network     47,296    30,101
+Office      7,381     4,802
+Less--Accumulated     20,897   14,314
+33,780    20,589
+INTANGIBLE ASSETS:
+Goodwill and other     93,404    14,119
+Less--Accumulated     8,989    4,742
+84,415     9,377
+OTHER      1,142      877
+LONG-TERM      3,404     4,780
+INVESTMENT IN UNCONSOLIDATED      2,374                                                    Total   $  174,859   $ 76,109
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES:
+Accounts payable and accrued   $  28,532   $  7,256
+LONG-TERM     59,325     DEFERRED INCOME TAX, net of current       402      378
+MINORITY      2,423                                                    Total     90,682     7,634
+COMMITMENTS AND CONTINGENCIES
+STOCKHOLDERS' EQUITY:
+Common stock, $001 par value, 20,000 shares authorized, 12,803 and 12,476 shares
+issued,       128      125
+Additional paid-in     57,487    51,292
+Treasury stock, none and 211 shares, at     --       2,491
+Unearned       16     46
+Retained     26,523    19,658
+Accumulated comprehensive income:
+Foreign currency       55      63
+Total stockholders'     84,177    68,475
+Total liabilities and stockholders'   $  174,859   $ 76,109
+The accompanying notes are an integral part of these consolidated balance
+sheets.
+39
+TRANSACTION NETWORK SERVICES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS
+YEARS ENDED DECEMBER 31,
+1998    1997    1996
+$ 101,906 $ 63,344 $ 52,291
+Cost of network    62,796   35,322   28,771
+Gross    39,110   28,022   23,520
+Other operating expenses:
+Engineering &     5,565   3,431   2,692
+Selling, general &    12,474   7,941   7,491
+6,693   4,793   4,068
+Amortization of     4,090   1,570   1,485
+Total other operating    28,822   17,735   15,736
+Income from operations before provision for income taxes, equity in earnings of
+unconsolidated affilliate and minority    10,288   10,287   7,784
+Interest     1,532   1,939   1,670
+Interest    1,205  --                                                  Income before provision for income taxes, equity in earnings of unconsolidated
+affiliate and minority    10,615   12,226   9,454
+Provision for income     4,425   4,840   3,640
+Equity in earnings of unconsolidated      356   --     Minority interest in net loss of consolidated      319   --                                                  Net  $  6,865 $  7,386 $  5,814
+Diluted earnings per common  $   052 $  059 $  046
+Basic earnings per common  $   054 $  060 $  047
+Weighted average    13,279   12,619   12,591
+Weighted average common shares    12,620   12,256   12,260
+The accompanying notes are an integral part of these consolidated statements.
+40
+TRANSACTION NETWORK SERVICES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+FOR THE YEARS ENDING DECEMBER 31, 1998, 1997 AND 1996
+IN THOUSANDS                                    STOCKHOLDERS' EQUITY
+COMMON STOCK    ADDITIONAL             TREASURY STOCK      FOREIGN
+PAID-IN    UNEARNED      CURRENCY
+SHARES    AMOUNT    CAPITAL   COMPENSATION   SHARES    AMOUNT    TRANSLATION
+BALANCE, December 31, 1995.   12,138  $   121  $ 48,120   $  106    --    $ --     $  Amortization of unearned
+compensation.   --      --      --         30     --      --       Stock issued under benefit
+plans.     190      2     891     --       --      --       Tax benefit of exercise of non-
+qualified options.   --      --       833     --       --      --       Foreign currency translation.   --      --      --       --       --      --         28
+Net income.   --      --      --       --       --      --                                                                                                            BALANCE, December 31, 1996.   12,328     123    49,844      76    --      --         28
+Total, December 31, 1996.
+Amortization of unearned
+compensation.   --      --      --         30     --      --       Stock issued under benefit
+plans.     148      2    1,105     --       --      --       Purchase of treasury stock.   --      --      --       --        211    2,491     Tax benefit of exercise of non-
+qualified options.   --      --       343     --       --      --       Foreign currency translation.   --      --      --       --       --      --        91
+Net income.   --      --      --       --       --      --                                                                                                            BALANCE, December 31, 1997.   12,476     125    51,292      46      211    2,491      63
+Total, December 31, 1997.
+Amortization of unearned
+compensation.   --      --      --         30     --      --       Stock issued under benefit
+plans.     251      2    2,133     --       --      --       Issuance of common stock for
+acquisition.     76      1    2,758     --        211    2,491     Tax benefit of exercise of non-
+qualified options.   --      --      1,304     --       --      --       Foreign currency translation.   --      --      --       --       --      --        118
+Net income.   --      --      --       --       --      --                                                                                                            BALANCE, December 31, 1998.   12,803  $   128  $ 57,487   $   16    --      --     $   55
+Total, December 31, 1998.
+RETAINED   COMPREHENSIVE
+EARNINGS    INCOME
+BALANCE, December 31, 1995.  $  6,458   $  Amortization of unearned
+compensation.   --       Stock issued under benefit
+plans.   --       Tax benefit of exercise of non-
+qualified options.   --       Foreign currency translation.   --         28
+Net income.    5,814     5,814
+BALANCE, December 31, 1996.   12,272
+Total, December 31, 1996.           5,842
+Amortization of unearned
+compensation.   --       Stock issued under benefit
+plans.   --       Purchase of treasury stock.   --       Tax benefit of exercise of non-
+qualified options.   --       Foreign currency translation.   --        91
+Net income.    7,386     7,386
+BALANCE, December 31, 1997.   19,658
+Total, December 31, 1997.           7,295
+Amortization of unearned
+compensation.   --       Stock issued under benefit
+plans.   --       Issuance of common stock for
+acquisition.   --       Tax benefit of exercise of non-
+qualified options.   --       Foreign currency translation.   --        118
+Net income.    6,865     6,865
+BALANCE, December 31, 1998.  $ 26,523
+Total, December 31, 1998.         $  6,983
+The accompanying notes are an integral part of these consolidated statements.
+41
+TRANSACTION NETWORK SERVICES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS
+YEARS ENDED DECEMBER 31,
+1998    1997    1996
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net  $  6,865 $  7,386 $  5,814
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and    10,783   6,363   5,553
+Unearned      30     30     30
+Loss on disposals of    --       39     14
+Deferred income     297    314     Equity in earnings of unconsolidated     356  --       Loss applicable to minority     319  --      Changes in assets and liabilities, net of effects of acquisitions:
+Accounts   18,713  1,549  1,634
+Other current    2,247   827    13
+Other     265   399    441
+Accounts payable and accrued    20,056   1,573    230
+Net cash provided by operating    16,131   12,302   10,001
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of   17,935  11,365  6,250
+Purchases of intangible    --      227  1,682
+Acquisitions, net of cash   71,515   182    Investment in unconsolidated    2,018  --      Proceeds from disposals of    --       30    107
+Collection of note    --     --     3,600
+Maturities purchases of short-term investments,    4,902   5,801  11,149
+Purchases of long-term    --     4,281   162
+Maturities of long-term    1,376   2,835                                                    Net cash used in investing   85,190  7,389  15,536
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from options and employee stock purchase    2,135   1,107    728
+Income tax benefit of deduction for income tax purposes on exercise of
+non-qualified stock    1,304    343    833
+Purchases of treasury    --     2,491    Proceeds from    64,325   --      Repayment of long term    5,000  --                                                      Net cash provided by used in financing    62,764   1,041   1,561
+EFFECT OF EXCHANGE RATE CHANGES ON     118    91    28
+NET DECREASE INCREASE IN CASH AND CASH
+6,177   3,781   3,946
+CASH AND CASH EQUIVALENTS, beginning of    18,516   14,735   18,681
+CASH AND CASH EQUIVALENTS, end of  $ 12,339 $ 18,516 $ 14,735
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Common Stock issued for 401k matching  $ --   $ --   $   165
+Cash paid for income    4,893   4,846   3,088
+Cash paid for     730   --      Conversion of accounts receivable to term    --      316    Fair value of assets  $ 77,504 $ --   $   Less: Cash paid,   71,515     Value of stock    5,250  --                                                      Liabilites  $   739 $ --   $                                                                                                Cancellation of note receivable in exchange for  $  1,905 $ --   $  
+The accompanying notes are an integral part of these consolidated statements.
+42
+TRANSACTION NETWORK SERVICES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES:
+Transaction Network Services, Inc. the Company or TNS was incorporated
+in August 1990 to build and operate a communications network focused on the
+network services needs of the POS Point-of-Sale/ Point-of-Service transaction
+processing industry through its POS division. In September 1998, the Company
+significantly expanded its POS network services business through a $643 million
+acquisition of the rights to provide services under certain customer service
+contracts relating to AT Corp. Transaction Access Service TAS.
+Additionally, in 1998, the Company expanded the service offerings of its POS
+division through the acquisitions of certain assets of Suntech Processing
+Systems, LLC Suntech and OmniLink Communications Corporation OmniLink.
+Suntech proprietary host-interface processing technology allows for leased
+line automated teller machines ATM to be converted into dial-up ATM.
+OmniLink develops, manufactures and markets modems for electronic commerce,
+Internet access, telecommuting and advanced office communications.
+In June 1994, the Company acquired Fortune Telecommunications, Inc. FTI
+of Ft. Lauderdale, Florida, which formed the Company Telecom Services Division
+TSD. TSD provides customers in the telecommunications industry with
+telephone call fraud control, billing validation and other services.
+In March 1997, the TNS Financial Services Division was created to serve the
+data communications needs of the financial services industry. In January 1999,
+the Company acquired Transline Communications, Inc. Transline in a
+transaction structured to be accounted for as a pooling of interests.
+Transline core business is comprised of voice and data services provided to
+financial institutions for futures, options, and commodities trading.
+In June 1996, the Company formed Transaction Network Services Limited
+TNSL, a majority-owned subsidiary. TNSL provides POS network services in
+Ireland and serves as TNS' European technology and marketing center to support
+current and future European operations. In October 1997, through TNSL, the
+Company acquired a majority interest in Pronoma Systems AB which has been
+renamed Transaction Network Services TNS AB TNSAB and operates as a TNSL
+subsidiary located in Stockholm, Sweden. In April 1998 the Company, through
+TNSL, acquired a 50% interest in ATOS Ireland Limited Atos. Atos has been
+renamed Switchtran Limited Switchtran and provides processing services,
+primarily for cash withdrawals, for a network of ATM located throughout
+Ireland. In September 1998, the Company entered into a 60% owned joint venture
+in the United Kingdom UK named Transaction Network Services UK Limited
+TNSUK. TNSUK operates as a TNS subsidiary located in Sheffield, England. In
+November 1998, the Company, through TNSL, formed Transaction Network Services,
+Societe Anonyme. TNSSA. TNSSA operates as a TNS subsidiary located in Paris,
+France. In January 1999, the Company acquired Transline Ltd.--a wholly-owned
+subsidiary of Transline, located in London, England. TNSL, TNSAB, TNSUK, TNSSA
+and Transline, Ltd. utilize the Company network technology to provide POS and
+other transaction services in their respective countries.
+The Company currently operates four segments or divisions: 1 the POS
+Division which includes the Company TransXpress-Registered Trademark- network
+services for the POS transaction processing industry, 2 the Telecom Services
+Division TSD which includes FTI CARD*TEL-Registered Trademark- telephone
+call billing validation and fraud control services and other services targeting
+primarily the telecommunications industry, 3 the Financial Services Division
+FSD which provides the TNS FastLink-Registered Trademark- Data Service and
+other transaction oriented trading applications primarily to the financial
+services industry, and 4 the International Systems Division ISD which
+markets the Company products and services internationally.
+The consolidated financial statements include the accounts of the Company
+and its subsidiaries. All significant intercompany transactions and balances
+have been eliminated in consolidation.
+The majority of the Company revenues are derived from the transmission of
+POS transactions predominantly credit and debit card transactions, that are
+processed electronically by a small number of third party POS
+43
+transaction processors. The Company TransXpress-Registered Trademark- network
+services implement proprietary technology that provides a communications link
+between the merchant site and the transaction processor. The Company markets its
+TransXpress-Registered Trademark-network services directly to third party POS
+transaction processors, who in turn resell the Company network services as a
+part of the processors' own services.
+The Company CARD*TEL-Registered Trademark- telecommunications services
+utilize proprietary fraud control technology and databases to provide real-time
+telephone call billing validation and fraud control services to the
+telecommunications industry, including long distance telephone companies,
+operator services providers, information services providers and private pay
+telephone companies.
+The TNS FastLink-Registered Trademark- Data Service includes primarily
+electronic communication of indications of interest, orders and execution
+reports that are normally phoned between traders or transmitted via proprietary
+systems over a secure TCP/IP network developed, operated and maintained by TNS.
+The Company operations are subject to certain risks and uncertainties
+including, among others, reliance on major customers, rapidly changing
+technology, the Year 2000, limited suppliers, current and potential competitors
+with significantly greater financial, technical and marketing resources,
+government regulation and the ability to successfully integrate acquired
+operations.
+USE OF ESTIMATES IN THE PREPARATION OF FINANCIAL STATEMENTS
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+DILUTED AND BASIC EARNINGS PER SHARE
+Basic earnings per share excludes dilution and is computed by dividing
+income available to common stockholders by the weighted-average number of common
+shares outstanding for the period. Diluted earnings per share reflects the
+potential dilution that could occur if securities or other contracts to issue
+common stock were exercised or converted into common stock. Options to purchase
+79,800 shares of common stock in the price range of $2263 through $2550 per
+share were outstanding during 1998 but were not included in the computation of
+diluted earnings per share because the options' exercise price was greater than
+the average market price of the common shares.
+1998      1997      1996
+Weighted average common shares outstanding -basic.   12,619,577   12,255,729   12,259,533
+Dilutive effect of stock     658,956    362,807    331,424
+Weighted average    13,278,533   12,618,536   12,590,957
+Diluted earnings per  $    052 $    059 $    046
+Basic earnings per  $    054 $    060 $    047
+RECENT AUTHORITATIVE PRONOUNCEMENTS
+In June 1997, the Financial Accounting Standards Board FASB issued
+Statement No. 130 Reporting Comprehensive Income. Statement No. 130 requires
+the Company to present an aggregate amount of comprehensive income and the
+components of other comprehensive income in its 1998 financial statements
+and/or notes thereto. The Company adopted Statement No. 130 in 1998. In July
+1997, the FASB issued Statement No. 131 Disclosures About Segments of an
+Enterprise and Related Information. Statement No. 131 requires the Company to
+disclose segment information using a management approach beginning with its
+44
+December 31, 1998 financial statements. The Company adopted Statement No. 131 in
+1998. In March 1998, the AICPA issued Statement of Position 98-1 Accounting for
+the Costs of Computer Software Developed or Obtained for Internal Use, SOP
+98-1. SOP 98-1 requires the Company to capitalize internal computer software
+costs once certain capitalization criteria are met. SOP 98-1 is effective
+January 1, 1999 and is applied to all projects in progress upon the initial
+application of the SOP. A significant percentage of the Company historical
+engineering and development expenses are costs that are now required to be
+capitalized under SOP 98-1. Accordingly, the Company expects SOP 98-1 to have a
+material impact by reducing the Company 1999 engineering and development
+expenses. In June 1998, the FASB issued Statement No. 133 Accounting for
+Derivative Instruments and Hedging Activities. Statement No. 133 establishes
+accounting and reporting standards for derivative instruments including
+instruments embedded in other contracts and for hedging activities. It requires
+that an entity recognize all derivatives as either assets or liabilities in the
+balance sheet and measure those instruments at fair value. The Company will be
+required to adopt Statement No. 133 on January 1, 2000. Statement No. 133 will
+not be applied retroactively to the financial statements of prior periods. The
+Company has not yet determined the impact of adopting Statement No. 133.
+FINANCIAL INSTRUMENTS
+The Company considers all securities purchased with an original maturity of
+three months or less at the date of purchase to be cash equivalents. The Company
+determines the appropriate classification of its investments at the time of
+purchase and reevaluates such designation at each balance sheet date. At
+December 31, 1998 and 1997, the Company marketable securities consisted
+primarily of money market accounts classified as cash equivalents, U.S.
+government and government agency securities, and investment grade corporate
+bonds, all of which the Company has both the positive intent and ability to hold
+until maturity. These securities are reported at amortized cost. The contractual
+maturities of held to maturity securities are all less than one year.
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+The following methods and assumptions were used to estimate the fair value
+of each class of financial instruments for which it was practicable to estimate
+that value:
+CURRENT ASSETS AND CURRENT LIABILITIES
+The carrying amount approximated fair value because of the short maturity of
+these instruments.
+INVESTMENTS
+At December 31, 1998, the fair values of marketable securities based on
+quoted market prices on national exchanges approximated the carrying amounts.
+Certain of the Company financial instruments included in investments have no
+quoted market prices. The Company believes by reference to stated interest rates
+and collateral held, the fair value of the assets would not differ materially
+from their carrying values.
+LONG-TERM DEBT
+The fair value of the Company long-term debt is based upon quoted market
+prices for the same and similar issues, giving consideration to quality,
+interest rates, maturity and other characteristics. At December 31, 1998, the
+fair value approximated the carrying amount since the interest rate will be
+reset in May 1999.
+CREDIT RISK
+The Company assets that are exposed to credit risk consist primarily of
+cash equivalents, investments including non-marketable securities of
+approximately $37 million, and accounts receivable. The Company places its
+marketable security investments in instruments that meet high credit quality
+standards as specified in the Company investment policy guidelines. Marketable
+securities were approximately $27 million at December 31, 1998, all of which
+mature in less than one year. The Company invests in non-marketable securities
+after
+45
+consideration of the financial condition of the borrower and the overall
+business relationship. Non-marketable securities were approximately $37 million
+at December 31, 1998. Non-marketable securities mature on the following dates 300,000 in 1999, $350,000 in 2000, $150,000 in 2001, $600,000 in 2002 and $23
+million in 2005. Accounts receivable consist of geographically dispersed
+customers, and the Company has not experienced significant losses related to
+uncollectible accounts from its POS, FSD or international customers. Revenues
+from its telecommunications services customers are subject to a higher degree of
+credit risk than is the case for the Company POS services customers. The
+Company reserves for the credit risk associated with this customer base. The
+allowance for doubtful accounts was $558,000 at December 31, 1998 and $530,000
+at December 31, 1997. The Company 5 largest customers represented 44% of total
+revenues for the year ended December 31, 1998.
+LONG-LIVED ASSETS
+The Company long-lived assets consist of network equipment and intangible
+assets. The Company periodically reviews the value of its long-lived assets to
+determine if an impairment has occurred. The Company considers expected cash
+flows and estimated future operating results, trends, and other available
+information in assessing whether the long-lived asset is impaired.
+EQUIPMENT
+Network and office equipment is recorded at cost. Depreciation expense is
+calculated using the straight-line method. Network equipment is depreciated over
+estimated useful lives of three to seven years. Office equipment is depreciated
+over estimated useful lives of three to ten years. Leasehold improvements are
+amortized over the lesser of the useful life or the lease term.
+INTANGIBLE ASSETS
+Intangible assets primarily consist of goodwill, contract rights,
+non-compete agreements, and software. Intangible assets are amortized on a
+straight-line basis over useful lives ranging from two to twenty years.
+REVENUE RECOGNITION
+The Company recognizes services revenue as the related services are
+performed. Advance payments for services are deferred and recognized as revenue
+when earned. POS services revenue is derived primarily from the transmission
+through the Company network of transaction information between merchant or
+service provider POS terminals and transaction-processing computer centers. TSD
+revenue consists primarily of fees charged on a per query basis to customers for
+telephone call fraud-control and billing validation services. FSD revenue is
+derived primarily from monthly recurring fees. International revenue consists
+primarily of POS services revenue, royalties, software license fees and
+equipment sales. Revenue from equipment sales is recognized upon shipment.
+Revenue from software licenses is recognized ratably over the term of the
+agreement. Revenue from royalties is recognized when earned.
+COST OF NETWORK SERVICES
+Cost of network services principally includes usage charges for data
+transmission and database access, leased digital transmission capacity charges,
+transmission capacity installation charges, activation charges, salaries,
+equipment maintenance and other related network costs. These costs are expensed
+by the Company as incurred. Depreciation expense on network equipment was
+$5,367,000, $4,124,000 and $3,623,000 for the years ended December 31, 1998,
+1997 and 1996, respectively, and is included in depreciation expense.
+ENGINEERING AND DEVELOPMENT COSTS
+Expenditures for engineering and development activities are charged to
+expense as incurred.
+46
+INCOME TAXES
+The Company accounts for income taxes in accordance with Statement of
+Financial Accounting Standards No. 109, Accounting for Income Taxes. Under
+Statement No. 109, deferred tax assets or liabilities are computed based upon
+the difference between financial statement and income tax bases of assets and
+liabilities using the enacted marginal tax rate. Deferred income tax expense or
+benefits are based upon the changes in the asset or liability from period to
+period.
+MAJORITY OWNED SUBSIDIARIES
+The Company has provided the minority shareholders of TNSL, TNSAB,
+Switchtran and TNSUK the right to put their shares to the Company at the fair
+value of the shares at the exercise date. The Company also has the right to call
+the minority shares of TNSL, TNSAB and TNSUK at fair value. The put and call
+provisions related to TNSL are exercisable beginning in 2000 and expire in 2007.
+The put and call provisions related to TNSAB are exercisable beginning in 2001
+and expire in 2003. The put provisions related to Switchtran are exercisable
+between February 1, 1999 and March 31, 1999. The Switchtran put price was
+approximately $20 million at December 31, 1998. The put and call provisions
+related to TNSUK are exercisable beginning in 2003 and expire in 2005. Fair
+value amounts for these puts and calls are not available as they represent an
+interest in companies whose stock is not publicly traded.
+RECLASSIFICATIONS
+Certain reclassifications of prior year amounts have been made to conform
+with the current year presentation.
+2. ACQUISITIONS, INVESTMENTS AND OTHER ASSETS:
+AMNEX, INC.
+On March 29, 1996, the Company completed an asset purchase from AMNEX, Inc.
+AMNEX of AMNEX proprietary fraud-control system and related databases used
+to provide fraud control and billing validation services. The transaction also
+included a ten-year exclusive service agreement and other agreements. The
+Company paid approximately $15 million in cash for these assets.
+In December 1997, the Company entered into a consulting agreement with AMNEX
+in exchange for certain revisions made to the exclusive service agreement. The
+consulting agreement required an initial payment of approximately $180,000 and
+monthly payments of approximately $33,000 through June 30, 2002. The consulting
+agreement provided that, in the case of a material breach by AMNEX, the
+remaining monthly payments become immediately due and payable as liquidated
+damages. In May 1998, the Company delivered a notice of default to AMNEX for
+non-payment of fees under the exclusive service agreement and consulting
+agreement. On July 29, 1998, the Company filed arbitration proceedings with the
+American Arbitration Association against AMNEX. In January 1999, prior to the
+commencement of the arbitration proceedings, the parties entered into a
+settlement agreement. The settlement agreement required AMNEX to pay $530,000 of
+accounts receivable, which was collected in 1999. AMNEX further agreed to pay
+the Company $17 million, with interest, in 24 equal monthly installments of
+approximately $79,000 beginning in March 1999. The monthly payments are to be
+made directly to the Company from AMNEX billing agent. As of December 31 1998,
+the Company has net assets related to AMNEX of approximately $16 million,
+including accounts receivable of approximately $530,000 and intangible assets of
+approximately $11 million.
+CONVERTIBLE DEBT
+In July 1997, the Company obtained a five-year exclusive data services
+agreement, a joint marketing agreement and invested $20 million in the form of
+a subordinated convertible note with another company. Interest on the note is
+payable each August, beginning in August 1998. Alternatively, under the terms of
+the
+47
+note, the borrower may issue an additional note equal to the accrued interest on
+terms and with rights identical to the original note. In August 1998, the
+borrower issued a $300,000 note for the amount of interest accrued on the
+original note. At any time, the Company may convert all or any portion of the
+principal plus accrued interest into a minority interest in the customers'
+common stock. The borrower may redeem up to 50% of the notes at any time up
+until August 1999 at a specified annual internal rate of return. The notes
+mature in August 2005, and as a result, the notes are recorded as long-term
+investments. The notes are classified as available for sale securities due to
+their conversion provisions. Fair value approximated carrying value at December
+31, 1998.
+TERM LOANS
+In July 1997, the Company entered into a $250,000 secured term loan with a
+customer. The Company also paid this customer $500,000 for a software license to
+use the customer proprietary call monitoring and screening system and related
+databases along with an option to purchase a minority interest in the customer.
+Certain collateral secures the term loan, interest is payable monthly, and
+principal payments are due in three annual payments on the next three loan
+anniversary dates. In connection with the term loan, the Company signed a debt
+subordination agreement with the customer senior creditor. In April 1998, the
+Company received notice from the senior creditor that the borrower was in
+default. Under the debt subordination agreement, the Company could not receive
+payments from the customer for a specified period. Management is negotiating
+terms for payment of the loan. In the event that the result of these
+negotiations is unsatisfactory to management, the Company will consider all
+options available under the loan and applicable law. Management believes that
+these assets are recoverable through future cash flows. Any adjustment to the
+book value of these assets will result in a non-cash accounting charge. At
+December 31, 1998, there was $250,000 outstanding under this term loan.
+In August 1997, the Company made a $500,000 secured term loan to a company.
+Interest is payable monthly and principal was due in February 1998. The customer
+repaid $100,000 of principal in 1997. In February 1998, the Company agreed to
+amend the term loan to provide for equal monthly payments of principal and
+interest over a 24-month period. At December 31, 1998, there was $260,000
+outstanding under this term loan.
+In December 1997, the Company executed a $450,000 secured term loan with a
+customer. The principal balance included the conversion of approximately
+$316,000 of accounts receivable. Interest is payable monthly beginning February
+1998. Principal is payable in 36 monthly installments beginning January 2000.
+Certain collateral, including the stock of the customer, secures the loan. At
+December 31, 1998, there was $450,000 outstanding under this term loan.
+SUNTECH PROCESSING SYSTEMS, LLC
+On February 27, 1998, the Company acquired certain assets and assumed
+certain liabilities of Suntech Processing Systems, LLC Suntech, a Texas
+limited liability company. The total consideration paid was $175 million,
+composed of a $1225 million in cash, and b 287,474 shares of the Company
+common stock valued at $525 million, plus direct acquisition costs. The Company
+acquired Suntech dial-up ATM transaction processing segment the Processing
+Business and Suntech proprietary host-interface processing HIP
+technology segment, which allows for leased line ATMs to be converted into
+dial-up ATMs. The Suntech acquisition was accounted for as a purchase. Amounts
+allocated to intangible assets including customer contracts, non-compete
+agreements, software and goodwill in the purchase accounting are amortized on a
+straight-line basis over periods ranging from 2 to 10 years.
+On July 23, 1998, the Company sold the Processing Business to a customer of
+the Company. Consideration received was $60 million in cash and the Company
+retained certain equipment and accounts receivable of the Processing Business.
+The terms of the sale also included: a a software license whereby the Company
+retained a non-exclusive, perpetual right to use certain software associated
+with the Processing Business at locations
+48
+outside the United States; and b an agreement whereby the customer committed,
+under certain circumstances, to purchase certain modems from the Company during
+a three-year period.
+OMNILINK COMMUNICATIONS CORPORATION
+On July 1, 1998, the Company acquired substantially all of the assets and
+assumed certain liabilities composed principally of trade accounts payable and
+accrued liabilities of OmniLink, a Michigan corporation. The consideration paid
+to OmniLink was $25 million which was composed of a approximately $600,000 in
+cash, plus direct acquisition costs, and b approximately $19 million by
+cancellation of a note payable from OmniLink to the Company. A limited
+partnership controlled by the Company Chief Executive Officer and a venture
+capital firm, one of whose partners is a Company director, each are minority
+shareholders in OmniLink. The terms of the acquisition also provide for a
+royalty payment from the Company to OmniLink of up to approximately 5% of the
+price per unit based upon future OmniLink product sales. The royalty agreement
+will terminate upon the earlier of the date that OmniLink has received royalties
+aggregating $5,000,000 or June 30, 2001. During 1998, the Company paid royalties
+of $10,000. The OmniLink acquisition was accounted for as a purchase. Amounts
+allocated to goodwill in the purchase accounting are amortized on a
+straight-line basis over 10 years. The purchase price allocations have been
+completed on a preliminary basis and are subject to adjustment, should new or
+additional facts about the business become known.
+AT CORP.'S TRANSACTION ACCESS SERVICE
+On September 10, 1998, the Company acquired from AT Corp. AT the
+right to provide services under certain customer service contracts relating to
+AT Transaction Access Service TAS as well as certain equipment used by
+AT in furnishing this service. The consideration paid for these assets was
+approximately $643 million in cash, plus direct acquisition costs. The source
+of the funds used to acquire these assets was a revolving credit facility the
+Revolver. The Company also entered into a service agreement Communication
+Services Agreement with AT under which the Company agreed to purchase a
+minimum of $10 million in communications services per year from AT during the
+two-year period beginning February 1, 1999.
+In connection with this transaction, the Company has agreed to purchase
+transitional communication and other services Transitional Services from
+AT until the TAS customers are migrated from AT network to the TNS
+network. The rates for these Transitional Services are greater than the rates
+the Company incurs when utilizing its own network, greater than the rates under
+the Communication Services Agreement with AT and greater than the rates the
+Company has contracted with its other vendors.
+The TAS acquisition was accounted for as a purchase. Amounts allocated to
+intangible assets including customer contracts, a non-compete agreement, and
+goodwill in the purchase accounting are amortized on a straight-line basis over
+periods ranging from 3 to 20 years. The purchase price allocations have been
+completed on a preliminary basis and are subject to adjustment, should new or
+additional facts about the business become known.
+The unaudited pro forma information for the periods set forth below give
+effect to the Suntech transaction and the subsequent sale of the Processing
+Business, the OmniLink transaction, and the TAS transaction as if they had
+occurred at the beginning of each period. The unaudited pro forma information is
+presented for informational purposes only and is not necessarily indicative of
+the results of operations that actually would have been achieved had the
+acquisitions been consummated as of that time in thousands:
+YEAR ENDED     YEAR ENDED
+DECEMBER 31, 1998 DECEMBER 31, 1997
+$  142,283    $  111,807
+Net      11,322       11,097
+Diluted earnings per    $   085    $   086
+Basic earnings per    $   089    $   088
+49
+TRANSACTION NETWORK SERVICES UK LIMITED
+The Company purchased its 60% in TNSUK for approximately $40 million in
+cash. General Cable, the minority partner, contributed customer contracts,
+business relationships, goodwill and certain network equipment in exchange for
+its 40% interest. The customer contracts and goodwill are being amortized over
+10 years on a straight line basis. General Cable, which was subsequently merged
+with Telewest Communications PLC, provides TNSUK certain telecommunication and
+management services. TNSUK paid approximately $825,000 for these services in
+1998.
+3. INTANGIBLE ASSETS
+Intangible assets consist of the following as of December 31 in thousands.
+1998    1997
+$ 73,492 $  9,126
+Contract    12,667   1,667
+2,505   1,527
+Non-compete    3,200    500
+1,540   1,299
+$ 93,404 $ 14,119
+4. ACCOUNTS PAYABLE AND ACCRUED EXPENSES:
+Accounts payable and accrued expenses consist of the following as of
+December 31 in thousands.
+1998    1997
+Accounts payable and accrued network  $ 10,046 $  4,601
+Amounts due to AT primarily for Transitional Services.   16,302   Accrued payroll and related     909    649
+Deferred     761    638
+514   1,368
+$ 28,532 $  7,256
+5. CREDIT AGREEMENT:
+In connection with the TAS acquisition, the Company entered into the
+Revolver. The Revolver provides for unsecured LIBOR or base rate borrowings at
+the Company option. A margin is added to the applicable LIBOR or base rate
+based upon the Company ratio of total debt to annualized operating cash flow,
+as defined. The interest rate at December 31, 1998 was 595% LIBOR plus 75
+basis points and the weighted average interest rate was 623% for 1998. The
+LIBOR loan outstanding at December 31, 1998, matures in May 1999. Interest on
+LIBOR loans is paid at expiration or, for LIBOR loans with an original maturity
+of greater than 90 days, both at 90 days from inception and on expiration.
+Interest on base rate loans is paid on March 31, June 30, September 30, and
+December 31. The Revolver matures in September 2001 and is subject to annual
+renewals thereafter. Borrowings may be repaid at any time without penalty
+subject to minimum repayment amounts. The Revolver includes a commitment fee
+based upon the average unused balance. The Revolver also includes certain
+financial and non-financial restrictive covenants including minimum operating
+cash flow requirements and limitations on investments, other borrowings, capital
+expenditures and acquisitions. Acquisitions are subject to pro-forma covenant
+compliance. Due to market conditions subsequent to year-end, the Company and its
+primary lender, agreed to temporarily reduce the maximum borrowing under the
+Revolver from $75 million to $62 million until June 30, 1999, while the primary
+lender seeks an additional bank to participate in the
+50
+syndication. Accordingly, the current amount available for additional borrowings
+under the Revolver is approximately $27 million. Should an additional bank
+elect to participate in the syndication, the Revolver will be increased to its
+previous $75 million limitation, however, if an additional bank is not located,
+the Revolver will be permanently reduced to $60 million.
+6. INCOME TAXES:
+The components of income tax expense benefit for the years ending December
+31, 1998, 1997 and 1996 consist of the following in thousands.
+1998    1997    1996
+Current provision:
+$  4,253 $  4,649 $  3,262
+469    505    378
+Deferred benefit provision:
+267   283        30    31                                                                         $  4,425 $  4,840 $  3,640
+The provision for income taxes results in effective rates for the years
+ending December 31, 1998, 1997 and 1996, which differ from the Federal statutory
+rate as follows.
+1998    1997    1996
+Statutory Federal income tax     350%   350%   350%
+Impact of graduated     10   10   10
+State income taxes, net of Federal tax benefit.    38    37    40
+Effect of losses of foreign     39    19    05
+Effective     417%   396%   385%
+The components of the net deferred tax liability are as follows at December
+31 in thousands.
+1998    1997
+$ 1,279 $  968
+Differences between cash and accrual accounting methods.   --      202
+Amortization of     876    590
+65   185
+Net deferred income tax  $  468 $  765
+7. STOCKHOLDERS' EQUITY:
+TREASURY STOCK
+In December 1996, the Board of Directors authorized the Company to purchase
+up to 1,000,000 shares of its issued and outstanding Common Stock. During 1997,
+the Company purchased a total of 211,500 shares for approximately $25 million.
+These treasury shares were reissued in connection with the Suntech acquisition.
+During 1999, in connection with the Transline merger Note 11 the Board of
+Directors rescinded the share repurchase program.
+51
+STOCK OPTION PLANS
+The Company has a stock option plan the 1991 Plan which provides for the
+issuance of both qualified and nonqualified options to purchase up to 690,000
+shares of Common Stock. Options may be granted under the 1991 Plan at any time
+prior to December 31, 2000, and are exercisable for periods up to ten years from
+the date of grant. In 1994, the Company adopted an additional stock option plan
+the 1994 Plan similar to the 1991 Plan. In April 1998, the shares authorized
+under the 1994 Plan were increased to 2,300,000. As of December 31, 1998, a
+total of 4,231 shares were available for future awards under these plans.
+The following table summarizes the activity for the Company stock option
+plans for the three years ended December 31, 1998.
+NUMBER OF
+SHARES      PRICE    WEIGHTED AVERAGE
+UNDER OPTION   PER SHARE   EXERCISE PRICES
+Options outstanding, December 31, 1995.    662,776  $  013-$1633   $  554
+Granted weighted average fair value $811.    10,800  $ 1425-$2017   $  1654
+155,061 $  013-$1067   $  302
+10,500 $  625      $  625
+Options outstanding, December 31, 1996.    508,015  $  013-$2017   $  652
+Granted weighted average fair value $481.   1,209,570  $ 1000-$1700   $  1131
+125,304 $  013-$2017   $  690
+58,139 $  400-$2017   $  913
+Options outstanding, December 31, 1997.   1,534,142  $  013-$2017   $  682
+Granted weighted average fair value $845.    779,100  $ 1450-$2550   $  1772
+229,865 $  013-$1650   $  796
+63,012 $  625-$2550   $  1454
+Options outstanding, December 31, 1998.   2,020,365  $  013-$2550   $  1317
+OUTSTANDING AND EXERCISABLE BY PRICE RANGE
+AS OF DECEMBER 31, 1998
+WEIGHTED
+AVERAGE
+NUMBER    REMAINING   WEIGHTED
+OUTSTANDING  CONTRACTUAL   AVERAGE
+RANGE OF EXERCISE   AS OF     LIFE    EXERCISE  NUMBER EXERCISABLE WEIGHTED AVERAGE
+PRICES     12/31/98    YEARS    PRICES    AS OF 12/31/98   EXERCISE PRICES
+-                                         
+$   013 400   94,439     309   $  194      94,439     $  194
+$  625 1000   844,176     773   $  981     383,894     $  967
+$  1038 1588   421,450     889   $  1433      61,788     $  1413
+$  1613 2550   660,300     925   $  1834      15,900     $  1694
+013 2550  2,020,365     825   $  1317     556,021     $  906
+-                                              
+52
+EMPLOYEE STOCK PURCHASE PLAN
+In 1994, the Company adopted an Employee Stock Purchase Plan ESPP.
+Eligible employees may contribute up to 10% of their base earnings toward the
+semi-annual purchase of Common Stock. Under the terms of the plan, 250,000
+shares of authorized Common Stock were reserved for purchase at 85% of the fair
+market price at the beginning or end of each six-month offering period,
+whichever is lower. During 1996, employees purchased 9,124 shares at $1218 per
+share and 14,582 shares at $1020 per share. During 1997, employees purchased
+11,265 shares at $1020 per share and 12,958 shares at $1094 per share. During
+1998, employees purchased 9,870 shares at $1349 per share and 9,990 shares at
+$1719 per share. The weighted average fair value for shares purchased under the
+ESPP was $568 for 1998, $360 for 1997and $279 for 1996.
+The Company has adopted the disclosure-only provisions of SFAS No. 123
+Accounting for Stock-Based Compensation. If compensation cost for the
+Company stock option and stock purchase plans had been determined based on the
+fair value at the grant date for awards in 1998, 1997, and 1996 consistent with
+the provisions of SFAS No. 123, the Company net earnings and earnings per
+share would have been the pro forma amounts indicated below:
+1998    1997    1996
+Net earnings thousands--pro  $  5,132 $  6,667 $  5,633
+Diluted earnings per share- pro  $  039 $  053 $  045
+Basic earnings per share--pro  $  041 $  054 $  046
+The fair value is estimated on the date of grant using the Black-Scholes
+option-pricing model. For 1996 grants, the following weighted-average
+assumptions were used: dividend yield of 0%, expected volatility of 49 risk-free interest rate of 55%; and expected lives of approximately 3 years.
+For 1997 grants, the following weighted-average assumptions were used: a
+dividend yield of 0%; expected volatility of 51%; risk-free interest of 546 and expected lives of approximately 3 years. For 1998 grants, the following
+weighted-average assumptions were used: dividend yield of 0%, expected
+volatility of 57%; risk-free interest rate of 455%; and expected lives of
+approximately 3 years. The effects of applying SFAS No. 123 in the proforma
+disclosure are not indicative of future amounts.
+8. COMMITMENTS AND CONTINGENCIES:
+OPERATING LEASES
+The Company leases office space under operating leases. The Company also
+leases space for network equipment sites and certain office equipment under
+operating leases. Future annual commitments under the Company operating leases
+are as follows in thousands:
+YEARS ENDING DECEMBER 31  
+$  1,962
+1,727
+1,645
+1,652
+1,535
+9,196
+$ 17,717
+Rent expense for the years ended December 31, 1998, 1997, and 1996 was
+approximately $1,957,000, $1,555,000, and $1,433,000, respectively.
+53
+BENEFIT PLANS
+The Company has a 401k profit sharing plan which covers eligible
+employees. The Company makes discretionary matching contributions to the plan.
+For 1998, 1997 and 1996, the Company approved a discretionary matching cash
+contribution of approximately $160,000, $100,000 and $100,000, respectively 25%
+of each eligible employee contribution made during each year. The Company
+does not offer postretirement or postemployment benefits.
+SIGNIFICANT CUSTOMERS AND SUPPLIERS
+For the years ended December 31, 1998, 1997 and 1996, the Company recorded
+sales to significant customers, included in the Company POS division, as
+follows in thousands:
+1998    1997    1996
+Customer  $ 16,738 $ 11,105 $  8,962
+Customer      *     *   6,244
+Customer      *     *      
+-  
+*  Revenue was less than 10% of total revenue for the period.
+Certain key components used in the Company network are currently available
+only from limited sources. The Company does not have long-term supply contracts
+with these or any other limited source vendors and purchases network equipment
+on a purchase order basis. The inability to obtain sufficient quantities of
+limited source equipment as required, or to develop alternative sources as
+required in the future, could result in delays or reductions in the Company
+development and deployment of network equipment, which could adversely affect
+the Company business, operating results and financial condition. As of
+December 31, 1998, the Company had commitments to purchase approximately $24
+million in capital equipment.
+9. QUARTERLY DATA- UNAUDITED
+The following quarterly financial data has been prepared from the financial
+records of the Company without audit, and reflects all adjustments which, in the
+opinion of management, were of a normal and recurring nature and were necessary
+for a fair presentation of the results of operations for the interim periods
+presented. Quarterly information may not total to annual amounts in some cases
+due to rounding.                                          QUARTERS ENDED
+FOR THE YEAR ENDED DECEMBER 31, 1998        
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS       MARCH 31   JUNE 30  SEPTEMBER 30 DECEMBER 31
+-                                                    
+$ 18,077  $ 20,433  $  25,582  $  37,814
+Gross     7,370    9,266    10,407    12,067
+Income from operations before interest and taxes.    1,983    3,221    3,049     2,035
+Net     1,509    2,237    2,099     1,020
+Diluted earnings per   $  012  $  017  $   016  $   008
+Basic earnings per   $  012  $  018  $   017  $   008
+QUARTERS ENDED
+FOR THE YEAR ENDED DECEMBER 31, 1997        
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS       MARCH 31   JUNE 30  SEPTEMBER 30 DECEMBER 31
+-                                                    
+$ 13,115  $ 15,444  $  17,170  $  17,615
+Gross     5,707    6,830    7,630     7,855
+Income from operations before interest and taxes.    1,357    2,325    3,098     3,507
+Net     1,002    1,609    2,256     2,519
+Diluted earnings per   $  008  $  013  $   018  $   020
+Basic earnings per   $  008  $  013  $   018  $   021
+54
+10. SEGMENT INFORMATION
+The Company reportable segments are strategic business units that offer
+different products and services. The Company classifies its business into four
+segments: The POS Division POS, Telecom Services Division TSD, Financial
+Services Division FSD and the International Systems Division ISD. FSD
+and ISD have not met the quantitative threshold for separate reporting. The
+accounting policies for the segments are the same as those described in the
+summary of significant accounting policies. The Company evaluates performance
+based upon income from operations before amortization and depreciation.
+Information on the Company business segments is presented below.
+1998    1997    1996
+REVENUES:
+$  67,415 $ 42,565 $ 36,744
+29,480   19,609   13,891
+All     5,011   1,170   1,656
+Total  $ 101,906 $ 63,344 $ 52,291
+OPERATING PROFIT:
+$  17,059 $ 16,191 $ 14,163
+6,638   3,010   1,084
+All    2,626  2,551  1,910
+$  21,071 $ 16,650 $ 13,337
+IDENTIFIABLE ASSETS AT YEAR END:
+$ 110,607 $ 15,655 $ 16,026
+21,505   14,983   15,113
+All     7,795   2,809    578
+34,952   42,662   36,834
+$ 174,859 $ 76,109 $ 68,551
+CAPITAL EXPENDITURES:
+$  10,033 $  3,758 $  3,923
+3,122    547    955
+11. SUBSEQUENT EVENTS
+In December 1998, the Company entered into an agreement and plan of merger
+with Transline Communications, Inc. Transline, which closed on January 13,
+1999. Under the agreement the Transline shares were exchanged for approximately
+$40 million in TNS common stock, or approximately 210,000 shares of TNS common
+stock based upon the closing price of TNS shares ten days prior to the closing.
+The merger is structured to be accounted for as a pooling of interests.
+Unaudited pro forma revenue as if the merger had occurred at the beginning of
+1998, 1997, and 1996 is approximately $105,420,000, $66,693,000 and $54,947,000,
+respectively.
+Item 3. LEGAL PROCEEDINGS
+None.
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+None.
+19
+PART II
+Item 5. DIRECTORS AND OFFICERS OF THE REGISTRANT
+A IDENTIFICATION OF DIRECTORS
+The information required by this Item concerning the Company directors is
+incorporated by reference from the section captioned Election of Directors,
+contained in the Proxy Statement related to the Annual Meeting of Stockholders
+to be held on April 22, 1999 the Proxy Statement.
+B IDENTIFICATION OF EXECUTIVE OFFICERS
+The information required by this Item concerning the Company executive
+officers is incorporated by reference from the section captioned Non-Director
+Officers, contained in the Proxy Statement.
+Item 3. LEGAL PROCEEDINGS
+None.
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+None.
+19
+PART II
+Item 5. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The information required by this Item is incorporated by reference from the
+section captioned Beneficial Ownership of Common Stock, contained in the Proxy
+Statement.

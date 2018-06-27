@@ -1,0 +1,705 @@
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+- 
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+Page
+Consolidated Financial Statements
+Consolidated Balance Sheets as of December 31, 1999 and 1998.23
+Consolidated Statements of Operations for the Years Ended
+December 31, 1999, 1998 and 
+Consolidated Statements of Changes in Stockholders' Equity for the Years
+Ended December 31, 1999, 1998 and 
+Consolidated Statements of Cash Flows for the Years Ended
+December 31, 1999, 1998 and 
+Notes to Consolidated Financial Statements for the Years Ended
+December 31, 1999, 1998 and  Independent Auditors'             INTELIDATA TECHNOLOGIES CORPORATION
+CONSOLIDATED BALANCE SHEETS
+DECEMBER 31, 1999 AND 1998
+in thousands, except share data
+1999      1998
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents                           $   8,496  $   8,050
+Accounts receivable, net of allowances of $523
+in 1999 and $592 in 1998                              1,924      1,200
+Prepaid expenses and other current assets                        138       143
+Total current assets                               10,558      9,393
+NONCURRENT ASSETS
+Property and equipment, net Note 6                          548       348
+Other assets                                      175       257
+TOTAL ASSETS                                    $   11,281  $   9,998
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES
+Accounts payable                                $   2,343  $   1,344
+Accrued expenses and other liabilities Note 7                    1,166       910
+Deferred revenues                                    616      2,143
+Net liabilities of discontinued operations Note 4                   69      5,270
+Total current liabilities                             4,194      9,667
+COMMITMENTS AND CONTINGENCIES Note 14
+STOCKHOLDERS' EQUITY Note 9
+Preferred stock, $0001 par value; authorized 5,000,000 shares;
+no shares issued and outstanding                           --          Common stock, $0001 par value; authorized 60,000,000 shares; issued
+38,691,040 shares in 1999 and 32,293,005 shares in 1998; outstanding
+38,009,540 shares in 1999 and 31,611,505 shares in 1998               38       32
+Additional paid-in capital                             258,133     247,359
+Treasury stock, at cost                               2,064     2,064
+Deferred compensation                                 345      152
+Accumulated deficit                                248,675    244,844
+TOTAL STOCKHOLDERS' EQUITY                                 7,087       331
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                     $   11,281  $   9,998
+See accompanying notes to consolidated financial statements.            INTELIDATA TECHNOLOGIES CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+YEARS ENDED DECEMBER 31, 1999, 1998 AND 1997
+in thousands, except per share data                               1999      1998       1997
+Revenues
+Software                       $   2,152   $   823    $   1,040
+Consulting and services                  1,992     1,138       1,229
+Leasing and other                     6,272     8,077      10,252
+Total revenues                    10,416    10,027      12,521
+Cost of revenues
+Software                           460      109        223
+Consulting and services                  1,283      509        987
+Leasing and other                     1,322     2,038       5,637
+Total cost of revenues                 3,065     2,656       6,847
+Gross profit                      7,351     7,371       5,674
+Operating expenses
+General and administrative                 6,224     6,240       7,476
+Selling and marketing                   2,483     2,969       4,250
+Research and development                  4,115     2,652       4,347
+Unusual charges Note 10                   --      --       2,035
+Total operating expenses               12,822    11,861      18,108
+Operating loss                    5,471    4,490     12,434
+Other income expense
+Interest, net                        350      874       1,271
+Total other income expense               350      874       1,271
+Loss before income taxes                    5,121    3,616     11,163
+Income taxes Note 12                      --       --                                             Loss from continuing operations                5,121    3,616     11,163
+Discontinued operations Note 4:
+Loss from operation of telecommunications and
+Interactive service divisions net of income taxes       --     18,049     78,931
+Gain loss on disposal of telecommunications and
+Interactive service divisions net of income taxes      3,226    16,174                                                Total discontinued operations             3,226    34,223     78,931
+Net loss                            1,895   37,839     90,094
+Preferred stock dividends and amortization of discounts      --      --          arising from allocation of proceeds to warrants and     1,936      --          beneficial conversion feature                     Net loss attributable to common stockholders       $  3,831  $ 37,839   $  90,094
+Basic and diluted loss from continuing operations per   $   021  $  011   $   035
+common share                             Basic and diluted income loss from discontinued     $   010   $  109   $   250
+operations per common share                     Basic and diluted loss per common share          $   011  $  120   $   285
+Weighted average shares                    33,367    31,450      31,574
+See accompanying notes to consolidated financial statements.            INTELIDATA TECHNOLOGIES CORPORATION
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+YEARS ENDED DECEMBER 31, 1999, 1998 AND 1997
+in thousands                                                Accum-
+ulated
+Other
+Preferred  Common  Addi-       Rec-       Compre-       Compre-
+Stock    stock  tional      eivable Deferred hensive Accumu-  hensive
+Paid-in Treasury from Sale Compen- Income  lated   Loss
+Shares Amt Shares Amt Capital Stock  of Stock  sation  Loss  Deficit  Income   Total
+Balance at January 1, 1997     --  -- 31,817 $32 $243,757 $  -- $ 2,456$  133$   -- $116,911      124,289
+Issuance of common stock:
+Employee stock purchase plan    --  --   45 --   128   --    --    --    --    --        128
+Exercise of options        --  --    1 --    5   --    --    --    --    --         5
+Cancellation of accrued
+stock options          --  --   -- --  1,809   --    --    --    --    --       1,809
+Purchase of treasury stock     --  --  682 --    -- 2,064    --    --    --    --       2,064
+Charge-off of advertising credit  --  --   -- --    --   --   2,456    --    --    --       2,456
+Compensation expense        --  --   -- --    --   --    --   115    --    --        115
+Unrealized gains on investments  --  --   -- --    --   --    --    --   425    -- $  425   425
+Net loss              --  --   -- --    --   --    --    --    --  90,094 90,094 90,094
+Comprehensive loss                                               $89,699
+Balance at December 31, 1997     --  -- 31,181 32 245,699 2,064    --   18   425 207,005      37,069
+Issuance of common stock:
+Employee stock purchase plan    --  --   68 --    67   --    --    --    --    --         67
+Exercise of options        --  --   300 --   294   --    --    --    --    --        294
+Issuance of restricted stock    --  --   156 --   462   --    --   462   --    --          Cancellation of restricted stock  --  --   53 --   159   --    --   159    --    --          Cancellation of common stock    --  --   40 --    --   --    --    --    --    --          Cancellation accrued
+stock options          --  --   -- --   996   --    --    --    --    --        996
+Compensation expense        --  --   -- --    --   --    --   169    --    --        169
+Recognized gain on investments   --  --   -- --    --   --    --    --   425    -- $  425  425
+Net loss              --  --   -- --    --   --    --    --    --  37,839 37,839 37,839
+Comprehensive loss                                               $38,264
+Balance at December 31, 1998     --  -- 31,612 32 247,359 2,064    --   152   --  244,844        331
+Issuance of common stock:
+Employee stock purchase plan    --  --   23 --    27   --    --    --    --    --         27
+Exercise of options        --  --  1,250  1  2,407   --    --    --    --    --       2,408
+Conversion of preferred stock    1  --  4,793  5    5   --    --    --    --    --          Issuance of Preferred Stock     1  --   -- --  5,670   --    --    --    --    --       5,670
+and warrants
+Amortization and accretion     --  --   -- --  1,936   --    --    --    --  1,936          of preferred dividend
+Issuance of restricted stock    --  --   369 --   670   --    --   670   --    --          Cancellation of restricted stock  --  --   37 --   72   --    --    72    --    --          Issuance of Warrants        --  --   -- --   141   --    --   141   --    --          Compensation expense        --  --   -- --    --   --    --   546    --    --        546
+Net loss              --  --   -- --    --   --    --    --    --  1,895 $ 1,895 1,895
+Comprehensive loss                                               $ 1,895
+Balance at December 31, 1999     --  -- 38,010 $38 $258,133 $2,064$   -- $  345$   -- $248,675      $ 7,087
+See accompanying notes to consolidated financial statements.            INTELIDATA TECHNOLOGIES CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEARS ENDED DECEMBER 31, 1999, 1998 AND 1997
+in thousands                                     1999      1998    1997
+Cash flows from operating activities
+Net loss                              $  1,895  $ 37,839 $ 90,094
+Adjustments to reconcile net loss to net cash
+used in provided by operating activities:
+Loss from discontinued operations                     --    18,049   78,931
+Gain loss on disposal of discontinued operations           3,226    16,174       Impairment of advertising credits                     --      --    2,456
+Depreciation and amortization                       233     1,567    3,331
+Deferred compensation expense                       546      169     115
+Other non-cash charges                           --     425    425
+Changes in operating assets and liabilities:
+Accounts receivable                          724     804    998
+Prepaid expenses and other current assets                 5      22     884
+Other assets                               82      71    1,833
+Accounts payable                            999      588    200
+Accrued expenses                            256    2,325    169
+Deferred revenue                           1,527    1,590   4,253
+Net cash used in provided by operating activities         5,251    6,343   2,763
+Net cash used in provided by discontinued operations          1,975    4,268   26,612
+Cash flows from investing activities
+Purchases of property and equipment-continuing operations        433     95    516
+Purchases of property and equipment-discontinued operations        --      --    907
+Sale of short-term investments                       --     9,304    3,114
+Net cash used in provided by investing activities          433    9,209    1,691
+Cash flows from financing activities
+Proceeds payments related to borrowings-discontinued operations     --    1,500    500
+Proceeds from issuances of common stock                 2,435      361     133
+Payments to acquire treasury stock                     --      --   2,064
+Proceeds from the issuance of preferred stock              5,670      --                                                Net cash provided by used in financing activities         8,105    1,139   2,431
+Increase decrease in cash and cash equivalents            446     5,995   24,589
+Cash and cash equivalents, beginning of year               8,050     2,055   26,644
+Cash and cash equivalents, end of year                $  8,496   $  8,050  $  2,055
+See accompanying notes to consolidated financial statements.            INTELIDATA TECHNOLOGIES CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED DECEMBER 31, 1999, 1998 AND 1997 1   ORGANIZATION
+InteliData Technologies Corporation InteliData or the Company, is
+engaged in developing and marketing software products and services for financial
+institutions to assist in Internet  Banking and electronic bill payment
+initiatives. The Company is incorporated in the State of Delaware and operates
+primarily from its corporate headquarters in Reston, Virginia.
+2   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+a Principles of Consolidation - The consolidated financial statements include
+the accounts of the Company and its wholly owned subsidiaries after elimination
+of all intercompany balances and transactions. Certain items from the 1998 and
+1997 financial statements have been reclassified to conform to the 1999
+financial statement presentation.
+b Accounting Estimates - The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the period. Actual results could differ from those estimates.
+c Revenue Recognition - Revenue for off-the-shelf product is recorded when
+products are shipped and title passes to the customer. Lease revenue is recorded
+based on the units in service at the end of the prior month since these leases
+are cancelable at any time. Revenue from consulting, hosting, and maintenance
+contracts are recognized as services are provided. Beginning in 1998, the
+Company sold  integrated  solutions that bundle  software  products with
+customization, installation and training services. These arrangements are
+recognized using the percentage of completion method of accounting. Losses on
+uncompleted contracts are recorded when such amounts become determinable.
+d Cash and Cash Equivalents - The Company considers all non-restricted highly
+liquid investments with original maturities of three months or less to be cash
+equivalents. Cash and cash equivalents are stated at cost, which approximates
+market.
+e Short-term Investments - The Company reports its short-term investments in
+marketable securities as available-for-sale with any unrealized gains losses
+reflected, net of tax, as other comprehensive income loss. Realized gains or
+losses are determined on the first-in, first-out method and are reflected in net
+income. f Property and Equipment - Property and equipment is stated at cost.
+Depreciation of property and equipment is calculated using the straight-line
+method over the estimated useful lives of the assets. Office equipment and
+furniture and fixtures are depreciated over 3 to 7 years.
+g Net Liabilities Assets of Discontinued Operations - Under various disposal
+plans adopted in 1997 and 1998, the Company has completed the divestiture
+of all of its telecommunications and interactive services businesses, excluding
+Caller ID adjunct leasing activities. See Note 4 to the financial statements.
+h Deferred Revenues - The Company received $5 million from Visa in the fourth
+quarter of 1997, as a result of an agreement whereby the Company surrendered the
+right to certain future royalty payments. The cash payment was recorded in
+deferred revenues and was recognized in other revenues over the two year period
+of the arrangement. Other deferred revenues represents cash received for
+services to be provided.
+i Income Taxes - Income taxes are accounted for in accordance with the asset
+and liability method. Deferred tax assets and liabilities are recognized for the
+future tax consequences attributable to differences between the financial
+statement carrying amounts of existing assets and liabilities and their
+respective tax bases. Deferred tax assets and liabilities are measured using
+enacted tax rates expected to apply to taxable income in the years in which
+those temporary differences are expected to be recovered or settled. The effect
+on deferred tax assets and liabilities of a change in tax rates is recognized in
+income in the period that includes the enactment date. A valuation allowance is
+established against deferred tax assets when it is deemed, based on available
+evidence, that it is more likely than not that some portion or all of the
+deferred tax asset will not be realized.
+j Accounting for Stock-Based Compensation - The Company applies APB Opinion
+No. 25 and related interpretations in accounting for its plans. Statement of
+Financial Accounting Standards No. 123 Accounting for Stock-Based Compensation
+SFAS 123 was issued by the Financial Accounting Standards Board in 1995 and,
+if fully adopted, changes the methods for recognition of cost on plans similar
+to those of the Company. The Company has elected to continue to apply the
+provisions of APB Opinion No. 25 and provide the pro forma disclosure pursuant
+to SFAS 123.
+k Net Loss Attributable to Common Stockholders per share - Basic and diluted
+loss per common share is computed by dividing net loss, after deducting
+preferred stock dividend requirements and amortization of the discounts on the
+preferred stock, by the weighted average number of shares of common stock
+outstanding during the year. The effects of stock options were not included in
+the loss per share computations because they would have been antidilutive.
+l Fair Value of Financial Instruments - The carrying values of the Company
+financial instruments such as cash and cash equivalents, accounts receivable and
+accounts payable approximate their fair values. m New Accounting Pronouncements - In June, 1998, the FASB issued Statement of
+Financial Accounting Standards No. 133, Accounting for Derivative Instruments
+and Hedging Activities SFAS 133, which establishes accounting and reporting
+standards for derivative instruments and for hedging activities by requiring
+that all derivatives be recognized in the balance sheet and measured at fair
+value. As amended by SFAS 137, SFAS 133 is effective for fiscal years beginning
+after June 15, 2000.
+n Long-Lived Assets - The Company considers the impairment of long-lived
+assets based on an assessment of the asset ability to contribute to the
+profitability of the Company using estimates of expected future undiscounted
+cash flows. 3   SUBSEQUENT EVENTS
+In November, 1999, Home Financial Network, Inc. HFN, a company in which
+InteliData held approximately a 25% ownership interest, signed a letter of
+intent to merge with Sybase, Inc. On January 20, 2000, the merger was completed.
+In exchange for its portion of ownership in HFN, InteliData received $5,867,000
+in cash and 1,770,000 shares of Sybase stock. InteliData will recognize a gain
+of approximately $39,272,000 on such sale during the first quarter of 2000.
+InteliData accounted for such investment in HFN using the equity method. As of
+December 31, 1999, such investment carrying value was zero. An escrow account
+was established to provide Sybase, Inc. indemnity protection against possible
+claims that might arise against HFN. Currently, 1332,000 shares of Sybase owned
+by InteliData remain in escrow, along with $440,000 of cash. These amounts
+reflect 75% of the transaction proceed and are payable to the Company on
+January 20, 2001.
+4   DISCONTINUED OPERATIONS
+During the second quarter of 1998, the Company adopted a plan to dispose of
+its various telecommunications divisions through sale and liquidation. The
+Company Caller ID adjunct inventory was sold in May 1998. The Company Plexus
+inventory was sold in December 1998. The Company IPS and Landmark inventory
+was sold in February, 1999. At December 31, 1999, the net liabilities of
+discontinued operations, consisting primarily of warehouse facilities, offset by
+liabilities associated with a building escrow, building shut-down costs and
+product reserves, have been classified as current liabilities at their estimated
+net realizable value. Net revenues and loss from discontinued operations are as follows                            Years Ended December 31,
+in thousands                      1998      1997
+- 
+Net revenues                     $ 23,567    $ 47,788
+Cost of revenues                    29,054     48,000
+Operating expenses                   32,803     78,658
+Loss from operations                  38,290    78,870
+Income benefit taxes                 3,628       61
+Loss from discontinued operations           34,223    78,931
+-  Net liabilities assets of discontinued operations are as follows                                December 31,
+in thousands                      1999      1998
+- 
+Trade receivables, net                $   -    $  864
+Inventories and other current assets             -       945
+Property, plant and equipment, net             588      1,000
+Trade payables                        -      539
+Other current liabilities                 657     7,540
+Net liabilities of discontinued operations      $  69    $ 5,270
+Summary of Discontinued Operations
+The gain on disposal of the telecommunications and interactive services
+divisions net of income taxes was $3,226,000 in 1999 compared to a loss of
+$16,174,000 for the year ended December 31, 1998. The gain of $3,226,000 is
+attributable to specific events that occurred during the year including:
+favorable settlements with former telecommunications customers, the success of
+other settlements with vendors and negotiated expense settlements, aggressive
+collection efforts, and experiencing lower than anticipated shut-down costs such
+as warranty and customer service expenses associated with closing down the
+discontinued operations.
+During 1998, the loss from operations of telecommunications and interactive
+services divisions net of income taxes included $13,784,000 in inventory
+adjustments. The loss on disposal of telecommunications and interactive service
+divisions consisted of $2,696,000 in expected sales returns, $3,539,000 in
+property adjustments, $3,010,000 in provisions for doubtful customer accounts
+and $6,929,000 in actual and expected  losses from operations from the
+measurement date through the date of disposal.   During the third quarter of 1997, the Company recorded a provision for
+corporate restructuring of $1,003,000. This amount consists of $771,000 in
+employee reduction and related matters, $190,000 in obsolete equipment, and
+$42,000 in facilities closings. During the fourth quarter of 1997, the Company
+incurred employee reductions and relocation expenses aggregating $177,000 and a
+write-down related to obsolete equipment of $190,000 Additional accruals were
+posted for closing operations during 1998.   During the third quarter of 1997, the Company announced a strategic
+repositioning of the Company telecommunications. In connection with this
+repositioning and the aforementioned corporate restructuring, the Company
+management  evaluated its financial position and determined that it was
+appropriate to charge to discontinued operations the remaining unamortized costs
+of intangible assets due to impairment, to adjust inventory carrying amounts to
+market value, and to reflect certain additional restructuring charges, including
+charges for separation agreements with employees and charges associated with the
+termination of a joint venture agreement. Such third quarter 1997 charges
+aggregated $49,246,000 for the impairment of intangible assets; $11,333,000 for
+inventories and commitments; $1,003,000 for restructuring charges see above 1,434,000 for separation agreements; and $3,653,000 for assets relating to the
+joint venture. The impairment was based on the excess of the carrying value of
+the assets over the assets' fair values. The fair value of the assets were
+generally determined as the estimates of future discounted cash flows generated
+by the assets.
+5   SEGMENT REPORTING
+The Company maintains operations in two primary operating segments:
+Internet Banking and leasing. The basis for determining the Company operating
+segments is the manner in which financial information is used by the Company in
+managing its operations. Management operates and organizes itself according to
+business units which comprise unique products and services. There are no
+intersegment sales. Operating loss income in these two market divisions
+represents total revenues less operating expenses, and excludes other income and
+expense and income taxes. Identifiable assets are those assets employed by each
+segment operation. Segment financial information is as follows in thousands                   Internet
+Banking    Leasing    Consolidated
+- 
+1999
+Revenues                $ 6,493    $ 3,923      $10,416
+Operating loss income         8,072    2,601      5,471
+Identifiable assets           11,281      --      11,281
+Depreciation and amortization        234      --        234
+Capital expenditures            433      --        433
+1998
+Revenues                $ 4,683    $ 5,344      $10,027
+Operating loss income         7,796    3,306       4,490
+Identifiable assets           10,050      861      10,911
+Depreciation and amortization       1,361      206       1,567
+Capital expenditures             95      --        95
+1997
+Revenues                $ 3,951    $ 8,570      $12,521
+Operating loss income         16,286    3,852      12,434
+Identifiable assets           13,466     1,515      14,981
+Depreciation and amortization       1,345     1,986       3,331
+Capital expenditures            516      --        516  6   PROPERTY AND EQUIPMENT
+Property and equipment consists of the following at December 31 in
+thousands                             1999      1998
+Leased product            $ 2,287   $  2,182
+Office equipment            1,421      1,040
+Furniture and fixtures          191       139
+3,899      3,361
+Accumulated depreciation       3,351     3,013
+$  548    $   348
+7   ACCRUED EXPENSES AND OTHER LIABILITIES
+Accrued expenses and other liabilities consists of the following at
+December 31 in thousands:
+1999      1998
+Accrued compensation       $   399   $   293
+Accrued professional fees         72       181
+Accrued tax liabilities          13       276
+Accrued insurance            221       142
+Other liabilities            461       18
+$  1,166   $   910
+8   RELATED-PARTY TRANSACTIONS
+Strategic Business Partner
+In August 1994, the Company sold its electronic banking and bill pay
+operations the Visa Bill-Pay  System to Visa. As part of the Visa
+transaction, the Company president was appointed to, and the Company
+chairman was named an advisor to, the board of directors of Visa InterActive.
+Included in service fee revenues are $751,000 in 1997 related to services
+provided by the Company to Visa InterActive and Visa banks/members. In August
+1997, Visa InterActive was sold to an unrelated party, and the Company
+officers resigned from their Visa InterActive board positions. 9   STOCKHOLDERS' EQUITY
+a   Issuance and Subsequent Conversion of Preferred Stock and Warrants
+On July 22, 1999, the Company issued 600 shares of 4% Convertible Preferred
+Stock, for net proceeds of $5,670,000. A portion of the proceeds was allocated
+to warrants and to the beneficial conversion feature of such preferred stock,
+with the resulting discount on the preferred stock being amortized as dividends.
+In the fourth quarter of 1999, all of the preferred stock was converted to
+common shares.
+b Stock Options   The Company sponsors several stock option plans which cover substantially
+all employees and directors. Options granted under such plans typically vest
+monthly over periods ranging from one to five years and generally expire after
+between eight and ten years, although some grants provide for vesting in annual
+increments or allow for accelerated vesting based upon reaching performance
+milestones. Most options granted under the plans allow the purchase of stock at
+the fair value of such common stock at the respective grant dates.
+In 1997 and in June 1998, employees other than the then President and Chief
+Executive Officer were given the opportunity to cancel their options and have
+them replaced with options with strike prices equal to the common stock fair
+value on those dates option repricing.
+A summary of stock option activity for each of the Company stock option
+plans is as follows                 Exercise Prices
+Number
+Description         Minimum  Maximum      of Options
+January 1, 1997         $021   $2365     3,124,559
+Granted            $163    $600     2,916,450
+Exercised           $450    $450       1,000
+Canceled            $021   $2375     1,305,796
+December 31, 1997        $021   $2375     4,734,213
+Granted            $063    $178      893,650
+Exercised           $098    $098      300,000
+Canceled            $021   $2038     2,346,600
+December 31, 1998        $063   $2038     2,981,263
+Granted            $122    $491     2,584,850
+Exercised           $138    $644     1,334,945
+Canceled            $063    $713     1,058,073
+December 31, 1999        $063   $2038     3,173,095
+The Company applies the intrinsic value method of Accounting Principles
+Board Opinion No. 25 and related interpretations in accounting for its stock
+plans. In connection therewith, during 1998 and 1997, the Company recognized
+$18,000 and $115,000 of compensation expense in connection with option grants at
+exercise prices below fair market value on the dates of the grant.
+Had compensation cost been determined based on the fair value method of
+Statement of Financial Accounting Standards No. 123, the Company net loss and
+loss per share basic and diluted for the years ended December 31, 1999, 1998
+and 1997 would have been $7,679,000 and $23 per share, $38,437,000 and $122
+per share; and $95,180,000 and $301 per share, respectively.
+The weighted average fair value of options granted during 1999, 1998 and
+1997 was $153, $115 and $257 per share, respectively. The fair value of
+options granted was estimated on the date of grant using the Black-Scholes
+option pricing model. For 1999 year-end, the following weighted average
+assumptions were used: no dividend yield, expected volatility of 156%, and a
+risk free interest rate of 55% per annum. For 1998 year-end, the following
+weighted average assumptions were used: no dividend yield, expected volatility
+of 136% and a risk free interest rate of 528 per annum. For 1997
+year-end, the following weighted average assumptions were used: no dividend
+yield expected volatility of 85% and a risk-free interest rate of 600% per
+annum.
+The Company has options outstanding and exercisable in varying price
+ranges. The schedule below details the Company options by price range                 Options Outstanding    Options Exercisable
+Weighted         Weighted
+Weighted   Average          Average
+Range of    Number  Average   Exercise  Number of   Exercise
+Exercise Prices Of Options  Life     Price    Options    Price
+$069 - $2375  2,712,731 73 years  $ 116    578,242    $ 115
+$238 - $475   464,400 79 years  $ 309     6,000    $ 313
+$476 - $7125   43,000 64 years  $ 532     35,000    $ 542
+$713 - $1886   64,464 25 years  $1298     64,464    $1298
+3,284,595               683,706
+c   Employee Stock Purchase Plan
+Under the Employee Stock Purchase Plan, approved in 1996, the Company is
+authorized to issue up to 500,000 shares of common stock to its full-time
+employees, nearly all of whom are eligible to participate. Under the terms of
+the Plan, employees can choose each period to have up to twenty percent of their
+annual base earnings withheld to purchase the Company common stock. The
+purchase  price  of the  stock  is 85  percent  of the  lower of its
+beginning-of-period or end-of-period market price. During the years ended
+December 31, 1999, 1998, and 1997 the Company issued 33,498, 44,307, and 68,056
+shares of stock under the plan, respectively.
+d Treasury Stock
+During 1997, the Company paid $2,064,000 to repurchase 681,500 shares of
+its common stock. The Company did not repurchase any shares in 1998 or 1999.
+e   Stockholder Rights Plan
+In January 1998, the Company Board of Directors adopted a Stockholder
+Rights Plan. The rights are designed to assure that all the Company
+stockholders receive fair and equal treatment in the event of any proposed
+takeover of the Company and to guard against partial tender offers, open market
+accumulations and other tactics to gain control of the Company without paying
+all stockholders a control premium.
+Terms of the Stockholder Rights Plan provide for a dividend distribution of
+one right for each share of common stock to holders of record at the close of
+business on February 6, 1998. Shareholders will be able to exercise the rights
+only in the event, with certain exceptions, an acquiring party accumulates 20
+percent or more of the Company voting stock or if a party an acquiring person announces an offer to acquire
+20 percent or more without prior approval of the Company Board of Directors.
+The rights will expire on January 21, 2008. Each right initially will entitle
+the holder to buy one one-thousandth of a share of a new series of preferred
+stock at a price of $13.
+In addition, upon the occurrence of certain events, holders of the rights
+will be entitled to purchase either the Company common stock or shares in an
+acquiring person at half of market value. Further, at any time after a person or
+group acquires 20 percent or more of the Company outstanding voting stock, the
+board of directors may, at its option, exchange part or all of the rights other
+than rights held by the acquiring person, which will become void for shares of
+the Company common stock on a one-for-one basis. The rights will therefore
+cause substantial dilution to a person or group that acquires 20 percent or more
+of the Company common stock on terms not approved by the board.
+10   UNUSUAL CHARGES
+During the third quarter of 1997, the Company assessed and adjusted the
+carrying value of goodwill associated with an earlier acquisition.  The
+impairment charge aggregated $2,035,000 and was based on the excess of the
+carrying value of the assets over the assets' fair values. The fair value of the
+assets were generally determined as the estimates of future discounted cash
+flows generated by the assets.
+11   EMPLOYEE 401k SAVINGS PLAN
+The Company sponsors a defined contribution plan Plan that qualifies
+for preferential tax treatment under Section 401a of the Internal Revenue
+Code. Participation in the Plan is available to employees who are at least
+twenty-one years of age and have three months of service. Company contributions
+to the Plan are based on a percentage of employee contributions. The Company
+contributed  $60,000,  $128,000,  and $99,000 in 1999,  1998, and 1997,
+respectively. Administrative expenses for the Plan were paid by the Company.
+12   INCOME TAXES
+A reconciliation of taxes computed at the statutory federal tax rate on
+loss before income taxes from continuing operations to the actual income tax
+expense is as follows in thousands                                      Years ended December 31,
+1999   1998    1997
+Income tax benefit computed at the statutory rate       $1,792 $1,266  $3,908
+Other                                61    26     61
+Changes in valuation allowance                  1,731   1,240   3,847
+Income taxes                      $  --  $  --  $                                               The tax effects of temporary differences that give rise to significant
+portions of the
+deferred tax assets and liabilities at December 31, 1999 and 1998, are as
+follows in thousands                              1998    1997
+Deferred tax assets:
+Net operating loss carryforwards           $41,092    $ 33,239
+Accounts receivable and inventory revaluation       523     6,730
+Property and Equipment                   56     1,100
+General business credit carryforward           489      489
+Alternative minimum tax carryforward            60       60
+Total gross deferred tax asset          42,220     41,618
+Valuation allowance                  44,220    41,618
+Net deferred tax assets             $  --    $                                      The net changes in the total valuation allowance for the years ended
+December 31, 1999, 1998 and 1997 were an increase of $602,000 $3,923,000 and
+$15,485,000, respectively. A valuation allowance was established for deferred
+tax assets as of December 31, 1999 and 1998 because it was deemed, based on
+available evidence, that it is more likely than not that all of the deferred tax
+asset will not be realized.
+At December 31, 1999, the Company had net operating loss carryforwards for
+federal income tax purposes of approximately $117 million, which expire in 2007
+through 2014, general business tax credits of approximately $489,000, which
+expire in 2005 through 2010, and an alternative minimum tax credit carryforward
+of approximately $60,000, which may be carried forward indefinitely and used to
+offset future regular taxable income.
+13   MAJOR CUSTOMERS AND CONCENTRATION OF CREDIT RISK
+Financial instruments that potentially subject the Company to credit risk
+consist principally of trade receivables. The Company sells its products
+primarily to financial institutions in the United States and leases caller ID
+adjuncts to individual consumers. The Company believes that the concentration of
+credit risk in its trade receivables is substantially mitigated by the Company
+ongoing credit evaluation process. The Company does not generally require
+collateral from customers. The Company establishes an allowance for doubtful
+accounts based upon factors surrounding the credit risk of specific customers,
+historical trends and other information.
+Combined revenues from US West lease customers and the Visa Bill-Pay System
+royalties represented 60%, 81%, and 82% of total revenues for the years ending
+December 31, 1999, 1998, and 1997, respectively. In January, 2000, the Company
+received notification from its billing agent regarding proposed changes to the
+billing process for the US West Caller ID Lease Base. The pending changes, which
+could require the Company lease billings to be removed from the US West
+customer bills, could have a substantial effect on the rate of decline of the
+lease base, the cost of billing,  and the Company ability to pursue
+collections. Any changes in billing procedures could negatively affect the
+Company revenue, cost of sales, gross margin, and cash flow in future periods. 14   COMMITMENTS AND CONTINGENCIES
+a   Leases
+The Company leases  facilities and equipment  under  cancelable and
+noncancellable operating lease agreements. The facility leases are for terms
+from one to five years. Rent expense was $483,000, $877,000 and $1,054,000 for
+the years ended December 31, 1999, 1998 and 1997, respectively.
+Future minimum lease payments under noncancellable operating leases with
+initial or remaining terms in excess of one year at December 31, 1999, were as
+follows in thousands     Year ending December 31,
+2000                    $    513
+2001                        528
+2002                        544
+2003                        560
+2004                        114
+2005 and thereafter                 0
+Total minimum lease payments      $   2,259
+b   Patent Matters
+The Company does not believe that its products and services infringe on the
+rights of third parties. From time to time, third parties assert infringement
+claims against InteliData. There can be no assurance that any such assertion
+will not result in costly litigation or require the Company to cease using, or
+obtain a license to use, intellectual property rights of such parties.
+c   Litigation
+The Company is not currently a party to any material litigation. From time
+to time, the Company is a party to routine litigation incidental to its
+business. Management does not believe that the resolution of any or all of such
+routine litigation will be likely to have a material adverse effect on the
+Company financial condition or results of operations. 15   VALUATION AND QUALIFYING ACCOUNTS
+The components of significant valuation and qualifying accounts associated
+with accounts receivable for the years ended December 31, 1999 and 1998 were as
+follows in thousands          Balance, December 31, 1996            $  1,788
+Recoveries                     86
+Balance, December 31, 1997            $  1,702
+Recoveries                     361
+Charged to costs and expenses            21
+Write-offs                     770
+Balance, December 31, 1998            $   592
+Recoveries                     217
+Charged to costs and expenses             -
+Write-offs                     148
+Balance, December 31, 1999            $   523
+* * * * *              INDEPENDENT AUDITORS' REPORT To the Board of Directors and Stockholders of
+InteliData Technologies Corporation
+Reston, Virginia
+We have audited the accompanying consolidated balance sheets of InteliData
+Technologies Corporation and subsidiaries the Company as of December 31,
+1999 and 1998, and the related consolidated statements of operations, changes in
+stockholders' equity, and cash flows for each of the three years in the period
+ended December 31, 1999. These consolidated financial statements are the
+responsibility of the Company management. Our responsibility is to express an
+opinion on these consolidated financial statements based on our audits.
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation.  We believe that our audits provide a
+reasonable basis for our opinion.
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of InteliData Technologies Corporation
+and subsidiaries as of December 31, 1999 and 1998, and the results of their
+operations and their cash flows for each of the three years in the period ended
+December 31, 1999, in conformity with accounting principles generally accepted
+in the United States of America. s/ Deloitte & Touche LLP
+McLean, Virginia
+February 16, 2000 Item 1.  
+Item 2.  
+Item 3. Legal 
+Item 4. Submission of Matters to a Vote of  PART II
+- Item 5. Market for Registrant Common Stock and Related Stockholder Matters.8
+Item 6. Selected Financial 
+Item 7.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+- 
+Directors
+The Company incorporates herein by reference the information concerning
+directors contained in its Proxy Statement for its 2000 Stockholder Meeting to
+be filed within 120 days after the end of the Company fiscal year the 1999
+Proxy Statement.
+Executive Officers
+The following table sets forth the names and ages of all executive officers
+of the Company and all positions and offices within the Company presently held
+by such executive officers  Name           Age Position Held
+William F. Gorog     74  Chairman of the Board
+Alfred S. Dominick, Jr. 54  President and Chief Executive Officer
+Steven P. Mullins    33  Vice President of Finance, Treasurer
+and Controller
+Thomas R. Oxendine    51  Chief Technology Officer and Vice President
+Albert N. Wergley    52  Vice President, General Counsel and Secretary
+William F. Gorog has served as Chairman and director of the Company since
+November 1996. Mr. Gorog had served as Chairman of US Order from May 1990 to
+November 1996. From October 1987 until founding US Order in May 1990, he served
+as chairman of the board of Arbor International, an investment management firm.
+From 1982 to 1987, he served as president and chief executive officer of the
+Magazine Publishers of America, an association representing the principal
+consumer publications in the United States. During the Ford Administration, Mr.
+Gorog served as deputy assistant to the President for Economic Affairs and
+Executive Director of the Council on International Economic Policy. Prior to
+that time, he founded and served as chief executive officer of DataCorp., which
+developed the Lexis and Nexis information systems for legal and media research
+and which was subsequently sold to the Mead Corporation.
+Alfred S. Dominick, Jr. has served as the President and Chief Executive Officer
+of the Company since August 1998. Prior to joining InteliData, Mr. Dominick
+served as president of the Retail Products Delivery Group at M Data Services.
+Prior to joining M Data Services in July 1995, he was Executive Vice President
+of Retail Banking and a member of the Executive Committee for Boatmen
+Bancshares Corporation for three years. Prior to that Mr. Dominick was an
+Executive Vice President with Bank One Texas, since 1985. Prior to Bank One
+Texas, Mr. Dominick was a Senior Vice President with Fleet National Bank.
+Steven P. Mullins has served as the Vice President of Finance, Treasurer and
+Controller of the Company since January, 2000. From January, 1999 to January,
+2000, he served as Controller and Director of Finance and from June, 1997 to
+January, 1999, he served as
+Director of Financial Planning of the Company. From 1995 to 1997, he ran a
+financial consulting practice. Previous to that he was an Administrator with the
+Fairfax County, Virginia Government.
+Thomas R. Oxendine has served as Chief Technology Officer and Vice President of
+Engineering and Implementation since June 1998. From 1994 to 1998, he was
+Executive Vice President, Banking Systems, for Olivetti North America. From 1991
+to 1994, he served as Vice President, Systems Division, and from 1988 to 1991,
+he was Regional Manager, Implementation and Support, for Olivetti North America.
+Previously he held various management positions with Ericsson Information
+Systems, ISC Systems Corp., and Durango Systems.
+Albert N. Wergley has served as Vice President, General Counsel, and Secretary
+of the Company since November 1996. From May 1995 to November 1996, he served as
+Vice President and General Counsel of US Order. From 1986 to 1994, Mr. Wergley
+was vice president and general counsel of Verdix Corporation now Rational
+Software Corporation, a manufacturer of software development tools. Previous to
+that he was associated with the McLean, Virginia office of the law firm of Reed
+Smith Shaw & McClay and with the law firm of Howrey & Simon in Washington, D.C.
+Beneficial Ownership Reporting
+The Company incorporates herein by reference the information required by
+Item 405 of Regulation S-K contained in its 2000 Proxy Statement.
+Item 1.  
+Item 2.  
+Item 3. Legal 
+Item 4. Submission of Matters to a Vote of  PART II
+- Item 5. Market for Registrant Common Stock and Related Stockholder Matters.8
+Item 6. Selected Financial 
+Item 7. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+- 
+The Company incorporates herein by reference the information concerning
+security ownership of certain beneficial owners and management contained in the
+2000 Proxy Statement. 

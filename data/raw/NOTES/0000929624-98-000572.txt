@@ -1,0 +1,895 @@
+ITEM 8.FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+REPORT OF INDEPENDENT AUDITORS
+The Board of Directors and Stockholders
+BA Merchant Services, Inc.
+We have audited the accompanying consolidated balance sheets of BA Merchant
+Services, Inc. as successor to the merchant processing businesses of
+BankAmerica Corporation as described in Note 1 as of December 31, 1997 and
+1996 and the related consolidated statements of operations, changes in equity,
+and cash flows for each of the three years in the period ended December 31,
+1997. These financial statements are the responsibility of BA Merchant
+Services, Inc. management. Our responsibility is to express an opinion on
+these financial statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated financial position
+of BA Merchant Services, Inc. at December 31, 1997 and 1996 and the
+consolidated results of its operations and its cash flows for each of the
+three years in the period ended December 31, 1997 in conformity with generally
+accepted accounting principles.
+/s/ Ernst & Young LLP
+San Francisco, California
+February 3, 1998
+19
+BA MERCHANT SERVICES, INC.
+CONSOLIDATED BALANCE SHEET
+AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+DECEMBER 31,
+1997   1996
+ASSETS
+Current assets:
+Cash and cash  $ 29,426 $138,413
+Short-term   64,018     Drafts in   110,445 116,992
+Accounts   63,461  35,282
+Other current   11,533  5,038
+Total current   278,883 295,725
+Property and equipment,   27,762  18,567
+Other   25,422  3,969
+Total  $332,067 $318,261
+LIABILITIES AND EQUITY
+Current liabilities:
+Accounts  $   32 $  415
+Merchants    8,058  16,823
+Accrued    6,050  4,477
+Accrued credit card association and interchange fees.   9,192  6,367
+Income taxes    3,459  3,306
+Other current   13,207  6,596
+Total current   39,998  37,984
+Other     816   269
+Total   40,814  38,253
+BAC equity interest in Asia merchant processing
+--  27,883
+Stockholders' equity:
+Class A Common Stock, par value $001; authorized 200,000,000
+shares; issued and outstanding 16,253,126 shares at December
+31, 1997 and 16,236,092 shares at December 31, 1996.    162   162
+Class B Common Stock, par value $001; authorized 50,000,000
+shares; issued and outstanding 32,400,000 shares at December
+31, 1997 and 30,200,000 shares at December 31, 1996.    324   302
+Additional paid-in   252,479 249,622
+Retained   38,280  2,039
+Accumulated foreign currency translation adjustments.     8                                       Total stockholders'   291,253 252,125
+Total liabilities and  $332,067 $318,261
+See Notes to Consolidated Financial Statements.
+20
+BA MERCHANT SERVICES, INC.
+CONSOLIDATED STATEMENT OF OPERATIONS
+AMOUNTS IN THOUSANDS, EXCEPT PER SHARE DATA
+YEAR ENDED DECEMBER 31,
+1997   1996   1995
+Net  $160,975 $138,776 $119,958
+Operating expense:
+Salaries and employee benefits.  34,657  27,875  24,112
+Data processing and communications.  34,438  29,447  28,412
+General and   21,817  18,351  18,416
+10,592  9,147   6,593
+Employee stock     --  2,431        2,984  2,332   2,388
+Amortization of    801  1,118   1,201
+Total operating  105,289  90,701  81,122
+Income from   55,686  48,075  38,836
+Net interest income   7,762  1,458   811
+Income before income taxes.  63,448  46,617  38,025
+Provision for income   26,020  19,252  15,731
+Net  $ 37,428 $ 27,365 $ 22,294
+Earnings per common    $77   N/A    N/A
+Diluted earnings per common share.   $77   N/A    N/A
+See Notes to Consolidated Financial Statements.
+21
+BA MERCHANT SERVICES, INC.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+AMOUNTS IN THOUSANDS
+YEAR ENDED DECEMBER 31,
+1997    1996    1995
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net  $ 37,428 $ 27,365 $ 22,294
+Adjustments to net income to arrive at cash
+provided by operating activities:
+10,592   9,147   6,593
+Amortization of intangibles.    801   1,118   1,201
+Benefit from deferred income taxes.   2,169  1,297   268
+Amortization of restricted stock.    589     38      Amortization of loan fees.    310    --      Employee stock exchange.    --    2,431     Changes in operating assets and liabilities
+excluding the effects of the transfer of net
+assets from BAC:
+Decrease increase in drafts in transit.   6,547  12,124  21,087
+Increase in accounts receivable.  28,179  10,717  3,972
+Increase in other current assets.   6,495  1,387      Decrease increase in accounts payable.    383  1,468   2,018
+Increase in current income taxes payable.   1,741   3,306      Decrease increase in merchants payable.   8,765   2,853   1,420
+Increase decrease in accrued
+1,573    458    570
+Increase in accrued credit card
+association and interchange fees.   2,825   2,483    160
+Other,    2,631   1,256    858
+Net cash provided by operating
+19,046   23,462   6,931
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of property and equipment.  19,537  12,807  9,539
+Purchase of short-term investments.  110,620    --     Maturities of short-term investments.   46,602    --     Acquisition of portfolio of merchant
+processing   17,706    --                                   Net cash used for investing activities.  101,261  12,807  9,539
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Borrowings on revolving line of credit.    --   174,500     Repayments on revolving line of credit.    --  174,500    BAC change in funding.  26,586 105,529   2,038
+Increase in underwriting expense.    194    --     Net proceeds from initial public offering.    --   232,882                                  Net cash provided by used for
+financing activities.  26,780  127,353   2,038
+EXCHANGE RATE EFFECT ON CASH:             8    --                                Decrease increase in cash and cash
+108,987  138,008    570
+Cash and cash equivalents at beginning of
+138,413    405    975
+Cash and cash equivalents at end of year. $ 29,426 $ 138,413 $   405
+See Notes to Consolidated Financial Statements.
+22
+BA MERCHANT SERVICES, INC.
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+AMOUNTS IN THOUSANDS
+CUMULATIVE
+FOREIGN
+COMMON STOCK ADDITIONAL      CURRENCY   BAC'S
+PAID-IN  RETAINED TRANSLATION EQUITY
+SHARES AMOUNTS CAPITAL  EARNINGS ADJUSTMENTS INTEREST
+BALANCE AT DECEMBER 31,
+1994.   --  $ --  $  --  $  --   $ --   $ 98,489
+Net income.   --   --     --    --    --    22,294
+BAC change in fund-
+ing.   --   --     --    --    --     2,038
+BALANCE AT DECEMBER 31,
+1995.   --   --     --    --    --    122,821
+CHANGES IN EQUITY FOR
+THE PERIOD ENDED
+DECEMBER 3, 1996:
+Net income.   --   --     --    --    --    25,326
+BAC change in fund-
+ing.   --   --     --    --    --   105,529
+EFFECT OF REORGANIZA-
+TION:
+Transfer of net assets
+from BAC in exchange
+for Class B Common
+Stock. 30,200  302   14,433   --    --    14,735
+Employee stock exchange
+for Class A Common
+Stock.    2  --    2,431   --    --      CHANGES IN EQUITY FOR
+THE PERIOD DECEMBER 4,
+1996 THROUGH DECEMBER
+31, 1996:
+Net income.   --   --     --   2,039    --      Restricted stock issu-
+ances of Class A Common
+Stock.   134   1   2,075   --    --      Unvested portion of
+restricted stock, net
+of amortization of
+$37.   --   --   2,038   --    --      Net proceeds from the
+initial public offering
+of Class A Common
+Stock. 16,100  161  232,721   --    --                              BALANCE AT DECEMBER 31,
+1996. 46,436  464  249,622  2,039    --    27,883
+Net income.   --   --     --  36,241    --     1,187
+BAC change in funding
+related to Asia mer-
+chant processing opera-
+tions.   --   --     --    --    --    26,586
+Restricted stock issu-
+ances of Class A Common
+Stock.   17  --     307   --    --      Unvested portion of
+restricted stock, net
+of amortization of
+$589.   --   --     282   --    --      Foreign currency trans-
+lation adjustment.   --   --     --    --     8      Transfer of net assets
+from BAC in exchange
+for Class B Common
+Stock.  2,200   22   2,462   --    --    2,484
+Increase in underwriting
+expense.   --   --    194   --    --                              BALANCE AT DECEMBER 31,
+1997. 48,653 $ 486  $252,479 $38,280   $  8  $                            
+See Notes to Consolidated Financial Statements.
+23
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. DESCRIPTION OF BUSINESS AND BASIS OF PRESENTATION
+Description of Business - BA Merchant Services, Inc. the Company provides
+an array of payment processing and related information products and services
+to merchants throughout the United States and certain Asian countries who
+accept credit, charge and debit cards as payment for goods and services. The
+Company is the fourth largest processor of merchant credit card transactions
+and one of the largest processors of debit card transactions in the United
+States.
+The Company was incorporated on October 11, 1996 and commenced operations
+December 4, 1996, upon the transfer by Bank of America National Trust &
+Savings Association the Bank and Bank of America NW, National Association
+BANW, formerly Seattle-First National Bank of their respective United States
+merchant processing businesses to BAMS in consideration for 302 million
+shares of Class B Common Stock the Reorganization. Effective January 1,
+1997, BANW was merged into the Bank. The Bank is a wholly owned subsidiary of
+BankAmerica Corporation BAC. Reference to BAC in the Consolidated
+Financial Statements and notes thereto shall be deemed to be references to
+BankAmerica Corporation and its subsidiaries and affiliates, including the
+Bank and, prior to January 1, 1997, BANW.
+During December 1996, the Company issued 161 million shares of Class A
+Common Stock in underwritten initial public offerings the Offerings which
+generated gross cash proceeds of $2496 million less the underwriters'
+discount and expense totaling $167 million, resulting in net cash proceeds of
+$2329 million. In late December 1996, $1263 million of the net proceeds were
+used to pay down the outstanding balance of a revolving line of credit with an
+affiliate. The borrowing had been used to finance operations between the
+Reorganization and the Offerings.
+On June 2, 1997, the Company acquired BAC merchant processing business in
+Thailand net assets of approximately $91,000 in consideration for 150,000
+shares of Class B Common Stock. On July 1, 1997, the Company acquired BAC
+merchant processing business in the Philippines net assets of approximately
+$153,000 in consideration for 550,000 shares of Class B Common Stock. On
+September 30, 1997 the Company acquired BAC merchant processing business in
+Taiwan and merchant processing administrative office in Hong Kong net assets
+of approximately $22 million in consideration for 1,500,000 shares of Class
+B Common Stock. The acquisition of these entities will be collectively
+referred to as the Asia Acquisitions. Approximately $330 million of the
+proceeds from the Offerings were used to fund the regulatory and working
+capital requirements of the Asia Acquisitions. With the issuance by the
+Company of additional shares of Class B Common Stock to BAC in connection with
+the Asia Acquisitions, BAC financial interest in BAMS increased from 650
+percent, to 666 percent.
+Basis of Presentation - BAC transfer to the Company of certain assets and
+liabilities of its United States and certain Asian merchant processing
+businesses net assets was accounted for as a reorganization of entities
+under common control and, accordingly, the transfer of these net assets was
+accounted for at historical cost in a manner similar to a pooling of
+interests. Included in the transfer of net assets was Seafirst Merchant
+Services, Inc., a wholly owned subsidiary of BANW. The accompanying financial
+statements have been prepared as if the Company had operated as a separate
+entity for all periods presented. The financial statements include the
+combined historical results of operations, assets and liabilities of the U.S.
+merchant processing businesses of BAC for all periods prior to the
+Reorganization. The financial statements also include the combined historical
+results of operations, assets and liabilities of BAC merchant processing
+businesses in Thailand, the Philippines, Taiwan and the merchant processing
+administrative office in Hong Kong for all periods prior to the Asia
+Acquisitions. For simplicity of presentation, these financial statements are
+referred to herein as Consolidated Financial Statements.
+24
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Prior to the respective dates of the Asia Acquisitions and the
+Reorganization, changes in BAC equity interest represented net income of the
+Company adjusted for net cash transfers to and from BAC. Additionally, prior
+to these dates, the Consolidated Financial Statements include allocations of
+certain assets primarily property and equipment and expenses relating to the
+merchant processing businesses transferred from BAC. Management believes these
+allocations are reasonable.
+Certain of the pre-Asia Acquisition and pre-Reorganization expenses in the
+Consolidated Financial Statements are not necessarily indicative of the costs
+that would have been incurred if the Company had performed these functions as
+a stand-alone entity. Therefore, prior to the respective dates of the Asia
+Acquisitions and the Reorganization, the Consolidated Financial Statements may
+not necessarily reflect the Company consolidated results of operations,
+changes in equity and cash flows as they would have been had the Company been
+a separate, stand-alone entity during the periods presented. Subsequent to
+these dates, the Company performed these functions using its own resources and
+purchased services from BAC and other companies and was responsible for the
+cost and expenses associated with the management of a stand-alone entity.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Principles of Consolidation - The consolidated financial statements of the
+Company are prepared in conformity with generally accepted accounting
+principles and include the accounts of BA Merchant Services, Inc. and its
+wholly owned subsidiary, Seafirst Merchant Services, Inc. SMSI. SMSI was
+dissolved on December 29, 1997. Significant intercompany balances and
+transactions have been eliminated. Certain amounts in prior periods have been
+reclassified to conform to the presentation in the current year.
+Cash and Cash Equivalents - The Company considers all highly liquid
+investments with a maturity of three months or less when purchased to be cash
+equivalents. The amounts reflected on the balance sheet at December 31, 1997
+and 1996 are held on deposit or invested through BAC.
+Short-term Investments - The Company short-term investments include U.S.
+Treasury and other government agency securities, certificates of deposit and
+money market funds with remaining maturities ranging from approximately one
+week to eleven months at December 31, 1997. Securities held by the Company are
+considered available-for-sale securities and are reported at their fair
+values, with unrealized gains and losses included on a net-of-tax basis as a
+separate component of stockholders' equity. Dividend and interest income,
+including amortization of premiums and accretion of discounts are included in
+interest income. Realized gains and losses from sales of available-for-sale
+securities are computed using the specific identification method. Any decision
+to sell available-for-sale securities is based on various factors, including
+movements in interest rates, changes in the maturity mix of assets and
+liabilities, liquidity demands or other similar factors.
+Drafts in Transit - Drafts in transit represent those transactions for which
+merchants have been paid by the Company, but for which payment has not yet
+been received from the credit card associations or debit card networks.
+Payment from those entities is generally received within one to three days.
+Accounts Receivable - Accounts receivable primarily represents fee income
+earned but not collected under processing agreements with merchants, agent
+banks, and independent sales organizations.
+Property and Equipment - Property and equipment are carried at cost, net of
+accumulated depreciation. Depreciation is computed on a straight-line basis
+over the estimated useful lives of the related assets which range from two to
+eight years for furniture and equipment and from three to five years for
+point-of-sale terminals.
+25
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Identifiable Intangible Assets - Included in other assets at December 31,
+1997 are unamortized identifiable intangible assets of $177 million relating
+primarily to the September 1997 acquisition cost of a portfolio of
+approximately 4,200 merchant processing contracts. The assets are being
+amortized on a straight-line basis over a ten year period corresponding to the
+estimated period of benefit related to the merchant base acquired. Included in
+other assets at December 31, 1996 are unamortized identifiable intangible
+assets of $04 million related to customer bases acquired and the buyout of a
+non-competition agreement that occurred in 1992. These assets were amortized
+on a straight-line basis over a five year period corresponding to the original
+life of the buyout agreement and the estimated period of benefit related to
+the customer bases acquired.
+Merchants Payable - Merchants payable represents those transactions for
+which the Company has been paid, but for which amounts have not yet been
+remitted to merchants.
+Net Revenue - Net revenue primarily includes fees earned from merchants
+related to the processing of transactions including merchant discount fees,
+offset by interchange fees payable to credit card issuers and fees payable to
+credit card associations and debit card networks, and is recorded as services
+are performed. Net revenue also includes fees earned from the deployment of
+point of sale terminals.
+Derivative Financial Instruments - The Company uses foreign exchange forward
+contracts in the management of its foreign currency exposure for its Asian
+operations. Foreign exchange contracts are agreements to exchange the currency
+of one country for the currency of another at an agreed-upon price on an
+agreed-upon settlement date. To qualify for hedge accounting, the contract
+must reduce risk at the level of the specific transaction, with effectiveness
+expected at the inception of the hedge and on an ongoing basis. Hedge
+effectiveness is assessed by matching the basis and terms of the hedging
+instruments with those of the underlying exposure. If a high level of
+correlation is not being achieved, hedge accounting will be terminated.
+Discounts and premiums the difference between the current spot exchange rate
+and the forward exchange rate at inception of the contract are amortized over
+the contract lives using the straight-line method and realized and unrealized
+gains and losses including those from open, matured, and terminated
+contracts, net of related taxes, are included in the cumulative translation
+adjustment account in the Consolidated Statement of Changes in Equity the
+deferral accounting method. The related amounts due to or from counterparties
+are included in other liabilities or other assets. Realized and unrealized
+gains and losses on instruments that hedge capital exposure are recorded in
+stockholders' equity as foreign currency translation adjustments.
+Foreign Currency Translation - Assets, liabilities and operations of foreign
+offices are recorded based on the functional currency of each branch, which is
+the local currency. Assets, liabilities and operations are translated, for
+consolidation purposes, at current exchange rates from one local currency to
+the reporting currency, the U.S. dollar. The resulting gains or losses are
+reported as a component of retained earnings within stockholders' equity on a
+net-of-tax basis.
+Provision for Income Taxes - The liability method of accounting is used for
+income taxes. Under the liability method, deferred tax assets and liabilities
+are recognized for the expected future tax consequences of existing
+differences between financial reporting and tax reporting bases of assets and
+liabilities, as well as for operating losses and tax credit carryforwards,
+using enacted tax laws and rates. Deferred tax expense represents the net
+change in the deferred tax asset or liability balance during the year. This
+amount, together with income taxes currently payable or refundable for the
+current year, represents the total income tax expense for the year.
+Prior to December 20, 1996, the Company was included in the consolidated
+federal return, and in certain consolidated and combined state and local
+returns, filed by BAC. The Company settled its consolidated and combined tax
+liabilities by making payments to BAC. Since December 20, 1996, the Company
+has filed separate federal and certain separate state and local tax returns
+according to the taxable activity of its operations. As a result, the
+Company federal and separate state and local income tax provisions and
+related tax liabilities were
+26
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+calculated on a stand-alone basis. In addition, the Company continues to be
+included in certain consolidated and combined state and local tax returns
+filed by BAC. In accordance with the Company tax allocation agreement with
+BAC, the consolidated and combined state and local income tax provision and
+related tax liabilities and assets for the Company will be determined as
+though the Company had filed separate tax returns. If the Company is unable to
+fully recognize all of its state and local deferred tax assets on a separate
+return basis, the Company will recognize additional deferred tax assets to the
+extent they are expected to be realized in the consolidated and combined state
+and local returns. Tax payments related to excess losses or tax credits will
+be received by the Company if these deductions and credits are utilized in the
+consolidated and combined state and local returns.
+Accounting for Stock-Based Compensation - Statement of Financial Accounting
+Standard SFAS No. 123, Accounting for Stock-Based Compensation provides an
+alternative to Accounting Principles Board APB Opinion No. 25 Accounting
+for Stock Issued to Employees. The Company accounts for its stock-based
+compensation plans in accordance with APB Opinion No. 25, and related
+interpretations. Accordingly, if the exercise price of the Company employee
+stock options equals or exceeds the fair market value of the underlying stock
+on the date of grant, no compensation expense is recognized by the Company. If
+the exercise price of an award is less than the fair market value of the
+underlying stock at the date of grant, the Company recognizes the difference
+as compensation expense over the vesting period of the award. The Company also
+provides the required pro forma net income and pro forma earnings per share
+disclosures as if the fair value measurement provisions of SFAS No. 123 had
+been adopted. See Note 9 of the Notes to Consolidated Financial Statements for
+additional information.
+Earnings per Common Share - Effective December 15, 1997, the Company adopted
+SFAS No. 128, Earnings per Share. SFAS No. 128 establishes new requirements
+for computing and presenting earnings per share. Under the new requirements,
+the method previously used to compute earnings per share is changed and all
+prior periods presented must be restated to conform to the new requirements.
+The new requirements eliminate primary earnings per share and earnings per
+common share, assuming full dilution, and require the presentation of earnings
+per common share and diluted earnings per common share. As a result, under the
+new requirements, earnings per common share excludes any dilutive effects of
+stock options and warrants. Also, the dilutive effect of stock options and
+warrants used to compute diluted earnings per common share is based on the
+average market price of the Company common stock for the period.
+Concentration of Credit Risk - Financial instruments that potentially
+subject the Company to concentrations of credit risk consist primarily of
+drafts in transit and accounts receivable.
+Fair Value of Financial Instruments - SFAS No. 107, Disclosures about Fair
+Value of Financial Instruments, requires disclosure of fair value information
+about financial instruments, whether or not recognized in the Consolidated
+Balance Sheet. Considerable judgement is required in interpreting market data
+to develop estimates of fair value. Therefore, for substantially all financial
+instruments, the fair value estimates presented herein are not necessarily
+indicative of the amounts the Company could have realized in a sales
+transaction at either December 31, 1997 or 1996. The use of different markets
+assumptions and/or estimation methodologies may have a material effect on the
+estimated fair value amounts.
+The carrying amounts of the Company financial instruments, which include
+cash and cash equivalents, short-term investments, receivables and obligations
+under accounts payable and other short-term liabilities, approximate their
+fair value.
+Recently Issued Accounting Standards - In June 1997, the Financial
+Accounting Stands Board FASB issued SFAS No. 130, Reporting Comprehensive
+Income, which is effective for fiscal years beginning after December 15,
+1997. SFAS No. 130 requires companies to report and display comprehensive
+income and its components revenues, expenses, gains, and losses in the
+financial statements. The adoption of SFAS No. 130,
+27
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+which will be implemented in the first quarter of 1998, will result in a
+change in financial statement presentation and will not have an impact on the
+Company financial position or results of operations.
+Also in June 1997, the FASB issued SFAS No. 131, Disclosures about Segments
+of an Enterprise and Related Information, which is effective for financial
+statements for periods beginning after December 15, 1997 and need not be
+applied to interim financial statements in the initial year of its
+application. SFAS No. 131 establishes standards for a more comprehensive
+disclosure about an enterprise operating segments. The Company plans to
+adopt SFAS No. 131 in the fourth quarter of 1998. The adoption of SFAS No. 131
+applies solely to disclosures and will not have an impact on the Company
+financial position or results of operations.
+Use of Estimates in the Preparation of Financial Statements - The
+preparation of the consolidated financial statements of the Company requires
+management to make estimates and assumptions that affect reported amounts.
+These estimates are based on information available as of the date of the
+financial statements. Therefore, actual results could differ from those
+estimates.
+3. MERCHANT DEPOSITS
+Merchant deposits are restricted deposit accounts held at the Bank that may
+be used by the Company to satisfy chargebacks and other disputes. When a
+credit card is used to initiate a transaction which is disputed by the
+cardholder, it is the responsibility of the card-accepting processor to see
+that the merchant resolves the dispute. If the merchant is unable or unwilling
+to do so, the processor may have to refund to the cardholder the purchase
+price of the disputed transaction. As protection against such liability, the
+Company may require certain merchants to maintain restricted deposit accounts
+in which the Company has a security interest. Because these deposits are legal
+liabilities of the respective Bank branches, such deposits do not appear on
+the balance sheet of the Company. At December 31, 1997, merchant deposits were
+approximately $67 million.
+4. SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+During 1996, the Company exchanged 302 million shares of Class B Common
+Stock for the Bank interest in certain net assets of its United States
+merchant processing operations. In addition, the Company issued 134,000 shares
+of restricted stock to management personnel. During 1997, the Company
+exchanged 22 million shares of Class B Common Stock for the Bank interest
+in specific net assets of certain of its Asian merchant processing operations.
+Additionally, during 1997 the Company issued 17,000 shares of restricted stock
+to management personnel.
+During the years ended December 31, 1997, 1996 and 1995, the Company made
+net income tax payments to BAC of $39 million, $159 million, and $147
+million, respectively. During the years ended December 31, 1997, 1996 and
+1995, the Company made additional income tax payments of $225 million, $13
+million and $13 million, respectively, directly to various taxing
+authorities. Cash payments for interest were approximately $08 million, $15
+million, and $08 million for the years ended December 31, 1997, 1996 and
+1995, respectively.
+28
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+5. PROPERTY AND EQUIPMENT
+The following is a summary of property and equipment as of December 31, 1997
+and 1996:
+1997   1996
+AMOUNTS IN THOUSANDS
+Furniture and  $ 12,373 $ 7,292
+Payment processing   56,044  43,170
+68,417  50,462
+Less: Accumulated   40,655 31,895
+$ 27,762 $ 18,567
+6. OTHER CURRENT LIABILITIES
+The following is a summary of other current liabilities as of December 31,
+1997 and 1996:
+1997  1996
+AMOUNTS IN THOUSANDS
+Merchant settlement  $10,070 $1,467
+Payable to   2,681 3,787
+456 1,342
+$13,207 $6,596
+7. REVOLVING LINE OF CREDIT
+During 1997, the Company had a $75 million revolving line of credit with
+Bank of America Texas, N.A. an affiliate that expired on December 31, 1997.
+The Company currently has a $100 million revolving line of credit facility
+inclusive of overdraft facilities established with the Bank that bears
+interest based on various optional rates at the Company election, including
+the Bank reference rate, or LIBOR plus 50 basis points, and includes a
+commitment fee of 0125% on the unused portion of the line of credit. Interest
+and any commitment fees are payable quarterly. The revolving line of credit
+expires on December 31, 1998.
+8. INCOME TAXES
+The significant components of the provision for income taxes were as
+follows:
+YEAR ENDED DECEMBER 31,
+1997   1996   1995
+DOLLAR AMOUNTS IN THOUSANDS
+Current:
+$21,411 $14,515 $11,058
+State and   5,869  4,691  3,678
+909  1,343  1,263
+28,189  20,549  15,999
+Deferred:
+2,026 1,065  240
+State and   143  232   28
+2,169 1,297  268
+$26,020 $19,252 $15,731
+Effective tax   410%  413%  414%
+29
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+The Company provision for income taxes differs from amounts computed by
+applying the federal statutory tax rate of 35% primarily due to state income
+taxes.
+The significant components of the Company deferred income tax assets and
+liabilities are shown below:
+DECEMBER 31,
+1997  1996
+AMOUNTS IN THOUSANDS
+Deferred income tax assets:
+Accrued  $2,075 $2,183
+State   1,584 1,338
+Identifiable intangible    167                                        Total deferred income tax   3,826 3,521
+Deferred income tax liabilities:
+Identifiable intangible    --  180
+Net deferred income tax  $3,826 $3,341
+Management believes that the Company will fully realize its total deferred
+income tax assets based upon its total deferred income tax liabilities and its
+current level of operating income. Accordingly, no valuation allowance was
+established for any reporting period presented.
+9. EMPLOYEE BENEFIT PLANS
+The Company participates in defined benefit pension plans, defined
+contribution plans, welfare benefit plans, and post-retirement and post-
+employment plans sponsored by BAC which cover substantially all salaried
+employees of the Company. The Company receives a monthly charge from BAC for
+its share of pension costs in an amount equivalent to the employer expense of
+the employee benefit plans, health and dental insurance plans, workers'
+compensation insurance, and other compensation-related expenses for its
+employees participating in the plans. Employee benefits costs incurred by the
+Company are calculated by applying a benefit factor percentage, as determined
+by BAC, against employee base salaries for the defined benefit pension plan
+and defined contribution plans and a per employee charge for welfare benefits.
+For the years ended December 31, 1997, 1996, and 1995, the Company incurred a
+total expense of $44 million, $41 million, and $30 million, respectively,
+for its share of retirement and welfare plan expenses.
+Defined Benefit Plans - Eligible salaried U.S. employees of the Company are
+covered under the BankAmerica Pension Plan the Pension Plan, which is a
+defined benefit cash balance plan. Prior to January 1, 1996, certain Company
+employees were covered by the Seafirst Corporation Retirement Plan the
+Seafirst Plan, a final average pay defined benefit plan. Effective December
+31, 1995, the Seafirst Plan was merged into the Pension Plan; however, the
+Seafirst Plan benefit formula remained in effect for Seafirst employees
+through March 31, 1996.
+Benefits are based on the employees' length of service, level of
+compensation and a specified interest rate 650%, 725%, and 650% for the
+years ending December 31, 1997, 1996 and 1995, respectively. Effective
+January 1, 1996, the benefit formula of the Pension Plan was amended such that
+eligible participants receive nonmatching employer contributions, called pay-
+based credits, of 7 percent of annual qualified earnings over one-half of the
+Social Security wage base. Contributions are made by the Company to BAC based
+on actuarial computations of the amount sufficient to fund the current service
+cost plus amortization of the unfunded actuarial accrued liability.
+Contributions are determined in accordance with Internal Revenue Service
+funding requirements and are invested in diversified portfolios. Effective
+April 1, 1998, eligible hourly employees will also realize pension-based
+credits.
+30
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Certain non-U.S. employees of the Company are covered by noncontributory
+defined pension plans that the Company funds primarily in accordance with
+local laws. The actuarial assumptions used in computing the present value of
+the accumulated benefit obligation, the projected benefit obligation, and net
+pension expense for the non-U.S. plans are substantially consistent with those
+assumptions used for the U.S. plans, given local conditions.
+Aggregate contributions for all the defined benefit plans were $18 million 11 million, and $04 million for the years ended December 31, 1997, 1996,
+and 1995, respectively.
+Defined Contribution Plans - The majority of salaried U.S. employees of the
+Company participate in the BankAmerica 401k Investment Plan. This plan
+provides tax-deferred investment opportunities to salaried employees who have
+completed a required length of service. Employees may contribute to the plan
+up to certain limits prescribed by the Internal Revenue Service. A portion of
+these contributions is matched by the Company. Contributions are invested at
+the direction of the participant. Prior to April 1, 1996, certain Company
+employees participated in the Seafirst Corporation Employee Matched Savings
+Plan Seafirst Savings Plan, also a defined contribution plan with matching
+employer contributions. Effective April 1, 1996, the Seafirst Savings Plan was
+merged into and replaced by the BankAmerica 401k Investment Plan. Effective
+January 1, 1996, the BankAmerica 401k Investment Plan was amended to provide
+eligible employees with pay-based credits equal to 3 percent or 7 percent of
+an eligible employee annual qualified earnings up to one-half of the Social
+Security wage base, depending upon the employee age or length of service.
+Effective April 1, 1998, eligible hourly employees will be able to contribute
+to the plan and receive company matching contributions and pay-based credits.
+Matching contributions made by the Company on behalf of eligible U.S.
+employees to BankAmerica 401k Investment Plan were $07 million, $06
+million, and $06 million for the years ended December 31, 1997, 1996 and
+1995, respectively.
+Post-Retirement Health Care and Life Insurance Benefits - Currently, the
+Company provides certain defined health care and life insurance benefits under
+plans for certain U.S. retired employees sponsored by BAC. Retiree health care
+benefits are offered under self-insured arrangements, as well as through
+various health maintenance organizations. Retiree life insurance benefits are
+provided through an insurance company. BAC allocates the cost of post-
+retirement benefits to the Company as part of a per employee charge for
+welfare benefits. That charge is periodically reviewed and evaluated. The
+retiree share is the remainder of the cost for the given coverage. BAC
+policy is to fund the cost of medical benefits in amounts determined at the
+discretion of management. Employer contributions are invested in diversified
+portfolios, including fixed income and equity investments.
+Contributions expense to the Plan were $05 million, $04 million and $04
+million for the three years ended December 31, 1997, 1996 and 1995,
+respectively.
+Stock Plans - During 1996, the Company adopted two stock-based compensation
+plans: the BA Merchant Services, Inc. Long-Term Incentive Plan the LTIP and
+the BA Merchant Services, Inc. Nonemployee Director Stock Plan the Director
+Plan. Compensation expense related to these stock plans was $25 million in
+1996, substantially all of which represents a one-time charge for the
+conversion of employee options from BAC shares to the Company shares, as
+discussed below.
+The Company offers shares of its common stock to certain officers and
+employees of the Company and its subsidiaries under the LTIP and to directors
+of the Company who are not also employees of the Company or BAC nonemployee
+directors under the Director Plan. Seven million shares of the Company
+Class A Common Stock have been authorized for issuance through the LTIP and
+the Director Plan in the aggregate. Both plans are administered by the
+Executive Personnel and Compensation Committee of the Board of Directors the
+31
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-- CONTINUED
+Compensation Committee. The Compensation Committee may award a number of
+forms of stock-based compensation to eligible employees, including incentive
+and nonqualified stock options, stock appreciation rights, restricted stock,
+performance units, and performance shares, and may award nonqualified stock
+options to nonemployee directors.
+On December 19, 1996, contingent upon completion of the Offerings, the
+Company awarded to its executive officers stock options representing 257,000
+shares of Class A Common Stock and 134,000 Class A Common Restricted Stock
+with a fair value at the date of grant of $1550 per share. The transfer of
+stock was at no cost to the officers. The shares under option vest ratably
+over three years and have a maximum term of ten years after the grant date. An
+additional 17,000 restricted shares were issued during 1997. As of December
+31, 1997, 140,395 restricted shares were outstanding. One-third of the
+restricted shares vest three years after the date of grant. The remaining
+shares vest ratably thereafter over the next two years. Compensation expense
+related to the restricted shares was $06 million for the year ended December
+31, 1997.
+The Company has adopted a program within the LTIP called Ownership
+Counts!TM under which substantially all employees of the Company receive
+periodic stock option grants, or stock appreciation rights SARs in certain
+foreign locations, for no more than 600 shares of the Company Class A Common
+Stock annually. SARs are generally exercisable under the same terms as the
+options. The shares under option vest ratably over three years and have a
+maximum term of five years after the date the options are granted.
+On December 31, 1996, certain employees of the Company who had received BAC
+stock options and restricted stock under BAC management stock plans elected
+to exchange their BAC stock options and restricted stock for stock options
+representing 329,711 shares of the Company Class A Common Stock and 2,092
+shares of the Company Class A Common Restricted Stock with a fair value at
+the date of exchange of $1788, as provided by the LTIP agreement. The
+employee stock exchange resulted in a one-time charge of $24 million to
+compensation expense.
+Under the Director Plan, each nonemployee director is granted options to
+purchase shares of the Company Class A Common Stock upon election to the
+Board of Directors and on the day following each annual meeting of the
+Company stockholders. The shares under option vest on the day before the
+annual meeting of the Company stockholders following the date of grant and
+have a ten-year term.
+At December 31, 1997, shares available for grant under the LTIP and Director
+Plan as either stock options or restricted stock were 5,957,913. Shares
+subject to options that are canceled become available for future grants.
+The following is a summary of the Company stock option activity, and
+related information for the periods ended December 31, 1997 and 1996:
+1997          1996
+WEIGHTED-        WEIGHTED-
+AVERAGE         AVERAGE
+SHARES  EXERCISE PRICE SHARES  EXERCISE PRICE
+Balance, beginning of year. 658,765   $1306     --       253,083   $1601   658,865   $1306
+34   $1550     --       20,829   $1623    100   $1550
+Balance, end of year. 890,985   $1382   658,765   $1306
+Exercisable at end of year. 369,959   $1167   132,570   $ 838
+32
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+At December 31, 1997, 393,261 options were outstanding with exercise prices
+ranging from $797 to $1489 having a weighted-average remaining contractual
+life of 67 years, and 497,724 options were outstanding with exercise prices
+ranging from $1550 to $1919 having a weighted-average remaining contractual
+life of 73 years.
+The table below reflects the Company pro forma net income and pro forma
+earnings per share for the years ended December 31, 1997 and 1996, as if
+compensation cost for the Company stock plans had been determined based on
+the estimated fair value at the grant dates for awards under those plans and
+expensed. Since pro forma compensation cost relates to all periods over which
+the awards vest, the initial impact on pro forma net income may not be
+representative of compensation cost in subsequent years, when the effect of
+the amortization of multiple awards would be reflected.
+YEAR ENDED DECEMBER 31,
+PRO FORMA RESULTS                    1997    1996
+IN THOUSANDS, EXCEPT PER SHARE DATA
+Net  $  36,674 $  27,309
+Earnings per common  $   075 $   056
+Diluted earnings per common share. $   075 $   056
+Fair values of the options were estimated at the date of grant using a
+variation of the Black-Scholes option pricing model, which includes the
+following assumptions used for the stock options awarded during 1997 and 1996,
+respectively: risk free weighted average interest rate of 623 percent and
+613 percent; weighted average expected volatility of 642 percent and 230
+percent; expected option life of the LTIP of 43 and 41 years; expected life
+for Ownership Counts!TM of 26 and 26 years and the expected life for the
+Director Plan of 100 and 100 years; and expected dividend yield of zero.
+The weighted-average grant date fair value of the options granted during
+1997 and 1996 was $764 and $467 per share, respectively. The exercise price
+of each option equals the market price of the Company Class A Common Stock
+on the date of grant. Expiration dates for options outstanding at December 31,
+1997 ranged from December 18, 2001 to August 1, 2007.
+10. COMMITMENTS
+The Company has contractual agreements with third parties to receive
+merchant data processing services and data processing and card transaction
+services. Included in these contracts is an agreement with a third party who
+provides the primary processing service to the Company and with whom the
+Company has a long-term contract which expires in 2001. Future commitments
+under this contract are unknown as payment amounts vary with volumes
+processed.
+11. RELATED PARTIES
+The Company and BAC engage in various intercompany transactions and
+arrangements including the provision by BAC of various services to the
+Company. Such services are currently provided pursuant to various intercompany
+agreements which, among other things, grant to the Company a license to use
+the Bank of America name and certain trademarks and services marks in
+connection with the Company business.
+Additional services provided by BAC under the intercompany agreements
+include product distribution, processing, system support, telecommunications,
+marketing, regulatory compliance, legal, tax and treasury, accounting and
+audit and other miscellaneous support and administrative services. Fees paid
+for these services were approximately $78 million, $109 million, and $84
+million, for the years ended December 31, 1997, 1996, and 1995, respectively.
+33
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+As part of the intercompany agreements, the Company paid BAC total rental
+expense of $26 million, $22 million, and $22 million, for the years ended
+December 31, 1997, 1996, and 1995, respectively. The Company leases its
+facilities from BAC under a five-year lease agreement which can be cancelled
+with six months notice.
+The Company believes that the cost of services provided under the
+intercompany arrangements are not materially different from the costs that
+would have been incurred if the Company was unaffiliated with BAC.
+In connection with the Offerings, BAC and the Company also entered into a
+Non-Competition and Corporate Opportunities Allocation Agreement pursuant to
+which BAC will not compete with the Company for a period of five years with
+respect to payment processing for merchants to the extent that such payments
+arise in the use of credit, charge or debit cards for the purchase of goods
+and services and are authorized through an electronic medium originating at
+the point of sale in the United States and, following the transfer of the
+Bank merchant processing business in Taiwan, Thailand and the Philippines,
+in those Asian countries. Any or all of the intercompany agreements may be
+terminated by BAC, if at any time it beneficially owns shares representing
+less than a majority of the voting power of the Company outstanding common
+stock.
+12. EARNINGS PER SHARE
+Historical earnings per share have not been presented for the years ended
+December 31, 1996 and 1995 since such information would not be meaningful
+because the Company had no outstanding stock prior to the Reorganization. Pro
+forma earnings per share for the years ended December 31, 1996 and 1995 were
+computed by dividing net income by the weighted-average number of common
+shares outstanding and the additional dilutive effect of the stock rights and
+options outstanding assuming the Reorganization and Asia Acquisitions had
+occurred as of January 1, 1994 and the stock issued in the Reorganization,
+Offerings and Asia Acquisitions had been outstanding for the two years ended
+December 31, 1996:
+YEAR ENDED
+DECEMBER 31,
+1996  1995
+AMOUNTS IN THOUSANDS, EXCEPT PER SHARE DATA
+Net  $27,365 $22,294
+Average number of shares   48,500 48,500
+Pro forma earnings per share    $56  $46
+Pro forma earnings per share, as adjusted unauditeda.   $69  $57  a Pro forma earnings per share, as adjusted unaudited, assumes that
+proceeds from the Offerings in the fourth quarter of 1996 were available
+from January 1, 1994 and were invested in short-term investments, and
+excludes the one-time expense related to the employee stock exchange $24
+million and interest expense $492,000 from the 1996 results.
+13. COMMON AND PREFERRED STOCK
+The Company has two classes of authorized common stock: Class A Common Stock
+and Class B Common Stock. Holders of the Class A Common Stock generally have
+identical rights to holders of Class B Common Stock, except that holders of
+Class A Common Stock are entitled to one vote per share while holders of the
+Class B Common Stock are entitled to ten votes per share on all matters
+submitted to a vote of stockholders.
+The Company is authorized to issue, in one or more series, ten million
+shares of preferred stock and to fix the dividend rights, conversion rights,
+terms and rights of redemption, liquidation preferences and sinking fund
+terms. At December 31, 1997 and 1996, no preferred stock was outstanding.
+34
+BA MERCHANT SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+14. FORWARD EXCHANGE CONTRACTS
+At December 31, 1997, the Company had entered into short-term non-delivery
+forward exchange contracts with BAC. Those contracts had notional principal
+amounts totaling $304 million at forward rates ranging from New Taiwanese
+NT $2899 to NT $3334. Exposure to loss on these contracts will increase or
+decrease over the contract life as currency exchange rates fluctuate. No such
+foreign exchange contracts were outstanding at December 31, 1996.
+15. SUPPLEMENTAL PRO FORMA STATEMENT OF OPERATIONS UNAUDITED
+Supplemental unaudited pro forma Condensed Consolidated Statements of
+Operations for the years ended December 31, 1996 and 1995 have not been
+presented since the effects of the Reorganization, Offerings and the Asia
+Acquisitions will not have a material impact on the Company operating
+results.
+16. QUARTERLY FINANCIAL SUMMARY UNAUDITED
+YEAR ENDED DECEMBER 31, 1997
+FIRST  SECOND  THIRD  FOURTH
+QUARTER QUARTER QUARTER QUARTER
+AMOUNTS IN THOUSANDS, EXCEPT PER SHARE
+DATA
+Net   $35,969 $38,882 $41,192 $44,932
+Operating expense.  24,360  25,579  26,115  29,235
+Operating income.  11,609  13,303  15,077  15,697
+Net interest income expense.   1,524  2,228  2,059  1,951
+Income before income taxes.  13,133  15,531  17,136  17,648
+Provision for income taxes.   5,428  6,420  7,082  7,090
+Net   $ 7,705 $ 9,111 $10,054 $10,558
+Diluted earnings per common share 1.  $ 016 $ 019 $ 021 $ 022
+YEAR ENDED DECEMBER 31, 1996
+FIRST  SECOND  THIRD  FOURTH
+QUARTER QUARTER QUARTER QUARTER
+Net   $30,841 $34,392 $35,444 $38,099
+Operating expense.  19,985  21,888  23,704  25,124
+Operating income.  10,856  12,504  11,740  12,975
+Net interest income expense.   291  269  254  644
+Income before income taxes.  10,565  12,235  11,486  12,331
+Provision for income taxes.   4,363  5,053  4,744  5,092
+Net   $ 6,202 $ 7,182 $ 6,742 $ 7,239
+Pro forma diluted earnings per common
+share   $ 013 $ 015 $ 014 $ 015
+Pro forma diluted earnings per common
+share,
+as adjusted 12..  $ 015 $ 017 $ 016 $ 021
+1 The earnings per common share amounts are the same for each period
+presented.
+2 See Note 12 of the Notes to Consolidated Financial Statements.
+35
+Item 2.    10
+Item 3. Legal   10
+Item 4. Submission of Matters to a Vote of Security Holders.  10
+PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+Information concerning directors and executive officers of the Company is
+incorporated by reference from the text under the captions, Proposal 1:
+Election of Directors, and Executive Officers of the Company in the Proxy
+Statement for the Company May 7, 1998 Annual Meeting of Stockholders.

@@ -1,0 +1,875 @@
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+REPORT OF INDEPENDENT ACCOUNTANTS
+The Board of Directors and Stockholders of BroadVision, Inc.  We have audited the accompanying consolidated balance sheet of BroadVision,
+Inc. a Delaware corporation and subsidiaries as of December 31, 1999, and the
+related consolidated statements of operations, stockholders' equity, and cash
+flows for the year then ended. These consolidated financial statements are the
+responsibility of the Company management. Our responsibility is to express an
+opinion on these consolidated financial statements based on our audit.
+We conducted our audit in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audit provides a reasonable basis
+for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of BroadVision,
+Inc. and subsidiaries as of December 31, 1999, and the results of their
+operations and their cash flows for the year then ended in conformity with
+accounting principles generally accepted in the United States.
+Arthur Andersen LLP
+San Jose, California
+January 24, 2000, except with respect
+to the matter discussed in the section
+entitled Stock Splits in Note 1,
+as to which the date is March 13, 2000.                    40             REPORT OF INDEPENDENT ACCOUNTANTS
+The Board of Directors and Stockholders of BroadVision, Inc.  We have audited the accompanying consolidated balance sheet of BroadVision,
+Inc. and subsidiaries as of December 31, 1998, and the related consolidated
+statements of operations, stockholders' equity, and cash flows for each of the
+years in the two-year period ended December 31, 1998. These consolidated
+financial statements are the responsibility of the Company management. Our
+responsibility is to express an opinion on these consolidated financial
+statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of BroadVision,
+Inc. and subsidiaries as of December 31, 1998, and the results of their
+operations and their cash flows for each of the years in the two-year period
+ended December 31, 1998, in conformity with generally accepted accounting
+principles.
+KPMG LLP
+Mountain View, California
+January 26, 1999, except as to the section of Note 1
+entitled Stock Splits, which is as of March 13, 2000                    41                         BROADVISION, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+in thousands, except per share amounts                                                        December 31,
+1998        1999
+ASSETS
+Current assets:
+Cash and cash equivalents                                      $ 61,878     $ 279,823
+Short-term investments                                          --       68,758
+Accounts receivable, less allowance for doubtful accounts of $788 and $1,446
+as of December 31, 1998 and 1999, respectively                            15,361      26,540
+Prepaids and other                                           2,889       5,085
+Total current assets                                      80,128      380,206
+Property and equipment, net                                        8,034      16,751
+Long-term investments                                          11,546       4,414
+Deferred tax assets                                             700        Other assets                                               1,154       4,757
+Total assets                                        $ 101,562     $ 406,128
+LIABILITIES AND STOCKHOLDERS' EQUITY Current liabilities  Accounts payable                                          $  2,243     $  5,754
+Accrued expenses                                            4,933      13,307
+Unearned revenue                                            1,918       3,896
+Deferred maintenance                                          6,157      15,228
+Current portion of capital lease obligations                               709        270
+Current portion of long-term debt                                     548        977
+Total current liabilities                                   16,508      39,432
+Capital lease obligations, net of current portion                              270        Long-term debt, net of current portion                                  2,924       4,875
+Deferred tax liabilities                                          --       16,618
+Other liabilities                                              51        15
+Total liabilities                                       19,753      60,940
+Commitments Note 7
+Stockholders' equity:
+Convertible preferred stock, $00001 par value;
+10,000 shares authorized; none issued and outstanding                         --          Common stock, $00001 par value; 500,000 shares
+authorized; 223,164 and 244,812 shares issued and
+outstanding as of December 31, 1998 and 1999, respectively                        21        24
+Additional paid-in capital                                       98,748      320,259
+Deferred compensation                                          555       226
+Accumulated other comprehensive income                                 3,198      25,925
+Accumulated deficit                                          19,603       794
+Total stockholders' equity                                   81,809      345,188
+Total liabilities and stockholders' equity                         $ 101,562     $ 406,128
+The accompanying notes are an integral part of these consolidated financial statements                    42            BROADVISION, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+in thousands, except per share amounts
+Years Ended December 31,
+1997     1998     1999
+Revenues:
+Software licenses             $ 18,973  $ 36,067  $ 75,383
+Services                    8,132    14,844    40,131
+Total revenues            27,105    50,911   115,514
+Cost of revenues:
+Cost of license revenues            1,664    1,001    3,703
+Cost of services revenues           4,284    8,704    25,108
+Total cost of revenues           5,948    9,705    28,811
+Gross profit             21,157    41,206    86,703
+Operating expenses:
+Research and development            7,392    9,227    14,568
+Sales and marketing              18,413    26,269    48,903
+General and administrative           2,990    3,786    7,970
+Total operating expenses         28,795    39,282    71,441
+Operating income loss        7,638    1,924    15,262
+Other income, net                 265    2,036    4,543
+Income loss before income taxes   7,373    3,960    19,805
+Income tax provision benefit          --      79     996
+Net income loss         $ 7,373  $  4,039  $ 18,809
+Basic earnings loss per share       $  004  $  002  $  008
+Diluted earnings loss per share      $  004  $  002  $  007
+Shares used in computing basic
+earnings loss per share          181,872   210,114   229,128
+Shares used in computing diluted
+earnings loss per share          181,872   230,877   260,712
+The accompanying notes are an integral part of these consolidated
+financial statements                    43                        BROADVISION, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+in thousands, except per share amounts                            Convertible                            Accumulated
+Preferred Stock     Common Stock   Additional          Other
+Paid-in   Deferred  Comprehensive
+Shares   Amount   Shares    Amount   Capital  Compensation   Income
+Balances as of December 31, 1996         --     --   179,172     18    39,300   2,033       Net loss and comprehensive loss          --     --     --     --      --     --       Issuance of common stock under employee
+stock purchase plan               --     --    2,178     --      979     --       Issuance of common stock from exercise of
+options                     --     --    2,295     --      81     --       Common stock repurchased             --     --    558     --      10     --       Amortization of deferred compensation       --     --     --     --      --     428                                                  Balances as of December 31, 1997         --     --   183,087     18    40,350   1,605       Comprehensive income:
+Net income
+Unrealized gain on equity securities                                            3,198
+Total comprehensive income
+Issuance of common stock from public
+offering, net of costs              --     --   31,104      3    53,742     --       Issuance of common stock for long-term
+investments                   --     --    1,107     --     1,322     --       Issuance of common stock from exercise of
+warrants                    --     --     261     --      --     --       Issuance of common stock under employee
+stock purchase plan               --     --    2,052     --     1,599     --       Issuance of common stock from exercise of
+options                     --     --    5,697     --     2,190     --       Common stock repurchased             --     --    144     --      2     --       Deferred compensation forfeited due to
+voluntary termination              --     --     --     --     693    693       Deferred compensation on stock options      --     --     --     --      240    240       Amortization of deferred compensation       --     --     --     --      --     597                                                  Balances as of December 31, 1998         --     --   223,164     21    98,748    555     3,198
+Comprehensive income:
+Net income
+Unrealized gain on equity securities, net
+of $17,318 tax                                                      22,727
+Total comprehensive income
+Issuance of common stock under employee
+stock purchase plan               --     --    1,833     --     3,928     --       Issuance of common stock from exercise of
+options                     --     --   10,038     --     7,201     --       Issuance of common stock from public
+offering, net of costs of $2,285         --     --    9,315      3    210,376     --       Issuance of common stock from exercise of
+warrant                     --     --     462     --       6     --       Amortization of deferred compensation       --     --     --     --      --     329                                                  Balances as of December 31, 1999         --     --   244,812  $   24   $320,259   $ 226   $ 25,925
+Total
+Accumulated Comprehensive  Stockholders'
+Deficit  Income loss   Equity
+Balances as of December 31, 1996         16,269           21,016
+Net loss and comprehensive loss          7,373   $ 7,373    7,373
+Issuance of common stock under employee
+stock purchase plan                 --             979
+Issuance of common stock from exercise of
+options                       --              81
+Common stock repurchased                --             10
+Amortization of deferred compensation         --             428
+Balances as of December 31, 1997         23,642           15,121
+Comprehensive income:
+Net income                     4,039   $ 4,039     4,039
+Unrealized gain on equity securities               3,198     3,198
+Total comprehensive income               $ 7,237
+Issuance of common stock from public
+offering, net of costs                 --            53,745
+Issuance of common stock for long-term
+investments                     --            1,322
+Issuance of common stock from exercise of
+warrants                       --              Issuance of common stock under employee
+stock purchase plan                 --            1,599
+Issuance of common stock from exercise of
+options                       --            2,190
+Common stock repurchased                --              2
+Deferred compensation forfeited due to
+voluntary termination                 --              Deferred compensation on stock options         --              Amortization of deferred compensation         --             597
+Balances as of December 31, 1998         19,603           81,809
+Comprehensive income:
+Net income                    18,809   $ 18,809     18,809
+Unrealized gain on equity securities, net            22,727     22,727
+of $17,318 tax                            Total comprehensive income               $ 41,536
+Issuance of common stock under employee
+stock purchase plan                 --            3,928
+Issuance of common stock from exercise of
+options                       --            7,201
+Issuance of common stock from public
+offering, net of costs of $2,285           --           210,379
+Issuance of common stock from exercise of       --              6
+warrant
+Amortization of deferred compensation         --             329
+Balances as of December 31, 1999         $  794          $347,288
+The accompanying notes are an integral part of these consolidated financial statements                    44            BROADVISION, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+in thousands
+Years Ended December 31,
+1997     1998     1999
+Cash flows from operating activities:
+Net income loss                    $ 7,373  $  4,039  $ 18,809
+Adjustments to reconcile net income loss to net
+cash provided by used for operating activities:
+Depreciation and amortization                1,613    2,947    4,739
+Amortization of deferred compensation             428     597     329
+Provision for doubtful accounts                515     458     758
+Revenue resulting from non-monetary transactions       --     2,917      Amortization of prepaid royalties              --      250     333
+Amortization of prepaid compensation             --      --      182
+Changes in operating assets and liabilities, net
+of effects from acquired business:
+Accounts receivable                   5,966   7,036   11,368
+Prepaid expenses and other                 194   2,716    403
+Accounts payable and accrued expenses            547    3,145    11,602
+Unearned revenue and deferred maintenance         1,751    2,633    10,930
+Increase in other noncurrent assets             --      237   2,565
+Net cash provided by used for operating
+activities                     8,679    1,163    33,346
+Cash flows from investing activities:
+Purchase of property and equipment             4,878   4,198   13,291
+Purchase of long-term investments              --     3,000   1,414
+Payment for business acquisition, net of cash        --      --     3,765
+acquired
+Purchase of short-term investments              796    --    72,783
+Maturity of short-term investments             2,112     796    52,667
+Net cash used for investing activities        3,562   6,402   38,586
+Cash flows from financing activities:
+Proceeds from sale/leaseback                 987     --       Net change in restricted cash               1,400    1,400      Proceeds from borrowings                  2,651    1,424    3,000
+Repayments of borrowings                   --      603    620
+Payments on capital lease obligations            378    913    709
+Proceeds from issuance of common stock, net         1,050    57,532   221,514
+Net cash provided by financing activities       2,910    58,840   223,185
+Net increase decrease in cash and cash equivalents     9,331   53,601   217,945
+Cash and cash equivalents, beginning of period        17,608    8,277    61,878
+Cash and cash equivalents, end of period         $  8,277  $ 61,878  $ 279,823
+Supplemental cash flow disclosures:
+Cash paid for interest                 $   108  $   394  $   404
+Cash paid for income taxes                  156     428     538
+Long-term investments reclassified as current        --      --     48,642
+Prepaids and other assets acquired through
+non-monetary transactions                 --     1,250      Investments acquired through non-monetary
+transactions                        --     4,025      Unearned revenue and deferred maintenance from non-
+monetary transactions                   --     2,358      Equipment acquired under capital leases           1,165     316      Long-term investment acquired in exchange for
+common stock                       --     1,322      Deferred compensation on stock options            --      240      Deferred compensation forfeited due to voluntary
+terminations                        --      693      Net unrealized gain on equity investments          --     3,198    22,727  The accompanying notes are an integral part of these consolidated financial statements                    45            BROADVISION, INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+December 31, 1999
+Note 1 -- Organization and Summary of Significant Accounting Policies
+Nature of Business
+BroadVision, Inc. collectively with its subsidiaries, the Company was
+incorporated in the state of Delaware on May 13, 1993. The Company develops,
+markets and supports application software solutions specifically designed for
+one-to-one relationship  management across an extended enterprise.  These
+solutions enable businesses to use the Internet as a platform to conduct
+electronic commerce, provide online customer self-service, deliver targeted
+information to constituents and provide online financial services. Each of these
+capabilities can be made available to all constituents of the extended
+enterprise,  including:  customers,  suppliers, partners, distributors and
+employees. The BroadVision One-To-One product suite empowers businesses to
+uniquely tailor Web site content to the needs and interests of individual users
+by personalizing each constituent visit on a real-time interactive basis. The
+Company applications accomplish this by interactively capturing Web site
+visitor profile information and targeting organized content of an enterprise to
+each visitor based on easily constructed business rules.
+Basis of Presentation and Use of Estimates
+The accompanying consolidated financial statements include the accounts of
+the Company and its wholly-owned subsidiaries. All significant intercompany
+accounts and transactions have been eliminated in consolidation. The preparation
+of consolidated financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make certain
+assumptions and estimates that affect reported amounts of assets and liabilities
+as of the date of the financial statements and the reported amounts of revenues
+and expenses during the reporting period. Actual results could differ from
+estimates.
+Revenue Recognition
+The Company revenue recognition policies are in accordance with Statement
+of Position SOP 97-2, Software Revenue Recognition, as amended. In general,
+software license revenues are recognized when a non-cancelable license agreement
+has been signed and the customer acknowledges an unconditional obligation to
+pay, the software product has been delivered, there are no uncertainties
+surrounding product acceptance, the fees are fixed and determinable, and
+collection is considered probable; professional services revenues are recognized
+as such services are performed; and maintenance revenues, including revenues
+bundled with software agreements which entitle the customers to technical
+support and future unspecified enhancements to the Company products, are
+deferred and recognized ratably over the related contract period, generally
+twelve months. Revenues recognized from multiple-element software arrangements
+are allocated to each element of the arrangement based on the fair values of the
+elements, such as software products, upgrades, enhancements, post contract
+customer support, installation, or training. The determination of fair value is
+based on objective evidence which is specific to the Company.
+The Company records unearned revenue for software arrangements when cash has
+been received from the customer and the arrangement does not qualify for revenue
+recognition under the Company revenue recognition policy. The Company records
+accounts receivable for software arrangements when the arrangement qualifies for
+revenue recognition and cash or other consideration has not been received from
+the customer.
+In December 1998, AcSEC issued SOP 98-9 Software Revenue Recognition, With
+Respect to Certain Transactions, which requires recognition of revenue using the
+residual method in a multiple-element arrangement when fair value does not
+exist for one or more of the delivered elements in the arrangement. Under the
+residual method, the total fair value of the undelivered elements is deferred
+and subsequently recognized in accordance with SOP 97-2. There was no material
+change to the Company accounting for revenues as a result of the provisions of
+SOP 98-9.                    46 Research and Development and Software Development Costs
+Under the criteria set forth in Statement of Financial Accounting Standards
+SFAS No. 86,  Accounting for the Cost of Computer Software to be Sold,
+leased or Otherwise Marketed,  development costs incurred in the research and
+development  of new software  products  are expensed as incurred  until
+technological feasibility in the form of a working model has been established at
+which time such costs are capitalized, subject to recoverability. Products are
+made available for limited release,  concurrent with the achievement of
+technological feasibility. Accordingly, software development costs incurred
+subsequent to the establishment of technological feasibility have not been
+significant, and the Company has not capitalized any software development costs
+to date.
+Prepaid Royalties
+Prepaid royalties relating to purchased software to be incorporated and sold
+with the Company software products are amortized as a cost of revenue either
+on a straight-line basis over the remaining term of the royalty agreement or on
+the basis of projected product  revenues,  whichever results in greater
+amortization.
+Cash and Cash Equivalents
+The Company considers all debt securities with remaining maturities of three
+months or less at the date of purchase to be cash equivalents. The Company
+cash equivalents consisted of the following in thousands                            December 31,
+1998     1999
+Cash                  $ 1,978   $ 16,945
+Money market funds.     48,900   125,807
+Commercial paper.     11,000   137,071
+$ 61,878   $279,823
+Short-term Investments
+The Company short-term investments consist of marketable equity and debt
+securities that are classified as available-for-sale. The Company investment
+in marketable equity securities is carried at fair value with related unrealized
+gains or losses reported as other comprehensive income, net of tax. As of
+December 31, 1999, the Company investment in marketable equity securities had
+a fair value of $48,642,000 and a cost basis of $5,348,000. The Company debt
+securities are carried at amortized cost which approximates fair value. As of
+December 31, 1999, debt security investments consisted of $9,700,000 with
+maturities of approximately one year and $10,416,000 of mutual bond funds.
+Concentrations of Credit Risk
+Financial assets that potentially  subject the Company to significant
+concentrations of credit risk consist principally of cash, cash equivalents,
+short-term investments, and trade accounts receivable. The Company markets and
+sells its products throughout the world and performs ongoing credit evaluations
+of its customers. The Company generally does not require collateral on accounts
+receivable as the majority of its customers are large, well-established
+companies. The Company maintains reserves for potential credit losses but
+historically has not experienced any significant losses related to individual
+customers or groups of customers in any particular industry or geographic area.
+Fair Value of Financial Instruments
+The Company financial instruments consist of cash equivalents, short-term
+investments, accounts receivable, accounts payable and debt. The Company does
+not have any derivative financial instruments. The Company believes the reported
+carrying amounts of its financial instruments approximates fair value, based
+upon the short                    47 maturity of cash equivalents, short-term investments, accounts receivable and
+payable, and based on the current rates available to the Company on similar debt
+issues.
+Property and Equipment
+Property and equipment are stated at cost and depreciated on a straight-line
+basis over their estimated useful lives two to five years. Leasehold
+improvements are amortized over the corresponding lease term or their estimated
+useful lives, whichever is shorter.
+The Company evaluates long-lived assets and certain identifiable intangibles
+for impairment whenever events or changes in circumstances indicate that the
+carrying amount of an asset may not be recoverable. Recoverability of assets is
+measured by a comparison of the carrying amount of an asset to future net cash
+flows expected to be generated by the asset. If such assets are considered to be
+impaired, the impairment to be recognized is measured by the amount by which the
+carrying amount of the property and equipment exceeds its fair market value.
+Long-term Investments
+As of December 31, 1999, long-term investments consist of non-marketable
+equity securities. As of December 31, 1998, long-term investments consist of
+non-marketable equity securities and a marketable equity securities investment
+carrying value of $8,546,000.
+The Company accounts for its non-marketable equity security investments based
+on the cost method as the Company does not have the ability to significantly
+influence the operating and financial policies of its investees. Any decline in
+value, which is other than a temporary decline, is charged to earnings during
+the period in which the impairment occurs. The Company classifies its marketable
+equity security investments as available for sale. Accordingly, marketable
+equity security investments are recorded at fair value with related unrealized
+gains or losses reported as other comprehensive income.
+As of December 31, 1998, the Company investment in marketable equity
+securities had a fair value of $8,546,000 and a cost basis of $5,348,000. As of
+December 31, 1999, this investment has been classified as a short-term
+investment.
+Deferred Tax Assets and Deferred Tax Liabilities
+The Company utilizes the asset and liability method of accounting for income
+taxes. Under the asset and liability method, deferred tax assets and liabilities
+are established to recognize the future tax consequences attributable to
+differences between the financial statement carrying amounts of existing assets
+and liabilities and their respective tax bases. Deferred tax assets and
+liabilities are measured using enacted tax rates expected to apply in the years
+in which temporary differences are expected to be recovered or settled. The
+effects on deferred tax assets and liabilities of a change in tax rates is
+recognized in income in the period that includes the enactment date.
+Employee Stock Option and Purchase Plans
+The Company accounts for employee stock-based awards in accordance with the
+provisions of Accounting Principles Board APB Opinion No. 25, Accounting for
+Stock Issued to Employees, and related interpretations. As such, compensation
+expense is recorded on the date of grant only if the current market price of the
+underlying stock exceeded the exercise price. Pursuant to SFAS No. 123,
+Accounting for Stock-Based Compensation, the Company discloses the pro forma
+effects of using the fair value method of accounting  for  stock-based
+compensation arrangements.
+Stock Splits
+On September 29, 1999, the Company Board of Directors  declared a
+three-for-one  common stock split in the form of a stock dividend for
+Stockholders of record as of October 11, 1999. The stock dividend payment date
+was                    48 October 25, 1999 and the Company common stock traded ex-dividend starting
+October 26, 1999, reflecting the three-for-one stock split.
+Subsequently, on February 8, 2000, the Company Board of Directors declared
+an additional three-for-one common stock split in the form of a stock dividend
+for Stockholders of record as of February 21, 2000. The stock dividend payment
+date was March 13, 2000 and the Company common stock traded ex-dividend
+starting March 14, 2000, reflecting the additional three-for-one stock split.
+The accompanying consolidated financial statements and related financial
+information contained herein have been retroactively restated to give effect for
+the September 1999 and February 2000 stock splits. Per Share Information
+Basic earnings loss per share is computed using the weighted-average number
+of shares of common stock outstanding. Diluted earnings loss per share is
+computed using the weighted-average number of shares of common stock outstanding
+and, when dilutive, common equivalent shares from outstanding stock options and
+warrants using the treasury stock method. The following table sets forth the
+basic and diluted earnings loss per share computational data for the periods
+presented. Excluded from the computation of diluted earnings per share for the
+year ended December 31, 1997, are options to acquire 33,318,000 shares of common
+stock with a weighted-average exercise price of $049 and warrants to acquire
+843,750 shares of common stock with a weighted-average exercise price of $068
+because their effects would be anti-dilutive.                            Years Ended December 31,
+1997    1998    1999
+in thousands, except per share amounts
+Net income loss for basic and
+diluted earnings loss per share.  $ 7,373   $ 4,039  $ 18,809
+Weighted-average common shares
+outstanding utilized for basic
+earnings loss per share.   181,872    210,114   229,128
+Weighted-average common equivalent
+shares outstanding:
+Employee common stock options.     --    20,592   31,365
+Common stock warrant.     --      171     219
+Total weighted-average common and
+common equivalent shares outstanding
+utilized for diluted earnings loss per
+181,872    230,877   260,712
+Basic earnings loss per share.  $  004  $  002  $  008
+Diluted earnings loss per share.  $  004  $  002  $  007
+Foreign Currency Transactions
+The functional currency of the Company foreign subsidiaries is the U.S.
+dollar. Resulting foreign exchange gains and losses are included in the
+Consolidated Statements of Operations and, to date, have not been significant.
+Comprehensive Income Loss
+The Company adopted SFAS No. 130, Reporting Comprehensive Income effective
+January 1, 1998. SFAS No. 130 establishes standards for the reporting and
+disclosure of comprehensive income loss and its components. Comprehensive
+income loss includes all changes in equity during a period except those
+resulting from investments by or distributions to owners.
+For the year ended December 31, 1997, the Company had no other significant
+components of other comprehensive loss. Accordingly, comprehensive loss and net
+loss were the same for this period. For the years ended December 31, 1998 and
+1999, comprehensive income was $7,237,000 and $ 41,536,000, respectively. The
+components of other comprehensive income for these periods relate solely to
+unrealized gains and losses on available-for-sale investments.
+49 Reclassifications
+Certain prior period balances have been reclassified to conform to the
+current period presentation.
+Recent Accounting Pronouncements
+In June 1998, the FASB issued SFAS No. 133, Accounting for Derivative
+Instruments and Hedging Activities, as amended by SFAS No. 137, effective for
+all fiscal quarters of fiscal years beginning after June 15, 2000. Accordingly,
+the Company will adopt SFAS No. 133 beginning on January 1, 2001. SFAS No. 133,
+as amended, establishes standards for the accounting and reporting of derivative
+instruments and hedging activities, including certain derivative instruments
+embedded in other contracts.
+Under SFAS No. 133, entities are required to carry all derivative instruments
+at fair value on their balance sheets. The accounting for changes in the fair
+value i.e., gains or losses of a derivative instrument depends on whether it
+has been designated and qualifies as part of a hedging activity and the
+underlying purpose for it. The Company does not believe that the adoption of
+SFAS No. 133 will have a significant impact on the Company consolidated
+financial statements or related disclosures.
+In December 1999, the Securities and Exchange Commission SEC issued
+Staff Accounting Bulletin No. 101 SAB 101, Revenue Recognition in Financial
+Statements, which provides guidance on the recognition, presentation, and
+disclosure of revenue in financial statements filed with the SEC. SAB 101
+outlines the basic criteria that must be met to recognize revenue and provides
+guidance for disclosure related to revenue recognition policies. The Company
+will adopt SAB 101 effective April 1, 2000, as required. Management does not
+expect the adoption of SAB 101 to have any material effect on the financial
+position or results of the operations of the Company.
+Note 2 -- Acquired Business  On November 24, 1999, the Company acquired all of the registered shares of
+Fidutec Information Technology SA for a cash payment of 6,000,000 Swiss Francs
+equivalent U.S. dollar value of $3,765,000, net of cash acquired; of which
+1,200,000 Swiss Francs are held in escrow, subject to employee retention
+conditions lasting 12 to 24 months depending on named employees. The acquisition
+was accounted for as a purchase. The acquired assets and assumed liabilities,
+and the related results of operations, are included in the consolidated
+financial statements of the Company from the date of acquisition. The name of
+the acquired business has been subsequently changed to BroadVision Professional
+Services. The purchase price was allocated based on fair values as follows in
+thousands     Purchase price, net of cash acquired            $ 3,765
+Add: fair value of liabilities assumed              399
+Total purchase consideration                 4,164
+Less: fair value allocated to acquired assets          798
+Excess of purchase consideration over acquired
+assets and assumed liabilities               3,366
+Excess allocated to      Prepaid compensation                     2,749
+Goodwill                         $  617
+50 Note 3 -- Property and Equipment in thousands                           December 31,
+1998    1999
+Furniture and fixtures       $ 1,001  $ 2,323
+Computer and software         8,662   17,618
+Leasehold improvements         3,725   6,903
+13,388   26,844
+Less accumulated depreciation and
+amortization            5,354  10,093
+$ 8,034  $ 16,751
+Leased equipment totaled approximately $2,572,000 as of December 31, 1998 and
+1999. Accumulated amortization for leased equipment totaled approximately
+$1,750,000, and $2,319,000 as of December 31,1998 and 1999, respectively.
+Note 4 -- Accrued Expenses in thousands                            December 31,
+1998   1999
+Employee benefits         $  678  $ 1,340
+Commissions and bonuses       2,013   6,747
+Taxes payable             785   1,273
+Other                1,457   3,947
+$ 4,933  $13,307
+Note 5 -- Long-term Debt
+The Company has various credit facilities with a commercial lender which
+include term debt in the form of notes payable and a revolving line of credit
+that provides for up to $5,000,000 of additional borrowings based on eligible
+accounts receivable. As of December 31, 1998 and 1999, outstanding term debt
+borrowings were $3,472,000 and $5,852,000, respectively.  Borrowings bear
+interest at the bank prime rate 775% and 850% as of December 31, 1998 and
+1999, respectively. Principal and interest is due in consecutive monthly
+payments through maturity based on the term of the facility. Principal payments
+of $977,000 are due annually from 2000 through 2004, $611,000 due in 2005, and a
+final payment of $357,000 due in 2006.
+As of December 31, 1998 and 1999, the Company had no outstanding borrowings
+under its revolving line of credit. However, commitments totaling $2,196,000 and
+$2,820,000, in the form of standby letters of credit were issued under its
+revolving line of credit facility as of December 31, 1998 and 1999, respectively
+see Note 7.
+The commercial credit facilities include covenants which impose certain
+restrictions on the payment of dividends and other distributions and requires
+the Company to maintain monthly financial covenants, including a minimum quick
+ratio, tangible net worth ratio and debt service coverage ratio. Borrowings are
+collateralized by a security interest in substantially all of the Company
+owned assets. The Company was in compliance with its financial covenants as of
+December 31, 1998 and December 31, 1999.
+Note 6 -- Income Taxes
+Income before taxes includes losses from foreign operations of approximately
+$1,567,000 and $2,906,000 for the years ended December 31, 1997 and 1998,
+respectively, and income of $1,068,000 for the year ending December 31, 1999.
+The components of income tax provision benefit are as follows in
+thousands                      Years Ended December 31,
+1997    1998    1999
+Current:
+Federal               $ --    $ 192   $ 458
+State                 --      13      2
+Foreign                --     416     536
+Total current        $ --    $ 621   $ 996
+51 Deferred:
+Federal                --     600      State                 --     100                                       Total deferred        $ --    $ 700   $                                                  $ --    $ 79   $ 996
+The differences between the income tax provision benefit computed at the
+federal statutory rate of 35% and the Company actual income tax provision
+benefit for the periods presented are as follows in thousands                               Years Ended December 31,
+1997    1998    1999
+Expected income tax provision              $2,507  $ 1,346  $ 6,930
+Expected state income taxes, net of federal tax     --     58    853
+benefit
+Foreign taxes                         --     416   1,009
+Alternative minimum tax                    --     97     Utilization of net operating loss carryforwards        --   2,471  4,124
+Change in valuation allowance                 --    600     Foreign losses not benefitted                 --     988     Net operating losses not benefited             2,507     --     R tax credits                        --     --   1,492
+Other                             --     203    162
+Income tax provision benefit              $  --   $  79  $  996
+The individual  components of the Company  deferred tax assets and
+liabilities are as follows in thousands                                December 31,
+1998    1999
+Deferred tax assets:
+Depreciation and amortization           $  766  $  895
+Accrued liabilities                  723   1,058
+Capitalized research and development          721    158
+Net operating losses                 6,737   18,935
+Tax credits                     2,180   4,190
+Total deferred tax assets           11,127   25,236
+Less valuation allowance              9,153  24,536
+1,974    700
+Deferred tax liabilities -- unrealized gain on
+Marketable securities              1,274  17,318
+Net deferred tax asset liability      $  700  $16,618
+The Company has provided a valuation allowance for a significant portion of
+its deferred tax assets as of December 31, 1999. The total valuation allowance
+increased $15,383,000 from December 31, 1998 to December 31, 1999. Approximately
+$15,075,000 of the valuation allowance relating to income tax benefits arising
+from the exercise of stock options will be credited directly to stockholders'
+equity and will not be available to benefit the income tax provision in any
+future periods. In 1998, as a result of the intraperiod income tax allocation
+provisions of SFAS No. 109, the deferred tax liability related to the unrealized
+gain on marketable securities decreased the valuation allowance for the deferred
+tax assets and was not charged to accumulated other comprehensive income in
+stockholders' equity for that period.
+As of December 31, 1999, the Company had federal and state net operating loss
+carryforwards of approximately $47,241,000 and $16,952,000,  respectively,
+available to offset future regular and alternative minimum taxable income. In
+addition, the Company had federal and state research and development credit
+carryforwards  of approximately  $2,983,000 and $1,207,000,  respectively,
+available to offset future tax liabilities. The Company federal net operating
+loss and tax credit carryforwards expire in the years 2010 through 2019, if not
+utilized. The state net operating loss carryforwards expire in the years 2000
+through 2019. The state research and development credits can be carried forward
+indefinitely. As of December 31, 1999, the Company foreign subsidiaries had
+net operating loss carryforwards in foreign jurisdictions of approximately
+$4,228,000 that can be used to offset future foreign income. Of these losses,
+approximately $1,690,000 expires in the years 2000 through 2003.
+Approximately $2,538,000 of these losses can be carried forward indefinitely.
+Federal and state tax laws limit the use of net operating loss carryforwards
+in certain situations where changes occur in the stock ownership of a company.
+The Company believes such an ownership change, as defined, may have                    52 occurred and, accordingly, certain of the Company federal and state net
+operating loss carryforwards may be limited in their annual usage.
+Note 7 -- Commitments
+Leases
+The Company leases its headquarters facility and its other facilities under
+noncancelable operating lease agreements expiring through the year 2007. Under
+the terms of the agreements, the Company is required to pay property taxes,
+insurance and normal maintenance costs. The Company also leases certain
+equipment under capital leases expiring through the year 2000.
+A summary of future minimum lease payments is as follows in thousands                               Capital  Operating
+Year Ended December 31,                   leases   leases
+-                     2000                            $  316  $ 3,425
+2001                                   3,476
+2002                              --    3,470
+2003                              --    3,357
+2004                              --    3,351
+Thereafter                          --   10,556
+Total minimum lease payments                     $ 27,635
+Less amount representing imputed interest           46
+Present value of net minimum capital lease payments      270
+Less current portion                     270
+Capital leases, excluding current portion         $                                  Rental expense relating to operating leases was approximately $1,161,000 1,101,000 and $2,716,000 for the years ended December 31, 1997, 1998 and 1999,
+respectively. Total minimum sublease payments to be received in the future under
+noncancelable subleases total $717,000 through May 2000.
+Standby Letter of Credit Commitments
+As of December 31, 1999, the Company had various outstanding commitments in
+the form of standby letters of credit, $1,400,000 in favor of the Company
+equipment leasing financier and $1,420,000 in favor of the Company various
+landlords to secure obligations under the Company facility leases.
+Note 8 -- Stockholders' Equity
+Convertible Preferred Stock
+During September 1999, the Board of Directors and the stockholders approved
+an increase in the authorized shares of convertible preferred stock to
+10,000,000 shares.
+Warrants
+As of December 31, 1999, there were warrants outstanding to acquire 42,723
+shares of common stock at $094 per share related to a facilities lease. At the
+date these warrants were granted, the fair value of these warrants was not
+significant.
+53 Common Stock
+During September 1999, the Board of Directors and the stockholders approved
+an increase in the authorized shares of common stock to 500,000,000 shares. In
+addition, the Board of Directors increased the aggregate number of shares of
+common stock available to be issued under the Company Stock Option Plan by
+9,000,000 shares.
+During November 1999, the Company completed a follow on common stock offering
+and issued 93 million shares for net proceeds to the Company of approximately
+$2104 million. In connection with the stock offering, the Company has been
+listed on the Neuer Markt segment of the Frankfurt Stock Exchange under the
+symbol BDN.
+The Company applies APB Opinion No. 25 and related interpretations when
+accounting for its stock option and stock purchase plans. During the year ended
+December 31, 1998, the Company recorded deferred compensation of $240,000
+representing the difference between exercise price and fair value of stock
+options granted. Deferred compensation is amortized to expense over the period
+benefited which has been determined to be the vesting period of the individual
+options generally five years. As of December 31, 1999, the Company had
+reserved 70,875,000 shares of common stock for issuance under its Equity
+Incentive Plan. Under this plan, the Board of Directors may grant incentive or
+nonqualified stock options at prices not less than 100% or 85%, respectively, of
+the fair market value of the Company common stock, as determined by the Board
+of Directors, at the date of grant. The vesting of individual options may vary
+but in each case at least 20% of the total number of shares subject to options
+will become exercisable per year. These options generally expire ten years after
+the grant date. When an employee option is exercised prior to vesting, any
+unvested shares so purchased are subject to repurchase by the Company at the
+original purchase price of the stock upon termination of employment. The
+Company right to repurchase lapses at a minimum rate of 20% per year over five
+years from the date the option was granted or, for new employees, the date of
+hire. Such right is exercisable only within 90 days following termination of
+employment. Approximately 57,303 unvested shares were repurchased by the Company
+during the year ended December 31, 1999. As of December 31, 1999, 1,505,700
+shares were subject to repurchase at a weighted-average price of $029.
+The Company President and Chief Executive Officer has options to purchase
+4,500,000 shares of common stock at an exercise price of $044 per share. The
+options were granted on April 1, 1995 and vest ratably over a 60-month period
+commencing on grant whereas the first year is subject to cliff vesting. As of
+December 31, 1999, 4,200,000 of the 4,500,000 options were vested. On June 23,
+1999, the Company President and Chief Executive Officer was granted additional
+options to purchase 4,500,000 shares of common stock at an exercise price of
+$667 per share. The options vest ratably over a 60-month period commencing on
+grant whereas the first year is subject to cliff vesting. As of December 31,
+1999, none of the 4,500,000 additional options were vested.  Activity in the Company stock option plan is as follows                              Years ended December 31,
+1997          1998         1999
+Weighted-       Weighted-       Weighted-
+Average        Average        Average
+Options  Exercise   Options  Exercise  Options  Exercise
+Fixed Options              000   Price   000   Price   000   Price
+-                                                         
+Outstanding at beginning of period   21,537   $ 031   26,163   $ 050   31,482   $ 096
+Granted                 12,114    074   14,292    152   20,565   1142
+Exercised                2,295   003   5,193   040   9,759   071
+Forfeited                5,193   047   3,780   064   2,310   167
+Outstanding at end of period      26,163   $ 050   31,482   $ 096   39,978  $ 636
+Options vested at end of period     5,769   $ 029    7,227   $ 048   6,195   $ 082
+Weighted-average  fair  value  of
+options Granted during the period         $ 074         $ 099        $ 936
+The following table summarizes stock options outstanding under the plan as
+of December 31, 1999                      Outstanding
+Weighted-Avg.               Vested
+Remaining             Range of         Options   Contractual Life  Weighted-Avg.  Options   Weighted-Avg.
+Exercise Prices      000     In Years    Exercise Price  000  Exercise Price
+-                                                           
+$001 -- $ 078      7,974       681       $ 053     3,585     $ 049
+079--  171      8,514       800        114     2,079      097
+172--  442      7,485       885        305      528      238
+475--  667      9,036       944        578       0      000
+1355-- 5283      6,969       983       2372       3     1903
+001-- $ 5283     39,978       857       $ 636     6,195     $ 082
+54  The Company grants options outside of the Company stock option plan. The
+terms of these options are generally identical to those granted under the
+Company plan. A summary of options outside of the plan is presented below                                            Years ended December 31,
+1997          1998           1999
+Weighted-        Weighted-        Weighted-
+Average         Average         Average
+Options    Exercise  Options   Exercise   Options   Exercise
+Fixed Options             000    Price   000    Price    000   Price
+Outstanding at the beginning of period          6,399    $  039   7,155    $  045   6,651    $  047
+Granted                   1,386      061    --     --     9,405      984
+Exercised                   --     --      504     021    333     074
+Forfeited                   630     009    --     --      66     749
+Outstanding at the end of period              7,155    $  045   6,651    $  047   15,657    $ 606
+Options vested at the end of period            3,555    $  040   4,473    $  045   5,433    $ 045
+Weighted-average fair value of options granted
+during the period                         $  061         $  --          $ 806
+The following table summarizes stock options outstanding as of December 31,
+1999                      Outstanding
+Weighted-Avg.               Vested
+Remaining             Range of         Options   Contractual Life  Weighted-Avg.  Options   Weighted-Avg.
+Exercise Prices      000     In Years    Exercise Price  000  Exercise Price
+-                                                           
+$009 -- $044      4,950       616      $ 041     4,650     $ 041
+061--  633      2,406       314       219      771      061
+667--  800      2,544       957       731       9      733
+806-- 1176      2,805       967       1092       3      970
+1297-- 1348      2,952       972       1299       0      000
+009 1348       15,657      755       $ 606     5,433    $ 045
+Employee Stock Purchase Plan
+As of December 31, 1999, the Company had reserved 9,900,000 shares for
+issuance under the Company Employee Stock Purchase Plan the Purchase Plan.
+The Purchase Plan permits eligible employees to purchase common stock equivalent
+to a percentage of the employee earnings, not to exceed 15%, at a price equal
+to 85% of the fair market value of the common stock at dates specified by the
+Board of Directors as provided in the Plan. Under the Purchase Plan, the Company
+issued 2,178,000, 2,052,000 and 1,833,000 shares to employees in the years ended
+December 31, 1997, 1998 and 1999, respectively. Under SFAS No. 123, compensation
+cost is recognized for the fair value of the employees' purchase rights, which
+was estimated using the Black-Scholes option pricing model with no expected
+dividends, an expected life of 7 months, and the following weighted-average
+assumptions                       Years ended December 31,
+1997     1998     1999
+Risk-free interest rate          505%    448%    600%
+Volatility                 67%     112%     97  The weighted-average fair value of the purchase rights granted in the years
+ended December 31, 1997,  1998, and 1999 was $024,  $046 and $324,
+respectively.
+Pro Forma Disclosure
+The fair value of each option grant is estimated on the date of grant using
+the Black-Scholes option-pricing model with no expected dividends and the
+following weighted-average assumptions                         Years ended December 31,
+1997     1998     1999
+Expected life               28 years   30 years   41 years
+Risk-free interest rate            591%     470%     655%
+Volatility                   67%     112%     97                    55  Had compensation cost for the Company stock option plan and stock purchase
+plan been determined consistent with SFAS No. 123, the Company reported net
+income loss and net income loss per share would have been changed to the
+amounts indicated below in thousands except per share data                      Years ended December 31,
+1997    1998     1999
+Net income loss:
+As reported             $7,373  $ 4,039   $18,809
+Pro forma              $9,551  $1,885   $25,015
+Basic net income loss per share:
+As reported             $ 004  $  002   $  008
+Pro forma              $ 005  $ 001  $ 011
+Diluted net income loss per share  As reported             $ 004  $  002   $  007
+Pro forma              $ 005  $ 001  $ 010
+Note 9 -- Employee Benefit Plan
+The Company provides for a defined contribution employee retirement plan in
+accordance with section 401k of the Internal Revenue Code. Eligible employees
+are entitled to contribute up to 20% of their annual compensation, subject to
+certain limitations $10,000 for the year ended December 31, 1999.
+Effective January 1, 2000, the Company will provide a 50% match for all
+employee contributions, up to 6% of the employees' annual compensation subject
+to certain limitations $5,100 per employee for the year ended December 31,
+2000. Employees vest in Company matching contributions based on years of
+service with the company, 50% upon the employees' first anniversary and 100% on
+the second anniversary and thereafter.
+Note 10 -- Geographic, Segment and Significant Customer Information
+The Company adopted the provisions of SFAS No. 131, Disclosure about Segments
+of an Enterprise and Related Information, during 1998. SFAS No. 131 establishes
+standards for the reporting by public business enterprises of information about
+operating segments,  products and services,  geographic areas, and major
+customers. The method for determining what information to report is based on the
+way that management organizes the operating segments within the Company for
+making operational decisions and assessments of financial performance. The
+Company chief operating decision maker is considered to be the Company Chief
+Executive Officer CEO. The CEO reviews financial information presented on a
+consolidated basis accompanied by disaggregated information about revenues by
+geographic region and by product for purposes of making operating decisions and
+assessing financial performance.
+The disaggregated revenue information on a product basis reviewed by the CEO
+is as follows. The Company does not track margins on the same basis.
+Years Ended December 31,
+in thousdands            1997     1998     1999
+Software licenses:
+One-To-One Enterprise       $ 14,479   $ 17,799   $ 20,538
+One-To-One Packaged Solutions     4,494    18,268    54,845
+Services                5,981    9,739    26,737
+Maintenance               2,151    5,105    13,394
+Total Company           $ 27,105   $ 50,911   $115,514
+The Company sells its products and provides services worldwide through a
+direct sales force, independent distributors, value-added resellers, and system
+integrators. It currently operates in three primary regions, the Americas which
+includes North and South America, Europe which includes Eastern and Western
+Europe and the Middle East, and Asia/Pacific which includes the Pacific Rim and
+the Far East.
+56  Information regarding the business operations of our sales regions are as
+follows in thousands                     Years Ended December 31,
+1997    1998   1999
+Revenues:
+Americas              $ 12,872  $29,330  $ 79,323
+Europe                10,850  16,944   26,211
+Asia/Pacific             3,383   4,637   9,980
+Total Company           $ 27,105  $50,911  $115,514
+December 31,
+1998    1999
+Identifiable assets:
+Americas                 $ 99,343 $ 400,858
+Europe                    1,754   4,122
+Asia/Pacific                  465   1,148
+Total Company              $ 101,562 $ 406,128
+During the year ended December 31, 1997, approximately 11% of the Company
+revenues were attributable to one customer. During the years ended December 31,
+1998 and 1999, no customer accounted for 10% or more of the Company revenues.
+Note 11 -- Subsequent events unaudited
+On January 26, 2000, the Company announced a definitive agreement to acquire
+all of the outstanding stock of Interleaf, subject to stockholder and regulatory
+approval and other conditions. Under the terms of the agreement, Interleaf
+shareholders will receive 10395 shares of BroadVision common stock in exchange
+for each share of Interleaf common stock; or estimated purchase consideration of
+approximately $802 million, inclusive of $18 million of estimated acquisition
+and severance costs. The Company expects to account for the acquisition as a
+purchase.
+On February 15, 2000, the Company entered into a lease for approximately
+400,000 square feet of office space in a new building currently under
+construction in Redwood City, California. The building is expected to be
+available for occupancy during June 2001.
+On February 22, 2000, the Company reached a settlement agreement and entered
+into a license agreement with Art Technology Group ATG in connection with
+the lawsuit filed by the Company on December 11, 1998 against ATG alleging
+infringement on Our U.S. Patent No. 5,710,887. In accordance with the terms of
+the agreement, the Company granted ATG a nonexclusive,  nontransferable,
+worldwide, perpetual license and was paid $8 million by ATG at the effective
+date of the settlement and will receive a total of $7 million payable in
+quarterly installments commencing February 24, 2000 four consecutive quarterly
+payments of $750,000 during 2000 and eight consecutive quarterly payments of
+$500,000 during 2001 and 2002.

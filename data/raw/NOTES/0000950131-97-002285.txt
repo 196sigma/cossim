@@ -1,0 +1,577 @@
+Item 8. Financial Statements and Supplementary Data
+The Board of Directors
+Engineering Animation, Inc.
+We have audited the accompanying consolidated balance sheets of
+Engineering Animation, Inc. as of December 31, 1996 and 1995, and the related
+consolidated statements of income, stockholders' equity and cash flows for
+each of the three years in the period ended December 31, 1996. These
+financial statements are the responsibility of the Company management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+In our opinion, the financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of
+Engineering Animation, Inc. at December 31, 1996 and 1995, and the
+consolidated results of its operations and its cash flows for each of the
+three years in the period ended December 31, 1996, in conformity with
+generally accepted accounting principles.
+ERNST & YOUNG LLP
+Des Moines, Iowa
+January 17, 1997
+29
+Engineering Animation, Inc.
+Consolidated Balance Sheets
+December 31,
+1995     1996
+Assets Note 3
+CURRENT ASSETS:
+Cash and cash equivalents          $ 490,524 $ 9,349,660
+Short-term investments                -  9,884,250
+Accounts receivable:
+Billed, less allowance of $12,157
+and $121,000 in 1995 and 1996,     
+respectively               1,057,143  6,666,006
+Unbilled                 1,288,930  3,333,595
+Deferred income taxes, net Note 6         -    48,000
+Prepaid expense and other assets        180,284   390,193
+Total current assets              3,016,881  29,671,704
+PROPERTY AND EQUIPMENT:
+Computer equipment and software       1,899,150  4,544,996
+Office equipment and furniture         236,177  1,708,752
+Leasehold improvements             39,465   229,965
+2,174,792  6,483,713
+Less accumulated depreciation and     
+amortization                 641,594  1,291,195
+Total property and equipment          1,533,198  5,192,518
+OTHER ASSETS:
+Restricted cash                   -   495,000
+Note receivable Note 2            750,286  1,408,286
+Software development costs - net of
+accumulated amortization of $181,687 
+and $375,779 in 1995 and 1996, 
+respectively                 453,019   602,076
+Other                     445,887   586,656
+Total assets                 $6,199,271 $37,956,240
+Liabilities and stockholders' equity
+CURRENT LIABILITIES:
+Accounts payable              $ 631,335 $ 1,057,600
+Accrued compensation and other         420,056  1,413,285
+Deferred revenue                286,102   400,050
+Deferred income taxes, net Note 6         -   119,000
+Long-term debt and lease obligations
+due within one year Notes 3 and 4      344,795    62,128
+Income taxes payable                 -   131,882
+Total current liabilities           1,682,288  3,183,945
+Long-term debt due after one year Note 3   1,806,900   831,766
+Obligations under capital leases due     
+after one year Note 4             72,934    40,806
+Deferred income taxes Note 6          492,800   826,000
+Commitments Notes 4 and 5
+STOCKHOLDERS EQUITY Note 7
+Common stock, $01 par value, 20,000,000 
+shares authorized; issued and outstanding 
+shares 2,869,760 in 1995, 4,697,320 in
+1996                      28,697    46,973
+Preferred stock, $01 par value,
+20,000,000 shares authorized; no shares 
+issued or outstanding                -      -
+Additional paid-in capital          1,401,957  30,462,053
+Retained earnings               713,695  2,564,697
+Total stockholders' equity       2,144,349  33,073,723
+Total liabilities and stockholders' equity  $6,199,271 $37,956,240
+See accompanying notes.
+30
+Engineering Animation, Inc.
+Consolidated Statements of Income                          Year ended December 31
+1994     1995     1996
+Net revenues Note 8           $5,456,343  $10,414,637  $20,412,757
+Cost of revenues              1,557,470   2,758,591   6,443,329
+Gross profit                3,898,873   7,656,046  13,969,428
+Operating expenses:
+Sales and marketing            1,801,634   3,092,623   7,428,063
+General and administrative Note 9     954,980   1,986,228   2,360,026
+Research and development           868,645   1,712,568   2,122,435
+Total operating expenses          3,625,259   6,791,419  11,910,524
+Income from operations            273,614    864,627   2,058,904
+Other income expense:
+Interest income                6,580    24,888   1,134,488
+Interest expense               74,661   161,850   106,390
+68,081   136,962  1,028,098
+Income before income taxes          205,533    727,665   3,087,002
+Income taxes Note 6             91,600    297,000   1,236,000
+Net income                $ 113,933  $  430,665  $ 1,851,002
+Earnings per share of common stock       $03     $12     $36
+Weighted average number of common and
+equivalent shares outstanding Note 1    3,695     3,702     5,157
+See accompanying notes.
+31
+Engineering Animation, Inc.
+Consolidated Statement of Stockholders' Equity                                        Unrealized
+Additional   Gain Loss on           Total 
+Common Stock     Paid-in     Marketable    Retained   Stockholders'
+Shares   Amount   Capital     Securities    Earnings    Equity
+Balance at January 1, 1994      3,224,448  $32,244  $ 1,453,410    $10,132    $ 169,097   $ 1,644,619
+Repurchase of common shares     354,688  3,547   51,453       -         -     55,000
+Unrealized gain on marketable
+securities                -     -       -     10,132         -      10,132
+Net income                 -     -       -        -      113,933     113,933
+Balance at December 31, 1994     2,869,760  28,697   1,401,957        -      283,030    1,713,684
+Net income                 -     -       -        -      430,665     430,665
+Balance at December 31, 1995     2,869,760  28,697   1,401,957        -      713,695    2,144,349
+Issue of common stock in
+connection with the Company
+initial public offering, net of
+offering expenses Note 7     1,825,000  18,250  29,048,250        -         -    29,066,500
+Common stock issued for
+options exercised           2,560    26    11,846        -         -      11,872
+Net income                 -     -       -        -     1,851,002    1,851,002
+Balance at December 31, 1996     4,697,320  $46,973  $30,462,053       $-    $2,564,697   $33,073,723
+See accompanying notes.
+32
+Engineering Animation, Inc.
+Consolidated Statements of Cash Flows
+Year ended December 31
+1994     1995      1996
+Operating activities
+Net income                        $  113,933  $  430,665  $ 1,851,002
+Adjustments to reconcile net income to net cash
+provided used by operating activities:
+Depreciation and amortization               220,106    471,707    976,696
+Deferred income taxes                    90,800    295,000    404,200
+Loss on disposal of equipment                1,305       -     16,200
+Increase decrease in billed accounts receivable    1,126,248   266,840   5,608,863
+Increase decrease in unbilled accounts receivable     12,050  1,004,965  2,044,665
+Increase in prepaid expenses                49,902   10,211   247,613
+Increase in accounts payable                49,809    486,567    426,265
+Increase in accrued expenses                65,844    292,180   1,125,111
+Increase in deferred revenue                82,913    203,189    113,948
+Net cash used provided by operating activities      539,390  1,430,972   2,987,719
+Investing activities
+Increase in note receivable                    -   750,286   658,000
+Purchases of property and equipment             503,643   976,506  4,435,347
+Sales of property and equipment                  -       -     30,000
+Purchases sales of other assets               25,633   441,057   193,546
+Development of software                   259,313   263,149   343,149
+Purchases sales of marketable securities         1,121,943       -   9,846,546
+Net cash used provided by investing activities       384,620  2,430,998  15,446,588
+Financing activities
+Increase in restricted cash                    -       -    495,000
+Proceeds from short-term borrowing              200,000    600,000       -
+Payments on short-term borrowing                  -   800,000       -
+Proceeds from long-term debt                 306,000   1,713,140       -
+Payments of long-term debt                 122,795   263,343  1,263,723
+Principal payments under capital lease obligations      5,991   17,150    26,206
+Net proceeds from issuance of common stock             -       -   29,078,372
+Repurchase of common stock                  55,000      -       -
+Net cash provided by financing activities          322,214   1,232,647   27,293,443
+Net increase in cash and cash equivalents          167,444    232,621   8,859,136
+Cash and cash equivalents at beginning of period       90,459    257,903    490,524
+Cash and cash equivalents at end of period        $  257,903  $  490,524  $ 9,349,660
+Supplemental disclosures
+Interest paid                      $  59,222  $  146,735  $   46,805
+Income taxes paid                        800     2,000    699,918
+Noncash investing and financing activity - property
+and equipment purchased through capital lease          
+obligations and notes payable                   -    116,290       -
+Noncash investing activity -- property and equipment 
+gifted to the Company                       -       -    420,590
+See accompanying notes.
+33
+Engineering Animation, Inc.  Notes to Consolidated Financial Statements
+December 31, 1996  1.  Summary of Significant Accounting Policies
+Business and Organization
+Engineering Animation, Inc. the Company develops, produces and sells
+three-dimensional 3D products that address visualization, animation and
+graphics needs of its customers in domestic and international commercial
+markets.
+Basis of Consolidation
+The consolidated financial statements include the accounts of Engineering
+Animation Europe B.V., its wholly-owned subsidiary established in June 1996.
+All significant intercompany balances and transactions have been eliminated in
+consolidation.
+Cash Equivalents
+For purposes of the consolidated statement of cash flows, the Company
+considers all highly liquid investments with a maturity of three months or
+less when purchased to be cash equivalents. Cash equivalents are carried at
+cost, which approximates market.
+Restricted Cash
+Restricted cash consists of cash committed as collateral for the notes
+payable to the State of Iowa. As requirements of the note are met, the cash
+will be released in increments of $75,000 on a quarterly basis.
+Short-Term Investments
+Short-term investments consist of debt securities of U.S. Government or
+governmental agencies and high-grade commercial paper. Short-term investments
+are stated at cost plus accrued interest, which approximates market. The
+Company classifies its short-term investments as available-for-sale.
+Revenue Recognition
+Revenue is recognized based upon labor and other costs incurred and
+progress to completion on contracts. Unbilled accounts receivable represent
+revenue earned but not yet billable based on terms of the contract. The
+Company generally requires a deposit on each contract and billings are made
+based on milestones or as otherwise provided for in the contracts.
+Revenue from sales of 3D software products is recognized upon delivery of
+the 3D software product to the customer and satisfaction of significant
+related obligations, if any. Revenue from customer support is deferred and
+recognized ratably over the period the customer support services are provided.
+34
+Concentrations of Credit Risk
+Financial instruments that potentially subject the Company to significant
+concentrations of credit risk consist principally of trade accounts
+receivable. This risk is limited due to the large number and diversity of
+entities comprising the Company customer base and the Company practice of
+obtaining deposits on contracts.
+Property and Equipment
+Property and equipment is carried at cost. Depreciation and amortization
+of property and equipment is provided over the estimated useful lives of the
+assets, which range from five to seven years, on the straight-line method.
+Software Development Costs
+The Company capitalizes software development costs in accordance with
+Statement of Financial Accounting Standards No. 86, Accounting for the Costs
+of Computer Software to be Sold, Leased or Otherwise Marketed. The
+capitalization of these costs begins when a product technological
+feasibility has been established and ends when the product is available for
+general release to customers. The Company amortizes these costs over an
+estimated economic useful life of three years or on the ratio of current
+revenue to total projected product revenues, whichever is greater.
+Amortization expense was $60,000, $121,000 and $194,000 for the years ended
+December 31, 1994, 1995 and 1996, respectively.
+Income Taxes
+The Company accounts for income taxes using the liability method.
+Deferred income taxes are provided for temporary differences between the
+financial reporting and tax basis of assets and liabilities.
+Earnings Per Share
+Per share earnings are based on the weighted average number of shares of
+common stock and common stock equivalents outstanding. The dilutive effect of
+outstanding stock options was determined based upon the treasury stock method.
+Pursuant to Securities and Exchange Commission Staff Accounting Bulletin
+No. 83 SAB No. 83, common stock equivalents granted at exercise prices
+less than the initial public offering price during the 12 months immediately
+preceding the initial public offering, have been included in the determination
+of shares used in the calculation of net income per share as if they were
+outstanding for all periods.
+The Company used a portion of the proceeds of its initial public offering
+in February 1996 to repay $1,712,000 of outstanding bank indebtedness.
+Earnings per share for the year ended December 31, 1996 would not have changed
+if the repayment had taken place January 1, 1996.
+Impact of Recently Issued Accounting Standards
+The Company is not aware of any accounting standards which have been
+issued and which will require the Company to change its current accounting
+policies or adopt new policies, the effect of which would be material to the
+Company financial statements.
+35
+Use of Estimates
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the amounts reported in the financial statements and
+accompanying notes. Actual results could differ from those estimates.
+2.  Note Receivable
+During 1995, the Company entered into a loan agreement whereby the
+Company agreed to loan $750,286 to the developer of the building the Company
+leases. During 1996, the Company loaned an additional $658,000 to the
+developer. The Company began leasing the building July 1, 1996. Interest at a
+rate of 225% above the U. S. Treasury three-year constant rate began accruing
+and is payable monthly upon commencement of the lease. The principal is due
+June 2016, unless the developer sells the building to an unaffiliated third
+party, at which time the principal and interest accrued to date becomes
+immediately due. The note receivable is collateralized by a second mortgage on
+the building.
+3.  Debt
+The Company has a $1,000,000 line of credit agreement with a commercial
+bank, expiring May 1, 1997, which generally provides for advances at 70% of
+eligible accounts receivable. The line of credit bears interest at 5% above
+the New York prime rate 875% at December 31, 1996 and is collateralized by
+substantially all the assets of the Company. No amounts were borrowed on the
+line as of December 31, 1995 or 1996.
+Long-term debt at December 31, 1995 and 1996 consists of the following  
+1995    1996
+Note payable to bank, repaid with proceeds from the Company initial public offering.        $ 203,847 $   -
+Note payable to bank, repaid with proceeds from the Company initial public offering.         187,666     -
+Note payable to bank, repaid with proceeds from the Company initial public offering.         146,692     -
+Note payable to the City of Ames, requiring 36 monthly interest-only payments of $243, and
+subsequently due in 24 monthly principal installments of $2,782, plus interest at 4375%, through
+September 2000. This note is personally guaranteed by the President of the Company.           66,871  66,766
+Note payable to bank, repaid with proceeds from the Company initial public offering.         620,412     -
+Note payable to the Ames Economic Development Commission, due in monthly
+installments of $2,381, commencing July 1998 through June 2005, collateralized
+by all equipment of the Company. This note is non-interest bearing unless certain job
+attainment goals are not met by January 1998, at which time 9% interest will be payable
+on the outstanding balance. The Company is also subject to a penalty if it fails to
+maintain its principal place of business in Ames, Iowa.                         200,000  200,000
+Note payable to the Ames Seed Capital fund, $44,000 principal payment and interest accrued
+at 45% due June 2000. Thereafter, equal monthly installments including interest at the New
+York prime rate are due through June 2005. A 9% interest rate will be effected if certain job
+36
+attainment goals are not met by January 1998. The Company is also subject to a penalty if it
+fails to maintain its principal place of business in Ames, Iowa.                    100,000  100,000
+Note payable to the State of Iowa, due in annual installments of $30,000 through June 2000,
+collateralized by restricted cash. This note is non-interest bearing unless certain job
+attainment goals are not met by January 1998, at which time 6% interest will be payable on
+all or a portion of the outstanding balance from the inception of the note.               150,000  120,000
+Note payable to the State of Iowa collateralized by restricted cash. This note is being forgiven
+at the rate of $75,000 each calendar quarter as long as certain job attainment goals are met. If
+these goals are not met, the note is payable over three years including 6% interest           450,000  375,000
+2,125,488  861,766
+Less amounts due within one year                                    318,588  30,000
+Long-term debt due after one year                                  $1,806,900 $831,766
+Future maturities of long-term debt are as follows  
+1998                $427,632
+1999                 91,955
+2000                129,764
+2001                 34,933
+Thereafter             147,482
+$831,766
+4.  Leases
+During 1995, the Company began leasing certain office equipment and
+furniture under capital leases expiring in 1998 and 1999. The cost of the
+assets at December 31, 1995 and 1996 was $116,290. The accumulated
+depreciation of the assets at December 31, 1995 and 1996 was $9,691 and
+$32,949, respectively.
+The following is a schedule of future minimum lease payments under
+capital leases, together with the present value of those payments as of
+December 31, 1996  
+1997                          $43,945
+1998                          35,233
+1999                          11,051
+Total minimum lease payments              90,229
+Less amount representing interest            17,295
+Present value of net minimum lease payments       72,934
+Amounts due within one year               32,128
+Obligations under capital leases due after one year  $40,806
+37
+In June 1996, the Company entered into a new operating lease for office
+facilities upon completion of construction of the underlying building. The
+rent is $410,820 annually for 10 years. The Company also has operating leases
+for additional office space and equipment with various lease terms expiring
+through 2006. Rent expense for the years ended December 31, 1994, 1995 and
+1996 was $158,000, $300,000, and $564,000, respectively. The future minimum
+lease payments at December 31, 1996 are as follows  
+1997               $ 871,623
+1998                879,647
+1999                868,583
+2000                850,274
+2001                764,611
+Thereafter            1,874,295
+$6,109,033
+5.  Royalty Agreements
+In July 1990, the Company entered into a 15 year license agreement with
+Iowa State University Research Foundation ISURF. Under the terms of the
+agreement, the Company was granted an exclusive license to make and reproduce
+certain software products and to furnish certain related services in
+consideration for payment of an initial $2,000 license fee, a 2% royalty on
+certain software product revenue and a 2% royalty on two-thirds of all
+consulting revenue for the next five years. Effective November 1993, the
+royalty agreement was amended to require Engineering Animation, Inc. to pay a
+3% royalty on certain software products and services through July 2005. In
+addition, the amended royalty agreement requires a 3% royalty on sales of
+VisLab core computer software. This amended agreement does not include any
+additional software modules or other software products of VisLab. The
+agreement, among other things, requires minimum royalty payments over the term
+of the license $20,000 in total during the first three years and $10,000
+annually thereafter. In addition to the royalties described above, the
+Company, upon sublicensing the software products to third parties, is required
+to pay to ISURF 50% of the gross income received from sublicensing. Such
+revenue is in addition to the minimum royalty payments required under the
+license between ISURF and the Company. ISURF royalty expense was approximately
+$45,000, $78,000 and $79,000 for the years ended December 31, 1994, 1995 and
+1996, respectively.
+In March 1994, the Company entered into a royalty agreement with Pixar, a
+California corporation, to obtain the rights to use and distribute Pixar
+software products in conjunction with the Company software products. Pixar
+royalty expense was approximately $8,000, $20,000 and $18,000 during the years
+ended December 31, 1994, 1995 and 1996, respectively.
+In May, 1995, the Company entered into a royalty agreement with Visual
+Kinematics, Inc. VKI, a California corporation, to obtain the rights to use
+the licensed software in conjunction with the Company software products to
+develop a derived software. The Company pays a royalty to VKI for each copy
+of the derived software distributed to end users and distributors. 
+38
+VKI royalty expense was approximately $0 and $50,000 during the years 1995 and
+1996, respectively.
+6.  Income Taxes
+Income tax expense is comprised of the following components  
+Year Ended
+1994    1995     1996
+Current tax expense:
+Federal          $   0  $   0  $ 758,000
+State              0     0    73,800
+0     0   831,800
+Deferred tax expense    91,600  297,000   404,200
+Total income
+tax provision       $91,600  $297,000  $1,236,000
+Significant components of the Company deferred tax liabilities and
+assets at December 31, 1995 and 1996 are as follows  
+1995           1996
+Current  Noncurrent  Current  Noncurrent
+Deferred tax liabilities:
+Depreciation                    --  $100,000     --  $326,000
+Software development costs             --   154,800     --   262,000
+Cash basis accounting for tax purposes   $126,000  377,000 $119,000  238,000
+Total deferred tax liabilities         126,000  631,800  119,000  826,000
+Deferred tax assets:
+NOL carryforwards expiring through 2009     126,000   139,000     --       Allowance for doubtful accounts           --          48,000                                       Total deferred tax assets            126,000   139,000   48,000                                       Net deferred tax liabilities         $   --  $492,800 $ 71,000  $826,000
+Total reported tax expense applicable to the Company operations varies
+from the tax that would have resulted by applying the statutory U.S. federal
+income tax rates to income before income taxes for the following reasons                    39
+Year Ended December 31,
+1994   1995   1996
+Income taxes at the 
+statutory rates          340%  340%  340%
+State and local income taxes, 
+net of federal tax benefits     60   60   60
+Other                46    8    -
+Effective tax rate         446%  408%  400    In 1996, the Company began filing its income taxes on the accrual basis
+rather than on the cash basis used in prior years. The Company in 1996 used
+the net operating loss carryforward of $779,000, which was a result of using
+accelerated depreciation, expensing software development costs for tax
+purposes and filing the Company income tax on a cash basis.
+7.  Capital Stock and Stock Options
+Capital Stock
+The Board of Directors is authorized to issue up to an aggregate
+20,000,000 shares of preferred stock, $01 par value per share, in one or more
+series.
+The Company adopted a stockholders rights plan effective at the time of
+the initial public offering. Under the plan, each share of common stock has
+associated with it one preferred share purchase right Right. The terms of
+the Rights are set forth in a Rights agreement.
+Stock Options
+The Company has stock option arrangements with various officers,
+directors, other members of management and employees. The options are
+generally granted at fair market value. The options generally vest over
+periods of five years and must be exercised no later than 10 years from the
+date of grant.
+On June 9, 1994, the Company issued non-qualified options to purchase
+354,688 shares of common stock for $200 per share to two officer/
+stockholders. These options, which are not part of the 1994 stock option plan
+described below, are fully vested and remain exercisable through June 9, 2009.
+During 1994, the Company adopted the Engineering Animation, Inc. 1994
+Stock Option Plan providing for issuance of incentive or non-qualified options
+to employees based upon management discretion. The Company has reserved
+1,000,000 shares of common stock for issuance under this plan. Non-qualified
+options to purchase 15,250 and 26,300 shares were exercisable at December 31,
+1995 and 1996, respectively. Statutory options to purchase 33,808 and 92,025
+shares were exercisable at December 31, 1995 and 1996, respectively.
+On February 11, 1995, the Company issued non-plan/non-qualified options
+to purchase 147,500 shares of common stock at prices ranging from $400 to
+$1200 per share to five executives. The options are fully vested and remain
+exercisable through February 2005.
+In January 1996, the Company adopted a Non-Employee Directors Option
+Plan. The Company has reserved 250,000 shares of Common Stock for issuance
+under this plan.
+The Company has elected to follow Accounting Principles Board Opinion
+No25, Accounting for Stock Issued to Employees APB 25 and related
+Interpretations in accounting 
+40
+for its employee stock options because, as discussed below, the alternative
+fair value accounting provided for under FASB Statement No. 123, Accounting
+for Stock-Based Compensation, requires use of option valuation models that
+were not developed for use in valuing employee stock options. Under APB 25,
+because the exercise price of the Company employee stock options equals the
+market price of the underlying stock on the date of grant, no compensation
+expense is recognized.
+Pro forma information regarding net income and earnings per share is
+required by Statement 123, which also requires that the information be
+determined as if the Company has accounted for its employee stock options
+granted subsequent to December 31, 1994 under the fair value method of that
+Statement. The fair value for these options was estimated at the date of grant
+using the Black-Scholes option pricing model with the following weighted-
+average assumptions for 1995 and 1996, respectively: risk-free interest rates
+ranging from 59% to 62%; a dividend yield of 00%; volatility factors of the
+expected market price of the Company common stock of 01 and 40, and a
+weighted-average expected life of the option of 4 years.
+The Black-Scholes option valuation model was developed for use in
+estimating the fair value of traded options which have no vesting restrictions
+and are fully transferable. In addition, option valuation models require the
+input of highly subjective assumptions including the expected stock price
+volatility. Because the Company employee stock options have characteristics
+significantly different from those of traded options, and because changes in
+the subjective input assumptions can materially affect the fair value
+estimate, in management opinion, the existing models do not necessarily
+provide a reliable single measure of the fair value of its employee stock
+options.
+For purposes of pro forma disclosures, the estimated fair value of the
+options is amortized to expense net of related pro forma tax benefits over the
+options' vesting period. The Company pro forma information follows  
+1995    1996
+Pro forma net income      $401,686 $1,672,994
+Pro forma earnings per share    $11    $32
+Because Statement 123 is applicable only to options granted subsequent to
+December 31, 1994, its pro forma effect is not representative of future pro
+forma amounts.
+A summary of common stock option activity, and related information for
+the years ended December 31 follows  
+1994             1995              1996
+Weighted-Average       Weighted-Average        Weighted-Average
+Options  Exercised Price  Options  Exercised Price  Options  Exercised Price
+Outstanding at beginning of the year   11,808     $005     550,096     $196     798,646    $ 346
+Granted                 538,288     200     284,800     619     526,350     1834
+Exercised                   --      --                     2,560     464
+Forfeited                   --            36,250     200     12,370     368
+Outstanding at end of year        550,096     196     798,646     346    1,310,066     944
+Exercisable at end of year        376,016     $194     562,064     $365     632,321    $ 381
+Weighted-average fair value of options
+granted during the year                                $051             $ 685
+41
+Exercise prices for options outstanding as of December 31, 1996 are as
+follows  
+Number of Options       Range of Exercise Prices
+11,808              $005
+799,058            $200 - $900
+175,650           $1200 - $1925
+323,550           $20125 - $2400
+1,310,066            $005 - $2400
+The weighted-average remaining contractual life of these options is 977
+years.
+8.  Government Grant
+During 1992, the Company entered into a three-year Advanced Technology
+Program federal government grant for $1,947,000 from the United States
+Department of Commerce to create a three dimensional fully detailed
+engineering database of the musculoskeletal system of the human body using
+computer visualization and computational dynamics. The Company and the Federal
+government, through a cost-sharing agreement, developed this intellectual
+property. Revenues from this grant for the years ended December 31, 1994 and
+1995 were $564,000, and $369,000, respectively.
+9.  Employee Retirement Plan
+The Company has a 401k plan which covers substantially all employees
+who meet the minimum age requirement. The Company is required to match one-
+half of the employee contribution up to a maximum Company contribution of
+the first 4% of the employee compensation. Plan expense for 1994, 1995 and
+1996 was approximately $29,000, $58,000 and $92,000, respectively.
+10. Fair Market Value of Financial Instruments
+The following methods and assumptions were used by the Company in
+estimating its fair value disclosures for financial instruments    Notes receivable: The carrying amount reported in the balance sheet for
+the note receivable approximates its fair value as it carries a floating rate
+of interest.
+Long-term debt: The carrying amounts reported in the balance sheet for
+the Company bank notes payable approximate their fair values as they bear
+variable rates of interest. The Company believes that the municipal notes,
+issued to the Company to encourage and facilitate expansion and increased
+employment, approximate their fair values as they were negotiated and issued
+in the latter half of 1995. The prime lending rate in 1996 approximated the
+rate in 1995, therefore, the fair value change would be immaterial.
+42
+11. Major Customers
+Two major customers accounted for 39%, 56% and 329% of revenues for
+1994, 1995, and 1996, respectively.
+12. Quarterly Results of Operations Unaudited
+The following table sets forth selected unaudited quarterly financial
+information for 1996. The Company believes that all necessary adjustments have
+been included in the amounts stated below to present fairly the selected
+quarterly information.
+Three months ended         
+Year ended
+Dollars in thousands,   March 31, 1996 June 30, 1996 September 30, December 31, 1996 December 31, 1996
+except per share data                    1996
+Net revenues          $3,101     $4,536     $5,715      $7,061      $20,413
+Gross profit           2,011     2,972     3,903       5,083       13,969
+Operating expenses        1,782     2,566     3,384       4,178       11,910
+Operating income          229      406      519        905       2,059
+Net income             176      434      521        720       1,851
+Earnings per share        004      008      010       013        036

@@ -1,0 +1,552 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+The following financial statements are contained in this report.
+Page
+Report of Independent Certified Public Accountants        25
+Financial Statements for Years Ended December 31, 1997,
+1996 and 1995
+Balance Sheets                        26   
+Statements of Income                     27
+Statements of Changes in Stockholders' Equity        28
+Statements of Cash Flows                   29
+Report of Independent Certified Public Accountants on
+Supplementary Information                  42
+Schedule II - Valuation and Qualifying Accounts       43   Report of Independent Accountants
+To the Board of Directors and Stockholders
+ADTRAN, Inc.
+We have audited the accompanying balance sheets of ADTRAN, Inc. as of December
+31, 1997 and 1996, and the related  statements of income,  changes in
+stockholders' equity, and cash flows for each of the three years in the period
+ended December 31, 1997. These financial statements are the responsibility of
+the Company management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+We conducted our audits in accordance with generally  accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of ADTRAN, Inc. as of December 31,
+1997, and 1996, and the results of its operations and its cash flows for each of
+the three years in the period ended December 31, 1997, in conformity with
+generally accepted accounting principles. s/ Coopers & Lybrand L.L.P.
+COOPERS & LYBRAND L.L.P.
+Birmingham, Alabama
+January 13, 1998 BALANCE SHEET
+December 31, 1997 and 1996
+1997      1996
+ASSETS
+Current Assets:
+Cash and cash equivalents               $45,340,961  $44,839,131
+Short-term investments                 37,833,240  32,555,930
+Accounts receivable, marked to market, less
+allowance for doubtful accounts of $893,389 and 
+$872,724 in 1997 and 1996, respectively        40,906,887  33,825,560
+Other receivables                     343,463    362,578
+Inventory                        39,369,103  40,792,646
+Prepaid expenses                     1,148,288   2,261,338
+Deferred income taxes                  2,458,136   1,598,750
+Total current assets                67,400,078  156,235,933
+Property, plant and equipment, net           64,801,132  53,971,213
+Other assets                        200,000       0
+Long-term investments                  50,000,000       0
+Total assets                   $282,401,210 $210,207,146 LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                    $9,121,270   $9,350,266
+Accrued salaries                    1,927,364   2,454,194
+Accrued income taxes                  4,579,345   1,803,706
+Accrued taxes other than income taxes           180,611    338,997
+Accrued interest payable                    0     59,594
+Warranty liability                   1,435,259   1,026,156
+Compensated absences                   972,651    693,218
+Total current liabilities               18,216,500   15,726,131
+Bonds payable                     50,000,000   20,000,000
+Deferred income taxes                  2,147,635   1,602,116
+Total liabilities                 70,364,135   37,328,247 Stockholders' equity:
+Commonstock, par value $01 per share; 
+200,000,000 shares authorized; 39,381,264 
+shares issued in 1997 and 38,769,514 in 1996    393,813    387,695
+Additional paid-in capital            90,582,615   90,172,863
+Retained earnings                123,260,647   82,318,341
+Less 100,000 shares treasury stock, at cost    2,200,000       0
+Total stockholders' equity          212,037,075  172,878,899
+Total liabilities and stockholders'equity  $282,401,210  $210,207,146 The accompanying notes are an integral part of these financial statements. STATEMENTS OF INCOME
+for the years ended December 31, 1997, 1996 and 1995                     1997     1996      1995
+Sales               $265,334,768  $250,120,836  $181,478,065
+Cost of sales            130,253,531  129,953,371   93,006,672
+Gross profit          135,081,237  120,167,465   88,471,393
+Selling, general and
+administrative expenses      44,973,175   34,308,436   27,259,610
+Research and development expenses  30,055,091   24,647,425   19,131,457
+Income from operations      60,052,971   61,211,604   42,080,326
+Other income expenses:
+Interest income         4,175,032   2,542,417   3,204,902
+Interest expense        1,838,814   894,657  1,105,156
+Other               437,639    642,432    111,219
+2,773,857   2,290,192   2,210,965 Income before income taxes      62,826,828   63,501,796   44,291,291
+Provision for income taxes      22,617,556   23,681,892   14,833,564
+Net income           $40,209,272  $39,819,904  $29,457,727 Weighted average shares 
+outstanding assuming
+dilution 1            39,565,497   39,548,654   39,249,101 Earnings per common share 
+assuming dilution 1          $102     $101     $075
+Earnings per common share - basic     $103     $103     $080 The accompanying notes are an integral part of these financial statements. 1 Assumes exercise of dilutive stock options calculated under the treasury
+stock method. STATEMENT OF CHANGES IN STOCKHOLDERS' EQUITY
+for the years ended December 31, 1997, 1996 and 1995                Common Stock
+Number     Par Value   Additional   Retained    Treasury    Total
+of shares   $01 Per   Paid-In    Earnings    Stock   Stockholders'
+Share     Capital                   Equity
+Balance,
+December 31, 1994    18,073,598   $180,736    $73,545,813  $11,506,784     $0   $85,233,333 Stock options exercised
+through issuance of
+common stock:
+Various prices 
+per share        460,619    4,606      342,283                  346,889
+Issuance of common stock
+in June 1995 through a 
+public offering of shares,
+net of offering costs   500,000    5,000     15,700,362                15,705,362
+Issuance of shares to
+effect stock split,
+see Note 8      18,428,058   184,281      184,281
+Net Income                               29,457,727         29,457,727 Balance, 
+December 31, 1995    37,462,275   $374,623    $89,404,177  $40,964,511     $0  $130,743,311 Stock options exercised
+through issuance of 
+common stock:
+Various prices per
+share         1,307,239    13,072      768,686                 781,758
+Income tax benefit from
+exercise of non-qualified
+stock options                             1,533,926         1,533,926
+Net income                               39,819,904        39,819,904
+Balance,
+December 31, 1996    38,769,514   $387,695    $90,172,863  $82,318,341    $0  $172,878,899
+Stock options exercised
+through issuance of
+common stock:
+Various prices per
+share          611,750    6,118      409,752                 415,870
+Purchase of treasury 
+stock:         
+100,000 shares                                 2,200,000   2,200,000
+Income tax benefit from
+exercise of non-qualified
+stock options                               733,034          733,034
+Net Income                               40,209,272        40,209,272
+Balance,
+December 31, 1997    39,381,264   $393,813    $90,582,615  $123,260,647$2,200,000 $212,037,075 The accompanying notes are an integral part of these financial statements.
+STATEMENTS OF CASH FLOW
+for the years ended December 31, 1997, 1996 and 1995                               1997      1996       1995
+Cash flows from operating activities:
+Net income                       $40,209,272  $39,819,904   $29,457,727
+Adjustments to reconcile net income to net
+cash provided by operating activities: 
+Depreciation                       7,342,518   4,890,303    3,052,798
+Provision for warranty claims               1,435,259   2,110,614     776,908
+Loss on sale of property, plant, and equipment        9,884    40,572      8,842
+Loss on sale of short-term investments
+classified as available-for-sale              6,063    405,789     169,766
+Deferred income taxes                   313,867    104,561     31,910
+Change in operating assets:       
+Accounts receivable                   7,081,327  4,590,757  11,212,334
+Inventory                         1,423,543   4,204,549   17,472,844
+Other current assets                    932,165   1,083,019    270,724
+Change in operating liabilities:
+Accounts payable                     228,996   390,321   3,245,924
+Other liabilities                     1,284,106    50,491   1,584,749
+Net cash provided by operating activities        44,986,726   45,461,704    9,308,902 Cash flows from investing activities:
+Expenditures for property, plant and equipment     18,220,850  29,661,438  12,790,517
+Proceeds from the disposition of property, plant,
+and equipment                        58,297     4,602     14,250
+Purchase of restricted investments           50,000,000 
+Purchase of short-term investments classified
+as available-for-sale                  5,271,247  8,309,030  16,322,455
+Net cash used in investing activities          73,433,800  37,965,866  29,098,722 Cash flows from financing activities:
+Redemption of bonds payable               20,000,000   
+Proceeds from bond issuance               50,000,000           20,000,000
+Proceeds from public offering, 
+net of expenditures                                  15,705,362
+Proceeds from issuance of common stock           415,870    781,758     346,889
+Income tax benefit from exercise of non-qualified
+stock options                       733,034   1,533,926
+Purchase of treasury stock                2,200,000
+Net cash provided by financing activities        28,948,904   2,315,684   36,052,251 Net increase in cash and cash equivalents          501,830   9,811,522   16,262,431
+Cash and cash equivalents, beginning of year      44,839,131   35,027,609   18,765,178
+Cash and cash equivalents,end of year          $45,340,961  $44,839,131   $35,027,609
+Supplemental disclosure of cash flow information:
+Cash paid during the year for interest, net of
+capitalized interest of $204,153, $393,096 
+and $235,928 in 1997, 1996 and 1995, respectively  $ 1,844,741   $ 909,368   $1,030,851    
+Cash paid during the year for income taxes      $20,042,644  $22,151,925   $13,033,140
+The accompanying notes are an integral part of these financial statements. Notes to Financial Statements
+1.  Summary of Significant Accounting Policies
+ADTRAN, Inc. the Company designs, develops, manufactures, markets, and
+services a broad range of high-speed digital transmission products utilized by
+telephone companies Telcos and corporate end-users to implement advanced
+digital data services over existing telephone networks. The Company also
+customizes many of its products for private label distribution and for original
+equipment manufacturers to incorporate into their own products. Most of the
+Company Telco and customer premises equipment products are connected to the
+local loop, which is the large existing infrastructure of the telephone network,
+predominantly consisting of copper wireline, which connects end-users to a
+Telco Central Office. The Central Office is the Telco facility that provides
+local switching and distribution functions. The balance of the Company
+products are used in the Telcos' Central Offices.
+Cash and Cash Equivalents:
+Cash and cash equivalents represent demand deposits, money market accounts, and
+short-term investments classified as held-to-maturity see Note 2 with original
+maturities of three months or less.
+Financial Instruments:
+The carrying  amount reported in the balance sheets for cash and cash
+equivalents, accounts receivable, and accounts payable approximates fair value
+because of the immediate or short-term maturity of these financial instruments.
+The carrying amount reported for the bonds payable approximates fair value
+because the underlying  instruments are at variable rates that re-price
+frequently.
+Short-term investments represent re-marketed preferred stocks and municipal
+bonds classified as available-for- sale securities. Re-marketed preferred stocks
+are designed to be marketed as money market instruments. These instruments'
+interest rates reset on a short-term basis to maintain the price of the
+instruments at par. These instruments may be redeemed on the date the interest
+rate resets. The fair value of short-term investments is estimated based on
+quoted market prices see Note 2. Realized gains or losses are computed under
+the specific identification method.
+Inventory:
+Inventory is carried at the lower of cost or market, with cost being determined
+using the first-in, first-out method.
+Property, Plant, and Equipment:
+Property, plant, and equipment, which is stated at cost, is depreciated using
+methods which approximate straight-line depreciation over the estimated useful
+lives of the assets. Expenditures for repairs and maintenance are charged to
+expense as incurred; betterments which materially prolong the lives of the
+assets are capitalized.The cost of assets retired or otherwise disposed of and
+the related accumulated depreciation are removed from the accounts and the gain 
+or loss on such disposition is included in income.
+Long-Lived Assets:
+The Company recognizes impairment losses on long-lived assets used in operations
+when indicators of impairment are present and the undiscounted cash flows
+estimated to be generated by those assets are less than the assets' carrying
+values. There were no such losses recognized during 1997, 1996, and 1995.
+Research and Development Costs:
+Research and development costs are expensed as incurred.
+Use of Estimates:
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenue and expenses during the reporting period. Actual
+results could differ from those estimates.
+Income Taxes:
+The Company utilizes the asset and liability method of accounting for income
+taxes which requires the establishment of deferred tax liabilities and assets,
+as measured by enacted tax rates, for all temporary differences caused when the
+tax bases of assets and liabilities differ from those reported in the financial
+statements.
+Earnings Per Share:
+Earnings per common share and earnings per common share assuming dilution are
+computed in compliance with SFAS No. 128, which the Company adopted December 31,
+1997. This statement simplifies the standards for computing earnings per share
+previously found in APB Opinion No. 15, Earnings per Share, and makes them
+comparable to international EPS standards. It replaces the presentation of
+primary EPS with a presentation of basic EPS. The statement requires a
+computation for earnings per common share and earnings per common share assuming
+dilution see Note 13.
+Reclassifications:
+Certain reclassifications have been made to the 1995 and 1996 financial
+statements and related footnotes to conform with the 1997 presentation. These
+reclassifications had no impact on retained earnings or net income.
+Recently Issued Accounting Standards:
+In June 1997, the Financial Accounting Standards Board FASB issued Statement
+of Financial Accounting Standards SFAS No. 130, Reporting Comprehensive
+Income, which requires the reporting and display of comprehensive income and its
+components in an entity financial statements, and SFAS No. 131, Disclosures
+about Segments of an Enterprise and Related Information, which specifies revised
+guidelines for determining an entity operating segments and the type and level
+of financial information to be required. The Company is required to adopt these
+standards  in 1998.  The Company  does not expect the impact of these
+pronouncements to be material.
+2.  Investments
+At December 31, 1997 and 1996, the Company held the following securities as
+available-for-sale or held-to- maturity recorded at amortized cost which
+approximates fair value 1997
+Short-term investments, available-for-sale Municipal Bonds                    $10,333,240
+Re-marketed preferred stocks:             
+GE Capital preferred asset corporation A series A   5,000,000
+Muniyield Fund Auction market preferred series A    5,000,000
+VKM Investment Grade Municipal Trust preferred     5,000,000
+Nuveen Premium Income Fund preferred series M     2,500,000
+Duff & Phelps RP series C               5,000,000
+Van Kampen Merritt Municipal Income          5,000,000
+Total short-term investments 1997           $37,833,240 1996
+Short-term investments, available-for-sale Municipal Bonds                    $10,055,930
+Re-marketed preferred stocks: 
+GE Capital preferred asset corporation A series A    5,000,000
+Merrill Lynch preferred series G             5,000,000
+Muniyield Fund Auction preferred series A        5,000,000
+VKM Investment Grade Municipal Trust preferred      5,000,000
+Nuveen Premium Income Fund preferred series A      2,500,000
+Total short-term investments in 1996          $32,555,930
+Cash equivalents, held-to-maturity Triple A One Plus, zero coupon bonds,
+matured January 10, 1997               $ 4,992,889  
+Receivables Capital, zero coupon bonds,  
+matured January 10, 1997                4,992,889
+Barton Corporation, zero coupon bonds,
+matured January 15, 1997                4,989,248
+Three Rivers Funding, zero coupon bonds,
+matured January 16, 1997                4,988,533
+Total cash equivalents in 1996             $19,963,559 3.  Inventory
+At December 31, 1997 and 1996 inventory consisted of the following                      1997          1996
+Raw materials              $24,199,720     $24,454,251
+Work in process              2,565,179      2,963,220
+Finished goods              12,604,204     13,375,175
+$39,369,103     $40,792,646 4.  Property, Plant, and Equipment
+Property, plant, and equipment comprised the following at December 31, 1997
+and 1996                        1997         1996
+Land                  $ 4,263,104       $ 4,263,104
+Building                 28,673,642        26,230,470
+Construction in progress         3,081,702        2,021,525
+Land improvements             7,963,770        7,177,261
+Office machinery and equipment      17,184,334        8,338,789
+Engineering machinery and equipment   24,534,852        19,577,071
+85,701,404        67,608,220
+Less accumulated depreciation      20,900,272       13,637,007
+$64,801,132       $53,971,213 5.  Line of Credit
+The Company has a $10,000,000 line of credit at a bank, which bears interest at
+the rate of 875 basis points over the 30 day London inter-bank offered rate. At
+December 31, 1997 and 1996, the Company had no borrowings against this line. The
+line of credit expires on May 1, 1998. 6.  Alabama State Industrial Development Authority Financing
+In conjunction with an expansion of its Huntsville, Alabama facility, the
+Company was approved for participation in an incentive program offered by the
+State of Alabama Industrial Development Authority the Authority. Pursuant to
+such program, on January 13, 1995, the Authority issued $20,000,000 of its
+taxable revenue bonds pursuant to such program and loaned the proceeds from the
+sale of the bonds to the Company. The bonds were originally purchased by AmSouth
+Bank of Alabama, Birmingham, Alabama the Bank. First Union National Bank of
+Tennessee, Nashville, Tennessee the Bondholder purchased the original bond
+from the Bank and made further advances to the Authority in the total amount of
+$50,000,000. An Amended and Restated Taxable Revenue Bond ADTRAN, Inc. Project
+Series 1995 was issued and the original financing agreement was amended. The
+Amended and Restated Bond bears interest, payable monthly, at the rate of 45
+basis points over the money market rate of the Bondholder and will mature on
+January 1, 2020. The Company has agreed to make payments to the Authority in
+amounts necessary to pay the principal of and interest on the Amended and
+Restated Bond. Construction on the project began in March 1995 and certain
+phases were completed by December 31, 1997. 7.  Income Taxes
+A summary of the components of the provision benefit for income taxes as of
+December 31 is as follows                  1997      1996      1995 Current:
+Federal          $21,251,520  $21,329,522  $13,896,982
+State            1,679,903   2,247,809    968,492
+Total Current         22,931,423   23,577,331   14,865,474
+Deferred tax provision
+benefit           313,867    104,561    31,910
+Total historical provision 
+for income taxes       22,617,556  $23,681,892  $14,833,564 The provision for income taxes differs from the amounts computed by applying the
+federal statutory rate due to the following                  1997      1996      1995
+Tax provision computed at the
+federal statutory rate 
+35% in 1997, 1996
+and 1995          $21,989,390  $22,225,629  $15,501,952
+State income tax provision, 
+net of federal benefit    1,091,936   1,461,076    629,520
+Federal research credits    1,248,925   151,500   815,408
+Permanent differences
+and other            785,155    146,687    482,500
+$22,617,566  $23,681,892  $14,833,564
+Temporary differences which create deferred tax assets and liabilities at
+December 31, 1997 and 1996 are detailed below.
+1997               1996
+Current    Non-current    Current  Non-current
+Property, plant and
+equipment                $2,147,635        $1,602,116
+Accounts receivable  $ 381,022            $ 341,584
+Inventory        1,130,083             584,204
+Accruals         947,031             672,962
+Deferred tax asset 
+liability     $2,458,136    $2,147,635  $1,598,750 $1,602,116
+No valuation allowance is deemed necessary by management as the realization of
+recorded deferred tax assets is considered more likely than not. 8.  Stock Split
+On April 20, 1995, the stockholders approved the board of directors'
+recommendation to increase authorized common stock from 30 million shares to 60
+million shares, par value $01. Following approval by the board of directors,
+the Company declared a 2-for-1 stock split, payable on May 12, 1995, to
+stockholders of record on April 27, 1995. All common stock information included
+in the financial  statements,  except in the  statements of changes in
+stockholders' equity, gives retroactive effect to this stock split.
+9.  Operating Leases
+The Company leases office space and equipment under operating leases. As of
+December 31, 1997, future minimum rental payments under the non-cancellable
+operating leases are approximately as follows 1998                        $ 529,000
+1999                         329,000
+2000                         125,000
+2001                          45,000
+$1,028,000
+Rental expense was approximately $657,000, $851,000, $447,000 in 1997, 1996
+and 1995, respectively. 10.  Employee Incentive Stock Option Plan and Director Stock Option Plan
+The Board of Directors of the Company adopted the 1996 Employees Incentive Stock
+Option Plan the 1996 Plan effective February 14, 1996, under which 2,488,100
+shares of common stock have been reserved as of December 31, 1997 for issuance
+to certain  employees and officers through  incentive stock options and
+non-qualified stock options. In addition, the Company currently has options
+outstanding under its 1986 Employee Incentive Stock Option Plan the 1986
+Plan, which plan expired on February 14, 1996. Options granted under the 1996
+Plan or the 1986 Plan become exercisable after one year of continued employment
+after the date of grant or pursuant to a five year vesting schedule beginning on
+the first anniversary of the grant date. Expiration dates of options outstanding
+under the 1996 Plan and the 1986 Plan at December 31, 1997 range from 1998 to
+2007.
+The Board of Directors of the Company adopted a Director Stock Option Plan
+effective October 31, 1995 under which 70,000 shares of common stock have been
+reserved. The Plan is a formula plan to provide options to non-employee
+directors of the Company. At December 31, 1997, 36,000 options have been granted
+under the plan. Expiration dates of options outstanding under the Director
+Stock Option Plan at December 31, 1997 range from 2005 to 2007.
+Pertinent information regarding the Plans is as follows                                          Weighted
+Number       Range of      Average
+of        Exercise     Exercise     Vesting
+Options       Prices      Price     Provisions                                            
+Options outstanding, December 31, 1994    2,902,574      $06 - $1253   $049     100% /year
+Options granted                 84,350     $2250 - $4625   $3486     100% /year
+Options cancelled                1,450          $3175   $3175     100% /year
+Options exercised               815,079     $06 -  $333   $043     100% /year Options outstanding, December 31, 1995    2,170,395       $06 - $4625   $183     100% /year
+Options granted                342,000      $3975 - $6575   $6399     20% /year
+Options granted                 7,950      $3050 - $6575   $4443     100% /year
+Options cancelled                9,050      $333 - $6575   $6178      various
+Options exercised              1,307,239      $06 - $3175   $060     100% /year Options outstanding, December 31, 1996    1,204,056      $11 - $6575   $2038      various
+Options granted                697,750     $2200 - $4238   $2562      various
+Options granted                 3,000     $4272 - $4272   $4272      various
+Options granted                 21,700     $2537 - $4578   $3226      various
+Options cancelled               38,300     $2200 - $6575   $5089      various
+Options exercised               611,750     $11 - $3175    $68      various Options outstanding, December 31, 1997    1,276,456      $17 - $6575   $3224      various The following table summarizes information about stock options outstanding at
+December 31, 1997                     Weighted
+Average       Weighted              Weighted
+Range of      Number       Remaining      Average    Number       Average
+Exercise      Outstanding    Contractual     Exercise    Exercisable     Exercise
+Prices       12/31/97      Life        Price     12/31/97      Price
+$017-$250     135,831       280         $164     135,831       $164
+$300-$2250     54,225       591         $546      52,925       $506
+$2538-$2538    676,450       954        $2538        0       $000
+$2750-$4238    109,050       798        $3610      69,850      $3576
+$4272-$4272     3,000       911        $4272        0       $000
+$4625-$4625     3,500       803        $4625      3,100      $4625
+$5625-$5625     5,000       854        $5625      5,000      $5625
+$5950-$5950     3,500       856        $5950       700      $5950
+$6375-$6375    22,500       865        $6375      4,500      $6375
+$6575-$6575    263,400       853        $6575      53,000      $6575
+1,276,456                         324,906 The options above were issued at exercise prices which approximate fair market
+value at the date of grant. At December 31, 1997, 1,513,250 shares are available
+for grant under the plans. The Company applies APB Opinion 25 and related
+Interpretations in accounting for its stock plans. Accordingly, no compensation
+cost has been recognized related to stock options. Had compensation cost for the
+Company stock-based compensation plans been determined based on the fair value
+at the grant dates for awards under those plans consistent with the method
+prescribed in SFAS No. 123, the Company net income and earnings per share
+would have been reduced to the pro forma amounts indicated below                      1997      1996      1995
+Net income - as reported      $40,209,272  $39,819,904  $29,457,727
+Net income - pro forma       $37,634,225  $38,018,766  $28,852,035
+Earnings per share - as reported  
+assuming dilution          $102     $101     $075
+Earnings per share - pro forma
+assuming dilution          $96      $96     $073
+The pro forma amounts reflected above are not representative of the effects on
+reported net income in future years because, in general, the options granted
+typically do not vest for several years and additional awards are made each
+year. The fair value of each option grant is estimated on the grant date using
+the Black-Scholes option-pricing model with the following weighted-average
+assumptions                                       
+1997        1996        1995
+Dividend yield                 0%         0%         0%
+Expected life years              5         5         5
+Expected volatility range       4707% - 4919%  4859% - 4925%  4940% - %237%
+Risk-free interest rate range      601% - 669%    586% - 712%   623% - 829 11.  Employee Benefit Plan
+In March 1990, the Company adopted an incentive savings plan the Savings
+Plan for all of its employees. The Savings Plan provides certain employment
+benefits to all eligible employees and qualifies as a deferred arrangement under
+Section 401k of the Internal Revenue Code of 1986, as amended. The Company
+matches one-third of a participant contribution,  limited to 5% of a
+participant income. An employee interest in the Company contributions
+becomes 100% vested at the date participation in the Savings Plan commenced.
+Charges to operations for the plan amounted to $717,196, $547,072, $415,791 in
+1997, 1996 and 1995, respectively.
+12.  Major Customers
+Sales of the Company transmission and test equipment to the Regional Bell
+Operating Companies RBOCs amounted to approximately 33%, 36% and 40% of total
+sales during the years ended December 31, 1997, 1996 and 1995, respectively. At
+December 31, 1997, 1996 and 1995 respectively, 26%, 23% and 36% of the accounts
+receivable balance consisted of amounts due from RBOCs. 13.   Earnings Per Share
+A summary of the calculation of basic and diluted earnings per share for the
+years ended December 31, 1997, 1996 and 1995 is as follows                            For the Year Ended 1997                  Income       Shares     Per-Share
+Numerator     Denominator   Amount
+Basic EPS
+Income available to common
+stockholders        $40,209,272      39,201,871   $103
+Effect of Dilutive Securities
+Stock Options               0       363,626   
+Diluted EPS
+Income available to common 
+stockholders + assumed
+conversions          $40,209,272      39,565,497   $102                            For the Year Ended 1996
+Income       Shares     Per-Share
+Numerator    Denominator    Amount
+Basic EPS
+Income available to common
+stockholders          $39,819,904      38,603,289   $103
+Effect of Dilutive Securities    
+Stock Options               0       945,365
+Diluted EPS
+Income available to common
+stockholders + assumed
+conversions          $39,819,904      39,548,654   $101                            For the Year Ended 1995
+Income       Shares     Per-Share
+Numerator    Denominator    Amount
+Basic EPS
+Income available to common
+stockholders          $29,457,727      36,984,156    $080
+Effect of Dilutive Securities
+Stock Options               0      2,264,945
+Diluted EPS
+Income available to common 
+stockholders + assumed
+conversions          $29,457,727      39,249,101   $075 The following options were outstanding during the respective year granted, but
+were not included in the computation of that year diluted EPS because the
+options' exercise price was greater than the average market price of the common
+shares in the respective year. All options were still outstanding at year end
+1997 except for 23,100 options granted in 1996 with an exercise price of $6575
+which were cancelled during 1997 and 2,500 options granted in 1995 with an
+exercise price of $4625 which were cancelled during 1997.       1997                 1996              1995
+Options   Exercise  Expiration   Options  Exercise Expiration  Options   Exercise Expiration
+Granted   Price           Granted  Price         Granted   Price   
+1,000    $3763    2007     5,000    $5625  2005-2006  6,000    $4625  2005
+7,700    $3788    1999-2007  3,500    $5950  2005-2006   
+6,000    $4238    2007     22,500   $6375  2005-2006 
+3,000    $4272    2007    286,500   $6575  2005-2006 14.  Summarized Quarterly Financial Data Unaudited
+The following table presents unaudited quarterly operating results for each of
+the Company last eight fiscal quarters. This information has been prepared by
+the Company on a basis consistent with the Company audited financial
+statements and includes all adjustments, consisting only of normal recurring
+adjustments, that the Company considers necessary for a fair presentation of the
+data.                            Three Months Ended
+In thousands, except for per share amounts      
+March 31,   June 30,    September 30,   December 31,
+1997      1997       1997      1997
+Net sales      $61,231    $59,125      $70,579     $74,400
+Gross profit     31,791    28,632      36,092      38,566
+Income from
+operations     14,258    10,291      16,778      18,726
+Net income       9,522     6,980      11,141      12,566
+Earnings per common
+share assuming
+dilution        024     018       028       032
+Earnings per common 
+share-basic      025     018       028       032           March 31,   June 30,    September 30,   December 31,
+1996       1996       1996      1996
+Net sales       $54,544   $63,305      $62,635     $69,637
+Gross profit      25,734    29,960       29,419     35,054
+Income from
+operations      12,975    15,802       14,963     17,472
+Net Income       8,623    10,340       9,406     11,451
+Earnings per common
+share assuming
+dilution        022     026        024      029
+Earnings per common
+share - basic      022     027        024      030 

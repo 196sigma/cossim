@@ -1,0 +1,1129 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX
+PAGES
+Report of Independent Certified Public Accountants              31
+Consolidated Balance Sheets as of December 31, 1999 and 1998         32
+Consolidated Statements of Operations for the Years Ended
+December 31, 1999, 1998 and 1997                      33
+Consolidated Statements of Stockholders' Equity Deficit for
+the Years Ended December 31, 1999, 1998 and 1997              34
+Consolidated Statements of Cash Flows for the Years Ended
+December 31, 1999, 1998 and 1997                      35
+Notes to Consolidated Financial Statements                  36
+Report of Independent Certified Public Accountants on
+Schedule II                                57
+Valuation and Qualifying Accountants                     58
+30        REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+To The Ultimate Software Group, Inc.     We have audited the accompanying consolidated balance sheets of The
+Ultimate Software Group, Inc. a Delaware corporation and subsidiary as of
+December 31, 1999 and 1998, and the related consolidated statements of
+operations, stockholders' equity deficit and cash flows for each of the three
+years in the period ended December 31, 1999. These financial statements are the
+responsibility of the Company management. Our responsibility is to express an
+opinion on these financial statements based on our audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+In our opinion, the financial statements referred to above present
+fairly, in all material respects, the financial position of The Ultimate
+Software Group, Inc. and subsidiary as of December 31, 1999 and 1998, and the
+results of their operations and their cash flows for each of the three years in
+the period ended December 31, 1999 in conformity with accounting principles
+generally accepted in the United States. s/ Arthur Andersen LLP
+ARTHUR ANDERSEN LLP
+Miami, Florida,
+January 28, 2000.
+31         THE ULTIMATE SOFTWARE GROUP, INC. AND SUBSIDIARY
+CONSOLIDATED BALANCE SHEETS
+In thousands, except share data                                   AS OF DECEMBER 31,
+1999     1998
+ASSETS
+Current assets:
+Cash and cash equivalents                     $ 8,946   $ 17,128
+Accounts receivable, net of allowance for doubtful accounts
+of $1,673 and $1,119 for 1999 and 1998, respectively       20,670    15,225
+Prepaid expenses and other current assets              2,772    2,014
+Total current assets                        32,388    34,367
+Property and equipment, net                      5,007    2,458
+Other assets, net                           1,035     389
+Total assets                           $ 38,430   $ 37,214
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                         $ 2,026   $ 2,761
+Accrued expenses                           3,625    4,353
+Deferred revenue                           8,009    8,913
+Current portion of capital lease obligations             1,104     846
+Income taxes payable                          22                                            Total current liabilities                     14,786    16,873
+Capital lease obligations, net of current portion           1,120    1,010
+Deferred revenue                            564     221
+Total liabilities                         16,470    18,104
+Stockholders' equity:
+Series A Junior Participating Preferred Stock, $01 par value,
+500,000 shares authorized, no shares issued and outstanding
+in 1999 and 1998                           --       Preferred Stock, $01 par value, 2,000,000 shares authorized
+in 1999 and 1998, no shares issued or outstanding           --       Common Stock, $01 par value, 50,000,000 shares
+authorized, 16,046,769 and 15,879,015 shares issued and
+outstanding in 1999 and 1998, respectively              160     159
+Additional paid-in capital                     65,162    64,068
+Accumulated deficit                        43,362   45,117
+Total stockholders' equity                     21,960    19,110
+Total liabilities and stockholders' equity            $ 38,430   $ 37,214
+The accompanying Notes to Consolidated Financial Statements are an integral
+part of these financial statements.
+32         THE ULTIMATE SOFTWARE GROUP, INC. AND SUBSIDIARY
+CONSOLIDATED STATEMENTS OF OPERATIONS
+In thousands, except share amounts                                FOR THE YEARS ENDED DECEMBER 31,
+1999     1998    1997
+Revenues:
+License                          $ 23,454   $ 18,811   $ 7,232
+Services                           32,303    24,519    10,360
+Total revenues                       55,757    43,330    17,592
+Cost of revenues:
+License                             751     834     195
+Services                           20,219    18,018    9,375
+Total cost of revenues                   20,970    18,852    9,570
+Operating expenses:
+Sales and marketing                     17,536    16,024    13,656
+Research and development                   10,281    6,953    4,837
+General and administrative                  5,433    4,651    4,148
+Amortization of acquired intangibles               --     638    1,442
+Total operating expenses                  33,250    28,266    24,083
+Operating income loss                   1,537    3,788   16,061
+Compensation related to modification of escrow agreement     --    4,183      Interest expense                        267    207    206
+Interest and other income                    507     589     250
+Income loss before income taxes              1,777    7,589   16,017
+Provision for income taxes                    22      --                                            Net income loss                     $ 1,755   $ 7,589  $16,017
+Net income loss per share--basic and diluted       $  011   $ 052  $ 137
+Weighted average shares outstanding:
+Basic                            15,908    14,494    11,710
+Diluted                           16,125    14,494    11,710
+The accompanying Notes to Consolidated Financial Statements are an integral
+part of these financial statements.
+33         THE ULTIMATE SOFTWARE GROUP, INC. AND SUBSIDIARY
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY DEFICIT
+In thousands                                 SERIES A     SERIES B
+CONVERTIBLE    CONVERTIBLE     CLASS A      CLASS B
+PREFERRED STOCK  PREFERRED STOCK  COMMON STOCK    COMMON STOCK
+SHARES  AMOUNT  SHARES  AMOUNT  SHARES  AMOUNT  SHARES  AMOUNT
+Balance, December 31, 1996                   192    2    33    --   236    2   658    7
+Net proceeds from issuances of Series B
+Convertible Preferred Stock                  --    --   263    3    --    --    --     Equity transaction of 1998 pooling transactions         --    --    --    --    --    --    --     Net loss                            --    --    --    --    --    --    --                                                          Balance, December 31, 1997                   192    2   296    3   236    2   658    7
+Compensation related to modification of
+escrow agreement                        --    --    --    --    --    --    --     Equity transaction of 1998 pooling transactions         --    --    --    --    --    --    --     Cancellation of shares related to release of escrow       --    --    --    --   168   1   --     Mandatory conversion in connection with
+the Release Event                      192   2  296   3   68   1  658   7
+Issuance of Common Stock for initial public
+offering IPO                        --    --    --    --    --    --    --     Underwriting discounts and commissions in
+connection with the IPO                    --    --    --    --    --    --    --     Offering costs in connection with the IPO            --    --    --    --    --    --    --     Issuance of Common Stock from exercise of
+stock options                         --    --    --    --    --    --    --     Non-cash issuance of options to Board to purchase
+Common Stock for board fees                  --    --    --    --    --    --    --     Net loss                            --    --    --    --    --    --    --                                                          Balance, December 31, 1998                   --    --    --    --    --    --    --     Issuance of Common Stock from exercise of
+stock options                         --    --    --    --    --    --    --     Non-cash issuance of options to Board to purchase
+Common Stock for board fees                  --    --    --    --    --    --    --     Non-cash issuance of options to purchase
+Common Stock for services                   --    --    --    --    --    --    --     Net income                           --    --    --    --    --    --    --                                                          Balance, December 31, 1999                   --   $ --    --   $ --    --   $ --    --   $                                                                                                              TOTAL
+COMMON STOCK  ADDITIONA         STOCKHOLDERS'
+PAID-IN  ACCUMULATED   EQUITY
+SHARES  AMOUNT   CAPITAL   DEFICIT    DEFICIT
+Balance, December 31, 1996                    --    --  $18,062   $20,516   $2,443
+Net proceeds from issuances of Series B
+Convertible Preferred Stock                   --    --   13,477      --    13,480
+Equity transaction of 1998 pooling transactions         --    --     33     561     528
+Net loss                             --    --     --    16,017   16,017
+Balance, December 31, 1997                    --    --   31,572    37,094    5,508
+Compensation related to modification of
+escrow agreement                        --    --   4,183      --     4,183
+Equity transaction of 1998 pooling transactions         --    --     --     434     434
+Cancellation of shares related to release of escrow       --    --     1      --       Mandatory conversion in connection with
+the Release Event                      12,621   126    113      --       Issuance of Common Stock for initial public
+offering IPO                       3,250    33   32,467      --    32,500
+Underwriting discounts and commissions in
+connection with the IPO                     --    --   2,275      --    2,275
+Offering costs in connection with the IPO            --    --   1,841      --    1,841
+Issuance of Common Stock from exercise of
+stock options                          8    --     43      --      43
+Non-cash issuance of options to Board to purchase
+Common Stock for board fees                   --    --     31      --      31
+Net loss                             --    --     --    7,589    7,589
+Balance, December 31, 1998                  15,879   159   64,068    45,117    19,110
+Issuance of Common Stock from exercise of
+stock options                         168    1    947      --      948
+Non-cash issuance of options to Board to purchase
+Common Stock for board fees                   --    --     80      --      80
+Non-cash issuance of options to purchase
+Common Stock for services                    --    --     67      --      67
+Net income                            --    --     --     1,755     1,755
+Balance, December 31, 1999                  16,047   $160  $65,162   $43,362   $21,960
+The accompanying Notes to Consolidated Financial Statements are an integral
+part of these financial statements.
+34         THE ULTIMATE SOFTWARE GROUP, INC. AND SUBSIDIARY
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+In thousands                                               FOR THE YEARS ENDED DECEMBER 31,
+1999    1998     1997
+Cash flow from operating activities:
+Net income loss                                     $ 1,755  $ 7,589  $ 16,017
+Adjustments to reconcile net income loss to net cash used in operating activities:
+Depreciation and amortization                                2,068    1,924     2,087
+Provision for doubtful accounts                               1,771    1,369      444
+Non-cash issuance of equity instruments for services                     147      31        Non-cash equity transactions of 1998 poolings                         --      --       8
+Compensation related to modification of escrow agreement                    --    4,183        Changes in operating assets and liabilities, net of effects of acquisitions:
+Accounts receivable                                    7,216   10,667    3,424
+Prepaid expenses and other current assets                          705   1,042     448
+Other assets                                         122     201     128
+Accounts payable                                      734    1,049      860
+Accrued expenses                                     1,564     129     1,898
+Deferred revenue                                      561   2,456    6,672
+Other liabilities                                       --      4      58
+Income taxes payable                                     22      --                                                            Net cash used in operating activities                          4,895   13,266    7,990
+Cash flows from investing activities:
+Purchases of property and equipment                             3,138    241    1,434
+Amount received from affiliate and shareholder                         --      --      25
+Net issuances of notes receivable                               53    255     49
+Net cash used in investing activities                          3,191    496    1,458
+Cash flows from financing activities:
+Net payments under line of credit agreements                          --     209    1,409
+Principal payments of notes payable                               --      --     273
+Net proceeds from capital lease obligations                           --     381       Principal payments on capital lease obligations                       1,044    545     215
+Net proceeds from issuances of Convertible Preferred Stock                   --      --    13,479
+Equity transactions of 1998 poolings                              --     434     284
+Net proceeds from issuance of Common Stock                           948    28,427                                                            Net cash provided by used in financing activities                     96   27,620    11,298
+Net increase decrease in cash and cash equivalents                     8,182   13,858     1,850
+Cash and cash equivalents, beginning of year                         17,128    3,270     1,420
+Cash and cash equivalents, end of year                           $ 8,946  $ 17,128   $  3,270
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid for interest                                  $  168  $   207   $   150
+SUPPLEMENTAL DISCLOSURE OF NON-CASH FINANCING ACTIVITIES - The Company entered into capital lease obligations to acquire new equipment
+totaling $1,412, $2,183 and $0 in 1999, 1998 and 1997, respectively. Certain
+new equipment financed during 1998 was purchased in the latter part of 1997. - In 1998, the Company acquired five third-party resellers in transactions
+accounted under the pooling-of-interests accounting method see Note 15. - Prior to the closing of the initial public offering of the Company Common
+Stock in June 1998, shares of Common Stock were issued upon the conversion
+of Series A Convertible Preferred Stock, Series B Convertible Preferred
+Stock, Class A Common Stock, Class B Common Stock and Class C Common Stock. The accompanying Notes to Consolidated Financial Statements are an integral
+part of these financial statements.
+35        THE ULTIMATE SOFTWARE GROUP, INC. AND SUBSIDIARY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. NATURE OF OPERATIONS
+The Ultimate Software Group, Inc. the Company designs, markets,
+implements and supports technologically advanced, cross-industry human resource
+management and payroll software solutions, marketed primarily to middle-market
+organizations with 500 to 15,000 employees. The Company reaches its customer
+base and target market through its direct sales force and a network of national,
+regional and local strategic partners.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Consolidation
+The consolidated financial statements include the accounts of the
+Company and its subsidiary. Intercompany accounts and transactions have been
+eliminated in consolidation.
+In February and March 1998, the Company acquired the businesses of five
+third-party resellers of the Company products the Acquired Resellers in
+exchange for an aggregate of 121,856 shares of the Company Class B Common
+Stock, converted into 1,233,061 shares of the Company common stock, par value
+$01 per share the Common Stock in connection with the initial public
+offering discussed in Note 3. The Company accounted for these transactions
+using the poolings-of-interest method of accounting. Therefore the accounts of
+the Acquired Resellers have been included retroactively in the consolidated
+financial statements as if the companies had operated as one entity since
+inception. See Note 15.
+Cash and Cash Equivalents
+All highly liquid instruments with an original maturity of three months
+or less when acquired are considered cash equivalents. The accompanying
+consolidated balance sheets include $80 million and $166 million in
+interest-bearing accounts as of December 31, 1999 and 1998, respectively.
+Accounts Receivable
+Accounts receivable are principally from end-users of the Company
+products. The Company performs periodic credit evaluations of its customers and
+has recorded allowances for estimated losses.
+Property and Equipment
+Property and equipment is stated at cost, net of accumulated
+depreciation and amortization. Property and equipment is depreciated using the
+straight-line method over the estimated useful lives of the assets which range
+from three to five years. Leasehold improvements and assets under capital leases
+are amortized over the shorter of the life of the asset or the term of the lease
+over periods ranging from three to fifteen years. Maintenance and repairs are
+charged to expense when incurred; betterments are capitalized. Upon the sale or
+retirement of assets, the cost, accumulated depreciation and amortization are
+removed from the accounts and any gain or loss is recognized.
+Revenue Recognition
+The Company licenses software under noncancellable license agreements
+and provides services including maintenance, implementation, training and
+consulting services. In accordance with the provisions of Statement of Position
+SOP 97-2, Software Revenue Recognition, license revenues are generally
+36 recognized when a noncancellable license agreement has been signed, the product
+has been shipped, no significant vendor obligations remain and collection of the
+related receivable is considered probable. Revenues from maintenance agreements
+for maintaining, supporting and providing periodic updates are recognized
+ratably over the maintenance period, which in most instances is one year.
+Revenues for training and consulting services are recognized as services are
+performed.
+The Company also generates revenues relating to the sale of
+payroll-related forms and the printing of Form W-2 for certain customers. Such
+revenues are recognized as the product is shipped or as the services are
+rendered.
+Until 1997, substantially all of the Company revenues were derived
+from its UltiPro for Lan product and related services. The Company has shifted
+its focus from a product based on DOS and local area network Lan technologies,
+UltiPro for Lan, to a product based on Windows and client/ server technologies,
+UltiPro HRMS/Payroll. As a result of this shift and the decrease in general
+market demand for DOS-based products, the Company revenues from its UltiPro
+for Lan product declined to an immaterial amount in 1998. While the Company
+still derives revenues from the support, service and limited sales of the
+UltiPro for Lan product line, its UltiPro HRMS/Payroll product and related
+support and services are expected to continue to account for substantially all
+of the Company revenues for the foreseeable future as the Company no longer
+actively markets the DOS-based product. As a percentage of total license
+revenues, revenues derived from UltiPro for Lan were 03%, 16%, and 414% in
+1999, 1998, and 1997, respectively.
+Deferred Revenue
+Deferred revenue is primarily comprised of deferrals for i service
+revenues for which maintenance services have not yet been rendered; and, to a
+lesser degree ii license revenues for which product has not yet been delivered
+or obligations have not yet been fulfilled in the case of committed upgrades.
+As of December 31, 1999 and 1998, $564,000 and $221,000, respectively,
+of deferred revenue will be recognized in periods after the years ending
+December 31, 2000 and 1999.
+Associated deferred costs, relating to commissions, were $768,000 and
+$619,000 at December 31, 1999 and 1998, respectively. Commission expense is
+recognized in the period the related revenue is recognized.
+Cost of Revenues
+The cost of revenues consists of cost of license revenues and cost of
+service revenues. Cost of license revenues primarily consists of fees payable to
+a third party for software products distributed by the Company and, to a lesser
+degree, amortization of capitalized software. Cost of service revenues primarily
+consists of costs to provide consulting, implementation, maintenance, technical
+support and training to the Company customers, the cost of providing periodic
+updates and costs related to sales of payroll-related forms.
+Income Taxes
+The Company is subject to corporate Federal and state income taxes and
+accounts for income taxes under the provisions of Statement of Financial
+Accounting Standards SFAS No. 109, Accounting for Income Taxes SFAS
+109. SFAS 109 provides for a liability approach under which deferred income
+taxes are provided based upon enacted tax laws and rates applicable to the
+periods in which the taxes become payable.
+Acquired Intangibles
+Acquired intangibles were amortized on a straight-line basis over 30
+months, the estimated useful life of such acquired assets primarily consisting
+of customer lists and personnel and were fully amortized as of December 31,
+1998. In accordance with SFAS No. 121, Accounting for the Impairment Of
+Long-Lived Assets
+37 and for Long-Lived Assets to Be Disposed Of, the Company continually evaluated
+whether later events and circumstances occurred that would indicate the
+remaining acquired intangibles warranted revision or may not have been
+recoverable. When factors indicated that goodwill should be evaluated for
+possible impairment, the Company used an estimate of the related business'
+undiscounted cash flows from operations over the remaining life of the cost in
+excess of net assets of acquired businesses, in measuring whether such cost was
+recoverable. Operating results as well as projected future cash flows relating
+to the resellers acquired during 1996 indicated an impairment in acquired
+intangibles as of December 31, 1997 and 1996. Accordingly, the Company charged
+additional amounts of $308,000 and $5,050,000 to amortization of acquired
+intangibles in 1997 and 1996, respectively, to reduce acquired intangibles to
+their estimated realizable value. Amortization of acquired intangibles was zero 638,000, and $1,442,000 in 1999, 1998, and 1997, respectively.
+Software Development Costs
+SFAS No. 86, Accounting for the Costs of Computer Software to be Sold,
+Leased or Otherwise Marketed, requires capitalization of certain software
+development costs subsequent to the establishment of technological feasibility.
+Based on the Company product development process, technological feasibility is
+established upon completion of a working model. As of December 31, 1999 and
+1998, capitalized software costs totaled $836,000 and $53,000, respectively.
+Amortization of capitalized software was $68,000, $8,000 and zero in 1999, 1998
+and 1997, respectively.
+Use of Estimates
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+Fair Value of Financial Instruments
+The Company financial instruments, consisting of cash and cash
+equivalents, accounts receivable, accounts payable and borrowings approximate
+fair value due to their short-term nature.
+Accounting for Stock-based Compensation
+As permitted by SFAS No. 123, Accounting for Stock-Based Compensation
+SFAS 123, the Company continues to account for stock-based compensation
+using the intrinsic value method prescribed in Accounting Principles Board
+Opinion No. 25, Accounting for Stock Issued to Employees and has made the pro
+forma disclosures required by SFAS 123 for each of the three years in the period
+ended December 31, 1999. See Note 9.
+Earnings Per Share
+SFAS No. 128, Earnings Per Share, became effective in the fourth
+quarter of 1997 and requires dual presentation of earnings per share--basic
+and diluted. Basic earnings per share is computed by dividing income available
+to common stockholders the numerator by the weighted average number of common
+shares the denominator for the period. The computation of diluted earnings per
+share is similar to basic earnings per share, except that the denominator is
+increased to include the number of additional common shares that would have been
+outstanding if the potentially dilutive common shares had been issued.
+38     The following is a reconciliation of the shares used in the computation
+of basic and diluted net income loss per share in thousands                         FOR THE YEARS ENDED DECEMBER 31,
+1999    1998    1997
+Weighted average shares outstanding      15,908   14,494   11,710
+Dilutive effect of options in the money
+unless antidilutive              217     --                                      Dilutive shares outstanding          16,125   14,494   11,710
+Basic and diluted loss per share for all periods presented include the
+impact of the subsequent conversion of shares of Preferred and Common Stock
+outstanding as described in Notes 10 and 17, effected for the stock split
+discussed in Note 3. Other common stock equivalents not included in the
+computation of diluted net income loss per share as their impact is
+antidilutive totaled 1,380,000, 2,105,000 and 1,749,000 for 1999, 1998 and 1997,
+respectively.
+Comprehensive Income
+In 1998, the Company adopted SFAS No. 130, Reporting Comprehensive
+Income, SFAS 130 which establishes standards for the reporting and display
+of comprehensive income and its components in a full set of financial
+statements. The objective of SFAS 130 is to report a measure comprehensive
+income of all changes in equity of an enterprise that result from transactions
+and other economic events in a period other than transactions with owners. The
+adoption of SFAS 130 did not have a material impact on the Company
+consolidated financial statements since there are no material differences
+between comprehensive income, as defined in SFAS 130, and the Company net
+income loss for all periods presented.
+Segment Information
+The Company adopted SFAS No. 131, Disclosures about Segments of an
+Enterprise and Related Information, SFAS 131 effective December 31, 1998.
+SFAS 131 establishes standards for the way that public companies report selected
+information about operating segments in annual interim financial reports to
+shareholders. It also establishes standards for related disclosures about an
+enterprise business segments, products, services, geographic areas and major
+customers. The Company operates its business as a single segment. As a result,
+no additional disclosure was required.
+Recent Accounting Statements
+SFAS No. 133, Accounting for Derivative Instruments and Hedging
+Activities, SFAS 133 and SFAS No. 137, Accounting for Derivative
+Instruments and Hedging Activities--Deferral of the effective date of FASB No.
+133 SFAS 137 were issued in June 1998 and June 1999, respectively, and are
+effective for the Company fiscal year ending December 31, 2001. These
+pronouncements establish accounting and reporting standards requiring that every
+derivative instrument including certain derivative instruments embedded in
+other contracts be recorded on the balance sheet as either an asset or a
+liability measured at its fair value. The Company believes that the adoption of
+SFAS 133 and SFAS 137 will not have a material impact on its financial
+statements as it has not entered into derivative contracts or hedging activities
+and has no current plans to do so in the foreseeable future.
+In March 1998, the Accounting Standards Executive Committee of the
+American Institute of Certified Public Accountants ACSEC issued SOP 98-1,
+Accounting for the Costs of Computer Software Developed or Obtained for
+Internal Use SOP 98-1. SOP 98-1 establishes criteria for determining which
+costs of developing or obtaining internal-use computer software should be
+charged to expense and which should be capitalized. The Company adopted SOP 98-1
+effective January 1, 1999. The Company adoption of SOP 98-1 did not have a
+material effect on the Company financial position or results of operations.
+39 Reclassifications
+Certain amounts in the notes to consolidated financial statements have
+been reclassified to conform to the 1999 classification.
+3. INITIAL PUBLIC OFFERING
+On June 5, 1998, the Company completed the sale of 3,250,000 shares of
+the Company common stock, par value $01 the Common Stock, in an initial
+public offering at an offering price of $10 per share the IPO. Prior to the
+closing of the IPO, the Company Series A Convertible Preferred Stock, Series B
+Convertible Preferred Stock, Class A Common Stock, Class B Common Stock and
+Class C Common Stock were converted into Common Stock. In connection with the
+IPO, the Company effected a 10119-for-1 stock split of the issued and
+outstanding shares of the Common Stock. All references to Common Stock amounts,
+shares and per share data have been adjusted to give retroactive effect to the
+stock split.
+4. ACCRUED EXPENSES
+Accrued expenses consist of the following in thousands                            AS OF DECEMBER 31,
+1999    1998
+Compensation and benefits             $  498   $ 1,066
+Sales commissions                  1,663     639
+Third-party implementation consultants        378     854
+Other items individually less than
+5% of total current liabilities         1,086    1,794
+$ 3,625   $ 4,353
+5. PROPERTY AND EQUIPMENT
+Property and equipment consists of the following in thousands                            AS OF DECEMBER 31,
+1999    1998
+Equipment                     $ 6,763   $ 4,675
+Furniture, fixtures and improvements        2,919     457
+9,682    5,132
+Less accumulated depreciation and amortization   4,675   2,674
+$ 5,007   $ 2,458
+40     Included in property and equipment is equipment acquired under capital
+leases as follows in thousands                         AS OF DECEMBER 31,
+1999     1998
+Equipment                 $ 3,886   $ 2,474
+Less accumulated amortization        2,105    1,061
+$ 1,781   $ 1,413
+Depreciation and amortization expense on property and equipment totaled
+$2,001,000, $1,286,000, and $645,000 for the years ended December 31, 1999, 1998
+and 1997, respectively.
+6. CAPITAL LEASE OBLIGATIONS
+The Company leases certain equipment under noncancellable agreements
+which are accounted for as capital leases and expire at various dates through
+2002. Interest rates on these leases range from 48% to 63%. The annual
+maturities of the capital lease obligations are as follows as of December 31,
+1999 in thousands  YEAR                                     AMOUNT
+2000   $1,308
+2001     832
+2002     205
+2,345
+Less amount representing interest    121
+Lease obligations reflected as current $1,104 and non-current $1,120   $2,224
+7. LINE OF CREDIT AGREEMENTS
+In September 1996, the Company entered into a line of credit with a
+bank the Working Capital Line for the lesser of $4,000,000 or 80% of
+eligible receivables, as defined. The Working Capital Line was increased to the
+lesser of 80% of the eligible receivables as defined or $60 million for the
+period beginning April 23, 1998 and ending September 30, 1998. The Working
+Capital Line was further amended, from time to time, to extend the agreement to
+December 31, 2000 with available borrowings equivalent to the lesser of
+$4,000,000 or 80% of eligible receivables, as defined. The Working Capital Line
+bears interest at LIBOR plus 4875% per annum 11011% and 9885% at December
+31, 1999 and 1998, respectively, but not less than 8000% per annum in any
+month. Interest on the Working Capital Line is payable monthly. No amounts were
+outstanding under the Working Capital Line as of December 31, 1999 and 1998. The
+Working Capital Line is renewable for successive one-year terms, unless either
+party elects to terminate the agreement. The Working Capital Line is
+collateralized by substantially all of the Company assets.
+8. INCOME TAXES
+The provision for income taxes for 1999 represents current federal
+taxes calculated under the alternative minimum tax method. No provision or
+benefit for federal or state income taxes was made for 1998 and 1997 due to the
+operating losses incurred in the respective periods.
+41     The provision for income taxes is different from that which would be
+obtained by applying the statutory Federal income tax rate to income loss
+before income taxes. A reconciliation from the Federal income tax provision at
+the statutory rate to the effective rate is as follows in thousands                       FOR THE YEAR ENDED DECEMBER 31,
+1999     1998     1997
+Income tax provision benefit at
+statutory Federal tax rate      $  614   $2,656   $5,606
+Alternative minimum tax           22      --        Compensation related to modification
+of escrow agreement            --    1,464        Earnings from pooling of interests      --     330     184
+Goodwill amortization            57     166     448
+Non-deductible expenses           88      63      62
+Change in valuation allowance       645    1,283    4,912
+Other, net                  --      10                                     Provision for income taxes       $  22   $  --   $                                 Effective tax rate             125%    000%    000%
+The components of the net deferred tax assets included in the
+accompanying consolidated balance sheets are as follows in thousands                         AS OF DECEMBER 31,
+1999     1998
+Net operating losses         $ 8,865   $ 9,242
+Alternative minimum tax credit       22           Depreciation and amortization       263     233
+Deferred revenue             278     510
+Accruals not currently deductible     76      76
+Allowance for doubtful accounts      586     392
+Software development costs        287     18
+Other, net                12      2
+Valuation allowance          9,791   10,437
+Net deferred income tax assets    $   --   $                                  The Company has provided a full valuation allowance on the deferred tax
+assets as realization of such amounts is not considered more likely than not.
+The Company reviews the valuation allowance requirement periodically and makes
+adjustments as warranted.
+At December 31, 1999, the Company has approximately $25,330,000 of net
+operating loss carryforwards for Federal income tax reporting purposes available
+to offset future taxable income. The carryforwards expire through 2018.
+Utilization of such net operating losses may be limited as a result of
+cumulative ownership changes in the Company equity instruments. In addition,
+the Company has alternative tax credit carryforwards of approximately $22,000
+which are available to reduce future Federal regular income taxes, if any, over
+an indefinite period.
+42 9. STOCK OPTIONS
+The Company has adopted The Ultimate Software Group, Inc. Nonqualified
+Stock Option Plan the Plan under which the Company is authorized to issue
+options to purchase a total of 5,059,500 shares of the Company Common Stock to
+directors, officers and employees of the Company. Under the Plan, options to
+purchase shares of Common Stock may be granted at prices equal to the market
+value of shares of the Company Common Stock as of the date of grant, or at
+such other amount as may be determined by the Compensation Committee of the
+Board of Directors appointed to administer the Plan the Committee. The
+Committee has discretion under the Plan to prescribe vesting periods for options
+which are granted under the Plan. In addition, options granted under the Plan
+become immediately exercisable in the event of a change in control of the
+Company and in certain other circumstances. The maximum term of the options
+granted under the Plan is 10 years.
+The Plan provides that non-employee members of the Company Board of
+Directors shall receive options in lieu of any retainer or meeting fees for
+serving on the Board or committees thereof. Such options vest upon the date of
+grant and have an exercise price equal to 30% of fair market value of the
+Company Common Stock on the date of grant. See Note 10.
+A summary of the Company Plan as of December 31, 1999, 1998 and 1997
+and changes during the years then ended, is presented below                                   WEIGHTED
+AVERAGE
+SHARES    EXERCISE PRICE
+Outstanding at December 31, 1996         768,123     $516
+Granted                    1,000,010      712
+Exercised                     506     516
+Forfeited                    18,892     516
+Outstanding at December 31, 1997        1,748,735      627
+Granted                     443,174      910
+Exercised                    8,300     516
+Forfeited                    79,047     577
+Outstanding at December 31, 1998        2,104,562      689
+Granted                    1,402,903      739
+Exercised                   167,754     565
+Forfeited                   102,739     786
+Outstanding at December 31, 1999        3,236,972     $822
+The following table summarizes information about stock options
+outstanding under the Plan at December 31, 1999                  OPTIONS OUTSTANDING         OPTIONS EXERCISABLE
+WEIGHTED-
+AVERAGE    WEIGHTED-          WEIGHTED-
+REMAINING    AVERAGE           AVERAGE
+RANGE OF             CONTRACTUAL   EXERCISE          EXERCISE
+EXERCISE PRICES    NUMBER    LIFE YEARS    PRICE     NUMBER     PRICE
+-                                              
+$169 to $425     192,321       928    $399     64,945    $349
+$516 to $663     750,042       763     537     663,371     522
+$721 to $775    1,752,243       869     742     917,117     732
+$803 to $1000    542,366       889     979     213,276     837
+$169 to $1000   3,236,972       851    $822    1,858,709    $672
+43     Pro forma information is required by SFAS 123 for options issued to
+employees and has been determined as if the Company had accounted for its
+stock-based compensation plan under the fair value method. The fair value of
+each option granted was estimated at the date of grant using the Black-Scholes
+option pricing model with the following weighted average assumptions used for
+grants: risk-free interest rates of 50%-55% for 1999 and 1998 and 64% for
+1997, dividend yield of 0% for all three years presented, expected volatility of
+65% for each of the three years presented and an expected life of three years
+for each of the three years presented. The Company pro forma information is as
+follows in thousands, except per share amounts                    FOR THE YEARS ENDED DECEMBER 31,
+1999     1998      1997
+Net income loss:
+As reported          $1,755    $ 7,589   $ 16,017
+Pro forma             116     8,446    17,385
+Basic and diluted per share:
+As reported          $ 011    $ 052   $  137
+Pro forma            001     058     148
+The Company has also issued options to purchase shares of its Common
+Stock to non-employees for consulting services. See Note 10.
+10. STOCKHOLDERS' EQUITY
+Initial Public Offering
+As discussed more fully in Note 3, in June 1998 the Company sold
+3,250,000 shares of the Company Common Stock in an initial public offering at
+an offering price of $10 per share. Net proceeds to the Company from the IPO
+were $284 million.
+The Transactions
+The Company was formed in April 1996 in connection with the
+consummation of a series of transactions during the second and third calendar
+quarters of 1996, including the following      
+i     the businesses owned by nine third-party resellers of the Partnership products the
+Participating Resellers were acquired by the Partnership;
+ii    the shareholders of The Ultimate Software Group, Inc., the then general partner of The
+Ultimate Software Group, Ltd. GP, and Strategic Image Systems, Inc. Strategic the
+Participating Stockholders assigned and transferred their shares in GP and Strategic to
+the Company;
+iii    the business and operations of the Partnership were transferred and conveyed to the
+Company;
+iv    the Company entered into escrow agreements with the Partnership and the Participating
+Stockholders obligating the Partnership to surrender certain shares for cancellation under
+certain circumstances as provided therein; and
+v     J.P. Morgan Investment Corporation Morgan and others invested $10,000,000 in the
+Company.     The acquisitions of the Participating Resellers were accounted for
+under the purchase method of accounting and are more fully described in Note 15.
+The exchange of the Participating Stockholders' interest for shares of the
+Company was accounted for on a historical cost basis as the exchange was between
+common controlling interests. GP and the Company were under common control at
+the time of the exchange.
+44 Description of Capital Stock
+Series A Junior Participating Preferred Stock
+In October 1998, the Board of Directors of the Company adopted a
+Stockholders Rights Plan the Rights Plan in which one preferred stock
+purchase right was distributed as a dividend for each share of Common Stock held
+of record as of the close of business on November 15, 1998 the Right or,
+collectively, the Rights.
+The Rights are exercisable only if a person or group acquires
+beneficial ownership of 15% or more of the Company outstanding Common Stock
+or commences or announces a tender offer which would result in such person or
+group beneficially owning 15% or more of the Company outstanding Common Stock.
+Each Right entitles the holder to buy one one-hundredth of a share of Series A
+Junior Participating Preferred Stock for $45.
+Series A and Series B Convertible Preferred Stock
+Pursuant to Board action taken in the second calendar quarter of 1998
+following the occurrence of the Release Event see Note 17 the Board
+Action, each of the outstanding shares of Series A and Series B Convertible
+Preferred Stock was converted into 10119 shares of the Company Common Stock
+prior to the closing of the IPO.
+Class A, Class B and Class C Common Stock
+The shares of the Class A, Class B and Class C Common Stock were
+subject to mandatory conversion into shares of Common Stock if the Board of
+Directors of the Company declared a mandatory conversion following the
+occurrence of a Release Event. Pursuant to the Board Action, each outstanding
+share of Class A, Class B and Class C Common Stock was converted into shares of
+the Company Common Stock.
+Common Stock
+Shares of Common Stock were issued upon the conversion of shares of the
+other classes of Common and Preferred Stock and no shares of Common Stock were
+issued prior to any such conversion.
+The holders of Common Stock are entitled to one vote per share for each
+share held of record on all matters submitted to a vote of the stockholders.
+Escrow Agreements
+All of the 236,300 shares of Class A Common Stock issued in connection
+with the Transactions were placed in escrow pursuant to an escrow agreement
+between the Partnership and the Company the Class A Escrow Agreement to be
+held until the occurrence of a Release Event. Upon the occurrence of a Release
+Event, the Class A Escrow Agreement required the Partnership to return to the
+Company for cancellation any shares of Class A Common Stock that the Partnership
+was not entitled to retain under a formula that generally measured i the
+revenues of the Participating Resellers during a recent 12 month period
+preceding the Release Event, against ii the total revenues of the Company in
+the same 12 month period. In March 1998, 68,747 of the shares of Class A Common
+Stock which were converted into 1,030,398 shares of Common Stock held under
+the Class A Escrow Agreement were released to the Partnership and the remaining
+167,553 shares of Class A Common Stock held in the Class A Escrow were
+surrendered to the Company and cancelled. See Note 17.
+A total of 230,700 shares of the Class B Common Stock converted into
+2,334,453 shares of Common Stock, issued in connection with the Transactions
+were held in escrow pursuant to an escrow agreement among the Company, the
+Partnership and the Participating Stockholders the Class B Escrow
+45 Agreement until the occurrence of a Release Event. Of such 230,700 shares of
+Class B Common Stock, 77,665 converted into 785,892 shares of Common Stock
+were beneficially owned by the Company as a result of its acquisition of GP and
+Strategic. See Note 17.
+Other Equity Transactions
+On October 21, 1999, the Company entered into a definitive consulting
+agreement the Consulting Agreement with Aberdeen Strategic Capital LP
+Aberdeen under which Aberdeen has been engaged to provide marketing,
+strategic and other advisory services to the Company. John R. Walter, a member
+of the Company Board of Directors, is Chairman of the Management Advisory
+Board of Aberdeen and has minority ownership interests in Aberdeen and its
+general partner.
+As sole compensation for the services of Aberdeen and its affiliates
+under the Consulting Agreement, on October 21, 1999 the Company issued to
+Aberdeen a warrant the Warrant to purchase 100,000 shares of the Company
+Common Stock, par value $001 per share, for $10 per share. The Warrant vests in
+eight quarterly increments of 12,500 shares, the first of which increments
+vested on October 22, 1999. No increment of shares shall vest if the Consulting
+Agreement has been terminated before the vesting date for such increment. The
+Warrant expires on July 22, 2003. The Company has accounted for such Warrant in
+accordance with the requirements prescribed in SFAS 123. Accordingly, the
+related compensation expense is $67,000 and is included in general and
+administrative expenses in the accompanying statement of operations for the year
+ended December 31, 1999.
+In 1999, the Company granted options to non-employee directors to
+purchase i 4,396 shares of the Company Common Stock for $195; ii 4,080
+shares of the Company Common Stock for $210; iii 5,080 shares of the
+Company Common Stock for $169; and iv 4,012 shares of the Company Common
+Stock for $214 in exchange for services rendered. In 1998, the Company granted
+options to non-employee directors to purchase i 1,230 shares of the Company
+Common Stock for $278 and ii 3,688 shares of the Company Common Stock for
+$233 in exchange for services rendered. Such options are currently exercisable
+and were valued on the date of grant in accordance with the requirements
+prescribed in APB 25. The related compensation expense was $80,000 and $31,000
+in 1999 and 1998, respectively, and is included in general and administrative
+expenses in the accompanying consolidated statements of operations.
+In 1997, the Company sold 262,934 additional shares of Series B
+Convertible Preferred Stock converted into 2,660,649 shares of Common Stock at
+$5220 per share. Net proceeds from such sales were $13,479,193.
+46 11. COMMITMENTS AND CONTINGENCIES
+Operating Leases
+The Company leases corporate office space and certain equipment under
+noncancellable operating lease agreements expiring at various dates. The Company
+has executed a lease for its new corporate headquarters which expires in 2014
+with lease payments commencing in July 1999 see Note 13. Total rent expense
+under these agreements was $2,029,000, $2,012,000, and $1,143,000 for the years
+ended December 31, 1999, 1998 and 1997, respectively. Future minimum annual
+rental commitments related to these leases are as follows at December 31, 1999
+in thousands            YEAR           AMOUNT
+2000           $ 1,605
+2001            1,349
+2002             884
+2003             848
+2004             763
+Thereafter         7,831
+$13,280
+Product Liability
+Software products such as those offered by the Company frequently
+contain undetected errors or failures when first introduced or as new versions
+are released. Testing of the Company products is particularly challenging
+because it is difficult to simulate the wide variety of computing environments
+in which the Company customers may deploy these products. Despite extensive
+testing, the Company from time to time has discovered defects or errors in
+products. There can be no assurance that such defects, errors or difficulties
+will not cause delays in product introductions and shipments, result in
+increased costs and diversion of development resources, require design
+modifications or decrease market acceptance or customer satisfaction with the
+Company products. In addition, there can be no assurance that, despite testing
+by the Company and by current and potential customers, errors will not be found
+after commencement of commercial shipments, resulting in loss of or delay in
+market acceptance, which could have a material adverse effect upon the Company
+business, operating results and financial condition.
+Litigation
+From time-to-time, the Company is involved in litigation relating to
+claims arising out of its operations in the normal course of business. The
+Company is not currently a party to any legal proceeding the adverse outcome of
+which, individually or in the aggregate, could reasonably be expected to have a
+material adverse effect on the Company business, operating results and
+financial condition.
+12. PARTNERSHIP ACQUISITIONS
+Effective April 25, 1996, the Partnership acquired the businesses of
+the Participating Resellers for special limited partnership interests in the
+Partnership, the assumption of certain obligations and $661,000 in cash. The
+acquisitions were accounted for under the purchase accounting method. The
+purchase price, together with the net liabilities assumed, was recorded as
+intangible assets as follows in thousands Purchase price                         $7,337
+Net liabilities assumed                     1,463
+Acquired intangibles, primarily customer lists and personnel  $8,800
+During 1996, subsequent to the Transactions, and during the year ended
+December 31, 1997, the Company paid the former owners of the Participating
+Resellers fees totaling approximately $130,000 and
+47 213,000, respectively, in accordance with an agreement entered into as part of
+the Transactions. Such fees are included in general and administrative expenses
+in the accompanying consolidated statements of operations. In accordance with
+the agreement, monthly payments aggregating approximately $14,000 will continue
+until the Company completes an initial public offering of its Common Stock.
+13. RELATED PARTY TRANSACTIONS
+In mid-1999, the Company moved its corporate headquarters into a new
+and larger facility located in Weston, Florida. On December 31, 1998, the
+Company executed a commercial office lease to lease all available square footage
+in this new facility, or approximately 40,000 square feet. The lessor for this
+facility is a limited partnership of which a director and a corporation owned by
+an officer of the Company are limited partners the Lessor. Execution of the
+lease was made upon approval of a majority of disinterested members of the Board
+of Directors of the Company. The Company believes that the terms of the lease
+are no less favorable than could be obtained from an unaffiliated party.
+In January 2000, the Lessor of the Company new corporate headquarters
+sold the related building and land to a third-party corporation and is in the
+process of assigning the related commercial office lease to such third-party or
+an affiliate thereof. No material revisions to the commercial office lease are
+anticipated.
+14. EMPLOYEE BENEFIT PLAN
+The Company provides retirement benefits for eligible employees, as
+defined, through a defined contribution benefit plan that is qualified under
+Section 401k of the Internal Revenue Code the Plan. Contributions to the
+Plan, which are made at the sole discretion of the Company, were $401,000 267,000 and $231,000 for the years ended December 31, 1999, 1998 and 1997,
+respectively.
+15. ACQUISITION OF RESELLERS
+In February and March 1998, the Company acquired the businesses of five
+third-party resellers of the Company products the Acquired Resellers in
+exchange for an aggregate of 121,856 shares of the Company Class B Common
+Stock converted into 1,233,056 shares of Common Stock. Prior to these
+acquisitions, the Company and its stockholders had no ownership interest in the
+five Acquired Resellers and the financial and operating policies of the Acquired
+Resellers were not controlled by the Company. The acquisition of such Acquired
+Resellers was accounted for under the poolings-of-interest method of accounting.
+The following information details the results of operations of the
+Company and the Acquired Resellers for the period before the
+poolings-of-interests combinations were consummated in thousands                         FOR THE
+YEAR ENDED
+DECEMBER 31, 1997
+Revenues:
+The Company                $ 14,137
+Acquired Resellers               3,455
+$ 17,592
+Net loss:
+The Company                $ 15,491
+Acquired Resellers               526
+$ 16,017
+Net loss per share--basic and diluted
+The Company                $  148
+Acquired Resellers               011
+$  137
+48 16. MODIFICATION TO ESCROW AGREEMENT
+In March 1998, the Class B Escrow Agreement was modified to provide
+that all of the shares of Class B Common Stock held in escrow were to be
+released upon the execution of a firm underwriting agreement for the initial
+public offering of the Company capital stock on or before July 1, 1998.
+Accordingly, approximately $42 million of compensation expense was recorded as
+of the date of modification, representing 60,429 shares of Class B Common Stock
+of the Company converted into 611,477 shares of Common Stock released to
+directors, officers and employees of the Company, multiplied by the difference
+between the fair market value of the Class B Common Stock on the date of the
+modification and the price paid by the holders of the shares.
+17. RELEASE EVENT
+In March 1998, the Release Event occurred when the businesses of the
+five Acquired Resellers were acquired by the Company and the GP determined that
+such acquisitions should result in the liquidation of the Partnership. Following
+the occurrence of such Release Event, the following events occurred: i the
+Board of Directors declared a mandatory conversion of the outstanding shares of
+the Company Class A, Class B and Class C Common Stock and such shares were
+converted into shares of Common Stock of the Company; ii 68,747 of the shares
+of Class A Common Stock subsequently converted into 1,030,398 shares of Common
+Stock held in escrow pursuant to the Class A Escrow Agreement were released to
+the Partnership and the remaining shares held in escrow pursuant to the Class A
+Escrow Agreement were returned to the Company for cancellation; and iii the
+Partnership was dissolved and liquidated and all of the shares of Common Stock
+held by the Partnership were distributed to its partners, including the
+distribution of shares converted into 1,030,398 shares of Common Stock to the
+Participating Resellers. No modification of the original recorded purchase price
+of the Participating Resellers was required.
+Item 1. Business                              4
+Item 2. Properties                             14
+Item 3. Legal Proceedings                         14
+Item 4. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The directors, executive officers Messrs. Scott Scherr, Marc D. Scherr,
+Dr. Alan Goldstein, Mitchell K. Dauerman and James M. Alu and other key
+employees of the Company, and their ages as of March 10, 2000, are as follows NAME            AGE  POSITIONS
+-                              
+Scott Scherr        48   Chairman of the Board, President and Chief Executive Officer
+Marc D. Scherr       42   Vice Chairman of the Board
+Alan Goldstein, M.D.    49   Executive Vice President, Chief Technology Officer and Director
+Mitchell K. Dauerman    43   Executive Vice President, Chief Financial Officer and Treasurer
+James M. Alu        55   Executive Vice President and Chief Operating Officer
+Dale T. Baker        50   Vice President--UltiPro.com
+Donald M. Causey, Jr.    40   Vice President--Controller
+Roy L. Gerber, Ph.D.    43   Vice President--Engineering
+J.C. Gonzalez        36   Vice President--Product Support
+Paul Gonzalez        48   Vice President--Special Operations
+Gene Guhne         35   Vice President--Sales, East Division
+Jon Harris         35   Vice President--Professional Services
+James A. Jensen III     36   Vice President--Chief Information Officer and Technical Sales
+Linda Larrivee       43   Vice President--Product Management
+Robert Manne        47   Vice President--General Counsel
+Vivian Maza         38   Vice President--People and Secretary
+Linda Miller        55   Vice President--Communications and Public Relations
+Laura Perkins        35   Vice President--Product Marketing
+H. Stephen Smith      50   Vice President--Strategic Sales
+Felicia A. Smitha      39   Vice President--Finance
+Greg Swick         36   Vice President and General Manager--PEO Division
+Elaine Trotter       40   Vice President--Special Projects
+John Van Wyckhouse     45   Vice President--Sales, West Division
+Carol Wiese         42   Vice President--Education Services
+George F. Winter      41   Vice President and General Manager--Healthcare Division
+Ofer Nemirovsky       41   Director
+LeRoy A. Vander Putten   65   Director
+John R. Walter       53   Director
+Rick Wilber         53   Director
+Robert A. Yanover      63   Director     Scott Scherr has served as President and a director of the Company
+since its inception in April 1996 and has been Chairman of the Board and Chief
+Executive Officer of the Company since September 1996. In 1990, Mr. Scherr
+founded The Ultimate Software Group, Ltd. the Partnership, the business and
+operations of which were assumed by the Company in 1998. Mr. Scherr served as
+President of the Partnership general partner from the inception of the
+Partnership until its dissolution in March 1998. From 1979 until 1990, he held
+various positions at Automatic Data Processing, Inc. ADP, a payroll services
+company, where his titles included Vice President of Operations and Sales
+Executive. Prior to joining ADP, Mr. Scherr ran Management Statistics, Inc., a
+data processing service bureau founded by his father, Reuben Scherr, in 1959. He
+is the brother of Marc Scherr, the Vice Chairman of the Board of the Company.
+Marc D. Scherr has been a director of the Company since its inception
+in April 1996 and was elected as Vice Chairman in July 1998. Mr. Scherr became
+an executive officer of the Company effective March 1, 2000. Mr. Scherr served
+as a director of Gerschel & Co., Inc., a private investment firm from January
+1992 until March 2000. In December 1995, Mr. Scherr co-founded Residential
+Company of America, Ltd.
+50 RCA, a real estate firm, and served as President of its general partner
+until March 2000. Mr. Scherr also served as Vice President of RCA general
+partner from its inception in August 1993 until December 1995. From 1990 to
+1992, Mr. Scherr was a real estate pension fund advisor at Aldrich, Eastman &
+Waltch. Previously, he was a partner in the Boston law firm of Fine & Ambrogne.
+Mr. Scherr is the brother of Scott Scherr, Chairman of the Board, President and
+Chief Executive Officer of the Company.
+Alan Goldstein, M.D., FACS has served as a director of the Company
+since its inception in April 1996 and as Executive Vice President and Chief
+Technology Officer since September 1996. From April 1996 through September 1996,
+he served as Vice President and Treasurer of the Company. From January 1994
+until February 1998, Dr. Goldstein served as Vice President of the general
+partner of the Partnership. In 1989, Dr. Goldstein founded Strategic Image
+Systems, Inc., which produced and developed software applications and tools.
+From 1985 to 1986, Dr. Goldstein served as Vice President of Information Systems
+for Loren Industries, Inc., a jewelry casting manufacturer. From 1985 to 1987,
+Dr. Goldstein served as Director of Surgical Services at Kings County Hospital
+in New York. In 1985, as a trauma surgeon engaged in research and medical
+education, Dr. Goldstein developed a software application for use in hospitals
+to aid in patient management, quality assurance and physician education.
+Mitchell K. Dauerman has served as Executive Vice President of the
+Company since April 1998 and as Chief Financial Officer and Treasurer of the
+Company since September 1996. From 1979 to 1996, Mr. Dauerman held various
+positions with KPMG LLP, a global accounting and consulting firm, serving as a
+Partner in the firm from 1988 to 1996. Mr. Dauerman is a Certified Public
+Accountant.
+James M. Alu has served as Executive Vice President of the Company
+since February 1999 and as Chief Operating Officer since January 1998. Prior to
+that, Mr. Alu served as Vice President of the Company from September 1996 and
+Vice President of the general partner of the Partnership from July 1993 until
+April 1996. From 1988 until 1993, Mr. Alu served as Area Sales Vice President
+for the northeastern United States for ADP Dealer Services Group.
+Dale T. Baker has served as Vice President--UltiPro.com since January
+1999. From September 1996 until January 1999, he served the Company as Vice
+President--Strategic Alliances. From April 1996 through September 1996, he
+served as Vice President of the Company. Prior to that, he had served as a Vice
+President of the general partner of the Partnership from 1993 until April 1996.
+From 1990 to 1993, Mr. Baker was a Branch Manager for Cap Gemini America, an
+information services consulting firm.
+Donald M. Causey, Jr. has served as Vice President--Controller since
+February 2000 and as Controller since September 1996. From 1992 until September
+1996, Mr. Causey served as Regional Controller for Latin America of New Zealand
+Dairy Board, the largest dairy exporter worldwide. Mr. Causey was with the tax
+practice of KPMG LLP from 1988 to 1992. Mr. Causey is a Certified Public
+Accountant.
+Roy L. Gerber, Ph.D. has served as Vice President--Engineering since
+October 1999. From 1995 to October 1999, Mr. Gerber served in various positions
+in the research and development organization, including Director of Engineering.
+Prior to joining the Company, from 1986 to 1995, Mr. Gerber was Executive Vice
+President of Development for Cascade Interactive Designs, Inc. and dBSi which
+developed and marketed medical software products. From 1984 to 1988, Mr. Gerber
+was Executive Vice President and Chief Operating Officer of Pacific Retirement
+Plans, Inc.
+J.C. Gonzalez has served as Vice President--Product Support since
+January 1999. Prior to that, Mr. Gonzalez served as Manager and Director of
+Product Support from January 1994 until December 1998. Mr. Gonzalez is a Payroll
+Professional and holds a Certified Payroll Professional CPP certification from
+the American Payroll Association APA. From May 1983 until December 1993, Mr.
+Gonzalez held various positions at ADP, including Customer Support Manager for
+the Major and National Accounts of ADP.
+Paul Gonzalez has served as Vice President--Special Operations for the
+Company since January 1999. Mr. Gonzalez served as Vice
+President--Implementation Partners from April 1997 to January 1999, Vice
+51 President of Support Services from September 1996 to April 1997, and Vice
+President of the Company from April 1996 to September 1996. Prior to April 1996,
+Mr. Gonzalez served as a Vice President of the general partner of the
+Partnership from 1994 until April 1996 and as Secretary of the general partner
+from 1990 until 1994. From 1980 to 1990, Mr. Gonzalez held various positions at
+ADP, including National Product Manager for the Wholesale Distribution Division
+and Branch Manager for the southeast region.
+Gene Guhne has served as Vice President--Sales, East Division, since
+November 1999. From February 1998 to November 1999, Mr. Guhne served as Director
+of Sales, Mid-Atlantic Division. Prior to joining the Company, from 1992 to
+1998, Mr. Guhne was the President of The Ultimate Software Group of the
+Carolinas, Inc. and the Vice President of The Ultimate Group of Virginia, Inc.,
+a reseller of the Company which was acquired by the Company in March 1998. From
+1987 to 1992, Mr. Guhne served in various positions at ADP, where his most
+recent position was Sales Director.
+Jon Harris has served as Vice President--Professional Services since
+July 1998. From 1992 to 1997, Mr. Harris held various management positions
+within ADP National Accounts Division. From 1989 to 1992, Mr. Harris held the
+position of Consulting Services Director for Sykes Enterprises, Inc., a diverse
+information technology company.
+James A. Jensen III has served as Vice President--Chief Information
+Officer and Technical Sales since March 2000. From April 1998 to March 2000, Mr.
+Jensen served as Director of Technical Sales. He served as Director of Internal
+Systems from March 1996 to April 1998 and Director of Development for
+HRMS/Payroll from March 1995 to March 1996. From 1994 to 1995, Mr. Jensen was
+Vice President of U. S. Operations of Prosoft Systems International, a software
+consulting services and custom programming company. From 1992 to 1994, Mr.
+Jensen was Senior Cost Estimator/Financial Analyst for GTE Government Systems
+Corporation, Federal Systems Division, a telecommunications and software
+development company for government contracting.
+Linda Larrivee has served as Vice President--Product Management since
+July 1998. Ms. Larrivee previously served as the Human Resources Product Manager
+for the Company from August 1995 until August 1998. Ms. Larrivee has worked in
+the human resource and human resource management systems field since 1979, for
+various corporations including those engaged in high technology and retail
+businesses.
+Robert Manne has served as Vice President--General Counsel since May
+1999. Prior to joining the Company, Mr. Manne was an attorney and partner of
+Becker & Poliakoff, P.A., an international law firm, since 1978. In addition to
+administering the Litigation Department of the law firm, Mr. Manne was a
+permanent member of the firm executive committee which was responsible for law
+firm operations. Mr. Manne has performed legal services for the Company since
+its inception.
+Vivian Maza has served as Vice President--People for the Company since
+January 1998 and as Secretary of the Company since September 1996. Prior to
+that, Ms. Maza served as the Office Manager of the Company from its organization
+in April 1996 and of the Partnership from its inception in 1990 until April
+1996. Ms. Maza is a HR Generalist and holds a Professional in Human Resources
+PHR certification from the Society for Human Resource Management SHRM
+association. From 1985 to 1990, Ms. Maza was a systems analyst for the Wholesale
+Division of ADP.
+Linda Miller has served as Vice President--Communications and Public
+Relations since January 1999. Ms. Miller served as Vice President, Public
+Relations, for the Company from July 1998 to January 1999. Prior to that, Ms.
+Miller served as the Company Director of Marketing from January 1997. From
+1992 to 1996, Ms. Miller held various positions at Best Software, Inc., a
+developer of corporate resource management applications, Abra Products Division,
+including Public Relations Manager.
+Laura Perkins has served as Vice President--Product Marketing since
+July 1998. From May 1996 to July 1998, Ms. Perkins served as the Director of
+Applications Consulting for the Company. From 1991 to
+52 1996, Ms. Perkins held various positions with Best Software, Inc., Abra Products
+Division. Ms. Perkins holds a Certified Payroll Professional CPP certification
+from the American Payroll Association APA.
+H. Stephen Smith has served as Vice President--Strategic Sales for the
+Company since November 1999. From January 1999 until November 1999, Mr. Smith
+served as Vice President--Sales for the Company. From September 1996 until
+January 1999, Mr. Smith served as Vice President and General Manager for the
+East Region of the Company. Prior to joining the Company in 1996, Mr. Smith was
+employed for 20 years at ADP, where his most recent position was Division Vice
+President for the development and management of strategic alliances.
+Felicia A. Smitha has served as Vice President--Finance since February
+2000. Ms. Smitha served as the Company Director of Finance from June 1998 to
+February 2000. From 1990 to June 1998, Ms. Smitha held various financial
+management positions, including Director of Finance, from 1990 to 1996, for
+Pueblo Xtra International, Inc., the largest food retailer in Puerto Rico and
+the U. S. Virgin Islands. Ms. Smitha was with the audit practice of KPMG LLP
+from 1987 to 1990. Ms. Smitha is a Certified Public Accountant.
+Greg Swick has served as Vice President and General Manager--PEO
+Division of the Company sales organization since November 1999. From February
+1998 to November 1999, Mr. Swick was Director of Sales, Northeast Division.
+Prior to joining the Company, Mr. Swick was President of The Ultimate Software
+Group of New York and New England, G.P., a reseller of the Company which was
+acquired by the Company in March 1998. From 1987 to 1994, Mr. Swick held various
+positions with ADP, where the most recent position was Area Vice President--ADP
+Dealer Services Division.
+Elaine Trotter has served as Vice President--Special Projects of the
+research and development organization of the Company since March 2000. From
+April 1999 to March 2000, Ms. Trotter served as Vice President--Training
+Development. From April 1993 until April 1999, Ms. Trotter served in various
+positions with the Company, the last of which for such period being Director of
+Training Development. From 1988 to 1992, Ms. Trotter held various positions at
+ADP, where her most recent position was Manager of Technical Support and
+Training. Ms. Trotter holds a Certified Payroll Professional CPP certification
+from the American Payroll Association APA.
+John Van Wyckhouse has served as Vice President--Sales, West Division
+since November 1999. From 1997 to 1999, Mr. Van Wyckhouse served as Director of
+Sales--West Division. Prior to joining the Company, Mr. Van Wyckhouse was
+employed for 19 years at ADP, holding various positions in sales and operations,
+including his most recent position as National Account Sales Executive for the
+Chesapeake Region.
+Carol Wiese has served as Vice President--Education Services since
+October 1999. From March 1999 to October 1999, Ms. Wiese served as Director of
+Education Services. Prior to joining the Company, Ms. Wiese was employed for 19
+years at ADP, where her most recent position was Director of Marketing/Payroll
+Outsourcing Services.
+George F. Winter has served as Vice President and General
+Manager--Health Care Division of the Company sales organization since October
+1999 when he joined the Company. From 1997 to 1999, Mr. Winter was Vice
+President--Sales for Eclipsys Corporation, an end-to-end provider of information
+solutions to healthcare providers. From 1993 to 1997, Mr. Winter was Regional
+Manager of McKesson/HBOC, a leading health care information technology company.
+Ofer Nemirovsky has served as a director of the Company since June 1997
+and is Chairman of the Audit Committee of the Board. Mr. Nemirovsky has been a
+Managing Director of HarbourVest Partners, LLC since January 1997. HarbourVest
+Partners, LLC was formed by the management team of Hancock Venture Partners,
+Inc., a venture capital investment firm HVP, where Mr. Nemirovsky had served
+in various capacities since 1986. Prior to joining HVP, Mr. Nemirovsky held
+various computer sales and marketing positions at Hewlett-Packard Company, a
+measurement, computation and communications company. He is currently a director
+of Primix Solutions, Inc. formerly OneWave, Inc., an Internet software and
+services
+53 company and Daleen Technologies, Inc., a telecommunications billing software
+company, as well as several privately-held companies.
+LeRoy A. Vander Putten has served as a director of the Company since
+October 1997 and is Chairman of the Compensation Committee of the Board. Mr.
+Vander Putten has served as the Chairman of Trade Resources International
+Holdings, Ltd., a corporation engaged in trade finance for exporters from
+developing countries, since April 1998. From January 1988 until May 1997, Mr.
+Vander Putten was Chairman and Chief Executive Officer of Executive Risk Inc., a
+specialty insurance holding company. From August 1982 to January 1988, Mr.
+Vander Putten served as Vice President and Deputy Treasurer of The Aetna Life
+and Casualty Company, an insurance company.
+John R. Walter has served as a director of the Company since July 1999
+and is a member of the Audit Committee since February 2000. Mr. Walter is the
+current Chairman of Manpower, Inc., a provider of temporary employee services,
+retired President and Chief Operating Officer of American Telephone and
+Telegraph Company AT a telecommunications company, and former Chairman,
+President and Chief Executive Officer of R.R. Donnelley & Sons, a financial
+printing company. Mr. Walter is Chairman of the Management Advisory Board of
+Aberdeen Strategic Capital LP, which has an investment in Ultimate Software.
+Aberdeen Strategic Capital is a private equity fund focused on value-added
+investments in public companies. In addition to Manpower, Inc., Aberdeen
+Strategic Capital and Ultimate Software, Mr. Walter serves on the boards of
+directors of Abbott Laboratories, Deere & Company, Celestica, Inc., Jones Lang
+LaSalle, Inc., and Prime Capital Corporation. Mr. Walter also serves on the
+International Advisory Council of the Singapore Economic Development Board, is a
+director of Evanston Northwestern Healthcare Corporation, and holds numerous
+other advisory and membership positions. Mr. Walter began his career in 1969 at
+R.R. Donnelley. After holding sales and executive positions of increasing
+responsibility, in 1989 he was appointed R.R. Donnelley Chairman, President
+and Chief Executive Officer, a position he retained through 1996, when he
+resigned to join AT As President and Chief Operating Officer of AT, Mr.
+Walter was responsible for day-to-day operations of the company core
+long-distance, local, wireless and on-line services businesses, as well as its
+credit card and outsourcing businesses.
+Rick Wilber has served as a director of the Company since October 1997
+and is a member of the Compensation Committee of the Board. Mr. Wilber was a
+co-founder of Champs Sports Shops and served as its President from 1974 to 1984.
+He served on the Board of Royce Laboratories, a pharmaceutical concern, from
+1990 until April 1997, when the company was sold to Watson Pharmaceuticals,
+Inc., a pharmaceutical concern. Mr. Wilber currently is the President of Lynn
+Hallmark Cards which owns and operates a number of Hallmark Card stores. Mr.
+Wilber has chosen not to serve as a director of the Company beyond his existing
+term which ends on May 18, 2000.
+Robert A. Yanover has served as a director of the Company since January
+1997 and is a member of the Audit Committee of the Board. Mr. Yanover founded
+Computer Leasing Corporation of Michigan, a private leasing company, in 1975 and
+has served as its President since that time. Mr. Yanover also founded Lason,
+Inc., a corporation specializing in the imaging business, and served as Chairman
+of the Board from its inception in 1987 until 1998 and is currently a director.

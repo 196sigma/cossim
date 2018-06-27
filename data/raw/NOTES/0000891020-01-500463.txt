@@ -1,0 +1,792 @@
+Item8.Financial
+Statements and Supplementary Data. Index to Consolidated Financial
+Statements Page Report of Independent Accountants 31 Consolidated Balance Sheets 32 Consolidated Statements of Operations 33 Consolidated Statements of Shareholders
+Equity 34 Consolidated Statements of Cash Flows 35 Notes to Consolidated Financial Statements 36 30 Table of Contents REPORT OF INDEPENDENT ACCOUNTANTS To the Board of Directors and Shareholders of F5 Networks, Inc. In our opinion, the consolidated financial
+statements listed appearing under Items 14a1 present fairly,
+in all material respects, the financial position of F5 Networks,
+Inc. and its subsidiaries at September30, 2001 and 2000,
+and the results of their operations and their cash flows for
+each of the three years in the period ended September30,
+2001 in conformity with accounting principles generally accepted
+in the United States of America. In addition, in our opinion,
+the financial statement schedule listed in the index appearing
+under Item14a2 presents fairly, in all material
+respects, the information set forth therein when read in
+conjunction with the related consolidated financial statements.
+These financial statements and financial statement schedule are
+the responsibility of the Companys management; our
+responsibility is to express an opinion on these financial
+statements and financial statement schedule based on our audits.
+We conducted our audits of these statements in accordance with
+auditing standards generally accepted in the United States of
+America, which require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the
+accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable
+basis for the opinion expressed above. PRICEWATERHOUSECOOPERS LLP Seattle, Washington October26, 2001 31 Table of Contents F5 NETWORKS, INC. CONSOLIDATED BALANCE SHEETS September 30 2001 2000 In thousands ASSETS Current assets Cash equivalents and short-term investments 69,783 53,199 Accounts receivable, net of allowances of $6,245
+and $1,666 22,628 38,237 Inventories 2,602 5,231 Other current assets 6,885 2,290 Deferred income taxes 1,858 Total current assets 101,898 100,815 Restricted cash 6,000 6,000 Property and equipment, net 15,496 13,524 Other assets, net 1,269 541 Deferred income taxes 1,540 Total assets 124,663 122,420 LIABILITIES AND SHAREHOLDERS
+EQUITY Current liabilities Accounts payable 4,460 10,561 Accrued liabilities 11,517 7,737 Deferred revenue 11,031 16,199 Total current liabilities 27,008 34,497 Long-term Liabilities 1,167 238 Commitments and Contingencies: See note9 Shareholders equity Preferred stock, no par value; 10,000 shares
+authorized, no shares outstanding Common stock, no par value; 100,000 shares
+authorized, 24,764 and 21,613 shares issued and outstanding 123,393 87,419 Note receivable from shareholder 469 Accumulated other comprehensive income loss 573 52 Unearned compensation 536 3,061 Retained earnings deficit 26,942 3,848 Total shareholders equity 96,488 87,685 Total liabilities and shareholders equity 124,663 122,420 The accompanying notes are an integral part of
+these consolidated financial statements. 32 Table of Contents F5 NETWORKS, INC. CONSOLIDATED STATEMENTS OF
+OPERATIONS Year Ended September30 2001 2000 1999 In thousands, except per share data Net revenues Products 78,628 87,980 23,420 Services 28,739 20,665 4,405 Total net revenues 107,367 108,645 27,825 Cost of net revenues Products 33,240 24,660 5,582 Services 12,265 7,911 1,618 Total cost of net revenues 45,505 32,571 7,200 Gross profit 61,862 76,074 20,625 Operating expenses Sales and marketing 50,767 36,890 13,505 Research and development 17,435 14,478 5,642 General and administrative 18,776 9,727 3,869 Restructuring charges 975 Amortization of unearned compensation 2,625 2,127 2,487 Total operating expenses 90,578 63,222 25,503 Income loss from operations 28,716 12,852 4,878 Other income, net 2,021 2,903 534 Income loss before income taxes 26,695 15,755 4,344 Provision for income taxes 4,095 2,105 Net income loss 30,790 13,650 4,344 Net income loss per share basic 136 065 042 Weighted average shares basic 22,644 21,137 10,238 Net income loss per share diluted 136 059 042 Weighted average shares diluted 22,644 23,066 10,238 The accompanying notes are an integral part of
+these consolidated financial statements. 33 Table of Contents F5 NETWORKS, INC. CONSOLIDATED STATEMENTS OF SHAREHOLDERS
+EQUITY Subscriptions Convertible Notes Accumulated Preferred Stock Common Stock Receivable Other From Unearned Comprehensive Accumulated Shares Amount Shares Amount Shareholders Compensation Income/Loss Deficit Total In thousands Balance, October1, 1998. 1,806 4,197 6,021 2,875 1,694 5,458 80 Exercise of stock options by employees 588 256 256 Exercise of stock warrants 428 420 420 Note receivable from shareholder for exercise of
+stock options 150 750 750 Unearned compensation 4,025 4,025 Amortization of unearned compensation 2,487 2,487 Conversion of convertible preferred stock to
+common stock in connection with the initial public offering 1,806 4,197 8,114 11,885 7,688 Issuance of common stock in an initial public
+offering net of issuance costs of $3,051 2,860 25,549 25,549 Net loss 4,344 Other comprehensive loss, net of tax Foreign currency translation adjustment 1 Unrealized loss on securities 2 Comprehensive Loss 4,347 Balance, September30, 1999. 18,161 45,760 750 3,232 3 9,802 31,973 Exercise of stock options by employees 669 716 716 Exercise of stock warrants 2,199 1,414 1,414 Issuance of stock under employee stock purchase
+plan 84 1,198 1,198 Payment on note receivable from shareholder 281 281 Tax benefit from employee stock transactions 4,900 4,900 Issuance of common stock in a secondary public
+offering net of issuance costs of $2,025 500 31,475 31,475 Unearned compensation 1,956 1,956 Amortization of unearned compensation 2,127 2,127 Net income 13,650 Other comprehensive income loss, net of tax Foreign currency translation adjustment 274 Unrealized gain on securities 225 Comprehensive income 13,601 Balance, September30, 2000. 21,613 87,419 469 3,061 52 3,848 87,685 Exercise of stock options by employees 608 642 642 Exercise of stock warrants 9 Issuance of stock under employee stock purchase
+plan 154 1,667 1,667 Repurchase of Common Stock 30 1082 1,082 Issuance of common stock to Nokia net of
+issuance costs of $1,75 million 2,466 34,928 34,928 Payment on note receivable from stockholder for
+exercise of stock options 188 188 Cancellation of unvested stock options from
+stockholder 56 281 281 Unearned compensation 100 100 Amortization of deferred compensation 2,625 2,625 Net Loss 30,790 Other comprehensive loss, net of tax Foreign currency translation adjustment 27 Unrealized gain on securities 652 Comprehensive Loss 30,165 Balance, September30, 2001. 24,764 123,393 536 573 26,942 96,488 The accompanying notes are an integral part of
+these consolidated financial statements. 34 Table of Contents F5 NETWORKS, INC. CONSOLIDATED STATEMENTS OF CASH
+FLOWS Year Ended September30 2001 2000 1999 In thousands Cash flows from operating
+activities Net income loss 30,790 13,650 4,344 Adjustments to reconcile net income
+lossto net cash provided by used in operating
+activities Restructuring charges 975 Provisions for asset write downs 345 1,377 Provision for inventory write downs 4,019 Gain on sale of assets 92 Unrealized gain on investments 285 225 Amortization of unearned compensation 2,625 2,127 2,487 Provision for doubtful accounts and sales returns 15,310 2,876 1,183 Depreciation and amortization 5,348 2,335 573 Deferred income taxes 3,398 3,398 Tax benefit from exercise of stock options 4,900 Changes in operating assets and liabilities Accounts receivable 423 30,715 9,508 Inventories 790 5,639 519 Other current assets 5,422 315 731 Other assets 728 1,306 181 Accounts payable and accrued liabilities 3,018 11,940 5,473 Deferred revenue 5,127 11,769 3,578 Net cash provided by used in operating
+activities 11,659 9,826 1,989 Cash flows from investing
+activities Investment in restricted cash 2,987 3,013 Proceeds from construction refund 851 Proceeds from the sale of property and equipment 217 Purchases of property and equipment 9,152 13,334 2,631 Net cash used in investing activities 8,084 16,321 5,644 Cash flows from financing
+activities Proceeds from issuance of common stock in an
+initial public offering 25,549 Proceeds from secondary public offering, net of
+issuance costs 31,475 Proceeds from the issuance of common stock to
+Nokia 34,928 Proceeds from the exercise of stock options and
+warrants 2,309 3,328 676 Proceeds from payments on shareholder loan 188 281 Repurchase of common stock 1,082 Net cash provided by financing activities 36,343 35,084 26,225 Net increase in cash and cash equivalents 16,600 28,589 18,592 Effect of exchange rate changes on cash and cash
+equivalents 16 187 1 Cash and cash equivalents, at beginning of year 53,199 24,797 6,206 Cash and cash equivalents, at end of year 69,783 53,199 24,797 The accompanying notes are an integral part of
+these consolidated financial statements. 35 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS 1.Description of
+the Company F5 Networks, Inc. the Company was
+incorporated on February26, 1996 in the State of
+Washington and is a leading provider of integrated Internet
+traffic and content management solutions designed to improve the
+availability and performance of mission-critical Internet-based
+servers and applications. The Companys proprietary
+software-based solutions monitor and manage local and
+geographically dispersed servers and intelligently direct
+traffic to the server best able to handle a users request.
+The Company purchases material component parts and certain
+licensed software from suppliers and generally contracts with
+third parties for the assembly of products. The Company operates
+in one segment providing integrated internet traffic and content
+management solutions. 2.Summary of
+Significant Accounting Policies Principles of Consolidation The consolidated financial statements and
+accompanying notes are prepared in accordance with accounting
+principles generally accepted in the United Sates of America.
+The consolidated financial statements include the accounts of
+the Company and all majority owned subsidiaries. Significant
+intercompany transactions have been eliminated in consolidation. Reclassifications Certain reclassifications have been made to prior
+year balances to conform to the current year presentation. These
+reclassifications had no impact on previously reported net loss,
+shareholders equity or cash flows. Use of Estimates The preparation of financial statements is in
+conformity with accounting principles generally accepted in the
+United States of America and requires management to make
+estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosures of contingent assets and
+liabilities as of the date of the financial statements and the
+reported amounts of revenues and expenses during the reporting
+period. Actual results could differ from those estimates. Estimates that are particularly susceptible to
+changes in the near term are the adequacy of allowances for
+sales returns and bad debt, inventory obsolescence, warranty
+costs and deferred taxes. Cash Equivalents and Short-term
+Investments Cash equivalents are highly liquid investments,
+consisting of investments in money market funds and short-term
+investments which are readily convertible to cash without
+penalty and subject to insignificant risk of changes in value.
+The Companys cash equivalents and short term investments
+balance consists of the following in thousands September 30 2001 2000 Cash 18,321 18,596 Short-term investments 51,462 34,603 69,783 53,199 36 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued Concentration of Credit Risk The Company places its temporary cash investments
+with five major financial institutions. The Companys customers are from diverse
+industries and geographic locations. Net revenues from
+international customers are primarily denominated in U.S.
+Dollars and were approximately $350million 206million and $22million for the years ended
+September30, 2001, 2000 and 1999, respectively. During
+fiscal 2001 no single reseller or customer exceeded 10% of the
+Companys net revenue or accounts receivable balance.
+During fiscal 2000 and 1999, one of the Companys
+resellers, Exodus Communications, accounted for 14% and 22% of
+net revenue and 8% and 16% of the Companys accounts
+receivable balance, respectively. In association with Exodus
+filing Chapter11 bankruptcy, the Company recorded a
+non-recurring adjustment to its bad-debt expense of
+$175million and $226,000 in cost of goods sold related to
+the leased inventory during fiscal 2001. The Company does not
+require collateral to support credit sales. Allowances are
+maintained for potential credit losses and sales returns. Inventories Inventories consist of hardware and the related
+component parts and are recorded at the lower of cost or market
+as determined by the first-in, first-out method. Restricted Cash Restricted cash represents a restricted escrow
+account established in connection with a lease agreement for the
+companys corporate headquarters. Under the term of the
+lease, a $60million standby letter of credit is required
+through November 2012, unless the lease is terminated before
+then. Property and Equipment Property and equipment is stated at cost.
+Depreciation of property and equipment and amortization of
+capital leases are provided on the straight-line method over the
+estimated useful lives of the assets of 2 to 5years.
+Leasehold improvements are amortized over the lesser of the term
+of the lease or the estimated useful life of the improvements. The cost of normal maintenance and repairs is
+charged to expense as incurred and expenditures for major
+improvements are capitalized at cost. Gains or losses on the
+disposition of assets in the normal course of business are
+reflected in the results of operations at the time of disposal. Software Development Costs Software development costs incurred in
+conjunction with product development are charged to research and
+development expense until technological feasibility is
+established. Thereafter, until the product is released for sale,
+software development costs are capitalized and reported at the
+lower of unamortized cost or net realizable value of each
+product. The establishment of technological feasibility and the
+on-going assessment of recoverability of costs require
+considerable judgment by the Company with respect to certain
+internal and external factors, including, but not limited to,
+anticipated future gross product revenues, estimated economic
+life and changes in hardware and software technology. The
+Company amortizes capitalized software costs using the
+straight-line method over the estimated economic life of the
+product, generally three years. In fiscal 2001, the Company
+capitalized $327,000 in software development costs, generally
+representing labor costs, and recorded no related amortization. 37 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued Valuation of Long-Lived Assets The Company periodically evaluates the carrying
+value of long-lived assets to be held and used, including, but
+not limited to, property and equipment, other assets, and
+deferred income taxes, when events and circumstances warrant
+such a review. The carrying value of a long-lived asset is
+considered impaired when the anticipated undiscounted cash flow
+from the asset is separately identifiable and is less than its
+carrying value. In that event, a loss is recognized based on the
+amount by which the carrying value exceeds the fair value of the
+long-lived asset. Fair value is determined primarily using the
+anticipated cash flows discounted at a rate commensurate with
+the risk involved. Losses on long-lived assets to be disposed of
+are determined in a similar manner, except that fair values are
+reduced for the cost to dispose. Revenue Recognition The Company recognizes revenue under Statement of
+Financial Accounting Standards SFASNo48,
+Revenue Recognition When Right of Return Exists, SEC
+Staff Accounting Bulleting SABNo101,
+Revenue Recognition in Financial Statements,
+Statement of Position SOP No97-2,
+Software Revenue Recognition, and SOP No98-9
+Modification of SOP No97-2, Software Revenue
+Recognition, with Respect to Certain Transactions. The Company sells products through resellers,
+original equipment manufacturers and other channel partners, as
+well as to end users, under similar terms. Typically this
+combines software license, installation and customer support
+elements into a package with a single bundled price
+and allocates a portion of the sales price to each element of
+the bundled package based on their respective fair values when
+the individual elements are sold separately. Revenues from the
+license of software, net of an allowance for estimated returns,
+are recognized when the product has been shipped and the
+customer is obligated to pay for the product. Installation
+revenue is recognized when the product has been installed at the
+customers site. Revenues for customer support are
+recognized on a straight-line basis over the service contract
+term. Estimated sales returns are based on historical experience
+by product and are recorded at the time revenues are recognized. The following presents revenues by shipment
+destination for the years ended 2001, 2000 and 1999 in
+thousands September 30 2001 2000 1999 United States 72,406 88,047 25,672 Europe 10,004 7,029 1,655 Asia Pacific 24,957 13,569 498 107,367 108,645 27,825 Warranty Expense The Company generally offers warranties between
+90days and one year depending on whether it relates to
+hardware or software. Estimated future warranty obligations
+related to products are provided by charges to operations in the
+period in which the related revenue is recognized. These
+estimates are based on historical warranty experience and other
+relevant information of which the Company is aware. During the
+years ended September30, 2001, 2000 and 1999 warranty
+expense was $04million, $23million and
+$03million, respectively. 38 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued Advertising Advertising costs are expensed as incurred.
+Advertising expense was approximately $15million 16million and $10million for the years ended
+September30, 2001, 2000 and 1999, respectively. Income Taxes The Company accounts for income taxes under the
+liability method of accounting. Under the liability method,
+deferred taxes are determined based on the differences between
+the financial statement and tax bases of assets and liabilities
+at enacted tax rates in effect in the year in which the
+differences are expected to reverse. Valuation allowances are
+established, when necessary, to reduce deferred tax assets to
+estimated amounts expected to be realized. Foreign Currency Translation The financial statements of F5 Networks, Ltd., F5
+Networks, Singapore Pte. Ltd. and F5 Networks, Japan K.K. have
+been translated into U.S. dollars in accordance with Statement
+of Financial Accounting Standards No52 Foreign
+Currency Translation. Under the provisions of this
+Statement, all assets and liabilities in the balance sheet of
+the subsidiaries are translated at year-end exchange rates, and
+translation gains and losses are reported as a component of
+comprehensive income lossand are accumulated in a
+separate component of shareholders equity. Foreign
+currency transaction gains and losses are a result of the effect
+of exchange rate changes on transactions denominated in
+currencies other than the functional currency, including US
+dollars. Gains and losses on those foreign currency transactions
+are included in determining net income or loss for the period of
+exchange. Transaction losses for the fiscal years ended
+September30, 2001, 2000 and 1999 of $139,000, $84,000, and
+$0, respectively, were charged to operations. Comprehensive Income Loss The Financial Accounting Standards Board issued
+Statement of Financial Accounting Standards No130,
+Reporting Comprehensive Income, in June 1997. This
+statement establishes standards for reporting and displaying
+comprehensive income in the financial statements and was adopted
+by the Company during the quarter ended September30, 1999.
+In addition to net income loss, comprehensive income
+lossincludes charges or credits to equity that are not
+the result of transactions with shareholders. For the Company,
+this includes foreign currency translation and unrealized gains
+and losses on investments. The Company has included components
+of comprehensive income within the Consolidated Statements of
+Shareholders Equity. Stock-Based Compensation The Company accounts for stock-based employee
+compensation arrangements in accordance with the provisions of
+Accounting Principles Board Opinion No25 APB
+No25, Accounting for Stock Issued to
+Employees and FASB interpretation No44 FIN
+No44 accounting for certain transactions involving
+stock compensation, and complies with the disclosure provisions
+of Statement of Financial Accounting Standards No123
+SFAS No123, Accounting for
+Stock-Based Compensation. Under APB No25,
+compensation expense is based on the difference, if any, on the
+date of the grant, between the deemed fair value of the
+Companys stock and the exercise price of the option. The
+unearned compensation is being amortized in accordance with
+Financial Accounting Standards Board Interpretation No28
+on an accelerated basis over the vesting period of the
+individual options. The Company accounts for equity instruments
+issued to nonemployees in accordance with the provisions of SFAS
+No123. 39 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued Fair Value of Financial Instruments For certain financial instruments, including cash
+and cash equivalents, accounts receivable, accounts payable and
+accrued liabilities, recorded amounts approximate market value,
+due to the short maturities of these instruments. Earnings per Share Basic net income loss per share is computed by
+dividing net income loss by the weighted average number of
+common shares outstanding during the period. Diluted net income
+loss per share is computed by dividing net income loss by
+the weighted average number of common and dilutive common stock
+equivalent shares outstanding during the period. For periods in
+which the Company incurred a net loss, dilutive common stock
+equivalent shares are excluded from the calculation as their
+impact would have been antidilutive. The antidilutive securities
+not included in diluted net loss per share calculation totaled
+1,533,386 shares. The following table sets forth the computation of
+basic and diluted net income loss per share for the years
+ended September30, 2001, 2000 and 1999 in thousands,
+except per share data. Year Ended September30 2001 2000 1999 Numerator Net income loss 30,790 13,650 4,344 Denominator Weighted average shares outstanding
+basic 22,644 21,137 10,238 Dilutive effect of common shares from stock
+options 1,918 Dilutive effect of common shares from warrants 11 Weighted average shares outstanding
+diluted 22,644 23,066 10,238 Basic net income loss per share 136 065 042 Diluted net income loss per share 136 059 042 Derivatives In the first quarter of fiscal 2001, the Company
+adopted Statement of Financial Accounting Standards
+No133, Accounting for Derivative Instruments and
+Hedging Activities SFAS133 which establishes
+accounting and reporting standards for derivative instruments
+and for hedging activities. SFAS133 requires that an
+entity recognize derivatives as either assets or liabilities on
+the balance sheet and measure those instruments at fair value.
+The accounting for changes in the fair value of a derivative
+depends on the intended use of the derivative and the resulting
+designation. The Company designates the derivatives based upon
+criteria established by SFAS133. For a derivative
+designated as a fair value hedge, the gain or loss is recognized
+in earnings in the period of change together with the offsetting
+loss or gain on the hedged item attributed to the risk being
+hedged. For a derivative designated as a cash flow hedge, the
+effective portion of the derivatives gain or loss is
+initially reported as a component of accumulated other
+comprehensive income loss and subsequently reclassified into
+earnings when the hedged exposure affects earnings. The
+ineffective portion of the gain or loss is reported in earnings
+immediately. The impact of derivatives on the Companys
+financial position in fiscal 2001, has been insignificant. 40 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued New Accounting Pronouncements In July of 2001 the Financial Accounting
+Standards Board FASB issued Statement of Financial
+Accounting Standard SFAS No141
+Business Combinations which is effective for all
+business combinations initiated after July1, 2001. SFAS
+No141, supersedes APB Opinion No16, Business
+Combinations, and FASB Statement No38, Accounting for
+Preacquisition Contingencies of Purchased Enterprises and
+requires that all business combinations be accounted for using
+the purchase method of accounting. Further, SFAS No141
+requires certain intangibles to be recognized as assets apart
+from goodwill if they meet certain criteria and also requires
+expanded disclosures regarding the primary reasons for
+consummation of the combination and the allocation of the
+purchase price paid to the assets acquired and liabilities
+assumed by major balance sheet caption. The Company does not
+believe the standard will have a significant impact on the
+financial position of the company. In July of 2001, the FASB issued SFAS
+No142 Goodwill and Other Intangible Assets
+which is effective for fiscal years beginning after
+December15, 2001. SFAS No142 supercedes APB Opinion
+No17, Intangible Assets, and addresses financial
+accounting and reporting for intangible assets acquired
+individually or with a group of other assets and the accounting
+and reporting for goodwill and other intangible assets
+subsequent to their acquisition. Under the model set forth in
+SFAS No142, goodwill is no longer amortized to earnings,
+but instead be subject to periodic testing for impairment. The
+Company does not believe the standard will have a significant
+impact on the financial position of the company. In July 2001, the FASB issued SFAS No143,
+Accounting for Asset Retirement Obligations.
+FASB143 addresses financial accounting and reporting for
+obligations associated with the retirement of tangible
+long-lived assets and the associated asset retirement costs. It
+applies to legal obligations associated with the retirement of
+long-lived assets that result from the acquisition,
+construction, development, and or the normal operation of a
+long-lived asset, except for certain obligations of lessees. The
+provisions of FAS143 will be effective for fiscal years
+beginning after June15, 2002, however early application is
+permitted. The Company does not believe the standard will have a
+significant impact its financial statements. In August 2001, the FASB issued SFAS No144
+Accounting for the Impairment or Disposal of Long-Lived
+Assets. This Statement addresses financial accounting and
+reporting for the impairment or disposal of long-lived assets.
+This Statement supersedes FASB Statement No121,
+Accounting for the Impairment of Long-Lived Assets and for
+Long-Lived Assets to Be Disposed Of, and the accounting and
+reporting provisions of APB Opinion No30, Reporting the
+Results of Operations Reporting the Effects of
+Disposal of a Segment of a Business, and Extraordinary, Unusual
+and Infrequently Occurring Events and Transactions, for the
+disposal of a segment of a business. The provisions of
+FAS144 will be effective for fiscal years beginning after
+December15, 2001. The Company is currently evaluating the
+implications of adoption of FAS144 and anticipates
+adopting its provisions in fiscal year 2002. 3.Inventories Inventories are comprised of the following in
+thousands September30 2001 2000 Finished goods 3,283 2,045 Raw materials 1,347 3,186 Inventory provision 2,028 2,602 5,231 41 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued Due to changes in current market conditions and a
+revision of our sales forecast, a review was made of the
+Companys inventory needs and an assessment of our future
+purchase commitments during fiscal 2001. As a result, the
+Company determined two provisions for excess inventory and
+future purchase commitments would be recorded. The first
+provision for excess inventory was charged to cost of revenues
+in the amount of $39million, which consisted of a
+$31million inventory valuation allowance and
+approximately $800,000 of future purchase commitments. As of
+September30, 2001, $15million of this reserve had
+been utilized. The second provision for excess inventory was in
+the amount of $10 million. This charge is associated with
+charge is associated with the changes in the configuration of
+the Companys EDGE-FX Cache product, which will increase
+the functionality of the product. These costs are associated
+with updating both existing inventory and product previously
+sold to customers, as well as costs to fulfill existing purchase
+commitments and have been included in cost of revenues for the
+for the fiscal year ended September30, 2001. As of
+September30, 2001, $232,000 of this reserve had been
+utilized. 4.Property and
+Equipment At September30, 2001 and 2000, property and
+equipment consist of the following in thousands September 30 2001 2000 Computer equipment 9,934 7,167 Office furniture and equipment 5,782 3,783 Leasehold improvements 7,227 5,673 22,943 16,623 Accumulated depreciation and amortization 7,447 3,099 Property and equipment, net 15,496 13,524 Depreciation and amortization expense was
+approximately $53million, $23 million and
+$05million for the years ended September30, 2001,
+2000 and 1999 respectively. 5.Accrued
+Liabilities At September30, 2001 and 2000, accrued
+liabilities consist of the following in thousands September 30 2001 2000 Accrued payroll and benefits 5,066 3,874 Accrued sales and use taxes 93 791 Warranty accrual 228 401 Accrued License Fees 526 175 Income taxes payable 1,064 589 Accrued sales and marketing 705 528 Recruitment costs 350 Other 3,835 1,029 11,517 7,737 42 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued 6.Restructuring
+Charges During the first fiscal quarter of 2001, F5
+recorded a restructuring charge of $11million in
+connection with management decision to bring operating expenses
+in line with the business revenue growth model. As a result of
+change in the business revenue growth model, the Company
+terminated 96 employees throughout all divisions of the Company.
+In January 2001, all identified employees had been terminated.
+During the quarter ended March31, 2001 the Company
+reversed $96,000 of the original accrual due to a revision of
+previous estimates. As of September30, 2001, substantially
+all of the restructuring charge accrued for during the first
+fiscal quarter of 2001 had been paid. 7.Income
+Taxes Income lossbefore income taxes consists
+of the following in thousands September 30 2001 2000 1999 U.S. 25,900 17,976 4,364 International 795 2,221 20 26,695 15,755 4,344 The provision for income taxes for the fiscal
+year 2001 consists of the following in thousands September 30 2001 2000 Current tax expense U.S. federal 33 5,325 State 50 647 Foreign 614 469 Total current provision 697 5,503 Deferred tax provision U.S. federal 3,227 3,227 State 171 171 Foreign Total deferred tax 3,398 3,398 Total provision for income taxes 4,095 2,105 No provision for federal or state income taxes
+has been recorded for the year ended September30, 1999, as
+the Company incurred a loss. 43 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued The effective rate differs from the U.S. federal
+statutory rate as follows in thousands September 30 2001 2000 1999 Income tax provision at statutory rate 9,343 5,514 1,477 Sales taxes, net of federal benefit 526 409 Impact of international operations 105 308 Federal research and development credits 653 1,315 Impact of stock option compensation 450 248 Other 33 1,037 81 Change in valuation allowance 14,545 3,398 1,644 Total 4,095 2,105 The tax effects of the temporary differences that
+give rise to significant portions of the deferred tax assets are
+as follows in thousands September 30 2001 2000 1999 Deferred tax assets Net operating loss carryforwards 12,333 4,884 2,665 Exercise of stock options 694 278 105 Allowance for doubtful accounts 2,408 617 281 Accrued compensation and benefits 407 276 135 Inventories and related reserves 1,067 Other accruals and reserves not currently
+deductible for tax 1,283 539 78 Depreciation 544 158 58 Tax credit carryforwards 2,193 1,540 20,929 8,292 3,322 Valuation allowance for deferred tax
+assets 20,929 4,884 3,314 3,408 8 Deferred tax liabilities Deductible prepaid expenses and other 10 8 Net deferred tax assets 3,398 The Companys deferred tax assets include
+net operating loss carry forwards of approximately
+$27million. During the first three quarters of fiscal year
+2001, the Company maintained a partial valuation allowance
+consistent with prior year against its deferred tax assets. In
+the fourth quarter of fiscal year 2001, the Company re-evaluated
+the need to provide a full valuation allowance. Due to changes
+in the current economic environment and based on the weight of
+all the available positive and negative evidence, the Company
+determined that it was not more likely than not, that the
+deferred taxes would be recognized and therefore, a full
+valuation allowance should be provided to completely offset the
+net deferred tax assets. 44 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued 8.Shareholders
+Equity a.Preferred
+Stock In April 1998, the Company issued 156,250 shares
+of the Companys SeriesC Convertible Preferred Stock
+and warrants to purchase 187,500 shares of the Companys
+common stock at $160 per share for an aggregate purchase price
+of $15million. The Company has allocated approximately
+$75,000 of the purchase price of the SeriesC Convertible
+Preferred Stock as the value of the warrants issued. On
+February1, 1999 these warrants were exercised. The holders
+of the SeriesC Convertible Preferred Stock have certain
+voting rights and liquidation preferences equal to $960 per
+share. Each share of SeriesC Convertible Preferred Stock
+was converted into six shares of the Companys common stock. In August 1998, the Company issued 1,138,438
+shares of SeriesD Redeemable Convertible Preferred Stock
+for an aggregate purchase price of approximately
+$77million. The Company was required to redeem all
+outstanding shares of the SeriesD Redeemable Convertible
+Preferred Stock at $679 per share, plus all declared and unpaid
+dividends, either in August 2005 or in three annual installments
+beginning August 2003 at the request of holders of at least
+two-thirds of the outstanding SeriesD Redeemable
+Convertible Preferred Stock. The holders of the SeriesD
+Redeemable Convertible Preferred Stock had certain voting rights
+and liquidation preferences equal to $1358 per share. Each
+share of SeriesD Redeemable Convertible Preferred Stock
+was converted into two shares of the Companys common stock. b.Common
+Stock On January27, 1999 the Company authorized a
+2 for 1 stock split, in the form of stock dividends,
+respectively on the Companys common stock. All references
+to number of shares and per share amounts of the Companys
+common stock in the accompanying financial statements and notes
+have been restated to reflect these stock splits. c.Initial
+Public Offering On June4, 1999, the Company issued
+2,860,000 shares of its common stock at an initial public
+offering price of $1000 per share. Also sold in this offering
+were 590,000 shares held by selling shareholders, including
+450,000 shares sold upon the exercise of the underwriters
+over-allotment option. The net proceeds to the Company from the
+offering, net of offering costs of approximately $31 million
+were approximately $255million. Concurrent with the
+initial public offering, each outstanding share or the
+Companys convertible preferred stock was automatically
+converted into common stock. d.Secondary
+Public Offering In October of 1999, the Company completed and
+issued 500,000 shares of its common stock in a secondary public
+offering at a price of $6700 per share. Also sold in this
+offering were 2,030,000 shares of common stock held by selling
+shareholders. The net proceeds to the Company, from the
+offering, net of offering costs of approximately $350,000 were
+approximately $315million. e.Nokia
+Private Placement of Common Stock and Warrants On June26, 2001, the Company entered into a
+Common Stock and Warrant Purchase Agreement with Nokia Finance
+International B.V. NFI. Under this Agreement, the
+Company issued and sold to NFI i2,466,421 shares of
+Common Stock and iiwarrants the Warrants
+to purchase additional shares of common stock. The Company
+received total proceeds of $349million, net of
+$18million in issuance costs from the sale of these
+shares and the Warrants. The Warrants allow NFI to purchase
+additional shares of common stock to increase its ownership
+percentage in the Company up to a maximum of one share less than 45 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued 20% during three ten business day periods
+beginning on December31, 2001, June 30, 2002 and
+December31, 2002, at an exercise price equal to the
+average 10-day closing price before the start of each period. The Company recorded the issuance of the common
+stock and Warrants by allocating the net proceeds to the Common
+Stock and the Warrants, based upon their relative fair values at
+the date of issuance. The fair value allocated to the Warrants
+was $17million based on an independent valuation. Based
+upon the relative fair value at the date of issuance, the amount
+of net proceeds allocated to the Warrants and included as a
+component of common stock was $16million. The amount
+allocated to the common stock was $333million. NFI has also signed a two-year OEM license and
+reseller agreement that gives them access to all of the
+Companys internet traffic and content management products.
+Nokia may resell the Companys products and integrate the
+Companys software as part of its product offering. f.Warrants In February 1999, the Company issued a warrant to
+purchase up to 12,500 shares of the Companys common stock
+at $800 per share to a certain customer in conjunction with a
+sale of products. The Company has issued warrants to purchase
+common stock to a certain customer. All the warrants were
+exercisable at the time of issuance. The assumptions applied in
+the determination of the fair value of warrants issued were
+iuse of the Black-Scholes pricing model, iirisk
+free interest rates ranging from 52% to 62 iiiexpected volatility rates of approximately 70% based
+on disclosed expected volatility rates of comparable companies
+and actual volatility subsequent to the initial public offering,
+ivassumed expected lives of 4 to 10years, and
+vno expected dividends. The warrants were exercised in
+October of 2000. g.Equity
+Incentive Plans In January 1997, Companys shareholders
+approved the Amended and Restated 1996 Stock Option Plan the
+1996 Employee Plan that provides for discretionary
+grants of non-qualified and incentive stock options for
+employees and other service providers, and the Amended and
+Restated Directors Nonqualified Stock Option Plan the
+1996 Directors Plan, which provides for
+automatic grants of non-qualified stock options to eligible
+non-employee directors. A total of 2,600,000shares of
+common stock has been reserved for issuance under the 1996
+Employee Plan and the 1996 Directors Plan. Employees
+stock options typically vest over a period of four years from
+the grant date; director options typically vest over a period of
+three years from the grant date. All options under the 1996
+Employee Plan and the 1996 Directors Plan expire
+10years after the grant date. All outstanding, unvested
+options under the 1996 Employee Plan and the 1996
+Directors Plan vest in full upon a change in control of
+the Company. The Company does not intend to grant any additional
+options under either of these Plans. As of September30,
+2001 there were 853,546shares outstanding and
+17,596shares available. In November 1998, the Companys shareholders
+adopted the 1998 Equity Incentive Plan the 1998
+Plan, which provides for discretionary grants of
+non-qualified and incentive stock options, stock purchase awards
+and stock bonuses for employees and other service providers. A
+total of 3,300,000shares of common stock have been
+reserved for issuance under the 1998 Plan. Stock options granted
+under this plan typically vest over a period of four years from
+the grant date, and expire 10years from the grant date.
+The Company has not granted any stock purchase awards or stock
+bonuses under the 1998 Plan. Upon certain changes in control of
+the Company, the surviving entity will either assume or
+substitute all outstanding options or stock awards under the
+1998 Plan. If the surviving entity determines not to assume or
+substitute such options or awards, then with respect to persons
+whose service with the Company or an affiliate of the Company
+has not terminated before a change in control, the vesting of
+50% of these options or stock awards and the time 46 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued during which these awards may be exercised will
+accelerate and the options or awards terminated if not exercised
+before the change in control. As of September30, 2001
+there were 4,028,923shares outstanding and
+819,766shares available. In April 1999, the Companys shareholders
+adopted the 1999 Non-Employee Directors Stock Option Plan
+which provides for automatic grants to F5 non-employee directors
+of options to purchase shares of the Companys common
+stock. The board administers the plan and cannot delegate
+administration to a committee. The plan reserved an aggregate of
+100,000shares of common stock for issuance, subject to
+adjustment in the event of certain capital changes. As of
+September30, 2001 there were options to purchase
+20,000shares outstanding. The plan was terminated by the
+Board effective January1, 2001. In July 2000, the Companys Board of
+Directors adopted the 2000 Employee Equity Incentive Plan the
+2000 Plan, which provides for discretionary grants
+of non-qualified stock options, stock purchase awards and stock
+bonuses for non-executive employees and other service providers.
+A total of 2,000,000shares of common stock have been
+reserved for issuance under the 2000 Plan. Stock options granted
+under this plan typically vest over a period of four years from
+the grant date, and expire 10years from the grant date.
+The Company has not granted any stock purchase awards or stock
+bonuses under the 2000 Plan. Upon certain changes in control of
+the Company, the surviving entity will either assume or
+substitute all outstanding options or stock awards under the
+2000 Plan. If the surviving entity determines not to assume or
+substitute such options or awards, then with respect to persons
+whose service with the Company or an affiliate of the Company
+has not terminated before a change in control, the vesting of
+50% of these options or stock awards and the time during which
+these awards may be exercised will accelerate and the options
+or awards will be terminated if not exercised before the change
+in control. As of September30, 2001 there were options to
+purchase 1,963,414shares outstanding and
+36,371shares available for awards under the 2000 plan. In July 2000, the Companys Board of
+Directors adopted two nonqualified stock option plans the
+McAdam Plans in connection with hiring John McAdam,
+the Companys President and Chief Executive Officer. The
+first McAdam Plan provides for a grant of 645,000 non-qualified
+stock options for Mr.McAdam that vest over a period of
+four years from the grant date. The second McAdam Plan provides
+for a grant of 50,000 options for Mr.McAdam that vest over
+a period of two years from the grant date. All options under the
+McAdam Plans expire 10years from the grant date, and upon
+certain changes in control of the Company, the vesting of 100%
+of these options will accelerate and the options will be
+terminated if not exercised before the change in control. As of
+September30, 2001, 50,000shares had been issued,
+there were options to purchase 645,000shares outstanding
+and no shares available. In October 2000, the Companys Board of
+Directors adopted a non-qualified stock option plan in
+connection with the hiring of Jeff Pancottine, the
+Companys Senior Vice President of Marketing and Business
+Development. This Plan provides for a grant of 200,000
+non-qualified stock options for Mr.Pancottine that vest
+ratably over a period of four years from the grant date. All
+options under this plan expire 10years from the grant
+date. As of September30, 2001, there were options to
+purchase 200,000shares outstanding and no shares available
+for grant. In May 2001, the Companys Board of
+Directors adopted a non-qualified stock option plan in
+connection with the hiring of Steve Coburn, the Companys
+Vice President of Finance and Chief Financial Officer. This plan
+provides for a grant of 200,000 non-qualified stock options for
+Mr.Coburn that vest ratably over a period of four years.
+All options under this plan expire 10years from the grant
+date. As of September30, 2001, there were 200,000 stock
+option shares outstanding and no shares available available for
+grant. The Company applies the provisions prescribed in
+APB No25 and related interpretations in accounting for
+stock options. In certain instances, the Company has issued
+stock options with an exercise price less than the deemed fair
+value of the Companys common stock at the date of grant.
+Accordingly, total compensation costs related to these stock
+options of approximately $01 million, $20million and
+$40million was deferred 47 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued during fiscal years 2001, 2000 and 1999,
+respectively, and is being amortized over the vesting period of
+the options, generally four years. Amortization of stock
+compensation costs of approximately $26million 21million and $25million has been recognized as
+an expense for the years ended September30, 2001, 2000 and
+1999, respectively. A summary of stock option transactions are as
+follows Weighted Outstanding Average Exercise Options Price Per Share Balance at September30, 1998 2,077,250 026 Options granted 1,343,371 982 Options exercised 738,191 133 Options canceled 197,800 115 Balance at September30, 1999 2,484,630 505 Options granted 3,979,695 6252 Options exercised 668,456 107 Options canceled 492,598 6906 Balance at September30, 2000 5,303,271 4269 Options granted 4,662,574 1259 Options exercised 607,987 106 Options canceled 1,446,975 5005 Balance at September30, 2001 7,910,883 2702 The weighted-average fair values and
+weighted-average exercise prices per share at the date of grant
+for options granted for the years ended September30, 2001,
+2000 and 1999 were as follows Year Ended September30 2001 2000 1999 Weighted-average fair value of options granted
+with exercise prices equal to the market value of the stock at
+the date of grant 1054 4861 1569 Weighted-average exercise price of options
+granted with exercise prices equal to the market value of the
+stock at the date of grant 1240 6325 3052 Weighted-average fair value of options granted
+with exercise prices less than the market value of the stock at
+the date of grant 2789 4256 454 Weighted-average exercise price of options
+granted with exercise prices less than the market value of the
+stock at the date of grant 2942 000 124 The following table summarizes information about
+fixed-price options outstanding at September30, 2001 as
+follows Weighted Weighted Average Average Number Remaining Weighted Average Number Exercisable Exercise Prices Outstanding Contractual Life Exercise Price Exercisable Price 000-$503 1,146,798 761 292 528,649 158 534-950 2,740,764 940 814 351,990 734 963-4256 2,470,282 899 3077 403,672 3463 4281-11400 1,397,814 855 6716 512,568 7048 11450-15263 155,225 822 12192 73,691 12177 48 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued 1999 Employee Stock Purchase Plan In May 1999, the board of directors approved the
+adoption of the 1999 Employee Stock Purchase Plan the
+Purchase Plan. A total of 1,000,000 shares of
+common stock has been reserved for issuance under the Purchase
+Plan. The Purchase Plan permits eligible employees to acquire
+shares of the Companys common stock through periodic
+payroll deductions of up to 15% of base compensation. No
+employee may purchase more than $25,000 worth of stock,
+determined at the fair market value of the shares at the time
+such option is granted, in one calendar year. The Purchase Plan
+has been implemented in a series of offering periods, each
+6months in duration. The price at which the common stock
+may be purchased is 85% of the lesser of the fair market value
+of the Companys common stock on the first day of the
+applicable offering period or on the last day of the respective
+purchase period. Pro forma information regarding net income
+lossis required by SFAS No123, and has been
+determined as if the Company had accounted for its stock options
+under the minimum value method of that statement for all periods
+prior to the Company becoming a public entity and fair value
+method of that statement for all periods subsequent to the
+Company becoming a public entity. The fair value of each option
+is estimated at the date of grant with the following
+weighted-average assumptions used for the years ended
+September30, 2001, 2000 and 1999 Stock Option Plan Employee Stock Purchase Plan Year Ended September 30 Year Ended September 30 2001 2000 1999 2001 2000 1999 Risk-free interest rate 481 612 547 449 550 Dividend yield 000 000 000 000 000 000 Expected term of option 4 years 4 years 4 years 6 months 6 months Volatility subsequent to initial public offering 13879 11187 6987 13879 11187 For purposes of pro forma disclosures, the
+estimated fair value of the options is amortized over the
+options vesting period. The Companys pro forma net
+income losswould have been as follows in thousands,
+except per share data Year Ended September 30 2001 2000 1999 Net income lossas reported 30,790 13,650 4,344 Net income losspro forma 105,573 40,648 5,151 Net income lossper share as reported 136 059 042 Net income lossper share pro forma 466 192 050 49 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued 9.Commitments
+and Contingencies Future minimum operating lease payments net of
+sublease proceeds for future fiscal years, as of
+September30, 2001, are approximately as follows in
+thousands Gross Net Operating Operating Lease Sublease Lease Payments Income Payments 2002 6,638 2,990 3,648 2003 5,723 3,189 2,534 2004 5,280 3,142 2,138 2005 5,289 3,240 2,049 2006 4,843 3,350 1,493 Thereafter 33,329 21,743 11,586 Total 61,102 37,654 23,448 Rent expense under non-cancelable operating
+leases amounted to approximately $48million 19million and $05million for the years ended
+September30, 2001, 2000, and 1999, respectively. In April 2000, the Company entered into a lease
+agreement on two buildings for a new corporate headquarters. The
+lease commenced in July 2000 on the first building; and the
+lease on the second building commenced in October 2000. The
+lease for both buildings expires in 2012 with an option for
+renewal. The Company established a restricted escrow account in
+connection with this lease agreement. Under the term of the
+lease, a $60million irrevocable standby letter of credit
+is required through November 2012, unless the lease is
+terminated before then. This amount has been included on the
+Companys balance sheet as of September30, 2000 as a
+component of restricted cash. The Company has surplus office
+space of approximately 14,000 square feet which it subleased
+until 2003 and approximately 110,000 square feet which it
+subleased until 2012. On August8, 2001 a putative securities
+class action, captioned Atlasv. F5Networks, Inc. et
+al., Civil Action No01-CV-7342, was filed against the
+firms that underwrote F5Networks initial public
+offering, F5Networks, and several of its officers and
+directors in the United States District Court for the Southern
+District of New York. The complaint alleges violations of
+Sections11 and15 of the Securities Exchange Act of
+1933 and Section10b and Rule10b-5 promulgated
+thereunder and Section20a of the Securities Exchange Act
+of 1934 against the Company and its officers and directors, and
+seeks unspecified damages on behalf of a purported class that
+purchased F5Networks common stock between
+June4, 1999 and December6, 2000. On August15, 2001 a similar complaint,
+captioned Leev. F5Networks, Inc. et al., Civil
+Action No01-CV-7625, was filed in the United States
+District Court for the Southern District of New York. The
+complaint is substantially identical to the Atlas complaint: it
+names the same defendants, contains the virtually identical
+claims, and seeks unspecified damages on behalf of a purported
+class of purchasers of common stock during an identical class
+period. Various plaintiffs have filed similar actions in
+the United States District Court for the Southern District of
+New York asserting virtually identical allegations against more
+than 200 other issuers. These cases have all been assigned to
+the Hon.Shira A. Scheindlin for coordination and decisions
+on pretrial motions, discovery, and related matters other than
+trial. The Company believes that it has meritorious defenses to
+the lawsuits and will defend itself vigorously in the
+litigation. An unfavorable resolution of the actions could have
+a material, adverse effect on the business, results of
+operations or financial condition of the Company. 50 Table of Contents F5 NETWORKS, INC. NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS Continued The company may be subject to additional legal
+proceedings, claims and litigation arising in the ordinary
+course of business. Although the outcome of these matters is
+currently not determinable, the Company does not expect that the
+resolution of the actions could have a material, adverse effect
+on the business, results of operations or financial condition of
+the Company. 10.Related Party
+Transactions In March 1999, the Company issued 150,000 shares
+of common stock to an officer of the Company in exchange for a
+note receivable. These shares were acquired by exercising stock
+options that vest over a period of four years. The note bears
+interest at a rate of 483%, is collateralized by the shares,
+partially guaranteed by the officer and is due in 2003. In
+fiscal 2000, total payments of $281,000 were received on the
+loan. Under the pledge agreement, the Company has the obligation
+to repurchase any remaining unvested shares, and the note
+becomes due upon the officers termination. Further, the
+shares may not be transferred until they are vested, and the
+related portion of the loan is repaid. In fiscal 2001, the
+officer left the company and returned unvested shares totaling
+approximately 56,000 options to purchase shares of common stock,
+which were subsequently cancelled. In fiscal 2001, total
+payments of $188,000 were received on the loan. 11.Employee
+Benefit Plans The Company provides a 401k savings plan
+whereby eligible employees may voluntarily contribute a
+percentage of their compensation. Under the provision of the
+plan the Company may, at their discretion, match a portion of
+the employees eligible contributions. Contributions to the
+plan during the years ended September30, 2001, 2000 and
+1999 were approximately $953,000, $833,000 and $612,000,
+respectively. Contributions made by the company vest over four
+years. 12.Supplemental
+Cash Flow Information Supplemental disclosure of cash flow information
+is summarized below for the years ended September30, 2001,
+2000 and 1999 in thousands Year Ended September30 2001 2000 1999 Noncash investing and financing activities Note receivable from shareholder for exercise of
+options 750 Cancellation of note receivable from shareholder
+for exercise of options 281 Deferred compensation for options granted 150 2,128 Reduction to deferred compensation due to
+cancelled stock option grants 50 172 Cash paid for taxes 167 12 Cash paid for interest 51 Table of Contents PART III Item 1.Business.
+Item 2.Properties.
+Item 3.Legal Proceedings.
+Item 4.Submission of Matters to a Vote of Securities Holders.
+PART II
+Item 5.Directors
+And Executive Officers of the Registrant. See Directors and Executive Officers of the
+Registrant under Item1, PartI above. Information concerning compliance with
+Section16 of the Securities Exchange Act is incorporated
+herein by reference to information appearing in the
+Companys Proxy Statement for its annual meeting of
+shareholders to be held on March7, 2002, which information
+appears under the caption Section16a Beneficial
+Ownership Reporting Compliance. Such Proxy Statement will
+be filed within 120days of the Companys last fiscal
+year-end, September30, 2001. Items 11, 12 and 13 The information called for by Items11, 12
+and 13 of this PartIII is included in the Companys
+Proxy Statement relating to the Companys annual meeting of
+shareholders to be held on March7, 2002 and is
+incorporated herein by reference. The information appears in the
+Proxy Statement under the captions Election of
+Directors, Remuneration of Executive Officers,
+and Voting Securities and Principal Holders. Such
+Proxy Statement will be filed within 120days of the
+Companys last fiscal year-end, September30, 2001. PART IV 

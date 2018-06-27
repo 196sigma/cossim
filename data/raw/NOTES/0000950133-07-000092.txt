@@ -1,0 +1,3082 @@
+Item8. Financial Statements and Supplementary Data The following is an index to the consolidated financial statements   
+Page
+Number
+Report of Independent Registered Public Accounting Firm
+44
+Consolidated Balance Sheets
+45
+Consolidated Statements of Operations
+46
+Consolidated Statements of Changes in Stockholders Equity
+47
+Consolidated Statements of Cash Flows
+48
+Notes to Consolidated Financial Statements
+49
+43 REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM To the Board of Directors and Shareholders of Ciena Corporation We have completed integrated audits of Ciena Corporations 2006 and 2005 consolidated
+financial statements and of its internal control over financial reporting as of October31, 2006,
+and an audit of its 2004 consolidated financial statements in accordance with the standards of the
+Public Company Accounting Oversight Board United States. Our opinions, based on our audits, are
+presented below. Consolidated financial statements In our opinion, the consolidated financial statements listed in the accompanying index present
+fairly, in all material respects, the financial position of Ciena Corporation and its subsidiaries
+at October31, 2006 and 2005, and the results of their operations and their cash flows for each of
+the three years in the period ended October31, 2006 in conformity with accounting principles
+generally accepted in the United States of America. These financial statements are the
+responsibility of the Companys management. Our responsibility is to express an opinion on these
+financial statements based on our audits. We conducted our audits of these statements in accordance
+with the standards of the Public Company Accounting Oversight Board United States. Those
+standards require that we plan and perform the audit to obtain reasonable assurance about whether
+the financial statements are free of material misstatement. An audit of financial statements
+includes examining, on a test basis, evidence supporting the amounts and disclosures in the
+financial statements, assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. We believe that our audits
+provide a reasonable basis for our opinion. As discussed in Note 1 to the
+consolidated financial statements, the Company changed the
+manner in which it accounts for share-based compensation in fiscal year 2006. Internal control over financial reporting Also, in our opinion, managements assessment, included in Report of Management on Internal
+Control Over Financial Reporting appearing under Item9A, that the Company maintained effective
+internal control over financial reporting as of October31, 2006 based on criteria established in
+Internal Control Integrated Framework issued by the Committee of Sponsoring Organizations of the
+Treadway Commission COSO, is fairly stated, in all material respects, based on those criteria.
+Furthermore, in our opinion, the Company maintained, in all material respects, effective internal
+control over financial reporting as of October31, 2006, based on criteria established in Internal
+Control Integrated Framework issued by the COSO. The Companys management is responsible for
+maintaining effective internal control over financial reporting and for its assessment of the
+effectiveness of internal control over financial reporting. Our responsibility is to express
+opinions on managements assessment and on the effectiveness of the Companys internal control over
+financial reporting based on our audit. We conducted our audit of internal control over financial
+reporting in accordance with the standards of the Public Company Accounting Oversight Board United
+States. Those standards require that we plan and perform the audit to obtain reasonable assurance
+about whether effective internal control over financial reporting was maintained in all material
+respects. An audit of internal control over financial reporting includes obtaining an understanding
+of internal control over financial reporting, evaluating managements assessment, testing and
+evaluating the design and operating effectiveness of internal control, and performing such other
+procedures as we consider necessary in the circumstances. We believe that our audit provides a
+reasonable basis for our opinions. A companys internal control over financial reporting is a process designed to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting
+principles. A companys internal control over financial reporting includes those policies and
+procedures that ipertain to the maintenance of records that, in reasonable detail, accurately
+and fairly reflect the transactions and dispositions of the assets of the company; iiprovide
+reasonable assurance that transactions are recorded as necessary to permit preparation of financial
+statements in accordance with generally accepted accounting principles, and that receipts and
+expenditures of the company are being made only in accordance with authorizations of management and
+directors of the company; and iiiprovide reasonable assurance regarding prevention or timely
+detection of unauthorized acquisition, use, or disposition of the companys assets that could have
+a material effect on the financial statements. Because of its inherent limitations, internal control over financial reporting may not
+prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future
+periods are subject to the risk that controls may become inadequate because of changes in
+conditions, or that the degree of compliance with the policies or procedures may deteriorate. s/PricewaterhouseCoopers LLP
+McLean, Virginia
+January10, 2007 44 CIENA CORPORATION
+CONSOLIDATED BALANCE SHEETS
+in thousands, except share data   
+October 31,
+2005
+2006
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+358,012
+$
+220,164
+Short-term investments
+579,531
+628,393
+Accounts receivable, net
+72,786
+107,172
+Inventories, net
+49,333
+106,085
+Prepaid expenses and other
+37,867
+36,372
+Total current assets
+1,097,529
+1,098,186
+Long-term investments
+155,944
+351,407
+Equipment, furniture and fixtures, net
+28,090
+29,427
+Goodwill
+232,015
+232,015
+Other intangible assets, net
+120,324
+91,274
+Other long-term assets
+41,327
+37,404
+Total assets
+$
+1,675,229
+$
+1,839,713
+LIABILITIES AND STOCKHOLDERS EQUITY
+Current liabilities:
+Accounts payable
+$
+43,868
+$
+39,277
+Accrued liabilities
+76,491
+79,282
+Restructuring liabilities
+15,492
+8,914
+Unfavorable lease commitments
+9,011
+8,512
+Income taxes payable
+5,785
+5,981
+Deferred revenue
+27,817
+19,637
+Total current liabilities
+178,464
+161,603
+Long-term deferred revenue
+15,701
+21,039
+Long-term restructuring liabilities
+54,285
+26,720
+Long-term unfavorable lease commitments
+41,364
+32,785
+Other long-term obligations
+1,296
+1,678
+Convertible notes payable
+648,752
+842,262
+Total liabilities
+939,862
+1,086,087
+Commitments and contingencies
+Stockholders equity:
+Preferred stock par value $001; 20,000,000 shares authorized; zero shares issued and outstanding
+Common stock par value $001; 140,000,000 shares authorized; 82,905,849 and 84,891,656 shares
+issued and outstanding
+829
+849
+Additional paid-in capital
+5,494,587
+5,505,853
+Deferred stock compensation
+2,286
+Changes in unrealized gains on investments, net
+4,673
+496
+Translation adjustment
+495
+580
+Accumulated deficit
+4,752,595
+4,752,000
+Total stockholders equity
+735,367
+753,626
+Total liabilities and stockholders equity
+$
+1,675,229
+$
+1,839,713
+The
+accompanying notes are an integral part of these consolidated financial statements. 45 CIENA CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+in thousands, except per share data   
+Year Ended October 31,
+2004
+2005
+2006
+Revenue:
+Products
+$
+250,210
+$
+374,275
+$
+502,427
+Services
+48,497
+52,982
+61,629
+Total revenue
+298,707
+427,257
+564,056
+Costs:
+Products
+186,461
+248,931
+263,667
+Services
+40,493
+42,136
+42,608
+Total cost of goods sold
+226,954
+291,067
+306,275
+Gross profit
+71,753
+136,190
+257,781
+Operating expenses:
+Research and development
+205,364
+137,245
+111,069
+Selling and marketing
+112,310
+115,022
+104,434
+General and administrative
+28,592
+33,715
+47,476
+Amortization of intangible assets
+30,839
+38,782
+25,181
+In-process research and development
+30,200
+Restructuring costs
+57,107
+18,018
+15,671
+Goodwill impairment
+371,712
+176,600
+Long-lived asset impairment
+15,926
+45,862
+Gain on lease settlement
+11,648
+Recovery of sale,export, use tax liabilities and payments
+5,388
+Provision for recovery of doubtful accounts
+2,794
+2,602
+3,031
+Total operating expenses
+843,868
+567,846
+289,152
+Loss from operations
+772,115
+431,656
+31,371
+Interest and other income expense, net
+25,936
+31,294
+50,245
+Interest expense
+29,841
+28,413
+24,165
+Gain losson equity investments, net
+4,107
+9,486
+215
+Gain losson extinguishment of debt
+8,216
+3,882
+7,052
+Income lossbefore income taxes
+788,343
+434,379
+1,976
+Provision for income taxes
+1,121
+1,320
+1,381
+Net income
+loss
+$
+789,464
+$
+435,699
+$
+595
+Basic net income lossper common share
+$
+1060
+$
+530
+$
+001
+Diluted net income lossper dilutive potential common share
+$
+1060
+$
+530
+$
+001
+Weighted average basic common shares
+74,493
+82,170
+83,840
+Weighted average dilutive potential common shares
+74,493
+82,170
+85,011
+The
+accompanying notes are an integral part of these consolidated financial statements. 46 CIENA CORPORATION
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY
+in thousands, except share data   
+Accumulated
+Receivable
+Other
+Total
+Common Stock
+Additional Paid-
+Deferred Stock
+Notes From
+Comprehensive
+Accumulated
+Stockholders
+Shares
+Amount
+in-Capital
+Compensation
+Stockholders
+Income
+Deficit
+Equity
+Balance at October31, 2003
+67,602,122
+$
+676
+$
+4,865,238
+$
+9,664
+$
+448
+$
+2,447
+$
+3,527,432
+$
+1,330,817
+Net loss
+789,464
+789,464
+Changes in unrealized gains on investments, net
+5,280
+5,280
+Translation adjustment
+68
+68
+Comprehensive loss
+794,676
+Exercise of warrant
+7,020
+1
+1
+Exercise of stock options, net
+1,142,272
+11
+16,769
+16,780
+Unearned stock compensation
+955
+18,178
+17,223
+Deferred stock compensation costs
+11,883
+11,883
+Forfeiture of unearned stock compensation
+2,198
+2,198
+Issuance of common stock for acquisitions, net of issuance costs
+12,913,823
+129
+606,312
+606,441
+Reduction of receivables from stockholders
+400
+400
+Balance at October31, 2004
+81,665,237
+817
+5,487,075
+13,761
+48
+2,765
+4,316,896
+1,154,422
+Net loss
+435,699
+435,699
+Changes in unrealized gains on investments, net
+2,185
+2,185
+Translation adjustment
+218
+218
+Comprehensive loss
+438,102
+Exercise of stock options, net
+1,240,612
+12
+9,546
+9,558
+Unearned stock compensation
+10
+10
+Deferred stock compensation costs
+9,441
+9,441
+Forfeiture of unearned stock compensation
+2,044
+2,044
+Reduction of receivables from stockholders
+48
+48
+Balance at October31, 2005
+82,905,849
+829
+5,494,587
+2,286
+5,168
+4,752,595
+735,367
+Net income
+595
+595
+Changes in unrealized gains on investments, net
+4,177
+4,177
+Translation adjustment
+85
+85
+Comprehensive income
+4,687
+Exercise of stock options, net
+1,985,807
+20
+27,967
+27,987
+Stock compensation expense
+14,042
+14,042
+Removal of opening deferred stock
+compensation balance upon adoption of SFAS 123R
+2,286
+2,286
+Purchase of call spread option
+28,457
+28,457
+Balance at October31, 2006
+84,891,656
+$
+849
+$
+5,505,853
+$
+$
+$
+1,076
+$
+4,752,000
+$
+753,626
+The
+accompanying notes are an integral part of these consolidated financial statements.
+47 CIENA CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+in thousands   
+Year Ended October 31,
+2004
+2005
+2006
+Cash flows from operating activities:
+Net income
+loss
+$
+789,464
+$
+435,699
+$
+595
+Adjustments to reconcile net income lossto net cash used in operating activities:
+Early extinguishment of debt
+8,216
+3,882
+7,052
+Amortization of premium discounton marketable securities
+26,924
+13,636
+823
+Non-cash loss from equity investments
+4,107
+9,486
+733
+Non-cash impairment of long-lived assets
+15,926
+45,862
+Accretion of convertible notes payable
+599
+In-process research and development
+30,200
+Depreciation and amortization of leasehold improvements
+72,213
+33,377
+16,401
+Goodwill impairment
+371,712
+176,600
+Stock compensation
+11,883
+9,441
+14,042
+Amortization of intangibles
+34,708
+42,651
+29,050
+Provision for doubtful accounts
+284
+2,602
+Provision for inventory excess and obsolescence
+4,172
+5,232
+9,012
+Provision for warranty and other contractual obligations
+8,351
+9,738
+14,522
+Other
+3,449
+3,218
+2,028
+Changes in assets and liabilities:
+Accounts receivable
+2,562
+29,510
+34,386
+Inventories
+962
+6,951
+65,764
+Prepaid expenses and other
+15,253
+7,420
+4,056
+Accounts payable and accruals
+67,671
+19,633
+59,161
+Income taxes payable
+1,286
+2,431
+196
+Deferred revenue and other obligations
+6,589
+5,942
+2,842
+Net cash used in operating activities
+245,435
+128,039
+79,393
+Cash flows from investing activities:
+Additions to equipment, furniture, fixtures and intellectual property
+32,999
+11,315
+17,760
+Proceeds from sale of equipment, furniture and fixtures
+1,857
+278
+Restricted cash
+2,004
+1,986
+4,552
+Purchase of available for sale securities
+696,344
+578,846
+1,090,409
+Maturities of available for sale securities
+897,738
+910,505
+851,084
+Acquisition of business, net of cash acquired
+4,864
+Minority equity investments, net
+4,407
+4,882
+948
+Net cash provided by used in investing activities
+168,705
+327,490
+251,585
+Cash flows from financing activities:
+Proceeds from issuance of 025% convertible senior notes payable
+300,000
+Repurchase of 375% convertible notes payable
+36,913
+98,410
+Repurchase of ONI 500% convertible subordinated notes payable
+49,243
+Net proceeds from other obligations
+100
+Debt issuance costs
+7,990
+Purchase of call spread option
+28,457
+Proceeds from issuance of common stock and warrants
+16,780
+9,558
+27,987
+Repayment of notes receivable from stockholders
+47
+48
+Net cash provided by used in financing activities
+32,316
+27,307
+193,130
+Net decreaseincrease in cash and cash equivalents
+109,046
+172,144
+137,848
+Cash and cash equivalents at beginning of period
+294,914
+185,868
+358,012
+Cash and cash equivalents at end of period
+$
+185,868
+$
+358,012
+$
+220,164
+Supplemental disclosure of cash flow information
+Cash paid during the period for:
+Interest
+$
+26,927
+$
+25,817
+$
+21,685
+Income taxes
+$
+2,363
+$
+977
+$
+969
+The
+accompanying notes are an integral part of these consolidated financial statements. 48 CIENA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 1CIENA CORPORATION AND SIGNIFICANT ACCOUNTING POLICIES AND ESTIMATES Description of Business Ciena Corporation is a supplier of communications networking equipment, software and services
+that support the delivery and transport of voice, video and data services. Our products are used in
+communications networks operated by telecommunications service providers, cable operators,
+governments and enterprises across the globe. We specialize in transitioning legacy communications
+networks to converged, next-generation architectures, capable of efficiently delivering a broader
+mix of high-bandwidth services. By improving network productivity, reducing costs and enabling
+integrated services offerings, our optical, data and broadband access platforms create business and
+operational value for our customers. Ciena was incorporated in Delaware in November1992, and completed its initial public offering
+on February7, 1997. Cienas principal executive offices
+are located at 1201 Winterson Road,
+Linthicum, Maryland 21090. Principles of Consolidation Ciena has 14 wholly owned U.S. and international subsidiaries, which have been consolidated in
+the accompanying financial statements. On May3, 2004, Ciena acquired by merger Catena Networks
+Inc. Catena, a Delaware company based in Kanata, Canada, and Internet Photonics, Inc.
+Internet Photonics, a Delaware company based in Shrewsbury, New Jersey. The Catena and Internet
+Photonics transactions were both accomplished as tax-free reorganizations, and were recorded using
+the purchase accounting method. The accompanying consolidated financial statements include the accounts of Ciena and its
+wholly owned subsidiaries. All material inter-company accounts and transactions have been
+eliminated in consolidation. Fiscal Year Ciena has a 52 or 53week fiscal year, which ends on the Saturday nearest to the last day of
+October in each year October28, 2006, October29, 2005, and October30, 2004. For purposes of
+financial statement presentation, each fiscal year is described as having ended on October31.
+Fiscal 2006, fiscal 2005 and fiscal 2004 were each comprised of 52weeks. Use of Estimates The preparation of financial statements in conformity with generally accepted accounting
+principles requires Ciena to make estimates, judgments and assumptions that affect the reported
+amounts of assets, liabilities, revenue and expenses, together with amounts disclosed in the
+related notes to the financial statements. Actual results could differ from the recorded estimates. Cash and Cash Equivalents Ciena considers all highly liquid investments purchased with original maturities of three
+months or less to be cash equivalents. Restricted cash collateralizing letters of credits are
+included in other current assets and other long-term assets depending upon the duration of the
+restriction. Investments Cienas short-term and long-term investments are classified as available-for-sale and are
+reported at fair value, with unrealized gains and losses, net of tax, recorded in accumulated other
+comprehensive income. Realized gains or losses and declines in value determined to be other than
+temporary, if any, on available-for-sale securities, are reported in other income or expense as
+incurred. Ciena also has certain other minority equity investments in privately held technology
+companies. These investments are carried at cost because Ciena owns less than 20% of the voting
+equity and does not have the ability to exercise significant influence over these companies. These
+investments are inherently high risk as the markets for technologies or products
+manufactured by these companies are usually early stage at the time of the investment by Ciena
+and such markets may never 49 be significant. Ciena could lose its entire investment in some or all of
+these companies. Ciena monitors these investments for impairment and makes appropriate reductions
+in carrying values when necessary. Inventories Inventories are stated at the lower of cost or market, with cost determined on the first-in,
+first-out basis. Ciena records a provision for excess and obsolete inventory whenever an impairment
+has been identified. Equipment, Furniture and Fixtures Equipment, furniture and fixtures are recorded at cost. Depreciation and amortization are
+computed using the straight-line method over useful lives of two years to five years for equipment,
+furniture and fixtures and nine months to ten years for leasehold improvements. Impairments of
+equipment, furniture and fixtures are determined in accordance with Statement of Financial
+Accounting Standards SFASNo144, Accounting for the Impairment or Disposal of Long-Lived
+Assets. Internal use software and web site development costs are capitalized in accordance with
+Statement of Position SOPNo98-1, Accounting for the Costs of Computer Software Developed or
+Obtained for Internal Use, and Emerging Issues Task Force EITFIssue No00-2, Accounting for
+Web Site Development Costs. Qualifying costs incurred during the application development stage,
+which consist primarily of outside services and purchased software license costs, are capitalized
+and amortized over the estimated useful life of the asset. Goodwill and Other Intangible Assets Ciena has recorded goodwill and purchased intangible assets as a result of several
+acquisitions. Ciena accounts for goodwill in accordance with SFAS 142 Goodwill and Other
+Intangible Assets, which requires Ciena to test each reporting units goodwill for impairment on
+an annual basis, which Ciena has determined to be the last business day of fiscal September each
+year. Testing is required between annual tests if events occur or circumstances change that would,
+more likely than not, reduce the fair value of the reporting unit below its carrying value. Purchased intangible assets are carried at cost less accumulated amortization. Amortization is
+computed using the straight-line method over the economic lives of the respective assets, generally
+three to seven years. Impairments of other intangibles assets are determined in accordance SFAS
+144. For additional information see Note 4. Concentrations Substantially all of Cienas cash and cash equivalents, short-term and long-term investments,
+are maintained at two major U.S. financial institutions. The majority of Cienas cash equivalents
+consist of money market funds and overnight repurchase agreements. Deposits held with banks may
+exceed the amount of insurance provided on such deposits. Generally, these deposits may be redeemed
+upon demand and, therefore, bear minimal risk. During fiscal 2006, Sprint, Verizon and ATT each accounted for at least 10% of Cienas
+revenue. During fiscal 2005, Verizon, BellSouth, and Science Applications International Corporation
+SAICeach accounted for at least 10% of Cienas revenue. During fiscal 2004, only SAIC accounted
+for at least 10% of Cienas revenue. The substantial reduction in orders by, or loss of, any
+significant customer, could materially adversely affect Cienas financial condition or operating
+results. For additional information see Note 19. Additionally, Cienas access to certain raw materials is dependent upon single and sole source
+suppliers. The inability of any supplier to fulfill Cienas supply requirements could affect future
+results. Ciena relies on a small number of contract manufacturers to perform the majority of the
+manufacturing operations for its products. If Ciena cannot effectively manage these manufacturers
+and forecast future demand, or if they fail to deliver products or components on time, Cienas
+business may suffer. Revenue Recognition Ciena recognizes revenue in accordance with Staff Accounting Bulletin SABNo104, Revenue
+Recognition, which states that revenue is realized or realizable and earned when all of the
+following criteria are met: persuasive evidence of an
+arrangement exists; delivery has occurred or services have been rendered; the price to the
+buyer is fixed or determinable; and collectibility is reasonably assured. In instances where final
+acceptance of the product, system, or solution is specified by the 50 customer, revenue is deferred
+until all acceptance criteria have been met. Revenue for maintenance services is generally deferred
+and recognized ratably over the period during which the services are to be performed. Some of Cienas communications networking equipment is integrated with software that is
+essential to the functionality of the equipment. In some cases, Ciena provides unspecified software
+upgrades and enhancements related to the equipment through maintenance contracts for these
+products. For transactions involving the sale of software, revenue is recognized in accordance with
+SOP 97-2, Software Revenue Recognition, including deferral of revenue recognition in instances
+where vendor specific objective evidence for undelivered elements is not determinable. For arrangements that involve the delivery or performance of multiple products, services
+and/or rights to use assets, except as otherwise covered by SOP 97-2, the determination as to how
+the arrangement consideration should be measured and allocated to the separate deliverables of the
+arrangement is determined in accordance with EITF 00-21, Revenue Arrangements with Multiple
+Deliverables. When a sale involves multiple elements, such as sales of products that include
+services, the entire fee from the arrangement is allocated to each respective element based on its
+relative fair value and recognized when revenue recognition criteria for each element are met. Fair
+value for each element is established based on the sales price charged when the same element is
+sold separately. Revenue Related Accruals Ciena provides for the estimated costs to fulfill customer warranty and other contractual
+obligations upon the recognition of the related revenue. Such reserves are determined based upon
+actual warranty cost experience, estimates of component failure rates, and managements industry
+experience. Cienas sales contracts do not permit the right of return of product by the customer
+after the product has been accepted. Accounts Receivable Trade, Net Cienas allowance for doubtful accounts is based on its assessment, on a specific
+identification basis, of the collectibility of customer accounts. Ciena performs ongoing credit
+evaluations of its customers and generally has not required collateral or other forms of security
+from its customers. In determining the appropriate balance for Cienas allowance for doubtful
+accounts, management considers each individual customer account receivable in order to determine
+collectibility. In doing so, management considers creditworthiness, payment history, account
+activity and communication with such customer. If a customers financial condition changes, Ciena
+may be required to take a charge for an allowance for doubtful accounts. Research and Development Ciena charges all research and development costs to expense as incurred. Types of expense
+incurred in research and development include employee compensation, prototype, consulting,
+depreciation, facility costs and information technologies. Advertising Costs Ciena expenses all advertising costs as incurred. Share-Based Compensation Expense On November1, 2005, Ciena adopted SFAS 123R, Share-Based Payment, which requires the
+measurement and recognition of compensation expense, based on estimated fair values, for all
+share-based awards, made to employees and directors, including stock options, restricted stock,
+restricted stock units and participation in Cienas employee stock purchase plan. In March2005,
+the Securities and Exchange Commission issued SAB 107 relating to SFAS 123R. Ciena has applied
+the provisions of SAB 107 in its adoption of SFAS 123R. Ciena adopted SFAS 123R using the modified prospective application transition method, which
+requires the application of the accounting standard as of November1, 2005, the first day of
+Cienas fiscal year 2006. Cienas consolidated financial statements for fiscal 2006 reflect the
+impact of SFAS 123R. In accordance with the modified prospective application transition method,
+Cienas consolidated financial statements for prior periods have not been restated
+to reflect, and do not include, the impact of SFAS 123R. Share-based compensation cost recognized
+under SFAS 123R for fiscal 2006 was $140million, of which $03million was capitalized as part
+of inventory. 51 Prior to the adoption of SFAS 123R, Ciena accounted for share-based awards to employees and
+directors using the intrinsic value method in accordance with Accounting Principles Board APB
+Opinion No25, Accounting for Stock Issued to Employees, as interpreted by FASB Interpretation
+FINNo44, Accounting for Certain Transactions Involving Stock Compensation, an Interpretation
+of APB Opinion No25, as allowed under SFAS 123, Accounting for Stock-Based Compensation.
+Share-based compensation expense of $94million and $119million for fiscal 2005 and fiscal 2004,
+respectively, was solely related to share-based awards assumed through acquisitions and restricted
+stock unit awards that Ciena had been recognizing in its consolidated statement of operations in
+accordance with the provisions set forth above. Because the exercise price of Cienas stock options
+granted to employees and directors equaled the fair market value of the underlying stock at the
+grant date, under the intrinsic value method, no share-based compensation expense was otherwise
+recognized in Cienas consolidated statement of operations. SFAS 123R requires companies to estimate the fair value of share-based awards on the date of
+grant using an option-pricing model. The value of the portion of the award that is ultimately
+expected to vest is recognized as expense in Cienas consolidated statement of operations over the
+requisite service periods. Share-based compensation expense recognized in Cienas consolidated
+statement of operations for fiscal 2006 includes compensation expense for share-based awards
+granted iprior to, but not yet vested as of October31, 2005, based on the grant date fair value
+estimated in accordance with the provisions of SFAS 123, and iisubsequent to October31, 2005,
+based on the grant date fair value estimated in accordance with the provisions of SFAS 123R. Upon
+adoption of SFAS 123R, Ciena changed its method of attributing the value of share-based
+compensation expense from the accelerated multiple-option approach to the straight-line
+single-option method. Compensation expense for all share-based awards granted on or prior to
+October31, 2005 will continue to be recognized using the accelerated multiple-option approach.
+Compensation expense for all share-based awards subsequent to October31, 2005 is recognized using
+the straight-line single-option method. Because share-based compensation expense is based on awards
+that are ultimately expected to vest, share-based compensation expense has been reduced to account
+for estimated forfeitures. SFAS 123R requires forfeitures to be estimated at the time of grant
+and revised, if necessary, in subsequent periods if actual forfeitures differ from those estimates.
+In Cienas pro forma information required under SFAS 123 for periods prior to fiscal 2006, Ciena
+accounted for forfeitures as they occurred. To calculate option-based compensation under SFAS 123R, Ciena uses the Black-Scholes
+option-pricing model, which it had previously used for valuation of option-based awards for its pro
+forma information required under SFAS 123 for periods prior to fiscal 2006. Cienas determination
+of fair value of option-based awards on the date of grant using the Black-Scholes model is affected
+by Cienas stock price as well as assumptions regarding a number of subjective variables. These
+variables include, but are not limited to Cienas expected stock price volatility over the term of
+the awards, and actual and projected employee stock option exercise behaviors. For additional
+information see Note 16. No tax benefits were attributed to the share-based compensation expense because a full
+valuation allowance was maintained for all net deferred tax assets. Income Taxes Ciena accounts for income taxes in accordance with SFAS 109, Accounting for Income Taxes.
+SFAS 109 describes an asset and liability approach that requires the recognition of deferred tax
+assets and liabilities for the expected future tax consequences attributable to differences between
+the carrying amounts of assets and liabilities for financial reporting purposes and their
+respective tax bases, and for operating loss and tax credit carry forwards. In estimating future
+tax consequences, SFAS 109 generally considers all expected future events other than the enactment
+of changes in tax laws or rates. Valuation allowances are provided, if, based upon the weight of
+the available evidence, it is more likely than not that some or all of the deferred tax assets will
+not be realized. Fair Value of Financial Instruments The carrying amounts of Cienas financial instruments, which include short-term and long-term
+investments, accounts receivable, accounts payable, and other accrued expenses, approximate their
+fair values due to their short maturities. Foreign Currency Translation Some of Cienas foreign branch offices and subsidiaries use the U.S. dollar as their
+functional currency, because Ciena, as the U.S. parent entity, exclusively funds the operations of
+these branch offices and subsidiaries with U.S. dollars. For those subsidiaries using the local
+currency as their functional currency, assets and liabilities are translated at exchange rates in
+effect at the balance sheet date. Resulting translation adjustments are recorded directly to a
+separate component of 52 stockholders equity. Where the U.S. dollar is the functional currency,
+translation adjustments are recorded in other income. The net gain losson foreign currency
+re-measurement and exchange rate changes for fiscal 2006, fiscal 2005 and fiscal 2004 was
+immaterial for separate financial statement presentation. Computation of Basic Net Income Loss per Common Share and Diluted Net Income Loss per Dilutive
+Potential Common Share Ciena calculates earnings per share EPSin accordance with the SFAS 128, Earnings per
+Share. This statement requires dual presentation of basic and diluted EPS on the face of the
+income statement for entities with a complex capital structure and requires a reconciliation of the
+numerator and denominator used for the basic and diluted EPS computations. Software Development Costs SFAS 86, Accounting for the Costs of Computer Software to be Sold, Leased or Otherwise
+Marketed, requires the capitalization of certain software development costs incurred subsequent to
+the date technological feasibility is established and prior to the date the product is generally
+available for sale. The capitalized cost is then amortized over the estimated product life. Ciena
+defines technological feasibility as being attained at the time a working model is completed. To
+date, the period between achieving technological feasibility and the general availability of such
+software has been short, and software development costs qualifying for capitalization have been
+insignificant. Accordingly, Ciena has not capitalized any software development costs. Segment Reporting SFAS 131, Disclosures about Segments of an Enterprise and Related Information, establishes
+annual and interim reporting standards for operating segments of a company. It also requires
+entity-wide disclosures about the products and services an entity provides, the material countries
+in which it holds assets and reports revenue, and its major customers. Prior to the third quarter of fiscal 2006 Ciena reported its results of operations based on
+four operating segments: the Transport and Switching Group TSG, the Data Networking Group DNG,
+the Broadband Access Group BBGand Global Network Services GNS. In an effort to address
+increased market opportunities for product convergence, facilitate product functionality cross-over
+and improve operational efficiency, Ciena reorganized aspects of the management of its business.
+Ciena eliminated its former business units and no longer has operating segment general managers.
+Cienas development resources were reorganized along technology skill sets applicable across
+multiple products, rather than by specific product lines. In addition, Ciena no longer manages its
+business, allocates its resources or evaluates its operating performance on the basis of financial
+information about its former business units. As a consequence, Ciena eliminated its historical
+operating segments and discontinued reporting its results of operations on a historical segment
+basis. Revenue from sales to customers outside of the United States is reflected as International in
+Cienas geographic distribution of revenue in entity wide disclosures. Reclassification Certain prior year amounts have been reclassified to conform to current year consolidated
+financial statement presentation. Newly Issued Accounting Standards In September2006, the Securities and Exchange Commission SECissued SAB 108, Considering
+the Effects of Prior Year Misstatements when Quantifying Misstatements in Current Year Financial
+Statements. SAB 108 provides interpretative guidance on the process of quantifying financial
+statement misstatements and is effective for fiscal years ending after November15, 2006. Ciena
+does not believe that the adoption of this statement will have a material impact on its financial
+condition, results of operations or cash flows. In September2006, the Financial Accounting Standards Board FASBissued SFAS 157, Fair
+Value Measurements. SFAS 157 defines fair value, establishes a framework for measuring fair value
+under generally accepted accounting principles, and expands disclosures about fair value
+measurements. SFAS 157 is effective for financial statements issued for fiscal years beginning
+after November15, 2007, and interim periods within those fiscal years. Ciena is currently
+evaluating the impact the adoption of this statement could have on its financial condition, results
+of operations or cash flows. 53 In July2006, the FASB issued FIN 48, Accounting for Uncertainty in Income Taxes, an
+interpretation of Statement of Financial Accounting Standards No109, Accounting for Income
+Taxes. FIN 48 clarifies the accounting for income taxes by prescribing the minimum recognition
+threshold a tax position is required to meet before being recognized in the financial statements.
+FIN 48 also provides guidance on derecognition, measurement, classification, interest and
+penalties, accounting in interim periods, disclosure and transition. The interpretation applies to
+all tax positions related to income taxes subject to SFAS 109. FIN 48 is effective for fiscal years
+beginning after December15, 2006. Differences between the amounts recognized in the statements of
+financial position prior to the adoption of FIN 48 and the amounts reported after adoption should
+be accounted for as a cumulative-effect adjustment recorded to the beginning balance of retained
+earnings. Ciena is currently evaluating the impact the adoption of this interpretation could have
+on its financial condition, results of operations or cash flows. In February2006, the FASB issued SFAS 155, Accounting for Certain Hybrid Financial
+Instruments which amends SFAS 133, Accounting for Derivative Instruments and Hedging Activities
+and SFAS 140, Accounting for Transfers and Servicing of Financial Assets and Extinguishments of
+Liabilities. SFAS 155 simplifies the accounting for certain derivatives embedded in other
+financial instruments by allowing them to be accounted for as a whole if the holder elects to
+account for the whole instrument on a fair value basis. SFAS 155 also clarifies and amends certain
+other provisions of SFAS 133 and SFAS 140. SFAS 155 is effective for all financial instruments
+acquired, issued or subject to a remeasurement event occurring in fiscal years beginning after
+September15, 2006. Ciena does not believe the adoption of this statement will have a material
+impact on its financial condition, results of operations or cash flows. In May2005, the FASB issued SFAS 154, Accounting Changes and Error Corrections which
+supersedes APB Opinion No20, Accounting Changes and SFAS 3, Reporting Accounting Changes in
+Interim Financial Statements. SFAS 154 changes the requirements for the accounting for and
+reporting of a change in accounting principle. SFAS 154 also carries forward without change the
+guidance contained in APB 20 for reporting the correction of an error in previously issued
+financial statements and a change in accounting estimate. SFAS 154 requires retrospective
+application to prior periods financial statements of changes in accounting principle, unless it is
+impracticable to determine either the period-specific effects or the cumulative effect of the
+change. The correction of an error in previously issued financial statements is not a change in
+accounting principle. However, the reporting of an error correction involves adjustments to
+previously issued financial statements similar to those generally applicable to reporting an
+accounting change retroactively. Therefore, the reporting of a correction of an error by restating
+previously issued financial statements is also addressed by SFAS 154. SFAS 154 is effective for
+accounting changes and corrections of errors made in fiscal years beginning after December15,
+2005. Ciena does not believe that the adoption of this statement will have a material impact on its
+financial condition, results of operations or cash flows. 2BUSINESS COMBINATIONS In fiscal 2004, Ciena acquired Catena and Internet Photonics. As a result of these
+acquisitions, Ciena has recorded charges for in-process research and development and recorded
+intangible assets related to existing technology. In-process research and development represents in-process technology that, as of the date of
+acquisition, has not reached technological feasibility and has no alternative future use. Based on
+valuation assessments, the value of in-process technology is determined by estimating the net cash
+flows from the sale of products resulting from the completion of the projects, reduced by the
+portions of revenue attributable to developed technology and future completion of the project. The
+resulting cash flows are then discounted back to their present values at appropriate discount
+rates. Existing technology represents purchased technology for which development had been completed
+as of the date of acquisition. This amount is determined using the income approach. This method
+consisted of estimating future net cash flows attributable to existing technology for a discrete
+projection period and discounting the net cash flows to their present value. The existing
+technology will be amortized over its useful life. The purchase price for Cienas acquisitions were based on the average closing price of Cienas
+common stock for the two trading days prior to the announcement of the acquisition, the date of the
+announcement, and the two trading days after the announcement. The following table summarizes the allocation of the purchase price at the date of the acquisitions
+in thousands 54   
+Internet
+Photonics at
+Catena at
+May 3, 2004
+May 3, 2004
+Cash, cash equivalents, long and short-term investments
+$
+767
+$
+12,936
+Inventory
+1,499
+6,254
+Equipment, furniture and fixtures
+1,287
+2,813
+Other tangible assets
+1,666
+9,236
+Existing technology
+10,000
+73,000
+Non-compete agreements
+2,200
+Contracts and purchase orders
+21,100
+18,000
+Goodwill
+120,574
+326,241
+Deferred stock compensation
+1,094
+16,130
+Other assumed liabilities
+6,857
+23,150
+Ciena initial investment
+Unfavorable lease commitments
+351
+Promissory notes and loans
+9,357
+In-process research and development
+5,200
+25,000
+Total purchase price
+$
+149,173
+$
+466,109
+Catena Catena was a privately held corporation headquartered in Kanata, Canada. Pursuant to the terms
+of the acquisition agreement, Catena merged into Ciena, and the outstanding shares of Catena common
+and preferred stock were exchanged for approximately 9,681,920 shares of Ciena common stock. The
+aggregate purchase price was $4661million, which included Ciena common stock valued at $4072
+million, Ciena options, warrants and restricted stock valued at $537million, and transaction
+costs of $52million. The $730million assigned to existing technology will be amortized over periods ranging from
+45 to 65years. The $180million assigned to the contracts, customer relationships and purchase
+orders will be amortized over periods ranging from 3months to 45years. The goodwill allocated to the purchase price was $3262million and is not deductible for tax
+purposes. The operations of Catena were originally incorporated into Cienas former BBG operating
+segment, and accordingly, the goodwill from the transaction was assigned to that operating segment.
+For additional information see Note 4. The following unaudited pro forma data summarizes the results of operations for fiscal 2004 as
+if the Catena acquisition had been completed as of November1, 2003. The unaudited pro forma data
+gives effect to the combined actual operating results prior to the May3, 2004 acquisition,
+adjusted to include the pro forma effect of amortization of intangibles and deferred stock
+compensation costs. These pro forma amounts in thousands, except per share data do not purport to
+be indicative of the results that would have actually been obtained if the acquisition had occurred
+as of November1, 2003 or the results that may be obtained in the future.   
+Fiscal Year unaudited
+2004
+Revenue
+$
+348,943
+Net loss
+$
+802,038
+Diluted net loss per common share
+and dilutive potential common share
+$
+1010
+Internet Photonics Internet Photonics was a privately held corporation headquartered in Shrewsbury, New Jersey.
+Pursuant to the terms of the acquisition agreement, Internet Photonics merged into Ciena, and the
+outstanding shares of Internet Photonics common 55 and preferred stock were exchanged for
+approximately 3,231,902 shares of Ciena common stock. The aggregate purchase price was $1492
+million, which included Ciena common stock valued at $1394million, options and restricted stock
+valued at $61million, and transaction costs of $37million. The $100million assigned to existing technology will be amortized over 65years. The $22
+million assigned to non-compete agreements will be amortized over 12months. The $211million
+assigned to the contracts, customer relationships and purchase orders will be amortized over
+periods ranging from 3months to 65years. The $94million assigned to the value of the loan
+payable to Ciena was based upon the present value of the loan at the time of the acquisition. This
+loan was eliminated during the allocation of the purchase price. The goodwill allocated to the purchase price was $1206million and is not deductible for tax
+purposes. The operations of Internet Photonics were originally incorporated into Cienas former TSG
+operating segment, and accordingly, the goodwill from the transaction was assigned to that
+operating segment. For additional information see Note 4. The operations of Internet Photonics are
+not material to the consolidated financial statements of Ciena, and accordingly, separate pro forma
+financial information has not been presented. 3RESTRUCTURING COSTS Ciena has previously taken actions to align its workforce, facilities and operating costs with
+business opportunities. Ciena historically has committed to a restructuring plan and has incurred
+the associated liability concurrently in accordance with the provisions of SFAS 146, Accounting
+for Costs Associated with Exit or Disposal Activities. The following table displays the activity
+and balances of the restructuring liability accounts for the years ended October31, 2005 and
+October31, 2006 in thousands   
+Consolidation
+Workforce
+of excess
+reduction
+facilities
+Total
+Balance at October31, 2003
+$
+2,849
+$
+63,693
+$
+66,542
+Additional liability recorded
+21,796
+a
+27,834
+a
+49,630
+Adjustment to previous estimates
+154
+a
+7,323
+a
+7,477
+Cash payments
+23,353
+18,913
+42,266
+Balance at October31, 2004
+1,446
+79,937
+81,383
+Additional
+liability recorded
+5,770
+b
+884
+b
+6,654
+Adjustment to previous estimates
+11,364
+b
+11,364
+Cash payments
+6,946
+22,678
+29,624
+Balance at October31, 2005
+270
+69,507
+69,777
+Additional
+liability recorded
+4,652
+c
+1,782
+c
+6,434
+Adjustment to previous estimates
+9,237
+c
+9,237
+Lease settlements
+11,648
+c
+11,648
+Cash payments
+4,922
+33,244
+38,166
+Balance at October31, 2006
+$
+$
+35,634
+$
+35,634
+Current restructuring liabilities
+$
+$
+8,914
+$
+8,914
+Non-current restructuring liabilities
+$
+$
+26,720
+$
+26,720
+a
+During the first quarter of fiscal 2004, Ciena recorded a restructuring charge of
+$13million related to the exit of a warehouse, $14million related to workforce
+reductions of 52 employees and $07million related to an adjustment to estimates
+associated with costs for previously restructured facilities.   
+During the second quarter of fiscal 2004, Ciena recorded a restructuring charge of $25
+million related to a workforce reduction of 68 employees and $26million primarily related
+to an adjustment to estimates associated with costs for previously restructured facilities.   
+During the third quarter of fiscal 2004, Ciena recorded a restructuring charge of $125
+million related to a workforce reduction of 321 employees, $07million related to exit
+activities associated with Cienas San Jose, CA facility and an adjustment of $03million
+related to an adjustment to estimates associated with costs for previously restructured
+facilities.   
+During the fourth quarter of fiscal 2004, Ciena recorded a restructuring charge of $54
+million related to a workforce reduction of 119 employees, $258million primarily related
+to exit activities associated with Cienas San Jose, CA facility and $38million primarily
+related to an adjustment to estimates associated with costs for previously
+restructured facilities   b
+During the first quarter of fiscal 2005, Ciena recorded a restructuring charge of
+approximately $10million related to a workforce reduction of 21 employees and a charge of
+approximately $03million related to certain other costs associated with the closure of
+its San Jose, CA facility on September30, 2004. This restructuring charge also reflects a
+reversed charge of $01million related to an adjustment to estimates associated with costs
+for previously restructured facilities. 56   
+During the second quarter of fiscal 2005, Ciena recorded a restructuring charge of
+approximately $21million related to a workforce reduction of 53 employees and a charge of
+approximately $76million related to an adjustment to estimates associated with costs for
+previously restructured facilities.   
+During the third quarter of fiscal 2005, Ciena recorded a restructuring charge of
+approximately $23million related to a workforce reduction of 96 employees and recorded a
+charge of approximately $01million related to the closure of one of its Kanata, Canada
+facilities. This restructuring charge also reflects approximately $19million related to an
+adjustment to estimates associated with costs for previously restructured facilities.   
+During the fourth quarter of fiscal 2005, Ciena recorded a restructuring charge of
+approximately $04million related to a workforce reduction of 7 employees and recorded a
+charge of approximately $04million related to the closure of Cienas Durham, NC
+facilities. This restructuring charge also reflects approximately $20million related to an
+adjustment to estimates associated with costs for previously restructured facilities.   c
+During the first quarter of fiscal 2006, Ciena recorded a charge of $07million
+related to the closure of one of its facilities located in Kanata, Canada and a charge of
+$15million related to a workforce reduction of 62 employees. During the first quarter of
+fiscal 2006, Ciena recorded a credit adjustment of $02million related to costs associated
+with previously restructured facilities. During the first quarter of fiscal 2006, Ciena
+recorded a gain of $60million related to the buy-out of the lease of its former Fremont,
+CA facility, which Ciena had previously restructured.   
+During the second quarter of fiscal 2006, Ciena recorded a charge of $07million related to
+the closure of its Shrewsbury, NJ facility and a charge of $25million related to a
+workforce reduction of 86 employees. During the second quarter of fiscal 2006, Ciena
+recorded a credit adjustment of $02million related to costs associated with previously
+restructured facilities. During the second quarter of fiscal 2006, Ciena recorded a gain of
+$56million related to the buy-out of the lease of its former Cupertino, CA facility, which
+Ciena had previously restructured.   
+During the third quarter of fiscal 2006, Ciena recorded a charge of $05million related to
+a workforce reduction of 7 employees and additional employee costs related to the closure of
+its Shrewsbury, NJ facility in the second quarter of fiscal 2006. During the third quarter
+of fiscal 2006, primarily due to changes in market conditions, Ciena recorded an adjustment
+of $101million related to costs associated with previously restructured facilities, $100
+million of which was related to its former facilities located in San Jose, CA. Ciena also
+recorded a charge of $04million related to the closure of its facility located in Beijing,
+China during the third quarter of fiscal 2006.   
+During the fourth quarter of fiscal 2006, Ciena recorded a charge of $01million related to
+other costs associated with a previous workforce reduction and a credit of $05million
+related to the settlement of a previously recorded facility liability. 4GOODWILL AND LONG-LIVED ASSET IMPAIRMENTS Goodwill Impairment SFAS 142 Goodwill and Other Intangible Assets, requires Ciena to test each reporting units
+goodwill for impairment on an annual basis, which Ciena has determined to be the last business day
+of fiscal September each year. Testing is required between annual tests if events occur or
+circumstances change that would, more likely than not, reduce the fair value of the reporting unit
+below its carrying value. For fiscal 2006, fiscal 2005 and fiscal 2004, Ciena has determined that
+its operating segments and reporting units are the same. Due to the elimination of Cienas former
+business units in the third quarter of fiscal 2006, the fair value of Cienas goodwill was tested
+for impairment on an enterprise level for fiscal 2006. For fiscal 2005 and fiscal 2004, the fair
+value of Cienas goodwill was tested for impairment on a segment level. The table below sets forth
+changes in carrying amount of goodwill during fiscal 2004, fiscal 2005 and fiscal 2006 in
+thousands   
+Total
+Balance as of October31, 2003
+$
+336,039
+Goodwill acquired
+446,815
+Purchase adjustments
+2,527
+Impairment losses
+371,712
+Balance as October31, 2004
+408,615
+Goodwill acquired
+Impairment losses
+176,600
+Balance as October31, 2005
+232,015
+Goodwill acquired
+Impairment losses
+Balance as October31, 2006
+$
+232,015
+Goodwill Assessment Fiscal 2006 During fiscal 2006, Ciena performed an assessment of the fair value of Cienas single
+reporting unit and its intangible assets as of September23, 2006. Ciena compared its fair value to
+its carrying value including goodwill and determined that
+its carrying value, including goodwill, did not exceed fair value. Because the carrying
+amount, including goodwill, was less than its fair value, no impairment loss was recorded for
+fiscal 2006. During fiscal 2006, the fair value of Ciena was determined using the average market
+price of Cienas common stock over a 10-day period before and after September23 57 2006, with a
+control premium added to the valuation results. Goodwill Assessment Fiscal 2005 During the fourth quarter of fiscal 2005, Ciena performed its annual test to determine and
+measure goodwill impairment on a reporting unit basis. Management performed an assessment of the
+fair value of Cienas reporting units and their intangible assets as of September24, 2005. Ciena
+compared the fair value of each of its reporting units at that time to each reporting units
+carrying value including goodwill. During the fourth quarter of fiscal 2005 and in conjunction with
+Cienas annual assessment, it became apparent that developments in the market for broadband loop
+carrier products, particularly outside of the United States, would require Ciena to make a
+substantial commitment of research and development resources in order to compete successfully in
+this market with Cienas CN 1000 Next-Generation Broadband Access platform. Given the
+uncertainties associated with this international market and the magnitude of the investment
+required, Ciena determined it would not be cost-effective to make such investment and suspended
+research and development for this product. This decision significantly reduced Cienas forecasted
+long-term revenue for its former BBG reporting unit. As a result, the carrying value of BBG,
+including goodwill, exceeded the fair value of BBG as of September24, 2005. The fair value of the
+BBG reporting unit was determined using the average of the valuations calculated using market
+multiples and discounted cash flows. Because of the forecasted decline in long-term revenue for
+BBG, no control premium was added to the valuation results for the BBG reporting unit. Because BBGs carrying value, including goodwill, exceeded the fair value of the reporting
+unit as a whole, Ciena assessed the fair value of BBGs individual assets, including identified
+intangible assets and liabilities, in order to derive an implied fair value for BBGs goodwill.
+Ciena determined the estimated fair value of the identifiable intangible assets of the unit using
+discounted cash flows. Ciena used cash flow periods ranging from one to ten years, depending on the
+nature of the asset, and assumed that revenue for the BBG reporting unit would decline to zero over
+ten years. Ciena used discount rates of 10% to 14%, based on the specific risks and circumstances
+associated with the identified intangible assets and Cienas weighted average cost of capital. The
+assumptions supporting the estimated discounted cash flows for identified intangible assets,
+including the cash flow periods, discount rates and forecasted future revenue, reflect managements
+estimates. Ciena determined that the implied fair value of goodwill assigned to BBG was zero.
+Because the carrying amount of the goodwill assigned to BBG was greater than the implied fair
+value, Ciena recorded an impairment loss of $1766million in fiscal 2005. Goodwill Assessment Fiscal 2004 During fiscal 2004, Ciena performed its annual test to determine and measure goodwill
+impairment on a reporting unit basis. Management performed an assessment of the fair value of
+Cienas reporting units and their intangible assets as of September27, 2004. Ciena compared the
+fair value of each of its reporting units at that time to each reporting units carrying value
+including goodwill and determined that the carrying value, including goodwill, of the Core
+Networking Group CNG, Metro and Enterprise Solutions Group MESG, and BBG exceeded their
+respective fair values as of September27, 2004. This decline in the fair value of CNG, MESG and
+BBG was primarily due to the decline in the forecasted demand for Cienas products, along with the
+reduction in valuations of comparable businesses. The fair value of CNG, MESG and BBG was
+determined using the average of the outcomes from the following valuation methods: market
+multiples; comparable transactions; and discounted cash flows. A control premium of 15% to 20% was
+added to the valuation results for each reporting unit. Because the carrying value, including goodwill, for CNG, MESG and BBG, exceeded the fair value
+of each reporting unit as a whole, Ciena assessed the fair value of each reporting units
+respective individual assets, including identified intangible assets and liabilities, in order to
+derive an implied fair value for each reporting units goodwill. Ciena determined the estimated
+fair value of the identifiable intangible assets of each of the reporting units using discounted
+cash flows. Ciena used cash flow periods ranging from one to seven years, depending on the nature
+of the asset, applying annual growth rates of 5% to 118%. Ciena used discount rates of 10% to 30%
+based of the specific risks and circumstances associated with the identified intangible assets and
+Cienas weighted average cost of capital. The assumptions supporting the estimated cash flows for
+identified intangible assets and other non-goodwill assets and liabilities, including the discount
+rate, reflects managements estimates. Because the carrying amount of the goodwill assigned to CNG,
+MESG and BBG was greater than the implied fair values, an impairment loss of $933million, $1290
+million and $1494million for CNG, MESG, and
+BBG, respectively, was recognized in fiscal 2004. Long-Lived Asset Impairment Equipment, Furniture and Fixtures 58 Ciena did not record an impairment of equipment, furniture and fixtures in fiscal 2006. During
+fiscal 2005 and fiscal 2004, Ciena recorded impairment losses of $02million and $159million,
+respectively, related to excess equipment, furniture and fixtures that were classified as held for
+sale as a result of Cienas restructuring activities. Long-Lived Asset Impairment Other Intangible Assets During fiscal 2006, fiscal 2005, and fiscal 2004, Ciena performed an assessment of the
+carrying value of Cienas other intangible assets pursuant to SFAS 144. Ciena did not record an impairment of intangible assets in fiscal 2006 or fiscal 2004. During
+fiscal 2005, Ciena recorded a charge of $457million related to the impairment of BBG developed
+technology and customer relationships acquired from Catena in May2004. This charge was based on
+the amount by which the carrying amount of the intangible assets exceeded their fair value. Fair
+value was determined based on discounted future cash flows derived from the intangible assets.
+Ciena used a cash flow period of five years and assumed that revenue related to these intangible
+assets would decline to zero over five years. The discount rate used was 15%. The assumptions
+supporting the estimated future cash flows, including the discount rate reflect managements best
+estimates. The discount rate was based upon Cienas weighted average cost of capital as adjusted
+for the risks associated with its operations. 5MARKETABLE DEBT AND EQUITY SECURITIES Short-term and long-term investments are comprised of the following in thousands   
+October 31, 2006
+Gross Unrealized
+Gross Unrealized
+Estimated
+Amortized Cost
+Gains
+Losses
+Fair Value
+Corporate bonds
+$
+468,152
+$
+437
+$
+525
+$
+468,064
+Asset backed obligations
+195,728
+142
+305
+195,565
+Commercial paper
+152,768
+152,768
+US government obligations
+163,643
+84
+324
+163,403
+$
+980,291
+$
+663
+$
+1,154
+$
+979,800
+Included in short-term investments
+629,269
+66
+942
+628,393
+Included in long-term investments
+351,022
+597
+212
+351,407
+$
+980,291
+$
+663
+$
+1,154
+$
+979,800
+October 31, 2005
+Gross Unrealized
+Gross Unrealized
+Estimated
+Amortized Cost
+Gains
+Losses
+Fair Value
+Corporate bonds
+$
+291,044
+$
+$
+1,888
+$
+289,156
+Asset backed obligations
+195,471
+844
+194,627
+US government obligations
+253,633
+1,941
+251,692
+$
+740,148
+$
+$
+4,673
+$
+735,475
+Included in short-term investments
+582,947
+3,416
+579,531
+Included in long-term investments
+157,201
+1,257
+155,944
+$
+740,148
+$
+$
+4,673
+$
+735,475
+The
+gross unrealized losses, related to marketable debt investments, were
+primarily due to changes in interest rates. Cienas management
+has determined that the gross unrealized losses on its marketable
+debt investments at October31, 2006 are temporary in nature
+because Ciena has the ability and intent to hold these investments
+until a recovery of fair value, which may be maturity. The gross unrealized losses were as follows at October31, 2005 and October31, 2006 in
+thousands 59   
+October 31, 2006
+Unrealized Losses Less
+Unrealized Losses 12
+Than 12 Months
+Months or Greater
+Total
+Gross
+Gross
+Gross
+Unrealized
+Unrealized
+Unrealized
+Losses
+Fair Value
+Losses
+Fair Value
+Losses
+Fair Value
+Corporate bonds
+$
+400
+$
+196,947
+$
+125
+$
+26,687
+$
+525
+$
+223,634
+Asset backed
+obligations
+153
+92,869
+152
+34,828
+305
+127,697
+Commercial paper
+US government
+obligations
+112
+38,692
+212
+40,839
+324
+79,531
+$
+665
+$
+328,508
+$
+489
+$
+102,354
+$
+1,154
+$
+430,862
+October 31, 2005
+Unrealized Losses Less
+Unrealized Losses 12
+Than 12 Months
+Months or Greater
+Total
+Gross
+Gross
+Gross
+Unrealized
+Unrealized
+Unrealized
+Losses
+Fair Value
+Losses
+Fair Value
+Losses
+Fair Value
+Corporate bonds
+$
+1,335
+$
+197,754
+$
+553
+$
+91,402
+$
+1,888
+$
+289,156
+Asset backed
+obligations
+655
+160,495
+189
+34,132
+844
+194,627
+US government
+obligations
+1,027
+146,783
+914
+104,909
+1,941
+251,692
+$
+3,017
+$
+505,032
+$
+1,656
+$
+230,443
+$
+4,673
+$
+735,475
+The following table summarizes maturities of debt investments at October31, 2006 in
+thousands   
+Amortized
+Estimated Fair
+Cost
+Value
+Less than one year
+$
+629,269
+$
+628,393
+Due in 1-2years
+351,022
+351,407
+Due in 2-5years
+$
+980,291
+$
+979,800
+6ACCOUNTS RECEIVABLE As of October31, 2006, the trade accounts receivable, net of allowance for doubtful
+accounts, included two customers that accounted for 254% and 218% of the net trade accounts
+receivable, respectively. As of October31, 2005, the trade accounts receivable, net of allowance
+for doubtful accounts, included three customers that accounted for 121%, 131% and 138% of the
+net trade accounts receivable, respectively. Cienas allowance for doubtful accounts as of October
+31, 2006 and October31, 2005 was $01million and $33million, respectively. During fiscal 2006, Ciena recorded the recovery of doubtful accounts in the amount of $30
+million as a result of the receipt of amounts due from customers from whom payment was previously
+deemed doubtful due to the customers financial condition. In addition, during fiscal 2006, $01
+million of uncollectible accounts were written off against the allowance. During fiscal 2005, Ciena recorded a provision for doubtful accounts of $26million relating
+to one customer from which payment was doubtful due to a change in their financial condition. During fiscal 2004, Ciena recovered $31million from a customer, from whom payment was
+previously deemed 60 doubtful due to the customers financial condition. Ciena also recorded a
+provision for doubtful accounts of $03million during fiscal 2004 relating to one customer. The following table summarizes the activity in Cienas allowance for doubtful accounts in
+thousands   
+Year ended
+Balance at beginning
+Provisions
+Balance at end   
+October 31,
+of period
+Recovery
+Deductions
+of period   
+2004
+$
+1,498
+$
+284
+$
+821
+$
+961
+2005
+$
+961
+$
+2,602
+$
+272
+$
+3,291
+2006
+$
+3,291
+$
+3,031
+$
+114
+$
+146
+7INVENTORIES Inventories are comprised of the following in thousands   
+October 31,
+2005
+2006
+Raw materials
+$
+21,177
+$
+29,627
+Work-in-process
+3,136
+9,156
+Finished goods
+47,615
+89,628
+71,928
+128,411
+Provision for excess and obsolescence
+22,595
+22,326
+$
+49,333
+$
+106,085
+Ciena writes down its inventory for estimated obsolescence or unmarketable inventory equal to
+the difference between the cost of inventory and the estimated market value based on assumptions
+about future demand and market conditions. During fiscal 2006, fiscal 2005 and fiscal 2004, Ciena
+recorded a provision for inventory reserves of $90million, $52million and $42million,
+respectively, primarily related to increases in excess inventory due to changes in forecasted
+sales for certain products. The following table summarizes the activity in Cienas reserve for excess and obsolete
+inventory in thousands   
+Balance at
+Year ended
+beginning of
+Balance at   
+October 31,
+period
+Provisions
+Deductions
+end of period   
+2004
+$
+23,093
+$
+4,172
+$
+5,332
+$
+21,933
+2005
+$
+21,933
+$
+5,232
+$
+4,570
+$
+22,595
+2006
+$
+22,595
+$
+9,012
+$
+9,281
+$
+22,326
+8PREPAID EXPENSES AND OTHER Prepaid expenses and other are comprised of the following in thousands   
+October 31,
+2005
+2006
+Interest receivable
+$
+7,743
+$
+8,547
+Prepaid VAT and other taxes
+4,848
+9,467
+Prepaid expenses
+9,103
+8,445
+Restricted cash
+10,376
+6,990
+Other non-trade receivables
+5,797
+2,923
+$
+37,867
+$
+36,372
+61 9EQUIPMENT, FURNITURE AND FIXTURES Equipment, furniture and fixtures are comprised of the following in thousands   
+October 31,
+2005
+2006
+Equipment, furniture and fixtures
+$
+249,282
+$
+253,953
+Leasehold improvements
+33,266
+36,203
+282,548
+290,156
+Accumulated depreciation and amortization
+254,458
+260,729
+$
+28,090
+$
+29,427
+During fiscal 2005 and fiscal 2004, Ciena recorded impairment losses of $02million and $159
+million, respectively, for equipment, furniture and fixtures as a result of its restructuring
+activities. During fiscal 2004, Ciena also recorded $225million in accelerated amortization
+expense of leasehold improvements related to the closure of its San Jose, CA facility. This expense
+is included in the research and development expense for fiscal 2004. 10OTHER INTANGIBLE ASSETS Other intangible assets are comprised of the following in thousands   
+October 31,
+2005
+2006
+Gross
+Accumulated
+Net
+Gross
+Accumulated
+Net
+Intangible
+Amortization
+Intangible
+Intangible
+Amortization
+Intangible
+Developed technology
+$
+139,983
+$
+70,502
+$
+69,481
+$
+139,983
+$
+87,577
+$
+52,406
+Patents and licenses
+47,370
+19,219
+28,151
+47,370
+25,463
+21,907
+Customer
+relationships,
+covenants not to
+compete,
+outstanding
+purchase orders and
+contracts
+45,981
+23,289
+22,692
+45,981
+29,020
+16,961
+$
+233,334
+$
+120,324
+$
+233,334
+$
+91,274
+During fiscal 2005, Ciena recorded an impairment of $377million against developed technology
+and an impairment of $80million against customer relationships. For additional information see
+Note 4. The aggregate amortization expense of other intangible assets was $291million, $427million
+and $347million for fiscal 2006, fiscal 2005 and fiscal 2004, respectively. Expected future
+amortization of other intangible assets is as follows in thousands   
+Year ended October 31,
+2007
+$
+29,050
+2008
+27,840
+2009
+19,254
+2010
+14,500
+2011
+630
+$
+91,274
+11OTHER BALANCE SHEET DETAILS 62 Other long-term assets in thousands   
+October 31,
+2005
+2006
+Maintenance spares inventory, net
+$
+12,513
+$
+14,724
+Deferred debt issuance costs
+6,406
+10,306
+Investments in privately held companies
+7,223
+6,489
+Restricted cash
+4,393
+3,227
+Other
+10,792
+2,658
+$
+41,327
+$
+37,404
+Deferred debt issuance costs are amortized using the straight line method which approximates
+the effect of the effective interest rate method on the maturity of
+the related debt. Amortization of debt issuance costs, which is included in interest expense, was
+$31million, $30million and $30million for fiscal 2006, fiscal 2005 and fiscal 2004,
+respectively. Accrued liabilities in thousands   
+October 31,
+2005
+2006
+Warranty
+$
+27,044
+$
+31,751
+Accrued compensation, payroll related tax and benefits
+26,164
+24,102
+Accrued interest payable
+6,082
+5,502
+Other
+17,201
+17,927
+$
+76,491
+$
+79,282
+The following table summarizes the activity in Cienas accrued warranty and other contractual
+obligations in thousands   
+Year ended
+Balance at beginning
+Balance at end   
+October 31,
+of period
+Provisions
+Acquired
+Settlements
+of period   
+2004
+$
+37,380
+$
+8,351
+$
+1,000
+$
+16,542
+$
+30,189
+2005
+$
+30,189
+$
+9,738
+$
+$
+12,883
+$
+27,044
+2006
+$
+27,044
+$
+14,522
+$
+$
+9,815
+$
+31,751
+Deferred revenue in thousands   
+October 31,
+2005
+2006
+Products
+$
+14,534
+$
+4,276
+Services
+28,984
+36,400
+43,518
+40,676
+Less current portion
+27,817
+19,637
+Long-term deferred revenue
+$
+15,701
+$
+21,039
+12CONVERTIBLE NOTES PAYABLE Ciena 375% Convertible Notes, due February1, 2008 On February9, 2001, Ciena completed a public offering of 375% Convertible Notes, due
+February1, 2008, in an aggregate principal amount of $6900million. Interest is payable on
+February 1st and August 1st of each year. The notes may be converted into
+shares of Cienas common stock at any time before their maturity or their prior redemption or
+repurchase by Ciena. The conversion rate is 13687 shares per each $1,000 principal amount of
+notes, subject to adjustment in certain circumstances. Ciena has the option to redeem all or a
+portion of the notes that have not been previously converted at the following redemption prices
+expressed as percentage of principle amount 63   
+Redemption   Period
+Price   Beginning on February1, 2006 and ending on January31, 2007
+101071
+Beginning on February1, 2007 and ending on January31, 2008
+100536
+During fiscal 2006, Ciena repurchased $1065million of the outstanding 375% convertible
+notes for $984million in open market transactions. Ciena recorded a gain on the extinguishment of
+debt in the amount of $71million, which consists of the $81million gain from the repurchase of
+the notes, less a write-off of $10million of associated debt issuance costs. During fiscal 2005, Ciena repurchased $412million of the outstanding 375% convertible notes
+for $369million in open market transactions. Ciena recorded a gain on the extinguishment of debt
+in the amount of $39million, which consists of the $43million gain from the repurchase of the
+notes, less a write-off of $04million of associated debt issuance costs. At October27, 2006, the fair value of the outstanding $5423million in aggregate principal
+amount of 375% convertible notes was $5253million. At October28, 2005, the fair value of the
+outstanding $6488million in aggregate principal amount of 375% convertible notes was $5879
+million. Fair value is based on the quoted market price for the notes on the dates above. 025% Convertible Senior Notes due May1, 2013 On April10, 2006, Ciena completed a public offering of 025% Convertible Senior Notes due May
+1, 2013, in aggregate principal amount of $3000million. The notes bear interest at the annual
+rate of 025% from April10, 2006, payable semi-annually on May 1 and November1, commencing on
+November1, 2006. The notes are senior unsecured obligations of Ciena and rank equally with all of
+Cienas other existing and future senior unsecured debt. At the election of the holder, the notes may be converted prior to maturity into shares of
+Ciena common stock at the initial conversion rate of 253001 shares per $1,000 in principal amount,
+which is equivalent to an initial conversion price of $395255 per share. The notes may not be
+redeemed by Ciena prior to May5, 2009. At any time on or after May5, 2009, if the closing sale
+price of Cienas common stock for at least 20 trading days in any 30 consecutive trading day period
+ending on the date one day prior to the date of the notice of redemption exceeds 130% of the
+conversion price, Ciena may redeem the notes in whole or in part, at a redemption price in cash
+equal to the principal amount to be redeemed, plus accrued and unpaid interest. If Ciena undergoes a fundamental change as that term is defined in the indenture, holders
+of notes will have the right, subject to certain exemptions, to require Ciena to purchase for cash
+any or all of their notes at a price equal to the principal amount, plus accrued and unpaid
+interest. If the holder elects to convert his or her notes in connection with a specified
+fundamental change, in certain circumstances, Ciena will be required to increase the applicable
+conversion rate, depending on the price paid per share for Ciena common stock and the effective
+date of the fundamental change transaction. As of October27, 2006, the fair value of the $3000million in aggregate principal amount of
+025% convertible senior notes outstanding was $2513million, based on the quoted market price for
+the notes. ONI 50% Convertible Subordinated Notes During fiscal 2004, Ciena purchased the remaining $482million of the outstanding ONI 50%
+convertible subordinated notes. Ciena paid $492million for the notes with a cumulative accreted
+book value of $410million, which resulted in a loss on early extinguishment of debt of $82
+million. 13EARNING LOSSPER SHARE CALCULATION The following table in thousands except per share amounts is a reconciliation of the
+numerator and denominator of the basic net income lossper common share Basic EPS and the
+diluted net income lossper dilutive potential common share Diluted EPS. Basic EPS is
+computed using the weighted average number of common shares outstanding. Diluted EPS is computed
+using the weighted average number of icommon shares outstanding, iishares issuable upon
+vesting of restricted stock units; and iiishares issuable upon exercise of outstanding stock
+options and warrants using the treasury stock method. 64   
+Numerator
+Year Ended October 31,
+2004
+2005
+2006
+Net income loss
+$
+789,464
+$
+435,699
+$
+595
+Add: Interest expense
+associated with convertible
+notes excluding anti-dilutive
+expense per SFAS 128
+Net income lossused to
+calculate Diluted EPS
+$
+789,464
+$
+435,699
+$
+595
+Denominator
+Year Ended October 31,
+2004
+2005
+2006
+Basic weighted average shares issued
+and outstanding
+74,493
+82,170
+83,840
+Add: Shares issuable under stock
+options, employees stock purchase
+plans, warrants and restricted stock
+units
+1,171
+Dilutive weighted average shares
+issued and outstanding
+74,493
+82,170
+85,011
+EPS
+Year Ended October 31,
+2004
+2005
+2006
+Basic EPS
+$
+1060
+$
+530
+$
+001
+Diluted EPS
+$
+1060
+$
+530
+$
+001
+Explanation of Shares Excluded due to Anti-Dilutive Effect For fiscal 2004 and fiscal 2005 respectively, approximately 79million and 93million
+shares, representing the weighted average number of shares underlying stock options, restricted
+stock units, warrants and Cienas 375% convertible notes, are considered anti-dilutive because
+Ciena incurred net losses during these periods. For fiscal 2006, approximately 42million shares, representing the weighted average number of
+shares underlying stock options, restricted stock units and warrants, are considered anti-dilutive
+because the exercise price of these equity awards is greater than the average per share closing
+price on the NASDAQ Stock Market during this period. In addition, approximately 42million and 08
+million shares, representing the weighted average number of shares issuable upon conversion of
+Cienas 025% convertible senior notes and 375% convertible notes, respectively, are considered
+anti-dilutive pursuant to SFAS 128 because the interest expense net of tax and nondiscretionary
+adjustments associated with each of the convertible notes above, on a per common share if
+converted basis, exceeds Basic EPS for the period. The following table in thousands except per
+share amounts summarizes the shares excluded, due
+to their anti-dilutive
+effect, from the calculation of the denominator for Basic and Diluted EPS above   
+Shares excluded from EPS
+Denominator due to anti-dilutive effect
+Year Ended October 31   
+2004
+2005
+2006   Shares underlying stock options,
+restricted stock units and warrants
+6,975
+8,374
+4,178
+025% Convertible senior notes
+4,203
+375% Convertible notes
+944
+928
+756
+Total excluded due to anti-dilutive
+effect
+7,919
+9,302
+9,137
+65 14STOCKHOLDERS EQUITY Shareholder Rights Plan In December1997, Cienas Board of Directors adopted a shareholder rights plan. This plan is
+designed to deter any potential coercive or unfair takeover tactics in the event of an unsolicited
+takeover attempt. It is not intended to prevent a takeover of Ciena on terms that are favorable and
+fair to all shareholders and will not interfere with a merger approved by the Board of Directors.
+Each right entitles shareholders to buy a unit equal to one one-thousandth of a share of
+preferred stock of Ciena. The rights will be exercisable only if a person or a group acquires or
+announces a tender or exchange offer to acquire 15% or more of Cienas common stock or if Ciena
+enters into certain other business combination transactions not approved by the Board of Directors.
+In June2005, Ciena amended its rights plan to raise the ownership trigger to 20% for FMR Corp.,
+one of Cienas institutional investors, and certain of its affiliated entities. In the event the rights become exercisable, the rights plan allows for Ciena shareholders to
+acquire stock of the surviving corporation, whether or not Ciena is the surviving corporation,
+having a value twice that of the exercise price of the rights. The rights were distributed to
+shareholders of record in January1998. Pursuant to the terms of Cienas rights plan, the number of
+rights attached to each share of common stock was proportionately increased to reflect the reverse
+stock split on September22, 2006 described below. The rights will expire on December29, 2007 and
+are redeemable for $0001 per right at the approval of Cienas Board of Directors. Call Spread Option Concurrent with Cienas April10, 2006 issuance of 025% Convertible Senior Notes due May1,
+2013, Ciena purchased a call spread option on its common stock from an affiliate of the
+underwriter. The call spread option is designed to mitigate dilution from the conversion of the
+notes to the extent that the market price per share of Ciena common stock upon exercise is greater
+than the conversion price, subject to a cap. The call spread option covers approximately 76million shares of Ciena common stock, which is
+the number of shares issuable upon conversion of the notes in full. The call spread option
+effectively has a lower strike price of $395255 and a higher strike price of $4554025 and is
+exercisable and expires on May1, 2013, the maturity date of the notes. Ciena can exercise the call
+spread option on a net cash basis, a net share basis or a full physical settlement. A net cash
+settlement would result in Ciena receiving an amount ranging from $0, if the market price per share
+of Ciena common stock upon exercise is equal to or below the lower strike price, to approximately
+$457million, if the market price per share of Ciena common stock upon exercise is at or above the
+higher strike price. Settlement of the call spread option on a net share basis would result in
+Ciena receiving a number of shares ranging from 0, if the market price per share of Ciena common
+stock upon exercise is equal to or below the lower strike price, up to approximately 10million
+shares, if the market price per share of Ciena common stock upon exercise is equal to the higher
+strike price. The value of the consideration of a net share settlement will be equal to the value
+upon a net cash settlement. If the market price is between the lower strike price and the higher
+strike price, in lieu of a net share or net cash settlement, Ciena may elect to receive the full
+number of shares underlying the call spread option upon payment by Ciena of an aggregate option
+exercise price of $3000million. Should there be an early unwind of the call spread option, the
+amount of cash or net shares to be received by Ciena will be dependent upon the existing overall
+market conditions, and on Cienas stock price, the volatility of Cienas stock and the remaining
+term of the call spread option. The number of shares subject to the call spread option and the lower price and higher strike
+prices are subject to customary adjustments. The $285million cost of the call spread option was
+recorded as a reduction in additional paid in capital. Reverse Stock Split At Cienas annual meeting on March15, 2006, shareholders approved a proposal to authorize the
+Board of Directors, in its discretion, to effect a reverse stock split at one of three approved
+ratios, at any time prior to the 2007 annual meeting, without further action by shareholders. On
+August30, 2006, Cienas Board approved a one-for-seven 1-for-7 reverse stock split of Cienas
+common stock. The reverse stock split became effective at 5:00 p.m., Eastern Time, on September22,
+2006. Pursuant to the reverse stock split, each seven shares of authorized and outstanding common
+stock was reclassified and combined into one share of new common stock. In connection with the reverse stock split, the number of shares of common stock authorized
+under Cienas Third 66 Restated Certificate of Incorporation was reduced from 980million to 140
+million shares, without any change in par value per common share. The reverse split did not change
+the number of shares of Ciena preferred stock authorized, which remains at 20million. All
+references to share and per-share data for all periods presented have been adjusted to give effect
+to the one-for-seven 1-for-7 reverse stock split. 15INCOME TAXES The provision for income taxes consists of the following in
+thousands   
+October 31,
+2004
+2005
+2006
+Provision for income
+taxes:
+Current:
+Federal
+$
+$
+$
+State
+23
+Foreign
+1,121
+1,320
+1,358
+Total current
+1,121
+1,320
+1,381
+Deferred:
+Federal
+State
+Foreign
+Total deferred
+Provision for income taxes
+$
+1,121
+$
+1,320
+$
+1,381
+Income loss before provision for income taxes consists of the following in thousands   
+October 31   
+2004
+2005
+2006   United States
+$
+792,059
+$
+438,956
+$
+2,549
+International
+3,716
+4,577
+4,525
+Total
+$
+788,343
+$
+434,379
+$
+1,976
+The tax provision reconciles to the amount computed by multiplying income or loss before
+income taxes by the U.S. federal statutory rate of 35% as follows   
+October 31   
+2004
+2005
+2006   Provision at statutory rate
+3500
+%
+3500
+%
+3500
+State taxes
+114
+Foreign taxes
+002
+%
+006
+%
+1404
+Non-deductible purchased research and development
+134
+%
+Research and development credit
+057
+%
+065
+%
+5594
+Non-deductible goodwill and other
+1650
+%
+1504
+%
+1615
+Valuation allowance
+1789
+%
+2097
+%
+5948
+014
+%
+030
+%
+6987
+The significant components of deferred tax assets and liabilities were as follows in
+thousands   
+October 31,
+2005
+2006
+Deferred tax assets:
+Reserves and accrued liabilities
+$
+68,041
+$
+50,088
+Depreciation and amortization
+110,312
+118,122
+NOL and credit carry forward
+983,818
+994,906
+Other
+11,095
+26,406
+Gross deferred tax assets
+1,173,266
+1,189,522
+Valuation allowance
+1,173,266
+1,189,522
+Net deferred tax asset
+$
+$
+67 During fiscal 2002, Ciena established a valuation allowance against its deferred tax assets.
+Ciena intends to maintain a valuation allowance until sufficient positive evidence exists to
+support its reversal. The following table summarizes the activity in Cienas valuation allowance against its gross deferred tax assets in
+thousands   
+Year ended
+Balance at beginning
+Balance at end   October 31,
+of period
+Additions
+Deductions
+of period   
+2004
+$
+894,198
+$
+183,708
+$
+$
+1,077,906
+2005
+$
+1,077,906
+$
+95,360
+$
+$
+1,173,266
+2006
+$
+1,173,266
+$
+16,256
+$
+$
+1,189,522
+As of October31, 2006, Ciena had a $249billion net operating loss carry forward and an
+$824million income tax credit carry forward which begin to expire in fiscal year 2018 and 2012,
+respectively. Cienas ability to use net operating losses and credit carry forwards may be subject
+to limitations pursuant to the ownership change rules of the Internal Revenue Code Section382. The income tax provision does not reflect the tax savings resulting from deductions associated
+with Cienas equity compensation and convertible debt. The tax benefit of approximately $563
+million will be credited to additional paid-in capital when realized. Approximately $1280million of the valuation allowance as of October31, 2006 was
+attributable to deferred tax assets associated with the acquisitions of ONI, WaveSmith, Akara,
+Catena and IPI that, when realized, will first reduce goodwill, then other non-current intangibles
+of the acquired companies, and then income tax expense. As of October
+31, 2006, it is anticipated the realization of any valuation
+allowance associated with acquisitions would only reduce goodwill. 16SHARE-BASED COMPENSATION EXPENSE During fiscal 2005, the Board of Directors determined that all future grants of stock options,
+restricted stock units, or other forms of equity-based compensation will solely be issued under the
+Ciena Corporation 2000 Equity Incentive Plan the 2000 Plan and the 2003 Employee Stock Purchase
+Plan the ESPP. Ciena Corporation 2000 Equity Incentive Plan The 2000 Plan, which is a shareholder approved plan, was assumed by Ciena as a result of its
+merger with ONI. It authorizes the issuance of stock options, restricted stock, restricted stock
+units and stock bonuses to employees, officers, directors, consultants, independent contractors and
+advisors. The Compensation Committee of the Board of Directors has broad discretion to establish
+the terms and conditions for equity awards, including number of shares, vesting and required
+service or other performance criteria. The maximum term of any award under the 2000 Plan is ten
+years. The exercise price of options may not be less than 85% of the fair market value of the stock
+at the date of grant, or 100% of the fair market value for qualified options. Under the terms of the 2000 Plan, the number of shares authorized for issuance will increase
+by 50% of the number of issued and outstanding shares of Ciena each January 1st, unless
+the Compensation Committee reduces the amount of the increase in any year. By action of the
+Compensation Committee, the plan increased by izero shares on January1, 2006, iizero shares
+on January1, 2005, and iii95million shares, or 20% of the then issued and outstanding shares
+of Ciena,
+on January1, 2004. In addition, any shares subject to outstanding options or other awards
+under the ONI 1997 Stock Plan, ONI 1998 Equity Incentive Plan, or ONI 1999 Equity Incentive Plan
+that are forfeited upon cancellation of the award are available for issuance under the 2000 Plan.
+As of October31, 2006, there were 56million shares authorized and available for issuance under
+the 2000 Plan. Stock Options The following table is a summary of Cienas stock option activity shares in thousands 68   
+Weighted   
+Options
+Average   
+Outstanding
+Exercise Price   Balance as of October31, 2003
+7,004
+$
+7070
+Granted and assumed
+5,317
+2317
+Exercised
+786
+1197
+Canceled
+2,456
+6965
+Balance as of October31, 2004
+9,079
+4823
+Granted
+2,041
+1778
+Exercised
+599
+1575
+Canceled
+1,871
+4515
+Balance as of October31, 2005
+8,650
+4480
+Granted
+579
+2195
+Exercised
+1,304
+1671
+Canceled
+815
+4118
+Balance as of October31, 2006
+7,110
+$
+4852
+The total intrinsic value of options exercised during fiscal 2006 was $182million. The following table summarizes information with respect to stock options outstanding at
+October31, 2006, based on Cienas closing stock price on October27, 2006 of $2359 per share
+shares and intrinsic value in thousands   
+Options Outstanding at October 31, 2006
+Vested Options at October 31, 2006
+Weighted
+Weighted
+Average
+Average
+Remaining
+Weighted
+Remaining
+Weighted
+Range of
+Contractual
+Average
+Aggregate
+Contractual
+Average
+Aggregate
+Exercise
+Life
+Exercise
+Intrinsic
+Life
+Exercise
+Intrinsic
+Price
+Number
+Years
+Price
+Value
+Number
+Years
+Price
+Value
+$
+001
+$
+1652
+947
+820
+$
+1434
+$
+8,756
+342
+731
+$
+1161
+$
+4,099
+$
+1653
+$
+1743
+873
+852
+1719
+5,593
+282
+823
+1708
+1,838
+$
+1744
+$
+2296
+1,038
+776
+2144
+2,234
+864
+767
+2174
+1,600
+$
+2297
+$
+3136
+637
+763
+2755
+3
+516
+716
+2748
+3
+$
+3137
+$
+3171
+1,041
+616
+3170
+1,014
+607
+3171
+$
+3172
+$
+4697
+725
+645
+4083
+663
+616
+4137
+$
+4698
+$
+8313
+781
+543
+6035
+781
+543
+6035
+$
+8314
+$
+1,04650
+1,068
+424
+15616
+1,069
+424
+15616
+$
+001
+$
+1,04650
+7,110
+675
+$
+4852
+$
+16,586
+5,531
+618
+$
+5701
+$
+7,540
+As of October31, 2006, total unrecognized compensation expense related to unvested stock
+options was $110million. This expense is expected to be recognized over a weighted-average period
+of 19years. On October26, 2005, Cienas Board of Directors accelerated the vesting of approximately 20
+million unvested, out-of-the-money stock options previously awarded to employees, officers and
+directors under Cienas stock option plans. Certain performance-based options held by executives
+were not subject to this acceleration. For purposes of the acceleration, options with an exercise
+price greater than $1743 per share were deemed out-of-the-money. The accelerated options, which
+were considered fully vested as of October26, 2005, had exercise prices ranging from $1750 to
+$32893 per share and a weighted average exercise price of $3073 per share. Ciena did not
+accelerate the vesting of options that had an exercise price per share of $1743 or less. The
+primary purpose of the accelerated vesting was to enable Ciena to avoid recognizing future
+compensation expense associated with these out-of-the-money stock options upon adoption of SFAS
+123R for fiscal 2006. Restricted Stock Units A restricted stock unit is a right to receive a share of Ciena common stock when the unit
+vests. Ciena calculates the fair value of each restricted stock unit using the intrinsic value
+method and recognizes the expense straight-line over the requisite period. The following table is a
+summary of Cienas restricted stock unit activity, based on Cienas closing stock price as October
+27, 2006 of $2359 per share shares and intrinsic value in thousands 69 The following table is a summary of Cienas restricted stock unit activity in thousands, except per share data   
+Weighted
+Average
+Restricted
+Grant Date
+Aggregate   
+Stock Units
+Fair Value
+Intrinsic   
+Outstanding
+Per Share
+Value   Balance as of October31, 2003
+$
+$
+Granted
+25
+Converted
+Canceled or forfeited
+3
+Balance as of October31, 2004
+22
+$
+4585
+$
+373
+Granted
+Converted
+Canceled or forfeited
+4
+Balance as of October31, 2005
+18
+$
+4732
+$
+301
+Granted
+261
+Converted
+64
+Canceled or forfeited
+53
+Balance as of October31, 2006
+162
+$
+2299
+$
+3,829
+The total intrinsic value of restricted stock units converted during fiscal 2006 was $26
+million. As of October31, 2006, total unrecognized compensation expense related to restricted stock
+units was $28million. This expense is expected to be recognized over a weighted-average period of
+15years. 2003 Employee Stock Purchase Plan In March2003, Ciena shareholders approved the ESPP, which has a ten-year term and originally
+authorized the issuance of 29million shares. At the 2005 annual meeting, Ciena shareholders
+approved an amendment increasing the number of shares available to 36million and adopting an
+evergreen provision that annually increases the number of shares available by up to 06million
+shares, provided that the total number of shares available shall not exceed 36million. Pursuant
+to the evergreen provision, the maximum number of shares that may be added to the ESPP during the
+remainder of its ten-year term is 40million Under the ESPP, eligible employees may enroll in an offer period during certain open
+enrollment periods. New offer periods begin March16 and September16 of each year. Prior to the
+offer period commencing September15, 2006, ieach offer period consisted of four, six-month
+purchase periods during which employee payroll deductions were accumulated and used to purchase
+shares of common stock; and iithe purchase price of the shares was 15% less than the fair market
+value on either the first day of an offer period or the last day of a purchase period, whichever
+was lower. In addition, if the fair market value on the purchase date was less than the fair market
+value on the first day of an offer period, then participants automatically commenced a new offer
+period. On May30, 2006, the Compensation Committee amended the ESPP, effective September15, 2006, to
+shorten the offer period under the ESPP to six months. As a result of this change, the offer period
+and any purchase period will be the same six-month period. Under the amended ESPP, the applicable
+purchase price equals 95% of the fair market value of Ciena common stock on the last day of each
+purchase period. Employees enrolled with offer periods commenced prior to September15, 2006, will
+be permitted to complete the remaining purchase periods in their current offer period. These
+amendments were intended to enable the ESPP to be considered a non-compensatory plan under FAS
+123R for future offering periods. 70   
+ESPP shares available for
+Intrinisic value at   
+issuance
+exercise date   Balance as of October31, 2003
+2,644
+Issued March15, 2004
+221
+$
+1,653
+Issued September15, 2004
+171
+347
+Balance as of October31, 2004
+2,252
+Issued March15, 2005
+366
+741
+Plan Amendment
+1,685
+Issued September15, 2005
+307
+1,072
+Balance as of October31, 2005
+3,264
+Evergreen provision
+307
+Issued March15, 2006
+335
+8,662
+Issued September15, 2006
+260
+$
+4,610
+Balance as of October31, 2006
+2,976
+As of October31, 2006, unrecognized compensation expense related to the ESPP was $05
+million. This expense is expected to be recognized over a weighted-average period of 12years. Share-Based Compensation under SFAS 123R for Fiscal 2006 and APB 25 for Fiscal 2005 and Fiscal
+2004 On November1, 2005, Ciena adopted SFAS 123R, which requires the measurement and recognition
+of compensation expense, based on estimated fair values, for all share-based payments awards made
+to Cienas employees and directors including stock options, restricted stock, restricted stock unit
+awards and stock purchased under Cienas ESPP. Prior to the adoption of SFAS 123R, Ciena accounted for share-based awards to employees and
+directors using the intrinsic value method in accordance with APB 25, as interpreted by FIN 44,
+Accounting for Certain Transactions Involving Stock Compensation, an Interpretation of APB Opinion
+No25, as allowed under SFAS 123, Accounting for Stock-Based Compensation. Share-based
+compensation expense of $94million and $119million for fiscal 2005 and fiscal 2004 was solely
+related to share-based awards assumed through acquisitions and restricted stock unit awards that
+Ciena had been recognizing in its consolidated statement of operations in accordance with the
+provisions set forth above. Because the exercise price of Cienas stock options granted to
+employees and directors equaled the fair market value of the underlying stock at the grant date,
+under the intrinsic value method, no share-based compensation expense was otherwise recognized in
+Cienas consolidated statement of operations. The following table summarizes share-based compensation expense under SFAS 123R for fiscal
+2006; and share-based compensation expense under APB 25, as interpreted by FIN 44 for fiscal 2005
+and fiscal 2004, which was allocated as follows in thousands   
+Year ended October 31,
+2004
+2005
+2006
+Product costs
+$
+$
+$
+1,075
+Service costs
+810
+Stock-based compensation expense included in cost of sales
+1,885
+Research and development
+6,514
+4,404
+5,057
+Sales and marketing
+4,051
+4,404
+3,415
+General and administrative
+1,318
+633
+3,385
+Stock-based compensation expense included in operating expense
+11,883
+9,441
+11,857
+Stock-based compensation expense capitalized in inventory, net
+299
+Total stock-based compensation
+$
+11,883
+$
+9,441
+$
+14,041
+Pro Forma Share-Based Compensation under SFAS 123 for Fiscal 2005 and Fiscal 2004 Had icompensation expense for Cienas stock option plans and employee stock purchase plan
+been determined based on the Black-Scholes option-pricing model; and iithe fair value at the
+grant date for awards in fiscal 2004 and fiscal 2005 71 been determined consistent with the provisions
+of SFAS 123, Accounting for Stock Based Compensation as amended by SFAS 148, Accounting for
+Stock Based Compensation-Transition and Disclosure, Cienas net loss and net loss per share for
+the fiscal 2004 and fiscal 2005 would have changed by the pro forma amounts indicated below in
+thousands, except per share data   
+Year ended October 31,
+2004
+2005
+Net loss applicable to common stockholders as reported
+$
+789,464
+$
+435,699
+Deduct: Total stock-based employee compensation expense
+determined under fair value based method for all
+awards, net of related tax effects
+39,638
+61,623
+Add: Stock-based employee compensation expense included
+in reported net income, net of related tax effects
+11,883
+9,441
+Net loss applicable to common stockholders pro forma
+$
+817,219
+$
+487,881
+Basic and diluted net loss per share as reported
+$
+1060
+$
+530
+Basic and diluted net loss per share pro forma
+$
+1097
+$
+594
+Fair Value and Assumptions Used to Calculate Fair Value under SFAS 123R and SFAS 123 Assumptions for Option-Based Awards under SFAS 123R The fair value of each option award is estimated on the date of grant using the Black-Scholes
+option-pricing model, with the following weighted average assumptions   
+Year ended October 31   
+2004
+2005
+2006   Expected volatility
+63%-71
+%
+58%-67
+%
+615
+Risk-free interest rate
+35
+%
+365%-426
+%
+43%-51
+Expected
+life years
+45
+39-55
+55-61
+Expected dividend yield
+00
+%
+00
+%
+00
+Consistent with SFAS 123R and SAB 107, Ciena considered the implied volatility and
+historical volatility of its stock price in determining its expected volatility, and, finding both
+to be equally reliable, determined that a combination of both would result in the best estimate of
+expected volatility. The risk-free interest rate assumption is based upon observed interest rates appropriate for
+the term of Cienas employee stock options. The expected life of employee stock options represents the weighted-average period the stock
+options are expected to remain outstanding. Because Ciena considers its options to be plain
+vanilla, it calculated the expected term using the simplified method as prescribed in SAB 107.
+Under SAB 107, options are considered to be plain vanilla if they have the following basic
+characteristics: granted at-the-money; exerciseability is conditioned upon service through the
+vesting date; termination of service prior to vesting results in forfeiture; limited exercise
+period following termination of service; options are non-transferable and non-hedgeable. The dividend yield assumption is based on Cienas history and expectation of dividend payouts. As share-based compensation expense recognized in the consolidated statement of operations for
+fiscal 2006 is based on awards ultimately expected to vest, it has been reduced for estimated
+forfeitures. Forfeitures were estimated based on Cienas historical experience. Assumptions for option-based awards under SFAS 123 Prior to the first quarter of fiscal 2006, Ciena considered the implied volatility and
+historical volatility of its stock price in determining its expected volatility. The risk-free
+interest rate was based upon assumption of interest rates appropriate for 72 the term of Cienas
+employee stock options. The dividend yield assumption was based on Cienas history and expectation
+of dividend payouts. Forfeitures prior to the first quarter of fiscal 2006 were accounted for as
+they occurred. Assumptions for Restricted Stock Unit Awards under SFAS 123R and SFAS 123 The fair value of each restricted stock unit award is estimated on the date of grant using the
+intrinsic value method. The weighted average fair value of each restricted stock unit granted under
+Cienas stock option plans for fiscal 2006 and 2004 was $1947 and $4478, respectively. No
+restricted stock unit awards were made during fiscal 2005. Assumptions for Employee Stock Purchase Plan Awards under SFAS 123R On May30, 2006, the Compensation Committee amended the ESPP, effective September15, 2006, to
+shorten the offer period under the ESPP from twenty four months to six months. As a result of this
+change, the offer period and any purchase period will be the same six-month period. Under the
+amended ESPP, the applicable purchase price equals 95% of the fair market value of Ciena common
+stock on the last day of each purchase period. These amendments were intended to enable the ESPP to
+be considered a non-compensatory plan under FAS 123R for future offering periods. Employees enrolled with offer periods that commenced prior to September15, 2006 are permitted
+to complete the remaining purchase periods in their current offer period. For these continuing
+offer periods, the fair value is determined as of the grant date, using the graded vesting
+approach. Under the graded vesting approach, the 24-month ESPP offer period, which consists of
+four, six-month purchase periods, is treated for valuation purpose as four separate option tranches
+with individual lives of six, 12, 18 and 24months, each commencing on the initial grant date. Each
+tranche is expensed straight-line over its individual life. 17OTHER EMPLOYEE BENEFIT PLANS Employee 401k Plan Ciena has a 401k defined contribution profit sharing plan. The plan covers all U.S. based
+employees who are not part of an excluded group. Participants may contribute up to 60% of pre-tax
+compensation, subject to certain limitations. The plan includes an employer matching contribution
+equal to 50% of the first 3% an employee contributes each pay period. Ciena may also make
+discretionary annual profit sharing contributions up to the IRS regulated limit. Ciena has made no
+profit sharing contributions to date. During fiscal 2006, fiscal 2005 and fiscal 2004, Ciena made
+matching contributions of approximately $12million, $13million and $16million, respectively. 18COMMITMENTS AND CONTINGENCIES Operating Lease Commitments Ciena has certain minimum obligations under non-cancelable operating leases expiring on
+various dates through 2019 for equipment and facilities. Included in Cienas minimum obligations
+under non-cancelable operating leases is $412million of unfavorable lease commitments. These
+unfavorable lease commitments were based on the present value of the lease obligations assumed by
+Ciena through acquisition, compared to market rates at the time of acquisition. The unfavorable
+lease commitments will be paid over the applicable remaining lease term. Also included in Cienas
+minimum obligations under non-cancelable operating leases is $445million related to restructured
+facilities. For additional information see Note 3. Both the unfavorable lease commitments and
+restructured facilities are recorded as liabilities on Cienas balance sheet. Future annual minimum
+rental commitments under non-cancelable operating leases at October31, 2006 are as follows in
+thousands 73   
+Year ended October 31,
+2007
+$
+26,141
+2008
+24,521
+2009
+22,106
+2010
+20,652
+2011
+14,492
+Thereafter
+18,970
+Total
+$
+126,882
+Rental expense for fiscal 2006, fiscal 2005, and fiscal 2004 was approximately $92million 116million and $163million, respectively. In addition, Ciena paid approximately $453million 330million, and $193million during fiscal 2006, fiscal 2005, and fiscal 2004, respectively,
+related to rent costs for restructured facilities and unfavorable lease commitments, which were
+offset against Cienas restructuring liabilities and unfavorable lease obligations. Purchase Commitments with Contract Manufacturers and Suppliers Ciena relies on a small number of contract manufacturers to perform the majority of the
+manufacturing operations for its products. In order to reduce lead times and ensure adequate
+component supply, Ciena enters into agreements with these suppliers that allow them to procure
+inventory for Cienas forecasted future demands. As of October31, 2006, Ciena has purchase
+commitments of $973million. Litigation On October3, 2000, Stanford University and Litton Systems filed a complaint in the United
+States District Court for the Central District of California against Ciena and several other
+defendants, alleging that optical fiber amplifiers incorporated into certain of those parties
+products infringe U.S. Patent No4,859,016 the 016 Patent. The complaint seeks injunctive
+relief, royalties and damages. On October10, 2003, the court stayed the case pending final
+resolution of matters before the U.S. Patent and Trademark Office the PTO, including a request
+for and disposition of a reexamination of the 016 Patent. On October16, 2003 and November2,
+2004, the PTO granted reexaminations of the 016 Patent, resulting in a continuation of the stay of
+the case. On September11, 2006, the PTO issued a Notice of Intent to Issue a Reexamination
+Certificate and Statement of Reasons for Patentability/Confirmation, stating its intent to confirm
+certain claims of the 016 Patent. Thereafter, on September19, 2006, Litton Systems filed a status
+report in which it requested that the district court lift the stay of the case, which request was
+denied by the district court on October13, 2006. Ciena believes that it has valid defenses to the
+lawsuit and intends to defend it vigorously in the event the stay of the case is lifted. As a result of Cienas merger with ONI Systems Corp. in June2002, Ciena became a defendant in a securities class action lawsuit.
+Beginning in August2001, a number of substantially identical class action complaints alleging violations of the federal securities
+laws were filed in the United States District Court for the Southern District of New York. These complaints name ONI,
+Hugh C. Martin, ONIs former chairman, president and chief executive officer; Chris A. Davis, ONIs former executive
+vice president, chief financial officer and administrative officer; and certain underwriters of ONIs initial public
+offering as defendants. The complaints were consolidated into a single action, and a consolidated amended complaint was
+filed on April24, 2002. The amended complaint alleges, among other things, that the underwriter defendants violated the securities
+laws by failing to disclose alleged compensation arrangements such as undisclosed commissions or stock stabilization practices
+in the initial public offerings registration statement and by engaging in manipulative practices to artificially inflate the
+price of ONIs common stock after the initial public offering. The amended complaint also alleges that ONI and the named former
+officers violated the securities laws on the basis of an alleged failure to disclose the underwriters alleged compensation arrangements
+and manipulative practices. No specific amount of damages has been claimed. Similar complaints have been filed against more
+than 300 other issuers that have had initial public offerings since 1998, and all of these actions have been included
+in a single coordinated proceeding. Mr.Martin and Ms.Davis have been dismissed from the action without prejudice pursuant
+to a tolling agreement. In July2004, following mediated settlement negotiations, the plaintiffs, the issuer defendants
+including Ciena, and their insurers entered into a settlement agreement, whereby, if approved, the plaintiffs cases against the
+issuers would be dismissed, the insurers would agree to guarantee a recovery by the plaintiffs from the underwriter defendants
+of at least $1billion, and the issuer defendants would agree to assign or surrender to the plaintiffs certain claims the
+issuers may have against the underwriters. The settlement agreement does not require Ciena to pay any amount toward the settlement
+or to make any other payments. In October 2004, the district court certified a class with respect to the Section 10b
+claims in six focus cases selected out of all of the consolidated cases, which cases did not include Ciena,
+and which decision was appealed by the underwriter defendants to the U.S. Court of Appeals for the Second
+Circuit. On February15, 2005, the district court granted the motion filed by the plaintiffs and issuer defendants for
+preliminary approval of the settlement agreement, subject to certain modifications to the proposed bar order, and directed
+the parties to submit a revised settlement agreement reflecting its opinion. On August31, 2005,
+the district court issued a preliminary order approving the revised stipulated settlement agreement, and approving and setting
+dates for notice of the settlement to all class members. A fairness hearing was held on April24, 2006,
+at which time the court took the matter under advisement. If the court determines that the settlement is fair
+to the class members, the settlement will be approved. On December5, 2006, the U.S. Court of Appeals for the Second
+Circuit vacated the district courts grant of class certification in the six focus cases. Because the settlement
+agreement involves certification of a settlement class as part of the approval process, the impact of the
+Second Circuits decision on the settlement remains unclear. 74 In addition to the matters described above, Ciena is subject to various legal proceedings,
+claims and litigation arising in the ordinary course of its business. While the outcome of these
+matters is currently not determinable, Ciena does not expect that the ultimate costs to resolve
+these matters will have a material effect on its results of operations, financial position or cash
+flows. 19ENTITY WIDE DISCLOSURES Revenue from sales to customers outside of the United States is reflected as International in
+the geographic distribution of revenue below. Cienas geographic distribution of revenue was as
+follows in thousands, except percentage data   
+Fiscal Year
+2004
+2005
+2006
+United States
+$
+221,456
+741
+$
+340,774
+798
+$
+423,687
+751
+International
+77,251
+259
+86,483
+202
+140,369
+249
+Total
+$
+298,707
+1000
+$
+427,257
+1000
+$
+564,056
+1000
+*
+Denotes % of total revenue The majority of Cienas assets are located in the United States and attributable to the
+United States operations. Equipment, furniture and fixtures located outside of the United States
+are reflected as International in the geographic distribution of equipment, furniture and fixtures
+below. Cienas geographic distribution of net equipment, furniture and fixtures was as follows in
+thousands, except percentage data   
+2005
+2006
+United States
+$
+23,390
+833
+$
+21,934
+745
+International
+4,700
+167
+7,493
+255
+Total
+$
+28,090
+1000
+$
+29,427
+1000
+*
+Denotes % of total equipment, furniture and fixtures Product portfolio distribution of revenue was as follows in thousands, except percentage
+data   
+Fiscal Year
+2004
+2005
+2006
+Optical networking products
+$
+188,656
+631
+$
+254,159
+595
+$
+376,920
+669
+Broadband networking products
+31,294
+105
+82,726
+194
+81,823
+145
+Data networking products
+23,150
+78
+34,265
+80
+35,007
+62
+Network and services
+management software, and
+other
+7,111
+24
+3,125
+07
+8,677
+15
+Global network services
+48,496
+162
+52,982
+124
+61,629
+109
+Total
+$
+298,707
+1000
+$
+427,257
+1000
+$
+564,056
+1000
+*
+- denotes % of total revenue During the following fiscal years customers who each accounted for at least 10% of
+Cienas revenue during the respective periods are as follows in thousands 75   
+Fiscal Year
+2004
+2005
+2006
+Verizon
+$
+N/A
+$
+43,673
+102
+$
+70,225
+124
+Sprint
+N/A
+N/A
+89,793
+159
+BellSouth
+N/A
+43,946
+103
+N/A
+ATT
+N/A
+N/A
+66,926
+119
+SAIC
+46,557
+156
+46,058
+108
+N/A
+Total
+$
+46,557
+156
+$
+133,677
+313
+$
+226,944
+402
+*
+- denotes % of total revenue   N/A
+denotes revenue recognized less than 10% for the period. 76 Item1B. Unresolved Staff Comments Not applicable. Item2. Controls and Procedures Disclosure Controls and Procedures As of the end of the period covered by this report, Ciena carried out an evaluation under the
+supervision and with the participation of Cienas management, including Cienas Chief Executive
+Officer and Chief Financial Officer, of Cienas disclosure controls and procedures as defined in
+Rules13a-15e and 15d-15e under the Securities Exchange Act of 1934, as amended. Based upon
+this evaluation, Cienas Chief Executive Officer and Chief Financial Officer concluded that Cienas
+disclosure controls and procedures were effective as of the end of the period covered by this
+report. Changes in Internal Control over Financial Reporting There was no change in Cienas internal control over financial reporting as defined in Rules
+13a-15f and 15d-15f under the Securities Exchange Act of 1934, as amended during the most
+recently completed fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, Cienas internal control over financial reporting. Report of Management on Internal Control Over Financial Reporting The management of Ciena Corporation is responsible for establishing and maintaining adequate
+internal control over financial reporting as defined in Rules13a-15f and 15d-15f under the
+Securities Exchange Act of 1934. The internal control over financial reporting at Ciena Corporation was designed to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with accounting principles generally
+accepted in the United States of America. Internal control over financial reporting includes those
+policies and procedures that   
+pertain to the maintenance of records that, in reasonable detail, accurately and fairly
+reflect the transactions and dispositions of the assets of Ciena Corporation   
+provide reasonable assurance that transactions are recorded as necessary to permit
+preparation of financial statements in accordance with accounting principles generally
+accepted in the United States of America   
+provide reasonable assurance that receipts and expenditures of Ciena Corporation are
+being made only in accordance with authorization of management and directors of Ciena
+Corporation; and   
+provide reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use or disposition of assets that could have a material effect on the
+consolidated financial statements. Because of its inherent limitations, internal control over financial reporting may not prevent
+or detect misstatements. Management of Ciena Corporation assessed the effectiveness of the companys internal control
+over financial reporting as of October31, 2006. Management based this assessment on criteria for
+effective internal control over financial reporting described in Internal Control Integrated
+Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on
+this assessment, management determined that, as of October31, 2006, Ciena Corporation maintained
+effective internal control over financial reporting. Management reviewed the results of its
+assessment with the Audit Committee of our Board of Directors. PricewaterhouseCoopers LLP, independent registered public accounting firm, who audited and
+reported on the consolidated financial statements of Ciena Corporation included in this annual
+report, has also audited managements assessment and the effectiveness of Ciena Corporations
+internal control over financial reporting as of October31, 2006 as stated in its report appearing
+under Item8.   
+/s/ Gary B. Smith
+/s/ Joseph R. Chinnici
+Gary B. Smith
+Joseph R. Chinnici
+President and Chief Executive Officer
+Senior Vice President and Chief Financial Officer
+January
+10, 2007
+January 10, 2007
+77 Attestation Report of Independent Registered Public Accounting Firm Pricewaterhouse Coopers LLP, the independent registered public accounting firm that audited
+Cienas consolidated financial statements, has issued an attestation report on managements
+assessment of Cienas internal control over financial reporting, which is contained under Item8 of
+PartII of this annual report under the heading Report of Independent Registered Public Accounting
+Firm. The attestation report is incorporated herein by reference. Item1B. Unresolved Staff Comments Not applicable. Item2. Directors and Executive Officers of the Registrant Pursuant to General Instruction G3 of Form 10-K, information relating to Cienas directors
+and executive officers is set forth in PartI of this annual report under the caption Item1.
+BusinessDirectors and Executive Officers. Additional information concerning our Audit Committee and regarding compliance with Section
+16a of the Exchange Act responsive to this item is incorporated herein by reference to Cienas
+Proxy Statement to be filed with the Securities and Exchange Commission within 120days after the
+end of the fiscal year covered by this Form 10-K with respect to our Annual Meeting of Shareholders
+to be held on March14, 2007. As part of our system of corporate governance, our board of directors has adopted a code of
+ethics that is specifically applicable to our chief executive officer and senior financial
+officers. This Code of Ethics for Senior Financial Officers, as well as our Code of Business
+Conduct and Ethics, applicable to all directors, officers and employees, are available on the
+corporate governance page of our web site at
+http www.ciena.com. We intend to satisfy any
+disclosure requirement under Item505 of Form 8-K regarding an amendment to, or waiver from, a
+provision of the Code of Ethics for Senior Financial Officers, by posting such information on our
+web site at the address above. 

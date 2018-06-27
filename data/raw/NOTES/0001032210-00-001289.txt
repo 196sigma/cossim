@@ -1,0 +1,700 @@
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+The Report of Independent Auditors, Financial Statements and Notes to Financial
+Statements follow on pages 33 through 51.
+32             INDEPENDENT AUDITORS' REPORT
+The Board of Directors
+Sonic Solutions   We have audited the accompanying balance sheets of Sonic Solutions as of
+March 31, 1999 and 2000, and the related statements of operations, shareholders'
+equity and cash flows for each of the years in the three-year period ended March
+31, 2000 and the related financial statement schedule. These financial
+statements and financial statement schedule are the responsibility of Sonic
+Solutions' management. Our responsibility is to express an opinion on these
+financial statements and financial statement schedule based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Sonic Solutions as of March
+31, 1999 and 2000 and the results of its operations and its cash flows for each
+of the years in the three-year period ended March 31, 2000, in conformity with
+generally accepted accounting principles. Also in our opinion, the related
+financial statement schedule, when considered in relation to the basic financial
+statements taken as a whole, presents fairly, in all material respects, the
+information set forth therein.
+/s/ KPMG LLP
+San Francisco, California
+April 28, 2000, except as to note 11 which is as of May 4, 2000
+33               FINANCIAL STATEMENTS
+SONIC SOLUTIONS
+BALANCE SHEETS
+in thousands, except share and per share amounts                                                   March 31
+1999      2000
+Assets
+Current assets:
+Cash and cash    $ 2,414       5,179
+Accounts receivable, net of allowance for returns and doubtful accounts
+of $599 and $930 at March 31, 1999 and 2000,     5,403       4,635
+807        945
+Prepaid expenses and other current      287        425
+Total current     8,911       11,184
+Fixed assets,     2,313       1,515
+Purchased and internally developed software costs,     2,385       1,876
+Other      156        393
+Total    $ 13,765       14,968
+Liabilities And Shareholders' Equity
+Current liabilities:
+Accounts payable and accrued    $ 4,359       4,306
+Bank note      500           Deferred revenue and     1,318       1,224
+Subordinated debt, current     1,419        600
+Current portion of obligations under capital      148         78
+Total current     7,744       6,208
+Obligations under capital leases, net of current       89         10
+Total     7,833       6,218
+Commitments and contingencies
+Shareholders' Equity
+Convertible preferred stock, no par value, 10,000,000 shares authorized:
+294,038 and 155,544 shares issued and outstanding at March 31, 1999, and
+2000,      956        506
+Common stock, no par value, 30,000,000 shares authorized; 9,468,123 and
+12,050,214 shares issued and outstanding at March 31, 1999 and 2000,
+18,121       27,083
+Accumulated    13,145      18,839
+Total shareholders'    $ 5,932       8,750
+Total liabilities and shareholders'    $ 13,765       14,968
+See accompanying notes to financial statements
+34                 SONIC SOLUTIONS
+STATEMENTS OF OPERATIONS
+in thousands, except per share amounts                                           Years Ended March 31,
+1998     1999     2000
+Net    $19,881    21,899    20,827
+Cost of     10,209     9,547    8,992
+Gross     9,672    12,352    11,835
+Operating expenses:
+Marketing and     7,257     7,216    8,938
+Research and     6,037     5,137    6,155
+General and     1,603     1,556    2,284
+Total operating     14,897    13,909    17,377
+Operating     5,225   1,557    5,542
+Other expense,      651    302     249
+Loss before income     5,876    1,859   5,791
+Provision benefit for income                  97
+Net     5,876    1,859   5,694
+Beneficial conversion feature given to preferred shareholders.                 110
+Dividends paid to preferred             53      49
+Net loss applicable to common    $5,876    1,912   5,853
+Basic and diluted loss per share applicable to common shareholders.   $ 076    021    056
+Weighted average shares used in computing per share amounts.    7,761     8,896    10,460
+See accompanying notes to financial statements
+35                 SONIC SOLUTIONS
+STATEMENTS OF SHAREHOLDERS' EQUITY
+in thousands                           Preferred stock    Common stock
+Total
+Accumulated  Shareholders'
+Shares   Amount   Shares  Amount   deficit    Equity
+Balances at March 31, 1997.       $     7,596  13,840    5,410     8,430
+Exercise of common stock options.             50    84             84
+Issuance of preferred stock.    462   1,500                    1,500
+Equity line of credit issuances, net of
+issuance costs of $197.             618  1,253      --      1,253
+Exercise of              38                 Issuance of                  27             27
+Net                      5,876     5,876
+Balances at March 31, 1998.    462   1,500   8,302  15,204    11,286     5,418
+Exercise of common stock options.             64   143             143
+Equity line of credit issuances, net of
+issuance costs of $75.             904  2,283      --      2,283
+Conversion of preferred stock.   168   544    168   544              Preferred stock                 53            53
+Exercise of              30                 Net                      1,859     1,859
+Balances at March 31, 1999.    294    956   9,468  18,121    13,145     5,932
+Exercise of common stock options.             298   773             773
+Equity line of credit issuances, net of
+issuance costs of $363.            1,800  7,053            7,053
+Issuance of preferred stock.    154    500                     500
+Conversion of preferred stock.   292   950    464   950              Preferred stock                 49            49
+Return to preferred stock shareholders as a
+result of beneficial conversion feature.                110            110
+Preferred stock beneficial conversion feature.                110             110
+Issuance of                 235             235
+Exercise of              20                 Net                      5,694     5,694
+Balances at March 31, 2000.    156   $ 506   12,050  27,083    18,839     8,750
+See accompanying notes to financial statements
+36                 SONIC SOLUTIONS
+STATEMENTS OF CASH FLOWS
+in thousands                                            Years Ended March 31,
+1998       1999       2000
+Cash flows from operating activities:
+Net loss                                   $5,876     1,859     5,694
+Adjustments to reconcile net loss to net cash used in operating
+activities:
+Depreciation and amortization                         2,255      2,621      2,958
+Provision for returns and doubtful accounts, net of write-offs          29       18       331
+Interest expense amortization                          482        60        Changes in operating assets and liabilities:
+Accounts receivable                            122     2,187       437
+Inventory                                  641       173      138
+Refundable income taxes                           450       148          Prepaid expenses and other current assets                  254        30       138
+Other assets                                200       72      237
+Accounts payable and accrued liabilities                  344      1,044       53
+Deferred revenue and deposits                        331       282       94
+Net cash used in operating activities                 1,412      124     2,628
+Cash flows from investing activities:
+Purchase of fixed assets                          787      913      850
+Additions to purchased and internally developed software         1,849      696      801
+Net cash used in investing activities                 2,636     1,609     1,651
+Cash flows from financing activities:
+Proceeds from exercise of common stock options                84       143       773
+Repayments of subordinated debt                       55      568       84
+Proceeds from equity line financing                    1,253      2,283      7,053
+Borrowings on line of credit                        500       420       422
+Repayments of line of credit                               420      922
+Principal payments on capital leases                    88      137      149
+Payment of dividends                                    53       49
+Issuance of warrants                             27                                                                    Net cash provided by financing activities                1,721      1,668      7,044
+Net increase decrease in cash and cash equivalents             2,327       65      2,765
+Cash and cash equivalents, beginning of year                  4,806      2,479      2,414
+Cash and cash equivalents, end of year                   $ 2,479      2,414      5,179
+Supplemental disclosure of cash flow information:
+Interest paid during year                         $  265        71       109
+Income taxes paid during year                       $   13        9        4
+Noncash financing and investing activities:
+Assets acquired through capital lease                 $  221                                                                   Conversion of preferred stock to common stock                       544       956
+Conversion of subordinated debt to preferred stock           $ 1,500               500
+Issuance of warrants associated with conversion of
+subordinated debt                                           235
+Beneficial conversion feature given to preferred
+shareholders                                              110
+See accompanying notes to financial statements
+37                 SONIC SOLUTIONS
+NOTES TO FINANCIAL STATEMENTS
+March 31, 1998, 1999 and 2000
+1 SUMMARY OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES
+a Operations
+We develop workstations used by professionals to edit and process digital
+audio and digital video. Our products are computer based, and usually include
+both plug-in hardware and applications software installed on a personal
+computer. Our customers use various kinds of peripheral devices -- for example,
+disk drives, streaming tape drives, and audio and video tape recorders -- along
+with our products. Although we do not manufacture or sell the personal computer
+or peripheral devices used with our products, we typically talk about the
+complete configuration of personal computer, Sonic hardware, Sonic software, and
+peripherals as a Sonic workstation.
+We currently market two workstation product lines: SonicStudioTM and DVD
+CreatorTM. SonicStudio is a line of professional audio workstations that our
+customers use to prepare audio for release on digital audio compact discs, for
+release with video and film entertainment, and for broadcast on radio. DVD
+Creator is a line of DVD-Video/Audio production workstations which supports the
+preparation and assembly of video and audio assets for release on the new DVD-
+Video disc format and the upcoming DVD-Audio disc format.
+During the fiscal year ended March 31, 2000, we introduced and began
+shipments of two new products: DVDit!TM and DVD FusionTM. DVD it! is an
+authoring application which provides simplified DVD authoring capabilities to
+consumer, prosumer, and some professional users. DVD Fusion, which is a part
+of our DVD Creator product line, provides video producers and editors a
+comprehensive set of tools for encoding, authoring and proofing DVD-Video titles
+derived from projects created on non-linear video editing systems.
+Our products generally include application software and specialized
+hardware installed on a personal computer. Our products are designed to improve
+the productivity and effectiveness of media professionals, enabling them to
+process and manipulate more material in a given amount of time and to achieve
+results which would have been impossible using traditional linear analog or
+digital technology.
+b Use of Estimates and Certain Concentrations
+The preparation of financial statements in accordance with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and reported amounts of revenues and expenses during the period.
+Actual results could differ from those estimates.
+We are dependent on sole-source suppliers for certain key components used
+in our products. We purchase these sole-source components pursuant to purchase
+orders placed from time to time. We do not carry significant inventories of
+these components, and have no guaranteed supply agreements. Any extended future
+interruption or limitation in the supply of any of the components obtained from
+a single source could have a material adverse effect on our results of
+operations.
+38   c Revenue Recognition
+Revenue is derived from product sales and maintenance contracts. Revenue
+from product sales is recognized upon shipment of the products. Revenue from
+software maintenance, including maintenance sold with the product, is recognized
+on a straight-line basis over the term of the agreement, generally one year.
+We recognize revenue in accordance with Statement of Position SOP 97-2,
+Software Revenue Recognition. The statement provides specific industry
+guidance and stipulates that revenue recognized from software arrangements is to
+be allocated to each element of the arrangement based on the relative fair
+values of the elements, based on objective evidence which is specific to the
+vendor. Our adoption of SOP 97-2 on April 1, 1998 did not have a material impact
+on revenue recognition.
+Revenue from sales to distributors and dealers may be subject to agreements
+allowing limited rights of return and exchange. Accordingly, we provide reserves
+for estimated future returns and exchanges at the time of the sale as a
+reduction of revenue.
+Cost of revenue includes hardware product costs, third party hardware
+costs, amortization of capitalized software and third party software royalties.
+d Cash Equivalents
+Cash equivalents consist of short-term, highly-liquid investments with
+original maturities of ninety days or less. Cash equivalents are generally
+invested in money market funds.
+e Inventory
+Inventory is valued at the lower of cost, determined on a first-in, first-
+out basis, or market. Inventory consists of raw materials, work in process and
+original equipment manufacturer goods.
+f Fixed Assets
+Fixed assets consist of furniture and equipment and are recorded at cost.
+Equipment under capital leases is stated at the present value of minimum lease
+payments at the inception of the lease. Depreciation of furniture and equipment
+is provided using the straight-line method over the estimated useful lives of
+the respective assets which are generally three to five years. Equipment held
+under capital leases is amortized over the shorter of the lease term or the
+estimated useful life of the asset.
+g Purchased and Internally Developed Software Costs
+In accordance with Statement of Financial Accounting Standards SFAS No.
+86 Accounting for the Costs of Computer Software to be Sold, Leased, or
+Otherwise Marketed, purchased software and software product development costs
+are capitalized when a product technological feasibility has been established
+and then is amortized over a future period. Amortization begins when a product
+is available for general release to customers. Amortization of capitalized
+software costs, for both internally developed and purchased software products,
+is computed on a straight- line basis over the estimated economic life of the
+product, which is generally three years, or on a basis using the ratio of
+current revenue to the total of current and anticipated
+39 future revenue, whichever is greater. All other research and development
+expenditures are charged to research and development expense in the period
+incurred.
+h Income Taxes
+We account for income taxes under the asset and liability method of
+accounting. Under the asset and liability method, deferred tax assets and
+liabilities are recognized based on the future tax consequences attributable to
+differences between the financial statement carrying amount of existing assets
+and liabilities and their respective tax bases.
+i Basic and diluted loss per share
+SFAS No. 128 Earnings Per Share requires the presentation of basic net
+income per share, and for companies with complex capital structures, diluted net
+income per share.
+The following table sets forth the computations of shares and net loss per
+share, applicable to common shareholders used in the calculation of basic and
+diluted net loss per share for the years ended March 31, 1998, 1999 and 2000 in
+thousands, except per share data                                          Years Ended March 31,
+1998       1999       2000
+Net    $5,876     1,859     5,694
+Beneficial conversion feature given to preferred shareholders.      --        --       110
+Dividends paid to preferred       --        53        49
+Net loss applicable to common     5,876     1,912     5,853
+Weighted average number of common shares outstanding.    7,761      8,896      10,460
+Basic and diluted net loss per share applicable to common
+$ 076      021      056
+As of March 31, 1998, 1999 and 2000 potentially dilutive shares totaling
+2,060,166; 1,834,502; and 1,253,947, respectively, for convertible preferred
+stock and options with exercise prices less than the average market price that
+could dilute basic earnings per share in the future, were not included in
+earnings per share as their effect was anti-dilutive for those periods.
+j Concentrations of Credit Risk
+Financial instruments which potentially subject our company to
+concentrations of credit risk are trade receivables. We manufacture and sell our
+products to customers who are primarily audio and video and graphic arts
+professionals who prepare sound, video and graphics for use in the music
+recording, video, film and broadcast and printing industries or for corporate
+in-house use and to dealers who support such customers. Management believes that
+any risk of credit loss is significantly reduced due to the diversity of its end
+users and their dispersion across many geographic sales areas. We maintain an
+allowance for doubtful accounts to provide against potential credit losses.
+40   k Stock-Based Compensation
+Our company has various stock-based compensation plans, as discussed in
+Note 7. We have accounted for the effect of our stock based compensation plans
+under Accounting Principles Board APB Opinion No. 25, Accounting for Stock
+Issued to Employees. We have elected to adopt only the disclosure based
+requirements of SFAS No. 123 Accounting for Stock-Based Compensation and as
+such have disclosed the pro forma effects on net income loss and net income
+loss per share data as if we had elected to use the fair value approach to
+account for all our employee stock-based compensation plans.
+l Impairment of Long-Lived Assets and Long-Lived Assets to be Disposed
+Of
+We account for long-lived assets, including intangibles, at amortized cost.
+As part of our ongoing review of the valuation and amortization of long-lived
+assets, we assess the carrying value of such assets if the facts and
+circumstances suggest that they may be impaired. As a result, we have determined
+that our long-lived assets are not impaired as of March 31, 2000 and 1999.
+m Recently Issued Accounting Pronouncements
+In June 1998, the Financial Accounting Standards Board issued SFAS No. 133,
+as amended by SFAS No. 137, Accounting for Derivative instruments and hedging
+activities. We are required to adopt SFAS No. 133 in the first quarter of
+fiscal year 2002. We do not anticipate that SFAS No. 133 will have a material
+impact on our financial statements.
+In December 1999, the Securities and Exchange Commission SEC issued Staff
+Accounting Bulletin No. 101 SAB 101, Revenue Recognition in Financial
+Statements, as amended by SAB 101A, which provides guidance on the recognition,
+presentation, and disclosure of revenue in financial statements filed with the
+SEC. SAB 101 outlines the basic criteria that must be met to recognize revenue
+and provides guidance for disclosures related to revenue recognition policies.
+We do not expect the adoption of SAB 101 to have a material effect on our
+financial position or results of operations.
+In March 2000, the Emerging Issues Task Force EITF Issue No. 00-2,
+Accounting for Web Site Development Costs, which outlines the accounting
+criteria for costs related to the development of web sites. We will be required
+to adopt EITF Issue No. 00-2 in fiscal quarters beginning after June 30, 2000.
+We are in the process of assessing any impact that the adoption of EITF Issue
+No. 00-2 will have on our financial position or results of operations.
+In March 2000, the EITF published their consensus on EITF Issue No. 00-3,
+Application of AICPA Statement of Position 97-2, Software Revenue Recognition
+to Arrangements that Include the Right to Use Software Stored on Another
+Entity Hardware. EITF Issue No. 00-3 outlines the accounting criteria for
+hosting arrangements. We do not expect the adoption of EITF Issue No. 00-3 to
+have a material effect on our financial position or results of operations.
+In March 2000, the Financial Accounting Standards Board issued FASB
+Interpretation No. 44, Accounting For Certain Transactions involving Stock
+Compensation. FASB Interpretation No. 44 clarifies the application of APB
+Opinion No. 25 for certain issues. The FASB Interpretation No. 44 is effective
+July 1, 2000. We are in the process of assessing any impact that the adoption of
+FASB Interpretation No. 44 will have on our financial statements.
+41   n Comprehensive Income
+SFAS No. 130 establishes standards for the reporting and disclosure of
+comprehensive income and its components which will be presented in association
+with our company financial statements. Comprehensive income is defined as the
+change in a business enterprise equity during a period arising from
+transactions, events or circumstances relating to nonowner sources, such as
+foreign currency translation adjustments and unrealized gains or losses on
+available-for-sale securities. It includes all changes in equity during a period
+except those resulting from investments by or distributions to owners. For the
+fiscal years ended March 31, 1998, 1999 and 2000, net income and comprehensive
+income were equivalent. Accordingly, the adoption of SFAS No. 130 had no impact
+on our financial reporting.
+2 INVENTORY
+The components of inventory consist of in thousands                               March 31,
+1999      2000
+Finished Goods                $ 603      387
+Work-in-process                187       75
+Raw materials                  17      483
+$ 807      945
+3 FIXED ASSETS
+Fixed assets consist of in thousands                               March 31,
+1999     2000
+Equipment, furniture and fixtures       $ 4,781     5,382
+Demonstration equipment             1,733     1,888
+Parts used in service, not held for sale    1,401     1,495
+7,915     8,765
+Less accumulated depreciation         5,602    7,250
+$ 2,313     1,515
+Depreciation expense was $1,397,000, $1,365,000 and $1,648,000 for the
+years ended March 31, 1998, 1999, and 2000, respectively. As of March 31, 2000,
+fixed assets held under capital lease totaled $315,000 and accumulated
+depreciation on those assets totaled $253,000.
+42 4 PURCHASED AND INTERNALLY DEVELOPED SOFTWARE COSTS
+Capitalized software costs consist of in thousands                               March 31,
+1999     2000
+Purchased software              $  365      409
+Internally developed software          5,278     6,035
+5,643     6,444
+Accumulated amortization            3,258    4,568
+$ 2,385     1,876
+Amortization of capitalized software costs was $859,000, $1,255,000 and
+$1,310,000 for the years ended March 31, 1998, 1999 and 2000, respectively.
+5 ACCOUNTS PAYABLE AND ACCRUED LIABILITIES
+Accounts payable and accrued liabilities consist of in thousands                               March 31,
+1999     2000
+Accounts payable                $1,988     1,089
+Commissions payable                428      653
+Accrued compensation and benefits         555      903
+Accrued expenses                1,388     1,661
+$4,359     4,306
+6 CREDIT FACILITIES AND DEBT RESTRUCTURING
+In December, 1996, we entered into a Loan and Security Agreement with
+Silicon Valley Bank. This Agreement, which we sometimes refer to as our bank
+credit line, has been modified or renewed at various times since December 1996.
+The current bank credit line renewed in September, 1999 provides for up to
+$2,500,000 in available borrowings based upon our eligible accounts receivable
+balances. The current bank credit line will expire on September 28, 2000. This
+bank credit line provides for a variety of covenants, including among other
+things, that we maintain certain financial ratios. The bank credit line is
+collateralized by a security interest in substantially all of our assets.
+Interest on borrowings under this agreement is payable monthly at a rate of one
+and one quarter percent in excess of the prime rate. On March 31, 2000, there
+were no borrowings outstanding under this agreement.
+Since December 1996, we have entered into a couple of different financing
+arrangements with Hambrecht & Quist Guaranty Finance, including a $5,100,000
+financing facility and a $7,000,000 equity-based line of credit. In March 1998 3,000,000 of the $5,100,000 financing facility was restructured into
+43 1,500,000 of debt. The debt had an interest rate of 725% and was due in
+October 1999. During the year ended march 31, 2000, 292,000 shares of the
+convertible preferred stock were converted to common stock.
+In October, 1999, we renegotiated our financing arrangement with Hambrecht
+& Quist Guaranty Finance. The agreement we reached involved the restructuring of
+$1,500,000 debt into 153,846 shares of Series C Convertible Preferred Stock and
+$1,000,000 of debt. The interest rate on the restructured debt is 725% and the
+debt and interest are payable in monthly installments through April 30, 2001. In
+connection with this agreement, we issued warrants to purchase 120,000 common
+shares at an exercise price of $250. These warrants expire on April 30, 2006.
+We also enhanced the conversion rate of Hambrecht & Quist existing Series C
+Convertible Preferred Stock so that each share of Series C Convertible Preferred
+Stock is convertible into 1625 shares of Common Stock. The beneficial
+conversion feature, warrants and new debt were recorded at their relative fair
+values. We recorded $345,000 of deferred financing costs attributable to this
+finance restructuring with Hambrecht & Quist Guaranty. This amount is being
+amortized using the effective interest rate method to interest expense over the
+term of the financing facility 18 months. The value of the warrants was
+estimated using the Black-Scholes option pricing model and the following
+assumptions: volatility of 50, risk free interest rate of 6% and expected life
+equal to the contractual terms. We filed a Form S-3 Registration Statement under
+the Securities Act of 1933 to register the shares of the common stock which
+underlie the Series C Convertible Preferred Stock and the 120,000 shares of our
+common stock which underlie the warrants issued to Hambrecht & Quist Guaranty
+Finance.
+In December, 1997, we secured a $7,000,000 equity-based line of credit.
+Under this arrangement, we had the right to draw up to a total of $7,000,000 in
+cash in exchange for common stock. Pricing of the common stock issued was based
+on the market price of our common stock at the time of a draw subject to a 14%
+discount and a 4% commission payable in common stock. The availability of the
+credit line, and the amounts and timing of draws under the line were subject to
+a number of conditions. In January, 1998, we filed a Form S-3 Registration
+Statement under the Securities Act of 1933 to register the resale of shares
+issued under this credit line. Under this equity-based line of credit, we drew a
+total of $3,808,000 and issued 1,522,000 shares of our common stock during
+fiscal years 1998 and 1999. This facility is no longer available to us.
+On May 20, 1999, we secured a new equity-based line of credit by entering
+into a new stock purchase agreement with Kingsbridge. Under the new arrangement,
+we were able to draw up to $12,000,000 in cash in exchange for common stock;
+provided, however, that in any event we can not sell more than a total of
+1,800,000 shares to Kingsbridge under this arrangement, unless we obtain
+shareholder approval. Pricing of the common stock issued under this arrangement
+is based on the market price of our common stock at the time of a draw,
+discounted by 10% or 12%, depending upon the price of our common stock. The
+availability of the credit line, and the amounts and timing of draws under the
+line were subject to a number of conditions. On May 27, 1999, we filed a
+Registration Statement on Form S-1 to register for resale the shares we may
+issue to Kingsbridge under this credit line and on August 12, 1999 the Statement
+became effective. During the fiscal year ended March 31, 2000, we drew
+$7,408,000 from the credit line for which we issued 1,800,000 shares of common
+stock. Because of limitations on the total number of shares that can be issued
+under this line of credit, this facility is no longer available to us and was
+terminated on March 14, 2000.
+7 SHAREHOLDERS' EQUITY
+Convertible Preferred Stock
+In October, 1999, we issued 153,846 shares of Series C Convertible
+Preferred Stock to Hambrecht & Quist Guaranty Finance in conjunction with our
+renegotiated financing arrangement with them. Also, in
+44 conjunction with the new financing arrangement we changed the conversion rate of
+all of our outstanding Series C Convertible Preferred Stock so that each share
+of Series C Convertible Preferred Stock is convertible into 1625 shares of
+Common Stock.
+Stock Options
+Under our September 1989 Stock Option Plan the Plan, options to purchase
+up to an aggregate of 2,090,000 shares of common stock may be granted to key
+employees, directors and consultants. Grants of options to the directors of
+Sonic Solutions may not exceed 140,000 shares. The Plan provides for issuing
+both incentive stock options, which must be granted at fair market value at the
+date of grant, and nonqualified stock options, which must be granted at not less
+than 85% of fair market value of the stock. All options to date have been
+granted as incentive stock options. Options under the Plan generally vest over
+four years from the date of grant. The options generally expire ten years from
+the date of grant and are canceled three months after termination of employment.
+Our Board of Directors and Chief Executive Officer administer the Plan.
+During 1995, we adopted the 1994 NonEmployee Directors Stock Option Plan
+which provides for the grant of stock options to Sonic Solutions' nonemployee
+directors. Under this plan, stock options are granted annually at the fair
+market value of Sonic Solutions' common stock on the date of grant. The number
+of options so granted annually is fixed by the plan. Such options generally vest
+over four years from the grant date. The total number of shares to be issued
+under this plan may not exceed 100,000 shares. There were 22,000 options
+outstanding at March 31, 2000, at prices of $26560, $25625 and $16880 per
+share, of which 8,020 were exercisable.
+In March 1998, the Board of Directors approved the repricing of options at
+an exercise price equal to fair market value on March 3, 1998 of $25625 per
+share. There were no changes made to the vesting schedules in relation to the
+repricing.
+In July, 1998, the Board of Directors adopted the Sonic Solutions 1998
+Stock Option Plan and the shareholder approved the 1998 Stock Option Plan in
+September, 1998. The 1998 Stock Option Plan covers 1,000,000 shares of Common
+Stock, with an annual increase in the number of shares available for issuance
+under the Stock Option Plan on the last day of each fiscal year; provided that
+the total number of shares issuable under the plan shall not exceed 2,000,000.
+45   A summary of Sonic Solutions' option plans is presented below                         1998              1999               2000
+Weighted             Weighted             Weighted
+Average             Average              Average
+Exercise             Exercise             Exercise
+Options      Price     Options      Price      Options      Price
+Outstanding at beginning
+of year               829,699     $553      1,660,178     289      2,026,333     280
+Granted               1,925,150      376       670,250     308       782,300     273
+Exercised               50,062     170       64,225     222      298,208     258
+Forfeited             1,044,609     666      239,870     432      159,386     494
+Outstanding at end of year     1,660,178     $289      2,026,333     280      2,351,039     267
+Options exercisable at
+year end               640,809     $282      1,179,191     265       902,506     254
+Fair value of options granted
+during the year                    $222               206               193   Had compensation cost for our plans been determined consistent with the
+fair value approach enumerated in SFAS No. 123, our net loss and net loss per
+share for the years ended March 31, 1998, 1999 and 2000 would have been
+increased as indicated below in thousands, except per share data                                   Years Ended
+March 31,
+1998    1999     2000
+Net loss          As Reported      $5,876    1,859    5,694
+Pro Forma       $6,572    3,640    7,532
+Net loss per share     As Reported      $ 076    021     056
+Pro Forma       $ 085    041     072   The fair value of options granted was estimated on the date of grant using
+the Black-Scholes option-pricing model with the following weighted-average
+assumptions used for grants in 1998, 1999 and 2000; risk-free interest rate of
+597%, 465% and 604%, respectively; expected life of 4 years; 91%, 91% and
+97% expected volatility, respectively; and no dividends.
+The effect of applying SFAS No. 123 for disclosing compensation costs may
+not be representative of the effects on reported net income loss for future
+years because pro forma net income loss reflects compensation costs only for
+stock options granted in fiscal 1996 through 2000 and does not consider
+compensation costs for stock options granted prior to April 1, 1995.
+46   The following table summarizes information about stock options outstanding
+at March 31, 2000.                          Options Outstanding      Options Exercisable
+Weighted
+Number       Average        Weighted       Number       Weighted
+Range of      Outstanding at    Remaining        Average     Outstanding at     Average
+Exercise Price    March 31, 2000    Contractual Life   Exercise Price   March 31, 2000    Exercise Price
+-                                                                  
+From $143 to $175      359,527        787        $166        164,932       $164
+From $200 to $291     1,662,678        811         256        659,346        256
+From $344 to $394      219,084        885         373        51,304        369
+From $418 to $475       27,250        889         464        10,037        463
+From $525 to $575       48,500        814         552        16,887        569
+From $600 to $688       34,000        700         617           -         -
+2,351039        814        $267        902,506       $254
+8 INCOME TAXES
+The differences between income taxes computed using the statutory federal
+income tax rate of 34% and that shown in the statements of operations are
+summarized as follows in thousands                                           Years Ended March 31,
+1998         1999         2000
+Computed tax at statutory rate                    $1,998       630        1,969
+Tax credits utilized                           131        105          137
+State taxes, net of federal benefit                     3         5           4
+Tax exempt interest income                        36        19          Current year net operating losses, temporary
+differences and credits for which no benefit was
+recognized                              1,880        520         1,804
+IRS tax refund                               --         --          99
+Other                                   20         19          26
+$  --         --          97
+47 The components of deferred taxes are as follows in thousands                                              March 31,
+1998        1999       2000
+Deferred tax assets:
+Accounts receivable                         $  254        179         585
+Inventories                               542        123          49
+Tax credit carryforwards                        1,550       2,086        2,440
+Net operating losses                          4,103       4,732        6,109
+Accrued vacation pay                           62         55         101
+Commissions                                40         1          1
+State income taxes                             1         52          62
+Warranty and other                            42         51          37
+Gross deferred tax assets                       6,594       7,279        9,384
+Valuation allowance                          5,343      6,309       8,651
+Total deferred tax assets, net of valuation allowance         1,251        970         733
+Deferred tax liabilities:
+Fixed assets                              174       130        127
+Internally developed software                     1,077       840        606
+Total deferred tax liability                     1,251       970        733
+Net deferred taxes                          $   -         -          -
+The net change in the valuation allowance for the year ended March 31, 1999
+and 2000 was an increase of approximately $966,000 and $2,343,000, respectively.
+Management believes that sufficient uncertainty exists regarding the future
+realization of certain deferred tax assets and, that a valuation allowance is
+required.
+As of March 31, 2000, we have cumulative federal and California net
+operating losses of approximately $16,483,000 and $7,263,000, respectively,
+which can be used to offset future income subject to taxes. The federal tax loss
+carryforwards will expire beginning in the year 2012 through 2020. The
+California tax loss carryforwards will expire beginning in the year 2001 through
+2005.
+As of March 31, 2000, we have cumulative unused research and development
+tax credits of approximately $1,747,000 and $858,000 which can be used to reduce
+future federal and California income taxes, respectively. Federal credit
+carryforwards expire from 2009 through 2020; California credits will
+carryforward indefinitely.
+As of March 31, 2000, we have federal minimum tax credit carryforwards of
+approximately $135,000 which will carry forward indefinitely until utilized.
+9 COMMITMENTS AND CONTINGENCIES
+a Leases
+In December, 1996, we entered into a leasing agreement to finance the
+purchase of up to $1,000,000 in equipment, as discussed in Note 6. Lease terms
+under the agreement are for 42 months and are secured by the leased equipment.
+We also lease certain facilities and equipment under noncancelable operating
+leases.
+48 Future payments under capital and operating leases that have initial remaining
+noncancelable lease terms in excess of one year are as follows in thousands                                          Years Ended March 31,
+Capital        Operating
+Leases         Leases
+2001                                      $120            705
+2002                                       20            705
+2003                                        -            117
+2004                                        -             -
+2005                                        -             -
+Thereafter                                     -             -
+Total minimum lease payments                           140           1,527
+Less amount representing interest                        52
+Less current portion of obligations under capital lease             78
+Long-term obligations under capital lease                   $ 10
+Rent expense under operating leases for the years ended March 31, 1998,
+1999 and 2000 was approximately $847,000, $954,000 and $953,000, respectively.
+b Benefit Plan
+We sponsor a 401k savings plan covering most salaried employees. To date,
+no contributions have been made to this plan by the Company.
+c Other
+We from time to time are subject to routine claims and litigation
+incidental to our business. We believe that the results of these matters will
+not have a material adverse effect on our financial condition.
+10 SIGNIFICANT CUSTOMER INFORMATION AND SEGMENT REPORTING
+In 1997, the Financial Accounting Standards Board issued SFAS No. 131,
+Disclosures about Segments of an Enterprise and Related Information, which was
+adopted by us in 1998. SFAS No. 131 requires companies to report financial and
+descriptive information about its reportable operating segments, including
+segment profit or loss, certain specific revenue and expense items and segment
+assets, as well as information about the revenues derived from our products and
+services, the countries in which we earn revenue and hold assets, and major
+customers. The method for determining what information to report is based on the
+way that management organized the operating segments within our company for
+making operating decisions and assessing financial performance.
+Our chief operating decision maker is considered to be our Chief Executive
+Officer CEO. The CEO reviews financial information presented on a
+consolidated basis accompanied by desegregated information about revenue by
+product line and revenue by geographic region for purposes of making operating
+decisions and assessing financial performance. The consolidated financial
+information reviewed by the CEO is identical to the information presented in the
+accompanying statement of operations. Therefore, we operate in, and measure our
+results in a single operating segment. As such, we are required to disclose the
+following revenue by product line, revenue by geographic and significant
+customer information                    49   Revenues by Product Line                                         Years Ended March 31,
+1998         1999          2000
+Revenues
+Consumer DVD                          $   -          -         1,805
+Pro Audio/Video                         19,881        21,899         19,022
+Total net revenue                         $19,881        21,899         20,827
+Our accounting system does not capture meaningful gross margin and
+operating income loss information by product line, nor is such information
+used by the CEO for purposes of making operating decisions. Accordingly, such
+information has not been disclosed.
+Revenues by Geographic Location                                         Years Ended March 31,
+1998         1999          2000
+North America                           $ 9,612        11,702         11,027
+Export:
+Europe                               4,949        5,707         5,489
+Pacific Rim                             4,009        4,218         4,034
+Other international                         1,311         272          277
+Total net revenue                         $19,881        21,899         20,827
+We sell our products to customers categorized geographically by each
+customer country of domicile. We do not have any material investment in long
+lived assets located in foreign countries for any of the years presented.
+Significant customer information                                                 Percent of Total Accounts
+Years Ended March 31,              Receivable March 31,
+1998        1999        2000             2000
+Customer A                10%        11%         11%             6%
+Customer B                -         -          10%             8                    50 11 SUBSEQUENT EVENTS
+On May 4, 2000, we secured a new equity-based line of credit by entering
+into a new Private Equity Line Agreement with Kingsbridge. Under the new
+agreement, we may draw up to $20,000,000 in cash in exchange for up to 199% of
+our common stock. Pricing of the common stock issued under this agreement is
+based on the market price of our common stock at the time of a draw subject to
+discounts ranging from 8% to 12%. Borrowings from this credit facility are
+subject to the completion of a Registration Statement on Form S-1 to register
+for resale the shares we may issue to Kingsbridge under this equity-based line
+of credit.
+51 Item 3. LEGAL PROCEEDINGS
+None.
+Item 4. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The information required by this Item with respect to executive officers is
+set forth in Part I of this Report and the information with respect to directors
+is incorporated herein by reference to the information set forth under the
+caption Election of Directors in the Proxy Statement for the year 2000 Annual
+Meeting of Shareholders.

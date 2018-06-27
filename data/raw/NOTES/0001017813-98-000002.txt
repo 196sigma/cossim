@@ -1,0 +1,435 @@
+Item 8. Financial Statements And Supplemental Data     Index to Financial Statements           Page
+Independent Auditors' Report            24
+Balance Sheets                   25
+Statements of Operations              26
+Statements of Stockholders' Equity         27
+Statements of Cash Flows              28
+Notes to Financial Statements            29-34 INDEPENDENT AUDITORS' REPORT To the Board of Directors and Stockholders
+of Patient Infosystems, Inc.   We have audited the accompanying balance sheets of Patient Infosystems,
+Inc. as of December 31, 1997 and 1996 and the related statements of operations, 
+stockholders' equity, and cash flows for the years ended December 31, 1997 and
+1996 and for the period from February 22, 1995 Inception to December 31, 1995.
+These financial statements are the responsibility of the Company management.
+Our responsibility is to express an opinion on these financial statements based
+on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion. Deloitte & Touche LLP
+Rochester, New York
+January 30, 1998 PATIENT INFOSYSTEMS, INC.
+BALANCE SHEETS
+DECEMBER 31, 1997 AND 1996
+-  ASSETS                         1997        1996
+CURRENT ASSETS:
+Cash and cash equivalents.. $  779,317   $15,666,609
+Available-for-sale securities.. 12,232,335        Accounts receivable    412,956     386,215
+Prepaid expenses and other current assets..   405,507     170,526
+Total current assets.. 13,830,115   16,223,350
+PROPERTY AND EQUIPMENT, net..   958,965     862,037
+OTHER ASSETS    247,393                                                               
+TOTAL ASSETS  $15,036,473   $17,085,387
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES:
+Accounts payable  $  89,674  $  196,674
+Accrued salaries and wages..   320,272     127,029
+Accrued initial public offering costs..    --      446,568
+Accrued expenses    79,236     211,457
+Deferred revenue    67,549     582,783
+Accrued loss on development contracts..   30,997     67,139
+Total current liabilities..   587,728    1,631,650
+COMMITMENTS Note 7
+STOCKHOLDERS' EQUITY:
+Common stock - $01 par value: shares - authorized:
+20,000,000; issued and outstanding: 1997 - 8,011,522
+1996 - 7,653,202    80,115     76,532
+Additional paid-in capital.. 21,550,009   19,300,293
+Unrealized gain on available-for-sale securities.    5,060        Accumulated deficit during the development stage. 7,186,439   3,923,088
+Total stockholders' equity.. 14,448,745   15,453,737
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY.. $ 15,036,473  $ 17,085,387
+See notes to financial statements. PATIENT INFOSYSTEMS, INC.
+STATEMENTS OF OPERATIONS
+YEARS ENDED DECEMBER 31, 1997 AND 1996 AND
+PERIOD FROM FEBRUARY 22, 1995 INCEPTION TO DECEMBER 31, 1995
+-                      1997      1996     1995
+REVENUES..  $ 2,062,373  $  845,412  $  113,000
+COSTS AND EXPENSES:
+Cost of sales..   1,629,128    748,322    111,870
+Sales and marketing..   1,609,837    913,547    375,384
+General and administrative..   2,432,760   1,760,760    678,498
+Research and development..    489,115    310,552     89,909
+Total costs and expenses   6,160,840   3,733,181   1,255,661
+OPERATING LOSS..  4,098,467  2,887,769  1,142,661
+INTEREST INCOME..    835,116     81,333     26,009
+NET LOSS..  $3,263,351  $2,806,436  $1,116,652
+NET LOSS PER SHARE - BASIC
+AND DILUTED..  $   41  $   44  $   18
+WEIGHTED AVERAGE COMMON
+AND POTENTIAL COMMON SHARES.   7,980,094   6,347,716   5,954,299
+See notes to financial statements. PATIENT INFOSYSTEMS, INC.
+STATEMENTS OF STOCKHOLDERS' EQUITY
+YEARS ENDED DECEMBER 31, 1997 AND 1996 AND
+PERIOD FROM FEBRUARY 22, 1995 INCEPTION TO DECEMBER 31, 1995
+-                                              Unrealized
+Additional  Gains/Losses on          Total
+Preferred Stock    Common Stock  Paid-in  Available-for-sale Accumulated Stockholders'
+Shares  Amount   Shares  Amount  Capital   Securities     Deficit   Equity
+Sale of common stock, substantially
+all of which was issued on February
+22, 1995 at $014 per share      -   $  -   3,602,880  $36,029 $ 464,371  $  -      $  -    $ 500,400
+Sale of Series A convertible preferred
+stock at $100 per share in August
+and September 1995 net of issuance
+costs of $18,583         1,800,000  18,000    -     -   1,763,417    -         -    1,781,417
+Net loss for the period from 
+Inception to December 31, 1995    -     -     -     -     -      -      1,116,652 1,116,652
+Balances, December 31, 1995    1,800,000  18,000  3,602,880  36,029  2,227,788    -      1,116,652  1,165,165
+Sale of Series B convertible 
+preferred stock at $500 per share
+in May and June 1996 net of
+issuance costs of $3,250      600,000  6,000    -     -   2,990,750    -         -    2,996,750
+Compensation expense related to 
+issuance of stock warrants      -     -     -     -     13,208    -         -     13,208
+Exercise of stock warrants       -     -     4,322    43    2,959    -         -      3,002
+Sale of common stock at $800 per 
+share in December 1996 net of 
+issuance costs of $1,917,952     -     -   2,000,000  20,000 14,062,048    -         -   14,082,048
+Conversion of Series A and B
+convertible preferred stock
+to common stock         2,400,000 24,000 2,046,000  20,460    3,540    -         -       Net loss for the year end
+December 31, 1996           -     -     -     -    -       -      2,806,436 2,806,436
+Balances, December 31, 1996      -     -   7,653,202  76,532 19,300,293    -      3,923,088 15,453,737
+Sale of common stock at $800 per
+share in January 1997
+net of issuance costs of $168,000  -     -    300,000   3,000  2,229,000    -         -    2,232,000
+Compensation expense related to 
+issuance of stock warrants      -     -     -     -     8,283    -         -      8,283
+Exercise of stock warrants       -     -    58,320    583   12,433    -         -     13,016
+Unrealized gain on investments
+available for sale          -     -     -     -    -      5,060        -      5,060
+Net loss for the year end
+December 31, 1997           -     -     -     -    -       -      3,263,351  3,263,351
+Balances, December 31, 1997      -   $  -  8,011,522  $80,115 $21,550,009   $5,060     $7,186,439 $14,448,745
+See notes to financial statements. PATIENT INFOSYSTEMS, INC.
+STATEMENTS OF CASH FLOWS
+YEARS ENDED DECEMBER 31, 1997 AND 1996 AND
+PERIOD FROM FEBRUARY 22, 1995 INCEPTION TO DECEMBER 31, 1995
+-                                                  
+1997      1996       1995
+OPERATING ACTIVITIES:
+Net loss   $3,263,351  $2,806,436  $1,116,652
+Adjustments to reconcile net loss to net cash used in
+operating activities:
+Depreciation and amortization     293,763    186,050     26,473
+Loss on sale of property      2,171      --          Amortization of premiums and discounts on available-for-sale
+marketable securities    209,832     --          Compensation expense related to issuance of
+stock warrants      8,283     13,208         Increase in accounts receivable..    26,741   382,160    4,055
+Increase in prepaid expenses and other current assets..   234,980   146,542    23,984
+Decrease increase in accounts payable..   107,000   166,095    362,769
+Increase in accrued salaries and wages..    193,243     78,770     48,259
+Decrease increase in accrued expenses..   132,221    192,076     19,381
+Decrease increase in deferred revenue..   515,234    414,728    168,055
+Decrease increase in accrued loss on development contracts    36,142    67,139                                                        Net cash used in operating activities..  4,028,041  2,549,262   519,754
+INVESTING ACTIVITY:
+Property and equipment additions    394,161   494,577   579,983
+Proceeds from sale of property      1,299      --        Purchases of available-for-sale marketable securities..  18,121,444     --        Maturities of available for-sale marketable securities..   6,104,000      --        Increase in other assets    247,393     --                                                        Net cash used in investing activities..  12,657,699   494,577   579,983
+FINANCING ACTIVITIES:
+Proceeds from issuance of common and preferred
+stock, net    2,245,016   17,081,800   2,281,817
+Decrease increase in accrued initial public offering costs..   446,568    446,568                                                       Net cash provided by financing activities..   1,798,448   17,528,368   2,281,817
+INCREASE DECREASES IN CASH AND CASH EQUIVALENTS..  14,887,292  14,484,529   1,182,080
+CASH AND CASH EQUIVALENTS AT
+BEGINNING OF PERIOD   15,666,609   1,182,080                                                CASH AND CASH EQUIVALENTS AT
+END OF PERIOD   $  779,317  $15,666,609  $ 1,182,080
+Supplemental disclosures of cash flow information
+Cash paid and received for income taxes, net..  $  9,509  $   1,716  $                                           See notes to financial statements  PATIENT INFOSYSTEMS, INC. NOTES TO FINANCIAL STATEMENTS
+YEARS ENDED DECEMBER 31, 1997, 1996 AND 
+PERIOD FROM FEBRUARY 22, 1995 INCEPTION TO DECEMBER 31, 1995
+-  1.  BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+Organization - Patient Infosystems, Inc. designs and develops health care
+information systems and services to manage, collect and analyze patient-related
+information to improve patient compliance with prescribed treatment protocols.
+Through its various patient compliance programs for disease state management,
+the Company provides important benefits for the patient, the health care
+provider and the payor. The Company was incorporated in Delaware on February 22,
+1995 under the name DSMI Corp., changed its name to Disease State Management,
+Inc. on October 13, 1995, and on June 28, 1996 changed its name to Patient
+Infosystems,  Inc. Prior to January 1, 1997, the Company was a development
+stage enterprise.
+Use of Estimates in the Preparation of Financial Statements - The preparation of
+financial statements in conformity with generally accepted accounting principles
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual amounts could differ
+from those estimates.
+Fair Value of Financial Instruments - The Company financial instruments
+consist of cash and equivalents and available-for-sale securities. The carrying
+values of cash and equivalents and available-for-sale marketable securities
+approximate fair value.
+Revenue Recognition and Deferred Revenue - The Company principal source of
+revenue to date has been from contracts with a pharmaceutical company for the
+development and operation of disease management programs for chronic diseases,
+disease  management  programs and other health care  information  system
+applications. Deferred revenue represents amounts billed in advance under these
+contracts.
+Development Contracts - The Company program development contracts typically
+require payment from the customer at the time that the contract is executed,
+with additional payments made as certain development milestones are met.
+Development contract revenue is recognized on a percentage of completion basis,
+in accordance with the ratio of total development cost incurred to the estimated
+total development costs for the entire project.
+Losses, if any, are recognized in full as identified.
+Program Operations - The Company program operation contracts call for a per
+enrolled patient fee to be paid by the customer for a series of program services
+as defined in the contract. The timing of customer payments varies by contract,
+but typically occurs in advance of the associated services being provided.
+Revenues from program operations are recognized ratably as the program services
+are delivered.
+Cash and Cash Equivalents - Cash and cash equivalents include all highly liquid
+debt instruments with original maturities of three months or less.
+Concentrations of Credit Risk - Financial instruments which potentially subject
+the Company to concentration of credit risk consist principally of cash and cash
+equivalents and accounts receivable. The Company places its cash and cash
+equivalents with high credit quality institutions.
+The Company current contracts are concentrated in a small number of customers,
+consequently, the loss of any one of its customers could have a material adverse
+effect on the Company and its operations. During the years ended December 31,
+1997 and 1996, approximately $925,800 45% and $834,000 99%, respectively, of
+the Company revenues arose from contracts with one customer. At December 31,
+1997 and 1996, accounts receivable included balances of $231,484 and $265,940,
+respectively, from contracts with that customer.
+Property and Equipment - Property and equipment are stated at cost. Depreciation
+is computed using the straight-line method over the estimated useful lives of
+the assets, which range from 3 to 10 years.
+The Company regularly assesses all of its long lived assets for impairment and
+recognizes a loss when the carrying value of an asset exceeds its fair value.
+The Company determined that no impairment loss need be recognized for applicable
+assets in 1997 or 1996.
+Research and Development - Research and development costs consist principally of
+compensation and benefits paid to Company  employees.  All research and
+development costs are expensed as incurred.
+Income Taxes - The Company uses the asset and liability method of accounting for
+income taxes in accordance with Statement of Financial Accounting Standards No.
+109, Accounting for Income Taxes. Under the asset and liability method,
+deferred income tax assets and liabilities are recognized for the future tax
+consequences  attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases and net operating loss and tax credit carryforwards.
+Net Loss Per Share - Net loss per share is based on the weighted average number
+of common shares outstanding subsequent to the Company initial public offering
+in 1996. Pursuant to rules of the Securities and Exchange Commission Staff, all
+common and potential common shares issued by the Company at a price less than
+the initial public offering price during at least the 12 months preceding the
+offering date using the treasury stock method until shares are issued have
+been included in the calculation of common and potential common shares
+outstanding for all periods presented prior to the December 1996 initial public
+offering.
+Retirement Plan - The Company has a retirement plan which qualifies under
+Section 401k of the Internal Revenue Code This retirement plan allows eligible
+employees to contribute 1% to 15% of their income on a pretax basis to the plan.
+The Company annual contribution to the plan is at the discretion of the Board
+of Directors. The Company made no contributions to this plan in 1997 or 1996.
+Stock Split - On November 22, 1996, the Company effected a 72-for-1 reverse
+stock split of all outstanding shares of common stock.
+Statement of Financial Accounting Standards No. 128 - In March 1997, the
+Financial Accounting Standards Board FASB issued Statement of Financial
+Accounting Standards SFAS No. 128, Earnings Per Share. The new standard
+requires dual presentation of basic and diluted earnings per share EPS on the
+face of the statement of operations and requires a reconciliation of the
+numerators and denominators of basic and diluted EPS calculations. The statement
+is effective for periods ending after December 15, 1997.  The  Company  has 
+calculated and presented basic and diluted earnings per share on the face of 
+the statement of operations for the years ended December 31, 1997 and 1996 and
+from the period of February 1995 inception to December 31, 1995.
+Statement of Financial Accounting Standards No. 130 - In June 1997, the
+Financial Accounting Standards Board FASB issued Statement of Financial
+Accounting Standards No. 130, Reporting Comprehensive Income, which is
+required to be adopted for fiscal years beginning after December 15, 1997. This
+statement establishes standards for reporting and display of comprehensive
+income and its components in a full set of general-purpose financial statements.
+This statement requires that all items that are required to be recognized under
+accounting standards as components of comprehensive income to be reported in a
+financial statement that is displayed with the same prominence as other
+financial statements. In the opinion of management, SFAS 130 will not have a 
+material effect on the Company financial statements. 
+Statement of Financial Accounting Standards No. 131 - In June 1997 the Financial
+Accounting Standards Board issued Statement of Financial Accounting Standards
+No. 131, Disclosures about Segments of an Enterprise and Related Information,
+effective for fiscal years beginning after December 15, 1997. The statement
+requires that a public company report financial and descriptive information
+about its reportable operating segments using the management approach. In the 
+opinion of management, SFAS 131 will not have a material effect on the Company'
+financial statements.
+Statement of Position 97-2 - In October 1997, the Accounting Standards Executive
+Committee  issued  Statement of Position SOP 97-2,  Software  Revenue
+Recognition, which provides guidance on applying generally accepted accounting
+principles in recognizing revenue on software transactions and is effective for
+transactions entered into in fiscal years beginning after December 15, 1997. The
+Company does not believe that the implementation of SOP 97-2 will have a
+material effect on expected revenues or earnings. 2.  AVAILABLE -FOR-SALE SECURITIES
+The following is a summary of available-for-sale securities as of December 31,
+1997 U.S. Government securities      $12,232,335
+Realized and unrealized gains and losses on available-for-sale securities were
+immaterial as of and for the year ended December 31, 1997.
+The cost and estimated fair value of marketable securities by contractual
+maturity at December 31, 1997 are as follows                       Amortized
+Cost       Fair Value
+Due in one year or less          $ 2,824,280     $ 2,823,704
+Due after one year through two years     9,400,389      9,408,631
+$12,224,669     $12,232,335
+3.  PROPERTY AND EQUIPMENT
+Property and equipment are summarized as follows at December 31                               1997     1996
+Computer software   $ 380,831  $ 307,735
+Computer equipment    600,279   409,681
+Telephone equipment    189,479   134,656
+Leasehold improvements     41,504    37,729
+Office furniture and equipment..   249,291   184,708
+1,461,384  1,074,509
+Less accumulated depreciation and amortization..   502,419   212,472
+Property and equipment, net..  $ 958,965  $ 862,037
+4.  INCOME TAXES
+The Company has not recorded any income tax expense during the period from
+Inception to  December 31, 1997 because of operating losses incurred since
+inception
+As of December 31, 1997, the Company has net operating loss carryforwards for
+Federal income tax purposes of approximately $7,100,000 which are available to
+offset future Federal taxable income. These carryforwards expire in varying
+amounts through 2012. No tax benefit relating to the net operating loss
+carryforwards has been reflected in the financial statements due to the
+uncertainty regarding the utilization of any such benefit, and valuation
+allowances of $2,414,000 for 1997 and $1,326,000 for 1996 have been recognized
+to offset any deferred tax asset related to these carryforwards. Future benefit
+may occur to the extent taxable income is earned prior to the expiration of the
+carryforward period. 5.  PUBLIC OFFERING OF COMMON STOCK
+In December 1996, the Company sold 2,000,000 shares of common stock through an
+initial public offering which generated net proceeds of $14,082,048 after
+deducting applicable issuance costs and expenses. On January 8, 1997, an
+additional 300,000 shares of common stock were sold pursuant to an underwriters
+over-allotment provision, which generated net proceeds to the Company of
+$2,232,000 after deducting underwriting discounts and commissions.
+In connection with this initial public offering, the Company outstanding
+shares of Series A and B convertible preferred stock were converted into
+2,046,000 shares of common stock. 6.  STOCK OPTIONS AND WARRANTS
+The Company has an Employee Stock Option Plan the Stock Option Plan for the
+benefit of certain employees, non-employee directors, and key advisors. The
+Company has adopted the disclosures-only provision of Statement of Financial
+Accounting Standards No. 123, Accounting for Stock-Based  Compensation.
+Accordingly, no compensation cost has been recognized for the Stock Option Plan
+as it relates to employees. Had compensation cost for the Company stock option
+plan been determined based on the fair value at the date of grant for awards
+consistent with the provisions of SFAS No. 123, the Company net loss and net
+loss per share would have been increased to the pro forma amounts indicated
+below                                         Period from
+Feburary 22,1995
+Year ended     Year ended    Inception to
+December 31, 1997  December 31, 1996 December 31, 1995
+Net loss - as reported          $3,263,351     $2,806,43    $1,116,652
+Net loss - pro forma           $3,406,973     $2,879,457   $1,125,428
+Net loss per share - basic
+and diluted - as reported        $   041     $   44   $   18
+Net loss per share - basic
+and diluted - pro forma         $   043     $   46   $   18 The fair value of each option grant is estimated on the date of grant using the
+Black-Scholes option-pricing model using an assumed risk-free interest rates of
+598% for the year ended December 31, 1997 and 7% for the year ended December
+31, 1996 and an expected life of 7 years. As the Company was still considered a
+private company for the purposes of applying SFAS No. 123 for the period from
+Inception to June 30, 1996, the Company did not include a volatility factor
+assumption in its fair value model. For the options granted after July 1, 1996,
+the Company has used a volatility factor of 53 for year ended December 31, 1997
+and 60 for year ended December 31, 1996. For purposes of pro forma disclosure,
+the estimated fair value of each option is amortized to expense over that
+option vesting period. The Stock Option Plan authorizes 1,080,000 shares of
+common stock to be issued.
+Stock options granted under the Stock Option Plan may be of two types: 1
+incentive stock options and 2 nonqualified stock options. The option price of
+such grants shall be determined by a Committee of the Board of Directors the
+Committee, but shall not be less than the estimated fair market value of the
+common stock at the date the option is granted. The terms of the grants shall be
+fixed by the Committee, with no term lasting longer than ten years. The ability
+to exercise such options shall be determined by the Committee when the options
+are granted. All of the outstanding options vest at the rate of 20% per year
+with the exception of 36,000 options which were vested as of the date of grant.
+A summary of stock option activity follows                                               Weighted-
+Outstanding   Average
+Options  Exercise Price
+Options granted during the period from Inception
+to December 31, 1995 weighted average fair value of $13..658,800  $  035
+Options forfeited by holders during the period
+from Inception to December 31, 1995   $  054
+Options exercised during the period form Inception
+to December 31, 1995  2,880  $  014
+Options outstanding at January 1, 1996   $  033
+Options granted during the year ended December 31, 1996
+weighted average fair value of $324   $  532
+Options forfeited by holders during the year
+ended December 31, 1996   $  087
+Options outstanding at December 31, 1996   $  234
+Options granted during the year ended December 31, 1997
+weighted average fair value of $516   $  439
+Options forfeited by holders during the year
+ended December 31, 1997   $  483
+Options exercised during the year ended December 31, 1997   $  022
+Options outstanding at December 31, 1997   $  221
+Options exercisable at December 31, 1997   $  082
+Options available for grant at December 31, 1997 
+The following table  summarizes  information  concerning  outstanding and
+exercisable options at December 31, 1997                  Options Outstanding        Options Exercisable
+Weighted
+Average   Weighted          Weighted
+Remaining   Average          Average
+Range of         Number  Contractual  Exercise     Number  Exercise
+Exercise Price      Outstanding   Life    Price     Exercisable Price
+$14 - $ 99       390,480    736    $ 29      177,792  $ 027
+$100 - $199       44,640    794    $ 157      13,968  $ 152
+$200 - $499       272,840    924    $ 295      13,608  $ 208 500 - $1000       90,100    908    $ 856       7,560  $1000
+798,060                  212,928
+The Company also has outstanding stock purchase warrants entitling the holders
+to purchase a total of 23,400 shares of common stock at prices ranging from
+$208 to $1000 per share weighted average exercise price of $269. At
+December 31, 1997, 4,680 of these warrants are currently vested, with the
+remaining 18,720 warrants vesting at 20% per year. The Company has recorded
+compensation cost of $8,283 for the year ended December 31, 1997 and $13,208 for
+the year ended December 31, 1996 in connection with the issuance of these
+warrants.
+7.  COMMITMENTS
+The Company leases office space for its main operating facility under an
+operating lease agreement expiring in November 1999. Rental expense from this
+lease for the years ended December 31, 1997, 1996 and for the period from
+February 22, 1995 inception to December 31, 1995, was $154,907, $70,479 and
+$40,375 respectively.
+At December 31, 1997, future minimum lease payments under this lease are
+summarized as follows            1998       $180,523
+1999        173,100
+$353,623
+8.  EARNINGS PER SHARE 
+Net loss per share is based on the weighted average number of common shares
+outstanding subsequent to the Company initial public offering in 1996.Pursuant
+to rules of the Securities and Exchange Commission Staff, all common and 
+potential common shares issued by the Company at a price less than the initial
+public offering price during at least the 12 months preceding the offering date
+using the treasury stock method until shares are issued have been included
+in the calculation of common and potential common shares outstanding for
+all periods presented prior to the December 1996 initial public offering.
+Because th Company is in a loss position at December 31,1997, options to 
+purchase 798,060 shares of common  stock at  $14 to $1000  per share were
+outstanding as of December 31, 1997 but were not included in the computation of
+diluted EPS as they would be dilutive.
+Per Share
+Net Loss   Shares    Amount
+1997
+- Basic and Diluted EPS       $3,263,351  7,980,094   $41
+1996
+- Diluted EPS            $2,806,436  6,347,716   $44
+1995
+- Diluted EPS            $1,116,652  5,954,299   $18 Item 3.  Legal Proceedings.
+The Company is not a party to any material legal proceedings.
+Item 4. Directors and Executive Officers of the Registrant.
+Incorporated by reference to the Company Proxy Statement for
+Annual Meeting of Stockholders to be filed with the Securities and
+Exchange Commission within 120 days after the close of the fiscal year
+ended December 31, 1997. 

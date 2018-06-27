@@ -1,0 +1,992 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Consolidated Financial Statements for the years ended December 31, 1998, 1997
+and 1996                                                  
+Independent Auditors' 
+Consolidated Balance 
+Consolidated Statements of 
+Consolidated Statements of Shareholders' 
+Consolidated Statements of Cash 
+Notes to Consolidated Financial                     40
+41              INDEPENDENT AUDITORS' REPORT
+The Board of Directors and Shareholders
+HIE, Inc.
+We have audited the accompanying consolidated balance sheets of HIE, Inc.
+formerly Healthdyne Information Enterprises, Inc. and subsidiaries as of
+December 31, 1998 and 1997, and the related consolidated statements of
+operations, shareholders' equity, and cash flows for each of the years in the
+three-year period ended December 31, 1998. These consolidated financial
+statements are the responsibility of the Company management. Our
+responsibility is to express an opinion on these consolidated financial
+statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of HIE, Inc. and
+subsidiaries as of December 31, 1998 and 1997, and the results of their
+operations and their cash flows for each of the years in the three-year period
+ended December 31, 1998, in conformity with generally accepted accounting
+principles.
+KPMG LLP
+Atlanta, Georgia
+January 26, 1999
+F-1
+42              HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+CONSOLIDATED BALANCE SHEETS
+In thousands, except per share amounts                                                December 31,
+1998     1997
+ASSETS
+Current assets:
+Cash and cash equivalents                                $ 3,167   $ 7,777
+Trade accounts receivable, less allowances of $720 and $626 at
+December 31, 1998 and 1997, respectively note 1d                  12,295    5,977
+Other current assets note 7                               2,555    1,375
+Total current assets                                  18,017    15,129
+Notes receivable                                        82     335
+Purchased software, net notes 1e and 1k                        1,946    2,397
+Capitalized software development costs, net notes 1f and 1k              1,606     564
+Property and equipment, net note 4                             2,289    1,939
+Excess of cost over net assets of businesses acquired, net note 3             7,535    8,503
+Other assets                                          60      73
+Total assets                                     $ 31,535   $ 28,940
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Current installments of long-term debt and obligations under capital leases note 6  $ 2,911   $ 5,175
+Accounts payable, principally trade                            1,276     863
+Accrued liabilities note 5                                1,718    2,821
+Deferred revenue                                      4,690    3,597
+Total current liabilities                                10,595    12,456
+Long-term debt and obligations under capital leases, excluding current
+installments note 6                                    642     316
+Other liabilities                                        -     476
+Total liabilities                                    11,237    13,248
+Shareholders' equity note 8:
+Preferred stock, without par value. Authorized 20,000 shares; designated
+Series A cumulative preferred stock 500 shares; issued none                 -      -
+Common stock, $001 par value. Authorized 50,000 shares; 24,972 and 23,563
+issued and outstanding shares at December 31, 1998 and 1997, respectively         250     236
+Additional paid-in capital                                41,301    38,280
+Deferred compensation                                     -     73
+Accumulated deficit                                   21,253   22,751
+Total shareholders' equity                               20,298    15,692
+Commitments notes 9 and 11
+Total liabilities and shareholders' equity                        $ 31,535   $ 28,940
+See accompanying notes to consolidated financial statements 
+F-2
+43
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+In thousands, except per share amounts                                        Years ended December 31,
+1998     1997      1996
+Revenue note 12:
+Software                                $ 12,432    $ 7,388    $ 8,622
+Services and other                            14,752     10,676     11,621
+Total revenue                              27,184     18,064     20,243
+Cost of revenue:
+Software                                  852     1,026      907
+Services and other                            7,102     6,025     6,449
+Total cost of revenue                          7,954     7,051     7,356
+Gross profit                              19,230     11,013     12,887
+Operating expenses:
+Sales and marketing                            6,672     5,362     5,435
+Research and development                         3,882     2,977     2,540
+General and administrative including related party expenses
+of $10, $13 and $51 for the respective periods note 2        6,017     4,784     4,415
+Merger costs notes 1k and 3                      1,060       -       -
+Obsolete software and other write-offs note 1k              -     4,650       -
+Purchased in-process research and development note 3            -     1,746       -
+Operating earnings loss                        1,599     8,506      497
+Losses of affiliate note 3                          -      151       -
+Interest expense                              254     436     643
+Interest income                               153      497      253
+Earnings loss before income taxes                   1,498     8,596      107
+Income taxes note 7                             -       -       -
+Net earnings loss                          $ 1,498    $ 8,596   $  107
+Net earnings loss per share of common stock note 1m:
+Basic                                 $  006    $ 038   $  001
+Diluted                                $  006    $ 038   $  001
+Shares used in the calculation of net earnings loss
+per share of common stock note 1m:
+Basic                                  24,031     22,587     19,863
+Diluted                                 24,867     22,587     21,277
+See accompanying notes to consolidated financial statements.                    F-3
+44
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+In thousands                           Common Stock    Additional                    Total   
+Paid-in    Deferred    Accumulated  Shareholders'
+Shares    Amount   Capital   Compensation   Deficit     Equity
+Balance at December 31, 1995            18,754  $  188 $ 24,066    $  23    $14,262    $ 9,969
+Issuance of common stock in public and
+private offerings, net of offering expenses
+of $654                      2,919     29  11,025       --       --      11,054
+Stock options exercised                905      9    452       --       --       461
+Employee stock plan purchases             14     --    58       --       --        58
+Deferred compensation related to granting
+of stock options                   --     --    29      29       --        Amortization of deferred compensation, net
+of forfeitures                    --     --    75      29       --       46
+Net earnings                      --     --    --       --       107       107
+Balance at December 31, 1996            22,592     226  35,555      23    14,155     21,603
+Issuance of common stock in an acquisition      416      4   1,095       --       --      1,099
+Issuance of common stock in private
+offerings, net of offering expenses of $20     280      3   1,236       --       --      1,239
+Stock options exercised                193      2    31       --       --        33
+Employee stock plan purchases             82      1    169       --       --       170
+Deferred compensation related to granting
+of stock options                   --     --    233      233       --        Amortization of deferred compensation, net
+of forfeitures                    --     --    39      183       --       144
+Net loss                        --     --    --       --     8,596     8,596
+Balance at December 31, 1997            23,563     236  38,280      73    22,751     15,692
+Issuance of common stock in satisfaction of
+investment banker advisory fee           100      1    405       --       --       406
+Issuance of common stock in satisfaction of
+note payable to HUBLink shareholder         125      1    507       --       --       508
+Stock options exercised               1,092     11   1,491       --       --      1,502
+Employee stock plan purchases             92      1    140       --       --       141
+Amortization of deferred compensation, net
+of forfeitures                    --     --    --       73       --        73
+Income tax benefits arising from stock
+option exercises                   --     --    478       --       --       478
+Net earnings                      --     --    --       --      1,498      1,498
+Balance at December 31, 1998            24,972  $  250 $ 41,301    $   --    $21,253    $ 20,298
+See accompanying notes to consolidated financial statements.                    F-4
+45
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+In thousands                                    Years ended December 31,
+1998     1997      1996
+Cash flows from operating activities:
+Net earnings loss                     $ 1,498   $ 8,596    $ 107
+Adjustments to reconcile net earnings loss to net cash
+provided by used in operating activities:
+Obsolete software and other write-offs              -     4,614       -
+Purchased in-process research and development          -     1,746       -
+Losses of affiliate                       -      151       -
+Provision for doubtful accounts                270      445      383
+Depreciation and amortization                2,165     1,816     1,738
+Compensation related to stock options, net           73      144      46
+Increase in trade accounts receivable            8,457    1,206    2,934
+Increase in other current assets               302     711     197
+Increase decrease in trade accounts payable         413     767      814
+Increase decrease in accrued liabilities          419     122      728
+Increase in deferred revenue                 1,093      503     1,289
+Net cash provided by used in operating activities    3,666    1,739     1,882
+Cash flows from investing activities:
+Purchased software                      112     445    1,713
+Capitalized software development costs           1,249     467     789
+Capital expenditures                     258     303     486
+Change in other non-current assets and liabilities, net    210    1,071      112
+Proceeds from disposition of business            1,517       -       -
+Net cash used in investing activities            312    2,286    2,876
+Cash flows from financing activities:
+Proceeds from issuance of long-term debt             -      583       67
+Principal payments on long-term debt            3,797    1,261    4,159
+Net borrowings under line of credit             1,522      120      250
+Proceeds from issuances of common stock           1,643     1,589     11,573
+Net cash provided by used in financing activities     632    1,031     7,731
+Net increase decrease in cash and cash equivalents   4,610    2,994     6,737
+Cash and cash equivalents at beginning of year          7,777    10,771     4,034
+Cash and cash equivalents at end of year           $ 3,167   $ 7,777    $ 10,771
+F-5
+46
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS Continued
+In thousands                                     Years ended December 31,
+1998     1997      1996
+Supplemental disclosures of cash paid for   Interest                           $   254   $   190   $   279
+Income taxes                         $    -   $    -   $    -
+Supplemental disclosures of non-cash investing and financing 
+activities   Equipment acquired under capital lease obligations      $   844   $   467   $   132
+Obligations incurred in connection with acquisitions     $    -   $   840   $    -
+Issuance of common stock in connection with an acquisition  $    -   $  1,099   $    -
+Issuance of common stock in satisfaction of note payable
+to HUBLink shareholder                   $   508   $    -   $    -
+Issuance of common stock in satisfaction of investment
+banker advisory fee                     $   406   $    -   $    -
+Income tax benefits arising from stock option exercises    $   478   $    -   $    -
+Disposal of business Assets disposed of                        $  2,445   $    -   $    -
+Liabilities disposed of                        278      -       -
+Amount in escrow                            650      -       -
+Proceeds from disposition of business             $  1,517   $    -   $    -
+See accompanying notes to consolidated financial statements.                    F-6
+47
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts 1  Summary of Significant Accounting Policies
+a Business
+HIE, Inc. and subsidiaries collectively referred to as HIE or the
+Company provide software tools and services to achieve the
+enterprise-wide integration of information.
+HIE was incorporated on June 15, 1994 in the State of Georgia and is
+headquartered in Marietta, Georgia. HIE was a wholly owned subsidiary
+of Healthdyne, Inc. Healthdyne until November 6, 1995 at which
+time Healthdyne distributed all of the outstanding shares of HIE to
+the Healthdyne shareholders the Spin-off. On February 24, 1999,
+the Company changed its name from Healthdyne Information Enterprises,
+Inc. to HIE, Inc.
+b Basis of Consolidated Financial Statement Presentation
+The consolidated financial statements include the accounts of the
+Company and its subsidiaries, as appropriate see note 3.
+The consolidated financial statements have been prepared in
+conformity with generally accepted accounting principles. In
+preparing the consolidated financial statements, management is
+required to make estimates and assumptions that affect the reported
+amounts of assets and liabilities as of the dates of the consolidated
+balance sheets and income and expenses for the periods. Actual
+results could differ from those estimates.
+All significant intercompany balances and transactions have been
+eliminated in consolidation.
+c Cash and Cash Equivalents
+Cash and cash equivalents consist of cash and short-term investments
+with original maturities of three months or less.
+d Revenue
+Revenue is derived from the sale of integration software tools and
+from providing related education, consulting, project management,
+implementation, support and other integration services. Revenue from
+software licensing and support fees is recognized in accordance with
+Statement of Position SOP 97-2, Software Revenue Recognition.
+Software revenue is recognized based on four criteria proscribed by
+SOP 97-2, which are: 1 persuasive evidence of an arrangement
+exists, 2 delivery has occurred, 3 the fee is fixed or
+determinable, and 4 collectibility is probable. All service revenue
+is recognized as the work is performed or, in the case of a fixed fee
+contract, on the                    F-7
+48
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+percentage-of-completion basis, even though some services are
+prepaid. Deferred revenue represents advance payments or billings for
+software licenses, services, or support in advance of revenue
+recognition.
+The Company established business relationships with several new
+distributors in 1998 and 1997 and therefore, limited historical data
+is available on which to base estimates of future returns, allowances
+and warranties. Management of the Company has provided an allowance
+for expected returns, allowances and warranties based on historical
+rates. The amounts of returns, allowances and warranties ultimately
+incurred could differ materially in the near term from the allowances
+calculated.
+e Purchased Software
+Purchased software includes the cost of purchased integration
+software tools and the cost of software acquired in connection with
+business combinations. It also includes the cost of licenses to use,
+embed and sell software tools developed by others. These costs are
+being amortized ratably based on the projected revenue associated
+with these purchased or licensed tools and products or the
+straight-line method over five years, whichever method results in a
+higher level of annual amortization. Amortization expense related to
+purchased software amounted to $563, $886 and $620 in 1998, 1997 and
+1996, respectively. Accumulated amortization related to purchased
+software totaled $1,341 and $778 at December 31, 1998 and 1997,
+respectively. See notes 1k and 3.
+f Research and Development and Capitalized Software Development Costs
+Prior to the determination of technological feasibility for software
+tools, research and development costs are expensed as incurred. After
+determination of technological feasibility and before the release of
+the software tools for general availability, the development costs
+related to such tools are capitalized. These costs are being
+amortized ratably based on the projected revenue associated with
+these tools or the straight-line method over five years, whichever
+method results in a higher level of annual amortization. The Company
+capitalized $1,249, $467 and $789 of software development costs in
+1998, 1997 and 1996, respectively. Amortization expense related to
+capitalized software development costs was $207, $101 and $39 in
+1998, 1997 and 1996, respectively. Accumulated amortization related
+to capitalized software development costs totaled $329 and $122 at
+December 31, 1998 and 1997, respectively. See note 1k.
+g Property and Equipment
+Property and equipment are stated at cost less accumulated
+depreciation and amortization. Depreciation is provided on the
+straight-line method over an estimated useful life of five years.
+Amortization of leasehold improvements is recorded over the                    F-8
+49
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+shorter of the lives of the related assets or the lease terms and is
+included in depreciation expense.
+h Excess of Cost Over Net Assets of Businesses Acquired
+The excess of cost over net assets of businesses acquired goodwill
+is being amortized using the straight-line method over 15 years.
+Amortization expense related to acquired businesses amounted to $672,
+$672, and $682 in 1998, 1997 and 1996, respectively. At each balance
+sheet date, the Company assesses the recoverability of this
+intangible asset by determining whether the amortization of the
+goodwill balance over its remaining life can be recovered through
+undiscounted future operating cash flows of the acquired operation.
+The amount of goodwill impairment, if any, is measured based on
+projected discounted future operating cash flows using a discount
+rate reflecting the Company average cost of funds. Accumulated
+amortization related to goodwill totaled $2,611 and $1,939 at
+December 31, 1998 and 1997, respectively. See note 3.
+i Long-Lived Assets and Long-Lived Assets to be Disposed of
+The Company accounts for long-lived assets in accordance with the
+provisions of Statement of Financial Accounting Standards No. 121,
+Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to be Disposed of. This statement requires that long-lived
+assets and certain identifiable intangibles be reviewed for
+impairment whenever events or changes in circumstances indicate that
+the carrying amount of an asset may not be recoverable.
+Recoverability of assets to be held and used is measured by a
+comparison of the carrying amount of an asset to future net cash
+flows expected to be generated by the asset. If such assets are
+considered to be impaired, the impairment to be recognized is
+measured by the amount by which the carrying amount of the assets
+exceeds the fair value of the assets. Assets to be disposed of are
+reported at the lower of the carrying amount or fair value less costs
+to sell.
+j Stock Option Plans
+Prior to January 1, 1996, the Company accounted for its stock option
+plans in accordance with the provisions of Accounting Principles
+Board APB Opinion No. 25, Accounting for Stock Issued to
+Employees, and related interpretations. As such, compensation expense
+to be recognized over the related vesting period would generally be
+determined on the date of grant only if the current market price of
+the underlying stock exceeded the exercise price. On January 1, 1996,
+the Company adopted Statement of Financial Accounting Standards No.
+123, Accounting for Stock-Based Compensation SFAS 123, which
+permits entities to recognize as expense over the vesting period the
+fair value of all stock-based awards on the date of grant.
+Alternatively, SFAS 123 also allows entities to continue to apply the
+provisions of APB Opinion No. 25 and provide pro forma net earnings
+loss and pro forma earnings loss per share disclosures for
+employee stock option grants as if the fair-value-based method                    F-9
+50
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+defined in SFAS 123 had been applied. The Company has elected to
+continue to apply the provisions of APB Opinion No. 25 and provide
+the pro forma disclosures required by SFAS 123 see note 8.
+k Non-recurring Charges
+The Company incurred the following non-recurring charges during 1998
+and the fourth quarter of 1997                                      Fourth
+Quarter
+1998   1997
+Obsolete software and other write-offs       $   -  $ 4,650
+Purchased in-process research and development       -   1,746
+Merger costs                     1,060     -
+$ 1,060  $ 6,396
+Merger costs resulting from the Company acquisition of HUBLink
+Inc., which was accounted for as a pooling of interests, include
+investment banking fees, legal and accounting fees, travel and
+severance costs see note 3. The total merger costs were $1,060
+during 1998.
+During the fourth quarter of 1997, in conjunction with a change in
+executive management, the Company ceased selling and distributing,
+and consequently wrote-off, certain third-party and internally
+developed software, related project costs and accounts receivable,
+and other costs that no longer contributed to the Company redefined
+business direction stated in note 1 a above.
+In connection with the acquisition of Criterion Health Strategies,
+Inc. during 1997, the Company recorded a non-recurring charge related
+to purchased in-process research and development costs for
+integration software tools. The amount of the non-recurring charge
+was equal to the estimated current fair value of specifically
+identified technologies for which technological feasibility had not
+yet been established pursuant to Statement of Financial Accounting
+Standards No. 86, Accounting for Costs of Computer Software to be
+Sold, Leased or Otherwise Marketed and for which future alternative
+uses did not exist at the time of acquisition see note 3.
+l Income Taxes
+The Company accounts for income taxes using the asset and liability
+approach in accordance with Statement of Financial Accounting
+Standards No. 109, Accounting for Income Taxes SFAS 109. Under
+SFAS 109, deferred income taxes are recognized                    F-10
+51
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+for the tax consequences of temporary differences by applying
+enacted statutory tax rates applicable to future years to differences
+between the financial statement carrying amounts and the tax bases of
+existing assets and liabilities. Additionally, the effect on deferred
+taxes of a change in tax rates is recognized in earnings in the
+period that includes the enactment date. Income tax benefits are not
+recognized unless ultimate realization of such benefits is more
+likely than not.
+m Net Earnings Loss Per Share of Common Stock
+On December 31, 1997, the Company adopted Statement of Financial
+Accounting Standards No. 128, Earnings Per Share SFAS 128, which
+prescribes the calculation methodology and financial reporting
+requirements for basic and diluted earnings per share. Basic earnings
+loss per common share available to common shareholders are based on
+the weighted average number of common shares outstanding. Diluted
+earnings loss per common share available to common shareholders are
+based on the weighted average number of common shares outstanding and
+dilutive potential common shares, such as dilutive stock options,
+determined using the treasury stock method.
+n Operating Segments
+On January 1, 1998, the Company adopted Statement of Financial
+Accounting Standards No. 131, Disclosures about Segments of an
+Enterprise and Related Information. During 1998, the Company operated
+in two segments: i the licensing of integration software products
+and performance of related integration services and ii the
+providing of consulting services related to information systems
+integration for healthcare organizations see note 13.
+o Comprehensive Income
+On January 1, 1998, the Company adopted Statement of Financial
+Accounting Standards No. 130, Reporting Comprehensive Income SFAS
+130. SFAS 130 establishes standards for reporting and presentation
+of comprehensive income and its components in a full set of financial
+statements. The Company has no other comprehensive income to report
+for the three years ended December 31, 1998.
+F-11
+52
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts 2  Related Party Transactions
+Matria Healthcare, Inc. Matria, which was formed in a merger
+involving Healthdyne in March 1996, provides certain legal, tax, data
+processing, personnel and accounting services to the Company. Amounts
+charged to the Company related to such services, which have been
+reflected as general and administrative expenses in the accompanying
+consolidated statements of operations, were $10, $13, and $51 in 1998,
+1997 and 1996, respectively. Charges for services provided by Matria to
+the Company are generally determined based on estimates of actual time in
+providing such services to the Company using actual costs without markup.
+To the extent that charges for such services and for costs incurred by
+Matria on the Company behalf are allocations of common expenses, such
+allocations are based on one or more criteria such as asset or revenue
+size, relative transaction volume, employee headcounts, facility size and
+other relevant criteria. The Company believes that such allocation
+methods result in reasonable approximations of the common expenses
+related to the Company.
+3  Acquisitions and Dispositions
+Integrated Services Group
+On December 31, 1998, the Company disposed of assets comprising of its
+Integrated Services Group ISG to Superior Consulting Company, Inc., a
+wholly-owned subsidiary of Superior Consultant Holdings Corporation, in
+exchange for cash of $22 million, of which $650 is held in escrow until
+certain conditions are met. ISG provides consulting services related to
+information systems integration for healthcare organizations. ISG
+comprised approximately 123% of the Company revenue in 1998 see note
+13. There was no gain or loss resulting from this disposal.
+HUBLink, Inc.
+In May, 1998, the Company issued 29 million shares of its common stock
+in exchange for all outstanding common stock of HUBLink, Inc. HUBLink
+of Columbus, Ohio, an integration software tool company. This business
+combination has been accounted for as a pooling-of-interests combination.
+Merger costs totaling $1,060 resulting from the Company acquisition of
+HUBLink include investment banking fees, legal and accounting fees,
+travel and severance costs. The financial position and results of
+operations of the Company have been restated for all periods prior to the
+Merger to give retroactive effect to the Merger.
+F-12
+53
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+The results of operations previously reported by the separate enterprises
+and the combined amounts presented in the accompanying consolidated
+financial statements are summarized below                      Years ended December 31,
+1997      1996
+Revenue:
+HIE                  $15,552     $16,151
+HUBLink                 2,512      4,092
+Combined               $18,064     $20,243
+Net earnings loss:
+HIE                  $6,166    $ 1,183
+HUBLink                 2,430     1,076
+Combined               $8,596     $ 107
+The 1998 pre-merger revenue and net earnings for HUBLink were $2,584 and
+$234, respectively.
+Criterion Health Strategies, Inc.
+In October 1994, the Company committed to make certain loans to Criterion
+Health Strategies, Inc. CHS of Nashville, Tennessee, a provider of
+data management software tools and services, with such loans being
+convertible into a 64% equity ownership interest in CHS. During December
+1995, Massey Burch Capital Corp. Massey Burch agreed to share equally
+HIE funding commitment to CHS in exchange for half of HIE potential
+equity ownership interest in CHS. In December 1996, HIE acquired an
+option the Option to purchase Massey Burch potential equity
+ownership interest in CHS. In June 1997, the existing and potential
+equity ownership interests of various parties in CHS were restructured
+and all equity ownership interests in CHS held by persons other than HIE
+and Massey Burch were canceled in exchange for the grant of options to
+purchase 199 shares of HIE common stock to CHS executive management and
+other employees at the fair value on the date of grant.
+On December 31, 1997, HIE exercised the Option to acquire Massey Burch
+50% equity ownership interest in CHS, bringing HIE equity ownership
+interest in CHS to 100%, in exchange for 416 shares of HIE common stock
+and warrants to purchase 50 shares of HIE common stock for $159 per
+share exercisable through December 2003. The warrants were still
+outstanding at December 31, 1998. Prior to HIE acquisition of the
+majority interest in CHS, the Company share of the losses of CHS was
+netted against notes receivable from CHS and shown as losses of affiliate
+in the accompanying consolidated financial statements. CHS' results of
+operations were included in the Company consolidated statements of
+operations beginning on January 1, 1998.
+F-13
+54
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+The acquisition of CHS was accounted for using the purchase method of
+accounting. The total purchase price of CHS was $3,200. The acquisition
+resulted in purchased in-process research and development of $1,746,
+which was expensed in 1997, purchased software of $715 and additional
+cost over net assets acquired of $336. The Company also assumed an $840
+obligation to a third party for the exclusive use of a software tool in
+the healthcare industry.
+The purchased in-process research and development charge relates to a
+back-end software integration tool research and development project
+designed to facilitate the analysis of data stored in various disparate
+information systems. The amount of this purchased in-process research and
+development charge was determined based on the present value of
+management estimate of the future cash flows discounted by a
+risk-adjusted weighted average cost of capital of 45% expected to be
+derived from the new software integration tool for its estimated
+eight-year life subsequent to the completion of the project, after
+consideration of the fair value of the other CHS assets acquired. At the
+date of acquisition, management estimated that this research and
+development project was approximately 50% complete measured in terms of
+the total estimated man-hours for the project. During 1998, this project
+was completed with costs incurred of $150.
+The following pro forma financial information presents the combined
+results of operations of HIE and CHS as if the acquisition had occurred
+as of January 1, 1997, after giving effect to certain adjustments,
+including the amortization of goodwill and purchased software and related
+income tax effects. The pro forma financial information does not
+necessarily reflect the results of operations that would have occurred
+had HIE and CHS constituted a single entity during 1997.                         Year ended
+December 31, 1997
+Revenue                  $ 18,834
+Net loss                 $ 9,146
+Net loss per share            $ 040
+F-14
+55
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts 4   Property and Equipment
+Property and equipment are summarized as follows                                       December 31,
+1998      1997
+Machinery and equipment                   $ 2,067    $ 1,842
+Furniture and fixtures                      484      471
+Equipment under capital leases                 1,822      978
+Leasehold improvements                      110       99
+4,483     3,390
+Less accumulated depreciation and amortization         2,194     1,451
+Net property and equipment                  $ 2,289    $ 1,939
+5   Accrued Liabilities
+Accrued liabilities are summarized as follows                                      December 31,
+1998     1997
+Benefits and compensation                   $ 1,061    $ 739
+Project completion costs                     352    1,076
+License fee                             -     560
+Other                               305     446
+$ 1,718    $2,821
+F-15
+56
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts 6  Long-term Debt
+Long-term debt consists of the following                                            December 31,
+1998      1997
+Lines of credit see below                        $ 2,492    $  970
+Promissory note payable - paid-off in 1998                    -     3,309
+Note payable to commercial banking institution - paid-off in 1998        -      350
+Note payable to HUBLink shareholder - extinguished through
+issuance of common stock                            -      285
+Obligations under capital leases - equipment leases; interest 
+ranging from 9% to 17% with various monthly payments and 
+maturing at various dates through September 1, 2003            1,061      577
+3,553     5,491
+Less current installments                          2,911     5,175
+Long-term debt, excluding current installments               $  642    $  316
+Approximate aggregate minimum annual payments due on long-term debt and
+capital leases subsequent to December 31, 1998 are as follows: 1999,
+$2,911; 2000, $402; 2001, $198; 2002, $27; and 2003, $15.
+In August 1998, the Company entered into a new $50 million line of
+credit of which $30 million was available for borrowing under the
+borrowing base limitation at December 31, 1998. The balance outstanding
+under the line of credit was $25 million on December 31, 1998. The line
+of credit is for a one-year term, with borrowings bearing interest at the
+bank prime rate plus 1% 875% at December 31, 1998. The Company plans
+to maintain the $50 million line of credit for unanticipated needs and
+financial flexibility.
+On December 31, 1997, the Company had a $20 million line of credit
+agreement with a bank, which was subsequently replaced by the $50
+million line of credit mentioned above. Amounts outstanding under this
+agreement carried interest at the bank prime rate plus 1% 950% at
+December 31, 1997 and were payable on demand. No amounts were
+outstanding on December 31, 1997.
+HUBLink had a $10 million line of credit agreement with another bank
+with an outstanding balance of $970 at December 31, 1997. Amounts
+outstanding under this agreement carried interest at 375% above the
+bank prime rate 85% at December 31, 1997. On May 12, 1998, the
+outstanding balance on this line of credit was paid in full and the line
+of credit was terminated.                    F-16  57
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+7  Income Taxes
+The provision for income taxes includes income taxes currently payable
+and those deferred because of temporary differences between the financial
+statement and tax bases of assets and liabilities that will result in
+taxable or deductible amounts in the future and any increase or decrease
+in the valuation allowance for deferred income tax assets.
+A reconciliation of the expected income tax expense benefit based on
+the U.S. Federal statutory rate to the actual income tax expense
+benefit is as follows                                  Years ended December, 31
+1998     1997     1996
+Computed expected income tax expense
+benefit                      $ 524    $ 3,008    $ 37
+Goodwill amortization and other non-
+deductible expenses                 261     266    178
+Losses in excess of allowable carrybacks         -     2,689    465
+Utilization of prior year financial
+statement losses                   367       -     680
+Losses of affiliate                    -      53      -
+Decrease in valuation allowance             416       -      -
+Other                           2       -      -
+$   -    $   -    $  -
+The tax effects of temporary differences that give rise to significant
+portions of the deferred tax asset are as follows                                        December, 31
+1998     1997
+Deferred tax assets liabilities:
+Allowance for doubtful accounts                  $  70    $  61
+Accruals and reserves not deducted for tax purposes          13     213
+Depreciation and amortization                    140    172
+Net operating loss carryforwards                  6,441    5,942
+Revenue recognition                          -     272
+Tax credit carryforwards                       260     266
+Total gross deferred tax asset                   6,644    6,582
+Less valuation allowance                       6,166    6,582
+Net deferred tax asset, included in other current assets    $ 478    $  -
+F-17
+58
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+Under SFAS 109, deferred income tax assets and liabilities are
+recognized for differences between the financial statement carrying
+amounts and the tax bases of assets and liabilities which will result
+in future deductible or taxable amounts and for net operating loss and
+tax credit carryforwards. A valuation allowance is then established to
+reduce the deferred income tax assets to the level at which it is more
+likely than not that any tax benefits will be realized. Realization of
+tax benefits of deductible temporary differences and operating loss and
+tax credit carryforwards depends on having sufficient taxable income
+within the carryback and carryforward periods. Sources of taxable
+income that may allow for the realization of tax benefits include 1
+taxable income in the current year or prior years that is available
+through carryback, 2 future taxable income that will result from the
+reversal of existing taxable temporary differences, and 3 future
+taxable income generated by future operations. The valuation allowance
+for deferred income tax assets at December 31, 1998 and 1997 was $6,166
+and $6,582, respectively. The net decrease increase in the valuation
+allowance for deferred income tax assets for the years ended December
+31, 1998 and 1997 was $416 and $3,422, respectively. Based on the
+level of historical taxable income and projections for future taxable
+income over the periods in which the deferred tax assets are
+deductible, management believes it is more likely than not the Company
+will realize the benefits of the deferred tax assets, net of existing
+valuation allowances at December 31, 1998.
+At December 31, 1998, the Company had the following estimated credits
+and net operating loss carryforwards available for Federal income tax
+reporting purposes to be applied against future taxable income and tax
+liabilities                                      Net
+Foreign    Business    operating
+Year of expiration        credit     credit     loss
+1999               $  4    $  -   $    -
+2000                23       -       -
+2007                 -       3       5
+2008                 -      38      838
+2009                 -       -     2,069
+2010                 -      49     1,938
+2011                 -      34     7,160
+2012                 -      109     5,616
+2018                 -       -      777 
+$ 27    $  233   $ 18,403
+The net operating loss carryforward of $18,403 includes deductions of
+approximately $3,878 related to the exercise of stock options, which will
+be credited to additional paid-in capital when recognized. The
+alternative minimum tax net operating loss carryforward approximates the
+regular net operating loss carryforward. A portion of the net operating                    F-18
+59
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+loss approximately $8,165 is limited by Section 382 of the Internal
+Revenue Code of 1986, as amended, to an annual utilization of
+approximately $749.
+8  Shareholders' Equity
+Public and Private Offerings
+On November 4, 1996, the Company sold 2,750 shares of its common stock
+and received proceeds of approximately $10,325, net of offering expenses
+of $634. In 1997 and 1996, HUBLink issued 280 and 169 equivalent shares
+of HIE common stock and received proceeds of $1,239 and $729,
+respectively, net of offering costs of $20 in each year.
+Stock Option Plans
+The Company maintains five stock option plans for the benefit of key
+employees, nonemployee directors, and certain directors and employees of
+Healthdyne with such Healthdyne-related plan being established pursuant
+to the Spin-off. A total of 5,268 shares of the Company common stock
+have been authorized for issuance under these plans. Most of the stock
+options granted under these plans are exercisable in equal amounts over
+three years and expire in six years. Other terms of options granted under
+the plans are determined by the Stock Option Committee of the Company
+Board of Directors, subject to the terms of the respective plans.
+The per share weighted-average fair values of stock options granted
+during 1998, 1997 and 1996 were $120, $114 and $202, respectively, on
+the date of grant using the Black- Scholes option-pricing model with the
+following assumptions                         1998     1997     1996
+Expected volatility            44%     40%      41%
+Expected dividend yield         none     none     none
+Risk-free interest rate         530%    550%     625%
+Expected life of stock options     5 years   5 years    5 years                    F-19  60
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts    The Company applies APB Opinion No. 25 in accounting for its stock option
+plans. Accordingly, no compensation cost has been recognized for its
+stock options in the consolidated financial statements, unless the stock
+options were granted at an exercise price below fair value at the grant
+date, in which case the difference between the exercise price and the
+fair value has been recorded as deferred compensation cost and is being
+amortized over the relevant period of benefit. Had the Company determined
+compensation cost based on the fair value at the grant date for its stock
+options under SFAS 123, the Company reported net earnings loss and
+related per share amounts would have been changed to the pro forma
+amounts indicated below                              1998     1997     1996
+Net earnings loss:
+As reported                   $ 1,498   $8,596    $ 107
+Pro forma                      649    9,301     717
+Diluted net earnings loss per share:
+As reported                   $ 006   $ 038    $ 001
+Pro forma                     003    041    004 A summary of stock option transactions under these plans during 1998, 1997 and
+1996 is shown below                                          Option price per share 
+Number           Weighted
+of shares    Range    average
+Options outstanding at December 31, 1995          3,027   $023 - $328  $105
+Granted                         1,072   $237 - $588  $431
+Exercised                         905  $023 - $150  $050
+Canceled or expired                    253  $023 - $481  $296
+Options outstanding at December 31, 1996          2,941   $023 - $588  $224
+Granted                         1,242   $025 - $588  $274
+Exercised                         193  $023 - $150  $093
+Canceled or expired                    499  $131 - $588  $381
+Options outstanding at December 31, 1997          3,491   $023 - $588  $221
+Granted                         1,240   $200 - $395  $260
+Exercised                        1,092  $023 - $447  $138
+Canceled or expired                   1,167  $150 - $550  $320
+Options outstanding at December 31, 1998          2,472   $023 - $588  $227
+Options exercisable at December 31, 1996          1,334   $023 - $316  $109
+Options exercisable at December 31, 1997          1,511   $023 - $588  $157
+Options exercisable at December 31, 1998          1,303   $023 - $588  $185
+F-20
+61
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts    The following table summarizes information about stock options
+outstanding and exercisable at December 31, 1998                           Options outstanding         Options exercisable
+Weighted
+average   Weighted           Weighted
+Number    remaining   average    Number    average
+outstanding  contractual  exercise   exercisable  exercise
+Classification         at 12/31/98  life months  price    at 12/31/98   price
+Healthdyne-related            219      28      $050      219     $050
+Directors                198      43      $233      132     $184
+Others                 2,055      55      $246      952     $217
+2,472      52      $227     1,303     $185
+Non-Employee Directors Stock Plan
+On October 20, 1995, the Company established a stock plan for
+non-employee directors whereby such directors may elect to receive all or
+a portion of their annual retainer fee in unrestricted shares of the
+Company common stock. As of December 31, 1998, none of the 250 shares
+reserved for this plan have been issued.
+Stock Purchase Plan
+On July 1, 1996, the Company commenced an employee stock purchase plan
+for all eligible employees of HIE and designated subsidiaries.
+Participants may use up to 10% of their compensation to purchase the
+Company common stock through payroll deductions for 85% of the lower of
+the beginning or ending stock price on a quarterly basis. Of the 200
+shares of the Company common stock reserved for issuance under this
+plan, 92 shares, 82 shares and 14 shares were issued during the years
+ended December 31, 1998, 1997 and 1996, respectively.
+Shareholder Rights Plan
+On October 20, 1995, the Company Board of Directors declared a dividend
+distribution of one purchase right for each share of the Company common
+stock outstanding as of October 30, 1995. If a person or group acquires
+beneficial ownership of 15% or more of the Company outstanding common
+stock or announces a tender offer or exchange that would result in the
+acquisition of a beneficial ownership right of 20% or more of the
+Company outstanding common stock, the rights detach from the common
+stock and are distributed to shareholders as separate securities. Each
+right entitles its holder to purchase
+F-21
+62
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts    one one-hundredth of a share a unit of Series A Cumulative Preferred
+Stock, at a purchase price of $50 per unit. The rights, which do not have
+voting power, expire on October 23, 2005 unless previously distributed
+and may be redeemed by the Company in whole at a price of $001 per right
+at any time before and within 10 days after their distribution. If the
+Company is acquired in a merger or other business combination
+transaction, or 50% of its assets or earnings power are sold at any time
+after the rights become exercisable, the rights entitle a holder to buy a
+number of common shares of the acquiring company having a market value of
+twice the exercise price of the right. If a person acquires 20% of the
+Company common stock or if a 15% or larger holder merges with the
+Company and the common stock is not changed or exchanged in such merger,
+or engages in self-dealing transactions with the Company, each right not
+owned by such holder becomes exercisable for the number of common shares
+of the Company having a market value of twice the exercise price of the
+right.
+9  Employee Benefit Plans
+The Company and its subsidiaries, Healthcare Communications, Inc. HCI
+and HUBLink, each previously maintained a 401k defined contribution
+plan for the benefit of their employees. Prior to June 1, 1996, the
+Company obligation for contributions under its 401k plan was limited
+to the lesser of i one-half of each participant contribution but not
+more than 25% of the participant compensation or ii 20% of the
+Company pretax earnings before consideration of this contribution.
+Subsequent to June 1, 1996, Company contributions are discretionary. The
+HCI plan provided for HCI contributions equal to one-half of each
+participant contributions up to 3% of the participant base salary.
+The HUBLink plan provided for discretionary matching contributions.
+During 1998, the Company merged the HCI 401k plan and the HUBLink
+401k plan into HIE 401k plan. Contributions to the plans included
+in the consolidated statements of operations were $212, $72, and $79 in
+1998, 1997 and 1996, respectively.
+10  Fair Value of Financial Instruments
+The Company uses financial instruments in the normal course of its
+business. The carrying values of cash equivalents, accounts receivable,
+accounts payable, and deferred revenue approximate fair value due to the
+short-term maturities of these assets and liabilities. The Company
+estimates that the carrying amounts of the Company long-term debt
+approximates the fair value based on the current rates offered to the
+Company for debt of the same remaining maturities.
+F-22
+63
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+11  Commitments
+The Company is committed under non-cancelable operating lease and capital
+lease agreements for facilities and equipment which expire at various
+dates through 2003. The future minimum annual lease payments under these
+leases are summarized as follows                       Operating    Capital
+Year ending December 31,        Leases    Leases
+1999               $ 725    $ 529
+2000                477      451
+2001                243      211
+2002                193      32
+2003                 32      18
+Thereafter                -       -
+$1,670     1,241
+Less interest                 180
+Present value of future minimum
+capital lease payments         $1,061
+Rental expense for operating leases excluding those with lease terms of
+a month or less that were not renewed was $962, $918 and $770 in 1998,
+1997 and 1996, respectively.
+12  Major Customers
+One distributor accounted for 18% of the Company total revenue and 40%
+of its software revenue in 1998. No single distributor accounted for more
+than 10% of the Company revenue in either 1997 or 1996. No single
+customer accounted for more than 10% of the Company revenue in either
+1998 or 1997. One customer accounted for approximately 20% of the
+Company revenue in 1996. Revenue from international sales was less than
+10% of the Company revenue in each of 1998, 1997 and 1996.
+13  Segment Information
+The Company reportable segments are strategic business units that offer
+different products and services. During 1998, the Company operated in two
+segments: i the licensing of integration software products and
+performance of related integration services Software and ii the
+providing of consulting services related to information systems
+integration for healthcare organizations Consulting. Prior to 1998,
+the Consulting                    F-23
+64
+HIE, INC. AND SUBSIDIARIES
+FORMERLY HEALTHDYNE INFORMATION ENTERPRISES, INC.
+Notes to Consolidated Financial Statements
+December 31, 1998, 1997 and 1996
+In thousands, except per share amounts
+business did not separately exist. On December 31, 1998, the Consulting
+business was sold see note 3. The accounting policies of the segments
+are the same as those described in note 1. The Company evaluates
+performance of the segments based on revenues and operating earnings
+loss of the segments. Segment information for the year ended December
+31, 1998 is as follows                      1998
+Revenue:
+Software                $ 23,830
+Consulting                3,354
+Total revenue            $ 27,184
+Operating earnings loss:
+Software                $ 2,059
+Consulting                 460
+Operating earnings loss      $ 1,599
+F-24
+65 Item 1.   
+Factors That May Affect Future 
+Item 2.   
+Item 3.  Legal 
+Item 4.  Submission of Matters to a Vote of Security 
+Executive Officers of the 
+Part II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The section of the Company Proxy Statement for the 1999 Annual
+Meeting of Shareholders the 1999 Proxy Statement captioned Proposal 1.
+Election of Directors identifies members of the Board of Directors of the
+Company and nominees, and is incorporated in this Item 10 by reference.
+See also Executive Officers of the Company appearing in Part I
+hereof.
+The section of the 1999 Proxy Statement captioned Other Matters Section 16a Beneficial Ownership Reporting Compliance is incorporated in this
+Item 1.   
+Factors That May Affect Future 
+Item 2.   
+Item 3.  Legal 
+Item 4.  Submission of Matters to a Vote of Security 
+Executive Officers of the 
+Part II
+Item 5. EXECUTIVE COMPENSATION
+The information in the section of the 1999 Proxy Statement captioned
+Executive Compensation and Other Information is incorporated in this Item 11
+by reference.

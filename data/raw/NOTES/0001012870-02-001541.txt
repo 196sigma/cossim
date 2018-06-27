@@ -1,0 +1,1507 @@
+ITEM 8.      FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+SANDISK CORPORATION
+CONSOLIDATED FINANCIAL STATEMENTS
+Contents                                             Page
+Report of Ernst & Young LLP, Independent Auditors   52
+Consolidated Balance Sheets   53
+Consolidated Statements of Operations   54
+Consolidated Statements of Stockholders' Equity   55
+Consolidated Statements of Cash Flows   56
+Notes to Consolidated Financial Statements   57                    51         REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+The Board of Directors and Stockholders
+SanDisk Corporation
+We have audited the accompanying consolidated balance sheets of SanDisk
+Corporation as of December 31, 2001 and 2000, and the related consolidated
+statements of operations, stockholders' equity, and cash flows for each of the
+three years in the period ended December 31, 2001. These financial statements
+are the responsibility of the Company management. Our responsibility is to
+express an opinion on these financial statements based on our audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated financial position of
+SanDisk Corporation at December 31, 2001 and 2000 and the consolidated results
+of its operations and its cash flows for each of the three years in the period
+ended December 31, 2001, in conformity with accounting principles generally
+accepted in the United States.
+/s/ Ernst & Young LLP
+San Jose, California
+January 21, 2002, except for Note 3,
+as to which the date is March 5, 2002.
+52 SanDisk Corporation
+CONSOLIDATED BALANCE SHEETS
+In thousands, except share and per share amounts December 31,                                    2001         2000
+- 
+ASSETS
+Current assets:
+Cash and cash equivalents                          $ 189,499      $ 106,277
+Short-term investments                             105,501       260,462
+Investment in foundries                            105,364       112,854
+Accounts receivable, net of allowance for doubtful accounts of
+$4,919 in 2001 and $5,010 in 2000                       45,223        96,405
+Inventories                                   55,968        96,600
+Tax refund receivable                              28,473          -
+Prepaid expenses and other current assets                    12,129        17,709
+Total current assets                              542,157       690,307
+Restricted cash and cash equivalents                        64,734          -
+Property and equipment, net                             33,730        41,095
+Investment in foundries                               41,380       197,688
+Restricted investment in UMC                            64,734          -
+Investment in FlashVision                             153,168       134,730
+Deferred tax asset                                 18,842          -
+Deposits and other non-current assets                        13,603        37,087
+- 
+Total assets                                  $ 932,348      $1,100,907
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                              $  19,938      $  59,179
+Accounts payable to related parties                       24,008        7,933
+Accrued payroll and related expenses                       5,279        16,215
+Income taxes payable                               7,361        16,427
+Deferred tax liability                             18,842          -
+Research & development liability, related party                 15,256          -
+Other accrued liabilities                            20,571        13,863
+Deferred revenue                                15,806        50,740
+Total current liabilities                           127,061       164,357
+Convertible subordinated notes payable                     125,000          -
+Long-term liabilities, related parties                      4,908        3,492
+Deferred taxes and other liabilities                         -        70,000
+Total liabilities                               256,969       237,849
+Commitments and contingencies
+Stockholders' equity:
+Preferred stock, $0001 par value
+Authorized shares: 4,000,000
+Issued: none                                   -          -
+Common stock, $0001 par value
+Authorized shares: 125,000,000
+Issued and outstanding: 68,464,000 in 2001 and
+67,464,000 in 2000                               68          67
+Capital in excess of par value                         580,363       566,934
+Retained earnings                                48,525       346,469
+Accumulated other comprehensive income loss                  46,423       50,412
+Total stockholders' equity                             675,379       863,058
+- 
+Total liabilities and stockholders' equity                   $ 932,348      $1,100,907
+See accompanying notes.
+53 SanDisk Corporation
+CONSOLIDATED STATEMENTS OF OPERATIONS
+In thousands, except per share data Years Ended December 31,                 2001       2000      1999
+- 
+Revenues
+Product                     $ 316,867    $ 526,359    $ 205,770
+License and royalty                 49,434      75,453     41,220
+- 
+Total revenues                     366,301     601,812     246,990
+Cost of revenues                    392,293     357,017     152,143
+- 
+Gross profits losses                 25,992     244,795     94,847
+Operating expenses
+Research and development               58,931      46,057     26,883
+Sales and marketing                 42,576      49,286     25,294
+General and administrative              16,981      24,786     12,585
+Restructuring                     8,510        -         
+Total operating expenses                126,998     120,129     64,762
+- 
+Operating income loss                152,990     124,666     30,085
+Equity in income of joint venture            2,082        -        -
+Interest income/expense                 12,266      22,786      8,280
+Gain loss on investment in foundry         302,293     344,168        -
+Other income loss, net                1,009       572      1,261
+- 
+Income loss before taxes              441,944     492,192     39,626
+Provision for benefit from income taxes       144,000     193,520     13,076
+- 
+Net income loss                  $ 297,944    $ 298,672    $ 26,550
+Net income loss per share
+Basic                      $  437    $  447    $  048
+Diluted                     $  437    $  411    $  043
+Shares used in computing net income per share
+Basic                        68,148      66,861     55,834
+Diluted                       68,148      72,651     61,433
+See accompanying notes.
+54 SanDisk Corporation
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+In thousands                                                 Accumulated
+Common  Capital In             Other      Total
+Stock  Excess of   Retained   Comprehensive  Stockholders'
+Shares   Amount  Par Value   Earnings   Income Loss      Equity
+- 
+Balance at December 31, 1998         53,256   $  54  $ 186,066  $ 21,247   $     471  $   207,838
+Net income                     -      -       -   26,550         -      26,550
+Unrealized loss on available for
+sale securities                 -      -       -      -       272      272
+Comprehensive income                                                  26,278
+Exercise of stock options for cash       1,766      2     6,107      -         -      6,109
+Issuance of stock pursuant to
+employee stock purchase plan          268      -     1,807      -         -      1,807
+Net exercise of common stock warrants       58      -       -      -         -        -
+Sale of common stock, net of
+issuance costs                9,900      9    320,277      -         -     320,286
+Income tax benefit from stock
+options exercised                -      -     9,809      -         -      9,809
+- 
+Balance at December 31, 1999         65,248     65    524,066   47,797        199     572,127
+Net income                     -      -       -   298,672         -     298,672
+Unrealized loss on available for
+sale securities                 -      -       -      -       343      343
+Unrealized loss on investments           -      -       -      -      50,268     50,268
+Comprehensive income                                                 248,061
+Exercise of stock options for cash       2,147      2    10,370      -         -      10,372
+Issuance of stock pursuant to
+employee stock purchase plan          69           2,815      -         -      2,815
+Sale of common stock, net of
+issuance costs                  -      -      425      -         -       425
+Income tax benefit from stock
+options exercised                -      -    29,258      -         -      29,258
+- 
+Balance at December 31, 2000         67,464     67    566,934   346,469      50,412     863,058
+Net loss                      -      -       -  297,944             297,944
+Unrealized gain on available for
+sale securities                 -      -       -      -        908       908
+Unrealized gain on investments                                    95,927      95,927
+Comprehensive loss                                                  201,109
+Exercise of stock options for cash        831      1     4,766      -         -      4,767
+Issuance of stock pursuant to
+employee stock purchase plan          169      -     3,863                     3,863
+Income tax benefit from stock
+options exercised                -      -     4,800      -         -      4,800
+- 
+Balance at December 31, 2001         68,464   $  68  $ 580,363  $ 48,525   $   46,423  $   675,379
+See accompanying notes.
+55 SanDisk Corporation
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+In thousands, except per share data Years Ended December 31,                               2001       2000       1999
+- 
+Cash flows from operating activities:
+Net income loss                                297,944    $ 298,672    $ 26,550
+Adjustments to reconcile net income loss to net cash provided by
+operating activities:
+Deferred taxes                               134,483     114,501      1,100
+Gain loss on investment in foundry                     302,293     344,168
+Depreciation                                 20,548      15,928      7,145
+Equity in net income of joint ventures                    2,082        -        -
+Non-cash portion of restructuring charge                    6,383        -        -
+Loss on disposal of equipment                         7,013      1,013
+Compensation related to modification of stock option terms             -       425        -
+Changes in assets and liabilities:
+Accounts receivable                            51,182     47,477     31,221
+Income tax refund receivable                       28,473        -        -
+Inventories                                40,632     60,921     26,757
+Prepaid expenses and other current assets                  6,179      4,531      2,931
+Deposits and other assets                          6,964      3,545     5,721
+Accounts payable                             39,241     36,378      23,796
+Accrued payroll and related expenses                   10,936      7,956      4,491
+Income taxes payable                            4,266     39,842      10,984
+Other current liabilities, related party                  31,331        -        -
+Other accrued liabilities                          6,352      5,937      3,934
+Deferred revenue                             34,934     21,357      1,931
+Other non-current liabilities, related party                1,416      3,485          
+Total adjustments                                225,878     213,820     9,587
+- 
+Net cash provided by used in operating activities               72,066     84,852      16,963
+- 
+Cash flows from investing activities:
+Purchases of short-term investments                       224,659    593,146    332,379
+Proceeds from short-term investments                       380,207     643,734     139,391
+Acquisition of property and equipment                       26,223     26,586     21,391
+Investment in FlashVision                             14,970    134,730        -
+Investment in equity securities                          44,498     7,200        -
+Deposit in escrow account for investment in equity securities           20,004     20,004        -
+Restricted cash                                  64,734        -          
+Net cash provided by investing activities                     25,127     137,932    214,379
+- 
+Cash flows from financing activities:
+Net proceeds from issuance of convertible subordinated notes           121,531        -        -
+Sale of common stock and warrants                          8,630      13,187     328,202
+- 
+Net cash provided by financing activities                     130,161      13,187     328,202
+- 
+Net increase decrease in cash and cash equivalents                83,222     39,893     130,786
+- 
+Cash and cash equivalents at beginning of year                  106,277     146,170      15,384
+- 
+Cash and cash equivalents at end of year                    $ 189,499    $ 106,277    $ 146,170
+Supplemental disclosure of cash flow information:
+Cash paid for income taxes                             13,962      37,260      4,306
+-                See accompanying notes.
+56 Notes to Consolidated Financial Statements
+- 
+Note 1: Organization and Summary of Significant Accounting Policies
+Organization and Nature of Operations
+SanDisk Corporation the Company was incorporated in Delaware on June 1,
+1988, to design, manufacture, and market industry-standard, solid-state mass
+storage products using proprietary, high-density flash memory technology. The
+Company operates in one segment and serves customers in the consumer
+electronics, industrial, communications and highly portable computing markets.
+Principal geographic markets for the Company products include the United
+States, Japan, Europe and the Far East.
+Supplier and Customer Concentrations
+A limited number of customers historically have accounted for a substantial
+portion of the Company revenues. Sales to our top 10 customers accounted for
+approximately 49%, 48%, and 57%, respectively, of our product revenues for the
+fiscal years ended December 31, 2001, 2000, and 1999. In 2001 and 2000, no
+single customer accounted for more than 10% of total revenues. In 1999, revenues
+from one customer exceeded 10% of total revenues. Sales of the Company
+products will vary as a result of fluctuations in market demand. Further, the
+flash data storage markets in which the Company competes are characterized by
+rapid technological change, evolving industry standards, declining average
+selling prices and rapid technological obsolescence.
+Certain of the raw materials used by the Company in the manufacture of its
+products are available from a limited number of suppliers. All of the Company
+products require silicon wafers. The majority of the Company flash memory
+wafers are currently supplied by the Company FlashVision joint venture with
+Toshiba. After the restructuring of the FlashVision joint venture, all of the
+Company NAND flash memory wafers will be supplied by Toshiba wafer facility
+in Yokkaichi, Japan. In the third quarter of 2001, the Company began to purchase
+controller wafers from UMC and is continuing development of advanced flash
+memory technology utilizing the 015 micron technology design rules at UMC. The
+Company is dependent on its foundries to allocate to the Company a portion of
+their foundry capacity sufficient to meet the Company needs, to produce wafers
+of acceptable quality and with acceptable manufacturing yields and to deliver
+those wafers to the Company on a timely basis. On occasion, the Company has
+experienced difficulties in each of these areas. Under the Company joint
+venture agreement with Toshiba, the Company is committed to purchase 50% of
+FlashVision wafer output from the Dominion, Virginia fabrication facility
+prior to the FlashVision restructuring and from the Yokkaichi fabrication
+facility after the restructuring.
+Under the terms of the Company wafer supply agreements, the Company is
+obligated to provide a monthly rolling forecast of anticipated purchase orders.
+Except in limited circumstances and subject to acceptance by the foundries, the
+estimates for the first three months of each forecast constitute a binding
+commitment and the estimates for the remaining months may not increase or
+decrease by more than a certain percentage from the previous month forecast.
+These restrictions limit the Company ability to react to significant
+fluctuations in demand for its products. As a result, the Company has not been
+able to match its purchases of wafers to specific customer orders, and therefore
+the Company has taken write downs for potential excess inventory purchased prior
+to the receipt of customer orders and may be required to do so in the future.
+These adjustments decrease gross margins in the quarter reported and have
+resulted, and could in the future result in fluctuations in gross margins on a
+quarter to quarter basis. To the extent the Company inaccurately forecasts the
+number of wafers required, it may have either a shortage or an excess supply of
+wafers, either of which could have a material adverse effect on the Company
+business, financial condition and results of operations. Additionally, if the
+Company is unable to obtain scheduled quantities of wafers from any foundry with
+acceptable yields, the Company business, financial condition and results of
+operations could be negatively impacted.
+In addition, certain key components are purchased from single source vendors
+for which alternative sources are currently not available. Shortages could occur
+in these essential materials due to an interruption of supply or increased
+demand in the industry. If the Company were unable to procure certain of such
+materials, it would be required to reduce its manufacturing operations which
+could have a material adverse effect upon its results of
+57 operations. We also rely on third-party subcontractors to assemble and test the
+memory components for our products. We have no long-term contracts with these
+subcontractors and cannot directly control product delivery schedules. This
+could lead to product shortages or quality assurance problems that could
+increase the manufacturing costs of our products and have adverse effects on our
+operating results.
+Basis of Presentation
+The Company fiscal year ends on the Sunday closest to December 31. Fiscal
+year 2001 ended on December 30, 2001 and was 52 weeks in length. Fiscal year
+2000 ended on December 31, 2000 and was 52 weeks in length. Fiscal year 1999
+ended on January 2, 2000 and was 53 weeks in length. For ease of presentation,
+the accompanying financial statements have been shown as ending on the last day
+of the calendar month.
+Principles of Consolidation
+The consolidated financial statements include the accounts of the Company and
+its wholly owned subsidiaries. All significant intercompany balances and
+transactions have been eliminated.
+Critical Accounting Policies & Estimates
+The Company consolidated financial statements have been prepared in
+accordance with accounting principles generally accepted in the United States.
+The preparation of these financial statements requires the Company to make
+estimates and judgments that affect the reported amounts of assets, liabilities,
+revenues and expenses, and related disclosure of contingent liabilities. On an
+on-going basis, the Company evaluates its estimates, including those related to
+customer programs and incentives, product returns, bad debts, inventories,
+investments, income taxes, warranty obligations, restructuring, and
+contingencies and litigation. The Company bases its estimates on historical
+experience and on various other assumptions that it believes to be reasonable
+under the circumstances, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities that are not
+readily apparent from other sources. Actual results may differ from these
+estimates under different assumptions or conditions.
+Revenue recognition. The company recognizes net revenues when the earnings
+process is complete, as evidenced by an agreement with the customer, transfer of
+title and acceptance if applicable, fixed pricing and probable collectibility.
+Because of frequent sales price reductions and rapid technology obsolescence in
+the industry, sales made to distributors and retailers under agreements allowing
+price protection and/or right of return are deferred until the retailers or
+distributors sell the merchandise.
+Customer Incentives, Returns and Allowances. The Company records estimated
+reductions to revenue for customer programs and incentive offerings including
+promotions and other volume-based incentives, particularly for its retail
+customers, which represented 75% of our product revenues in fourth quarter of
+2001. If market conditions were to decline, the Company may take actions to
+increase customer incentive offerings to its retail customers, possibly
+resulting in an incremental reduction of revenue at the time the incentive is
+offered. In addition, the Company records a provision for estimated sales
+returns and allowances on product sales in the same period as the related
+revenues are recorded. These estimates are based on historical sales returns,
+analysis of credit memo data and other known factors. If the historical data the
+Company uses to calculate these estimates do not properly reflect future
+returns, revenue could be overstated.
+Allowance for Doubtful Accounts-Methodology. The Company evaluates the
+collectibility of its accounts receivable based on a combination of factors. In
+circumstances where the Company is aware of a specific customer inability to
+meet its financial obligations to the Company e.g., bankruptcy filings,
+substantial down-grading of credit ratings, the Company records a specific
+reserve for bad debts against amounts due to reduce the net recognized
+receivable to the amount it reasonably believe will be collected. For all other
+customers, the Company recognizes reserves for bad debts based on the length of
+time the receivables are past due based on its historical experience. If
+circumstances change i.e., higher than expected defaults or an unexpected
+material adverse change in a major customer ability to meet its financial
+obligations to us, the Company estimates of the recoverability of amounts due
+it could be reduced by a material amount.
+58   Warranty Costs. The Company provides for the estimated cost of product
+warranties at the time revenue is recognized. While the Company engages in
+product quality programs and processes, its warranty obligation is affected by
+product failure rates and repair or replacement costs incurred in correcting a
+product failure. Should actual product failure rates, repair or replacement
+costs differ from the Company estimates, increases to its warranty liability
+would be required.
+Valuation of Financial Instruments. The Company short-term investments
+include investments in marketable equity and debt securities. The Company also
+has equity investments in semiconductor wafer manufacturing companies, UMC of
+$1949 million and Tower of $166 million, as of December 31, 2001. In
+determining if and when a decline in market value below cost of these
+investments is other-than-temporary, the Company evaluates the market
+conditions, offering prices, trends of earnings, price multiples, and other key
+measures for our investments in marketable equity securities and debt
+instruments. When such a decline in value is deemed to be other-than-temporary,
+the Company recognizes an impairment loss in the current period operating
+results to the extent of the decline. Due to the slowdown in the semiconductor
+industry and economic recession in 2001, the market value of the Company UMC
+and Tower investments declined significantly. These declines were deemed to be
+other-than-temporary and losses totaling $3023 million were recognized. If the
+slowdown in the semiconductor industry continues in 2002, the Company may
+recognize additional losses on these investments.
+Inventories - Slow Moving and Obsolescence. The Company writes down its
+inventory for estimated obsolescence or unmarketable inventory equal to the
+difference between the cost of the inventory and the estimated market value
+based upon assumptions about future demand and market conditions, including
+assumptions about changes in average selling prices. If actual market conditions
+are less favorable than those projected by management, additional inventory
+write-downs may be required.
+Use of Estimates. The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that affect the amounts reported in the financial
+statements and accompanying notes. Actual results could differ from those
+estimates.
+Deferred Tax Assets. As of December 31, 2001, the Company has a net deferred
+tax asset of approximately $36 million that has been fully offset by a valuation
+allowance. Due to its current losses, the Company has not used projections of
+future taxable income in determining the amount of the valuation allowance
+required.
+Foreign Currency Transactions
+Foreign operations are measured using the U.S. dollar as the functional
+currency. Accordingly, monetary accounts principally cash, accounts receivable
+and liabilities are remeasured using the foreign exchange rate at the balance
+sheet date. Operations accounts and nonmonetary balance sheet accounts are
+remeasured at the rate in effect at the date of transaction. The effects of
+foreign currency remeasurement are reported in current operations.
+Reclassification
+Certain reclassifications have been made to prior year amounts to conform
+to the current year presentation.
+Cash Equivalents and Short-Term Investments
+Cash equivalents consist of short-term, highly liquid financial instruments
+with insignificant interest rate risk that are readily convertible to cash and
+have maturities of three months or less from the date of purchase. Cash
+equivalents and short-term investments consist of money market funds, taxable
+commercial paper, U.S. government agency obligations, corporate / municipal
+notes and bonds with high-credit quality, money market preferred stock and
+auction rate preferred stock. Short-term investments also include the
+unrestricted portion of the Company investment in foundries for which trading
+restrictions expire within one year. The fair market value, based on quoted
+59 market prices, of cash equivalents and short-term investments is substantially
+equal to their carrying value at December 31, 2001 and 2000.
+Under FAS 115, management classifies investments as available-for-sale at the
+time of purchase and periodically reevaluates such designation. Debt securities
+classified as available-for-sale are reported at fair value. Unrecognized gains
+or losses on available-for-sale securities are included in equity until their
+disposition. Realized gains and losses and declines in value judged to be other
+than temporary on available-for-sale securities are included in other income
+expense. The cost of securities sold is based on the specific identification
+method.
+Under the terms of the FlashVision lease agreements, the Company as guarantor
+is required to pledge cash and equity securities up to the full value of the
+outstanding guaranteed lease commitments. As of December 31, 2001, the Company
+had guaranteed $1295 million of FlashVision lease commitments and pledged $647
+million of cash and cash equivalents and $647 million of its UMC equity
+securities. This pledged cash and cash equivalents and marketable equity
+securities are included in Restricted cash and cash equivalents and
+Restricted investment in UMC on the Company balance sheet.
+The Company investments as of December 31, 2001 and 2000 are as follows in
+thousands                          December 31, 2001             December 31, 2000
+Unrestricted Restricted    Total   Unrestricted   Total
+Cash equivalents:
+Money market fund                $108,311   $ 64,734   $173,045    $ 2,921   $ 2,921
+Commercial paper                  79,379      0    79,379     60,505   $ 60,505
+Corporate notes / bonds                 0      0      0     12,492    12,492
+Total                   187,690    64,734   252,424    $ 75,918   $ 75,918
+Short term investments   U.S. government agency obligations         $3,000   $   0    $3,000    $ 10,004   $ 10,004
+Municipal notes / bonds              70,739      0    70,739    136,580   $136,580
+Corporate notes / bonds              13,061      0    13,061     47,795   $ 47,795
+Commercial paper                  7,958      0    7,958     6,115   $ 6,115
+Auction rate preferred stock            10,700      0    10,700     59,967   $ 59,967
+Marketable equity securities *          105,407    64,734   170,141    112,855   112,855
+Total                  $210,865   $ 64,734   $275,599    $373,316   $373,316
+Total cash equivalents and short
+term investments        $398,555   $129,468   $528,023    $449,234   $449,234
+Includes Investment in Foundries, short-term.
+The unrealized gain on available-for-sale securities at December 31, 2001 was
+$464 million. At December 31, 2000, the unrealized loss on available-for-sale
+securities was $504 million. The unrealized gain includes $958 million of
+unrealized gain on the Company investment in UMC in the fourth quarter of 2001
+see Investment in Foundry below. Fair value of available-for-sale securities
+is based upon quoted market prices. Gross realized gains and losses on sales of
+available-for-sale securities during the years ended December 31, 2001 and 2000
+were immaterial.
+Debt securities at December 31, 2001 and 2000, by contractual maturity, are
+shown below. Actual maturities may differ from contractual maturities because
+issuers of the securities may have the right to prepay obligations.
+60                             December 31,
+2001       2000
+Short term investments                 In thousands
+Due in one year or less              $ 64,079    $ 94,554
+Due after one year through two years/1/       41,422     165,907
+Total                    $ 105,501    $ 260,462
+1 Includes $53M of investments maturing in greater than 2 years.
+Long-Term Investments
+The Company holds minority equity investments in companies having operations
+or technology in areas within SanDisk strategic focus. Certain of the
+investments carry restrictions on immediate disposition. Investments in public
+companies with restrictions of less than one year are classified as
+available-for-sale and are adjusted to their fair market value with unrealized
+gains and losses recorded as a component of accumulated other comprehensive
+income. Investments in non-public companies are reviewed on a quarterly basis to
+determine if their value has been impaired and adjustments are recorded as
+necessary. Upon disposition of these investments, the specific identification
+method is used to determine the cost basis in computing realized gains or
+losses. Declines in value that are judged to be other than temporary are
+reported in other income and expense.
+Accounts Receivable
+Accounts receivable include amounts owed by geographically dispersed
+distributors, retailers, and OEM customers. No collateral is required.
+Provisions are provided for sales returns, product exchanges and bad debts.
+The activity in the allowance for doubtful accounts is as follows in
+thousands                           Additions
+Balance at   Charged to          Balance at
+For the year ended    Beginning   Costs and  Deductions     End
+December 31,      of Period    Expenses  Write-offs   of Period
+1999        $  1,069    $  945   $  143    $ 1,871
+2000        $  1,871    $ 3,991   $  852    $ 5,010
+2001        $  5,010    $  829   $  920    $ 4,919 Inventories
+Inventories are stated at the lower of cost or market. Cost is computed on a
+currently adjusted standard basis which approximates actual costs on a
+first-in, first-out basis. Market value is based upon an estimated average
+selling price reduced by normal gross margins. Inventories are as follows in
+thousands                    61                     December 31,
+2001     2000
+Raw materials           $ 6,325   $ 33,092
+Work-in-process           18,850    53,921
+Finished goods            30,793     9,587
+$ 55,968   $ 96,600
+In 2001, the Company recorded write-downs for excess or obsolete inventories
+and lower of cost or market price adjustments of approximately $85 million. The
+Company may be forced to take additional write-downs for excess or obsolete
+inventory in future quarters if the current deterioration in market demand for
+its products continues and its inventory levels continue to exceed customer
+orders. In addition, the Company may record additional lower of cost or market
+price adjustments to its inventories if continued pricing pressure results in a
+net realizable value that is lower than its manufacturing cost. Although the
+Company continuously tries to reduce its inventory in line with the current
+level of business, the Company is obligated to honor existing purchase orders,
+which have been placed with its suppliers. In the case of its FlashVision joint
+venture, the Company is obligated to purchase 50% of the production output,
+which makes it more difficult for the Company to reduce its inventory.
+Property and Equipment
+Property, plant and equipment are carried at cost less accumulated
+depreciation and amortization. Depreciation and amortization expense related to
+plant and equipment totaled $205 million, $159 million, and $71 million, in
+fiscal 2001, 2000, and 1999, respectively. Depreciation and amortization is
+computed using the straight-line method over the estimated useful lives of the
+assets or the remaining lease term, whichever is shorter, generally two to seven
+years.
+Property and equipment consist of the following in thousands                             December 31,
+2001     2000
+Machinery and equipment          $ 62,656   $ 62,310
+Software                   8,481     7,435
+Furniture and fixtures            2,076     2,103
+Leasehold improvements            6,227     5,842
+Property and equipment, at cost       79,440    77,690
+Accumulated depreciation and amortization 45,710   36,595
+Property and equipment, net        $ 33,730   $ 41,095
+Investment in Foundries
+The Company has made equity investments in semiconductor wafer
+manufacturing companies to obtain access to advanced wafer manufacturing
+capacity. The current portion of Investment in Foundries includes the
+unrestricted available-for-sale portion of the Company investments in UMC and
+Tower. The non-current portion of Investment in Foundries includes the portion
+of the Company investments in UMC and Tower that will not be
+available-for-sale within one year due to trading restrictions. As of December
+31, 2001, the Company total investment in UMC was valued at $1949 million and
+its total investment in Tower was valued at $166 million. The Company accounts
+for these investments on a cost basis. See Note 8.                    62 Investment in Joint Venture
+On June 30, 2000, the Company closed a transaction with Toshiba providing
+for the joint development and manufacture of 512 megabit and 1 gigabit flash
+memory chips and Secure Digital Card controllers. As part of this transaction,
+SanDisk and Toshiba formed FlashVision, a joint venture to equip and operate a
+silicon wafer manufacturing line at Dominion Semiconductor in Virginia. As of
+December 31, 2001, the Company invested the final $150 million of its $150
+million commitment in FlashVision for 499% ownership and guaranteed FlashVision
+lease obligations of $1295 million. The Company accounts for its investment in
+FlashVision using the equity method. See Note 8.
+Revenue Recognition
+The Company recognizes revenue in accordance with Staff Accounting Bulletin
+No. 101, Revenue Recognition in Financial Statements SAB 101, which requires
+that revenue from product sales and patent license fees be recognized when
+persuasive evidence of an agreement exists, delivery of the product has
+occurred, the fee is fixed or determinable and collection is probable.
+Product revenue, less a provision for estimated sales returns, is recognized
+when title passes which is generally at the time of shipment. However, revenue
+on shipments to distributors and retailers, subject to certain rights of return
+and price protection, is deferred until the merchandise is sold by the
+distributors or retailers, or the rights expire.
+The Company earns patent license and royalty revenue under patent
+cross-license agreements with several companies including Hitachi Ltd., Intel
+Corporation, Lexar Media, Inc., Samsung Electronics Company Ltd., Sharp
+Electronics Corporation, Silicon Storage Technology, Inc., SmartDisk
+Corporation, Sony Corporation, TDK and Toshiba Corporation. The Company
+current license agreements provide for the payment of license fees, royalties,
+or a combination thereof, to the Company. The timing and amount of these
+payments can vary substantially from quarter to quarter, depending on the terms
+of each agreement and, in some cases, the timing of sales of products by the
+other parties.
+Patent license and royalty revenue is recognized when earned. In 2001, 2000
+and 1999, the Company received payments under these cross-license agreements,
+portions of which were recognized as revenue and portions of which are deferred
+revenue. The Company receives royalty revenue reports from certain of its
+licensees and records all revenues one quarter in arrears. Recognition of
+deferred revenue is expected to occur in future periods over the life of the
+agreements, as the Company meets certain obligations as provided in the various
+agreements.
+Advertising Expense
+The cost of advertising is expensed as incurred. Advertising costs were $88
+million, $82 million, and $36 million in 2001, 2000, and 1999, respectively.
+Net Income Loss Per Share
+The following table sets forth the computation of basic and diluted net
+income per share in thousands, except per share amounts                    63                                 2001      2000     1999
+Numerator:
+Numerator for basic and diluted
+net income loss per share - net income loss   $297,944   $ 298,672   $ 26,550
+Denominator for basic net income loss per share:
+Weighted average common shares               68,148     66,861    55,834
+Basic net income loss per share               $  437   $  447   $  048
+Denominator for diluted net income loss per share:
+Weighted average common shares               68,148     66,861    55,834
+Incremental common shares attributable to
+exercise of outstanding employee stock options
+and warrants assuming proceeds would be used to
+purchase common stock                    0     5,790     5,599
+Shares used in computing diluted net income loss
+per share                           68,148     72,651    61,433
+Diluted net income loss per share              $  437   $  411   $  043
+Basic earnings loss per share excludes any dilutive effects of options,
+warrants, and convertible securities. Diluted earnings loss per share includes
+the dilutive effects of stock options, warrants, and convertible securities.
+Options and warrants to purchase 4,892,912; 907,380 and 190,807 shares of common
+stock were outstanding during 2001, 2000 and 1999, respectively, but have been
+omitted from the diluted earnings per share calculation because the options'
+exercise price was greater than the average market price of the common shares
+and, therefore the effect would be antidilutive. Incremental common shares
+attributable to the assumed conversion of the Company convertible subordinated
+debentures were not included in the per share computation as the effect would be
+antidilutive for fiscal year 2001.
+Stock Based Compensation
+The Company accounts for employee stock based compensation under APB Opinion
+No. 25, Accounting for Stock Issued to Employees and related interpretations.
+Pro forma net income loss and net income loss per share disclosures are
+required by Statement of Financial Accounting Standards No. 123, Accounting for
+Stock Based Compensation, and are included in Note 4.
+Issued Accounting Standards
+In June 2001, the Financial Accounting Standards Board FASB issued
+Statement of Financial Accounting Standards SFAS No. 141, Business
+Combinations and No. 142, Goodwill and Other Intangible Assets. SFAS No. 141
+supersedes Accounting Principles Board APB Opinion 16 Business
+Combinations and SFAS No. 38 Accounting for Pre-acquisition Contingencies,
+and eliminates the pooling-of-interests method of accounting for business
+combinations except for qualifying business combinations that were initiated
+prior to July 1, 2001. SFAS No. 141 also includes new criteria to recognize
+intangible assets separately from goodwill. The requirements of SFAS 141 are
+effective for any business combination accounted for by the purchase method that
+is completed after June 30, 2001 i.e., the acquisition date is July 1, 2001 or
+after. The Company did not engage in any merger or acquisition activity during
+the year and therefore, application of SFAS 141 is not expected to have a
+material impact on results of operation and financial position in 2002.
+64  SFAS No. 142, supersedes APB Opinion No. 17, Intangible Assets, and states
+that goodwill and intangible assets with indefinite lives are no longer
+amortized but are reviewed for impairment annually, or more frequently if
+impairment indicators arise. Separable intangible assets that are not deemed to
+have an indefinite life will continue to be amortized over their useful lives.
+The discontinuing of amortization provisions under SFAS No. 142 of goodwill and
+indefinite lived intangible assets apply to assets acquired after June 30, 2001.
+In addition, the impairment provisions of SFAS 142 apply to assets acquired
+prior to July 1, 2001 upon adoption of SFAS 142. Application of the
+non-amortization provisions and changes in estimated useful lives of intangibles
+of FAS 142 for goodwill is not expected to have a material impact on results of
+operation and financial position in 2002.
+In October 2001, the FASB issued SFAS No. 144, Accounting for the Impairment
+or Disposal of Long-Lived Assets SFAS No. 144, which supersedes SFAS No.
+121, Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to be disposed of. The primary objective of SFAS No. 144 is to develop
+one accounting model based on the framework established in SFAS No. 121 for
+long-lived assets to be disposed of by sale, and to address significant
+implementation issues. The provisions of this statement are effective for fiscal
+years beginning after December 15, 2001, and interim periods within those fiscal
+years, with early application encouraged. Sandisk is evaluating the impact of
+SFAS No. 144 on its financial position and results of operations.
+Note 2: Financial Instruments
+Concentration of Credit Risk
+The Company concentration of credit risk consists principally of cash, cash
+equivalents, short-term investments and trade receivables. The Company
+investment policy restricts investments to high-credit quality investments and
+limits the amounts invested with any one issuer. The Company sells to original
+equipment manufacturers, retailers and distributors in the United States, Japan,
+Europe and the Far East, performs ongoing credit evaluations of its customers'
+financial condition, and generally requires no collateral. Reserves are
+maintained for potential credit losses.
+Off Balance Sheet Risk
+Under our FlashVision joint venture agreement with Toshiba see Note 8, we
+are obligated to guarantee one-half of all FlashVision lease amounts up to a
+maximum guarantee of $1750 million. As of December 31, 2001, we had guarantee
+obligations in the amount of $1295 million, with ABN AMRO Bank, N.V. as agent
+for a syndicate of financial institutions, on the equipment lease lines to equip
+FlashVision manufacturing clean room with advanced wafer processing equipment.
+Under the terms of the FlashVision lease agreements, we as guarantor are subject
+to certain financial covenants. We obtained a compliance waiver for the third
+quarter of 2001 and negotiated an amendment to the lease agreement which
+includes a modification of the covenant requirements and requires us to pledge
+cash and equity securities up to the full value of the outstanding guaranteed
+lease commitments. As of December 31, 2001, we had pledged cash of $647 million
+and UMC equity securities of $647 million and was in compliance with the
+covenant requirements.
+Note 3: Commitments and Contingencies
+Commitments
+The Company is obligated to guarantee one-half of all FlashVision lease
+amounts up to a maximum guarantee of $1750 million. As of December 31, 2001,
+the Company had guarantee obligations in the amount of $1295 million, with ABN
+AMRO Bank, N.V. as agent for a syndicate of financial institutions, on the
+equipment lease lines to equip FlashVision manufacturing clean room with
+advanced wafer processing equipment. In March 2002, FlashVision notified ABN
+AMRO that it was exercising its right of early termination under the lease
+facility and will repay all amounts outstanding thereunder in April 2002. The
+Company and Toshiba are currently seeking other sources of financing to replace
+the ABN AMRO lease facility. However, under the terms of the FlashVision lease
+agreements, the Company as guarantor remains at this time subject to certain
+financial covenants, including calculations of leverage, tangible net worth,
+fixed charge coverage and current assets to current liabilities. The Company
+obtained a
+65 compliance waiver for the third quarter of 2001 and negotiated an amendment to
+the lease agreement which includes a modification of the covenant requirements
+and requires it to pledge cash and equity securities up to the full value of the
+outstanding guaranteed lease commitments. As of December 31, 2001, the Company
+had pledged cash of $647 million and UMC equity securities of $647 million as
+collateral against the lease balance of $1295 million. While these assets are
+pledged, they are not available to the Company to be used to fund operations.
+In December 2001, the Company signed a binding memorandum of understanding,
+or MOU, with Toshiba under which the Company and Toshiba agreed to restructure
+our FlashVision business by consolidating our FlashVision advanced NAND wafer
+fabrication manufacturing operations at Toshiba memory fabrication facility at
+Yokkaichi, Japan. The Company and Toshiba contemplate that the FlashVision
+operation at Yokkaichi will continue essentially the same 50-50 joint venture
+and on essentially the same terms as it had at Dominion in Virginia. Under the
+joint venture agreement, the Company is contractually obligated, and expects to
+continue to be obligated after the restructuring of its FlashVision joint
+venture, to purchase half of FlashVision NAND wafer production output.
+Apart from its commitment to purchase 50% of the FlashVision wafer output
+from Yokkaichi after the restructuring, the Company will also purchase NAND
+wafers from Toshiba current Yokkaichi fabrication facility on a foundry
+relationship basis. This foundry relationship will be conducted under a firm
+purchase order commitment over rolling three-month periods. NAND wafers are
+ordered under purchase orders at market prices and cannot be cancelled. At
+December 31, 2001, approximately $325 million of non-cancelable purchase orders
+for flash memory wafers from FlashVison were outstanding. If the Company places
+purchase orders with Toshiba and its business condition deteriorates, it may end
+up with excess inventories of NAND wafers, which could harm its business and
+financial condition. The Company will incur start-up costs and pay its share of
+ongoing operating activities even if we do not utilize our full share of the new
+Yokkaichi output.
+As part of their joint venture agreement, the Company and Toshiba also agreed
+to share certain research and development expenses related to the development of
+advanced NAND flash memory technologies. As of December 31, 2001, the Company
+had accrued current liabilities related to these expenses of $153 million and
+long-term liabilities of $49 million. These obligation will be paid in
+installments throughout 2002 and 2003. In addition, beginning in 2002, the
+Company will make quarterly payments to Toshiba for the Company portion of the
+research and development expenses associated with the continued development of
+advanced NAND flash memory technologies. The amount of these payments will be
+calculated as a percentage of the Company revenues from NAND flash memory
+products.
+On July 4, 2000, the Company entered into a share purchase agreement to
+make a $750 million investment in Tower, in Israel, representing approximately
+10% ownership of Tower. The investment is subject to the completion of certain
+milestones. During 2001, Tower satisfied the closing conditions of the share
+purchase agreement and completed the first two milestones. Under the terms of
+the agreement, the Company invested $425 million. Under the original agreement,
+additional contributions by the Company will take the form of mandatory warrant
+exercises for ordinary shares at an exercise price of $3000 per share if other
+milestones are met by Tower. The warrants will expire five years from the date
+of grant, and in the event the key milestones are not achieved, the exercise of
+these warrants will not be mandatory. However, in March of 2002, we modified our
+share purchase agreement with Tower by agreeing to advance the payments for the
+third and fourth milestones to April 5, 2002 and October 1, 2002, respectively.
+We will make these payments whether or not Tower actually achieves its
+previously agreed upon milestone obligations. In exchange for this and as part
+of the modification to the share purchase agreement, Tower has agreed that of
+the aggregate payment of $220 million represented by the third and fourth
+milestone payments, i 60% of this amount, or $132 million, will be applied to
+the issuance of additional ordinary Tower shares based on the average closing
+price of Tower shares on the NASDAQ in the thirty consecutive trading days
+preceding each payment date but not to exceed $1250 per share and ii 40% of
+this amount, or $88 million, will be credited to our pre-paid wafer account, to
+be applied against orders placed with Tower new fabrication facility, when
+completed.
+The Company leases its headquarters and sales offices under operating leases
+that expire at various dates through 2006. Future minimum lease payments under
+operating leases at December 31, 2000 are as follows in thousands                    66 Year Ending December 31  2002      $ 2,623
+2003        2,408
+2004        2,430
+2005        2,264
+2006        1,029
+Total      $ 10,754
+Rental expense under all operating leases was $36 million, $25 million, and
+$21 million for the years ended December 31, 2001, 2000, and 1999,
+respectively.
+The Company had foreign exchange contract lines in the amount of $651
+million at December 31, 2001. Under these lines, the Company may enter into
+forward exchange contracts that require the Company to sell or purchase foreign
+currencies. One forward exchange contract in the notional amount of $98 million
+was outstanding at December 31, 2001.
+Contingencies
+The Company relies on a combination of patents, trademarks, copyright and
+trade secret laws, confidentiality procedures and licensing arrangements to
+protect its intellectual property rights. There can be no assurance that there
+will not be any disputes regarding the Company intellectual property rights.
+Specifically, there can be no assurance that any patents held by the Company
+will not be invalidated, that patents will be issued for any of the Company
+pending applications or that any claims allowed from existing or pending patents
+will be of sufficient scope or strength or be issued in the primary countries
+where the Company products can be sold to provide meaningful protection or any
+commercial advantage to the Company. Additionally, competitors of the Company
+may be able to design around the Company patents.
+To preserve its intellectual property rights, the Company believes it may be
+necessary to initiate litigation with one or more third parties, including but
+not limited to those the Company has notified of possible patent infringement.
+In addition, one or more of these parties may bring suit against the Company.
+Any litigation, whether as a plaintiff or as a defendant, would likely result in
+significant expense to the Company and divert the efforts of the Company
+technical and management personnel, whether or not such litigation is ultimately
+determined in favor of the Company.
+On or about August 3, 2001, the Lemelson Medical, Education & Research
+Foundation, or Lemelson Foundation, filed a complaint for patent infringement
+against the Company and four other defendants. The suit, captioned Lemelson
+Medical, Education, & Research Foundation, Limited Partnership vs. Broadcom
+Corporation, et al., Civil Case No. CIV01 1440PHX HRH, was filed in the United
+States District Court, District of Arizona. On November 13, 2001, the Lemelson
+Foundation filed an Amended Complaint, which made the same substantive
+allegations against the Company but named more than twenty-five additional
+defendants. The Amended Complaint alleges that the Company, and the other
+defendants, have infringed certain patents held by the Lemelson Foundation
+pertaining to bar code scanning technology. By its complaint, the Lemelson
+Foundation requests that the Company be enjoined from its allegedly infringing
+activities and seeks unspecified damages. On February 4, 2002, the Company filed
+an answer to the amended complaint, wherein the Company alleged that it does not
+infringe the asserted patents, and further contend that the patents are not
+valid or enforceable.
+On October 15, 2001, the Company filed a complaint for patent infringement
+in the United States District Court for the Northern District of California
+against Micron Technology, Inc., or Micron. In the suit, captioned SanDisk Corp.
+v. Micron Technology, Inc., Civil No. CV 01-3855 CW, the complaint seeks damages
+and an injunction against Micron for making, selling, importing or using flash
+memory cards that infringe the Company U.S. Patent No. 6,149,316. On February
+15, 2002, Micron answered the complaint, denied liability, and counterclaimed
+seeking a declaration that the patent in suit is not infringed, is invalid, and
+is unenforceable.
+67   On October 31, 2001, the Company filed a complaint for patent infringement
+in the United States District Court for the Northern District of California
+against Memorex Products, Inc., Pretec Electronics Corporation, Ritek
+Corporation and Power Quotient International Co., Ltd. In the suit, captioned
+SanDisk Corp. v. Memorex Products, Inc., et. al., Civil No. CV 01-4063 VRW, the
+complaint seeks damages and injunctions against these companies from making,
+selling, importing or using flash memory cards that infringe the Company U.S.
+patent No. 5,602,987, or the `987 Patent. Defendants Memorex, Pretec and Ritek
+have filed answers denying the allegations. The Company has filed a motion for a
+preliminary injunction in the suit to enjoin Memorex, Pretec and Ritek from
+making, selling, importing or using flash memory cards that infringe our `987
+Patent prior to the trial on the merits. This preliminary injunction motion is
+scheduled for hearing on April 11, 2002.
+On November 30, 2001, the Company filed a complaint for patent infringement
+in the United States District Court for the Northern District of California
+against Power Quotient International - USA Inc, or PQI-USA. In the suit,
+captioned SanDisk Corp. v. Power Quotient International - USA Inc., Civil No. C
+01-21111, the complaint seeks damages and an injunction against PQI-USA from
+making, selling, importing or using flash memory cards that infringe our U.S.
+patent No. 5,602,987. The PQI-USA complaint and litigation are related to the
+October 31, 2001 litigation referred to above. The products at issue in the
+PQI-USA case are identical to those charged with infringement in the October 31,
+2001 litigation. On December 21, 2001, PQI-USA filed an answer to the complaint
+denying the allegations, which included a counter claim for a declaratory
+judgment of non-infringement and invalidity of our `987 Patent. The Company has
+motioned for a preliminary injunction in the suit to enjoin PQI-USA from making,
+selling, importing or using flash memory cards that infringe our `987 Patent
+prior to the trial on the merits. This preliminary injunction motion is
+scheduled for hearing on April 8, 2002.
+On or about March 5, 2002, Samsung Electronics Co., Ltd., or Samsung, filed a
+patent infringement lawsuit against the Company in the United States District
+Court for the Eastern District of Texas. The lawsuit alleges that the Company
+infringes four Samsung United States patents, Nos. 5,473,563; 5,514,889;
+5,546,341 and 5,642,309, and seeks a preliminary and permanent injunction
+against unnamed products of the Company, as well as damages, attorneys' fees and
+cost of the lawsuit.
+On March 21, 2000, Mitsubishi Denki Co. Ltd. Mitsubishi Electric filed a
+complaint in Tokyo District Court against SanDisk K.K., SanDisk wholly owned
+subsidiary in Japan. The complaint alleges that SanDisk K.K., based in Yokohama,
+Japan, infringes on three Mitsubishi Japanese patents, which are related
+primarily to the mechanical construction of memory cards. In the complaint,
+Mitsubishi asked the court for a preliminary injunction halting the sale of
+SanDisk CompactFlash and flash ATA memory cards in Japan. Mitsubishi dropped two
+of the patents from the suit. During the second quarter, we won a favorable
+ruling, dismissing the complaint on the third patent and thereby concluding the
+Mitsubishi lawsuit.
+In Chile, Compaq Corporation is opposing our attempt to register CompactFlash
+as a trademark. We do not believe that our failure to obtain registration for
+the CompactFlash mark in any country will materially harm our business. SanDisk
+successfully obtained the United States trademark registration for the mark
+CompactFlash.
+In the event of an adverse result in any such litigation, the Company could
+be required to pay substantial damages, cease the manufacture, use and sale of
+infringing products, expend significant resources to develop non-infringing
+technology or obtain licenses to the infringing technology, or discontinue the
+use of certain processes.
+From time to time the Company agrees to indemnify certain of its suppliers
+and customers for alleged patent infringement. The scope of such indemnity
+varies but may in some instances include indemnification for damages and
+expenses, including attorneys' fees. The Company may from time to time be
+engaged in litigation as a result of such indemnification obligations. Third
+party claims for patent infringement are excluded from coverage under the
+Company insurance policies. There can be no assurance that any future
+obligation to indemnify the Company customers or suppliers, will not have a
+material adverse effect on the Company business, financial condition and
+results of operations.
+Litigation frequently involves substantial expenditures and can require
+significant management attention, even if the Company ultimately prevails. In
+addition, the results of any litigation matters are inherently uncertain.
+68 Accordingly, there can be no assurance that any of the foregoing matters, or any
+future litigation, will not have a material adverse effect on the Company
+business, financial condition and results of operations.
+Note 4: Convertible Subordinated Notes Payable
+On December 24, 2001, the Company completed a private placement of $1250
+million of 4 1/2% Convertible Subordinated Notes due 2006, or Notes, and on
+January 10, 2002 the initial purchasers completed the exercise of their option
+to purchase an additional $250 million of Notes, for which the Company received
+net proceeds of approximately $1459 million. Based on the aggregate principal
+amount at maturity of $1500 million, the Notes provide for semi-annual interest
+payments of $34 million each on May 15 and November 15. The Notes are
+convertible into shares of our common stock at any time prior to the close of
+business on the maturity date, unless previously redeemed or repurchased, at a
+conversion rate of 542535 shares per $1,000 principal amount of the Notes,
+subject to adjustment in certain events. At anytime on or after November 17,
+2004, the Company may redeem the notes in whole or in part at a specified
+percentage of the principal amount plus accrued interest. The debt issuance
+costs are being amortized over the term of the Notes using the interest method.
+Note 5: Stockholders' Equity
+Stock Benefit Plan
+The 1989 Stock Benefit Plan, in effect through August 1995, comprised two
+separate programs, the Stock Issuance Program and the Option Grant Program. The
+Stock Issuance Program allowed eligible individuals to immediately purchase the
+Company common stock at a fair value as determined by the Board of Directors.
+Under the Option Grant Program, eligible individuals were granted options to
+purchase shares of the Company common stock at a fair value, as determined by
+the Board of Directors, of such shares on the date of grant. The options
+generally vest over a four-year period, expiring no later than ten years from
+the date of grant. Unexercised options are canceled upon the termination of
+employment or services. Options that are canceled under this plan will be
+available for future grants under the 1995 Stock Option Plan. There were no
+shares available for option grants under the 1989 Stock Benefit Plan at December
+31, 2001.
+1995 Stock Benefit Plan
+The 1995 Stock Option Plan provides for the issuance of incentive stock
+options and nonqualified stock options. Under this plan, the vesting and
+exercise provisions of option grants are determined by the Board of Directors.
+The options generally vest over a four-year period, expiring no later than ten
+years from the date of grant.
+In May 1999, the stockholders increased the shares available for future
+issuance under the 1995 Stock Benefit Plan by 7,000,000 shares and approved an
+automatic share increase feature pursuant to which the number of shares
+available for issuance under the plan will automatically increase on the first
+trading day in January each calendar year, beginning with calendar year 2002 and
+continuing over the remaining term of the plan, by an amount equal to
+approximately 4% of the total number of shares outstanding on the last trading
+day in December in the immediately preceding calendar year, but in no event will
+any such annual increase exceed 4,000,000 shares.
+1995 Non-employee Directors Stock Option Plan
+In August 1995, the Company adopted the 1995 Non-employee Directors Stock
+Option Plan the Directors' Plan. Under this plan, automatic option grants are
+made at periodic intervals to eligible non-employee members of the Board of
+Directors. Initial option grants vest over a four-year period. Subsequent annual
+grants vest one year after date of grant. All options granted under the
+Non-employee Directors Stock Option Plan expire ten years after the date of
+grant. In May 1999, the stockholders increased the shares available for future
+issuance under the 1995 Non-Employee Directors Stock Option Plan by 400,000 and
+approved an automatic share increase feature pursuant to which the number of
+shares available for issuance under the plan will automatically increase on the
+first trading day in January each calendar year, beginning with calendar year
+2002 and continuing over the remaining term of the plan, by an amount equal to
+02% of the total number of shares outstanding on the last trading day in
+December in
+69 the immediately preceding calendar year, but in no event will any such annual
+increase exceed 200,000 shares. At December 31, 2001, the Company had reserved
+800,000 shares for issuance under the Directors' Plan and a total of 528,000
+options had been granted at exercise prices ranging from $500 to $70063 per
+share.
+A summary of activity under all stock option plans follows shares in
+thousands                         Total
+Available               Weighted
+for Future       Total      Average
+Grant/ Issuance    Outstanding   Exercise Price
+Balance at December 31, 1998         1,804       8,252       $ 475
+Increase in authorized shares       7,400         -
+Granted                  3,000      3,000       $3100
+Exercised                    -      1,766      $ 347
+Canceled                   308       308      $ 969
+Balance at December 31, 1999         6,512       9,178       $ 950
+Granted                  2,290      2,290       $5357
+Exercised                    -      2,147      $ 485
+Canceled                   469       469      $ 969
+Balance at December 31, 2000         4,691       8,852       $2529
+Granted                  1,272      1,272       $1939
+Exercised                    -       831      $ 573
+Canceled                   674       674      $3210
+Balance at December 31, 2001         4,093       8,619       $2577
+At December 31, 2001, options outstanding were as follows                    Options Outstanding              Options Exercisable
+Number      Weighted               Number
+Outstanding      Average    Weighted     Exercisable     Weighted
+Range of        as of     Remaining     Average        as of     Average
+Exercise Prices  December 31, 2001  Contractual Life Exercise Price  December 31, 2001  Exercise Price
+$ 0375 - $ 6000     1,688,083        549     $ 4650      1,458,117     $ 4634
+$60625 - $ 1082     1,693,066        743     $78299       971,610     $ 7134
+$11450 - $ 30000     1,531,510        855     $22257       618,995     $22073
+$31188 - $ 34375     1,207,391        889     $34159       306,609     $34064
+$35813 - $ 35813     1,444,346        795     $35813       724,880     $35813
+$36125 - $139500     1,054,996        833     $70100       468,042     $69763
+$ 0375 - $139500     8,619,392        765     $25769      4,548,253     $21197 Employee Stock Purchase Plan
+In August 1995, the Company adopted the Employee Stock Purchase Plan the
+Purchase Plan. In May 1999, the stockholders increased the shares available for
+future issuance under the Employee Stock Purchase Plan by 600,000 and approved
+an automatic share increase feature pursuant to which the number of shares
+available for issuance under the plan will automatically increase on the first
+trading day in January each calendar year, beginning with calendar year 2002 and
+continuing over the remaining term of the plan, by an amount equal to
+forty-three hundredths of one percent 043% of the total number of shares
+outstanding on the last trading day in December in the immediately preceding
+calendar year, but in no event will any such annual increase exceed 400,000
+shares. Under the Purchase Plan, qualified employees are entitled to purchase
+shares through payroll deductions at 85% of the fair market value at the
+beginning or end of the offering period, whichever is lower. As of December 31,
+2001, the Company had reserved 2,366,666 shares of common stock for issuance
+under the Purchase Plan and a total of 1,203,337 shares had been issued.
+70 Accounting for Stock Based Compensation
+The Company has elected to follow APB 25 and related interpretations in
+accounting for its employee stock options because, as discussed below, the
+alternative fair value accounting provided for under SFAS 123 Accounting for
+Stock-Based Compensation, requires use of option valuation models that were not
+developed for use in valuing employee stock options. Under APB 25, because the
+exercise price of the Company stock options equals the market price of the
+underlying stock on the date of grant, no compensation expense is recognized.
+Pro forma information regarding net income and earnings per share is required
+by SFAS 123, which also requires that the information be determined as if the
+Company has accounted for its employee stock options under the fair value method
+of this Statement. The fair value for the options granted was estimated at the
+date of grant using a Black-Scholes single option pricing model with the
+following weighted average assumptions: risk-free interest rates of 468%, 616%
+and 552% for 2001, 2000 and 1999, respectively; a dividend yield of 00%, a
+volatility factor of the expected market price of the Company common stock of
+0955, 0951 and 0888 for 2001, 2000 and 1999 respectively; and a
+weighted-average expected life of the option of approximately 5 years. The
+weighted average fair value of those options granted were $1447, $3982 and
+$2238 for 2001, 2000 and 1999, respectively.
+The Black-Scholes option valuation model was developed for use in estimating
+the fair value of traded options that have no vesting restrictions and are fully
+transferable. In addition, option models require the input of highly subjective
+assumptions including the expected stock price volatility. Because the Company
+employee stock options have characteristics significantly different from those
+of traded options, and because changes in the subjective assumptions can
+materially affect the fair value estimate, in management opinion, the existing
+models do not necessarily provide a reliable single measure of the fair value of
+its employee stock options.
+Under the 1995 Employee Stock Purchase Plan, participating employees can
+choose to have up to 10% of their annual base earnings withheld to purchase the
+Company common stock. The purchase price of the stock is 85% of the lower of
+the subscription date fair market value and the purchase date fair market value.
+Approximately 53% of eligible employees participated in the plan in 2001 and 78%
+and 79% in 2000 and 1999, respectively. Under the Plan, the Company sold
+169,044, 69,423 and 269,092 shares to employees in 2001, 2000 and 1999,
+respectively. Pursuant to APB 25 and related interpretations, the Company does
+not recognize compensation cost related to employee purchase rights under the
+Plan. To comply with the pro forma reporting requirements of SFAS 123,
+compensation cost is estimated for the fair value of the employees' purchase
+rights using the Black-Scholes model with the following assumptions for those
+rights granted in 2001, 2000 and 1999: dividend yield of 00%; and expected life
+of 6 months; expected volatility factor of 80 and 94 in 2001, 156 and 118 in
+2000 and 98 and 116 in 1999; and a risk free interest rate ranging from 438%
+to 643%. The weighted average fair value of those purchase rights granted in
+February 1999, August 1999, February 2000, August 2000, February 2001 and August
+2001 were $601, $1772, $3869, $2924, $1167 and $1015, respectively.
+Had compensation cost for the Company stock-based compensation plans been
+determined based on the fair value at the grant dates for awards under those
+plans consistent with the method of SFAS 123, the Company net income loss
+and earnings loss per share would have been changed to the pro forma amounts
+indicated below in thousands, except per share amounts                         Years ended December 31,
+2001      2000     1999
+Pro forma net income loss       $  331,676 $  276,421 $  19,625
+Pro forma net income loss per share
+Basic               $   487 $    413 $   035
+Diluted              $   487 $    380 $   032
+Shareholder Rights Plan
+71  On April 21, 1997, the Company adopted a shareholder rights plan the Rights
+Agreement. Under the Rights Agreement, rights were distributed as a dividend at
+the rate of one right for each share of common stock of the Company held by
+stockholders of record as of the close of business on April 28, 1997. The rights
+will expire on April 28, 2007 unless redeemed or exchanged. Under the Rights
+Agreement, each right will initially entitle the registered holder to buy one
+one-hundredth of a share of Series A Junior Participating Preferred Stock for
+$50000. The rights will become exercisable only if a person or group acquires
+beneficial ownership of 15 percent or more of the Company common stock or
+commences a tender offer or exchange offer upon consummation of which such
+person or group would beneficially own 15 percent or more of the Company
+common stock.
+Note 6: Retirement Plan
+Effective January 1, 1992, the Company adopted a tax-deferred savings plan,
+the SanDisk 401k Plan, for the benefit of qualified employees. The plan is
+designed to provide employees with an accumulation of funds at retirement.
+Qualified employees may elect to make contributions to the plan on a monthly
+basis. The Company may make annual contributions to the plan at the discretion
+of the Board of Directors. The Company contributed $11 million and $105,000 for
+the plan years ended December 31, 2001 and 1999, respectively. No contributions
+were made by the Company for the year ended December 31, 2000.
+Note 7: Income Taxes
+The provision for benefit from income taxes consists of the following in
+thousands                          December 31,
+2001      2000     1999
+Current:
+Federal           $  28,455  $  53,683  $  10,354
+State                 38     13,296     2,117
+Foreign              6,845     10,211     4,105
+21,572    77,190     16,576
+Deferred:
+Federal             97,388    94,147     2,600
+State              25,040    21,683      400
+Foreign                -      500      500
+122,428    116,330     3,500
+Provision for benefit from
+income taxes            $ 144,000  $ 193,520  $  13,076
+The tax benefits associated with stock options increased taxes receivable by
+$48 million in 2001 and reduced taxes payable by $293 million and $98 million
+in 2000 and 1999, respectively. Such benefits are credited to capital in excess
+of par when realized.
+The Company provision for benefit from income taxes differs from the
+amount computed by applying the federal statutory rates to income loss before
+taxes as follows                    72                          December 31,
+2001   2000   1999
+Federal statutory rate            350% 350%   350%
+State taxes, net of federal benefit      56  46    28
+Research credit                06  02   17
+Tax exempt interest income          05  08   39
+Valuation allowance              82    -     -
+Other individually immaterial items      09   07    08
+326% 393%   330%
+Deferred income taxes reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and the amount used for income tax purposes. Significant components of
+the Company deferred tax assets as of December 31, 2001 and 2000 are as
+follows in thousands                              December 31,
+2001      2000
+Deferred tax assets:
+Inventory reserves               $ 35,900   $ 13,000
+Deferred revenue                  6,500     17,100
+Accruals and other reserves            8,500     11,400
+Credit carryforwards               27,900       -
+NOL carryforward                  6,400       -
+Unrealized loss on investment write down      8,400       -
+Other                       3,300     1,200
+Subtotal: Deferred tax assets        97,200     42,700
+Less: Valuation allowance        36,100       -
+Total: Deferred tax assets        $ 61,100   $ 42,700
+Deferred tax liabilities:
+Unrealized gain on exchange of Foundry
+shares                      61,100   105,600
+Total: Deferred tax liabilities         61,100   105,600
+Total net deferred tax assets/ liabilities     $    -   $ 62,900
+The Company provided a full valuation allowance against the net deferred tax
+assets, as it is more likely than not that the deferred tax assets will not be
+realized. The valuation allowance increased by $361million in 2001.
+Approximately $48 million of the valuation allowance shown above relates to tax
+benefits from stock option deductions that will be credited to equity when
+realized.
+The Company has a federal net operating loss carryforward of approximately
+$11 million that will expire in 2021 and state net operating losses of
+approximately $36 million that will begin to expire at various dates beginning
+in 2006 through 2021. The Company has various federal and state tax credits that
+will begin to expire at various dates beginning in 2004 through 2021. Federal
+alternative minimum tax credits and certain stated credits do not expire.
+Utilization of the Company net operating loss and tax credit carry
+forwards may be subject to a substantial annual limitation due to the ownership
+change limitations provided by the Internal Revenue Code and similar state
+provisions.
+73 Note 8: Joint Venture, Strategic Manufacturing Relationships and Investments
+On June 30, 2000, the Company closed a transaction with Toshiba providing for
+the joint development and manufacture of 512 megabit and 1 gigabit flash memory
+chips and Secure Digital Card controllers. As part of this transaction, SanDisk
+and Toshiba formed FlashVision, a joint venture to equip and operate a silicon
+wafer manufacturing line at Dominion Semiconductor in Virginia. In January 2001,
+the Company invested the final $150 million of its $1500 million cash
+commitment in FlashVision. The Company agreed to guarantee one-half of all
+FlashVision lease amounts up to a maximum guarantee of $1750 million. As of
+December 31, 2001, the Company had guarantee obligations in the amount of $1295
+million, with ABN AMRO Bank, N.V. as agent for a syndicate of financial
+institutions, on the equipment lease lines to equip FlashVision manufacturing
+clean room with advanced wafer processing equipment. Although FlashVision
+recently terminated the ABN AMRO lease facility, as further discussed below,
+under the terms of the FlashVision lease agreements, the Company as guarantor
+remains at this time subject to certain financial covenants. The Company
+obtained a compliance waiver for the third quarter of 2001 and negotiated an
+amendment to the lease agreement. which includes a modification of the covenant
+requirements and requires the Company to pledge cash and equity securities up to
+the full value of the outstanding guaranteed lease commitments. As of December
+31, 2001, we had pledged cash of $647 million and UMC equity securities of
+$647 million. While these assets are pledged, they are not available to the
+Company to be used to fund operations.
+In December 2001, the Company signed a binding memorandum of understanding,
+or MOU, with Toshiba under which the Company and Toshiba agreed to restructure
+their FlashVision business by consolidating FlashVision advanced NAND wafer
+fabrication manufacturing operations at Toshiba memory fabrication facility at
+Yokkaichi, Japan. The Yokkaichi fabrication facility, or Yokkaichi, is Toshiba
+most advanced memory fabrication facility and has approximately twice the wafer
+fabrication capacity of Dominion. Through this consolidation, the Company
+expects Yokkaichi to provide more cost-competitive NAND flash wafers than is
+possible at Dominion. Under the terms of the MOU, Toshiba will transfer the
+FlashVision owned and leased NAND production tool-set from Dominion to Yokkaichi
+and has agreed to undertake full responsibility for the transition, which is
+expected to be completed in 2002. Once the consolidation is completed,
+Yokkaichi total NAND wafer output will match the combined prior NAND capacity
+of Yokkaichi and Dominion. The Company and Toshiba contemplate that the
+FlashVision operation at Yokkaichi will continue essentially the same 50-50
+joint venture and on essentially the same terms as it has had at Dominion in
+Virginia. In March 2002, FlashVision notified ABN AMRO that it was exercising
+its right of early termination under the lease facility and will repay all
+amounts outstanding thereunder in April 2002. The Company and Toshiba are
+currently seeking other sources of financing to replace the ABN AMRO lease
+facility.
+The Company invested $512 million in United Silicon, Inc., USIC a
+semiconductor manufacturing subsidiary of United Microelectronics Corporation in
+Taiwan UMC. In January 2000, the USIC foundry was merged into the UMC parent
+company. In exchange for its USIC shares, the Company received 111 million UMC
+shares. These shares were valued at approximately $396 million at the time of
+the merger, resulting in a pretax gain of $3442 million $2039 million
+after-tax in the first quarter of 2000. All of the UMC shares the Company
+received as a result of the merger were subject to trading restrictions imposed
+by UMC and the Taiwan Stock Exchange. As of December 31, 2001, the trading
+restrictions had expired on 667 million shares. The remaining 444 million
+shares will become available for sale over a two-year period beginning in
+January 2002. In July of 2001, the Company received a stock dividends from UMC
+of 200 million and 222 million shares in 2001 and 2000, respectively.
+Due to the decline in the UMC stock price from the weakness in the
+semiconductor industry, the value of the Company investment in UMC had
+declined to $1949 at December 31, 2001. It was determined that the decline in
+the market value of the investment was other than temporary, as defined by
+generally accepted accounting principles and a loss of $2758 million, or $1669
+million net of taxes was recorded in accordance with Statement of Financial
+Accounting Standards Number 115. The loss was included in loss on investment in
+foundry. If the fair value of the UMC investment declines further, it may be
+necessary to record additional losses. In addition, in future periods, there may
+be a gain or loss due to fluctuations in the market value of UMC stock or if UMC
+shares are sold.
+74   On July 4, 2000, the Company entered into a share purchase agreement to
+make a $750 million investment in Tower Semiconductor, Tower, in Israel,
+representing approximately 10% ownership of Tower. The investment is subject to
+the completion of certain milestones relative to the construction of a new wafer
+fabrication facility by Tower. During 2001, Tower satisfied the closing
+conditions of the share purchase agreement and completed the first two
+milestones. Under the terms of the agreement, the Company has invested $425
+million to purchase 1,599,931 ordinary shares and obtain wafer credits of $214
+million. In September 2001, the Company agreed to convert 75% of its wafer
+credits to equity at a price of $1275 per share and received an additional
+1,284,007 ordinary shares. The Company expects first wafer production to
+commence at the new fabrication facility in late 2002. Due to the continued
+weakness in the semiconductor industry, the value of the Company Tower
+investment and remaining wafer credits had declined to $166 million on December
+31, 2001. It was determined that this decline was other than temporary, as
+defined by generally accepted accounting principles and a loss of $206 million
+was recorded in the second half of 2001. In addition, the Company recognized a
+loss of $55 million on the exchange of 75% of its Tower wafer credits for 1,
+284,007 ordinary shares at $1275 per share. These losses totaling $261
+million, or $158 million net of tax benefit, were recorded in loss on
+investment in foundry in 2001. The Company accounts for its investment in Tower
+on a cost basis. In March of 2002, the Company modified its share purchase
+agreement with Tower by agreeing to advance the payments of the third and fourth
+milestone payment dates to April 5, 2002 and October 1, 2002, respectively, and
+to make these payments whether or not Tower actually achieves its previously
+agreed upon milestone obligations. In exchange for this and as part of the
+modification to the share purchase agreement, Tower has agreed that of the
+aggregate payment of $220 million represented by the third and fourth milestone
+payments, i 60% of this amount, or $132 million, will be applied to the
+issuance of additional ordinary Tower shares based on the average closing price
+of Tower shares on the NASDAQ in the thirty consecutive trading days preceding
+each payment date but not to exceed $1250 per share and ii 40% of this
+amount, or $88 million, will be credited to the Company pre-paid wafer
+account, to be applied against orders placed with Tower new fabrication
+facility, when completed.
+In September 2001, the Company signed an agreement with Sony involving
+their Memory Stick card format. Under the agreement, Sony will supply the
+Company a portion of their Memory Stick output for the Company to resell under
+the SanDisk brand name. Sony has also agreed to purchase a portion of its NAND
+memory chip requirements from the Company provided that it meets market
+competitive pricing for these components. In addition, the two companies agreed
+to co-develop and co-own the specifications for the next generation Memory
+Stick. Each company will have all rights to manufacture and sell this new
+generation Memory Stick.
+On August 9, 2000, SanDisk entered into a joint venture, Digital Portal,
+Inc. DPI, with Photo-Me International PMI for the manufacture,
+installation, marketing, and maintenance of self-service, digital photo printing
+labs, or kiosks, bearing the SanDisk brand name in locations in the U.S. and
+Canada. Under the agreement, the Company and PMI will each make an initial
+investment of $40 million for 50% ownership and secure lease financing for the
+purchase of the kiosks. During 2001, the Company invested $20 million in DPI.
+Recently, DPI has changed its business plan from 100% leasing the kiosks to
+customers and sharing in the photo printing revenues generated, to a mix of
+leasing and selling the kiosks outright. While this plan may reduce the
+long-term cumulative income from each kiosk, it is expected to substantially
+reduce DPI requirements for lease financing. Therefore, the Company expects
+based on the current business plan that the total value of its lease guarantees
+will be below $50 million in 2002. PMI will manufacture the kiosks for the
+joint venture and will install and maintain the kiosks under contract with the
+joint venture. The Company accounts for this investment under the equity method,
+and recorded a loss of $14 million as its share of the equity in loss of joint
+venture in 2001.
+On November 2, 2000, the Company made a strategic investment of $72
+million in Divio, Inc. Divio is a privately-held manufacturer of digital imaging
+compression technology and products for future digital camcorders that will be
+capable of using our flash memory cards to store home video movies, replacing
+the magnetic tape currently used in these systems. Under the agreement, the
+Company owns approximately 10% of Divio and is entitled to one board seat. The
+Company accounts for the investment under the cost method.
+Note 9: Derivatives
+On January 1, 2001, the Company adopted Statement of Financial Accounting
+Standards SFAS No. 133, Accounting for Derivative Instruments and Hedging
+Activities. The standard requires that all derivatives be recorded on the
+balance sheet at fair value and establishes criteria for designation and
+effectiveness of hedging relationships. The cumulative effect of adopting SFAS
+133 as of January 1, 2001 was not material to the Company consolidated
+financial statements.
+The Company is exposed to foreign currency exchange rate risk inherent in
+forecasted sales, cost of sales, and assets and liabilities denominated in
+currencies other than the U.S. dollar. The Company is also exposed to interest
+rate risk inherent in its debt and investment portfolios. The Company risk
+management strategy provides for the use of derivative financial instruments,
+including foreign exchange forward contracts, to hedge certain foreign currency
+exposures. The Company intent is to offset gains and losses that occur on the
+underlying exposures, with gains and losses on the derivative contracts hedging
+these exposures. The Company does not enter into any speculative
+75 positions with regard to derivative instruments. The Company enters into foreign
+exchange contracts to hedge against exposure to changes in foreign currency
+exchange rates, only when natural offsets cannot be achieved. Such contracts are
+designated at inception to the related foreign currency exposures being hedged,
+which include sales by subsidiaries, and assets and liabilities that are
+denominated in currencies other than the U.S. dollar. The Company foreign
+currency hedges generally mature within six months.
+All derivatives are recorded at fair market value on the balance sheet,
+classified in other assets. For derivative instruments that are designated and
+qualify as cash flow hedges, the effective portion of the gain or loss on the
+derivative instrument is recorded in accumulated other comprehensive income as a
+separate component of stockholders' equity and reclassified into earnings in the
+period during which the hedged transaction affects earnings. For derivative
+instruments that are designated and qualify as fair value hedges, the gain or
+loss on the derivative instrument, as well as the offsetting gain or loss on the
+hedged item attributable to the hedged risk, are recognized in earnings in the
+current period. For derivative instruments not designated as hedging
+instruments, changes in their fair values are recognized in earnings in the
+current period.
+For foreign currency forward contracts, hedge effectiveness is measured by
+comparing the cumulative change in the hedged contract with the cumulative
+change in the hedged item, both of which are based on forward rates. To the
+extent that the critical terms of the hedged item and the derivative are not
+identical, hedge ineffectiveness is reported in earnings immediately. The
+Company estimates the fair values on derivatives based on quoted market prices
+or pricing models using current market rates.
+The Company reports hedge ineffectiveness from foreign currency derivatives
+for both options and forward contracts in other income or expense. Hedge
+ineffectiveness was not material in fiscal 2001. The effective portion of all
+derivatives is reported in the same financial statement line item as the changes
+in the hedged item.
+The Company had foreign exchange contract lines in the amount of $651 million
+at December 31, 2001. Under these lines, the Company may enter into forward
+exchange contracts that require the Company to sell or purchase foreign
+currencies.
+At December 31, 2001, the Company had $236 million in Japanese
+Yen-denominated accounts payable and open purchase orders designated as cash
+flow hedges or fair value hedges against Japanese Yen-denominated cash holdings
+and accounts receivable. At December 31, 2001, the Company had one forward
+contract to sell Yen in the amount of $98 million. Foreign currency translation
+gains of $291,000 were deferred at December 31, 2001 in connection with this
+contract as the contract has been identified as a hedging contract. One forward
+exchange contract in the notional amount of $98 million was outstanding at
+December 31, 2001. The Company estimates the fair values of derivatives based on
+quoted market prices or pricing models using current market rates. There was no
+unrealized loss on derivative instruments as of December 31, 2001.
+The impact of movements in currency exchange rates on foreign exchange
+contracts substantially mitigates the related impact on the underlying items
+hedged. The Company had net transaction gains losses of approximately
+$894,000, $428,000, and $1,467,000 for the years ended December 31, 2001,
+2000, and 1999, respectively. These amounts are included in other income loss,
+net, in the statement of operations.
+Note 10: Restructuring Charge and Related Activities
+In the third quarter of 2001, the Company adopted a plan to transfer all of
+its card assembly and test manufacturing operations from its Sunnyvale location
+to offshore subcontractors. As a result, the Company recorded a restructuring
+charge of $85 million. The charge included $11 million of severance and
+employee related costs for a reduction in workforce of approximately 193
+personnel, equipment write-off charges of $64 million and lease commitments of
+$10 million on a vacated warehouse facility.
+Workforce Reduction: In the third quarter of 2001, the Company adopted a
+plan to reduce its workforce by a total of 193 employees through involuntary
+employee separations from October 2001 through April 2002. The Company recorded
+a charge of $11 million for employee separations in the third quarter of 2001.
+As of December 31, 2001, the Company had made severance and benefit payments
+related to the planned reduction in force totaling
+76 805,000.
+Abandonment of Excess Equipment: As a part of its plan to transfer all card
+assembly and test manufacturing operations to offshore subcontractors, the
+Company abandoned excess equipment and recorded a charge of $64 million in the
+third quarter of fiscal 2001.
+Abandonment of Excess Leased Facilities: The Company is attempting to
+sublease one warehouse building in San Jose, California. Given the current real
+estate market condition in the San Jose area, the Company does not expect to be
+able to sublease this building before the end of 2003 and as a result, the
+Company has recorded a charge of $10 million in the third quarter of 2001.
+Remaining Payout: Remaining cash expenditures related to the workforce
+reduction will be paid by April 2002. Amounts related to the abandonment of
+excess leased facilities will be paid as the lease payments are due in 2002 and
+2003.
+Savings: The Company believes that the savings resulting from the
+restructuring activity will contribute to a reduction in manufacturing and
+operating expense levels by approximately $118 million in fiscal 2002.
+The following table reflects the total restructuring charge                           Workforce    Lease
+Equipment   Reduction   Commitments   Total
+in thousands
+Restructuring Charge         $   6,383  $  1,094   $   1,033 $  8,510
+Write offs and write downs        6,027      -        -   6,027
+Cash charges                  -     805       -    805
+Reserve balance, December 31, 2001  $    356  $   289   $   1,033 $  1,678
+Note 11: Segment Information
+During fiscal 2001, 2000 and 1999, the Company operated in one segment, flash
+memory products. The Company markets and sells its products in the United States
+and in foreign countries through its sales personnel, dealers, distributors,
+retailers and its subsidiaries. The Company chief decision maker, the Chief
+Executive Officer, evaluates performance of the Company based on total Company
+results. Revenue is evaluated based on geographic region and product category.
+Separate financial information is not available by product category in regards
+to asset allocation, expense allocation, or profitability.
+Geographic Information  Sales outside the U.S. are comprised of sales to international customers in
+Europe, Canada, and Asia Pacific. Other than sales in U.S., Japan and Europe,
+international sales were not material individually in any other international
+location. Intercompany sales between geographic areas are accounted for at
+prices representative of unaffiliated party transactions.
+Information regarding geographic areas for the years ended December 31, 2001,
+2000, and 1999 are as follows in thousands                 Years Ended December 31,
+2001    2000    1999
+Revenues:
+United States     $163,516  $258,715 $ 116,922
+77   Japan           105,056   178,564    62,176
+Europe           57,386    99,352    22,674
+Other foreign countries   40,343    65,181    45,218
+Total             $366,301   $601,812   $246,990
+Long Lived Assets:
+United States       $186,167   $174,685   $ 25,442
+Japan             388     520     261
+Europe             23      55      20
+Other foreign countries   41,700   198,253    57,273
+Total             $228,278   $373,513   $ 82,996
+Revenues are attributed to countries based on the location of the customers.
+Long lived assets in other foreign countries includes the long-term investment
+in UMC of $259 in 2001, $1977 in 2000 and $512 million in 1999 and long-term
+investment in Tower of $154 in 2001. Long lived assets in the United States
+includes the investment in FlashVision of $1532 and Divio of $72 in 2001.
+Major Customers
+In 2001 and 2000, there were no customers who accounted for more than 10% of
+total revenue. In 1999, revenues from one customer represented approximately
+$280 million or 11%, of consolidated revenues.
+Note 12: Accumulated Other Comprehensive Income
+Accumulated other comprehensive income presented in the accompanying balance
+sheet consists of the accumulated unrealized gains and loses on
+available-for-sale marketable securities for all periods presented in
+thousands.                                     2001    2000    1999
+Accumulated other comprehensive income loss at beginning of year  $ 50,412 $   199  $   471
+Change of accumulated other comprehensive income during the year
+Unrealized gain loss on investments              $ 95,927  $ 50,268      -
+Unrealized gain loss on available-for-sale securities     $   908  $  343  $   272
+Accumulated other comprehensive income loss at year end       $ 46,423  $ 50,412 $   199
+The 2001 unrealized gain on investments included a tax expense of
+approximately $298 million and the 2000 unrealized loss on investments included
+a tax benefit of $346 million. The tax effects for other comprehensive income
+were immaterial in 1999.
+Note 13: Related Parties
+The Company has entered into a joint venture agreement with Toshiba, under
+which they formed FlashVision, to produce advanced NAND flash memory wafers. In
+addition, the Company and Toshiba will jointly develop and share the research
+and development expenses of future generations of advanced NAND flash memory
+products. The Company also purchases NAND flash memory card products from
+Toshiba. In 2001, the Company purchased NAND flash memory wafers and card
+products from FlashVision and Toshiba and made payments for shared research and
+development expenses totaling approximately $1323 million in 2001 and $220
+million in 2000. The Company had accounts payable balances due to FlashVision
+and Toshiba of $240 million at December 31, 2001 and $79 million. The Company
+had accrued current liabilities due to Toshiba for joint research and
+development expenses of $153 million at December 31, 2001 and long-term
+liabilities of $49 million and $35 million as of December 31, 2001 and 2000,
+respectively.
+78 Note 14: Investment in Joint Venture
+The following summarized the financial information for FlashVision at
+December 31, 2001 in thousands. In fiscal 2000, the investment in FlashVision
+did not meet the significant subsidiary threshold and therefore, summary
+financial information for prior years have been excluded.
+December 31, 2001
+unaudited
+Current Assets        $      61,601
+Property, plant and
+equipment and other assets        312,183
+Current Liabilities            67,438
+The following summarizes financial information for FlashVision for the nine
+months ended December 31, 2001 in thousands.
+Nine Months Ended
+December 31, 2001
+unaudited
+Net sales           $     110,706
+Gross profit                4,351
+Net income                 5,160
+Item 1.     Business                              4
+Item 2.     Properties                             18
+Item 3.     Legal Proceedings                         18
+Item 4. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+Reference is made to the information regarding directors and nominees and
+disclosure relating to compliance with Section 16A of the Securities Exchange
+Act of 1934 appearing under the captions Election of Directors and Compliance
+with Section 16A of the Securities Exchange Act of 1934 in our Proxy Statement
+for our Annual Meeting of Stockholders to be held on May 22, 2002, which
+information is incorporated in this Form 10-K by reference. Information
+regarding executive officers is set forth under the caption Executive Officers
+of the Registrant in Part I of this Form 10-K.

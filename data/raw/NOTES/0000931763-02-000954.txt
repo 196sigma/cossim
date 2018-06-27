@@ -1,0 +1,814 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+- 
+The following financial statements are contained in this report.
+Page
+Report of Independent 
+Financial Statements for Years Ended December 31, 2001, 2000 and 1999
+Balance 
+Statements of 
+Statements of Changes in Stockholders' 
+Statements of Cash 
+Schedule II - Valuation and Qualifying 
+21 REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Stockholders of ADTRAN, Inc.
+In our opinion, the financial statements listed in the accompanying index
+present fairly, in all material respects, the financial position of ADTRAN, Inc.
+at December 31, 2001 and 2000, and the results of its operations and its cash
+flows for each of the three years in the period ended December 31, 2001 in
+conformity with accounting principles generally accepted in the United States of
+America. In addition, in our opinion, the financial statement schedule listed in
+the accompanying index presents fairly, in all material respects, the
+information set forth therein when read in conjunction with the related
+financial statements. These financial statements and financial statement
+schedule are the responsibility of the Company management; our responsibility
+is to express an opinion on these financial statements and financial statement
+schedule based on our audits. We conducted our audits of these statements in
+accordance with auditing standards generally accepted in the United States of
+America, which require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements, assessing the
+accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion. s/PricewaterhouseCoopers LLP
+PricewaterhouseCoopers LLP
+Birmingham, Alabama
+January 28, 2002
+22 FINANCIAL STATEMENTS
+Balance Sheets
+December 31, 2001 and 2000
+ASSETS                                       2001       2000
+Current Assets
+- 
+Cash and cash equivalents                      $ 81,280,409   $ 60,748,728
+Short-term investments                        26,282,961    32,650,183
+Accounts receivable, less allowance for doubtful accounts of
+$3,882,099 and $813,003 in 2001 and 2000, respectively      60,598,867    82,133,831
+Other receivables                           9,609,478    35,862,774
+Inventory, net                            56,849,470    89,252,729
+Prepaid expenses                            3,486,470    4,032,438
+Deferred income taxes                         5,904,755    4,505,008
+- 
+Total current assets                    244,012,410   309,185,691
+- 
+Property, plant and equipment, net                   120,133,445   123,713,176
+Other assets                                 489,000     469,000
+Long-term investments                          157,901,718   112,968,138
+- 
+Total assets                       $522,536,573   $546,336,005
+- 
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities
+Accounts payable                           $15,551,685   $ 34,113,832
+Accrued expenses                            7,721,682    8,560,073
+Income taxes payable                          3,352,049    3,734,234
+- 
+Total current liabilities                  26,625,416    46,408,139
+- 
+Bonds payable                               50,000,000    50,000,000
+Deferred income taxes                           8,283,601    15,342,435
+- 
+Total liabilities                      84,909,017   111,750,574
+- 
+Minority interest in subsidiary                                160,000
+Commitments and Contingencies see Note 10
+Stockholders' equity
+- 
+Common stock, par value $01 per share; 200,000,000 shares
+authorized; 39,445,198 shares issued in 2001 and in 2000       394,452     394,452
+Additional paid-in capital                      96,384,091    96,707,263
+Accumulated other comprehensive income                 9,374,389    19,870,288
+Retained earnings                          350,233,932   332,905,403
+Less treasury stock at cost: 910,236 and 733,192 shares
+in 2001 and 2000, respectively                  18,759,308   15,451,975
+- 
+Total stockholders' equity                 437,627,556   434,425,431
+- 
+Total liabilities and stockholders' liability       $522,536,573   $546,336,005
+-  The accompanying notes are an integral part of these financial statements.
+23 Statements of Income
+Years ended December 31, 2001, 2000 and 1999                                 2001     2000       1999
+- 
+Sales                            $387,080,690  $462,948,721  $367,207,437
+Cost of sales                         213,759,507  233,429,280  178,629,643
+- 
+Gross profit                     173,321,183  229,519,441  188,577,794
+- 
+Selling, general and administrative expenses          95,954,228   87,115,889   71,734,959
+Research and development expenses               58,934,952   50,628,190   42,017,779
+- 
+Operating income                   18,432,003   91,775,362   74,825,056
+- 
+Interest income                      8,076,522   9,024,543   5,349,762
+Interest expense                     2,068,653  1,802,158  2,311,667
+Other expenses                        28,527    4,125   672,920
+Net realized investment gains losses           673,851  84,040,126
+Income before provision for income taxes            23,737,494  183,033,748   77,190,231
+- 
+Provision for income taxes                   6,408,965   62,231,487   26,244,677
+- 
+Net income                      $17,328,529  $120,802,261  $50,945,554
+- 
+Weighted average shares outstanding              38,567,324   38,647,288   38,334,507
+Weighted average shares outstanding assuming dilution /1/  38,676,187   39,704,286   38,831,091
+Earnings per common share - basic                  $45     $313     $133
+Earnings per common share - assuming dilution /1/         $45     $304     $131
+-  1/ Assumes exercise of dilutive stock options calculated under the treasury
+stock method.
+The accompanying notes are an integral part of these financial statements.
+24 Statements of Changes in Stockholders' Equity
+Years ended December 31, 2001, 2000 and 1999                      Common Stock
+Par Value   Additional
+Number   $01 Per   Paid-In    Retained
+of shares   Share    Capital    Earnings   Treasury Stock
+- 
+Balance, December 31, 1998  39,422,033   $394,221  $93,053,174  $161,157,588  $23,216,047
+- 
+Net income                                50,945,554
+Unrealized gain on
+marketable equity
+securities net of
+deferred tax of
+$76,000,000
+Stock options exercised:
+various prices per share    23,165     231    192,462           1,532,589
+Purchase of treasury stock:
+20,160 shares                                      325,991
+Income tax benefit from
+exercise of non-qualified
+stock options                       318,690
+Balance, December 31, 1999  39,445,198   $394,452  $93,564,326  $212,103,142  $22,009,449
+- 
+Net Income                                120,802,261
+Change in unrealized gain
+on marketable
+equity securities
+net of deferred tax of
+$22,994,436
+Reclassification adjustment
+for amounts included
+in net income net of
+income tax of
+$29,954,217
+Stock options exercised:
+various prices per share                 140,217           6,627,900
+Purchase of treasury stock:
+1,176 shares                                       70,426
+Income tax benefit from
+exercise of
+non-qualified stock
+options                         3,002,720
+Balance, December 31, 2000  39,445,198   $394,452  $96,707,263  $332,905,403  $15,451,975
+- 
+Net Income                                17,328,529
+Change in unrealized gain
+on marketable securities
+net of deferred tax of
+$4,077,218
+Reclassification adjustment
+for amounts included in
+net income, net of
+income tax of $1,849,820
+Stock options exercised:
+various prices per share                 339,623            793,017
+Purchase of treasury stock:
+215,000 shares                                    4,100,350
+Income tax benefit from
+exercise of non-qualified
+stock options                       16,451 Balance, December 31, 2001  39,445,198   $394,452  $96,384,091  $350,233,932  $18,759,308
+-                  Unrealized
+Gain on
+Marketable     Total
+Equity    Stockholders'
+Securities     Equity
+- 
+Balance, December 31, 1998        $0   $231,388,936
+- 
+Net income                     50,945,554
+Unrealized gain on
+marketable equity
+securities net of
+deferred tax of
+$76,000,000         116,000,000    116,000,000
+Stock options exercised:
+various prices per share             1,725,282
+Purchase of treasury stock:
+20,160 shares                   325,991
+Income tax benefit from
+exercise of non-qualified
+stock options                   318,690
+Balance, December 31, 1999   $116,000,000   $400,052,471
+- 
+Net Income                    120,802,261
+Change in unrealized gain
+on marketable
+equity securities
+net of deferred tax of
+$22,994,436         40,719,712   40,719,712
+Reclassification adjustment
+for amounts included
+in net income net of
+income tax of
+$29,954,217         55,410,000   55,410,000
+Stock options exercised:
+various prices per share             6,768,117
+Purchase of treasury stock:
+1,176 shares                    70,426
+Income tax benefit from
+exercise of
+non-qualified stock
+options                     3,002,720
+Balance, December 31, 2000   $19,870,288   $434,425,431
+- 
+Net Income                     17,328,529
+Change in unrealized gain
+on marketable securities
+net of deferred tax of
+$4,077,218          7,220,144    7,220,144
+Reclassification adjustment
+for amounts included in
+net income, net of
+income tax of $1,849,820   3,275,755    3,275,755
+Stock options exercised:
+various prices per share              453,394
+Purchase of treasury stock:
+215,000 shares                 4,100,350
+Income tax benefit from
+exercise of non-qualified
+stock options                    16,451
+Balance, December 31, 2001    $9,374,389   $437,627,556
+-  ADTRAN issued 37,956, 315,314 and 72,911 shares of Treasury Stock to accommodate
+employee stock option exercises during 2001, 2000 and 1999, respectively.
+Comprehensive income in 2001 of $6,832,630 consists of net income of $17,328,529
+and unrealized losses on marketable securities of $10,495,899 net of deferred
+tax.
+Comprehensive income in 2000 of $24,672,549 consists of net income of
+$120,802,261 and unrealized losses on marketable securities of $96,129,712 net
+of deferred tax.
+Comprehensive income in 1999 of $166,945,554 consists of net income of
+$50,945,554 and unrealized gains on marketable securities of $116,000,000 net
+of deferred tax.
+The accompanying notes are an integral part of these financial statements.
+25 Statements of Cash Flows
+Years ended December 31, 2001, 2000 and 1999                                       2001       2000         1999
+Cash flows from operating activities
+- 
+Net income                              $17,328,529   $120,802,261     $50,945,554
+Adjustments to reconcile net income to net cash
+provided by used in operating activities:
+Depreciation                            16,798,846    13,418,843     10,546,594
+Gain on sale of property, plant and equipment                                5,050
+Loss on sale of short-term investments                 179,729     141,233       417,749
+Gain on sale of long-term investments                5,159,414   85,040,126
+Write-down of other equity and debt securities            5,653,536    1,000,000
+Deferred income taxes                        2,527,095     16,411      683,237
+Income tax benefit from exercise of non-qualified
+stock options                            16,451    3,002,720       318,690
+Change in operating assets:
+Accounts receivable                         21,534,964   22,096,955    13,448,557
+Inventory, net                           32,403,259   30,683,956     7,131,803
+Other receivables                          26,250,108   31,430,079     3,743,198
+Prepaid expenses and other assets                   525,968    2,871,152      55,920
+Accounts payable                          18,562,147   21,339,984      1,793,751
+Accrued expenses                           838,391    1,451,825      2,122,491
+Income taxes payable                         382,185   2,362,225     5,035,664
+- 
+Net cash provided by used in operating activities        93,222,158   13,311,216     60,376,334
+- 
+Cash flows from investing activities
+- 
+Expenditures for property, plant and equipment            13,215,927   32,540,097    36,236,622
+Proceeds from the disposition of property, plant
+and equipment                                                 5,050
+Proceeds from sale of long-term investments              36,281,649    91,118,394      3,893,832
+Purchases of long-term investments                  97,793,588   37,027,741     1,221,411
+Proceeds from sale of short-term investments              59,228,684   177,081,903     38,581,797
+Purchases of short-term investments                  53,544,339  168,792,543    39,285,254
+- 
+Net cash provided by used in investing activities       69,043,521   29,839,916     34,262,608
+- 
+Cash flows from financing activities
+- 
+Proceeds from issuance of common stock                  453,394    6,768,117      1,725,282
+Purchase of treasury stock                       4,100,350     70,426      325,991
+- 
+Net cash provided by used in financing activities        3,646,956    6,697,691      1,399,291
+- 
+Net increase decrease in cash and cash equivalents       20,531,681    23,226,391     27,513,017
+Cash and cash equivalents, beginning of year                60,748,728    37,522,337     10,009,320
+- 
+Cash and cash equivalents, end of year                  $81,280,409   $60,748,728     $37,522,337
+- 
+Supplemental disclosure of cash flow information:
+Cash paid during the year for interest                 $1,867,264    $1,802,158     $2,311,667
+Cash paid during the year for income taxes              $11,760,534   $61,760,406     $22,094,478
+-  The accompanying notes are an integral part of these financial statements
+26 NOTES TO FINANCIAL STATEMENTS
+NOTE 1 - NATURE OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ADTRAN, Inc. designs, develops, manufactures, markets, and services a broad
+range of high-speed network access products utilized by providers of
+telecommunications services serviced by ADTRAN Carrier Networks Division or
+CN and corporate end-users serviced by ADTRAN Enterprise Networks Division
+or EN to implement advanced digital data services over public and private
+networks. ADTRAN also customize many of its products for private label
+distribution and for original equipment manufacturers to incorporate into their
+own products. Most of ADTRAN CN and EN products are connected to the local
+loop, which is the large existing infrastructure of the telephone network,
+predominantly consisting of copper wireline, which connects end users to a
+Central Office, the facility that provides local switching and distribution
+functions. The balance of ADTRAN products are used in the Central Office.
+CASH AND CASH EQUIVALENTS
+Cash and cash equivalents represent demand deposits, money market accounts and
+short-term investments classified as held-to-maturity see Note 2 with original
+maturities of three months or less.
+FINANCIAL INSTRUMENTS
+The carrying amount reported in the balance sheets for cash and cash
+equivalents, accounts receivable, and accounts payable approximate fair value
+due to the immediate or short-term maturity of these financial instruments. The
+carrying amount reported for the bonds payable approximates fair value because
+the underlying instruments are at variable rates that re-price frequently.
+Investments represent re-marketed preferred stocks, municipal bonds and
+marketable equity securities. Re-marketed preferred stocks are designed to be
+marketed as money market instruments. These instruments' dividend rates reset on
+a short-term basis to maintain the price of the instruments at par. These
+instruments may be redeemed on the date the interest rate resets. The fair value
+of short-term investments is estimated based on quoted market prices see Note
+2. Realized gains or losses are computed under the specific identification
+method.
+Long-term investments represent restricted money market funds see Note 2,
+municipal bonds, marketable equity securities and other equity and debt
+investments. The fair value of the restricted money market funds approximate
+fair value due to a variable interest rate. Marketable equity securities are
+reported at market value as determined by the most recently traded price of the
+securities at the balance sheet date, although the securities may not be readily
+marketable due to the size of the available market. Unrealized gains and losses,
+net of tax, are reported as a separate component of stockholders' equity.
+Realized gains and losses are computed under the specific identification method
+and are included in current income.
+OTHER RECEIVABLES
+Other receivables are comprised primarily of accrued interest and amounts due
+from subcontractors for raw material sales.
+INVENTORY
+Inventory is carried at the lower of cost or market, with cost being determined
+using the first-in, first-out method.
+PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment, which is stated at cost, is depreciated using
+methods which approximate straight-line depreciation over the estimated useful
+lives of the assets. ADTRAN depreciates its building and land improvements from
+five to thirty-nine years, office machinery and equipment from three to seven
+years and its engineering machinery and equipment from three to seven years.
+Expenditures for repairs and maintenance are charged to expense as incurred;
+betterments which materially prolong the lives of the assets are capitalized.
+The cost of assets retired or otherwise disposed of and the related accumulated
+depreciation are removed from the accounts and the gain or loss on such
+disposition is included in income.
+LONG-LIVED ASSETS
+ADTRAN evaluates long-lived assets used in operations for impairment whenever
+events or changes in circumstances indicate that the carrying amount of an asset
+may not be recoverable and the undiscounted cash flows estimated to be generated
+by those assets are less than the assets' carrying values. An impairment loss
+would be recognized in the amount by which the recorded value of the asset
+27 exceeds the fair value of the asset, measured by the quoted market price of an
+asset or an estimate based on the best information available in the
+circumstances. There were no such losses recognized during 2001, 2000, and 1999.
+ADTRAN does not expect the adoption of SFAS No. 141, 142, 143 and 144 to
+impact this policy.
+RESEARCH AND DEVELOPMENT COSTS
+Research and development costs are expensed as incurred.
+COMPREHENSIVE INCOME
+Comprehensive Income consists of net income and unrealized gains and losses on
+marketable securities, net of deferred taxes, and is presented in the Statements
+of Changes in Stockholder Equity.
+INCOME TAXES
+ADTRAN utilizes the asset and liability method of accounting for income taxes
+which requires the establishment of deferred tax liabilities and assets, as
+measured by enacted tax rates, for all temporary differences caused when the tax
+bases of assets and liabilities differ from those reported in the financial
+statements.
+INTEREST IN SUBSIDIARY
+ADTRAN consolidates ADTRAN AG, a Switzerland-based subsidiary, and reflected the
+25% minority interest as minority interest in the accompanying balance sheet at
+December 31, 2000. During 2001, ADTRAN purchased the 25% minority interest in
+ADTRAN AG for am amount approximating its book value.
+REVENUE RECOGNITION
+Revenue is generally recognized upon shipment of the product to the customer or,
+in the case of remote customer located warehouses, upon delivery to the
+customer. Shipping fees are recorded as revenue and the related cost is included
+in cost of sales. Revenue is recorded net of discounts. Also, revenue is
+recorded when the product price is fixed and determinable, collection of the
+resulting receivable is probable, and product returns are reasonably estimable.
+EARNINGS PER SHARE
+Earnings per common share, and earnings per common share assuming dilution, are
+based on the weighted average number of common and, when dilutive, common
+equivalent shares outstanding during the year see Note 11.
+USE OF ESTIMATES
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities, the disclosure of contingent assets and liabilities at the date of
+the financial statements, and the reported amounts of revenue and expenses
+during the reporting period. Actual results could differ from those estimates.
+RECLASSIFICATIONS
+Certain 2000 amounts have been reclassified to conform to the 2001 financial
+statement presentation. These reclassifications had no effect on previously
+reported net income, operating cash flows or total stockholders' equity.
+RECENTLY ISSUED ACCOUNTING STANDARDS
+In June 2001, the Financial Accounting Standards Board issued SFAS No. 141,
+Business Combinations, which has an effective date of June 30, 2001 for all
+business combinations initiated after this date. This statement requires all
+business combinations within the scope of the Statement to be accounted for
+using the purchase method of accounting. SFAS No. 141 does not currently impact
+ADTRAN.
+In June 2001, the Financial Accounting Standards Board issued SFAS No. 142,
+Goodwill and Other Intangible Assets, which has an effective date starting with
+fiscal years beginning after December 15, 2001. This statement addresses the
+accounting for goodwill and other intangible assets. SFAS No. 142 does not
+currently impact ADTRAN.
+28 In August 2001, the Financial Accounting Standards Board issued SFAS No. 143,
+Accounting for Asset Retirement Obligations ARO, which has an effective date
+for financial statements for fiscal years beginning after June 15, 2002. This
+statement addresses the diversity in practice for recognizing asset retirement
+obligations and requires that obligations associated with the retirement of
+tangible long-lived asset be recorded as a liability when those obligations are
+incurred, with the amount of the liability initially measured at fair value.
+Upon initially recognizing a liability for an ARO, an entity must capitalize the
+cost by recognizing an increase in the carrying amount of the related long-lived
+asset. Over time, the liability is accreted to its present value each period,
+and the capitalized cost is depreciated over the useful life of the related
+asset. Upon settlement of the liability, an entity either settles the
+obligations for its recorded amount or incurs a gain or loss upon settlement.
+The impact of SFAS No. 143 is not expected to be material to the Company
+financial statements.
+In October 2001, the Financial Accounting Standards Board issued SFAS No. 144,
+Accounting for the Impairment or Disposal of Long-Lived Assets, which has an
+effective date for financial statements for fiscal years beginning after
+December 15, 2001. This statement, which supersedes SFAS No. 121, Accounting for
+the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed of,
+requires that long-lived assets that are to be disposed of by sale be measured
+at the lower of book value or fair value less cost to sell. Additionally, this
+statement expands the scope of discounted operations to include all components
+of an entity with operations that i can be distinguished from the rest of the
+entity and ii will be eliminated from the ongoing operations of the entity in
+a disposal transaction. The impact of SFAS No. 144 is not expected to be
+material to the Company financial statements.
+NOTE 2 - INVESTMENTS
+ADTRAN classifies its securities as either available-for-sale or
+held-to-maturity. At December 31, 2001 and 2000, ADTRAN held the following
+securities, recorded at either fair value or amortized cost, which approximates
+fair value. December 31, 2001
+- 
+Cost or         Gross         Gross         Fair
+Amortized Cost    Unrealized Gains   Unrealized Losses        Values
+- 
+Available-for-sale securities  
+Restricted money market funds            $50,000,000                            $50,000,000
+Municipal bonds                   71,396,688        $242,072      $684,961      70,953,799
+Marketable equity securities             19,004,225       16,872,101      1,743,808      34,132,518
+Other equity securities                 811,705                              811,705
+Total available-for-sale securities        $141,212,618      $17,114,173     $2,428,769     $155,898,022
+- 
+Held-to-maturity investments  
+Municipal bonds and other government
+fixed income securities               $25,972,779                            $25,972,779
+Other debt securities                 2,313,877                             2,313,877
+Total held-to-maturity securities          $28,286,656                            $28,286,656
+-  December 31, 2000
+- 
+Cost or         Gross         Gross         Fair
+Amortized Cost    Unrealized Gains   Unrealized Losses        Values
+- 
+Available-for-sale securities  
+Restricted money market funds            $50,000,000                            $50,000,000
+Municipal bonds                   15,055,318         $6,449       $16,630      15,045,137
+Marketable equity securities             10,602,403       32,201,010       690,220      42,113,193
+Other equity securities                5,809,808                             5,809,808
+Total available-for-sale securities         $81,467,529      $32,207,459      $706,850     $112,968,138
+- 
+Held-to-maturity investments  
+Municipal bonds and other government
+fixed income securities               $32,650,183                            $32,650,183
+Total held-to-maturity securities          $32,650,183                            $32,650,183
+-  Gross realized gains on the sale of available-for-sale securities were
+approximately $6,046,000 and gross realized losses were approximately $1,066,000
+for the year ended December 31, 2001.
+29 NOTE 3 - INVENTORY
+At December 31, 2001 and 2000 inventory was comprised of the following                                          2001        2000
+Raw materials                                   $32,838,488    $50,011,508
+Work in process                                   5,154,555     12,606,275
+Finished goods                                   18,856,427     26,634,946
+- 
+$56,849,470    $89,252,729 NOTE 4 - PROPERTY, PLANT AND EQUIPMENT
+At December 31, 2001 and 2000, property, plant and equipment was comprised of
+the following                                          2001        2000
+Land                                      $ 4,263,104     $ 4,263,104
+Building                                     70,151,495     67,810,999
+Land improvements                                14,430,404     14,452,983
+Office machinery and equipment                          49,890,659     43,496,263
+Engineering machinery and equipment                       51,490,165     47,112,131
+- 
+190,225,827     177,135,480
+Less accumulated depreciation                          70,092,383    53,422,304
+- 
+$120,133,444    $123,713,176
+-  NOTE 5 - ALABAMA STATE INDUSTRIAL DEVELOPMENT AUTHORITY FINANCING
+In conjunction with an expansion of its Huntsville, Alabama facility, ADTRAN was
+approved for participation in an incentive program offered by the State of
+Alabama Industrial Development Authority the Authority. Pursuant to the
+program, on January 13, 1995, the Authority issued $20,000,000 of its taxable
+revenue bonds and loaned the proceeds from the sale of the bonds to ADTRAN. The
+bonds were originally purchased by AmSouth Bank of Alabama, Birmingham, Alabama
+the Bank. First Union National Bank of Tennessee, Nashville, Tennessee, the
+Bondholder purchased the original bonds from the Bank and made further
+advances to the Authority bringing the total amount outstanding to $50,000,000.
+An Amended and Restated Taxable Revenue Bond Amended and Restated Bond, was
+issued and the original financing agreement was amended. The Amended and
+Restated Bond bears interest, payable monthly. In 2001, the interest rate was 45
+basis points above the money market rate of the Bondholder through September 30.
+During the fourth quarter the interest rate was 45 basis points above the
+certificate of deposit rate of the Bondholder. The Amended and Restated Bond
+matures on January 1, 2020. ADTRAN is required to make payments to the Authority
+in amounts necessary to pay the principal of and interest on the Amended and
+Restated Bond. Included in long-term investments is $50,000,000, which is
+restricted money market funds, which is a collateral deposit against the
+principal of this bond.
+NOTE 6 - INCOME TAXES
+A summary of the components of the provision for income taxes as of December 31,
+2001, 2000 and 1999 are as follows                                  2001       2000       1999
+Current
+Federal                              $6,919,148    $58,300,783   $24,764,291
+State                               2,016,912     3,914,293    2,163,623
+- 
+Total Current                           8,936,059    62,215,076    26,927,914
+Deferred tax provision benefit                 2,527,095      16,411     683,237
+- 
+Total provision for income taxes                 $6,408,965    $62,231,487   $26,244,677                    30 The provision for income taxes differs from the amounts computed by applying the
+Federal statutory rate due to the following                                  2001       2000       1999
+Tax provision computed at the Federal statutory rate
+35% in 2001, 2000 and 1999                $8,307,916    $64,061,831    $27,016,582
+State income tax provision, net of Federal benefit         988,075     2,544,290     1,406,353
+Federal research credits                    2,386,068    2,970,013    1,880,205
+Tax exempt income                         897,771    1,060,586
+Other                               396,813     344,035     298,053
+- 
+$6,408,965    $62,231,487    $26,244,677 Temporary differences which create deferred tax assets and liabilities at
+December 31, 2001 and 2000 are as follows                               2001              2000
+Current    Non-current   Current    Non-current
+Accumulated depreciation                     $5,310,950           $4,611,379
+Investments                            2,972,651           10,731,056
+Accounts receivable                 $1,644,845           $303,413
+Inventory                       2,735,264           2,230,423
+Accruals                       1,524,646           1,371,763
+Suspended research and development credit                       599,409
+- 
+Deferred tax asset liability            $5,904,755  $8,283,601   $4,505,008   $15,342,435 No valuation allowance is deemed necessary by management, as the realization of
+recorded deferred tax assets is considered more likely than not.
+NOTE 7 - STOCK OPTION PLANS
+The Board of Directors of ADTRAN adopted the 1996 Employees Incentive Stock
+Option Plan the 1996 Plan effective February 14, 1996, as amended, under
+which 8,488,100 shares of common stock were reserved for issuance to certain
+employees and officers through incentive stock options and non-qualified stock
+options. ADTRAN currently has options outstanding under its 1986 Employee
+Incentive Stock Option Plan the 1986 Plan, which expired on February 14,
+1996. Options granted under the 1996 Plan or the 1986 Plan become exercisable
+after one year of continued employment, normally pursuant to a five-year vesting
+schedule beginning on the first anniversary of the grant date. In 2000, the
+Board of Directors voted to reduce the vesting schedule to four years beginning
+on the first anniversary of the grant date for new grants effective January
+2000. Expiration dates of options outstanding under the 1996 Plan and the 1986
+Plan at December 31, 2001 range from 2002 to 2011.
+The Board of Directors of ADTRAN adopted the Directors Stock Option Plan
+Directors Plan effective October 31, 1995, as amended, under which 200,000
+shares of common stock have been reserved. The Directors Plan is a formula plan
+to provide options to directors of ADTRAN. At December 31, 2001, 92,000 options
+had been granted under the Directors Plan. Expiration dates of options
+outstanding under the Directors Plan at December 31, 2001 range from 2005 to
+2011.
+31 Pertinent information regarding the Company stock option plans is as follows                           Number of Range of Exercise   Weighted Average   Vesting
+Options    Prices      Exercise Price   Provisions
+- 
+Options outstanding, December 31, 1998        2,179,786   $50 - $6575     $2778      Various
+- 
+Options granted                    520,000  $1813 - $3969     $3575      Various
+Options granted                    642,000  $1888 - $6575     $3605      Various
+Options cancelled                  153,225  $2128 - $6575     $3252      Various
+Options exercised                   96,076   $50 - $3175     $1796      Various
+- 
+Options outstanding, December 31, 1999        3,092,485  $150 - $6575     $3088      Various
+- 
+Options granted                    779,415  $3900 - $6981     $6782      Various
+Options granted                    616,185  $2125 - $6981     $6712      Various
+Options cancelled                  155,710  $1813 - $6981     $3736      Various
+Options exercised                  315,314   $150 - $6575     $2147      Various
+- 
+Options outstanding, December 31, 2000        4,017,061  $167 - $6981     $4402      Various
+- 
+Options granted                   1,442,890  $1923 - $2808     $2554      Various
+Options cancelled                  266,746  $2131 - $6981     $4404      Various
+Options exercised                   36,670   $167 - $2538     $1236      Various
+- 
+Options outstanding, December 31, 2001        5,156,535  $167 - $6981     $2731      Various
+-  The following table summarizes information about stock options outstanding at
+December 31, 2001 OPTIONS OUTSTANDING                         Weighted
+Average      Weighted                Weighted
+Range of        Number       Remaining      Average       Number       Average
+Exercise Prices      Outstanding    Contractual Life   Exercise Price   Exercisable    Exercise Price
+$250 - $333        14,570      172        $315         14,570      $315
+$1813 - $2131        739,715      677       $2119        419,030      $2116
+$2181 - $2750       1,859,706      846       $2540        373,936      $2527
+$2806 - $4625       1,106,990      728       $3590        438,334      $3642
+$4956 - $6981       1,435,554      783       $6836        541,358      $6707
+- 
+5,156,535                         1,787,228 The options above were issued at exercise prices which approximate fair market
+value at the date of grant. At December 31, 2001, 3,268,996 options were
+available for grant under the plans. ADTRAN applies APB Opinion No. 25 and
+related interpretations in accounting for our stock option plans. Accordingly,
+no compensation cost has been recognized related to stock options. Had
+compensation cost for ADTRAN stock-based compensation plans been determined
+based on the fair value at the grant dates for awards under those plans
+consistent with the method prescribed in SFAS No. 123, net income and earnings
+per share would have been reduced to the pro forma amounts indicated below PRO FORMA NET INCOME & EARNINGS PER SHARE                              2001          2000         1999
+Net income - as reported                $17,328,529     $120,802,261     $50,945,554
+Net income - pro forma                  540,238     108,525,119     44,903,017
+Earnings per share - as reported
+assuming dilution                       $45         $304        $131
+Earnings per share - pro forma assuming
+dilution                           $01        $273        $116                    32 The pro forma amounts reflected above are not representative of the effects on
+reported net income in future years because, in general, the options granted
+typically do not vest for several years and additional awards are made each
+year. The fair value of each option grant is estimated on the grant date using
+the Black-Scholes option-pricing model with the following weighted-average
+assumptions WEIGHTED AVERAGE ASSUMPTIONS
+2001  2000  1999
+Dividend yield              0%   0%    0%
+Expected life years           5    5    6
+Expected volatility          531%  554%  594%
+Risk-free interest rate        472%  618%  569 NOTE 8 - EMPLOYEE BENEFIT PLAN
+Effective January 1, 1990, ADTRAN adopted a savings plan the Savings Plan
+for the benefit of eligible employees. The Savings Plan allows employees to
+contribute part of their compensation to the plan on a tax-deferred basis, and
+requires ADTRAN to contribute an amount equal to 3% of compensation each year
+for eligible employees who have completed a year of service. The Savings Plan is
+intended to qualify under Sections 401a and 401k of the Internal Revenue
+Code of 1986, as amended the Code, and is intended to be a safe harbor
+401k plan under code Section 401k12. Prior to January 1, 2001, ADTRAN
+contributed matching contributions in an amount equal to 50% of each eligible
+employees elective deferrals under the Savings Plan, up to 5% of the employee
+compensation for the plan year. All contributions under the Savings Plan are
+100% vested. Charges to operations for the Savings Plan amounted to
+approximately $2,456,000, $1,368,000, $1,288,000, in 2001, 2000 and 1999,
+respectively.
+NOTE 9 - SEGMENT INFORMATION AND MAJOR CUSTOMERS
+ADTRAN, Inc. operates two reportable segments - 1 Carrier Networks CN and
+2 Enterprise Networks EN. The accounting policies of the segments are the
+same as those described in the Summary of Significant Accounting Policies see
+Note 1 to the extent that such policies affect the reported segment
+information. ADTRAN evaluates the performance of its segments based on gross
+profit; therefore, selling, general and administrative costs, as well as
+research and development, interest income/expense, and provision for taxes, is
+reported on an entity-wide basis only. There are no inter-segment revenues.
+The following table presents information about the reported sales and gross
+profit of ADTRAN for each of the years ended December 31, 2001, 2000 and 1999.
+Asset information by reportable segment is not reported, since ADTRAN does not
+produce such information internally.
+SALES BY MARKET SEGMENT
+In Thousands                 2001               2000               1999
+Sales    Gross Profit    Sales    Gross Profit    Sales    Gross Profit
+CN           $238,367     $ 93,643    $315,228     $ 146,886   $230,967     $ 108,809
+EN            148,714      79,677    147,721       82,633    136,240       79,769
+- 
+Total          $387,081     $173,320    $462,949      $229,519   $367,207      $188,578                    33 The following is sales information by product and geographic area for the years
+ended December 31, 2001, 2000 and 1999 SALES BY PRODUCT
+In Thousands                                     2001         2000         1999
+Digital Business Transport DBT / Total ReachR            $86,794       $141,996       $133,064
+High-bit-rate Digital Subscriber Line HDSL / T1            192,850        233,073        203,894
+Systems                                 107,437        87,880        30,249
+- 
+Total                                  $387,081       $462,949       $367,207 SALES BY GEOGRAPHIC REGION
+In Thousands
+2001         2000         1999
+United States                              $369,422       $448,810       $357,699
+Foreign                                  17,659        14,139         9,508
+- 
+Total                                  $387,081       $462,949       $367,207 Sales of ADTRAN network access equipment to the Regional Bell Operating
+Companies RBOCs and GTE, also known as Incumbent Local Exchange Carriers
+ILECs, amounted to approximately 59%, 56% and 55% of total sales during the
+years ended December 31, 2001, 2000 and 1999, respectively. ADTRAN EN Division
+sells a significant portion of our products to value-added resellers through a
+multi-tier distribution system. Sales of this type amounting to 26%, 26%, and
+27% of ADTRAN revenue for each of the years ended December 31, 2001, 2000 and
+1999, respectively, were routed through four primary fulfillment distributors.
+NOTE 10 - COMMITMENTS AND CONTINGENCIES
+ADTRAN has certain contingent liabilities resulting from litigation arising in
+the normal course of business. Although the outcome of any litigation can never
+be certain, it is ADTRAN opinion that the outcome of such contingencies will
+not materially affect its business, operations, financial condition or cash
+flows.
+ADTRAN leases office space and equipment under operating leases which expire at
+various dates through 2003. As of December 31, 2001, future minimum rental
+payments under non-cancellable operating leases are approximately as follows 2002                                 $438,000
+2003                                 110,000
+- 
+Total                                $548,000
+- 
+Rental expense was approximately $754,000, $846,000 and $988,000 in 2001, 2000
+and 1999, respectively.
+34 NOTE 11 - EARNINGS PER SHARE
+A summary of the calculation of basic and diluted earnings per share EPS for
+the years ended December 31, 2001, 2000 and 1999 is as follows                                   For the Year Ended December 31, 2001
+Income        Shares       Per-Share
+Numerator     Denominator      Amount
+Basic EPS
+- 
+Income available to common stockholders             $17,328,529      38,567,324     $45
+Effect of Dilutive Securities
+- 
+Stock Options                                      108,863
+Diluted EPS
+- 
+Income available to common stockholders
+with dilution for assumed options exercised        $17,328,529      38,676,187     $45                                   For the Year Ended December 31, 2000
+Income        Shares       Per-Share
+Numerator     Denominator      Amount
+Basic EPS
+- 
+Income available to common stockholders            $120,802,261      38,647,288     $313
+Effect of Dilutive Securities
+- 
+Stock Options                                     1,056,998
+Diluted EPS
+- 
+Income available to common stockholders
+with dilution for assumed options exercised        $120,802,261      39,704,286    $304                                   For the Year Ended December 31, 1999
+Income        Shares       Per-Share
+Numerator     Denominator      Amount
+Basic EPS
+- 
+Income available to common stockholders             $50,945,554      38,334,507     $133
+Effect of Dilutive Securities
+- 
+Stock Options                                      496,584
+Diluted EPS
+- 
+Income available to common stockholders
+with dilution for assumed options exercised        $50,945,554      38,831,091     $131 ADTRAN reported a realized investment gain from the sale of certain marketable
+equity securities, resulting in an after-tax gain of $55,410,000 $139 per
+share assuming dilution. Earnings on a per share basis before the realized
+investment gain, assuming dilution, for the twelve months ended December 31,
+2000 was $165.
+35 The following options were outstanding during the respective years shown below,
+but were not included in the computation of that year diluted EPS because the
+options' exercise price was greater than the average market price of the common
+shares shown below.
+OUTSTANDING OPTIONS         2001                      2000                    1999
+-     
+Options    Exercise            Options    Exercise          Options    Exercise
+Granted    Price    Expiration    Granted     Price   Expiration   Granted     Price    Expiration
+34,450   $3050-$4625   2005      226,400   $5625-$6575   2006      46,000  $3175-$4625    2005
+220,800   $3975-$6575   2006       4,000   $6575       2009     276,000  $3975-$6575    2006
+472,566   $2538-$4238   2007     1,316,150   $4000-$6981   2010      23,100  $3788-$4272    2007
+11,675   $2625-$3100   2008                           1,083,710  $3606-$5144    2009
+967,140   $2538-$5144   2009
+1,274,364   $3900-$6981   2010
+1,396,090   $2534-$2808   2011 NOTE 12 - SUMMARIZED QUARTERLY FINANCIAL DATA UNAUDITED
+The following table presents unaudited quarterly operating results for each of
+ADTRAN last eight fiscal quarters. This information has been prepared by
+ADTRAN on a basis consistent with our audited financial statements and includes
+all adjustments, consisting only of normal recurring adjustments, considered
+necessary for a fair presentation of the data.
+UNAUDITED QUARTERLY OPERATING RESULTS
+In thousands, except for per share amounts Three Months Ended               March 31, 2001   June 30, 2001   September 30, 2001    December 31, 2001
+- 
+Net sales                       $105,276      $97,198         $95,513         $89,094
+Gross profit                      45,434      45,559         42,399         39,929
+Operating income                     4,521       5,796          5,098          3,017
+Net income                        3,959       4,637          4,950          3,783
+/1/ Earnings per common share assuming         $10       $12          $13          $10
+dilution
+Earnings per common share                 $10       $12          $13          $10
+-  Three Months Ended               March 31, 2000   June 30, 2000   September 30, 2000    December 31, 2000
+- 
+Net sales                       $99,470     $114,447        $127,277         $121,755
+Gross profit                      54,404      61,670         65,953          47,492
+Operating income                    24,470      27,249         30,219          9,837
+/2/ Net income                    16,794      18,648         76,868          8,493
+/1/ Earnings per common share assuming         $42       $47          $193           $22
+dilution
+Earnings per common share                 $44       $48          $199           $22
+-  1/ Assumes exercise of dilutive stock options calculated under the treasury
+stock method.
+/2/ Net Income for Q3 2000 includes the realized gain from the sale of certain
+marketable equity securities, resulting in an after-tax gain of $55,410,000.
+NOTE 13 - SUBSEQUENT EVENT
+On January 28, 2002, the Company Board of Directors approved a voluntary stock
+option exchange program for its employees, executive officers and directors. In
+conjunction with the exchange offer, the Company filed a Tender Offer Statement
+on Schedule TO with the Securities and Exchange Commission. Under the option
+exchange program, holders of options to purchase the Company common stock who
+have not received options after July 23, 2001 will be given the opportunity to
+exchange unexercised stock options granted prior to September 30, 2000 with
+exercises prices of at least $40 per share. For every four shares of an eligible
+option, three
+36 shares will be made available under the new option grant. The new grant will be
+no earlier than six months and two days after the expiration of the offer to
+exchange, and the exercise price of the new options will equal the last
+reported trading price of the Company common stock on the new grant date.

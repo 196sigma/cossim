@@ -1,0 +1,703 @@
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA  REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  To
+the Board of Directors and Stockholders of Captaris, Inc. Bellevue, Washington  We have audited the
+accompanying consolidated balance sheets of Captaris, Inc. and subsidiaries the Company as of December 31, 2004 and 2003, and the related consolidated statements of operations, cash flows, and shareholders equity for each of the
+three years in the period ended December 31, 2004. These financial statements are the responsibility of the Companys management. Our responsibility is to express an opinion on these financial statements based on our audits.  We conducted our audits in accordance with the standards of the Public Company Accounting
+Oversight Board United States PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on
+a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis for our opinion.  In our opinion, such consolidated financial statements present fairly, in all material respects, the financial position of Captaris, Inc. and subsidiaries as of December 31, 2004 and 2003, and the results of their
+operations and their cash flows for each of the three years in the period ended December 31, 2004, in conformity with accounting principles generally accepted in the United States of America.  /s/ DELOITTE TOUCHE LLP  Seattle, Washington March 31, 2005 
+38 Table of Contents
+CAPTARIS, INC.  CONSOLIDATED
+BALANCE SHEETS in thousands, except per share data  December 31 2004
+2003
+ASSETS Current assets Cash and cash equivalents 7,563 41,896
+Short-term investments, available-for-sale 25,725 28,081
+Accounts receivable, less allowances of $1,387 and $1,871 18,205 13,638
+Inventories 992 1,973
+Prepaid expenses and other 1,687 2,479
+Deferred tax assets and income tax receivable 3,161 1,770 Total current assets 57,333 89,837
+Long-term investments, available-for-sale 24,051 25,684
+Restricted cash 1,000 1,000
+Long-term deposits 94 37
+Equipment and leasehold improvements, net 7,168 4,605
+Intangible and other assets, net 13,442 6,705
+Goodwill 32,236 15,541
+Deferred tax assets, net 3,022 1,346 Total assets 138,346 144,755 LIABILITIES AND SHAREHOLDERS EQUITY Current liabilities Accounts payable 6,875 4,875
+Accrued compensation and benefits 4,462 4,403
+Other accrued liabilities 1,565 1,393
+Income taxes payable 375 2,999
+Deferred revenue 15,699 9,653 Total current liabilities 28,976 23,323 Accrued liabilities noncurrent 386 Deferred revenue noncurrent 2,743 604 Total liabilities 32,105 23,927 Commitments and contingencies Notes 15 and 19 Redeemable common stock Note 11 3,000
+Shareholders equity Preferred stock, par value $001 per share, 2,000 shares authorized; none issued and outstanding Common stock, par value $001 per share, 120,000 shares authorized; 29,452 and 32,358 issued and outstanding, respectively 295 318
+Additional paid-in capital 55,410 67,453
+Retained earnings 49,788 49,681
+Accumulated other comprehensive income 748 376 Total shareholders equity 106,241 117,828 Total liabilities and shareholders equity 138,346 144,755  See the accompanying
+notes to these consolidated financial statements. 
+39 Table of Contents
+CAPTARIS, INC.  CONSOLIDATED
+STATEMENTS OF OPERATIONS in thousands, except per share data  Year Ended December 31 2004 2003 2002 Net revenue 78,036 83,286 71,256 Cost of revenue 27,085 25,494 27,080 Gross profit 50,951 57,792 44,176 Operating expenses Research and development 10,299 9,496 10,376 Selling, general and administrative 43,660 39,257 40,860 Amortization of intangible assets Note 9 683 275 942 Impairment of intangible assets Note 9 488 5,529 Restructuring charges Note 16 423 2,034 Stock based compensation expense benefit Note 1 29 2,269 938 Gain on sale of discontinued product line CallXpress Note 5 2,169 Patent settlement with AudioFAX Note 9 875 Total operating expenses 55,101 49,551 59,678 Operating income loss 4,150 8,241 15,502 Other income expense Interest, net 1,278 1,459 2,422 Other, net 331 198 200 Other income 947 1,657 2,222 Income loss from continuing operations before income tax expense benefit 3,203 9,898 13,280 Income tax expense benefit 2,663 3,680 6,036 Income loss from continuing operations 540 6,218 7,244 Discontinued operations Note 4 Income from operations of MediaTel, net of income taxes of $309 and $1,659, respectively 472 2,535 Gain on sale of MediaTel assets, net of income tax benefit of $500 and tax expense of $3,823, respectively 647 5,843 Income from discontinued operations 647 6,315 2,535 Cumulative effect of change in accounting principle Note 8 2,695 Net income loss 107 12,533 7,404 Basic net income loss per common share Income loss from continuing operations 002 020 023 Income from discontinued operations 002 021 008 Cumulative effect of change in accounting principle Note 8 008 Basic net income loss per share 000 041 023 Diluted net income loss per common share Income loss from continuing operations 002 020 023 Income from discontinued operations 002 020 008 Cumulative effect of change in accounting principle 008 Diluted net income loss per share 000 040 023 Weighted average shares used in computation of Basic net income loss per share 31,346 30,849 31,780 Diluted net income loss per share 31,346 31,543 31,780
+See the accompanying
+notes to these consolidated financial statements. 
+40 Table of Contents
+CAPTARIS, INC.  CONSOLIDATED
+STATEMENTS OF CASH FLOWS in thousands  Year Ended December 31 2004 2003 2002 Cash flows from operating activities Net income loss 107 12,533 7,404 Adjustments to reconcile net income loss to net cash provided by operating activities Depreciation 2,662 3,545 3,916 Amortization 1,675 652 1,202 Stock based compensation expense benefit 29 3,132 1,151 Stock issued for consulting services 6 Gain on sale of discontinued product line CallXpress 2,169 Gain on sale of discontinued operations MediaTel assets, net of income taxes 647 5,843 Loss on disposition of equipment 133 396 Impairment of intangibles 488 5,529 Cumulative effect of change in accounting principle 2,695 Bad debt expense 183 1,134 373 Changes in assets and liabilities, net of effects from purchase of businesses and sale of CallXpress and MediaTel Accounts receivable, net 3,318 183 3,420 Inventories 979 408 1,132 Prepaid expenses and other assets 1,040 1,336 66 Deferred tax assets, net 1,106 391 1,488 Accounts payable 1,410 2,676 2,061 Accrued compensation and benefits 683 575 2,333 Other accrued liabilities 223 1,657 495 Income taxes payable 2,500 2,999 Deferred revenue 7,007 2,544 647 Net cash provided by operating activities 7,045 13,406 5,560 Cash flows from investing activities Purchase of equipment and leasehold improvements 3,835 3,092 4,307 Purchases of investments 68,752 63,155 38,679 Purchases of businesses, net of cash acquired 26,438 8,070 456 Proceeds from sale of discontinued product line CallXpress 2,500 Proceeds from sale of discontinued operations MediaTel 647 14,852 Proceeds from sale of and maturities of investments 72,414 60,340 45,391 Net cash used in provided by investing activities 25,964 3,375 1,949 Cash flows from financing activities Proceeds from exercise of common stock options 1,022 6,127 653 Repurchase of common stock 13,477 3,095 3,439 Repurchase of redeemable stock 2,982 Settlement of note payable 1,456 Cash collateralized for letter of credit 1,000 Net cash used in provided by financing activities 15,437 3,032 5,242 Net increase decrease in cash 34,356 19,813 2,267 Effect of exchange rate changes on cash 23 112 50 Cash and cash equivalents at beginning of period 41,896 21,971 19,654 Cash and cash equivalents at end of period 7,563 41,896 21,971 Supplemental disclosures Cash paid during the period for income taxes 3,192 1,593 54
+See the accompanying
+notes to these consolidated financial statements. 
+41 Table of Contents
+CAPTARIS, INC.  CONSOLIDATED
+STATEMENTS OF SHAREHOLDERS EQUITY in thousands, except share data  CommonShares CommonStock AdditionalPaid-in Capital  Loss RetainedEarnings TotalShareholdersEquity TotalComprehensiveIncome Loss Balance at January 1, 2002
+31,746,067 317 65,943 304 44,552 111,116 Exercise of stock options
+197,797 2 651 653 Repurchase of common stock
+1,725,909 17 3,422 3,439 Infinite settlement 1,482 1,482 Stock compensation benefit 1,151 1,151 Unrealized loss on investments, net of income tax benefit of $105 196 196 196 Foreign currency translation adjustment 204 204 204 Net loss 7,404 7,404 7,404 Balance at December 31, 2002
+30,217,955 302 60,539 312 37,148 98,301 7,396 Exercise of stock options
+2,121,158 21 6,106 6,127 Repurchase of common stock
+542,797 5 3,090 3,095 Cancellation of common stock
+13,368 Redeemable stock issued to acquire Teamplate, Inc. See Note 11
+574,727 40 40 Stock based compensation expense 3,132 3,132 Stock issued for consulting services 6 6 Stock option income tax benefit 720 720 Unrealized loss on investments, net of income tax benefit of $94 167 167 167 Foreign currency translation adjustment 231 231 231 Net income 12,533 12,533 12,533 Balance at December 31, 2003
+32,357,675 318 67,453 376 49,681 117,828 12,597 Exercise of stock options
+314,670 3 1,019 1,022 Repurchase of common stock
+2,649,098 26 13,451 13,477 Cancellation of common stock
+13 Repurchase of redeemable shares
+571,261 Conversion of redeemable stock to common shares 18 18 Stock compensation benefit 29 29 Stock option income tax benefit 400 400 Unrealized loss on investments, net of income tax benefit of $124 202 202 202 Foreign currency translation adjustment 574 574 574 Net income 107 107 107 Balance at December 31, 2004
+29,451,973 295 55,410 748 49,788 106,241 479  See the accompanying
+notes to these consolidated financial statements. 
+42 Table of Contents
+CAPTARIS, INC.  NOTES TO
+CONSOLIDATED FINANCIAL STATEMENTS  Years ended December
+31, 2004, 2003 and 2002  1. Description of the Business and Summary of
+Significant Accounting Policies  The Business  Captaris, Inc. provides business information delivery solutions which enable
+our customers to capture, process, deliver, manage and archive data and documents. Our products address the fax server market, which is divided into network fax and production fax, e-document delivery and related business process automation,
+workflow and archiving and records management markets. We distribute our products globally primarily through independent distributors and value-added resellers. Captaris was incorporated in the State of Washington in 1982. We also provide strategic
+and architectural technology consulting, custom development, integration of third party technologies and other services.  Accounting Principles  The consolidated financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States
+of America.  Principles of Consolidation  The consolidated financial statements include the accounts of Captaris, Inc.
+and our wholly owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.  Use of Estimates  The preparation of our consolidated financial statements, in conformity with accounting principles generally accepted in the United States of America,
+requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities and commitments at the date of the financial statements and the reported amounts of revenue and
+expenses during the reporting period. When the carrying values of assets and liabilities and commitments and contingencies are not readily apparent from other sources, we use estimates. Typically, estimates are used in accounting for the valuation
+of goodwill and other intangible assets, useful lives of intangible assets, equipment and leasehold improvements, inventory valuation allowances, revenue recognition and the estimated allowances for sales returns and doubtful accounts. Actual
+results may differ significantly from these estimates. To the extent that there are material differences between these estimates and actual results, our presentation of our financial condition or results of operations may be affected.  Reclassifications  As described in Note 4, on September 1, 2003, we sold the assets of MediaTel Corporation MediaTel, our wholly
+owned subsidiary which operated the MediaLinq business. As such, in accordance with generally accepted accounting principles, results of operations have been reclassified to reflect MediaTels operating results, net of income taxes, as
+discontinued operations.  Business Combinations  We include the results of operations of acquired businesses from the date of
+acquisition. Net assets acquired are recorded at their fair value at the date of acquisition. The excess of the purchase price over the fair value of net assets acquired is included in goodwill in the accompanying consolidated balance sheets. In
+certain circumstances, we have pushed down the goodwill to the acquiring foreign subsidiary resulting in foreign currency exchange differences upon consolidation.  Cash and Cash Equivalents  We consider all highly liquid debt instruments purchased with an original maturity of three months or less to be cash equivalents. 
+43 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+Restricted Cash  Restricted cash consists of cash collateralized for a letter of credit that serves as collateral pursuant to a lease agreement.  Investments  We classify our short-term and long-term investments as available-for-sale. Our investments are comprised of
+government agency issues, mortgage-backed securities, corporate debt securities, municipal securities and certificates of deposit and are recorded at fair market value. We determine the fair value of our investments based on quoted market prices.
+Investments with expected maturities of one year or less are classified as short-term. We recognize realized gains and losses upon sale of investments using the specific identification method. We believe that the expected lives of the
+mortgage-backed securities investments are much shorter than the stated maturities due to mortgage refinances and sales of homes. Accordingly, we have estimated the portion of the mortgages likely to be prepaid within one year based on historical
+prepayment data, current interest rates and other economic factors, and classified these investments as short-term. Unrealized gains and losses, net of any income tax effect, are recorded as a component of other comprehensive income. Interest income
+is recorded using an effective interest rate, with the associated premium or discount amortized to interest income over the term of the investment. See Note 6. 
+We recognize an impairment charge related to unrealized losses when an investments decline in fair value is below the cost basis and is judged to
+be other than temporary. In making this judgment, we evaluate, among other factors, the duration and extent to which the fair value of an investment is less than its cost; the financial condition and near-term business outlook for the investee and
+our intent and ability to hold the investment for a period of time sufficient to allow for any anticipated recovery in market value.  Concentration of Credit Risk  We extend credit to customers and are therefore subject to credit risk. We perform initial and ongoing credit evaluations of our customers financial
+condition and do not require collateral on accounts receivable. Estimates are used in determining the allowance for doubtful accounts and are based on our historical bad debt experience, the aging of customer accounts, customer concentrations,
+customer credit-worthiness, current economic trends and changes in our customer payment patterns. Historically, reserves for credit losses have been within our expectations.  A significant portion of our revenues are derived from sales in the United States. For the years ended December 31, 2004,
+2003 and 2002, sales in the United States accounted for 749%, 775% and 758%, respectively, of net revenue. See Note 18 Geographic Revenue, Long-Lived Assets and Significant Customers for a breakdown of revenue by geographic region.
+Inventories  Inventories consist primarily of fax boards, which we resell, and are stated
+at the lower of cost or market as determined by the first-in, first out method. Due to rapid changes in technology, it is possible that older products in inventories may become obsolete or we may sell these products below cost. When we determine
+that the carrying value of inventory is not recoverable, we write down inventories to market value.  Equipment and Leasehold Improvements  Equipment and leasehold improvements are recorded at cost less accumulated depreciation. Depreciation is calculated on a straight-line basis over the estimated useful lives of the related assets, ranging from three to
+seven years. Leasehold improvements are amortized over the lesser of their estimated useful lives or the term of the lease.  Intangible and Long-lived Assets  Intangible assets, other than goodwill, are amortized using the straight-line method over their estimated period of benefit, ranging from one to twelve
+years. All of our intangible assets are subject to amortization. We periodically evaluate the recoverability of intangible assets and take into account events or circumstances that warrant revised estimates of useful lives or that indicate that
+impairment exists. 
+44 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+Goodwill  Goodwill represents the excess purchase price over the estimated fair value of net assets acquired as of the acquisition date. In accordance with SFAS No.
+142, Goodwill and Other Intangible Assets, we perform tests for goodwill impairment on an annual basis and on an interim basis in certain circumstances. If impairment exists, goodwill is written down to its fair value.  Fair Value of Financial Instruments  For certain financial instruments, including accounts receivable, accounts
+payable and accrued liabilities, recorded amounts approximate fair value due to the short maturities of these instruments. Short-term and long-term investments are recorded at fair value as the underlying securities are classified as
+available-for-sale and marked to market at each reporting period. The change in market value is recorded in other comprehensive income.  Foreign Currency  The financial statements of our wholly owned foreign subsidiaries have been translated to U.S. dollars in accordance with SFAS No. 52, Foreign Currency
+Translation. Accordingly, all assets and liabilities of the subsidiaries are translated at year-end exchange rates and all revenue and expenses are translated at the average exchange rate for the period presented. Translation gains and losses
+are reported as other comprehensive income loss as a separate component of shareholders equity. In addition, we made a U.S. dollar denominated, long-term loan to one of our subsidiaries which is not intended to be repaid in the foreseeable
+future. The translation gains and losses recognized by the foreign subsidiary related to this loan are also recorded in other comprehensive income loss in the consolidated financial statements.  Foreign currency transaction gains and losses are a result of the effect of
+exchange rate changes on transactions denominated in currencies other than the functional currency, including U.S. dollars. Gains and losses on those foreign currency transactions are included in other income expense for the period of exchange.
+Foreign currency transaction gains were $13,000 in 2004 and $461,000 in 2003 and foreign currency transaction losses were $58,000 in 2002.  Segment Reporting  Historically, we classified our business into two major segments: software products and e-document services. In September 2003, we sold our e-document
+services operating segment see Note 4. As a result of the sale, we now operate in only one operating segment.  Stock-Based Compensation  During the second quarter of 2001, we offered a limited non-compulsory exchange of employee stock options on a less than one-for-one basis. The exchange
+which closed on July 10, 2001 resulted in the voluntary cancellation of employee stock options to purchase 3,135,720 shares of our common stock with varying exercise prices greater than $1000 per share in exchange for 1,286,790 employee stock
+options with an exercise price of $211. The option exchange offer resulted in variable accounting treatment for a total of 1,993,250 options, representing the 1,286,790 new options granted in the exchange as well as all employee options modified
+during the year. Variable accounting treatment will result in charges or credits recorded to stock based compensation, depending on fluctuations in quoted prices for our common stock and the number of stock options subject to variable accounting,
+neither of which can be predicted. At December 31, 2004, 2003 and 2002, we had 181,366, 266,342 and 1,370,779 options, respectively, to purchase common stock subject to variable accounting. In 2004, the total benefit to continuing operations for
+stock compensation was $29,000. In 2003, we recorded a total charge for stock compensation of $31 million consisting of a charge to continuing operations of $23 million and a charge to discontinued operations of $863,000. In 2002, we recorded a
+total benefit for stock based compensation expense of $12 million, consisting of a benefit to continuing operations of $938,000 and a benefit to discontinued operations of $213,000. 
+45 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+Allocation of this stock based compensation expense benefit to the operating categories is as
+follows:  Year Ended December 31 2004 2003
+2002 in thousands Cost of revenue 3 244 88 Research and development 11 519 220 Selling, general and administrative 15 1,506 630 Total operating expense benefit 29 2,269 938 Discontinued operations 863 213 Total stock based compensation expense benefit 29 3,132 1,151  We account for stock
+options under Accounting Principles Board Opinion No. 25, Accounting for Stock Issued to Employees, under which no compensation cost is recognized, if there is no difference between the exercise price and fair market value at the date of
+grant. Had compensation cost for stock option grants made in 2004, 2003 and 2002 been determined using the fair value method consistent with SFAS No. 123, Accounting for Stock-Based Compensation, as amended by SFAS No. 148, Accounting for
+Stock-Based Compensation Transition and Disclosure, our net income loss and net income loss per share would have been as shown in the following pro forma amounts:  Year Ended December 31 2004 2003 2002  Net income loss, as reported 107 12,533 7,404 Add: Stock-based compensation expense benefit, as reported, net of income taxes 18 1,928 690 Deduct: Total stock-based compensation expense determined under fair value based method for all awards, net of income taxes 2,705 1,549 3,097 Pro forma net income loss 2,616 12,912 11,191 Net income loss per share Basic as reported 000 041 023 Basic pro forma 008 042 035 Diluted as reported 000 040 023 Diluted pro forma 008 041 035
+In calculating the pro
+forma compensation expense, the fair value of each stock option grant is estimated on the date of grant using the Black-Scholes option pricing model and the following weighted average assumptions:  YearEndedDecember31 2004 2003 2002 Dividend yield
+00 00 00 Volatility
+472 603 614 Risk-free interest rate
+322 240 448 Expected life in years
+30 33 50
+Revenue Recognition 
+Our revenue recognition policies follow the guidelines of the American
+Institute of Certified Public Accountants AICPA Statement of Position SOP No. 97-2, Software Revenue Recognition, as amended. We recognize revenue when persuasive evidence of an arrangement exists, delivery has
+occurred, the selling price is fixed or determinable and collection is reasonably assured.  We sell products through resellers, OEMs and other channel partners, as well as directly to end-users. Except for OEM sales described below, we recognize product revenue upon shipment, net of estimated returns,
+provided that collection is determined to be probable and no significant obligations remain. All software licenses are bundled with 30 days of telephone support. We consider revenue associated with this telephone support to be insignificant, and
+therefore, we recognize this revenue when the software is shipped and record an estimate for the related cost of the telephone support. Revenue from term software licenses is recognized over the term of the license, generally twelve months. Whenever
+a software license, hardware, installation and post-contract customer support or PCS elements are sold together, we allocate the total arrangement fee among each element based on its respective fair 
+46 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+value, which is the price charged when that element is sold separately. The amount of revenue assigned to each
+element is impacted by our judgment as to whether an arrangement includes multiple elements and, if so, whether vendor-specific objective evidence VSOE of fair value exists for those elements. Changes to the elements in an arrangement
+and our ability to establish VSOE for those elements could affect the timing of revenue recognition for these items. Revenue for PCS is recognized on a straight-line basis over the service contract term, ranging from one to five years. PCS includes
+rights to unspecified upgrades and updates, when and if available, and bug fixes. Installation revenue is recognized when the product has been installed at the customers site and accepted by the customer. Recognition of revenue from software
+sold with installation services is recognized either when the software is shipped or when the installation services are completed, depending on our agreement with the customer and whether the installation services are integral to the functionality
+of the software. Revenue from perpetual software licenses is recognized when the software has been shipped, provided that collection for such revenue is deemed probable. For software sold to resellers in which we have granted exchange rights, we
+defer the revenue until the reseller sells the software through to end-users.  We have entered into agreements with certain OEMs from which we receive royalty payments periodically. Under the terms of the OEM license agreements, each OEM will qualify our software on their hardware and software
+configurations. Once the software has been qualified, the OEM will begin to ship products and report net sales to us. Most OEMs pay a license fee based on the number of copies of licensed software included in the products sold to their customers.
+These OEMs pay fees on a per-unit basis, and we record associated revenue when we receive notification of the OEMssales of the licensed software to an end-user. The terms of the license agreements generally require the OEMs to notify us of
+sales of our products within 30 to 45 days after the end of the month or quarter in which the sales occur. As a result, we recognize the revenue in the month or quarter following the sales of the product to these OEMscustomers.  In general, customers are granted a 30-day right of return for product sales.
+We reduce revenue recognized for estimated product returns at the time the related revenue is recorded. When customer acceptance provisions are present and we cannot reasonably estimate returns, we recognize revenue upon the earlier of customer
+acceptance or expiration of the acceptance period. Costs related to insignificant customer support obligations, which include telephone support, are recorded at the time the related revenue is recognized.  Consulting services are customarily billed at fixed rates, plus out-of-pocket
+expenses and revenues are recognized when the consulting has been completed. However, if it is determined that a consulting engagement will be unprofitable, we recognize the loss at the time of such determination. Training revenue is recognized when
+the training is completed.  Warranty Expense  A warranty reserve is established based on our historical experience and an
+estimate of the amounts necessary to settle future and existing claims on products sold as of the balance sheet date. While we believe that our warranty reserve is adequate and that the judgment applied is appropriate, such amounts estimated to be
+due and payable could differ materially from what will actually transpire in the future. Historically, warranty expenses have not been material.  Research and Development Costs  Research and development costs are expensed as incurred. We have not capitalized any software development costs, as technological feasibility is not
+generally established until substantially all development is complete.  Advertising Costs  Advertising costs are
+charged to sales and marketing expense as incurred. Advertising expenses from continuing operations were $51 million, $33 million and $39 million for the years ended December 31, 2004, 2003 and 2002, respectively. Advertising expenses for
+discontinued operations were $83,000 and $86,000 for 2003 and 2002, respectively.  Income Taxes  We compute the provision for
+income taxes using the asset and liability method, under which deferred income taxes are recorded for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities. These
+deferred taxes are measured using tax rates expected to be in effect when the temporary differences reverse. We will establish a valuation allowance to reduce deferred tax assets unless it is more likely than not that we will generate sufficient
+taxable income to allow for the realization of our deferred net tax asset. 
+47 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+Income Loss Per Common Share  Basic net income loss per common share is computed by dividing net income loss by the weighted average number of shares
+of common stock outstanding during the year. Diluted net income loss per common share is computed by dividing net income loss by the sum of the weighted average number of shares of common stock outstanding during the year and the net additional
+shares that would have been issued had all dilutive options been exercised less shares that would be repurchased with the proceeds from such exercises. Dilutive options are those that have an exercise price less than the average stock price during
+the period.  The following table sets forth the computation of
+basic and diluted income loss per common share:  Year Ended December 31 2004 2003
+2002  Numerator Income loss from continuing operations 540 6,218 7,244 Income from discontinued operations 647 6,315 2,535 Cumulative effect of change in accounting principle 2,695 Net income loss 107 12,533 7,404 Denominator Weighted average shares outstanding basic 31,346 30,849 31,780 Dilutive effect of common shares from stock options 694 Weighted average shares outstanding diluted 31,346 31,543 31,780 Basic net income loss per share Income loss from continuing operations 002 020 023 Income from discontinued operations 002 021 008 Cumulative effect of change in accounting principle 008 Basic net income loss per share 000 041 023 Diluted net income loss per share Income loss from continuing operations 002 020 023 Income from discontinued operations 002 020 008 Cumulative effect of change in accounting principle 008 Diluted net income loss per share 000 040 023  For the years ended
+December 31, 2004 and 2002, we excluded 471,162 and 309,120 common stock equivalents, respectively, from the calculation of diluted net income loss per share because such securities were antidilutive in those periods due to the net losses from
+continuing operations. Additionally, employee stock options to purchase 2,772,388, 1,724,232 and 4,126,940 shares in the years ended December 31, 2004, 2003 and 2002, respectively, were outstanding, but were not included in the computation of
+diluted income loss per share because the exercise price of the stock options was greater than the average share price of the common shares and, therefore, the effect would have been antidilutive.  Comprehensive Income  Comprehensive income consists of two components, net income and other comprehensive income. Other comprehensive income
+refers to revenue, expenses, gains and losses that under generally accepted accounting principles are recorded as an element of shareholders equity but are excluded from net income. Our other comprehensive income is comprised of foreign
+currency translation adjustments from those subsidiaries not using the U.S. dollar as their functional currency and unrealized gains and losses on marketable securities categorized as available-for-sale.  The components of accumulated other comprehensive income was as follows in
+thousands:  December 31 2004 2003
+Accumulated net unrealized loss on available-for-sale investments 181 21
+Accumulated foreign currency translation 929 355 Total accumulated other comprehensive income 748 376 
+48 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+2. New Accounting Pronouncements  In December 2004, the Financial Accounting Standards Board FASB issued Statement of Financial Accounting
+Standards No. 123 revised 2004 SFAS 123R, Share-Based Payments, that requires companies to expense the value of employee stock options and other forms of share-based compensation. This statement eliminates the ability to
+account for share-based compensation transactions using APB No. 25, and requires instead that such transactions be accounted for using a fair-value based method. Under SFAS No. 123R, share-based compensation arrangements, including stock options
+and employee stock purchase plans, will result in a cost that will be measured at fair value on the awards grant date, based on the estimated number of awards that are expected to vest. This cost, including the related income tax effects, will
+be recognized as the shares vest. Compensation cost for awards that vest would not be reversed if the awards expire without being exercised. The fair value of the awards can be determined using an option-pricing model that appropriately reflects our
+specific circumstances and the economics of our transactions. SFAS No. 123R is effective for public companies for periods beginning after June 15, 2005. We are currently evaluating option valuation methodologies and assumptions in light of this
+new statement. As such, at this time, we have not estimated the effect of this statement on our results of operations. However, we expect the adoption of SFAS No. 123R to have a material adverse effect on our results of operations.  In December 2004, the FASB issued FASB Staff Position FSP FAS
+No. 109-b, Accounting and Disclosure Guidance for the Foreign Earnings Repatriation Provision within the American Jobs Creations Act AJCA of 2004. The AJCA introduces a limited time 85% dividends received deduction
+on the repatriation of certain foreign earnings to a U.S. taxpayer repatriation provision, provided certain criteria are met. FSP FAS No. 109-b provides accounting and disclosure guidance for the repatriation provision. We do not anticipate
+repatriating earnings from our foreign entities in the foreseeable future and therefore no provision for the tax effect of such repatriation has been made.  Also included in the AJCA is a provision for a tax deduction on qualified production activities. We believe that we may benefit from this provision but
+since this special deduction does not come into effect until 2005, we do not have the necessary information to estimate the amount of this deduction at this time.  In November 2004, the FASB issued SFAS No. 151, Inventory Costs, which clarifies the accounting for abnormal amounts
+of idle facility expense, freight, handling costs and wasted material. SFAS No. 151 will be effective for inventory costs incurred during fiscal years beginning after June 15, 2005. We do not believe the adoption of SFAS No. 151 will have a material
+impact on our financial statements.  In March 2004, the FASB
+issued Emerging Issues Task Force EITF Issue No. 03-1, The Meaning of Other-Than-Temporary Impairment and its Application to Certain Investments. EITF No. 03-1 establishes additional disclosure requirements for each category of
+SFAS No. 115 investments in a loss position and provides guidance for assessing impairment losses on investments. Effective for years ending after December 15, 2003, companies must disclose the aggregate amount of unrealized losses and the aggregate
+related fair value of their investments with unrealized losses. Those investments are required to be segregated by those in a loss position for less than twelve months and those in a loss position for greater than 12 months. Additionally, certain
+qualitative disclosures are required to clarify a circumstance whereby an investments fair value that is below cost is not considered other than temporary. In September 2004, the FASB delayed the provisions of EITF No. 03-1 which provide
+guidance on evaluating whether an impairment is other than temporary. The disclosure requirements remain effective for annual financial statements. Although we will continue to evaluate the application of EITF No. 03-1, management does not currently
+believe adoption will have a material impact on our results of operations or financial position.  3. Businesses Acquired  On October 28, 2004, we acquired Information Management Research, Inc. IMR, an Englewood, Colorado company. IMRs Alchemy product line, which helps organizations capture, archive and retrieve business information enables
+us to provide complete solutions for business information delivery to our worldwide enterprise customers. Under the terms of the acquisition agreement, we acquired IMR for a total of $319 million. We paid $264 million in cash, including
+transaction costs of approximately $12 million and assumed liabilities of $56 million, net of cash acquired of $142,000. The assumed liabilities include $31 million of deferred tax liabilities related to purchased intangibles not deductible for
+tax purposes, deferred revenue of $12 million and accounts payable and other accrued liabilities of $13 million. The acquisition of IMR has been accounted for as a purchase. On the acquisition date, $50 million of the purchase price was deposited
+in a third-party escrow account for two years as security for certain post-closing obligations of the IMR shareholders, including indemnification obligations. In connection with the acquisition we adopted a plan to consolidate all IMR finance and
+administrative functions to our Bellevue headquarters. As such, as part of the purchase price allocation, we recorded a liability of $116,000 for severance expenses related to the involuntary termination of fourteen employees. 
+49 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+In accordance with SFAS No. 141, Business Combinations, all identifiable assets and
+liabilities were assigned a portion of the cost of the acquisition based on their respective fair values. We engaged a valuation firm to provide an estimated fair value for all identifiable intangible assets including technology, trade name,
+distributor relationships and non-compete agreements, using a discounted cash flow model. The determination of fair value is a critical and complex consideration that involves significant assumptions and estimates. These assumptions and estimates
+were based on our best judgments and resulted in the allocation of purchase price for this acquisition as detailed below. The excess of the purchase price over the fair value of the assets acquired was allocated to goodwill. Our results of
+operations include IMRs results of operations for the period from October 28, 2004 to December 31, 2004.  IMR Purchase Price Allocation:  inthousands
+Acquired technology 5,600
+Trade name 100
+Distributor relationships 2,800
+Non-compete agreements 400 Total identified amortizable intangible assets 8,900
+Goodwill 15,987
+Other assets acquired 7,061 Total purchase price 31,948  All identified
+amortizable intangible assets will be amortized on a straight-line basis over their estimated useful lives, ranging from one to five years. The weighted-average useful life of these assets is approximately 40 years. We will recognize amortization
+expense for these intangible assets of approximately $27 million in 2005, $22 million in 2006, $15 million in 2007, $11 million in 2008 and $933,000 in 2009. All of the $160 million allocated to goodwill was assigned to the fax and messaging
+reporting unit and is not deductible for tax purposes. Other assets acquired include $47 million of deferred tax-assets, $15 million of accounts receivable, $554,000 of fixed assets and $322,000 of other assets.  The following summarizes the unaudited pro forma results of operations, on a
+combined basis, as if our acquisition of IMR occurred January 1, 2003. The pro forma information gives effect to certain adjustments, including amortization of identified intangibles and the change in interest income had the respective acquisition
+occurred January 1, 2003. The pro forma financial information does not reflect integration costs, or cost savings or other synergies anticipated as a result of the acquisition. This pro forma information is presented for illustrative purposes only
+and is not necessarily indicative of the results of future operations or results that would have been achieved if we had made these acquisitions at the beginning of the specified periods.  Pro Forma Information:  YearEndedDecember31 2004 2003 in thousands Unaudited
+Net revenue 88,116 95,345 Income loss from continuing operations 5,020 4,353
+Income from discontinued operations 647 6,315 Net income loss 4,373 10,668 Basic income loss per common share from continuing operations 016 014
+Basic income per common share from discontinued operations 002 021 Basic net income loss per common share 014 035 Weighted average basic common shares outstanding 31,346 30,849
+Diluted income loss per common share from continuing operations 016 014
+Diluted income per common share from discontinued operations 002 020 Diluted net income loss per common share 014 034 Weighted average diluted common shares outstanding 31,346 31,543
+50 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+On September 30, 2003, we acquired Teamplate, Inc. Teamplate, an Alberta, Canada
+corporation. Teamplates product is a business process automation product built on the Microsoft.NET framework for Web services. Teamplates technology extends our business information delivery solutions with streamlined enterprise
+application integration, rapid solution deployment, sophisticated business rules processing and integrated process monitoring and metrics. Our results of operations include Teamplates results of operations for the twelve months ended December
+31, 2004 and the three months ended December 31, 2003.  Under
+the terms of the agreement, we acquired all of the stock of Teamplate for $81 million in cash, issued 574,727 shares of Captaris redeemable common stock valued at approximately $30 million that were issued on October 3, 2003 Note 11 and assumed
+liabilities of approximately $837,000, all resulting in an aggregate purchase price of $124 million, including transaction costs of approximately $325,000. Pursuant to the terms of the agreement, we deposited $250,000 in escrow as security for post
+closing adjustments related to working capital at September 30, 2003, the payment of a certain liability and the ultimate collection of certain accounts receivable. As of June 30, 2004, each of these adjustments was resolved and accordingly, we
+incurred additional goodwill relating to an additional payment of $68,000 to the original investors of Teamplate and a $70,000 purchase price adjustment. The $250,000 escrow balance was returned to us in September 2004.  The redeemable common stock issued in connection with this acquisition was
+held in a third-party escrow account for one year as security for certain post closing obligations of the Teamplate shareholders, including indemnification provisions whereby the Teamplate shareholders agreed to indemnify us against claims resulting
+from various representations and warranties made by the former Teamplate shareholders. In addition, we agreed to indemnify the Teamplate shareholders against claims resulting from various representations and warranties made by us. At December 31,
+2004, there have been no indemnification claims made and the shares have been released from escrow.  As part of the effort to retain the management team of Teamplate, we offered an incentive plan that allows the Teamplate management team to earn a minimum
+of $28 million up to a maximum of $83 million over the thirteen quarter period following the completion of the acquisition in September 2003, subject to their continued employment and our success in achieving certain performance targets. Any
+incentive compensation earned under this program is recorded as compensation expense in the period earned. Compensation expense related to this incentive program was $654,000 and $300,000 for the years ended December 31, 2004 and 2003, respectively.
+In accordance with SFAS No. 141, Business Combinations,
+all identifiable assets and liabilities were assigned a portion of the cost of the acquisition based on their respective fair values. We engaged a valuation firm to provide an estimated fair value for all identifiable intangible assets including
+workflow server technology, trade name, customer relationships and reseller agreements, using a discounted cash flow model. The determination of fair value is a critical and complex consideration that involves significant assumptions and estimates.
+These assumptions and estimates were based on our best judgments and resulted in the allocation of purchase price for this acquisition as detailed below. The excess of the purchase price over the fair value of the assets acquired was allocated to
+goodwill.  Teamplate Purchase Price Allocation:
+inthousands
+Workflow server technology 4,004
+Trade name 90
+Customer relationships 469
+Reseller agreements 311 Total identified amortizable intangible assets 4,874
+Goodwill 5,956
+Equipment 102
+Current assets 1,478 Total purchase price 12,410  The purchase price
+allocation set forth above was subject to additional adjustments related to the payment of a certain liability and the ultimate collection of certain accounts receivable. All such adjustments identified during the allocation period changed the
+carrying amount of goodwill generated as a result of this acquisition. On December 31, 2003, we increased the carrying value of goodwill related to this acquisition by $151,000 primarily for additional legal fees incurred in connection with the
+acquisition and for an additional payment made for the repayment of a note payable assumed in the acquisition at September 30, 2003. During 2004, additional expenses related to the acquisition were incurred and additional goodwill of $138,000 was
+recorded for the post-closing adjustments discussed above. 
+51 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+All identified amortizable intangible assets are amortized on a straight-line basis over their
+estimated useful lives, ranging from fifteen months to seven years. The weighted-average useful life of these assets is approximately 65 years. We will recognize amortization expense for these intangible assets of approximately $683,000 during each
+of the years ending December 31, 2005 through December 31, 2009 and $513,000 in 2010. All of the $68 million allocated to goodwill was assigned to the fax and messaging reporting unit and is expected to be deductible for tax purposes. 
+In August 2002, we acquired the distribution activities, assets and
+fifteen employees of our longtime distributor in the Netherlands, OfficeCom B.V. OfficeCom. We paid $416,000 in cash, assumed net liabilities of $146,000 and recorded goodwill of $562,000 in the fax and messaging reporting unit.
+On January 3, 2001, we acquired all of the outstanding stock
+of Infinite Technologies Infinite, a privately held global supplier of wireless applications and wireless infrastructure solutions for a total consideration of up to $241 million. At closing, we paid approximately $91 million in cash
+and issued 1,631,600 shares of common stock valued at $81 million. At the time of closing, we were obligated to pay approximately $29 million in a combination of cash and common stock over the next three years; this obligation was recorded at the
+time of closing as a note payable of $14 million net of imputed interest and stock to be issued totaling $15 million. Additionally, we could have paid up to an additional $39 million to the founder of Infinite who became an employee, in a
+combination of cash and our common stock under an earn-out arrangement over a period of three years from the date of closing which we would have expensed as compensation expense. We accounted for the business combination as a purchase. In connection
+with the acquisition, we recorded a one-time charge in the first quarter of 2001 related to purchased in-process research and development in the amount of $19 million.  In April 2002, the employee resigned and signed a separation agreement under which we paid approximately $15 million in
+cash in full satisfaction of all outstanding payments due under the agreement. The remainder of the accrued amounts of the purchase price, $14 million, was recorded as a reduction of goodwill. We also reversed a 2001 accrual for the employees
+performance incentive of approximately $700,000, which is reported as a reduction of 2002 research and development expenses.  4. Discontinued Operations  On September 15, 2003, Captaris and our wholly owned subsidiary, MediaTel Corporation Delaware MediaTel, entered into an asset purchase
+agreement, effective as of September 1, 2003, to sell the assets of MediaTel to PTEK Holdings, Inc. PTEK and its wholly owned subsidiary, Xpedite Systems, Inc. Xpedite. MediaTel provided outsourced e-document delivery
+services. Under the terms of the agreement, Xpedite paid us $149 million in cash and assumed certain liabilities. In June 2004, Xpedite paid us $232,000 of additional proceeds, net of income taxes of $152,000, in connection with a post-closing net
+working capital adjustment as prescribed in the asset purchase agreement. We are contingently obligated to indemnify Xpedite against claims resulting from various representations and warranties made by us. At December 31, 2004 no indemnification
+claims were outstanding. Concurrent with the sale transaction, we also entered into license and reseller agreements with Xpedite pursuant to which we will license our fax-to-mail technology to Xpedite in return for minimum compensation of $20
+million over a three year period, and both parties agreed to cooperate in providing mutual resale opportunities for each others products and services. In 2004, we recognized $250,000 of revenue in connection with these agreements. 
+For the year ended December 31, 2004, we recognized additional gain on the
+sale of MediaTel assets which consisted of additional proceeds of $232,000, net of income taxes; a Federal income tax refund of $483,000, including associated interest income, less professional fees, both net of income taxes; and legal fees incurred
+in defense of various legal proceedings see Note 19 of $68,000, net of expected insurance reimbursements, both net of income taxes. For the year ended December 31, 2003, we recognized a gain on the sale of the assets of MediaTel of approximately
+$58 million, net of income taxes of $38 million. In accordance with generally accepted accounting principles, MediaTels results of operations, net of income taxes, for the years ended December 31, 2003 and 2002 have been reclassified to
+discontinued operations. 
+52 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+Components of MediaTels operations reflected in the consolidated statements of operations as
+discontinued operations are as follows:  Years Ended December 31 2004
+2003
+2002 in thousands
+Revenue 15,812 23,345 Income from operations, before income tax 781 4,194  5. Sale of CallXpress Product Line
+On September 29, 2003, we announced the sale of our
+CallXpress product line, which primarily includes the Captaris voice and unified messaging assets, to Sound Advantage, LLC Sound Advantage, a California limited liability company.  Under the terms of the agreement, Sound Advantage acquired the CallXpress
+product line for $25 million in cash and will pay up to an additional $10 million per year over a three year period beginning January 1, 2004, pursuant to an earn out arrangement, which is based on achievement of specified revenue targets for the
+CallXpress business. In addition, we were issued a 10 percent equity interest in Applied Voice and Speech Technologies, Inc. AVST, a newly formed company established by Sound Advantage to acquire and operate the combined CallXpress and
+Sound Advantage businesses. RightFax will continue to be a part of AVSTs Unified Messaging offering, based on an ongoing OEM agreement. Also, we agreed to indemnify AVST against claims resulting from various representations and warranties made
+by us. At December 31, 2004, no indemnification claims have been made by AVST. We recognized a gain on the sale of CallXpress of approximately $22 million in 2003.  Pursuant to the terms of the agreement, AVST must notify us within 60 days of December 31, 2004 as to whether they achieved
+certain revenue targets and therefore owe us an additional $10 million. If AVST did achieve the revenue targets, we will record this payment as additional gain on the sale of CallXpress in the first quarter of 2005. This gain will be classified on
+our income statement as a reduction to operating expenses in 2005. On March 2, 2005, we received a report from AVST, and payment of $10 million, confirming achievement of the revenue target for 2004.  Components of the CallXpress product line reflected in our consolidated
+statements of operations are detailed below. Certain components of operating expenses directly attributable to the CallXpress product line could not be separated from other product lines. Only direct revenue and cost of revenue directly attributable
+to the CallXpress product line are detailed below:  Year ended December 31 2004
+2003
+2002 in thousands
+Revenue 6,877 13,039 Cost of revenue 1,885 3,022 Certain components of cost of revenue directly attributable to the CallXpress product line could not be separated from other product lines and are not included in these amounts.
+53 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+6. Investments  As of December 31, 2004 and 2003, our available-for-sale investments consisted of the following in thousands:  2004
+Cost
+UnrealizedGains
+UnrealizedLosses FairValue
+Classified as current assets Certificates of deposit 3,036 3 3,033
+Municipal bonds 5,738 20 5,718
+U.S. Agency adjustable rate mortgages 1,132 1 11 1,122
+Small Business Administration Pools 44 1 43
+Other government agency issues 15,861 52 15,809 Total 25,811 1 87 25,725 Classified as long-term assets Municipal bonds 20,780 173 20,607
+U.S. Agency adjustable rate mortgages 3,348 3 34 3,317
+Small Business Administration Pools 129 2 127 Total 24,257 3 209 24,051 Total investments 50,068 4 296 49,776 2003
+Cost
+UnrealizedGains
+UnrealizedLosses FairValue
+Classified as current assets Money market funds 17,456  17,456
+Corporate bonds 562 562
+Municipal bonds 2 2
+U.S. Agency adjustable rate mortgages 2,293 11 8 2,296
+Small Business Administration Pools 141 1 140
+Other government agency issues 7,620 7 2 7,625 Total 28,074 18 11 28,081 Classified as long-term Municipal bonds 152 2 150
+U.S. Agency adjustable rate mortgages 6,770 34 26 6,778
+Small Business Administration Pools 413 2 411
+Other government agency issues 18,321 36 12 18,345 Total 25,656 70 42 25,684 Total investments 53,730 88 53 53,765  As of December 31,
+2004, the contractual maturities of our investments in debt securities shown above were as follows:  Cost
+EstimatedFairValue
+Due within one year 5,736 5,715
+Due within two years 15,092 14,921
+Due greater than ten years 5,577 5,574
+Mortgage backed securities 20,627 20,533 Total fair value of debt securities 47,032 46,743  Mortgage backed
+securities have expected maturities that will differ from contractual maturities because borrowers may have the right to call or prepay obligations with or without call or prepayment penalties. 
+54 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+In accordance with EITF No. 03-1, the following table summarizes the fair value and gross unrealized
+losses related to available-for-sale securities, aggregated by investment category and length of time that individual securities have been in a continuous unrealized loss position, at December 31, 2004 in thousands:  Less Than 12 Months 12 Months or More Total Fairvalue
+Unrealizedlosses Fairvalue
+Unrealizedlosses Fairvalue
+Unrealizedlosses Certificates of deposit 3,033 3  3,033 3 Municipal bonds 20,678 193 112 20,790 193 U.S. Agency adjustable rate mortgages 1,565 15 2,231 30 3,796 45 Small Business Administration Pools 172 3 172 3 Other government agency issues 8,066 30 7,742 22 15,808 52 Total 33,342 241 10,257 55 43,599 296  Market values were
+determined for each of our 52 individual securities in the investment portfolio, of which 40 of our securities were in a loss position at December 31, 2004. Of the 40 securities in a loss position, 19 have been in a loss position longer than twelve
+months. The declines in value of these investments are primarily related to the increase in interest rates and are considered to be temporary in nature. See Note 1 for our policy on recording other-than-temporary declines in our investments. We
+recognize realized gains and losses upon sale of investments using the specific identification method. Realized gains losses were not significant in 2004, 2003 and 2002.  7. Equipment and Leasehold Improvements  Equipment and leasehold improvements consist of the following:  December 31 2004 2003 in thousands Computers, software and other equipment 15,312 10,924 Leasehold improvements 1,705 962 Furniture and fixtures 2,350 1,922 Total equipment and leasehold improvements 19,367 13,808 Less accumulated depreciation 12,199 9,203 Equipment and leasehold improvements, net 7,168 4,605  Internally developed
+software capitalized in 2004 was not material.  8. Goodwill 
+There was no amortization of goodwill for the years 2004, 2003 and 2002
+in accordance with SFAS No. 142. The following table provides information about activity in goodwill for the period from January 1, 2003 to December 31, 2004 in thousands:  Goodwill, net, at January 1, 2003 8,976 Teamplate acquisition 5,956 Acquisition of Axient distribution business 235 Disposition of goodwill as part of the sale of discontinued product line CallXpress 22 Foreign currency translation adjustment 396 Goodwill at December 31, 2003 15,541 IMR acquisition 15,987 Axient additional purchase price 32 Teamplate additional purchase price 138 Foreign currency translation adjustment 538 Goodwill at December 31, 2004 32,236 
+55 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+In January 2002, in continuation with our adoption of FAS No. 142 and the completion of an
+independent valuation primarily based on discounted cash flows, we determined that goodwill associated with our mobile delivery product line was impaired. Accordingly, a non-cash charge of $27 million was recorded as a cumulative effect of change
+in accounting principle effective January 1, 2002. There was no impairment of goodwill in 2004 and 2003.  9. Intangible and Other Assets  The following table presents details of the purchased intangible assets acquired during fiscal 2004 and 2003 in thousands, except number of years:  December 31, 2004
+December 31, 2003  in years
+Grosscarryingamount
+AccumulatedAmortization Otherintangibleassets, net
+in years
+GrossCarryingamount
+Accumulatedamortization Otherintangibleassets, net
+Technology
+58 9,914 1,049 8,865
+69 4,314 236 4,078
+Trade names/domain name
+24 240 148 92
+44 1,070 340 730
+Customer relationships and marketing channels
+31 3,269 284 2,985
+70 469 17 452
+Reseller agreements
+70 311 55 256
+70 311 11 300
+License agreements
+110 2,525 1,615 910
+110 2,525 1,381 1,144
+Covenants not to compete
+10 400 67 333 Investment in AVST Note 5 1 1 1 1 Total 16,660 3,218 13,442 8,690 1,985 6,705  Intangible assets are
+being amortized using the straight-line method over their estimated useful life ranging from one to twelve years. Amortization expense for certain technology and license agreements recorded in cost of revenue was $992,000, $377,000 and $260,000 for
+the years ended December 31, 2004, 2003 and 2002, respectively. Amortization expense for intangible assets excluding certain technology and license agreements recorded in operating expenses was $683,000, $275,000 and $942,000 for the years ended
+December 31, 2004, 2003 and 2002, respectively. Based on the current amount of intangible assets subject to amortization, the estimated amortization expense for 2005 through 2008 is as follows: $37 million for 2005, $32 million for 2006, $23
+million in 2007, $19 million in 2008, $17 million in 2009 and $602,000 in 2010.  On October 28, 2004, we acquired $89 million of intangible assets in connection with the acquisition of IMR. On September 30, 2003, we acquired approximately $49 million of intangible assets in connection with the
+acquisition of Teamplate. See Note 3.  In connection with our
+decision to incorporate the mobility technology associated with the Infinite product line directly into our business information delivery products effective January 2005 the intangible asset related to the Infinite Technology trade name
+became impaired and an impairment charge of approximately $488,000 was recorded in the fourth quarter of 2004. In the second quarter of 2002, we engaged a valuation firm to provide an estimated fair value of each of our intangible, long-lived assets
+using a discounted cash flow model. The determination of fair value is a critical and complex consideration when assessing impairment under SFAS No. 144, Accounting for the Impairment or Disposal of Long-Lived Assets, which involves
+significant assumptions and estimates. These assumptions and estimates were based on our best judgments. As a result, we determined that certain intangible assets acquired from Infinite Technologies in January 2001 were impaired. Accordingly, we
+recorded an impairment charge of $55 million for the mobile delivery product line in the second quarter of 2002. This impairment charge consisted of a write-down of core technology of approximately $24 million, a write-down of customer base and
+marketing channel of approximately $22 million and a write-down of trade names of approximately $849,000. No impairment charges were recognized in 2003.  In April 2002, we entered into a nonexclusive license agreement with AudioFax IP LLC, settling a patent infringement suit filed by AudioFax on November
+30, 2001. We paid a one-time fee to license the technology until the patents expire in 2008 and 2011. In the first quarter of 2002, we recorded a charge of $875,000, reflecting managements assessment of the fair value of the portion of the
+license fee that relates to prior years. The remaining balance of the license fee was capitalized and is being amortized over the remaining life of the licensors patents. Included in total amortization expense recorded in cost of revenue
+discussed above, amortization expense related to this license was $90,000 for the years ended December 31, 2004 and 2003 and $67,000 for the year ended December 31, 2002. 
+56 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+10. Line of Credit 
+We have a $10 million cash secured revolving line of credit which is reserved for letters of credit. As of December 31, 2004, we have utilized the
+letter of credit capacity in conjunction with our corporate headquarters lease. We have placed $10 million in a restricted certificate of deposit with the bank that supports the letter of credit. Prior to August 2004, we had a $40 million
+unsecured revolving line of credit, of which $20 million was for unsecured borrowings and $20 million was reserved for letters of credit. We did not borrow under our line of credit. The line of credit expired in August 2004, and we renewed $10
+million of the line used to secure the corporate headquarters lease as discussed above.  11. Redeemable Common Stock  On October 3,
+2003, in connection with the acquisition of Teamplate on September 30, 2003, we issued 574,727 shares of redeemable common stock valued at approximately $30 million. On the first anniversary of the closing, each Teamplate shareholder had the option
+to require us to purchase all of the shareholders portion of the Captaris common stock issued in the transaction at a price per share of $522 per share if a the average of the last sale price of the common stock for the 20 trading days
+prior to September 30, 2004, was less than $522 per share; and b the last sale price of the common stock on September 30, 2004, was less than $522 per share. At December 31, 2003, we recorded the issuance of this common stock as Redeemable
+Common Stock on the balance sheet. On October 25, 2004, 571,261 shares were returned to us to be repurchased for an aggregate amount of approximately $30 million. The stock redemption had no impact on the final purchase price adjustment for
+Teamplate.  12. Shareholders Equity  Stock Option Plans  The 1989 Restated Option Plan  The Captaris 1989 Restated Stock Option Plan the 1989 Plan provides for the issuance of incentive or
+non-statutory stock options to employees, directors, officers and other agents of the Company. Incentive stock options are granted at an exercise price of not less than the fair value per share of the common stock on the date of grant. The exercise
+price for non-statutory stock options may be at the discretion of the Board of Directors; however, as of December 31, 2004, no stock options have been granted for less than fair market value on the date of grant. The 1989 Plan was adopted and
+amended to replace several expired option plans. Options under the 1989 Plan have a term of one to ten years from the date of grant and vest at the rate of 25% after one year and 20833% per month thereafter. We have authorized 12,900,000 shares of
+common stock for issuance under the 1989 Plan.  The 2000
+Non-Officer Employee Stock Compensation Plan  Under the
+2000 Non-Officer Employee Stock Compensation Plan the 2000 Plan, we may issue non-qualified options to purchase common stock to employees and external consultants other than officers and directors. These options generally are granted
+at the fair market value of our common stock at the date of grant. Options under the 2000 Plan have a term of ten years from the date of grant and vest at the rate of 25% after one year and 20833% per month thereafter. We have authorized 5,000,000
+shares of common stock for issuance under the 2000 Plan.  At
+December 31, 2004, we have the following number of common stock shares available for future grant under our stock option plans:  1989 Plan
+4,419,263
+2000 Plan
+1,302,313 Total
+5,721,576 
+57 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+A summary of the status of our stock option plans at December 31, 2004, 2003 and 2002, and the
+changes during the years then ended, is presented in the following table:  2004
+2003
+2002 Shares WeightedAverageExercisePrice
+Shares WeightedAverageExercisePrice
+Shares WeightedAverageExercisePrice
+Outstanding at beginning of period
+4,586,424 523
+6,775,594 482
+6,909,351 534
+Granted
+1,434,910 521
+1,723,493 521
+1,875,449 300
+Exercised
+314,670 325
+2,121,158 289
+197,797 225
+Canceled
+413,609 742
+1,791,505 647
+1,811,409 521 Outstanding at end of period
+5,293,055 517
+4,586,424 523
+6,775,594 481 Exercisable at end of period
+2,541,823 540
+2,064,088 594
+3,704,144 591
+Weighted average fair value of options granted 184 195 168
+Information relating
+to stock options outstanding and stock options exercisable at December 31, 2004 is as follows:  Options Outstanding
+Options Exercisable
+Range of Exercise Prices
+Shares
+WeightedAverageExercise Price
+Shares
+WeightedAverageExercise Price
+$000$247
+415,789
+58 212
+330,289 216
+$248$319
+488,937
+77 296
+234,489 292
+$320$395
+471,032
+70 357
+358,743 357
+$396$549
+894,203
+89 472
+172,621 499
+$550$592
+1,806,575
+91 571
+241,371 590
+$593$599
+750,000
+59 594
+750,000 594
+$600$772
+320,224
+34 703
+308,015 707
+$773$1088
+12,402
+33 906
+12,402 906
+$1089$1363
+106,223
+44 1234
+106,223 1234
+$1364$2813
+27,670
+49 2528
+27,670 2528 5,293,055
+76 517
+2,541,823 540  Share Repurchase Plan
+Pursuant to a stock repurchase plan approved by our Board
+of Directors, we repurchased $135 million, $31 million and $34 million of our common stock in 2004, 2003 and 2002, respectively. In January 2005, the Board of Directors approved an $110 million increase to its previously announced stock
+repurchase program. Including the increase, approximately $150 million remains available to repurchase shares. We may repurchase shares in the future subject to open trading windows, overall market conditions, stock prices and our cash position and
+requirements going forward. The repurchase program will continue until the earlier of a such time when the maximum dollar amount authorized has been utilized or b our Board of Directors elects to discontinue the repurchase program. 
+13. Loans to Non-Officer Employees  Non-officer employee loans were made under a program to allow non-officer
+employees to purchase our common stock in the open market in 2000. The unsecured loans bear interest at the lowest rate allowed by the Internal Revenue Service. Loans from non-officer employees were $218,000 as of December 31, 2002. During 2003 and
+2002, we wrote down the value of these loans approximately $7,000 and $476,000, respectively, to reflect their expected net realizable value. In 2003, we canceled 13,368 shares of common stock in connection with these loans. At December 31, 2004 and
+2003, none of these loans were outstanding. 
+58 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+14. OEM Agreement  In January 2002, we entered into an OEM agreement with Cisco Systems, Inc. Cisco, under which we granted Cisco an exclusive third-party
+license to certain enabling technology. The agreement provided for quarterly payments to be made by Cisco through mid-2005. However, the timing and amount of these payments were subject to a number of conditions, some of which were beyond our
+control, including Ciscos ability to successfully implement the technology. We received a payment of $25 million in 2002. We recognized $33 million in revenue from this agreement in 2002.  In October 2003, we reached an agreement with Cisco Systems to accelerate the
+conclusion of our OEM contract. Pursuant to the agreement, Cisco paid us $120 million as payment in full for all remaining unpaid aggregate license fees, plus an additional 320 hours of support and training services for a period not exceeding
+twelve months, valued at $100,000. As a result of this agreement, $119 million was recorded as license revenue in the fourth quarter of 2003. Training revenue related to this OEM agreement is recognized as the service is rendered. Support revenue
+is recognized ratably from October of 2003 through the first nine months of 2004. As of December 31, 2004, all the revenue related to the support and training was recognized.  15. Commitments and Contingencies  Leases  We lease our office space and certain equipment under non-cancelable operating leases, which expire on various dates between March 2005 and February 2008. We sublease a portion of our office space to third parties.
+Rent expense under the non-cancelable leases was $27 million, $23 million and $31 million in 2004, 2003 and 2002, respectively. Certain of our lease agreements provide for scheduled rent increases over the lease term. Minimum rental expenses are
+recognized on a straight-line basis over the term of the lease. Future minimum lease payments under non-cancelable operating leases and future rental income under non-cancelable subleases having initial or remaining lease terms in excess of one year
+at December 31, 2004 were as follows in thousands:  FutureLeasePayments
+FutureRentalIncome Net
+2005 2,350 277 2,073
+2006 2,283 10 2,273
+2007 1,557 1,557
+2008 323 323
+2009 and thereafter 49 49 6,562 287 6,275  Intellectual Property
+We periodically receive letters and other communications
+from third parties asserting patent rights and requesting royalty payments and will probably receive additional claims in the future. Over the past six years, we have been involved in intermittent communications with Avaya, which was spun off from
+Lucent Technologies in 2001. Over this period of time, Lucent/Avaya asserted that we were infringing on their patents or technology, eventually identifying 10 patents as including claims that allegedly cover our current or former products and/or
+services. Several communications and meetings between us and Lucent/Avaya have occurred. We have also been in communication with BellSouth since December of 2001, at which time BellSouth asserted that we were infringing on two of its patents.
+Analysis of both patents in light of our current and former products/services is still underway. The last communication with representatives of BellSouth was on June 19, 2003. The ultimate outcome of these matters cannot presently be determined. As
+such, we have not recorded an accrual for these exposures. Accordingly, the ultimate resolution of these matters could have a material adverse effect on our results of operations, cash flows and financial condition. 
+59 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+Indemnifications  Pursuant to the terms of the sale of our MediaTel assets to PTEK and the sale of our CallXpress product line to AVST in September 2003, we agreed to
+indemnify these two parties against various representations and warranties we made in connection with these transactions. At December 31, 2004, no claims for indemnification were outstanding from PTEK or AVST.  In the normal course of business to facilitate sales of our products, we
+indemnify other parties, including customers, resellers, distributors, OEMs and parties to other transactions with the Company, with respect to certain matters. We have agreed to hold the other party harmless against losses arising from a breach of
+representations or covenants, or out of intellectual property infringement or other claims made by certain parties. We evaluate estimated losses for such indemnifications under SFAS No. 5, Accounting for Contingencies, as interpreted by FIN
+No. 45. We consider such factors as the degree of probability of an unfavorable outcome and the ability to make a reasonable estimate of the amount of the loss. To date, we have not encountered material costs as a result of such obligations and have
+not accrued any liabilities related to such indemnifications in our financial statements. See Note 19.  16. Restructuring Charges, Severance and Voluntary Layoff Program  Severance expense unrelated to a restructuring charge and for voluntary layoff programs was recorded in cost of revenue, research and development and
+selling, general and administrative expenses as follows:  In September 2003, we recorded a charge of approximately $624,000 in selling, general and administrative expenses for severance expense. These costs were paid as of December 31,
+2003.  In October 2002, we announced to our employees a voluntary layoff program, which subsequently resulted in a reduction of approximately 40 employees or 90% of our workforce, at a
+cost of $670,000. Approximately $561,000 of the total charge was paid in 2003 and the remainder was paid in 2002. Allocation of the costs of this program to operating expenses is as follows:  Year EndedDecember31,2002 inthousands
+Cost of revenue 112
+Research and development 199
+Selling, general and administrative 359 Total charge 670  Restructuring charges
+were recorded separately on the statement of operations as follows:  In September 2003, in conjunction with the sale of our CallXpress product line, we recorded a restructuring charge of approximately $423,000 for severance and related benefits for
+terminated employees associated with CallXpress. All of these expenses were paid as of December 31, 2003.  In January 2002, we announced a reduction of our workforce, affecting approximately 90 employees, or 180% of the total workforce. This reduction in force resulted in the
+recognition of a restructuring charge recorded in continuing operations of $20 million related to severance, impairment of certain assets and non-cancelable lease obligations; and a restructuring charge recorded in discontinued operations of
+$100,000 related to severance. All costs associated with this reduction in force were paid as of December 31, 2002. 
+60 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+17. Income Taxes  Income loss from continuing operations before income tax expense benefit consists of the following:  Year Ended December 31 2004 2003 2002 in thousands U.S. 2,031 10,247 13,280 Foreign 1,172 349 Income loss from continuing operations before income tax expense benefit 3,203 9,898 13,280  We are subject to
+income taxes in both the United States of America and numerous foreign jurisdictions. Significant judgment is required in evaluating our tax positions and determining our provision for income taxes. During the ordinary course of business, there are
+many transactions and calculations for which the ultimate tax determination is uncertain. We establish accruals for tax-related uncertainties based on estimates of whether, and to the extent which, additional taxes and interest will be due. These
+accruals are established when, despite our belief that our tax return positions are fully supportable, we believe that certain positions are likely to be challenged and may not be sustained on review by tax authorities. We adjust these accruals in
+light of changing facts and circumstances, such as the closing of a tax audit or the expiration of statutes of limitations. The provision for income taxes includes the impact of potential tax claims and changes to accruals that we consider
+appropriate, as well as the related penalties and interest.  The items accounting for the difference between income taxes computed at the U.S. statutory rate and the effective tax rate consisted of the following:  Year Ended December 31 2004 2003 2002 Amount Amount TaxRate Amount in thousands Income tax expense benefit at statutory rate 1,121 350 3,464 350 4,648 350 Research and experimentation credit 363 27 Nondeductible goodwill amortization and merger costs 8 01 Nontaxable interest income 187 58 14 01 323 25 State income taxes and other 90 28 222 22 368 28 Extra-territorial income exclusion benefit 334 25 Income tax contingency 1,413 441 Other items 32 10 Income tax expense benefit 2,663 831 3,680 372 6,036 455  Income tax expense
+benefit and cash paid for income taxes are as follows:  Year Ended December 31 2004 2003 2002 in thousands Federal 1,616 2,461 5,128 State and local 245 418 219 Foreign 99 324 Total current income taxes 1,272 3,203 5,347 Deferred federal 797 814 689 Deferred - state and local 202 247 Deferred foreign 392 90 Total deferred income taxes 1,391 477 689 Total income tax expense benefit 2,663 3,680 6,036 Income taxes paid 3,192 1,593 54 Income taxes refunded 2,805 422 5,453  The current federal
+and state provisions do not reflect the tax savings resulting from deductions associated with our stock option plans. These savings were approximately $400,000 and $720,000 in 2004 and 2003 respectively and were credited to additional paid in
+capital. Tax savings from these deductions were not significant in 2002. The income tax benefit in 2004 includes a benefit of $14 million relating to the reversal of income tax contingencies as a result of the expiration of certain statutory
+limitations. 
+61 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+Income from discontinued operations before income tax expense see Note 4 was $147,000, $104
+million and $42 million for the years ended December 31, 2004, 2003 and 2002, respectively, and was all derived in the U.S. The following table is a reconciliation from the U.S. statutory rate to the effective tax rate for discontinued operations:
+Year Ended December 31 2004 2003 2002 Amount Amount Amount in thousands Income tax expense at statutory rate 51 350 3,656
+350 1,470
+350 State income taxes and other 7 46 476
+46 189
+46 Income tax refund 558 3797 Income tax expense benefit 500 3401 4,132
+396 1,659
+396  Deferred taxes result
+from temporary differences relating to items that are expensed for financial reporting, but are not currently deductible for income tax purposes. Significant components of our deferred tax assets and deferred tax liabilities as of December 31, 2004
+and 2003 are as follows:  December 31 2004 2003 in thousands Deferred tax assets Accounts receivable allowances 515 484 Inventories 390 368 Depreciation 30 Accrued compensation, benefits and stock-based compensation 500 417 Amortization of intangibles 1,405 1,705 Deferred revenue 1,905 492 Net operating losses 5,147 90 Other 11 140 Total deferred tax assets 9,881 3,696 Deferred tax liabilities Depreciation 415 250 Capitalized software 153 Intangible assets not deductible for tax 3,130 330 Total deferred tax liabilities 3,698 580 Net deferred tax assets 6,183 3,116  At December 31, 2004,
+we have available unused net operating losses that may be applied against future taxable income of $51 million. These net operating losses consist of international losses of $482,000 that do not expire, Federal losses of $44 million that expire
+from 2019 to 2024, and State losses of $231,000 that expire from 2006 to 2022. We believe that there is sufficient positive evidence to support our conclusion not to record a valuation allowance against these net operating losses. We believe that we
+will utilize the loss carry forwards in the future because we have had a history of pre-tax income and the Internal Revenue Code IRC Section 382 limitation for the acquired net operating loss of IMR of $47 million covers approximately
+ten years of future operations, which is well within the statute of limitations for these losses. 
+62 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+18. Geographic Revenue, Long-Lived Assets and Significant Customers  We achieve broad U.S. market coverage for our products primarily through a
+nationwide network of computer-oriented value-added resellers. Information regarding our operations in different geographic areas is set forth below. Revenue and identifiable assets are reported based on the location of our customers.  Year Ended December 31 2004
+2003
+2002 in thousands
+Revenue United States of America 58,414 64,549 54,039
+Canada 3,193 3,789 2,554
+United Kingdom 1,763 2,531 2,081
+Other 14,666 12,417 12,582 Total net revenue 78,036 83,286 71,256  December 31 2004
+2003 inthousands Long-Lived Assets United States of America 43,895 19,421
+Canada 7,446 6,325
+United Kingdom 7 6
+Other 1,498 1,099 Total long-lived assets 52,846 26,851  Revenue from the
+acceleration of the OEM agreement with Cisco Note 14 represented 143% of our net revenue for the year ended December 31, 2003 and 47% in 2002. Other than Cisco in 2003, no single customer represented more than 100% of our net revenue for the
+years ended December 31, 2004, 2003 and 2002.  19. Legal Proceedings
+One of the services provided by MediaTel Corporation, a
+wholly owned subsidiary of Captaris, was the transmission of facsimiles to travel industry participants on behalf of travel service providers. MediaTel held a license to use a database supplied by NFO PLOG and then Northstar Travel Media that listed
+recipients for these facsimiles. All of the assets of MediaTel were sold to a subsidiary of PTEK Holdings, Inc. PTEK on September 1, 2003. On or about July 29, 2003, Travel 100 Group, Inc. Travel 100 filed three lawsuits
+in Circuit Court in Cook County, Illinois, one against Mediterranean Shipping Company Mediterranean, the second against The Melrose Hotel Company Melrose and the third against Oceania Cruises Oceania. On or
+about April 13, 2004, a fourth lawsuit was filed by another travel agent, Travel Travel Kirkwood, Inc. Kirkwood, against Oceania Cruises. That case was subsequently removed to the U.S. District Court, Eastern District of Missouri. The
+complaints are substantially identical in form and allege violations of the Telephone Consumer Protection Act in connection with the receipt of facsimile advertisements that were transmitted by MediaTel. Each of the Travel 100 complaints seeks
+injunctive relief and unspecified damages and certification as a class action on behalf of Travel 100 and others similarly situated throughout the United States that received the facsimile advertisements. The Kirkwood complaint seeks injunctive
+relief and unspecified damages but does not seek to certify a class action. Under the Telephone Consumer Protection Act, a court can impose liability of $500 per fax on a party that sends a fax without the consent of the recipient. A court can
+increase the liability to $1,500 per fax if the sending of the fax is willful.  In its answer filed on September 23, 2003, Mediterranean named Captaris as a third-party defendant and asserted that, to the extent that Mediterranean is liable, Captaris should be liable under theories of
+indemnification, contribution or breach of contract for any damages suffered by Mediterranean. Similarly, in its answer filed on October 14, 2003, Melrose named Captaris, as well as PTEK, as third-party defendants based on allegations of breach of
+contract, indemnification and contribution. On September 8, 2004 and November 18, 2004, Oceania filed Answers and Third-Party Complaints against Captaris and MediaTel in the Travel 100 and Kirkwood cases, respectively, making similar allegations to
+those made in the other two cases in its counts for fraud, indemnification and contribution. 
+63 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+In response to Mediterraneans third-party complaint, we filed our answer on November 3, 2003,
+denying the allegations filed by Mediterranean and further answering by way of affirmative defenses that to the extent we are found liable for any damages allegedly suffered by plaintiffs or any third-party plaintiffs in this action, we are entitled
+to indemnification and/or contribution from other non-parties to this action. We filed similar answers to the Melrose complaint on November 20, 2003 and the Oceania complaints on or about January 19, 2005 and January 12, 2005 respectively. Both
+Captaris and MediaTel have denied any liability in the cases because, among other facts and defenses, MediaTel understood that the database and lists of travel agent recipients to whom faxes were sent had authorized that information could be sent to
+them by fax. Based on Captaris analysis to date, we estimate that there were approximately 500,000 faxes sent relating to the Mediterranean case and approximately 200,000 faxes sent relating to the Melrose case. As of the date of this Annual
+Report on Form 10-K, we have not yet determined how many faxes were sent relating to the Oceania cases.  In Oceania, plaintiff, Travel 100, filed a motion to voluntarily dismiss the Oceania complaint because, according to Travel 100s counsel, Travel 100
+no longer wanted to participate in the prosecution of that case. Plaintiffs counsel requested that it be given 90 days to find another plaintiff to pursue the claim that Travel 100 had filed, and that if it could not find a plaintiff within
+that period then the complaint would be dismissed. Captaris and Oceania opposed allowing plaintiffs counsel 90 days to find a substitute plaintiff. On March 24, 2005, the Court agreed with Captaris and Oceania and dismissed Travel 100s
+complaint against Oceania, without allowing 90 days to find a substitute plaintiff. The Court in turn dismissed Oceanias complaint against Captaris and MediaTel without prejudice. Accordingly, the Oceania case is no longer pending. 
+Discovery is ongoing in all other cases and the parties are in the process
+of working out a schedule for class certification briefing. We expect the plaintiffs in the Mediterranean case to push for a hearing on class certification in the second half of 2005.  We have tendered these claims to our general liability insurance carrier and coverage has been disputed. Even if coverage is
+determined to apply, since the potential liability of these claims is substantially in excess of our coverage limits, there can be no assurance that our coverage will be sufficient to satisfy any damages we are required to pay.  We intend to vigorously defend each of these cases, but litigation is subject
+to numerous uncertainties and we are unable to predict the ultimate outcome of any of these matters. Moreover, the amount of any potential liability in connection with these cases will depend, to a large extent, on whether a class is certified, and
+if one is certified, on what the scope of that class will be, neither of which can be predicted at this time. We have not recorded a liability related to these cases. However, there is no guarantee that we will not determine in the future that an
+accrual is required or that we will not be required to pay damages in respect of these cases in the future, either of which could materially and adversely affect our results of operations, cash flows and financial condition for the quarter or year
+in which any accrual is recorded or any damages are paid.  On
+September 25, 2002, Lan-Aces, Inc. filed a complaint in the District Court of Harris County, Texas against the Company seeking damages of $600,000 plus attorneys fees for breach of contract. We removed the action to Federal Court in the
+Southern District of Texas on October 18, 2002. On January 23, 2003, Lan-Aces, Inc. filed an amended complaint adding unspecified statutory damages under the Copyright Act. The amended complaint alleged that we either breached an alleged agreement
+between the plaintiff and Infinite Technologies, Inc., or infringed plaintiffs copyright, with respect to software incorporated in the MailandNews.com Website, a free Internet service acquired as part of the Infinite Technologies
+acquisition and subsequently transferred to an unrelated third party. In July 2003, the matter was resolved by settlement between the parties, pursuant to which we agreed to pay an immaterial amount to the plaintiff. Pursuant to settlement, the case
+has been dismissed. 
+64 Table of Contents CAPTARIS, INC.  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued 
+20. Allowances for Doubtful Accounts and Sales Returns  Balanceatbeginningof year
+Chargedtocosts andexpenses
+Deductions
+Balanceat endof year in thousands
+Year ended December 31, 2004 Allowance for doubtful accounts 1,335 183 408 1,110
+Allowance for sales returns 536 1,120 1,379 277 Total 1,871 1,303 1,787 1,387 Year ended December 31, 2003 Allowance for doubtful accounts 1,495 1,134 1,294 1,335
+Allowance for sales returns 1,178 564 1,206 536 Total 2,673 1,698 2,500 1,871 Year ended December 31, 2002 Allowance for doubtful accounts 1,580 373 458 1,495
+Allowance for sales returns 1,367 1,674 1,863 1,178 Total 2,947 2,047 2,321 2,673  21. Employee Savings Plan
+We offer a 401k plan to substantially all of our
+employees. Company matching contributions are determined annually and are at the discretion of the Board of Directors. During the years ended December 31, 2004, 2003 and 2002, employer-matching cash contributions totaled $249,000, $198,000 and
+$677,000, respectively.  22. Condensed Consolidated Quarterly Financial Data
+unaudited  Quarter Ended March31,2004 June 30,2004 Sept. 30,2004 Dec. 31,2004 March31,2003 June 30,2003
+Sept. 30, 2003 Dec. 31,2003 in thousands, except per share data Net revenue 18,175 18,191 18,031 23,639 15,700 18,139 18,079 31,368 Gross profit 12,007 12,087 11,487 15,370 9,905 11,699 11,159 25,029 Operating income loss 302 537 829 2,482 2,818 116 4 10,947 Other income, net 270 116 287 274 409 350 279 619 Income loss from continuing operations 20 260 337 77 1,520 332 170 7,236 Income loss from discontinued operations 1 204 403 40 542 376 5,751 354 Net income loss 20 56 66 117 978 708 5,921 6,882 Basic net income loss per common share Income loss from continuing operations 000 001 001 000 005 001 001 022 Income loss from discontinued operations 000 001 001 000 002 001 019 001 Basic net income loss per share 2 000 000 000 000 003 002 019 
+a 021 Diluted net income loss per common share Income loss from continuing operations 000 001 001 000 005 001 001 022 Income loss from discontinued operations 000 001 001 000 002 001 018 001 Diluted net income loss per share 2 000 000 000 000 003 002 019 021 Weighted average shares used in the calculation of Basic net income loss per share 32,293 31,860 31,248 30,320 30,220 30,311 30,597 32,232 Diluted net income loss per share 32,293 31,860 31,248 30,662 30,220 30,816 31,583 33,067
+1
+Represents reclassification of MediaTel, the assets of which were sold on September 1, 2003, to discontinued operations. Prior periods have been adjusted for consistent
+presentation. 2
+Income loss per common share is computed independently for each of the quarters presented. Therefore, the sum of the quarterly net income loss per share amounts will not
+necessarily equal the total for the year. a
+For the quarter ended September 30, 2003, basic net income per share for continuing operations and discontinued operations do not sum to total basic net income per share due to
+rounding. 
+65 Table of Contents
+Item 1.
+BUSINESS
+1 
+FACTORS THAT MAY AFFECT OUR BUSINESS, FUTURE OPERATING RESULTS, FINANCIAL CONDITION AND MARKET PRICE OF OUR STOCK
+10 
+EXECUTIVE OFFICERS
+16
+Item 2.
+PROPERTIES
+17
+Item 3. CONTROLS AND PROCEDURES  Disclosure
+Controls and Procedures  Under the supervision and with
+the participation of our management, including our Chief Executive Officer the CEO and Chief Financial Officer the CFO, we have evaluated the effectiveness of our disclosure controls and procedures as of the end of the
+period covered by this report. Based on our evaluation, our CEO and CFO concluded that our disclosure controls and procedures were not effective as of December 31, 2004 to ensure that information required to be disclosed in this report is recorded,
+processed, summarized and reported within the appropriate time periods. The basis for this determination was that, as discussed below, we have identified material weaknesses in our internal control over financial reporting, which we view as an
+integral part of our disclosure controls and procedures. As a result, additional review, evaluation and oversight were required on the part of management to ensure we adequately compensated for the weaknesses in our internal control over financial
+reporting.  Managements Report On Internal Control Over Financial
+Reporting  We have not yet completed our assessment of our
+internal control over financial reporting as of December 31, 2004. As a result, we have not published managements report on internal control over financial reporting in this Annual Report on Form 10-K, as required by Section 404 of the
+Sarbanes-Oxley Act of 2002 and Item 308a of Regulation S-K, or the related attestation report of our independent registered public accounting firm required under Item 308b of Regulation S-K. In November 2004, the SEC issued an exemptive order
+providing a 45-day extension for the filing of these reports. We have elected to rely on this 45-day extension and intend to file these reports in an amendment to this Annual Report on Form 10-K on or before April 29, 2005.  Information Management Research, Inc. IMR has been excluded
+from managements assessment because it was acquired by us in a business combination on October 28, 2004 and it is not possible for management to conduct an assessment of IMRs internal control over financial reporting in the period
+between the consummation date and due date of managements assessment. IMRs total assets were 237% of our consolidated assets and 24% of our consolidated net revenue as of and for the year ended December 31, 2004.  Based on our assessment to date, utilizing the criteria set forth in the
+framework in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission, we have identified three weaknesses described below which constitute material weaknesses in our internal
+control over financial reporting. As a result, our management will conclude in their annual report that our internal control over financial reporting was not effective as of December 31, 2004. We believe that upon completion of their audit, our
+independent registered public accounting firm will issue an adverse opinion with respect to the effectiveness of our internal control over financial reporting as of December 31, 2004.  A material weakness is a significant deficiency as defined in PCAOB Auditing Standard No. 2, or combination of significant
+deficiencies, that results in there being more than a remote likelihood that a material misstatement of the annual or interim financial statements will not be prevented or detected.  We have identified the following material weaknesses:  1. Management has determined that a material weakness exists in that our culture did not establish and promote an
+environment that results in effective internal control over financial reporting and the generation of reliable financial statements. This material weakness led to additional material weaknesses, as discussed below, that resulted in adjustments and
+reclassifications to our consolidated financial statements as of and for the year ended December 31, 2004. There was insufficient emphasis on assessing the impact of business changes on our internal control over financial reporting, which includes
+two divestitures, the acquisition of new domestic and international businesses and product lines, and a broadening and diversification of our business. 
+66 Table of Contents
+This material weakness also resulted in insufficient information systems support for financial reporting,
+the inability to effectively prepare for the impact of acquisitions and divestitures on the financial reporting function, a persistent inadequacy in the number of accounting personnel with appropriate technical expertise, and in past years, the
+restatement of our financial statements.  To remediate the
+material weakness noted above, management plans to implement a periodic business risk assessment process to ensure the internal control environment is appropriately updated and monitored to reflect business changes. This process will be led by
+executive management and an assessment will be presented to the Board of Directors in the first half of 2005 and at least annually thereafter.  2. Management has determined, based on our assessment to date, that a material weakness also exists in the information systems. The information systems do
+not appropriately address the requirements necessary for preparation of timely and accurate financial reports and do not sufficiently support the finance function resulting in adjustments and reclassifications to our consolidated financial
+statements as of and for the year ended December 31, 2004. The underlying data reporting structure utilized in the financial reporting application does not adequately address our reporting requirements. The financial application and related
+information applications and systems are not sufficiently robust and comprehensive, resulting in a lack of automation in the financial close and related financial processes.  To remediate this material weakness, management plans to conduct a strategic assessment of required financial and operating
+information requirements and information systems to adequately support the finance function and our operations. We expect to complete this assessment in the first half of 2005. We expect to implement a revision to our data architecture for our
+financial system application and related systems by the third quarter of 2005. Plans are also underway to implement new applications or replace existing applications and to streamline and automate manual business processes.  3. Management has also determined, based on our assessment to date, that a
+lack of sufficient and specialized technical accounting personnel is a material weakness in our internal control over financial reporting. This weakness gave rise to the following control deficiencies, each of which resulted in adjustments and
+reclassifications to our consolidated financial statements as of and for the year ended December 31, 2004:  Controls over software revenue recognition were not effective to determine the appropriate application of authoritative accounting literature related to a software contract with
+exchange rights.  Controls over non-routine or complex transactions were not effective to properly evaluate and account for transactions associated with an acquisition. Specifically, there were
+errors in recording the revenue and cost of revenue for the fair value of acquired deferred revenue related to the support contracts assumed in the IMR acquisition.  Controls over the calculation of the income tax provision, taxes payable and deferred income tax accounts were not effective. Specifically, supervisory controls did not identify
+errors in supporting account reconciliations and the application of the appropriate statutory tax requirements.  Controls over the financial close process were not effective. Specifically, sufficient review procedures were not performed resulting in several adjustments to the financial
+statements for the fourth quarter and for the year ended December 31, 2004.  To remediate this material weakness, management is reassessing its accounting and finance resources to ensure that we have the sufficient depth of resources and technical expertise. In the first half of 2005, we
+expect to expand staffing and engage additional third parties to provide ongoing technical advice. 
+67 Table of Contents
+Management has discussed the material weaknesses and related corrective actions described above with the
+Audit Committee and our independent registered public accounting firm. Other than as described above, we are not aware of any other material weaknesses in our internal control over financial reporting. However, there can be no assurance that, in
+completing our assessment, we will not identify additional significant deficiencies, and that any such deficiencies, either alone or in combination with others, will not be considered additional material weaknesses.  Changes in Internal Control Over Financial Reporting  As discussed above, we have identified material weaknesses in our internal
+control over financial reporting. Although we have not fully remediated the material weaknesses in our internal control over financial reporting, we have made and will continue to make, improvements to our policies, procedures, systems and staff who
+have significant roles in internal control to address the internal control deficiencies identified by us and our independent registered public accounting firm. 
+We implemented a change to our internal control over financial reporting in the fourth quarter of 2004 by centralizing our international accounting and
+cash management functions and supporting processes to our headquarters in Bellevue, Washington.  Except for the improvement noted above, there have been no other changes in our internal control over financial reporting during the quarter ended
+December 31, 2004 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. We intend to continue to improve and enhance the design and operation of our internal control processes
+and procedures and to upgrade staff to strengthen our internal controls.  
+Item 1.
+BUSINESS
+1 
+FACTORS THAT MAY AFFECT OUR BUSINESS, FUTURE OPERATING RESULTS, FINANCIAL CONDITION AND MARKET PRICE OF OUR STOCK
+10 
+EXECUTIVE OFFICERS
+16
+Item 2.
+PROPERTIES
+17
+Item 3. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT  The information required by this item is incorporated by reference to the sections captioned Election of Directors, Directors Continuing in Office, Board of Directors and Corporate
+Governance, Executive Officers Audit Committee and Section 16a Beneficial Ownership Reporting Compliance contained in Captaris, Inc.s proxy statement for our 2005 Annual Meeting of Shareholders,
+which will be filed with the Commission pursuant to Regulation 14A not later than 120 days after December 31, 2004.  We have adopted a code of ethics that applies to our principal executive officer, chief financial officer, controller and other senior financial officers.
+This code of ethics is included in the Captaris Ethics Guidebook, which is posted on our Website at www.captaris.com. You may access this material by clicking on the Corporate menu and selecting the Ethics Point
+link. If we waive any material provision of our Code of Ethics for our CEO and senior financial officers or substantively change the code, we will disclose that fact on our Website within four business days.  

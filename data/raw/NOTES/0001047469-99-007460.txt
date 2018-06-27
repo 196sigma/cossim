@@ -1,0 +1,1147 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS                         PAGE
+-                                                  
+Consolidated Financial Statements:
+Report of Independent    39
+Consolidated Balance Sheets at December 31, 1998 and    40
+Consolidated Statements of Operations for each of the three years in the period ended
+December 31,    41
+Consolidated Statements of Shareholders' Equity for each of the three years in the
+period ended December 31,    42
+Consolidated Statements of Cash Flows for each of the three years in the period ended
+December 31,    43
+Notes to Consolidated Financial    44
+Financial Statement Schedules:
+II--Valuation and Qualifying Accounts for each of the three years in the period
+ended December 31,    61
+All other schedules are omitted because they are not applicable or the required information is
+shown in the Consolidated Financial Statements or Notes thereto.
+Supplementary Financial Data:
+Quarterly Financial Data unaudited for the two years ended December 31, 1998.   62
+38
+REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Shareholders of Yahoo! Inc.
+In our opinion, the consolidated financial statements listed in the
+accompanying index present fairly, in all material respects, the financial
+position of Yahoo! Inc. and its subsidiaries at December 31, 1998 and 1997, and
+the results of their operations and their cash flows for each of the three years
+in the period ended December 31, 1998, in conformity with generally accepted
+accounting principles. These financial statements are the responsibility of the
+Company management; our responsibility is to express an opinion on these
+financial statements based on our audits. We conducted our audits of these
+statements in accordance with generally accepted auditing standards which
+require that we plan and perform the audit to obtain reasonable assurance about
+whether the financial statements are free of material misstatement. An audit
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, and evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for the opinion expressed above.
+/s/ PricewaterhouseCoopers LLP
+San Jose, California
+January 8, 1999, except as to the stock split described in Note 1
+and Note 10, which are as of February 8, 1999
+39
+YAHOO! INC.
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS, EXCEPT PAR VALUE                                        DECEMBER 31,
+1998    1997
+ASSETS
+Current assets:
+Cash and cash  $ 125,474 $ 63,571
+Short-term investments in marketable   308,025   27,772
+Accounts receivable, net of allowance of $4,967 in 1998 and $2,598 in
+24,831   11,163
+Prepaid expenses and other current    8,909   5,982
+Total current   467,239  108,488
+Long-term investments in marketable    90,266   16,702
+Property and equipment,    15,189   7,364
+Other    49,190   10,958
+Total  $ 621,884 $ 143,512
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts  $  6,302 $  5,256
+Accrued expenses and other current    34,419   12,685
+Deferred    38,301   5,085
+Due to related     961   1,412
+Total current    79,983   24,438
+Deferred tax    4,443   Commitments and contingencies Note 9
+Minority interests in consolidated    1,248    716
+Shareholders' equity:
+Preferred Stock, $0001 par value; 10,000 shares authorized; none
+issued or outstanding in 1998 and    --      Common Stock, $000017 par value; 900,000 shares authorized; 199,019
+issued and outstanding in 1998 and 180,408 issued and outstanding in
+23     20
+Additional paid-in   522,997  151,744
+Accumulated    8,442  32,963
+Accumulated other comprehensive income    21,632    443
+Total shareholders'   536,210  118,358
+Total liabilities and shareholders'  $ 621,884 $ 143,512
+The accompanying notes are an integral part of these consolidated financial
+statements.
+40
+YAHOO! INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS
+YEAR ENDED DECEMBER 31,
+1998    1997    1996
+Net  $ 203,270 $ 70,450 $ 21,490
+Cost of    26,742   10,885   4,722
+Gross   176,528   59,565   16,768
+Operating expenses:
+Sales and    92,380   45,778   16,168
+Product    22,742   12,082   5,700
+General and    11,210   7,392   5,834
+Amortization of    2,028   --      Other--non-recurring    19,400   25,095                                          Total operating   147,760   90,347   27,702
+Income loss from    28,768  30,782  10,934
+Investment income,    14,579   4,535   3,967
+Minority interests in operations of consolidated
+68    727    540
+Income loss before income    43,415  25,520  6,427
+Provision for income    17,827   --                                         Net income  $ 25,588 $ 25,520 $ 6,427
+Net income loss per  $  014 $  015 $  004
+Net income loss per  $  011 $  015 $  004
+Shares used in per share   184,060  174,672  157,300
+Shares used in per share   224,100  174,672  157,300
+The accompanying notes are an integral part of these consolidated financial
+statements.
+41
+YAHOO! INC.
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+IN THOUSANDS                           PREFERRED STOCK      COMMON STOCK    ADDITIONAL
+PAID-IN  ACCUMULATED
+SHARES   AMOUNT   SHARES   AMOUNT    CAPITAL   DEFICIT
+Balance at December 31, 1995.   7,738  $    8   65,693  $    1  $  6,982  $  1,016
+Comprehensive income loss:
+Net    --     --     --     --      --      6,427
+Other comprehensive income loss, net of tax:
+Foreign currency translation adjustment.
+Other comprehensive income loss.   --     --     --     --      --          Comprehensive income loss.
+Issuance of Convertible Series C Preferred
+5,100      5   --     --      63,745     Sale of Common Stock, net of issuance costs.   --     --     17,940      3    35,103     Conversion of Convertible Preferred Stock to
+Common   12,838    13   77,028     13    --       Issuance of Common Stock, net of issuance
+--     --      1,887   --      7,368     Issuance of Common Stock pursuant to exercise of
+--     --      2,978      1      9     Compensation expense on option grants and
+warrant    --     --     --     --       197                                             Balance at December 31, 1996.   --     --     165,526     18   113,404    7,443
+Comprehensive income loss:
+Net    --     --     --     --      --      25,520
+Other comprehensive income loss, net of tax:
+Foreign currency translation adjustment.
+Other comprehensive income loss.   --     --     --     --      --          Comprehensive income loss.
+Issuance of Common Stock pursuant to exercise of
+--     --      1,395   --      --       Issuance of Common Stock for acquisitions and
+--     --       461   --      6,400     Issuance of Common Stock pursuant to Visa Group
+--     --      2,798      1    21,049     Issuance of Common Stock for employee stock
+plans and    --     --     10,228      1    7,515     Write-up of investment in Yahoo! Japan.   --     --     --     --      1,700     Compensation and other expense on option grants
+and warrant    --     --     --     --      1,676                                             Balance at December 31, 1997.   --     --     180,408     20   151,744    32,963
+Comprehensive income loss:
+Net    --     --     --     --      --      25,588
+Other comprehensive income loss, net of tax:
+Net unrealized gains on securities.
+Foreign currency translation adjustment.
+Other comprehensive income loss.   --     --     --     --      --          Comprehensive income loss.
+Issuance of Common Stock pursuant to exercise of
+--     --       191   --       196     Issuance of Common Stock for acquisitions.   --     --      2,289   --      54,195     Sale of Common Stock, net of issuance costs.   --     --      5,454      1   249,448     Issuance of Common Stock for employee stock
+--     --     10,677      2    31,032     Compensation expense on option grants.   --     --     --     --       926     Tax benefits from stock options.   --     --     --     --      35,456     Accumulated deficit from acquisition.   --     --     --     --      --      1,067
+Balance at December 31, 1998.   --    $ --     199,019  $   23  $ 522,997  $  8,442
+ACCUMULATED
+OTHER
+COMPREHENSIVE       COMPREHENSIVE
+INCOME LOSS   TOTAL  INCOME LOSS
+Balance at December 31, 1995.   $ --     $  5,975
+Comprehensive income loss:
+Net     --      6,427  $  6,427
+Other comprehensive income loss, net of tax:
+Foreign currency translation adjustment.                    63
+Other comprehensive income loss.      63     63     63
+Comprehensive income loss.                $  6,490
+Issuance of Convertible Series C Preferred
+--      63,750
+Sale of Common Stock, net of issuance costs.    --      35,106
+Conversion of Convertible Preferred Stock to
+Common     --       Issuance of Common Stock, net of issuance
+--       7,368
+Issuance of Common Stock pursuant to exercise of
+--        10
+Compensation expense on option grants and
+warrant     --        197
+Balance at December 31, 1996.      63   105,916
+Comprehensive income loss:
+Net     --      25,520  $ 25,520
+Other comprehensive income loss, net of tax:
+Foreign currency translation adjustment.                   380
+Other comprehensive income loss.     380     380     380
+Comprehensive income loss.                $ 25,900
+Issuance of Common Stock pursuant to exercise of
+--       Issuance of Common Stock for acquisitions and
+--       6,400
+Issuance of Common Stock pursuant to Visa Group
+--      21,050
+Issuance of Common Stock for employee stock
+plans and     --       7,516
+Write-up of investment in Yahoo! Japan.    --       1,700
+Compensation and other expense on option grants
+and warrant     --       1,676
+Balance at December 31, 1997.     443   118,358
+Comprehensive income loss:
+Net     --      25,588  $  25,588
+Other comprehensive income loss, net of tax:
+Net unrealized gains on securities.                  21,787
+Foreign currency translation adjustment.                    288
+Other comprehensive income loss.    22,075    22,075    22,075
+Comprehensive income loss.                $  47,663
+Issuance of Common Stock pursuant to exercise of
+--        196
+Issuance of Common Stock for acquisitions.    --      54,195
+Sale of Common Stock, net of issuance costs.    --      249,449
+Issuance of Common Stock for employee stock
+--      31,034
+Compensation expense on option grants.    --        926
+Tax benefits from stock options.    --      35,456
+Accumulated deficit from acquisition.    --      1,067
+Balance at December 31, 1998.   $ 21,632   $ 536,210
+The accompanying notes are an integral part of these consolidated financial
+statements.
+42
+YAHOO! INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS
+YEAR ENDED DECEMBER 31,
+1998    1997    1996
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income  $ 25,588 $ 25,520 $ 6,427
+Adjustments to reconcile net income loss to net cash
+provided by used in operating activities:
+Depreciation and    10,215   2,737    639
+Tax benefits from stock    17,827   --       Non-cash charges related to stock option grants and
+warrant     926   1,676    197
+Minority interests in operations of consolidated
+68   727   540
+Purchased in-process research and development.   17,300   --       Other non-cash    --     21,245     Changes in assets and liabilities:
+Accounts receivable,   13,616  5,963  4,269
+Prepaid    2,144   6,110   386
+Accounts     515   2,425   1,386
+Accrued expenses and other current liabilities.   16,688   7,404   4,393
+Deferred    33,210   2,983   1,665
+Due to related     451    330    948
+Net cash provided by used in operating activities.  110,278    480   2,394
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Acquisition of property and   11,911  6,722  3,442
+Cash acquired in     199   --      Purchases of marketable   471,135  58,753 115,247
+Proceeds from sales and maturities of marketable
+158,350   86,678   43,240
+Other    5,445  1,649   729
+Net cash provided by used in investing activities.  329,942  19,554  76,178
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from issuance of Common Stock, net.  280,679   7,516   42,484
+Proceeds from issuance of Convertible Preferred Stock.   --     --     63,750
+Proceeds from minority     600    999   1,050
+--     1,106    128
+Net cash provided by financing activities.  281,279   9,621  107,156
+Effect of exchange rate changes on cash and cash
+288    380    63
+Net change in cash and cash    61,903   29,275   28,521
+Cash and cash equivalents at beginning of year.   63,571   34,296   5,775
+Cash and cash equivalents at end of year. $ 125,474 $ 63,571 $ 34,296
+The accompanying notes are an integral part of these consolidated financial
+statements.
+43
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1 THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+THE COMPANY. Yahoo! Inc. Yahoo! or the Company is a global Internet
+media company that offers a branded network of comprehensive information,
+communication, and shopping services to millions of users daily. The Company was
+incorporated in California on March 5, 1995 and commenced operations on that
+date. The Company conducts its business within one industry segment.
+On October 20, 1998 and 1997, the Company consummated its acquisitions of
+Yoyodyne Entertainment, Inc. Yoyodyne and Four11 Corporation Four11,
+respectively, upon which Yoyodyne and Four11 shareholders exchanged all of
+their shares for shares of the Company Common Stock in business combinations
+that were accounted for as pooling of interests. The consolidated financial
+statements for the three years ended December 31, 1998 and the accompanying
+notes reflect the Company financial position and the results of operations as
+if Yoyodyne and Four11 were wholly-owned subsidiaries of the Company since
+inception.
+Components of the consolidated results of operations of Yahoo! and of Four11
+and Yoyodyne prior to their acquisitions by Yahoo! are as follows in
+thousands:
+YEAR ENDED DECEMBER 31,
+1998    1997    1996
+NET REVENUES
+$ 201,446 $ 65,460 $ 19,073
+--     1,951    624
+1,824   3,039   1,793
+$ 203,270 $ 70,450 $ 21,490
+NET INCOME LOSS
+$ 30,216 $ 19,973 $ 2,334
+--     2,914  1,951
+4,628  2,633  2,142
+$ 25,588 $ 25,520 $ 6,427
+STOCK SPLITS. During July 1998, the Company Board of Directors approved a
+two-for-one Common Stock split. Shareholders of record on July 17, 1998 the
+record date received one additional share for every share held on that date.
+The shares were distributed on July 31, 1998 and the stock split was effective
+on August 3, 1998. During January 1999, the Company Board of Directors
+approved a two-for-one Common Stock split. Shareholders of record on January 22,
+1999 the record date received one additional share for every share held on
+that date. The shares were distributed on February 5, 1999 and the stock split
+was effective on February 8, 1999. All share numbers in these consolidated
+financial statements and notes thereto for all periods presented have been
+adjusted to reflect the two-for-one common stock splits.
+PRINCIPLES OF CONSOLIDATION. The consolidated financial statements include
+the accounts of Yahoo! Inc. and its majority-owned subsidiaries. All significant
+intercompany accounts and transactions have been eliminated. The equity and net
+loss attributable to the minority shareholder interests that related to the
+Company subsidiaries, are shown separately in the consolidated balance sheets
+and consolidated statements of operations, respectively. Losses in excess of the
+minority interest equity would be charged against the Company. Investments in
+entities owned 20% or more but less than
+44
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 1 THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+majority owned and not otherwise controlled by the Company are accounted for
+under the equity method.
+RECLASSIFICATIONS. Certain prior years' balances have been reclassified to
+conform with the current year presentation.
+REVENUE RECOGNITION. The Company revenues are derived principally from
+the sale of banner and sponsorship advertisements. The Company standard rates
+for banner advertising currently range from approximately $600 per thousand
+impressions for run of network to approximately $9000 per thousand impressions
+for highly targeted audiences and properties. To date, the duration of the
+Company banner advertising commitments has ranged from one week to two years.
+Sponsorship advertising contracts have longer terms ranging from three months
+to two years than standard banner advertising contracts and also involve more
+integration with Yahoo! services, such as the placement of buttons that provide
+users with direct links to the advertiser Web site. Advertising revenues on
+both banner and sponsorship contracts are recognized ratably over the period in
+which the advertisement is displayed, provided that no significant Company
+obligations remain at the end of a period and collection of the resulting
+receivable is probable. Company obligations typically include guarantees of
+minimum number of impressions, or times that an advertisement appears in pages
+viewed by users of the Company online properties. To the extent minimum
+guaranteed impressions are not met, the Company defers recognition of the
+corresponding revenues until the remaining guaranteed impression levels are
+achieved.
+The Company also earns revenue on sponsorship contracts from fees relating
+to the design, coordination, and integration of customers' content and links
+into Yahoo! online media properties. These development fees are recognized as
+revenue once the related activities have been performed and the customer Web
+links are available on Yahoo! online media properties. A number of the Company
+agreements provide that Yahoo! receive revenues from electronic commerce
+transactions. Currently, these revenues are recognized by the Company upon
+notification from the advertiser of revenues earned by Yahoo!. Revenues from
+barter transactions are recognized during the period in which the advertisements
+are displayed in Yahoo! properties. Barter transactions are recorded at the fair
+value of the goods or services provided or received, whichever is more readily
+determinable in the circumstances. To date, revenues from development fees,
+electronic commerce transactions, and barter transactions have each been less
+than 10% of net revenues.
+No one customer accounted for 10% or more of net revenues during 1998 and
+1997, and SOFTBANK and its related companies SOFTBANK, a holder of
+approximately 30% of the Company Common Stock at December 31, 1998, accounted
+for 11% of net revenues during 1996 see Note 4.
+Deferred revenue is primarily comprised of billings in excess of recognized
+revenue relating to advertising contracts and payments received pursuant to
+sponsorship advertising contracts in advance of revenue recognition.
+PRODUCT DEVELOPMENT. Costs incurred in the classification and organization
+of listings within Yahoo! properties and the development of new products and
+enhancements to existing products are charged to expense as incurred. Material
+software development costs subsequent to the establishment of technological
+feasibility are capitalized. Based upon the Company product development
+process,
+45
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 1 THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+technological feasibility is established upon completion of a working model.
+Costs incurred by the Company between completion of the working model and the
+point at which the product is ready for general release have been insignificant.
+ADVERTISING COSTS. Advertising production costs are recorded as expense the
+first time an advertisement appears. All other advertising costs are expensed as
+incurred. The Company does not incur any direct-response advertising costs.
+Advertising expense totaled approximately $327 million, $109 million, and $42
+million for 1998, 1997, and 1996, respectively.
+BENEFIT PLAN. The Company maintains a 401k Profit Sharing Plan the
+Plan for its full-time employees. Each participant in the Plan may elect to
+contribute from 1% to 17% of his or her annual compensation to the Plan. The
+Company matches employee contributions at a rate of 25%. Employee contributions
+are fully vested, whereas vesting in matching Company contributions occurs at a
+rate of 333% per year of employment. During 1998, 1997 and 1996, the Company
+contributions amounted to $584,000, $263,000, and $81,000, respectively.
+CASH AND CASH EQUIVALENTS, SHORT AND LONG-TERM INVESTMENTS. The Company
+invests its excess cash in debt instruments of the U.S. Government and its
+agencies, and in high-quality corporate issuers. All highly liquid instruments
+with an original maturity of three months or less are considered cash
+equivalents, those with original maturities greater than three months and
+current maturities less than twelve months from the balance sheet date are
+considered short-term investments, and those with maturities greater than twelve
+months from the balance sheet date are considered long-term investments.
+The Company marketable securities are classified as available-for-sale as
+of the balance sheet date and are reported at fair value, with unrealized gains
+and losses, net of tax, recorded in shareholders' equity. Realized gains or
+losses and permanent declines in value, if any, on available-for-sale securities
+will be reported in other income or expense as incurred. As of December 31,
+1998, the Company recorded net unrealized gains, net of income taxes, of $218
+million.
+The Company invests in equity instruments of privately-held, information
+technology companies for business and strategic purposes. These investments are
+included in other long-term assets and are accounted for under the cost method
+when ownership is less than 20%. For these non-quoted investments, the Company
+policy is to regularly review the assumptions underlying the operating
+performance and cash flow forecasts in assessing the carrying values. The
+Company identifies and records impairment losses on long-lived assets when
+events and circumstances indicate that such assets might be impaired. To date,
+no such impairment has been recorded. During 1998, certain of these investments
+in privately-held companies became marketable equity securities when the
+investees completed initial public offerings. Such investments, which are in the
+Internet industry, are subject to significant fluctuations in fair market value
+due to the volatility of the stock market, and are recorded as long-term
+investments.
+CONCENTRATION OF CREDIT RISK. Financial instruments that potentially
+subject the Company to significant concentration of credit risk consist
+primarily of cash, cash equivalents, short and long-term investments, and
+accounts receivable. Substantially all of the Company cash, cash equivalents,
+and short and long-term investments are managed by four financial institutions.
+Accounts receivable are typically unsecured and are derived from revenues earned
+from customers primarily located in the
+46
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 1 THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+United States. The Company performs ongoing credit evaluations of its customers
+and maintains reserves for potential credit losses; historically, such losses
+have been within management expectations. At December 31, 1998 and 1997, no
+one customer accounted for 10% or more of the accounts receivable balance.
+DEPRECIATION AND AMORTIZATION. Property and equipment, including leasehold
+improvements, are stated at cost and depreciated using the straight-line method
+over the estimated useful lives of the assets, generally two to five years.
+Goodwill and other intangible assets are included in other assets and are
+carried at cost less accumulated amortization, which is being provided on a
+straight-line basis over the economic lives of the respective assets, generally
+three to seven years. The Company periodically evaluates the recoverability of
+its long-lived assets based on expected undiscounted cash flows and recognizes
+impairments, if any, based on expected discounted future cash flows.
+INCOME TAXES. Income taxes are computed using the asset and liability
+method. Under the asset and liability method, deferred income tax assets and
+liabilities are determined based on the differences between the financial
+reporting and tax bases of assets and liabilities and are measured using the
+currently enacted tax rates and laws. A valuation allowance is provided for the
+amount of deferred tax assets that, based on available evidence, are not
+expected to be realized.
+STOCK-BASED COMPENSATION. The Company accounts for stock-based employee
+compensation arrangements in accordance with the provisions of Accounting
+Principles Board Opinion APB No. 25, Accounting for Stock Issued to
+Employees, and complies with the disclosure provisions of Statement of
+Financial Accounting Standards SFAS' No. 123, Accounting for Stock-Based
+Compensation. Under APB 25, compensation cost is recognized over the vesting
+period based on the difference, if any, on the date of grant between the fair
+value of the Company stock and the amount an employee must pay to acquire the
+stock.
+FOREIGN CURRENCY AND INTERNATIONAL OPERATIONS. The functional currency of
+the Company international subsidiaries is the local currency. The financial
+statements of these subsidiaries are translated to United States dollars using
+year-end rates of exchange for assets and liabilities, and average rates of
+exchange for the year for revenues, costs, and expenses. Translation gains
+losses, which are deferred and accumulated as a component of shareholders'
+equity, were $288,000, $380,000, and $63,000 for 1998, 1997, and 1996,
+respectively. Net gains and losses resulting from foreign exchange transactions
+are included in the consolidated statements of operations and were not
+significant during the periods presented. International revenues have accounted
+for less than 10% of net revenues in the years ended December 31, 1998, 1997,
+and 1996. International assets were not significant at December 31, 1998, 1997,
+or 1996.
+BASIC AND DILUTED NET INCOME LOSS PER SHARE. Basic net income loss per
+share is computed using the weighted average number of common shares outstanding
+during the period. Diluted net income loss per share is computed using the
+weighted average number of common and common equivalent shares outstanding
+during the period. Common equivalent shares consist of the incremental common
+shares issuable upon conversion of convertible preferred stock using the
+if-converted method and shares issuable upon the exercise of stock options and
+warrants using the treasury stock method. For 1998, common equivalent shares
+primarily related to shares issuable upon the exercise of stock options and
+approximated 400 million shares. Common equivalent shares in 1997 and 1996 were
+excluded from the computation as their effect was anti-dilutive.
+47
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 1 THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+USE OF ESTIMATES. The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities, disclosure of contingent assets and liabilities at the date of the
+financial statements, and the reported amounts of revenues and expenses during
+the reported period. Actual results could differ from those estimates.
+COMPREHENSIVE INCOME. In June 1997, the Financial Accounting Standards
+Board FASB issued SFAS 130, Reporting Comprehensive Income, which was
+adopted by the Company in the first quarter of fiscal 1998. SFAS 130 establishes
+standards for reporting comprehensive income and its components in a financial
+statement. Comprehensive income as defined includes all changes in equity net
+assets during a period from non-owner sources. Examples of items to be included
+in comprehensive income, which are excluded from net income, include foreign
+currency translation adjustments and unrealized gains and losses on
+available-for-sale securities. Accumulated other comprehensive income, as
+presented on the accompanying consolidated balance sheets, consists of the net
+unrealized gains on available-for-sale securities, net of tax and the cumulative
+translation adjustment.
+RECENT ACCOUNTING PRONOUNCEMENTS. In June 1998, the FASB issued SFAS 133,
+Accounting for Derivative Instruments and Hedging Activities. SFAS 133
+establishes methods of accounting for derivative financial instruments and
+hedging activities related to those instruments as well as other hedging
+activities, and is effective for fiscal years beginning after June 15, 1999. The
+Company is currently determining the additional disclosures, if any, that may be
+required under this pronouncement. In March 1998, the American Institute of
+Certified Public Accountants issued Statement of Position 98-1 SOP 98-1,
+Accounting for the Costs of Computer Software Developed or Obtained for
+Internal Use. This standard requires companies to capitalize qualifying
+computer software costs which are incurred during the application development
+stage and amortize them over the software estimated useful life. SOP 98-1 is
+effective for fiscal years beginning after December 15, 1998. The Company is
+currently evaluating the impact of SOP 98-1 on its financial statements and
+related disclosures.
+48
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 2 BALANCE SHEET COMPONENTS IN THOUSANDS
+DECEMBER 31 ,
+1998    1997
+Property and equipment:
+Computers and  $ 17,254 $  7,383
+Furniture and    4,465   2,316
+Leasehold    1,790    894
+23,509   10,593
+Less: accumulated    8,320  3,229
+$ 15,189 $  7,364
+Other assets:
+Intangible assets Note  $ 40,731 $  1,530
+Investments in privately-held companies.   5,445   6,450
+3,014   2,978
+$ 49,190 $ 10,958
+Accrued expenses and other current liabilities:
+Accrued compensation and related expenses. $  9,732 $  2,951
+Accrued content, connect, and other costs.   7,726   2,909
+Accrued sales and marketing related expenses.   4,947   2,222
+Accrued professional service expenses.   5,084   1,730
+6,930   2,873
+$ 34,419 $ 12,685
+NOTE 3 INVESTMENTS
+At December 31, 1998, short and long-term investments in marketable
+securities were classified as available-for-sale as follows in thousands:
+GROSS    GROSS     GROSS   ESTIMATED
+AMORTIZED  UNREALIZED  UNREALIZED    FAIR
+COSTS    GAINS    LOSSES    VALUE
+U.S. Government and agencies. $ 331,757  $   611   $ --    $ 332,368
+Municipal    12,893     81    --      12,974
+Corporate debt     8,584     26    --       8,610
+Corporate equity securities.    7,454   33,885    --      41,339
+3,020   --        20    3,000
+$ 363,708  $ 34,603   $   20  $ 398,291
+49
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 3 INVESTMENTS CONTINUED
+The contractual maturities of debt securities classified as
+available-for-sale as of December 31, 1998 are as follows in thousands:
+ESTIMATED
+FAIR VALUE
+Due within one  $ 308,025
+Due after one year through two    48,927
+$ 356,952
+At December 31, 1997, short and long-term investments in marketable
+securities were classified as available-for-sale and consisted of 81% corporate
+debt securities, 8% debt securities of the U.S. Government and its agencies, 4%
+municipal debt securities, and 7% foreign debt securities. At December 31, 1997,
+the fair value of the investments approximated cost.
+NOTE 4 RELATED PARTY TRANSACTIONS
+During 1998, 1997 and 1996, the Company recognized net revenues of
+approximately $103 million, $31 million, and $24 million, respectively, on
+advertising contracts and publication, development, and licensing arrangements
+with SOFTBANK and its related companies such as E*Trade Group, Inc., Kingston
+Technology Company, and E-Loan, Inc., a holder of approximately 30% of the
+Company Common Stock at December 31, 1998. Prices on these contracts were
+comparable to those given to other similar customers of the Company.
+Additionally, three SOFTBANK-related companies provided Internet access and
+sales and marketing-related services for fees of approximately $31 million 32 million, and $23 million during 1998, 1997, and 1996, respectively.
+Sequoia Capital, a holder of approximately 3% of the Company Common Stock at
+December 31, 1998, was also an investor in one of these SOFTBANK-related
+companies.
+NOTE 5 ACQUISITIONS
+ACQUISITION OF NETCONTROLS. On July 31, 1997, the Company entered into a
+stock purchase agreement to acquire all of the outstanding capital stock of
+NetControls, Inc. for 148,668 shares of the Company Common Stock. The
+acquisition was recorded as a purchase for accounting purposes and the majority
+of the purchase price of approximately $14 million is being amortized over the
+three-year estimated useful life of the technology acquired. Upon acquisition,
+the historical financial results of NetControls, Inc. were de minimis.
+ACQUISITION OF FOUR11. On October 20, 1997, the Company completed the
+acquisition of Four11 Corporation, a privately-held online communications and
+Internet directory company. Under the terms of the acquisition, which was
+accounted for as a pooling of interests, the Company exchanged 6,022,880 shares
+of Yahoo! Common Stock for all of Four11 outstanding shares and assumed
+593,344 options and warrants to purchase Yahoo! Common Stock. All outstanding
+Four11 preferred shares were converted into Four11 common stock immediately
+prior to the acquisition. During the quarter ended December 31, 1997, the
+Company recorded a one-time charge of $39 million for acquisition-related
+costs. These costs consisted of investment banking fees, legal and accounting
+fees, redundancy costs, and certain other expenses directly related to the
+acquisition.
+50
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 5 ACQUISITIONS CONTINUED
+ACQUISITION OF VIAWEB INC. On June 10, 1998, the Company completed the
+acquisition of all outstanding shares of Viaweb, a provider of software and
+services for hosting online stores, through the issuance of 1,574,364 shares of
+Yahoo! Common Stock. All outstanding options to purchase Viaweb common stock
+were converted into options to purchase 244,504 shares of Yahoo! Common Stock.
+The acquisition was accounted for as a purchase in accordance with the
+provisions of APB 16. Under the purchase method of accounting, the purchase
+price is allocated to the assets acquired and liabilities assumed based on their
+estimated fair values at the date of the acquisition. Results of operations for
+Viaweb have been included with those of the Company for periods subsequent to
+the date of acquisition.
+The total purchase price of the acquisition was $486 million including
+acquisition expenses of $18 million. The purchase price was allocated to the
+assets acquired and liabilities assumed based on their estimated fair values as
+determined by the Company and pursuant to discussions with the Staff of the
+Securities and Exchange Commission the Staff as follows in thousands:
+In-process research and  $ 15,000
+Purchased    15,000
+24,332
+Tangible assets     571
+Liabilities     344
+Deferred tax    6,000
+$ 48,559
+Among the factors considered in discussions with the Staff in determining
+the amount of the allocation of the purchase price to in-process research and
+development were various factors such as estimating the stage of development of
+each in-process research and development project at the date of acquisition,
+estimating cash flows resulting from the expected revenues generated from such
+projects, and discounting the net cash flows, in addition to other assumptions.
+The remaining identified intangibles, including the value of purchased
+technology and other intangibles will be amortized on a straight-line basis over
+three and seven years, respectively. Amortization expense of purchased
+technology and other intangible assets was $29 million and $20 million,
+respectively, for the year ended December 31, 1998. A deferred tax liability has
+been recognized for the difference between the assigned values for book purposes
+and the tax bases of assets in accordance with the provisions of SFAS 109. In
+addition, other factors were considered in discussions with the Staff in
+determining the value assigned to purchased in-process technology such as
+research projects in areas supporting the online store technology including
+significant enhancement to the ability of the product to support multiple users
+and multiple servers, developing functionality to support the ability to
+process credit card orders, and enhancing the product user interface by
+developing functionality that would allow the product to be used outside of the
+United States. If none of these projects is successfully developed, the
+Company sales and profitability may be adversely affected in future periods.
+Additionally, the failure of any particular individual project in process could
+impair the value of other intangible assets acquired. The Company began to
+benefit from the purchased in-process technology in late 1998.
+ACQUISITION OF WEBCAL CORPORATION. On July 17, 1998, the Company completed
+the acquisition of WebCal Corporation WebCal, a privately-held developer and
+marketer of Web-based calendaring
+51
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 5 ACQUISITIONS CONTINUED
+and scheduling products, and publisher of EventCal, a comprehensive database of
+world-wide public events. Under the terms of the acquisition, which was
+accounted for as a pooling of interests, the Company exchanged 541,908 shares of
+Yahoo! Common Stock for all of WebCal outstanding shares. The historical
+operations of WebCal are not material to the Company financial position or
+results of operations, therefore, prior period financial statements have not
+been restated for this acquisition. WebCal accumulated deficit on July 17,
+1998 was $11 million. Net revenues and pre-tax net loss for WebCal in 1998
+through the date of the acquisition approximated $2,000 and $847,000,
+respectively.
+ACQUISITION OF YOYODYNE ENTERTAINMENT, INC. On October 20, 1998, the
+Company acquired Yoyodyne Entertainment, Inc., a privately-held, direct
+marketing services company. Under the terms of the acquisition, which was
+accounted for as a pooling of interests, the Company exchanged 561,244 shares of
+Yahoo! Common Stock and options and warrants to purchase Yahoo! Common Stock for
+all of Yoyodyne outstanding shares, options, and warrants. The consolidated
+financial statements for the three years ended December 31, 1998 and the
+accompanying notes reflect the Company financial position and the results of
+operations as if Yoyodyne was a wholly-owned subsidiary of the Company since
+inception. During October 1998, the Company recorded a one-time charge of $21
+million for acquisition-related costs. These costs consisted of broker fees,
+legal and accounting fees, and certain other expenses directly related to the
+acquisition.
+ACQUISITION OF HYPERPARALLEL, INC. On December 17, 1998, the Company
+completed the acquisition of all outstanding shares of HyperParallel, Inc.
+HyperParallel, a direct marketing company specializing in data analysis,
+through the issuance of 74,856 shares of Yahoo! Common Stock and cash, totaling
+$81 million. The acquisition was accounted for as a purchase in accordance with
+APB 16. Under the purchase method of accounting, the purchase price is allocated
+to the assets acquired and liabilities assumed based on their estimated fair
+values at the date of the acquisition. The excess purchase price over the
+estimated fair value of the assets acquired and liabilities assumed has been
+allocated to goodwill. Results of operations for HyperParallel have been
+included with those of the Company for periods subsequent to the date of
+acquisition. The Company estimated that the economic useful lives of current
+technology and goodwill were three and seven years, respectively.
+The Company recorded a charge to earnings of $23 million for in-process
+research and development that had not yet reached technological feasibility and
+had no alternative future use. Factors considered in estimating the allocation
+of purchase price to in-process research and development were estimating cash
+flows resulting from the expected revenues to be generated from the project, and
+discounting the net cash flows, in addition to other assumptions. If this
+project is not successfully developed, the Company sales and profitability may
+be adversely affected in future periods.
+52
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 5 ACQUISITIONS CONTINUED
+UNAUDITED PRO FORMA DISCLOSURES OF SIGNIFICANT ACQUISITIONS. The following
+unaudited pro forma consolidated results of operations give effect to the
+acquisitions of Viaweb and HyperParallel as if they occurred as of the beginning
+of the period in thousands, except per share data:
+YEAR ENDED
+DECEMBER 31,
+1998    1997
+Net  $ 204,136 $ 71,392
+Net income  $ 22,290 $ 31,866
+Net income loss per  $  012 $  018
+Net income loss per  $  010 $  018
+Shares used in per share   184,835  175,929
+Shares used in per share   224,983  175,929
+NOTE 6 JOINT VENTURES
+YAHOO! JAPAN. During April 1996, the Company signed a joint venture
+agreement with SOFTBANK whereby Yahoo! Japan Corporation was formed to establish
+and manage in Japan a Japanese version of the Yahoo! Internet Guide, develop
+related Japanese online navigational services, and conduct other related
+business. The Company ownership interest in the joint venture upon inception
+was 40%. During November 1997, Yahoo! Japan Corporation completed its initial
+public offering, issuing 975 previously unissued shares and raising total
+proceeds of approximately $55 million. Accordingly, the Company increased its
+investment by $17 million, recorded as additional paid-in capital, to reflect
+the increase in the Company share of Yahoo! Japan Corporation net assets.
+The investment is being accounted for using the equity method and the Company
+share of net income, to date, has been immaterial. At December 31, 1998, the
+carrying value of the investment was $29 million and is recorded in other
+assets. However, the fair value of the Company 34% ownership in Yahoo! Japan,
+based on the quoted trading price, was approximately $170 million at December
+31, 1998.
+YAHOO! EUROPE. On November 1, 1996, the Company signed a joint venture
+agreement with a subsidiary of SOFTBANK whereby separate companies were formed
+in Germany, the United Kingdom, and France Yahoo! Europe to establish and
+manage versions of the Yahoo! Internet Guide for those countries, develop
+related online navigational services, and conduct other related business. The
+parties have invested a total of $60 million in proportion to their respective
+equity interests as of December 31, 1998. The Company has a majority share of
+approximately 70% in each of the Yahoo! Europe entities, and therefore, has
+consolidated their financial results. During 1998, 1997, and 1996, Yahoo! Europe
+incurred losses from operations of $409,000, $1,807,000 and $842,000,
+respectively. SOFTBANK interest in the net assets of Yahoo! Europe at December
+31, 1998 and 1997, as represented by the minority interest on the balance sheet,
+was $883,000 and $405,000, respectively.
+YAHOO! KOREA. During August 1997, the Company signed a joint venture
+agreement with SOFTBANK and other SOFTBANK affiliate companies whereby Yahoo!
+Korea was formed to develop and operate a Korean version of the Yahoo! Internet
+Guide, develop related Korean online navigational services, and conduct other
+related business. The parties have invested a total of $10 million in
+proportion to their respective equity interests. The Company has a majority
+share of approximately 60% in the joint venture, and therefore, has consolidated
+the financial results, which
+53
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 6 JOINT VENTURES CONTINUED
+have been insignificant to date. SOFTBANK interest in the net assets of Yahoo!
+Korea at December 31, 1998 and 1997, as represented by the minority interest on
+the balance sheet, was $365,000 and $311,000, respectively.
+YAHOO! MARKETPLACE. On August 26, 1996, the Company entered into agreements
+with Visa International Service Association VISA and another party
+together, the Visa Group to establish a limited liability company, Yahoo!
+Marketplace L.L.C., to develop and operate a navigational service focused on
+information and resources for the purchase of consumer products and services
+over the Internet. As of December 31, 1996, the parties had invested a total of
+$10 million. At December 31, 1996, the Company owned approximately 55% of the
+equity interest in Yahoo! Marketplace. Yahoo! Marketplace incurred start-up
+losses of $246,000 in 1997 and $637,000 in 1996. During July 1997, prior to the
+completion of significant business activities and public launch of the property,
+the Company and VISA entered into an agreement under which the Visa Group
+released the Company from certain obligations and claims. In connection with
+this agreement, the Company issued 2,797,924 shares of Yahoo! Common Stock to
+the Visa Group, for which the Company recorded a one-time, non-cash, pre-tax
+charge of $212 million in the second quarter ended June 30, 1997.
+NOTE 7 SHAREHOLDERS' EQUITY
+COMMON STOCK. On April 11, 1996, the Company completed its initial public
+offering of 179 million shares of its Common Stock. Net proceeds to the Company
+aggregated $351 million. As of the closing date of the offering, all of the
+Convertible Preferred Stock outstanding was converted into an aggregate of
+approximately 77 million shares of Common Stock. On July 14, 1998, the Company
+received proceeds of $2500 million in exchange for 5,453,760 newly issued
+shares of Yahoo! Common Stock through a private placement with SOFTBANK. The
+shares purchased by SOFTBANK are subject to a pre-existing agreement, entered
+into in 1996, that prohibits SOFTBANK from purchasing additional shares of the
+Company capital stock if such purchase would result in SOFTBANK owning more
+than 35% of the Company capital stock assuming the exercise of all
+outstanding options and warrants to purchase capital stock.
+STOCK OPTION PLANS. Pursuant to the consummation of the acquisitions of
+Viaweb Inc. and Yoyodyne Entertainment, Inc. during 1998, the Company assumed
+the Viaweb 1997 Stock Option Plan the Viaweb Plan and the 1996 Yoyodyne
+Stock Option Plan the Yoyodyne Plan, respectively. As of December 31, 1998,
+the Company had five stock-based compensation plans which are described below.
+The 1995 Stock Plan the Stock Plan, the 1995 Four11 Stock Option Plan
+the Four11 Plan, the Viaweb Plan, and the Yoyodyne Plan collectively the
+Plans allow for the issuance of incentive stock options, non-qualified stock
+options, and stock purchase rights to purchase a maximum of 876 million shares
+of the Company Common Stock. Under the Plans, incentive stock options may be
+granted to employees, directors, and officers of the Company and non-qualified
+stock options and stock purchase rights may be granted to consultants,
+employees, directors, and officers of the Company. Options granted under the
+Plans are for periods not to exceed ten years, and must be issued at prices not
+less than 100% and 85%, for incentive and nonqualified stock options,
+respectively, of the fair market value of the stock on the date of grant as
+determined by the Board of Directors. Options granted to shareholders who own
+greater than 10% of the outstanding stock are for periods not to exceed five
+years and must be issued at prices not less than 110% of the fair market value
+of the stock
+54
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 7 SHAREHOLDERS' EQUITY CONTINUED
+on the date of grant as determined by the Board of Directors. Options granted
+under the Stock Plan and the Four11 Plan generally vest 25% after the first year
+of service and ratably each month over the remaining thirty-six month period.
+Options granted under the Viaweb Plan generally vest 25% on each anniversary
+over four years. Options granted under the Yoyodyne Plan have various vesting
+periods that do not exceed thirty-six months. Options issued under the Four11
+Plan may be exercised prior to vesting and are subject to repurchase in the
+event of a voluntary termination, at the original purchase price. At December
+31, 1998, shares subject to repurchase under the provisions of the Four11 Plan
+were insignificant.
+The 1996 Directors' Stock Option Plan the Directors' Plan provides for
+the issuance of up to 12 million non-statutory stock options to non-employee
+directors of the Company. Each person who becomes a non-employee director of the
+Company after the date of the Company initial public offering will
+automatically be granted a non-statutory option the First Option to purchase
+240,000 shares of Common Stock upon the date on which such person first becomes
+a director. Thereafter, each director of the Company will be granted an annual
+option the Annual Option to purchase 30,000 shares of Common Stock. Options
+under the Directors' Plan will be granted at the fair market value of the stock
+on the date of grant as determined by the Board of Directors and will vest in
+equal monthly installments over four years, in the case of the First Option, or
+at the end of four years in the case of the Annual Option. Options granted under
+the Directors' Plan are for periods not to exceed 10 years.
+Activity under the Company stock option plans is summarized as follows in
+thousands, except per share amounts:
+AVAILABLE   OPTIONS  WEIGHTED AVERAGE
+FOR GRANT  OUTSTANDING  PRICE PER SHARE
+Balance at December 31, 1995.   10,279    19,906    $  000
+Additional shares    19,252
+Options    22,829   22,829      168
+Options     1,845    1,845      166
+Options           2,978      000
+Balance at December 31, 1996.    8,547    37,912      094
+Additional shares    30,000
+Options    18,442   18,442      938
+Options      356     356      230
+Options           9,670      053
+Balance at December 31, 1997.   20,461    46,328      435
+Additional shares     8,245
+Options    19,566   19,566      5494
+Options     2,494    2,494     1223
+Options          10,551      289
+Balance at December 31, 1998.   11,634    52,849    $  2299
+55
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 7 SHAREHOLDERS' EQUITY CONTINUED
+The following table summarizes information concerning outstanding and
+exercisable options at December 31, 1998 in thousands, except per share
+amounts:
+OPTIONS OUTSTANDING        OPTIONS EXERCISABLE
+WEIGHTED    WEIGHTED         WEIGHTED
+AVERAGE    AVERAGE          AVERAGE
+REMAINING   EXERCISE         EXERCISE
+NUMBER    CONTRACTUAL    PRICE    NUMBER    PRICE
+RANGE OF EXERCISE PRICES         OUTSTANDING LIFE IN YEARS  PER SHARE  EXERCISABLE  PER SHARE
+-                                                  
+less than $001.    8,002      66   $  000    5,187  $  000
+6,473      71      060    3,141     069
+5,940      76      257    1,765     253
+5,518      83      541     912     515
+7,711      89     1296    1,766    1309
+6,100      92     2058     141    1441
+6,481      96     4712    --          6,624      99     9589    --                                                              52,849      84   $  2299    12,912  $  283
+Options to purchase approximately 79 million shares and 33 million shares
+were vested at December 31, 1997 and 1996, respectively. The weighted average
+exercise prices per share for options vested at December 31, 1997 and 1996 were
+$099 and less than $001, respectively. Through December 31, 1998, Yahoo! and
+certain acquired entities recorded compensation expense related to certain stock
+options issued with exercise prices below the fair market value of the related
+common stock. The Company recorded compensation expense in the amount of
+$926,000, $1,215,000, and $164,000 in 1998, 1997, and 1996, respectively.
+Approximately $1,017,000 remains to be amortized over the remaining vesting
+periods of the options.
+EMPLOYEE STOCK PURCHASE PLAN. Effective March 6, 1996, the Company Board
+of Directors adopted the Employee Stock Purchase Plan the Purchase Plan,
+which provides for the issuance of a maximum of 1,800,000 shares of Common
+Stock. Eligible employees can have up to 15% of their earnings withheld, up to
+certain maximums, to be used to purchase shares of the Company Common Stock on
+every December 31st and June 30th. The price of the Common Stock purchased
+under the Purchase Plan will be equal to 85% of the lower of the fair market
+value of the Common Stock on the commencement date of each six-month offering
+period or the specified purchase date. During 1998, 126,000 shares were
+purchased at prices from $1472 to $3610 per share. During 1997, 537,000 shares
+were purchased at prices from $185 to $483 per share. There were no shares
+issued under the Purchase Plan during 1996. At December 31, 1998, 1,137,000
+shares were available under the Purchase Plan for future issuance.
+STOCK COMPENSATION. The Company accounts for stock-based compensation in
+accordance with the provisions of APB 25. Had compensation expense been
+determined based on the fair value at the
+56
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 7 SHAREHOLDERS' EQUITY CONTINUED
+grant dates, as prescribed in SFAS 123, the Company results would have been as
+follows in thousands, except per share amounts:
+1998    1997    1996
+Net income loss:
+As  $  25,588 $ 25,520 $ 6,427
+Pro  $ 10,291 $ 31,918 $ 7,273
+Net income loss per share--basic:
+As  $   014 $  015 $  004
+Pro  $  006 $  018 $  005
+Net income loss per share--diluted:
+As  $   011 $  015 $  004
+Pro  $  006 $  018 $  005
+Prior to the Company initial public offering, the fair value of each
+option grant was determined on the date of grant using the minimum value method.
+Subsequent to the offering, the fair value was determined using the
+Black-Scholes model. The weighted average fair market value of an option granted
+during 1998, 1997, and 1996 was $2653, $434, and $079, respectively. Except
+for the volatility assumption which was only used under the Black-Scholes model,
+the following range of assumptions was used to perform the calculations:
+expected life of 36 months in 1998 and 1997, and 30 months in 1996; risk-free
+interest rate ranges of 42% to 56% during 1998, 56% to 66% during 1997, and
+51% to 65% during 1996; expected volatility of 67% in 1998, 59% in 1997, and
+53% in 1996; and no expected dividend yield for the three years ended December
+31, 1998. Because additional stock options are expected to be granted each year,
+the above pro forma disclosures are not representative of pro forma effects on
+reported financial results for future years.
+NOTE 8 INCOME TAXES
+The components of income loss before taxes are as follows in thousands:
+YEAR ENDED DECEMBER 31,
+1998    1997    1996
+United  $ 44,718 $ 22,962 $ 5,488
+1,303  2,558   939
+$ 43,415 $ 25,520 $ 6,427
+57
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 8 INCOME TAXES CONTINUED
+The provision for income taxes in 1998 is composed of the following in
+thousands:
+Current:
+$ 20,333
+1,937
+22,270
+Deferred:
+3,616
+827
+4,443
+Total  $ 17,827
+No provision for federal and state income taxes for 1997 and 1996 has been
+recorded as the Company incurred net operating losses for these periods.
+The provision for income taxes differs from the amount computed by applying
+the statutory federal income tax rate as follows in thousands:
+YEAR ENDED DECEMBER 31,
+1998    1997    1996
+Income tax at the federal statutory rate of 35%. $ 15,195 $ 8,010 $  817
+State income tax, net of federal benefit.   1,937   1,626   112
+Non-deductible acquisition-related charges.   8,521   --     Research tax    1,155  --     Change in valuation    6,770   8,175    864
+99   1,461     65
+$ 17,827 $ --   $                                                              
+58
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 8 INCOME TAXES CONTINUED
+Deferred income taxes reflect the tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and the amounts used for income tax purposes. The components of the net
+deferred income tax assets are as follows in thousands:
+YEAR ENDED DECEMBER 31,
+1998    1997    1996
+Deferred income tax assets:
+Net operating loss and credit carryforwards. $ 148,249 $ 25,512 $  4,303
+Nondeductible reserves and expenses.   4,443   3,667   1,468
+Gross deferred tax assets.  152,692   29,179   5,771
+Valuation   135,063  29,179  5,771
+17,629   --                                  Deferred income tax liabilities:
+Unrealized investment gains.  12,796  --      Intangible    4,833  --                                   Gross deferred tax liabilities.  17,629  --                                                            $ --   $ --   $                                                            
+As of December 31, 1998, the Company federal and state net operating loss
+carryforwards for income tax purposes were approximately $333 million and $181
+million, respectively. If not utilized, the federal net operating loss
+carryforwards will begin to expire in 2010, and the state net operating loss
+carryforwards will begin to expire in 2003. The Company federal and state
+research tax credit carryforwards for income tax purposes are approximately
+$107 million and $101 million, respectively. If not utilized, the federal tax
+credit carryforwards will begin to expire in 2010. Approximately $13 million of
+net operating loss carryforwards relate to acquired entities and expire
+beginning in 2010. Utilization of these net operating loss carryforwards may be
+limited by a cumulative stock ownership change of more than 50%, or by other
+limitations.
+Deferred tax assets of approximately $141 million as of December 31, 1998
+pertain to certain net operating loss carryforwards and credit carryforwards
+resulting from the exercise of employee stock options. When recognized, the tax
+benefit of these loss and credit carryforwards are accounted for as a credit to
+additional paid-in capital rather than a reduction of the income tax provision.
+Deferred tax assets include approximately $16 million related to net operating
+loss carryforwards in various foreign jurisdictions. These carryforwards will
+expire if not utilized.
+NOTE 9 COMMITMENTS AND CONTINGENCIES
+OPERATING LEASES. During December 1998, the Company entered into a
+non-cancelable operating sublease agreement that will provide the Company with
+additional office space at its existing Santa Clara, California location.
+Additionally during 1998, the Company entered into various other non-cancelable
+operating lease agreements for its sales offices throughout the U.S. and its
+international subsidiaries. Future minimum lease payments under non-cancelable
+operating leases with initial terms of one year or more are $36 million in
+1999, $33 million in 2000, $27 million in 2001, $26 million in 2002, $25
+million in 2003, and $06 million thereafter. Certain of the Company lease
+agreements have
+59
+YAHOO! INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 9 COMMITMENTS AND CONTINGENCIES CONTINUED
+a five year renewal option from the date of expiration. Total minimum rental
+payments aggregate $154 million. Rent expense under operating leases totaled
+$23 million, $14 million, and $05 million during 1998, 1997, and 1996,
+respectively.
+LEGAL. From time to time the Company is subject to legal proceedings and
+claims in the ordinary course of business, including claims of alleged
+infringement of trademarks, copyrights and other intellectual property rights,
+and a variety of claims arising in connection with the Company email, message
+boards, and other communications and community features, such as claims alleging
+defamation and invasion of privacy. The Company is not currently aware of any
+legal proceedings or claims that the Company believes will have, individually or
+in the aggregate, a material adverse effect on the Company financial position
+or results of operations.
+NOTE 10 SUBSEQUENT EVENT
+GEOCITIES. On January 28, 1999, the Company announced the signing of a
+definitive agreement to acquire GeoCities, a publicly traded Internet company.
+Under the terms of the acquisition, which will be accounted for as a pooling of
+interests, the Company will exchange approximately 21,254,000 shares of Yahoo!
+Common Stock for approximately 31,403,000 shares of GeoCities common stock.
+Additionally, the Company will convert approximately 8,894,000 GeoCities stock
+options into approximately 6,019,000 Yahoo! stock options. The acquisition is
+expected to be completed in the second quarter of 1999 and is subject to certain
+conditions, regulatory approval, and approval by GeoCities stockholders. The
+Company expects to record a one-time charge in the second quarter of 1999
+relating to expenses incurred with this transaction.
+GeoCities' operating results for the years ended December 31, 1998, 1997,
+and 1996 included revenues of approximately $184 million, $46 million, and
+$03 million, respectively, and net losses of approximately $198 million, $89
+million, and $30 million, respectively.
+60
+SCHEDULE II--VALUATION AND QUALIFYING ACCOUNTS
+YEARS ENDED DECEMBER 31, 1998, 1997, AND 1996
+IN THOUSANDS
+ADDITIONS
+BALANCE AT  CHARGED TO  CHARGED TO  WRITE-OFFS  BALANCE AT
+ALLOWANCE FOR   BEGINNING  COSTS AND   OTHER    NET OF    END OF
+DOUBTFUL ACCOUNTS  OF YEAR   EXPENSES   ACCOUNTS  RECOVERIES   YEAR
+-                                     
+1998.    $  2,598  $  5,668  $   --  $  3,299  $  4,967
+1997.    $   665  $  2,812  $   --  $   879  $  2,598
+1996.    $   84  $   611  $   --  $   30  $   665
+61
+QUARTERLY FINANCIAL DATA
+UNAUDITED IN THOUSANDS, EXCEPT PER SHARE AMOUNTS
+QUARTER ENDED
+SEPTEMBER    DECEMBER
+MARCH 31    JUNE 30      30       31
+1998
+Net   $ 30,596   $  41,688   $ 54,576   $ 76,410
+Gross    26,302     35,904    47,051     67,271
+Income loss from     2,658     7,860    13,146     20,824
+Income loss before income taxes.    4,341     5,917    18,322     26,669
+Net income     3,270     8,977a  12,771b   18,524c
+Net income loss per share--basic *.    002     005     007      009
+Net income loss per share--diluted *.  $  002   $  005a $  006b  $  008c
+1997
+Net   $ 10,731   $  14,432   $ 18,703   $ 26,584
+Gross     8,835     11,908    16,028     22,794
+Loss from    3,029    23,641    1,320    2,792
+Income loss before income taxes.   1,435    22,209      65     1,941
+Net income    1,435    22,209d    65     1,941e
+Net income loss per share--basic *.    001     013     000     001
+Net income loss per share--diluted *.  $  001  $  013d $  000   $  001e
+-  
+Note: The quarterly financial data for the quarters presented above has been
+restated to reflect the acquisition of Yoyodyne Entertainment, Inc. which
+was accounted for as a pooling of interests.
+*  Reflects the two-for-one stock splits effective August 1998 and February
+1999.
+a Net loss and net loss per share include a non-recurring charge of $150
+million incurred in connection with the June 1998 acquisition of Viaweb Inc.
+and amortization of $07 million on related intangible assets. Pro forma net
+income and net income per share--diluted, excluding these expenses, would
+have been $67 million and $003, respectively.
+b Net income and net income per share include amortization of $21 million on
+intangible assets. Pro forma net income and net income per share--diluted,
+excluding these expenses, would have been $149 million and $006,
+respectively.
+c Net income and net income per share include non-recurring charges of $44
+million incurred in connection with the October 1998 acquisition of Yoyodyne
+Entertainment, Inc. and the December 1998 acquisition of HyperParallel,
+Inc., and amortization of $21 million on intangible assets. Pro forma net
+income and net income per share--diluted, excluding these expenses, would
+have been $250 million and $011, respectively.
+d Net loss and net loss per share include a non-recurring charge of $212
+million related to the Yahoo! Marketplace restructuring. Pro forma net loss
+and net loss per share--diluted, excluding this expense, would have been
+$10 million and $001, respectively.
+e Net loss and net loss per share include a non-recurring charge of $39
+million incurred in connection with the October 1997 acquisition of Four11
+Corporation. Pro forma net income and net income per share--diluted,
+excluding this expense, would have been $19 million and $001,
+respectively.
+62
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+No matters were submitted to a vote of security holders during the fourth
+quarter of fiscal 1998.
+PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+Incorporated by reference from the information under the caption Proposal
+No. 1--Election of Directors in the Registrant Proxy Statement for its 1999
+Annual Meeting of Shareholders. The following sets forth certain information
+with respect to the other executive officers of Yahoo!:
+David Filo age 32, Chief Yahoo and a founder of the Company, has served as
+an officer of the Company since March 1995, and served as a director of the
+Company from its founding through February 1996. Mr. Filo co-developed Yahoo! in
+1994 while working towards his Ph.D. in electrical engineering at Stanford
+University, and co-founded the Company in 1995. Mr. Filo holds a B.S. degree in
+computer engineering from Tulane University and a M.S. degree in electrical
+engineering from Stanford University.
+Farzad Nazem age 37 was promoted to Chief Technology Officer in January
+1998. Prior to that, he served as the Company Senior Vice President, Product
+Development and Site Operations since March 1996. From 1985 to 1996, Mr. Nazem
+held a number of technical and executive management positions at Oracle
+Corporation, including, most recently, Vice President of Oracle Media and Web
+Server Division and member of the Product Division Management Committee. Prior
+to that, Mr. Nazem was a member of the technical staff at SYDIS, Inc. and Rolm
+Corporation. Mr. Nazem holds a B.S. in Computer Science from California
+Polytechnic State University.
+Anil Singh age 40 was promoted to Vice President, Advertising Sales in
+December 1996. Prior to that, Mr. Singh served as the Company Director of
+Sales since November 1995. Prior to joining the Company, Mr. Singh was Vice
+President of Sales for Socket Communications from 1994 to 1995. From 1992 to
+1994, Mr. Singh was Vice President of Sales for Mountain, Inc. From 1991 to
+1992, Mr. Singh was Director of Sales for Novell, Inc. Mr. Singh holds a B.S.
+degree in computer science from Imperial College at the University of London,
+England.
+Gary Valenzuela age 42 has served as the Company Senior Vice President,
+Finance and Administration, and Chief Financial Officer since February 1996.
+From 1994 to 1996, Mr. Valenzuela served as Senior Vice President, Finance and
+Administration, and Chief Financial Officer of TGV Software, Inc., a publicly
+held developer of TCP/IP software products. Prior to joining TGV, Mr. Valenzuela
+was employed by Pyramid Technology Corporation, a then-publicly held
+manufacturer of UNIX minicomputers, where he last served as Senior Vice
+President, Finance and Chief Financial Officer. Mr. Valenzuela holds a B.S.
+degree in Business Administration from San Jose State University, and is a
+Certified Public Accountant in the State of California.

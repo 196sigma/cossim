@@ -1,0 +1,976 @@
+ITEM 8. Financial Statements and Supplementary Data
+Annual Report on Form 10-K
+For the Year Ended December 31, 1999
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS                                 PAGE
+Independent Auditors' Report, KPMG LLP              24
+Independent Auditors' Report, Deloitte & Touche LLP        25
+Consolidated Balance Sheets as of December 31, 1998 and 1999   26
+Consolidated Statements of Operations for the years ended
+December 31, 1997, 1998 and 1999                 27
+Consolidated Statements of Stockholders' Equity for the years
+ended December 31, 1997, 1998 and 1999              28
+Consolidated Statements of Cash Flows for the years ended
+December 31, 1997, 1998 and 1999                 29
+Notes to Consolidated Financial Statements            30 Independent Auditors' Report
+The Board of Directors
+Corsair Communications, Inc. We have audited the accompanying consolidated balance sheets of Corsair
+Communications, Inc. and subsidiaries as of December 31, 1998 and 1999, and the
+related consolidated statements of operations, stockholders' equity and cash
+flows for each of the years in the three-year period ended December 31, 1999.
+These consolidated financial statements are the responsibility of Corsair
+management. Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits. We did not audit the statements of
+operations, stockholders' equity and cash flows of Subscriber Computing Inc., a
+company acquired by Corsair Communications, Inc. in a business combination
+accounted for as a pooling of interests as described in Note 4 to the
+consolidated financial statements, which reflect total revenues constituting
+214% in fiscal 1997, of the related consolidated totals. Those financial
+statements were audited by other auditors whose report has been furnished to us,
+and our opinion, insofar as it relates to the amounts included for Subscriber
+Computing Inc., is based solely on the report of the other auditors.
+We conducted our audits in accordance with generally  accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits and the report of the other auditors provide a
+reasonable basis for our opinion.
+In our opinion, based on our audits and the report of the other auditors, the
+consolidated financial statements referred to above present fairly, in all
+material respects, the financial position of Corsair Communications, Inc. and
+its subsidiaries as of December 31, 1998 and 1999, and the results of their
+operations and their cash flows for each of the years in the three-year period
+ended December 31, 1999, in conformity with generally accepted accounting
+principles.
+/s/ KPMG LLP
+Mountain View, California
+February 4, 2000 Independent Auditors' Report
+The Board of Directors
+Subscriber Computing, Inc.     We have audited the balance sheet of Subscriber Computing, Inc.
+SCI as of September 30, 1997 and the related statements of operations,
+stockholders' equity deficit and cash flows for the year then ended not
+presented separately herein. These financial statements are the responsibility
+of SCI management. Our responsibility is to express an opinion on these
+financial statements based on our audit.
+We conducted our audit in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audit provides a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present
+fairly, in all material respects,  the financial position of Subscriber
+Computing, Inc. as of September 30, 1997, and the results of its operations and
+its cash flows for the year then ended in conformity with generally accepted
+accounting principles.
+/s/ DELOITTE & TOUCHE LLP
+Costa Mesa, California
+January 7, 1998                       CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS, EXCEPT SHARE DATA                                         DECEMBER 31,
+1998      1999
+ASSETS
+Current assets:
+Cash and cash equivalents                      $  4,196  $  13,686
+Short-term investments                         34,377     39,263
+Trade accounts receivable, less allowance for
+doubtful accounts of $2,896 for 1998 and $2,115 for 1999       14,134     11,548
+Evaluation inventory                           2,597     1,163
+Inventories, net                             5,676     3,183
+Prepaid expenses                             2,266     1,475
+Current portion of notes receivable                      --      385
+Total current assets                           63,246     70,703
+Notes receivable                               --     1,325
+Property and equipment, net                        7,422     3,458
+Other assets                                 892     1,197
+$ 71,560  $  76,683
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                          $  1,706  $   2,273
+Accrued expenses                             7,731     10,245
+Current portion of notes payable                      639      737
+Current portion of capital lease obligations                609       80
+Deferred revenue                             7,137     6,063
+Total current liabilities                        17,822     19,398
+Notes payable, net of current portion                   1,407      670
+Capital lease obligations, net of current portion              217                                                Total liabilities                             19,446     20,068
+Commitments and contingencies
+Stockholders' equity:
+Common stock, $001 par value; 20,000,000 shares authorized;
+17,976,492 and 18,281,324 shares issued and outstanding at        18       18
+December 31, 1998 and 1999, respectively
+Treasury stock at cost, 1,075,000 shares                  --    5,741
+Notes receivable from stockholders                    468     272
+Additional paid-in capital                       105,433    106,445
+Deferred compensation                          288      95
+Accumulated deficit                          52,581    43,740
+Total stockholders' equity                           52,114     56,615
+$ 71,560   $ 76,683
+See accompanying notes to consolidated financial statements                    CONSOLIDATED STATEMENTS OF OPERATIONS
+IN THOUSANDS, EXCEPT PER SHARE DATA                                  YEAR ENDED DECEMBER 31,
+1997       1998       1999
+Revenues:
+Hardware                    $  37,882   $  34,089    $  31,961
+Software                       12,303      13,717      20,083
+Service                       10,671      17,412      14,163
+Total revenues                  60,856      65,218      66,207
+Cost of revenues:
+Hardware                       27,938      17,151      17,124
+Software                       1,903      1,317       1,336
+Service                        7,026      8,094       5,854
+Total cost of revenues              36,867      26,562      24,314
+Gross profit                       23,989      38,656      41,893
+Operating costs and expenses:
+Research and development               12,525      18,289      11,312
+Sales and marketing                 11,411      16,775      13,421
+General and administrative              9,432      8,501       6,606
+Merger related expenses                 --      4,191              Reorganization costs                   --        --        856
+Total operating costs and expenses            33,368      47,756      32,195
+Operating income loss               9,379     9,100       9,698
+Loss on sale of assets                    --        --      2,176
+Interest income, net                   1,191      2,460       1,817
+Income loss before income taxes and        8,188     6,640       9,339
+extraordinary item
+Income tax expense                      8        --        498
+Income loss before extraordinary item         8,196     6,640       8,841
+Loss on debt extinguishment, net             428      226                                         Net income loss                  $  8,624   $  6,866     $  8,841
+Basic net income loss per share data:
+Income loss before extraordinary item       $  082   $  038     $  050
+Extraordinary item                    004      001                                         Basic net income loss per share          $  086   $  039     $  050
+Shares used in per share calculation           10,017      17,749      17,700
+Diluted net income loss per share data:
+Income loss before extraordinary item       $  082   $  038     $  048
+Extraordinary item                    004      001                                         Diluted net income loss per share         $  086   $  039     $  048
+Shares used in per share calculation           10,017      17,749      18,315
+See accompanying notes to consolidated financial statements.                  CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+IN THOUSANDS, EXCEPT SHARE DATA                                  NOTE   ADDITIONAL                  TOTAL
+CONVERTIBLE                       RECEIVABLE  PAID-IN   DEFERRED   ACCUMULATED  STOCKHOLDERS'
+PREFERRED STOCK   COMMON STOCK    TREASURY STOCK    FROM   CAPITAL  COMPENSATION   DEFICIT    EQUITY
+STOCKHOLDER
+SHARES  AMOUNT  SHARES  AMOUNT   SHARES  AMOUNT
+Balance
+as 9,166,288    9 2,368,207     2    --    --    136   45,774     69    31,929     13,651
+of
+December
+31,
+1996
+Exercise
+of     --   --  730,417     1    --    --     --     402      --       --      403
+common
+stock
+options
+Issuance
+of     --   --  58,828     --    --    --     --     142      --       --      142
+common
+stock
+for
+an
+acquisition
+Issuance
+of
+common   --   --  178,229     --    --    --    375     375      --       --        stock
+for
+notes
+receivable
+Issuance
+of
+Series
+B  1,911,951    2    --     --    --    --     --   14,092      --       --     14,094
+convertible
+preferred
+stock,
+net
+of
+issuance
+costs
+Issuance
+of
+Series
+D   266,668   --    --     --    --    --     --    2,996      --       --     2996
+convertible
+preferred
+stock,
+net
+of
+issuance
+costs
+Deferred
+compensation
+related   --   --    --     --    --    --     --    1,129    1,129       --        to
+grant
+of
+stock
+options
+Amortization
+of     --   --    --     --    --    --     --     --      550       --      550
+deferred
+compensation
+Conversion
+of 11,344,907  11 11,344,907    11    --    --     --     --      --       --        preferred
+stock
+to
+common
+stock
+Issuance
+of
+common   --   -- 2,875,000     3    --    --     --   39,055      --       --     39,058
+stock
+net
+of
+issuance
+costs
+Repurchase
+of     --   --  7,026     --    --    --     --     3      --       --      3
+common
+stock
+Accretion
+attributable
+to     --   --    --     --    --    --     --     180      --     180        subsidiary
+preferred
+stock
+Net loss   --   --    --     --    --    --     --     --      --    8,624    8,624
+Change
+in     --   --    --     --    --    --     --     --      --    4,892    4,892
+subsidiary
+year
+end
+Balances
+as of   --   -- 17,548,562    $ 17    --    --    511   104,142     648    45,625     57,375
+December
+31, 1997
+Stock
+issued
+under    --   --  384,932     1    --    --     --    1,209      --       --     1,210
+stock
+option
+and
+stock
+purchase
+plans
+Stock
+issued   --   --  40,409     --    --    --     --     --      --       --        pursuant
+to
+exercise
+of
+warrants
+Notes
+receivable --   --    --     --    --    --     43     --      --       --       43
+repayments
+Issuance
+of     --   --  13,575     --    --    --     --     --      --       --        common
+stock
+for
+an
+acquisition
+Accretion
+attributable
+to     --   --    --     --    --    --     --     90      --      90        subsidiary
+preferred
+stock
+Repurchase
+of     --   -- 10,986     --    --    --     --     8      --       --      8
+common
+stock
+Amortization
+of     --   --    --     --    --    --     --     --      360       --      360
+deferred
+compensation
+Net loss  --   --    --     --    --    --     --     --      --     6,866     6,866
+Balances
+as of   --   -- 17,976,492   $ 18   $ --   $ --     $468  $ 105,433    $288   $52,581   $ 52,114
+December
+31, 1998
+Stock
+issued
+under    --   --  299,802     --    --    --     --     675      --       --      675
+stock
+option
+and
+stock
+purchase
+plans
+Stock
+issued   --   --   5,030     --    --    --     --     5      --       --      5
+pursuant
+to
+exercise
+of
+warrants
+Notes
+receivable --   --    --     --    --    --     196    16      --       --      180
+repayments
+Deferred
+compensation--   --    --     --    --    --     --     358      --       --      358
+related
+to CRM sale
+Amortization
+of     --   --    --     --    --    --     --     --      193       --      193
+deferred
+compensation
+Purchase
+of     --   --    --     -- 1,075,000 5,741     --     --      --       --    5,741
+Treasury
+Stock
+Net     --   --    --     --    --    --      --     --      --     8,841     8,841
+income
+Balances
+as of    --   -- 18,281,324  $ 18 $1,075,000 $5,741  $272   $106,445    $95    $43,740   $ 56,615
+December
+31, 1999
+See  accompanying  notes to consolidated financial statements.                    CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS                                         YEAR ENDED DECEMBER 31,
+1997      1998       1999
+Cash flows from operating activities:
+Net income loss                         $  8,624   $ 6,866    $  8,841
+Adjustments to reconcile net income loss to net cash used
+in provided by operating activities:
+Depreciation and amortization                 2,934      4,243       3,722
+Amortization of deferred compensation              550       360        193
+Extraordinary loss on extinquishment of debt          428       226         -
+Noncash loss on disposition of assets              100        -        914
+Noncash reorganization costs                   -        -        412
+Merger-related costs                       -      4,191         -
+Changes in operating assets and liabilities:
+Trade accounts receivable              886     8,524        665
+Inventories                      969       90       3,917
+Prepaid expenses and other assets         2,341      990       697
+Accounts payable and accrued expenses         153     4,054       2,943
+Deferred revenue                  4,487     5,215        95
+Net cash used in provided by        2,230    16,539      21,005
+operating activities
+Cash flow from investing activities:
+Purchase of short-term investments                  66,601    29,514     37,035
+Proceeds from sales and maturities of short-term investments      23,969     39,862      32,149
+Purchases of property and equipment                  4,822     3,446       717
+Net cash used in provided by       47,454      6,902      5,603
+investment activities
+Cash flow from financing activities:
+Proceeds from sale of preferred stock, net of offering costs      17,090        -         -
+Proceeds from issuance of common stock, net of offering costs     39,458      1,202        655
+Proceeds from notes payable                        660      4,128        207
+Repurchase of common stock                         -        -      5,741
+Payments on note payable                       8,269     9,021       639
+Payments on capital lease                        733      747       590
+Proceeds from notes receivable from stockholders              -       43        196
+Net cash provided by used in        48,206     4,395      5,912
+financing activities
+Net increase decrease in cash and cash equivalents           1,478    14,032       9,490
+Change in subsidiary year end                        77        -         -
+Cash and cash equivalents, beginning of year                19,629     18,228       4,196
+Cash and cash equivalents, end of year                 $  18,228    $  4,196     $ 13,686
+Cash paid during the year:
+Interest                              $  1,128    $  1,188     $   296
+Income taxes                            $   807    $   364     $   508
+Noncash financing and investing activities:
+Assets recorded under capital leases                $   864    $   --     $                                              Common stock issued upon exercise of stock option in exchange
+for stockholders' note                    $   375    $   --     $                                              Deferred compensation relating to stock option grants       $  1,129    $   --     $                                              Conversion of preferred stock to common stock           $  31,737    $   --     $                                              Accretion of subsidiary preferred stock liquidation       $   180    $   90     $      preference
+Notes receivable in exchange for net assets sold          $    --    $   --     $  2,238
+Options vesting in reorganization costs              $    --    $   --     $   358
+See accompanying notes to consolidated financial statements.          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED DECEMBER 31, 1997, 1998 AND 1999 1. BUSINESS
+Corsair Communications, Inc. Corsair is a leading provider of software and
+system solutions for the wireless industry, focusing on prepaid wireless billing
+and fraud prevention. On June 23, 1998, we acquired Subscriber Computing, Inc.
+SCI in a combination accounted for under the pooling-of-interests method of
+accounting. Our consolidated financial statements have been restated to include
+the financial position and results of SCI for all periods presented.
+The consolidated financial statements include the accounts of Corsair and its
+subsidiary. All significant intercompany accounts and transactions have been
+eliminated.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Revenue Recognition
+Revenue from hardware sales is recognized upon shipment, unless a sales
+agreement contemplates that we provide testing, integration or implementation
+services, in which case hardware revenue is recognized upon commissioning and
+acceptance of the product the activation of the cell site equipment following
+testing integration and implementation. Revenue from the licensing of software
+products generally is recognized upon delivery of the products, unless the sales
+includes post-contract customer support for which vendor specific objective
+evidence does not exist, in which case the revenue is recognized ratably over
+the term of the license period. Revenue from services is recognized ratably over
+the term of the maintenance support, on a percentage of completion basis over
+the term of the consulting effort, or during the month the training or
+operations support is provided.
+In October 1997, the American Institute of Certified Public Accountants
+AICPA issued Statement of Position 97-2, Software Revenue Recognition SOP
+97-2. Effective January 1, 1998, the Company adopted SOP 97-2. SOP 97-2
+generally requires revenue earned on software arrangements involving multiple
+elements such as software products, upgrades, enhancement,  post-contract
+customer support, installation and training to be allocated to each element
+based on the relative fair values of the elements. The fair value of an element
+must be based on objective evidence which is specific to Corsair. The revenue
+allocated to software products, including specified upgrades or enhancements,
+generally is recognized as the services are performed. If evidence of the fair
+value for all elements of the arrangement does not exist, all revenue for the
+arrangement is deferred until such evidence exists or until all elements are
+delivered. There was no material change to the Company accounting for revenues
+as a result of the adoption of SOP 97-2. The fair value of our products is
+indicated by the standard sale price specific to each hardware element or the
+annual software or service renewal rates agreed to and paid by our customers.
+In December 1998, Accounting Standards Executive Committee AcSEC issued SOP
+98-9 Software Revenue Recognition, with Respect to Certain Arrangements, which
+requires recognition of revenue using the residual method in a multiple
+element arrangement when fair value does not exist for one or more of the
+delivered elements in the arrangement. Under the residual method, the total
+fair value of the undelivered elements is deferred and subsequently recognized
+in accordance with SOP 97-2. We do not expect a material change to our
+accounting for revenues as a result of the provisions of SOP 98-9. SOP 98-9 is
+effective for transactions entered into beginning January 1, 2000.
+Concentration of Credit Risk
+Financial instruments that potentially expose Corsair to concentrations of
+credit risk principally  consist of cash, cash  equivalents,  short-term
+investments, and accounts receivable.
+We limit the amounts invested in any one type of investment and maintain cash
+investments with several financial institutions. As such, we believe the
+financial risks associated with such deposits are minimal.
+Corsair  has  historically  sold  its  products  directly  to  wireless
+telecommunications carriers. Sales generally are not collateralized, credit
+evaluations are performed as appropriate, and allowances are provided for
+estimated credit losses. We have not experienced significant losses on trade
+receivables from any particular customer or geographic region.
+Fair Value of Financial Instruments
+Corsair cash, cash equivalents, accounts receivable, accounts payable, and
+accrued expenses are stated at fair value which approximates their carrying
+values due to the short maturity of those instruments.
+Cash Equivalents and Short-Term Investments
+Cash equivalents consist of instruments with remaining maturities of 90 days or
+less at the date of acquisition. Certain cash equivalents and all investments
+are classified as available-for-sale. The securities are carried at fair value,
+which approximates cost. To date, the fair value of the securities has not
+differed significantly from the cost basis of the securities.
+The amortized cost of available-for-sale debt securities is adjusted for
+amortization of premiums and accretion of discounts to maturity. Realized gains
+and losses, and declines in value judged to be other than temporary on
+available-for-sale securities, if any, are included in interest income, net. The
+cost of securities sold is based on the specific identification method. Interest
+and dividends on securities classified as available-for-sale are included in
+interest income, net.
+Investments, all of which are debt securities maturing in one year or less and
+are classified as available-for-sale, consisted of the following in thousands                          DECEMBER 31,
+1998       1999
+Corporate debt securities    $ 34,377     $ 39,263
+Certificates of deposit       2,290       290
+$ 36,667     $ 39,553
+As of December 31, 1998 and 1999, $2,290,000 and $290,000, respectively, of
+Corsair investments were classified as cash and cash equivalents in the
+accompanying balance sheets.
+Inventories
+Inventories, including evaluation inventory, are stated at the lower of
+first-in, first-out cost, or market. Evaluation inventory is comprised of
+finished hardware units delivered to a customer which are pending commissioning
+of the product.
+Property and Equipment
+Property and equipment are recorded at cost. Equipment recorded under capital
+leases is stated at the lower of fair value or the present value of minimum
+lease payments at the inception of the lease. Depreciation is calculated under
+the straight-line method over the estimated useful lives of the assets,
+generally three to five years. Equipment recorded under capital leases is
+amortized over the shorter of the lease term or the estimated useful life of the
+asset. Leasehold improvements are amortized using the straight-line method over
+the shorter of the lease term or the estimated useful life of the asset.
+Software Research and Development Costs
+All costs incurred to establish the technological feasibility of software are
+expensed as incurred. Costs incurred subsequent to establishing technological
+feasibility are capitalized and amortized on a straight-line basis over their
+estimated useful lives. We determine that technological feasibility has been
+established once a working model has been completed and tested. No software
+research and development costs have been capitalized as qualified amounts have
+not been material.
+Other Assets
+Included in other assets are spare parts that are generally amortized on a
+straight-line basis over the course of their respective useful lives, generally
+two years.
+Income Taxes
+Deferred tax assets and  liabilities are recognized for the future tax
+consequences  attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured using enacted tax rates
+expected to apply to taxable income in the years that those temporary
+differences are expected to be recovered or settled. The effect on deferred tax
+assets and liabilities of a change in tax rates is recognized in income in the
+period that includes the enactment date. A valuation allowance is established
+when necessary to reduce deferred tax assets to amounts more likely than not to
+be recovered.
+Use of Estimates
+The preparation of the consolidated financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosures of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+Impairment of Long-Lived Assets and Long-Lived Assets to Be Disposed Of
+Corsair evaluates long-lived assets and certain identifiable intangibles for
+impairment whenever events or changes in circumstances indicate that the
+carrying amount of an asset may not be recoverable. Recoverability of assets to
+be held and used is measured by a comparison of the carrying amount of an asset
+to future net cash flows expected to be generated by the asset. If such assets
+are considered to be impaired, the impairment to be recognized is measured by
+the amount by which the carrying amount of the assets exceed the fair value of
+the assets. Assets to be disposed of are reported at the lower of the carrying
+amount or fair value less costs to sell.
+Net Income Loss Per Share
+Basic earnings per share is computed using the weighted average number of shares
+of common stock outstanding. Diluted earnings per share is computed using the
+weighted  average number of shares of common stock and, when dilutive,
+convertible preferred stock outstanding on an as if converted basis and common
+equivalent shares from options to purchase common stock and warrants outstanding
+using the treasury stock method.
+The Company has excluded the impact of approximately 1,268,289 and 1,951,331
+outstanding options to purchase common stock and outstanding warrants to
+purchase 271,545 and 194,249 shares of common stock as of December 31, 1997 and
+1998, respectively, since their inclusion in diluted per share results would
+have been antidilutive.
+The following tables set forth the computations of shares and net income loss
+used in the calculation of basic and diluted net income loss per share in
+thousands, except per share data                                 YEAR ENDED DECEMBER 31,
+1997       1998      1999
+Basic net income loss per share data:
+Net income loss            $  8,624   $ 6,866    $  8,841
+Actual weighted average common         10,017      17,749      17,700
+shares outstanding for the period               Basic net income loss per share        $  086   $  039    $  050
+Diluted net income loss per share data:
+Net income loss             $  8,624   $ 6,866    $  8,841
+Actual weighted average common
+shares outstanding for the period        10,017     17,749      17,700
+Stock options and warrants outstanding       --       --       615
+Shares used in diluted per share           10,017     17,749      18,315
+Diluted net income loss per share        $  086   $  039    $  048
+Stock-Based Compensation
+Corsair accounts for its stock-based compensation arrangements using the
+intrinsic-value method prescribed in Accounting Principle Board Opinion No. 25
+Accounting for Stock Issued to Employees. As such, deferred compensation is
+recorded on the date of grant when the fair value of the underlying common stock
+exceeds the exercise price or the purchase price for issuances or sales of
+common stock. Deferred compensation is amortized on an accelerated basis over
+the vesting period of the individual award consistent with the method described
+in FASB Interpretation No. 28. Statement of Financial Accounting Standards
+SFAS No. 123, Accounting For Stock-Based Compensation establishes accounting
+and disclosure requirements using a fair-value-based method of accounting for
+stock-based employee compensation plans. Corsair has elected to remain on its
+current method of accounting as described above, and has adopted the disclosure
+requirements of SFAS No. 123.
+Comprehensive Income Loss
+Corsair has no significant components of other comprehensive income loss, and
+accordingly, the comprehensive income loss is the same as net income loss
+for all periods.
+3. BALANCE SHEET COMPONENTS AND RELATED VALUATION ACCOUNTS
+Inventories
+Inventories consisted of the following in thousands                   DECEMBER 31,
+1998        1999
+Raw materials       $ 2,600     $  948
+Work in process        311          Finished goods       2,765      2,235
+$ 5,676     $ 3,183
+Property and Equipment
+Property and equipment consisted of the following in thousands                             DECEMBER 31,
+1998       1999
+Computer equipment                $10,059     $6,590
+Furniture and fixtures               1,093       985
+Purchased software                 1,233      1,788
+Leasehold improvements               1,311      1,261
+Machinery & equipment               1,795      1,729
+15,491     12,353
+Less accumulated depreciation and amortization 8,069     8,895
+$ 7,422     $3,458 The total amount of assets recorded under capital leases included in property
+and equipment is approximately $2,505,000 and 2,180,000 as of December 31, 1998
+and 1999, respectively. Accumulated amortization thereon was $1,789,000 and
+2,093,000 as of December 31, 1998 and 1999, respectively.
+Accrued Expenses
+Accrued expenses consisted of the following in thousands                        DECEMBER 31,
+1998        1999
+Accrued benefits         $ 2,261    $ 1,987
+Accrued warranty costs        2,093      2,836
+Accrued professional fees      1,416      1,279
+Accrued taxes             291      1,327
+Customer discounts            -      1,207
+Other                1,670      1,609
+$ 7,731    $ 10,245
+Allowance for Doubtful Accounts
+Changes to the allowance for doubtful accounts consisted of the following in
+thousands            Balance at   Charged to
+beginning of  costs and         Balance at end
+YEAR ENDED      the period   expenses   Deductions  of the period
+December 31, 1997  $   867   $  2,018  $  1,457  $  1,428
+December 31, 1998  $ 1,428    $  2,692  $  1,224  $  2,896
+December 31, 1999  $ 2,896    $  1,123  $  1,904  $  2,115 4. MERGER WITH SUBSCRIBER COMPUTING INC.
+On June 23, 1998, Corsair issued approximately 39 million shares of its common
+stock in exchange for all of the outstanding shares of common stock of SCI, a
+provider of software systems to the paging, cellular and PCS industries. As a
+result of the merger, each outstanding share of SCI preferred stock was
+converted into shares of SCI common stock based on their respective liquidation
+preference. Concurrently, each share of SCI common stock was converted into
+0238 shares of Corsair common stock, and SCI became a wholly owned subsidiary
+of Corsair. In addition, Corsair has reserved approximately 464,500 shares of
+its common stock for issuance upon the exercise of assumed SCI stock options and
+warrants. The merger was accounted for as a pooling of interests, and
+accordingly, Corsair consolidated financial statements have been restated to
+include the financial position and results of SCI for all periods presented.
+Corsair statement of operations for the three-year period ended December 31,
+1999 have been combined with SCI statement of operations for the year ended
+September 30, 1997, and the two year periods ended December 31, 1999,
+respectively. Due to the fiscal year end conversion of SCI to that of Corsair,
+the following summarized financial information for SCI for the three months
+ended December 31, 1997 was not included in the consolidated statements of
+operations            Three Months Ended December 31, 1997
+Net revenue                  $   2,854
+Total cost of sales                 1,758
+Gross profit                     1,096
+Operating costs and expenses             5,946
+Operating loss                   4,850
+Other expense, net                  42
+Net loss                    $ 4,892
+SCI did not incur any significant operating, investing, or financing cash flow
+events during the three months ended December 31, 1997.
+The results of operations previously reported by the separate enterprises and
+the combined amounts presented at the time of the merger are summarized below
+in thousands                  Corsair     SCI     Combined
+Year Ended December 31, 1997
+Total revenue        $  47,838   $ 13,018   $  60,856
+Extraordinary loss         428      --      428
+Net loss            1,068    7,556    8,624 In the second quarter of 1998, Corsair recorded merger-related costs and
+expenses of $42 million. The one-time charges included $25 million in
+transaction costs, $15 million of termination benefits for approximately 20
+employees, and redundant facility and other equipment costs associated with the
+merger of $145,000. As of December 31, 1999, all of the accrued merger-related
+costs had been paid. 5. REORGANIZATION COSTS
+On February 3, 1999, Corsair signed a letter of intent with True Position to
+develop a strategic relationship for the development, sales and marketing of a
+wireless location product. As a result of our intent to enter into this
+strategic relationship, Corsair discontinued development of a wireless location
+project, resulting in a charge of $856,000, consisting of $649,000 in accrued
+termination benefits for 13 employees and equipment write-downs of $207, 000. As
+of December 31, 1999, the Company had not developed a strategic relationship
+with True Position, and it is unclear whether the Company will be able to
+successfully develop a strategic relationship in the future. 6. LOSS ON SALE OF ASSETS
+Also on February 3, 1999, we sold substantially all of the assets relating to
+our Communication Resource Manager billing system and certain related products
+to Wireless Billing Systems WBS, a California corporation, pursuant to the
+terms of an Asset Purchase Agreement.
+In conjunction with the sale, we received from WBS a secured promissory note
+receivable of $22 million, which was $22 million less than the net book value
+of the net assets transferred to WBS, consisting of cash, accounts receivable,
+property and equipment, and deferred revenue. The note bears interest at the
+rate of 10% per annum, payable in equal monthly installments based upon a sixty
+month amortization schedule with a final payment of the remaining unpaid
+principal with all accrued interest due and payable in May, 2003. We recorded a
+loss on the sale of the net assets of approximately $22 million, for the
+difference between the consideration received and the net book value of the
+assets transferred. 7. DEBT
+Notes payable consists of a note to a financial institution, with monthly
+payments of approximately $74,000 at an interest rate of 1438% with a lump sum
+payment of approximately $260,000 due on June 1, 2001, collateralized by
+selected assets of the Corsair. The outstanding balance as of December 31, 1999
+was approximately $1,407,000.
+During 1997, the Company recorded an extraordinary loss of $428,000 in
+connection with the payment of $51 million in principal and interest for the
+early extinguishment of all three loan and security agreements. The loss was
+comprised of pre-payment penalties and amortization of the remaining discount on
+the debt associated with warrants issued along with the notes payable. In
+addition, in 1998, the Company incurred a loss on debt extinguishment of
+$226,000 associated with paying the principal and interest of $48 million of
+short-term and long-term notes payable noted above. The loss was comprised of
+the amortization of the remaining loan fees associated with the debt issuance. 8. INCOME TAXES
+Income tax expense consists of the following for the years ended December 31 in
+thousands                 1997      1998        1999
+Current
+Federal            $    -   $    -    $   1,431
+State                 8        -         248
+Total current tax expense        8        -        1,679
+Deferred
+Federal                -        -       1,181
+State                 -        -          -
+Total deferred tax expense       -        -       1,181
+Total tax expense        $   8   $    -    $    498
+A reconciliation of the Federal statutory rate of 34% as applied to income
+loss before income taxes and extraordinary item from continuing operations to
+Corsair effective tax rate is as follows in thousands                               Year Ended December 31,
+1997        1998        1999
+Tax at U.S. Federal statutory rate benefit   $  2,423    $ 2,258     $   3,176
+S corporation loss not subject to tax         2,062         -          Utilization of prior net operating losses and
+temporary differences                   -         -       1,240
+Utilization of prior year tax credits           -         -        645
+Change in beginning valuation allowance          -         -       1,181
+Unutilized net operating losses             153       1,832          -
+State income taxes                     8         -         248
+Nondeductible merger expenses               -        369          -
+Other nondeductible expenses               208        57         140
+Total tax expense              $     8    $    -     $   498
+The tax effects of temporary differences that give rise to significant portions
+of the deferred tax assets and deferred tax liabilities are presented below in
+thousands                                      Year Ended December 31,
+1997        1998        1999
+Deferred tax assets:
+Net operating loss carryforward             $   10,155   $    10,717    $   9,910
+Credit carryforwards                      1,468        2,164       1,984
+Inventory, due to reserves and additional amounts         401         745        928
+capitalized for tax
+Bad debt reserve                          -          -        850
+Accrued vacation                          -          -        198
+Accrued warranty and retrofit                    -          -       1,140
+Other accruals and reserves not currently deductible      1,476        1,936        139
+for tax purposes
+Technology asset                        1,677        1,476       1,311
+Fixed assets                           182         627        906
+Other                                -         98         -
+Total gross deferred tax assets            15,359       17,763      17,366
+Less valuation allowance                   15,331      17,763     16,185
+Net deferred tax assets                  28          -       1,181
+Deferred tax liabilities:
+Other deferred liabilities                    28          -         -
+Total deferred tax liabilities             28          -         -
+Net deferred tax assets            $      -   $      -    $  1,181
+The net change in the valuation allowance for the year ended December 31, 1999
+was a decrease of approximately $964,000. We believe that sufficient uncertainty
+exists as to whether the deferred tax assets will be realized, and accordingly,
+a valuation allowance is required.
+As of December 31, 1999, Corsair had net Federal and California operating loss
+carryforwards of approximately $261 and $162 million respectively, for income
+tax reporting. The Federal net operating loss carryforwards expire beginning in
+2009 through the year 2011. The California net operating loss carryforwards
+expire in 2002.
+Corsair also has research and experimental tax credits aggregating approximately
+$932,000 and $857,000 for Federal and California purposes, respectively. The
+Federal credits forwards expire beginning in 2009 through 2018. The California
+credits carry over indefinitely until utilized.
+There are also California credit carryforwards for qualified manufacturing and
+research and development equipment of approximately $79,000; these credits
+expire in 2006.
+The Tax Reform Act of 1986 imposed substantial restrictions on the utilization
+of net operating losses and tax credits in the event of an ownership change of
+a corporation. An ownership change occurred in October 1996. The approximate
+amounts of carryforward items affected by this restriction are as follows                    Federal     California
+Net operating losses      $ 13,900,000    $ 9,500,000
+Research credits          230,000       80,000
+This restriction also applies to carryforward  items resulting from the
+ownership change upon the acquisition of SCI Computing in June 1998. The
+approximate amounts of carryforward items of this subsidiary which are affected
+by this restriction are as follows                    Federal     California
+Net operating losses      $ 12,300,000   $ 6,700,000
+Research credits          238,000     308,000
+The ownership change restrictions are not expected to impair Corsair ability
+to utilize the affected carryforward items. If there should be a subsequent
+ownership change as defined,  Corsair ability to utilize all stated
+carryforwards could be reduced. 9. STOCKHOLDERS' EQUITY
+Preferred Stock
+Upon Corsair initial public offering of its common stock on July 29, 1997, all
+shares of issued and outstanding preferred stock were converted to 11,344,907
+shares of common stock. Following the conversion, Corsair had no preferred stock
+outstanding.
+1997 Incentive Stock Option, Nonqualified Stock Option and Restricted Stock
+Purchase Plan
+In February 1997, Corsair subsidiary, SCI, adopted the 1997 Incentive Stock
+Option, Nonqualified Stock Option and Restricted Stock Purchase Plan the SCI
+Plan and authorized 653,290 shares of the Corsair common stock to be issued
+under the SCI Plan. Incentive options may be issued to officers and key
+employees.  Nonqualified options and restricted shares may be issued as
+determined by the Board of Directors. The exercise prices are to be determined
+pursuant to formulas specified in the SCI Plan but not less than the fair market
+value at the grant date. Options expire within ten years from the date of grant.
+In connection with the adoption of the SCI Plan, certain stockholders were
+issued restricted stock in return for cancellation of options granted under the
+previous plan. As consideration for the stock received, the stockholders issued
+notes payable to Corsair totaling $375,125. The notes bear interest at a rate of
+7% per annum, with principal and interest due on February 28, 2002, and are
+secured by the stock received. The notes have been included as a separate
+component of stockholders' equity in the accompanying financial statements.
+Corsair has assumed certain option plans in connection with the merger of SCI as
+discussed in Note 4. These options were granted under terms similar to the terms
+of the Plan at prices adjusted to reflect the relative exchange ratios of the
+mergers. All former plans were terminated as to future grants upon completion of
+the merger.
+1997 Stock Incentive Plan
+In May 1997, Corsair adopted the 1997 Stock Incentive Plan the Plan and
+authorized 1,337,633 shares of the common stock to be issued under the Plan.
+Under provisions of the Plan, options are granted at fair market value at date
+of grant for incentive stock options or no less than 85% of fair market value
+for nonqualified options. Options generally vest over 4 years with 25% vesting
+on the first anniversary of the vesting  commencement date and monthly
+thereafter. Options generally expire 10 years from the date of grant.
+Included in the Plan is a provision for the automatic grant of nonstatutory
+options to nonemployee Board of Director members of 1,500 shares per annum. The
+options are exercisable at the then current fair market value and generally vest
+over a 12-month period beginning one month after the grant date. The option
+grants to nonemployees expire 10 years from grant date.
+The 1997 Plan succeeds the 1996 Stock Option/Stock Issuance Plan and the 1997
+Officer Stock Option Plan. 1997 Employee Stock Purchase Plan
+In May 1997, the Board adopted the 1997 Employee Stock Purchase Plan the
+Purchase Plan and reserved 166,667 shares of common stock for issuance under
+the Purchase Plan. No stock was issued under the Purchase Plan in 1997, while
+106,900 shares were issued in 1998.
+Accounting for Stock-based Compensation
+Corsair uses the intrinsic-value method to account for all of its stock-based
+employee  compensation  plans. During 1997 the Company recorded deferred
+compensation costs totaling $1,202,000 related to its stock option plans for the
+difference between the exercise price of each option and the fair market value
+of the underlying common stock as of the grant date for each stock option. This
+amount is being amortized over the vesting period of the individual options,
+generally four years. Amortization of deferred compensation totaled $360,000 and
+$193,000 in 1998 and 1999 respectively, and has been charged to operating
+expenses.
+Had compensation cost for the Corsair stock option and employee purchase plans
+been determined consistent with the fair value approach enumerated in SFAS No.
+123, Accounting for Stock-Based Compensation, Corsair pro forma net income
+loss would have been as follows in thousands, except per share data                                 Year Ended December 31
+1997      1998       1999
+Net income loss - as reported           $  8,624    $ 6,866      $8,841
+Net income loss - pro forma              9,315     8,790      7,655
+Diluted net income loss per share - as reported     086      039       048
+Diluted net income loss per share - pro forma     093      050       042 The fair value of each option under the Plan is estimated based on the date of
+grant using the Black-Scholes method in 1997, 1998 and 1999, using the following
+weighted-average assumptions                   1997       1998       1999
+Expected life years        286       264       350
+Expected stock price volatility    27%        60%       70%
+Risk-free interest rate       612%       483%      590 No dividend impact was considered as Corsair has never declared, and does not
+have plans to declare any future dividends.
+The pro forma net income loss and per share data include expenses related to
+the Purchase Plan. The weighted average fair value of purchase rights granted
+during 1999 under the Purchase Plan is $258. The fair value is estimated using
+the Black-Scholes model assuming no expected dividends on the date of grant, a
+risk-free rate of 547%, volatility of 70%, and an expected life which varies
+over the exercise periods.
+Stock Option Activity and Status
+The following table summarizes activity under Corsair Option Plans                                                  Weighted-Average
+Weighted-Average    Options Vested    Fair Value of
+Shares     Exercise Price       at         Options
+Period-End       Granted
+Outstanding as of December 31, 1996   1,221,827        $ 065
+258,079
+Options granted         1,090,534         650
+$ 360
+Options exercised        730,416         055
+Options canceled        313,656         130
+Outstanding as of December 31, 1997   1,268,289         558
+291,477
+Options granted         2,029,748         644
+$ 279
+Options exercised        271,961         191
+Options canceled       1,074,745         1174
+Outstanding as of December 31, 1998   1,951,331         359
+432,614
+Options granted         1,433,350         689
+$ 372
+Options exercised        200,764         149
+Options canceled        988,110         410
+Outstanding as of December 31, 1999   2,195,807        $ 570
+The following table summarizes information about stock options outstanding as of
+December 31, 1999              Outstanding                        Exercisable
+Weighted-average
+Number of     Remaining     Weighted-average   Number of   Weighted-average
+Exercise prices    shares    Contractual life    exercise price    shares    Exercised prices
+030 - $211      200,672         588        $ 084    170,322        $ 083
+$288 - $300      343,117         873         293    118,552         293
+$306 - $500      696,420         928         438    65,800         470
+$513 - $550      236,788         895         514    50,433         513
+$700 - $1000      497,110         979         887     7,558         787
+$1106 - $1950     221,700         963         1145    19,949         1463      030 - $1950     2,195,807         900         564    432,614         325      As of December 31, 1999, employees held 23,179 shares of common stock
+outstanding by virtue of option exercises which were subject to repurchase by
+Corsair at prices ranging from $068 to $113 per share. Corsair right of
+repurchase expires 25% on the first anniversary of the original issuance date
+and monthly thereafter, over a four-year period.
+During the fourth quarter of 1998, Corsair Board of Directors approved the
+repricing of approximately 821,000 outstanding stock options held by existing
+employees to the current fair market value of Corsair stock at the date of the
+repricing.
+Warrants
+Corsair issued warrants to purchase an aggregate 243,822 shares of common stock
+at an exercise price of $591 to $665 per share in conjunction with various
+loan and security agreements. The warrants, exercisable until July 2002, were
+assigned an aggregate value of $161,000, with the value being amortized over the
+term of the loan and recorded as interest expense. As of December 31, 1999, one
+warrant for the purchase of 52,500 shares of common stock remained outstanding. 10. COMMITMENTS AND CONTINGENCIES
+Leases The Company is obligated under certain noncancelable operating leases for office
+space and equipment expiring at various dates through 2002. Total rental expense
+was approximately $1,539,000, $1,938,000 and $1,481,000 for the years ended
+December 31, 1997, 1998, and 1999 respectively.
+Future minimum payments under capital and operating leases that have initial or
+remaining noncancelable lease terms in excess of one year are as follows in
+thousands Year ending                       Capital  Operating
+December 31,                       leases   leases
+-                              2000                           89    1,296
+2001                           --    1,124
+2002                           --     449
+Total minimum lease payments                $ 89  $ 2,869
+Less amount representing interest and taxes          9
+Current portion of obligations under capital lease     $ 80
+Litigation
+Corsair is involved in various legal matters that have arisen in the normal
+course of business. We believe, after consultation with counsel, any liability
+that may result from the disposition of such legal matters will not have a
+material adverse effect on Corsair  financial condition or results of
+operations.
+Employee Benefit Plans
+Corsair has two defined contribution 401k retirement plans for qualified
+employees. Employer contributions made under the plans totaled approximately
+$425,000 and $308,000 in 1998 and 1999, respectively. No employer contributions
+were made in 1997.
+11. SEGMENT INFORMATION
+Corsair has adopted the provision of SFAS No. 131, Disclosure About Segments of
+an Enterprise and Related Information. SFAS No. 131 establishes standards for
+the reporting by public business enterprises of information about operating
+segments, products and services, geographic areas, and major customers. The
+method for determining what information to report is based on the way that
+management organizes the operating segments within Corsair for making operating
+decisions and assessing financial performance.
+Corsair chief operating decision maker is considered to be the our Chief
+Executive Officer CEO. The CEO reviews financial information presented on a
+consolidated basis accompanied by disaggregated information about revenues by
+geographic region for purposes of making operating decisions and assessing
+financial performance. The consolidated financial information reviewed by the
+CEO is identical to the information presented in the accompanying consolidated
+statement of operations. Therefore, Corsair operates in, and measures its
+results in a single operating segment, system solutions of the global wireless
+industry, rather than distinctive product segments.
+Corsair  operations are located in the United  States.  Revenues from
+international sources relate to export sales primarily to distributors in
+Europe, Latin America and Asia. Our revenues from two distinct products are
+generated from one industry by the following geographic areas in thousands                         Years Ended
+December 31,
+1997        1998       1999
+Revenues:
+North America        $  46,371     $  38,022   $  17,248
+Latin America          5,933       14,827     36,655
+Pacific Rim           5,568       6,921     11,538
+Europe              2,984       5,448       766
+Total         $  60,856     $  65,218   $  66,207
+We have no material operating assets outside of the United States.
+Significant Customers
+The following tables summarize information relating to Corsair significant
+customers as of December 31, 1998 and 1999 and for the years ended December 31,
+1997, 1998 and 1999:
+Percentage of
+Total Revenues
+1997    1998    1999
+Customer A           11%    13%     3%
+Customer B           12%    10%     4%
+Customer C           10%     9%     5%
+Customer G           -     6%    43                        Percentage of Trade
+Accounts Receivable
+1998    1999
+Customer F                12%     5%
+Customer G                11%     48%
+Customer J                 -     11 UNAUDITED QUARTERLY RESULTS
+in thousands, except per share data                                   Quarters Ended 1998
+March 31       June 30 *      September 30    December 31
+Total revenues              $   18,834     $   19,049     $  12,023    $   15,312
+Gross Profits                  9,688        11,701        7,568        9,699
+Operating expenses               10,071        15,097       11,280       11,308
+Operating loss                  383        3,396       3,712       1,609
+Net income loss                 307        3,330       3,089        754
+Net income loss per share:       $    002     $   019     $  017    $   004
+Shares used in per share computation      18,115        17,660       17,802       17,926 Net income loss for the second quarter of 1998 is presented net of an
+adjustment to the quarter  previously reported operating figures.  The
+adjustment was to decrease operating expenses by approximately $290 for the
+second quarter. The adjustment caused related changes to operating loss, and net
+income loss.                                   Quarters Ended 1999
+March 31       June 30      September 30   December 31
+Total revenues               $  15,278    $    16,046   $    17,087   $    17,796
+Gross Profits                  9,524         9,657       10,663       12,049
+Operating expenses                9,881         7,601        7,319        7,394
+Operating income loss             357         2,056        3,344        4,655
+Net income loss               2,134         2,421        2,867        5,687
+Diluted net income loss per share:    $  012    $     013   $     016   $     031
+Shares used in diluted per share        18,032        18,236       18,073       18,484
+computation                   PART III
+-  

@@ -1,0 +1,748 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+The financial statements of the Company are referenced in Item 14a.
+13
+14
+INDEPENDENT AUDITORS' REPORT
+The Board of Directors
+QLogic Corporation:
+We have audited the accompanying consolidated balance sheets of QLogic
+Corporation and subsidiary as of March 31, 1996 and April 2, 1995, and the
+related consolidated statements of operations, stockholders' equity, and cash
+flows for each of the years in the three-year period ended March 31, 1996. These
+consolidated financial statements are the responsibility of the Company
+management. Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of QLogic
+Corporation and subsidiary as of March 31, 1996 and April 2, 1995, and the
+results of their operations and their cash flows for each of the years in the
+three-year period ended March 31, 1996, in conformity with generally accepted
+accounting principles.
+KPMG PEAT MARWICK LLP
+Orange County, California
+May 17, 1996
+14
+15
+QLOGIC CORPORATION
+CONSOLIDATED BALANCE SHEETS
+MARCH 31, 1996 AND APRIL 2, 1995
+IN THOUSANDS, EXCEPT SHARE DATA
+1996    1995
+ASSETS
+$ 8,414   $ 1,149
+Accounts and notes receivable, less allowance for doubtful accounts
+of $506 in 1996 and $595 in 1995 note 7 and 8.  7,033    9,358
+Inventories notes 3 and   6,670    6,547
+Deferred income taxes note    648     87
+Prepaid expenses and other current    239     200
+Total current   23,004   17,341
+Property and equipment, net notes 4 and   5,520    6,773
+Other     15     478
+$28,539   $24,592
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Accounts payable note  $ 6,177   $ 4,937
+Accrued expenses notes 6 and   3,218    1,537
+Current installments of capitalized lease obligations note 8.   275     303
+Total current   9,670    6,777
+Capitalized lease obligations, excluding current installments note 8.   576     853
+Other non-current liabilities note   2,016    1,381
+Commitments and contingencies notes 5 and 
+Stockholders' equity notes 11 and 14:
+Preferred stock, $10 par value; 1,000,000 shares authorized;
+none issued and     --       Common stock, $10 par value; 12,500,000 shares authorized; 5,557,598
+and 5,552,458 shares issued and outstanding in 1996 and 1995,
+556     555
+Additional paid-in   16,801   16,772
+Accumulated   1,080   1,746
+Total stockholders'   16,277   15,581
+$28,539   $24,592
+See accompanying notes to consolidated financial statements.
+15
+16
+QLOGIC CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+YEARS ENDED MARCH 31, 1996, APRIL 2, 1995 AND APRIL 3, 1994
+IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+1996      1995     1994
+Net revenues notes 7 and  $  53,779   $  57,675   $44,902
+Cost of sales note    34,413     34,285   28,148
+Gross    19,366     23,390   16,754
+Operating expenses note 9:
+Engineering and     7,191     7,598    8,603
+Selling and     6,490     7,541    6,178
+General and     4,501     4,872    4,356
+Impairment of      --       --     542
+Amortization of      --       --     99
+Consolidation charges note 6.     --       --     507
+Total operating    18,182     20,011   20,285
+Operating income     1,184     3,379   3,531
+Transaction costs note      --       --    1,142
+Interest income      19      53    104
+Income loss before income taxes.    1,203     3,326   4,777
+Income tax provision benefit note 5.     537     1,361     28
+Net income  $   666   $  1,965   $4,749
+Net income per common and equivalent share. $   012   $   035
+Weighted average common and common equivalent shares.  5,736,910   5,567,466
+See accompanying notes to consolidated financial statements.
+16
+17
+QLOGIC CORPORATION
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+YEARS ENDED MARCH 31, 1996, APRIL 2, 1995 AND APRIL 3, 1994
+IN THOUSANDS
+RETAINED   RECEIVED
+COMMON STOCK  ADDITIONAL   EARNINGS    FROM    TOTAL
+PAID-IN   ACCUMULATED  EMULEX  STOCKHOLDERS'
+SHARES AMOUNT  CAPITAL    DEFICIT   CORP.    EQUITY
+Balance on March 28, 1993. 5,000  $1,000  $ 9,279   $ 1,038   $ 124   $ 11,193
+Net transactions with
+Emulex Corporation, March 29,
+1993 to February 24, 1994.   --    --    6,937      --     124     7,061
+Issuance of common stock to Emulex
+551   110     --      --     --      110
+Adjustment to par value due to
+reverse stock split.   --   555    555      --     --        Net    --    --     --    4,749     --    4,749
+Balance on April 3, 1994. 5,551   555   16,771    3,711     --    13615
+Net    --    --     --     1,965     --     1,965
+Issuance of common stock.   1    --      1      --     --       1
+Balance on April 2, 1995. 5,552   555   16,772    1,746     --    15,581
+Net    --    --     --      666     --      666
+Issuance of common stock.   6    1     29      --     --      30
+Balance on March 31, 1996. 5,558  $ 556  $ 16,801   $ 1,080   $  --   $ 16,277
+See accompanying notes to consolidated financial statements.
+17
+18
+QLOGIC CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEARS ENDED MARCH 31, 1996, APRIL 2, 1995 AND APRIL 3, 1994
+IN THOUSANDS, EXCEPT SHARE DATA
+1996    1995    1994
+Cash flows from operating activities:
+Net income  $  666   $ 1,965   $4,749
+Adjustments to reconcile net income loss to net cash
+provided by used in operating activities:
+Depreciation and   2,452    2,445    1,969
+Amortization and impairment of goodwill.    --     --     641
+Loss on disposal of property and equipment.    11     34     400
+Provision benefit for deferred income taxes.   561    87    519
+Change in assets and liabilities:
+Decrease increase in accounts receivable.  2,325   3,351     39
+Increase in    123   1,372    463
+Decrease increase in prepaid expenses and other current
+39     30     60
+Decrease increase in other assets.   463    101    414
+Increase decrease in accounts payable.  1,240    990   1,128
+Increase decrease in accrued expenses.  1,681    100    639
+Increase in other non-current liabilities.   635    1,381                                             Net cash provided by used in operating activities.  8,750    146    477
+Cash flows used in investing activities:
+Additions to property and   1,210   1,282   2,957
+Net cash used in investing   1,210   1,282   2,957
+Cash flows from financing activities:
+Principal payments under capital leases.   305    278    435
+Proceeds from exercise of stock options.    30      1       Net transactions with Emulex     --     --    5,769
+Net cash provided by used in financing activities.   275    277   5,334
+Net change in   7,265   1,705   2,854
+Cash at beginning of   1,149    2,854                                            Cash at end of  $ 8,414   $ 1,149   $ 2,854
+Cash paid during the year for:
+$  101   $  121   $  14
+Income  $  404   $  252   $                                          
+SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING AND FINANCING ACTIVITIES:
+During the stated years, QLogic engaged in the following significant non-cash
+investing and financing transactions:
+- - During fiscal year 1994, QLogic received property and equipment with a net
+book value of $1,402 in exchange for an account payable from Emulex. At the
+time the transaction took place, QLogic was a wholly-owned subsidiary of
+Emulex.
+- - Effective February 20, 1994, QLogic issued 551,000 shares, with a total value
+of $110, to Emulex in exchange for an account payable. At the time the
+transaction took place, QLogic was a wholly-owned subsidiary of Emulex.
+- - Capital lease obligations of $475 were incurred during fiscal year 1994 when
+the Company entered into lease agreements for new equipment.
+See accompanying notes to consolidated financial statements.
+18
+19
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+MARCH 31, 1996, APRIL 2, 1995 AND APRIL 3, 1994
+IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+NOTE 1 BASIS OF PRESENTATION
+QLogic Corporation QLogic or the Company is a supplier of Small
+Computer Systems Interface SCSI Very Large Scale Integration VLSI
+semiconductor chips. The Company designs and markets a full line of SCSI
+application standard products.
+Prior to December 28, 1992, Emulex Corporation Emulex operated its
+micro devices business as a division EMD. On March 30, 1992, the Board of
+Directors of Emulex approved in principle a plan of reorganization the
+Reorganization Plan see note 9. Pursuant to the Reorganization Plan, QLogic
+was formed as a separate corporation on November 18, 1992 and on December 28,
+1992 exchanged 5,000,000 shares of its common stock for the net assets of EMD.
+The exchange was accounted for as a Reorganization of entities under common
+control, in a manner similar to a pooling of interests. Accordingly, QLogic
+recorded the net assets acquired at Emulex historical carrying value of
+$10,279.
+On February 24, 1994 the Distribution Date, pursuant to the
+Reorganization Plan, Emulex declared a special dividend consisting of the
+distribution the Distribution to its stockholders of all outstanding shares
+of common stock of QLogic. The purpose of the Distribution was to enable QLogic
+to gain independent access to equity markets so that it may use its capital
+stock as a source of funding for growth and acquisitions and to attract and
+retain key employees. Costs related to the Distribution totaled approximately
+$1,142 and were charged to expense during fiscal year 1994.
+The accompanying financial statements for periods prior to the Distribution
+are based on the specific assets and liabilities which were acquired by the
+Company in the aforementioned reorganization and were prepared from the books
+and records of Emulex using historical accounting principles.
+Prior to the Distribution, Emulex performed various services on behalf of
+QLogic. Such services included accounting, finance, treasury, legal and tax
+advisory services. The accompanying consolidated financial statements reflect an
+allocation of costs related to those services. Management believes that the
+basis of all such allocations is reasonable.
+Prior to December 1994, QLogic did not have separately identified cash
+balances. Emulex made all disbursements and cash collections on behalf of
+QLogic. Prior to the transfer of assets to QLogic, transactions with Emulex were
+accounted for in the Emulex investment. Subsequent to the transfer of assets,
+but prior to the Distribution, transactions with Emulex were accounted for as a
+receivable from Emulex. Subsequent to the Distribution, the receivable from
+Emulex was closed out to additional paid-in capital.
+NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNT POLICIES
+Principles of Consolidation
+The consolidated financial statements of the Company include the accounts
+of QLogic Corporation and its wholly-owned subsidiary. All significant
+intercompany accounts and transactions have been eliminated in consolidation.
+Fiscal Year
+QLogic fiscal year ends on the Sunday nearest March 31. Fiscal years 1996
+and 1995 each comprised 52 weeks. Fiscal year 1994 comprised 53 weeks.
+Inventories
+Inventories are stated at the lower of cost first-in, first-out or net
+realizable value.
+19
+20
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Property and Equipment
+Property and equipment are stated at cost, and depreciation and
+amortization are provided on the straight-line method over estimated useful
+lives of two to seven years.
+Goodwill
+Goodwill represented the excess cost of net assets acquired over
+liabilities assumed and was stated at the lower of cost or net realizable value,
+less accumulated amortization. Amortization was provided on the straight-line
+method over the periods expected to be benefited. Amortization of goodwill was
+$99 for the year ended April 3, 1994.
+Prior to the issuance in March 1995 of Statement of Financial Accounting
+Standards No. 121, Accounting for the Impairment of Long-Lived Assets and for
+Long-Lived Assets to Be Disposed Of Statement No. 121, the Company assessed
+the recoverability of intangible assets by determining whether the amortization
+of the goodwill balance over its remaining life could be recovered through
+projected non-discounted future net income. The amount of goodwill impairment,
+if any, was measured based on projected discounted future net income streams
+using a discount rate reflecting the Company average cost of capital.
+Under the provisions of Statement No. 121, the Company now assesses the
+recoverability of long-lived assets and certain identifiable related assets by
+determining whether estimated future cash flows undiscounted and without
+interest charges expected to result from the use of the assets and their
+eventual disposition are less than the carrying amounts of the assets, in which
+case an impairment loss is recognized. Otherwise, an impairment loss is not
+recognized. Based upon such analysis, the Company believes there is no
+impairment as of March 31, 1996.
+The Company recorded goodwill related to the acquisition of the minority
+interest in Computer Array Development, Inc. CAD in the amount of $1,327
+assuming a useful life of ten years beginning February 1988. The Company has
+continually evaluated the recoverability and possible existence of impairment of
+the remaining unamortized goodwill balance based on forecasts of non-discounted
+net income over the remaining amortization period of the goodwill. During the
+quarter ended December 26, 1993, the Company completed a forecast of its
+operations. The forecast showed a significant decrease in net income streams for
+products tied to CAD technology due to management decision to change the
+future product mix emphasizing a greater share of revenue from other products
+which do not incorporate the CAD technology. Management decision was made in
+part taking into consideration a first-time operating loss in the quarter ended
+December 26, 1993 on products tied to the CAD technology and performance in the
+quarter ended December 26, 1993 compared to the original plan.
+The operating loss in the quarter ended December 26, 1993 was due primarily
+to customers shifting their production to products containing devices
+competitive with those marketed by QLogic. The forecast indicated that the
+expected results no longer supported recoverability of the unamortized goodwill
+and that a complete impairment of the asset in the amount of $542 had resulted.
+The amount of the impairment was measured based on the discounted net income
+streams over the remaining expected economic life of the asset, the discount
+rate being indicative of the Company average cost of capital.
+Accounting for Stock Options
+In October 1995, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 123, Accounting for Stock-Based
+Compensation Statement No. 123, which encourages, but does not require, a
+fair value based method of accounting for employee stock options. Statement No.
+123 will be effective for fiscal years beginning after December 15, 1995. While
+the Company is still evaluating Statement No. 123, it currently expects to elect
+to continue to measure compensation cost under APB Opinion No. 25, Accounting
+for Stock Issued to Employees. Company management does not believe that
+20
+21
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+the adoption of this new standard will have a material effect on the
+consolidated financial statements of the Company.
+Use of Estimates
+Company management has made a number of estimates and assumptions relating
+to the reporting of assets and liabilities in conformity with generally accepted
+accounting principles. Actual results could differ from these estimates.
+Revenue Recognition
+QLogic recognizes revenue from the sale of product at the time of shipment.
+Prior to the Distribution, sales to Emulex were based on the average sales price
+of a product to non-affiliated customers. In instances where the only sales of a
+given product were to Emulex, the price was based on the overall gross margin on
+sales to non-affiliated customers for that quarter.
+Sales of the Company products are generally recognized upon shipment.
+Sales of the Company products to distributors are subject to a limited right
+of return. A portion of sales to distributors, representing estimated returns,
+is not recognized.
+The Company generally warrants its products to be free from defects for
+periods of one to five years from shipment. Estimated warranty expense is
+recognized upon shipment of product.
+Research and Development
+Research and development costs, including costs related to the development
+of new products and process technology, are expensed as incurred.
+Income Taxes
+The Company uses the asset and liability method of accounting for income
+taxes. Under the asset and liability method, deferred tax assets and liabilities
+are recognized for the future tax consequences attributable to differences
+between the financial statement carrying amounts of existing assets and
+liabilities and their respective tax bases. Deferred tax assets and liabilities
+are measured using enacted tax rates expected to apply to taxable income in the
+years in which those temporary differences are expected to be recovered or
+settled. The effect on deferred tax assets and liabilities of a change in tax
+rates is recognized in income in the period that includes the enactment date.
+The Company was included in Emulex consolidated Federal and combined
+state income tax group prior to the Distribution. The Company income taxes
+were determined on a separate return basis.
+Fair Value of Financial Instruments
+In December 1991, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 107, Disclosures about Fair Value of
+Financial Instruments Statement No. 107, which requires all entities to
+disclose the fair value of financial instruments, both assets and liabilities
+recognized and not recognized on the balance sheet, for which it is practicable
+to estimate fair value. Statement No. 107 defines fair value of a financial
+instrument as the amount at which the instrument could be exchanged in a current
+transaction between willing parties. As of March 31, 1996, the fair value of all
+financial instruments approximated carrying value.
+21
+22
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Reverse Stock Split
+On February 24, 1994, the Company declared a 1-for-2 reverse split of the
+Company common stock. The par value remained $010 per share. All references
+to the number of shares and per share information have been adjusted to reflect
+the reverse stock split.
+Net Income per Share
+Net income per common and equivalent share for the years ended March 31,
+1996 and April 2, 1995 was computed based on the weighted average number of
+common and equivalent shares outstanding. The Company has granted certain stock
+options see note 11 which have been treated as common stock equivalents in
+computing both primary and fully diluted income per share. Primary income per
+share approximates fully diluted income per share for the years ended March 31,
+1996 and April 2, 1995.
+Per share data has not been presented for periods prior to the Distribution
+as the Company operated as a wholly-owned subsidiary.
+NOTE 3 INVENTORIES
+Components of inventories are as follows:
+1996    1995
+Raw  $2,122   $2,279
+Work in   1,455   1,192
+Finished   3,093   3,076
+$6,670   $6,547
+NOTE 4 PROPERTY AND EQUIPMENT
+Components of property and equipment are as follows:
+1996    1995
+Product and test  $ 9,285   $ 9,463
+Furniture and   1,086    1,839
+Semiconductor   2,552    1,803
+Leasehold    842     933
+Land and    358     358
+14,123   14,396
+Less accumulated depreciation and   8,603    7,623
+$ 5,520   $ 6,773
+22
+23
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+NOTE 5 INCOME TAXES
+The components of the income tax provision benefit are as follows:
+1996    1995   1994
+Federal
+$ 872   $1,216   $378
+453    64   364
+State:
+226    232   169
+108    23   155
+$ 537   $1,361   $ 28
+The effective income tax on income loss before income taxes differs from
+expected Federal income tax for the following reasons:
+1996    1995    1994
+Expected income tax provision benefit at 34%. $ 409   $1,130   $1,624
+State income tax, net of Federal tax benefit.   74    138     14
+Tax benefit of net operating loss.  26    84       Tax benefit of net operating loss allocable to Emulex.   --     --    1,609
+Tax benefit of research and development and other
+391   729       Increase in valuation   312    813        Nondeductible permanent    39     27        Other,   120     66      1
+$ 537   $1,361   $  28
+The tax effects of temporary differences that give rise to significant
+portions of the deferred tax assets and liabilities are as follows:
+1996    1995
+Deferred tax assets:
+Alternative minimum tax  $  92   $ 238
+Reserves not currently   1,555   1,239
+940    526
+Research and development   1,085    491
+101     84
+Total gross deferred tax   3,773   2,578
+Less valuation   1,918   1,606
+1,855    972
+Deferred tax liabilities:
+Research and development    875    809
+State tax    332            --     76
+Total gross deferred tax   1,207    885
+Net deferred tax  $ 648   $  87
+23
+24
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+QLogic has approximately $1,085 of research and development credit
+carryovers at March 31, 1996. If unused, these credits will expire in the years
+2008 to 2011. In addition, the Company has approximately $92 of alternative
+minimum tax credit carryovers which may be carried over indefinitely.
+QLogic also has approximately $200 of net operating loss carryovers at
+March 31, 1996. Utilization of these carryovers will be limited to approximately
+$50 a year over the next four fiscal years, as a result of the Company filing
+short period tax returns in 1994. Any unused carryover at the end of this period
+will be fully utilizable in any future year until 2009, after which any unused
+carryover will expire.
+Based on the Company current and historical pre-tax earnings, management
+believes it is more likely than not that the Company will realize the benefit of
+the existing net deferred tax assets at March 31, 1996. Management believes the
+existing net deductible temporary differences will reverse during periods in
+which the Company generates net taxable income; however, there can be no
+assurance that the Company will generate any earnings or any specific level of
+continuing earnings in future years.
+During fiscal year 1994, QLogic and Emulex entered into a Tax Sharing
+Agreement for purposes of allocating pre-Distribution tax liabilities between
+QLogic and Emulex. Under the Tax Sharing Agreement, Emulex generally will be
+liable for and will indemnify QLogic against a pre-Distribution Federal, state
+and local tax liabilities of Emulex and its subsidiaries including QLogic, b
+taxes or liabilities resulting from a breach of any covenant or representation
+by Emulex contained in the Tax Sharing Agreement, c taxes imposed on QLogic or
+its stockholders in the event that the Distribution is taxable due to any reason
+other than a breach of certain covenants or representations by QLogic and d
+taxes relating to the recapture or restoration or certain pre-Distribution tax
+items such as depreciation recapture of Emulex or its subsidiaries. QLogic
+will be liable for and will indemnify Emulex and its subsidiaries against i
+post-Distribution Federal, state and local tax liabilities of QLogic, ii taxes
+or liabilities resulting from a breach of any covenant or representation by
+QLogic contained in the Tax Sharing Agreement, and iii taxes imposed on Emulex
+in the event that the Distribution is taxable due to a breach of certain
+covenants and representations by QLogic in the Tax Sharing Agreement unless,
+prior to the breach, there is obtained, on the basis of valid representations,
+1 a ruling from the Internal Revenue Service reasonably satisfactory to
+Emulex, or 2 an opinion acceptable to Emulex from counsel such acceptance not
+to be unreasonably withheld, provided that, if counsel for Emulex does not
+concur with such opinion, Emulex refusal to accept such opinion will not be
+considered unreasonable, in each case to the effect that the breach will not
+cause the Distribution to become subject to Federal income tax. In any event, if
+QLogic becomes liable to indemnify Emulex pursuant to these provisions, it is
+likely that the liability will be material to QLogic.
+The Tax Sharing Agreement provides that the party having responsibility for
+a tax liability under the Tax Sharing Agreement generally will be primarily
+responsible for, and bear the fees, costs and expenses including attorneys' and
+accountants' fees of, the defense of an audit or other proceeding arising out
+of or related to that tax liability.
+The Tax Sharing Agreement also generally provides that, subject to certain
+limitations, Emulex will pay to QLogic the net benefit realized by Emulex from
+the carryback to tax years before the Distribution of certain tax attributes of
+QLogic arising in tax years after the Distribution and QLogic will pay to Emulex
+the net benefit realized by QLogic from the use after the Distribution Date of
+certain tax attributes of Emulex arising in pre-Distribution tax years.
+Accordingly, QLogic has recognized no deferred tax assets with respect to such
+tax attributes.
+The total amount due Emulex pursuant to the Tax Sharing Agreement at March
+31, 1996 and April 2, 1995 totaled $1,760 and $1,209, respectively, and is
+included in other non-current liabilities. Amounts due Emulex under the Tax
+Sharing Agreement are payable on December 30, 1999, and bear interest,
+commencing January 1, 1996, at the rate applicable to underpayments of Federal
+income taxes, which was 9 percent at March 31, 1996. Interest due Emulex is
+payable quarterly beginning in April 1996. The total amount of
+24
+25
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+accrued interest payable to Emulex at March 31, 1996 is $28, which is included
+in accounts payable in the accompanying balance sheet.
+NOTE 6 CONSOLIDATION CHARGES AND DISTRIBUTION EXPENSES
+QLogic incurred significant nonrecurring charges related to the
+restructuring of QLogic operations during the third quarter of fiscal 1994.
+The charges included employee termination expenses for 13 employees of
+approximately $250, an accrual for facilities and manufacturing consolidation of
+approximately $207, and other provisions of approximately $50. Of the total $507
+of consolidation charges, $403 of costs and payments had been charged against
+the related accruals as of April 2, 1995, representing severance and other
+related expense of $300 and lease obligations of $103. During the year ended
+March 31, 1996 costs and payments were charged against the remaining accrual
+representing lease obligations of $104. At March 31, 1996, the balance of the
+accrual is zero.
+NOTE 7 EXPORT REVENUES AND SIGNIFICANT CUSTOMERS
+QLogic export shipments primarily to Pacific Rim countries were
+approximately $29,800, $35,765 and $31,858, representing 55, 62 and 71 percent
+of net revenues for 1996, 1995 and 1994, respectively. The following table
+represents sales to customers accounting for greater than 10% of total Company
+sales, or customer accounts receivable accounting for greater than 10% of total
+Company accounts receivable.
+ACCOUNTS
+SALES        RECEIVABLE
+1996   1995   1994   1996   1995
+Customer   42%   24%   33%   34%   20%
+Customer   13%   n/a   n/a   15%   n/a
+Customer   11%   n/a   n/a   17%   n/a
+With the exception of these customers, management of QLogic believes that
+the loss of any one customer would not have a material adverse effect on its
+business.
+NOTE 8 COMMITMENTS AND CONTINGENCIES
+Line of Credit
+On July 10, 1995, the Company obtained an unsecured line of credit from a
+bank. Maximum borrowings under the line of credit are $75 million subject to a
+borrowing base based on accounts receivable and inventories, with a $1 million
+sub-limit for letters of credit. Interest on outstanding advances is payable
+monthly at the bank prime rate plus 05 percent. The line of credit expires on
+July 5, 1996. The line of credit contains certain restrictive covenants that,
+among other things, require the maintenance of certain financial ratios and
+restrict the Company ability to incur additional indebtedness. The Company was
+in compliance with all such covenants as of March 31, 1996. In the event of a
+default under the line of credit, amounts outstanding would become secured by
+substantially all of the assets of the Company. There were no borrowings under
+the line of credit as of March 31, 1996. The Company is attempting to extend the
+line of credit through the end of fiscal 1997.
+Leases
+The Company leases certain equipment under long-term non-cancelable capital
+lease agreements which expire at various dates through the year 2000. The
+required lease payments and, accordingly, the capitalized lease obligation and
+related assets have been included in the accompanying financial statements. The
+cost of equipment held under capital leases was $2,299 and $2,485 at March 31,
+1996 and April 2, 1995, respectively.
+25
+26
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+The related accumulated depreciation was $1,425 and $1,206 at March 31, 1996 and
+April 2, 1995, respectively.
+Future minimum non-cancelable lease commitments are as follows:
+CAPITAL   OPERATING
+LEASES    LEASES
+FISCAL YEAR:
+$ 342    $  712
+269      712
+234      712
+145      415
+Total minimum lease   $ 990    $ 2,551
+Less amounts representing interest at rates ranging from 4% to
+139
+Present value of future minimum capitalized lease obligations.  $ 851
+Less current installments under capitalized lease obligations.   275
+Capitalized lease obligations, excluding current installments.  $ 576
+Rent expense for fiscal 1996 and 1995 was $653 and $689, respectively.
+Litigation
+QLogic is involved in various legal proceedings which have arisen in the
+ordinary course of business. In the opinion of management, the ultimate
+disposition of these matters will not have a material adverse effect on the
+Company financial position or results of operations.
+NOTE 9 TRANSACTIONS WITH EMULEX
+For purposes of governing certain ongoing relationships between Emulex and
+QLogic after the Distribution and to provide mechanisms for an orderly
+transition, Emulex and QLogic entered into certain agreements. Such agreements
+include: i a Distribution Agreement, providing for, among other things, the
+Distribution and the division between Emulex and QLogic of certain liabilities;
+ii an Employee Benefits Allocation Agreement, providing for certain
+allocations between Emulex and QLogic of responsibilities with respect to
+employee compensation, benefit and labor matters; iii a Tax Sharing Agreement
+see note 5; iv an Administrative Services Agreement; v a Lease Assignment;
+and vi a License Agreement. Subsequent to the Distribution, Emulex and QLogic
+may be in positions of potential conflict due to the ongoing relationships
+between the companies. In addition, Emulex and QLogic share one common director.
+Net transactions with Emulex include disbursements by Emulex for operating
+expenses, income taxes and allocated expenses, net of Emulex cash collections
+for QLogic.
+Transaction cost for fiscal 1994 represent amounts allocated to QLogic by
+Emulex related to the Distribution.
+26
+27
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+There were no sales to Emulex during the years ended March 31, 1996 or
+April 2, 1995. Revenue and cost of sales from sales to Emulex were $76 and $51,
+respectively, for the year ended April 3, 1994.
+NOTE 10 EMPLOYEE RETIREMENT SAVINGS PLAN
+In 1989, Emulex established a pretax savings and profit sharing plan under
+Section 401k of the Internal Revenue Code for substantially all domestic
+employees, including QLogic employees. Under the plan, eligible employees are
+able to contribute up to 12% of their compensation. Emulex contributions matched
+up to 3% of a participant compensation. Emulex contributions on behalf of
+QLogic employees were $133 in 1994.
+In 1994, in anticipation of the Distribution, QLogic established a pretax
+savings and profit sharing plan under Section 401k of the Internal Revenue
+Code for substantially all domestic employees. Under the plan, eligible
+employees are able to contribute up to 12% of their compensation. QLogic
+contributions match up to 3% of a participant compensation. QLogic direct
+contributions on behalf of its employees were $193, $205 and $22 in 1996, 1995
+and 1994, respectively. Emulex contributions on behalf of QLogic employees
+were $34 in 1994.
+NOTE 11 INCENTIVE COMPENSATION PLANS
+On January 12, 1994, the Company Board of Directors adopted the QLogic
+Corporation Stock Awards Plan the Stock Awards Plan and the QLogic
+Corporation Non-Employee Director Stock Option Plan the Director Plan
+collectively the Stock Option Plans, both of which became effective upon the
+Distribution.
+The Stock Awards Plan provides for the issuance of incentive and
+non-qualified stock options, restricted stock and other stock-based incentive
+awards for officers and key employees. The Stock Awards Plan permits the
+Compensation Committee of the Board of Directors to select eligible employees to
+receive awards and to determine the terms and conditions of awards. A total of
+1,100,000 shares were originally reserved for issuance under the Stock Awards
+Plan; on August 22, 1995, 250,000 additional shares were authorized for a total
+of 1,350,000 shares reserved for issuance under the Stock Awards Plan. As of
+March 31, 1996, no shares of restricted stock were issued, options to purchase
+761,998 shares of Common Stock were outstanding, and there were 581,109 shares
+available for future grants.
+In connection with the Distribution, each option to purchase Emulex common
+stock Old Emulex Options was converted into two separately exercisable
+options: one option to purchase Emulex common stock and one option to purchase
+Company common stock New QLogic Options. The exercise price of Old Emulex
+Options was allocated between the New QLogic Options based on relative stock
+market prices of the underlying common stock.
+Options granted under the Company Stock Awards Plan provide that an
+employee holding a stock option may exchange stock which the employee already
+owns as payment against the exercise of an option. This provision applies to all
+options outstanding at March 31, 1996.
+Under the terms of the Director Plan, each eligible director received an
+initial grant of stock options effective as of the Distribution Date. New
+directors receive, at fair market value, an option to purchase 12,500 shares of
+common stock of the Company upon election to the Board. A total of 125,000
+shares have been reserved for issuance under the Director Plan. As of March 31,
+1996, options for a total of 87,500 shares were outstanding and the remaining
+37,500 shares were available for grant.
+27
+28
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Stock option activity in 1996, 1995 and 1994 under the Company Stock
+Option Plans was as follows:
+AVERAGE OPTION
+PRICE PER
+SHARES     SHARE
+Conversion of old Emulex options to new QLogic options at
+the Distribution   657,607     $ 865
+Options granted at   112,500      650
+Options   12,180     1012
+Options outstanding at April 3, 1994.  757,927      831
+193,900      527
+79,073     840
+1,753     116
+Options outstanding at April 2, 1995.  871,001      766
+395,983      566
+407,346     735
+5,140     572
+Options outstanding at March 31, 1996.  854,498     $ 689
+At March 31, 1996, 365,553 share options were exercisable under the
+Company Stock Option Plans.
+NOTE 12 ACCRUED EXPENSES
+Components of accrued expenses are as follows:
+1996    1995
+$ 393   $ 356
+362    416
+2,463    765
+$3,218   $1,537
+NOTE 13 CONDENSED QUARTERLY RESULTS UNAUDITED
+The following summarizes certain unaudited quarterly financial information
+for fiscal 1996, 1995 and 1994. Per share data for periods prior to the
+Distribution has not been presented because QLogic operated as a wholly-owned
+subsidiary of Emulex.
+THREE MONTHS ENDED
+JUNE    SEPTEMBER   DECEMBER   MARCH
+FISCAL 1996
+Net  $ 9,570   $13,105   $14,886   $16,218
+Operating income loss.  1,162     375     695    1,276
+Net income    724     214     444     732
+Net income loss per share.  013    004     008     013
+FISCAL 1995
+Net  $14,235   $15,349   $15,419   $12,672
+Operating    948    1,117    1,246      68
+Net    534     651     745      35
+Net income per share.   010     012     013     001
+28
+29
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+THREE MONTHS ENDED
+JUNE    SEPTEMBER   DECEMBER   MARCH
+1994Net  $12,986   $11,626   $ 8,923   $11,367
+Operating income loss.   575     505    4,924     313
+Net income    362     317    5,515     87
+NOTE 14 SHAREHOLDER RIGHTS PLAN UNAUDITED
+On June 4, 1996, the Board of Directors of the Company unanimously adopted
+a Shareholder Rights Plan the Rights Plan, pursuant to which it declared a
+dividend distribution of one preferred stock purchase right a Right for each
+outstanding share of the common stock.
+The Rights dividend will be payable on June 20, 1996 to the holders of
+record of shares of common stock on that date. Each Right entitles the
+registered holder, on certain events, to purchase from the Company 1/100th of a
+share of the Company Series A Junior Participating Preferred Stock, par value
+$001 per share, 200,000 shares authorized and no shares issued or outstanding
+at June 4, 1996 the Series A Preferred Stock, at a price of $4500 per
+1/100th of a share, subject to adjustment.
+The Rights become exercisable i the 10th business day following the date
+of a public announcement that a person or a group of affiliated or associated
+persons an Acquiring Person has acquired beneficial ownership of 15% or more
+of the outstanding shares of common stock, or ii the 10th business day
+following the commencement of, or announcement of an intention to make a tender
+offer or exchange offer the consummation of which would result in the person or
+group making the offer becoming an Acquiring Person the earlier of the dates
+described in clauses i and ii being called the Date of Distribution.
+The Rights held by an Acquiring Person or its affiliates are not
+exercisable. All shares of common stock that will be issued prior to the
+Distribution Date will include such Rights. The Rights will expire at the close
+of business on June 4, 2006 the Scheduled Expiration Date, unless prior
+thereto the Date of Distribution occurs, or unless the Scheduled Expiration Date
+is extended.
+In the event the Company assets are liquidated, the holders of the shares
+of Series A Preferred Stock will be entitled to an aggregate payment of $100
+per share or 100 times the payment to be distributed per share of common stock,
+whichever is greater. Each share of Series A Preferred Stock will have 100
+votes, voting together with the shares of common stock. Finally, in the event of
+any merger, consolidation or other transaction in which shares of common stock
+are exchanged, each share of Series A Preferred Stock will entitle the holder to
+receive 100 times the amount received per share of common stock, subject to
+adjustment.
+Holders of Rights will be entitled to purchase shares or assets of the
+Company or an Acquiring Person with a value that is double the exercise price in
+the event of certain acquisitions involving the Acquiring Person, directly or
+indirectly.
+29
+30
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Item 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE.
+None.
+PART III
+Item 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+Reference is made to the Company Definitive Proxy Statement for its 1996
+Annual Meeting of Stockholders, to be filed with the Securities and Exchange
+Commission within 120 days after the end of fiscal 1996, for information
+relating to the Company Directors. Such information is incorporated herein by
+reference.
+See the information presented in Part I of this report under the heading
+Executive Officers of the Registrant for information relating to the Company
+executive officers.

@@ -1,0 +1,752 @@
+ITEM8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA  The Financial Statements and Supplementary Data required by this item are filed as part of this Form 10-K. See Index to Consolidated Financial Statements
+on page 38 of this Form 10-K. 
+36 Table of Contents
+MANAGEMENTS RESPONSIBILITY FOR FINANCIAL REPORTING  The accompanying consolidated financial statements of iGate Corporation and
+subsidiaries have been prepared by management, which is responsible for their integrity and objectivity. The statements have been prepared in conformity with accounting principles generally accepted in the United States of America and necessarily
+include amounts based on managements best estimates and judgments.  The Companys consolidated financial statements for the year ended December 31, 2004 have been audited by PricewaterhouseCoopers LLP, Independent Registered Public Accounting Firm, whose report thereon appears on
+pages 39 and 40 of this Form 10-K.  The Board of Directors
+pursues its responsibility for the Companys financial reporting and accounting practices through its Audit Committee, all of the members of which are independent directors. The Audit Committees duties include recommending to the Board of
+Directors the Independent Registered Public Accounting Firm to audit the Companys financial statements, reviewing the scope and results of the independent accountants activities and reporting the results of the committees activities to
+the Board of Directors. The Independent Registered Public Accounting Firm has met with the Audit Committee in the presence of management representatives to discuss the results of their audit work. The Independent Registered Public Accounting Firm
+has direct access to the Audit Committee.  Sunil Wadhwani Co-Chairman, Chief Executive Officer, and Director  Michael J. Zugay Senior Vice-President and Chief Financial Officer
+37 Table of Contents
+iGATE CORPORATION  INDEX TO
+CONSOLIDATED FINANCIAL STATEMENTS  Page
+Report of Independent Registered Public Accounting Firm
+39 
+Consolidated Balance Sheets as of December 31, 2004 and 2003
+41 
+Consolidated Statements of Operations for the years ended December 31, 2004, 2003 and 2002
+42 
+Consolidated Statements of Shareholders Equity and Comprehensive Loss for the years ended December31, 2004, 2003 and 2002
+43 
+Consolidated Statements of Cash Flows for the years ended December 31, 2004, 2003 and 2002
+44 
+Notes to Consolidated Financial Statements
+45
+38 Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  To the Board of Directors and Shareholders of iGate Corporation:  We were engaged to perform an integrated audit of iGate Corporations 2004 consolidated financial statements and of its internal control over financial reporting as of December 31, 2004 in accordance with the
+standards of the Public Company Accounting Oversight Board United States. We have audited the Companys 2004, 2003 and 2002 consolidated financial statements in accordance with the standards of the Public Company Accounting Oversight Board
+United States. Our opinion on the consolidated financial statements, based on our audits of those consolidated financial statements, is presented below. However, as explained more fully below, the scope of our work was not sufficient to enable us
+to express, and we do not express, an opinion on the effectiveness of the Companys internal control over financial reporting as of December 31, 2004.  Consolidated financial statements and financial statement schedule  In our opinion, the consolidated financial statements listed in the index appearing under  a1 present fairly, in
+all material respects, the financial position of iGate Corporation and its subsidiaries at December 31, 2004 and 2003, and the results of their operations and their cash flows for each of the three years in the period ended December 31, 2004 in
+conformity with accounting principles generally accepted in the United States of America. In addition, in our opinion, the financial statement schedule listed in the index appearing under a2 presents fairly, in all material respects, the
+information set forth therein when read in conjunction with the related consolidated financial statements. These financial statements and financial statement schedule are the responsibility of the Companys management. Our responsibility is to
+express an opinion on these financial statements and financial statement schedule based on our audits. We conducted our audits of these statements in accordance with the standards of the Public Company Accounting Oversight Board United States.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit of financial statements includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, and evaluating the overall financial statement presentation. We believe that our audits
+provide a reasonable basis for our opinion.  Internal
+control over financial reporting  The Company has not
+reported on its assessment of the effectiveness of internal control over financial reporting. Accordingly, the scope of our work was not sufficient to enable us to express, and we do not express, an opinion on the effectiveness of the Companys
+internal control over financial reporting.  A material weakness
+is a control deficiency, or combination of control deficiencies, that results in more than a remote likelihood that a material misstatement of the annual or interim financial statements will not be prevented or detected. Although management has not
+reported on its assessment of the effectiveness of the Companys internal control over financial reporting as of December 31, 2004, management has identified the following material weaknesses as of December 31, 2004.  Management has concluded that, as of December 31, 2004, the Company did not
+maintain effective controls over the accounting for customer accounts receivable and the corresponding revenue, the Company had ineffective controls over the application and monitoring of cash payments received from customers and the issuance of
+customer credit memos and discounts. This deficiency resulted in an audit adjustment to the fourth quarter 2004 consolidated financial statements. Additionally, this control deficiency could result in a misstatement to customer accounts receivable
+that could result in a material misstatement to the annual or interim consolidated financial statements that would not be prevented or detected. Accordingly, management has concluded that this control deficiency constitutes a material weakness.
+Also, management has concluded that, as of December 31, 2004,
+the Company did not maintain effective controls over the calculation and review of deferred compensation and the corresponding compensation 
+39 Table of Contents
+expense. Specifically, the Companys controls did not identify a computational error in determining the amount of compensation expense to be recognized
+from the cancellation of 21 million shares of restricted stock and the related cash payments made to the Quintant Inc. founders. This deficiency resulted in an audit adjustment to the fourth quarter 2004 consolidated financial statements.
+Additionally, this deficiency could result in a misstatement to deferred compensation expense that would result in a material misstatement to the annual or interim consolidated financial statements that would not be prevented or detected.
+Accordingly, management has concluded that this control deficiency constitutes a material weakness.  The existence of one or more material weaknesses as of December 31, 2004 would preclude a conclusion that the Companys internal control over
+financial reporting was effective as of that date. These material weaknesses were considered in determining the nature, timing, and extent of audit tests applied in our audit of the 2004 consolidated financial statements, and our disclaimer of
+opinion regarding the effectiveness of the Companys internal control over financial reporting does not affect our opinion on those consolidated financial statements.  PRICEWATERHOUSECOOPERS LLP  Pittsburgh, PA April 6, 2005 
+40 Table of Contents
+iGATE CORPORATION  CONSOLIDATED
+BALANCE SHEETS  At December 31 2004 2003 Dollars in thousands, exceptper share amounts ASSETS Current assets Cash and cash equivalents 28,201 36,133 Short-term investments 35,863 39,582 Accounts receivable, net of allowance for uncollectible accounts of $3,892 and $2,283, respectively 47,451 39,277 Unbilled receivables 13,912 7,660 Employee advances 1,353 1,971 Prepaid and other current assets 5,632 5,311 Prepaid income taxes 435 792 Deferred income taxes 2,304 4,545 Current assets of discontinued operations 7,182 Total current assets 135,151 142,453 Investments in unconsolidated affiliates 3,951 2,931 Land, building, equipment and leasehold improvements, at cost Land and building 8,124 3,710 Equipment 47,931 37,336 Leasehold improvements 3,209 3,648 59,264 44,694 Lessaccumulated depreciation 33,450 28,211 Net land, building, equipment and leasehold improvements 25,814 16,483 Goodwill 9,398 8,624 Intangible assets, net 5,918 8,262 Noncurrent assets of discontinued operations 2,187 Total assets 180,232 180,940 LIABILITIES AND SHAREHOLDERS EQUITY Current liabilities Accounts payable 8,636 9,092 Accrued payroll and related costs 16,662 16,896 Accrued income taxes 2,019 1,122 Other accrued liabilities 9,555 5,858 Restructuring reserve 3,692 3,354 Deferred revenue 653 994 Current liabilities of discontinued operations 88 3,844 Total current liabilities 41,305 41,160 Restructuring reserve 3,777 1304 Other long-term liabilities 564 Deferred income taxes 9,520 8,719 Noncurrent liabilities of discontinued operations 748 Total liabilities 55,166 51,931 Minority interest 13,366 6,874 Commitments and contingencies Shareholders equity Preferred Stock, without par value: 20,000,000 shares authorized, 1 share of Series A Preferred Stock held in treasury in 2004 and 2003,
+respectively Common Stock, par value $001 per share: 100,000,000 shares authorized, 53,502,448 and 52,788,351 shares issued at December 31, 2004 and 2003,
+respectively 535 529 Additional paid-in capital 161,345 160,336 Accumulated deficit 36,710 18,499 Deferred compensation 1,934 8,933 Common Stock held in treasury, at cost, 990,102 and 964,443 shares at December 31, 2004 and 2003, respectively 14,714 14,714 Accumulated other comprehensive income 3,178 3,416 Total shareholders equity 111,700 122,135 Total liabilities and shareholders equity 180,232 180,940  The accompanying notes
+are an integral part of these consolidated financial statements. 
+41 Table of Contents
+iGATE CORPORATION  CONSOLIDATED
+STATEMENTS OF OPERATIONS  Year Ended December 31 2004 2003 2002 Dollars in thousands, except pershare data Revenues 264,585 240,634 250,851 Cost of revenues 197,577 171,654 173,247 Gross margin 67,008 68,980 77,604 Selling, general and administrative 82,079 72,936 72,444 Gain on sale of land 3,615 Restructuring charges 5,805 604 4,232 Goodwill impairment 25,964 Loss from operations 17,261 4,560 25,036 Interest income 901 2,657 2,895 Interest expense 143 155 1,559 Other expense income, net 616 942 127 Equity in losses of affiliated companies 335 99 Minority interest 677 312 441 Gain on deconsolidation of subsidiary 7,086 Loss on venture investments and affiliated companies 28 7,610 Loss from continuing operations before income taxes 16,899 3,439 24,538 Income tax expense benefit 5,130 2,179 339 Loss from continuing operations 22,029 5,618 24,199 Income loss from discontinued operations, net of income taxes 3,818 3,402 3,292 Net loss 18,211 9,020 27,491 Net loss earnings per common share, basic Loss from continuing operations 042 011 047 Earnings loss from discontinued operations 007 007 006 Net lossBasic 035 017 054 Net loss earnings per common share, diluted Loss from continuing operations 042 011 047 Earnings loss from discontinued operations 007 007 006 Net lossdiluted 035 017 054 Weighted average common shares, basic 52,721 51,697 51,304 Weighted average common shares, diluted 52,721 51,697 51,304  The accompanying notes are an integral part of these consolidated financial statements.  
+42 Table of Contents
+iGATE CORPORATION  CONSOLIDATED
+STATEMENTS OF SHAREHOLDERS EQUITY AND COMPREHENSIVE LOSS Common Stock Series A PreferredShares Additional Paid-in Capital Accumulated Deficit Deferred Compensation Treasury Stock Accumulated Other Comprehensive Income Loss Total Shareholders Equity Comprehensive Loss Shares Par Value Dollars in thousands Balances, December 31, 2001
+52,245,436 524
+1 142,985 18,012 204 14,714 3,227 143,376 Exercise of stock options, including tax benefit recognized of $01 million
+161,457 1 583 584 Treasury stock transactions 1
+964,443 1 Amortization of deferred compensation 102 102 Comprehensive income Unrealized gain on investments, net of tax of $01 million 246 246 246 Reclassification adjustment for gains realized in net loss, net of tax of $01 million 192 192 192 Currency translation adjustment 524 524 524 Net loss 27,491 27,491 27,491 26,913 Balances, December 31, 2002
+51,442,450 525 143,568 9,479 102 14,714 2,649 117,149 Exercise of stock options, including tax benefit recognized of $03 million
+273,422 3 891 894 Shares sold to employees
+108,036 1 308 309 Restricted stock award 15,569 10,462 5,107 Amortization of deferred compensation 1,631 1,631 Comprehensive income Unrealized gain on investments, net of tax of $04 million 670 670 670 Reclassification adjustment for gains realized in net loss 760 760 760 Currency translation adjustment 6,155 6,155 6,155 Net loss 9,020 9,020 9,020 2,955 Balances, December 31, 2003
+51,823,908 529 160,336 18,499 8,933 14,714 3,416 122,135 Exercise of stock options, including tax benefit recognized of $03 million
+178,173 1 802 803 Treasury stock transactions
+25,659 Shares issued to employees
+455,924 4 1,327 1,331 Restricted stock award
+80,000 1 293 294 Modification of Quintant acquisition agreement 1,413 1,413 Amortization of deferred compensation 7,293 7,293 Comprehensive income Unrealized loss on investments, net of tax 73 73 73 Reclassification adjustment for gains realized in net loss 121 121 121 Currency translation adjustment 44 44 44 Net loss 18,211 18,211 18,211 18,449 Balances, December 31, 2004
+52,512,346 535 161,345 36,710 1,934 14,714 3,178 111,700 1
+The Company has reclassified all stock held in Treasury to reflect only outstanding common stock.  The accompanying notes are an integral part of these consolidated financial statements.  
+43 Table of Contents
+iGATE CORPORATION  CONSOLIDATED
+STATEMENTS OF CASH FLOWS  Year Ended December 31 2004 2003 2002 Dollars in thousands CASH FLOWS FROM OPERATING ACTIVITIES Operations Net loss 18,211 9,020 27,491 Adjustments to reconcile net loss to cash used provided by operations Income loss from discontinued operations, net of tax 3,818 3,402 3,292 Depreciation and amortization 8,720 5,935 6,389 Net gain on deconsolidation of itiliti, net of cash 7,086 Impairment of goodwill 3,933 29,688 Gain on sale of stock of subsidiaries 296 Gain on sale of land 3,615 Gain on other investments 866 Allowance for uncollectible accounts 1,528 235 68 Deferred income taxes, net 2,972 517 2,684 Loss on venture investments and affiliated companies 324 7,610 Loss on impairment of property and equipment 373 826 Equity in losses of affiliated companies 335 99 Minority interest 677 312 441 Stock issued to employees 1,331 Discount on stock sold to employees 1,811 Amortization of deferred compensation 7,293 1,631 102 Amortization of bond premium 1,222 Working capital items excluding effects of divestitures Accounts receivable and unbilled receivables 14,358 4,180 12,614 Employee advances 689 39 978 Prepaid and other current assets 1,320 3,436 8,445 Accounts payable 590 2,225 1,849 Accrued and other current liabilities 8,042 12,603 1,893 Restructuring reserves 2,891 2,535 3,376 Deferred revenue 369 2,843 755 Net cash flows used provided by continuing operations 8,761 14,736 26,603 Cash flows provided by discontinued operations 1,002 596 1,656 Net cash flows used provided by operating activities 7,759 14,140 28,259 CASH FLOWS FROM INVESTING ACTIVITIES Additions to equipment and leasehold improvements, net 14,934 6,305 1,365 Purchases of investments 36,359 8,003 112,284 Sales of investments 40,689 21,399 103,155 Sales of investments in unconsolidated affiliates 1,418 35 Investments in unconsolidated affiliates 1,612 1,942 Acquisitions, net of cash acquired 648 15,396 Proceeds from sale of land 4,780 Proceeds from sale of affiliates, net of cash sold 7,180 Acquisitions of minority units 850 Contingent consideration for acquisitions 1,026 4,879 Net cash flows provided used by investing activities 904 9,855 16,188 CASH FLOWS FROM FINANCING ACTIVITIES Payments on convertible promissory note 10,000 Proceeds from issuance of stock by subsidiary 1,092 Net proceeds from exercise of stock options 1,880 1,033 540 Net cash flows provided used by financing activities 2,972 1,033 9,460 Effect of currency translation 2,241 2,302 256 Net change in cash and cash equivalents 7,932 20,660 2,355 Cash and cash equivalents, beginning of year 36,133 56,793 54,438 Cash and cash equivalents, end of year 28,201 36,133 56,793 SUPPLEMENTAL DISCLOSURE Cash payments for interest 725 Cash payments for income taxes 576 908 3,516 NON-CASH INVESTING AND FINANCING ACTIVITIES Unrealized loss gain on investments 194 90 54 Common stock issued for acquisition 15,569 Capitalized leases 769 The accompanying notes are an integral part of these consolidated financial statements. 
+44 Table of Contents 
+iGATE CORPORATION  NOTES TO
+CONSOLIDATED FINANCIAL STATEMENTS  AS OF DECEMBER 31,
+2004 AND 2003 
+1.Summary of Significant Accounting Policies  a Nature of Business  iGate Corporation the Company is a worldwide provider of
+information technology IT and Offshore Outsourcing services to large and medium-sized organizations.  b Principles of Consolidation  The Consolidated Financial Statements include the accounts of the Company and its wholly-owned and majority-owned subsidiaries. All material intercompany
+transactions and balances have been eliminated in consolidation. The Company accounts for investments in businesses in which it owns between 20% and 50% of equity or otherwise acquires management influence using the equity method as prescribed by
+Accounting Principles Board Opinion No. 18, The Equity Method of Accounting for Investments in Common Stock. Investments in which the Company acquires less than a 20% interest, or in which the Company does not acquire management influence,
+are accounted for using the cost method of accounting or, if publicly traded, as available-for-sale securities.  c Uses of Estimates  The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to
+make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the
+reporting period. Actual results could differ from those estimates.  d Reclassifications  Certain amounts in
+previously issued financial statements were reclassified to conform to 2004 presentations. See Note 13 for further information.  e Cash and Cash Equivalents  Cash and cash equivalents are defined as cash and highly liquid investments with maturities of three months or less when purchased. Cash equivalents are
+stated at cost, which approximates market value.  f
+Short-Term Investments  Short-term investments consist of
+money market funds and corporate bonds and are stated at cost which approximates fair value.  g Accounts Receivable and Unbilled Receivables  The Company extends credit to clients based upon managements assessment of their creditworthiness. Substantially all of the Companys revenues and the resulting accounts receivable are from Fortune 500
+companies, major systems integrators and governmental agencies.  Unbilled receivables represent amounts recognized as revenues for the periods presented based on services performed in accordance with the terms of client contracts that will be invoiced in subsequent periods. 
+45 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+h Allowance for Uncollectible Accounts  Accounts receivables are reviewed periodically to determine the probability
+of loss. The allowance for uncollectible accounts is determined using the combination of the specific identification method for balances deemed uncollectible, as well as judgments made by the Company based upon historical and expected charge-off
+experience.  i Employee Advances  Employees can be advanced up to $2,500 at the discretion of the Company.
+Normally, advances are based upon financial need at date of hire. Advances are deducted from the employees salary over a six-month period or until paid in full. 
+j Investments in Unconsolidated Affiliates  The Company accounts for its investments in marketable equity securities in accordance with Statements of Financial Accounting Standards
+SFAS No. 115, Accounting for Certain Investments in Debt and Equity Securities SFAS 115. The Company has determined that certain of its investments in marketable equity securities are classified as
+available-for-sale and recorded at fair value, utilizing the investments closing price at each reporting period. These investments are recorded on the balance sheet at market value, with the unrealized gains or losses, net of tax, reported as a
+component of accumulated other comprehensive income in the Consolidated Statement of Shareholders Equity and Comprehensive Loss. The unrealized gain or loss is the difference between the Companys original cost for an investment and the
+investments fair value at each reporting period. Realized gains or losses on securities sold are calculated using the specific identification method.  If management determines that an investment in available for sale securities has sustained an other-than-temporary decline in its value, the investment is
+written down to its fair value, by a charge to earnings. Such evaluation is dependent on the specific facts and circumstances. Factors that are considered by the Company in determining whether an other-than-temporary decline in value has occurred
+include: the market value of the security in relation to its cost basis; the financial condition of the investee; and the intent and ability to retain the investment for a sufficient period of time to allow for recovery in the market value of the
+investment.  In evaluating these factors above, management
+presumes a decline in value to be other-than-temporary if the market price of the security is 20% or more below the investments cost basis for a period of six months or more the 20% criteria. However, the presumption of an
+other-than-temporary decline in these instances may be overcome if there is persuasive evidence indicating that the decline is temporary in nature e.g., strong operating performance of investee, historical volatility of investee, etc.
+Additionally, there may be instances where impairment losses are recognized even if the 20% criteria is not satisfied e.g., plan to sell the security in the near term and the fair value is below the Companys cost basis. During 2003 and 2002,
+the Company incurred impairment losses deemed to be other-than-temporary. These impairments are disclosed in Note 6. No such impairment losses were incurred in 2004.  For investments accounted for using the cost or equity method of accounting, management evaluates information e.g.,
+budgets, business plans, financial statements, etc. in addition to quoted market price, if any, in determining whether an other-than-temporary decline in value exists. Factors indicative of an other-than-temporary decline include recurring
+operating losses, credit defaults and subsequent rounds of financings at an amount below the cost basis of an investment. This list is not all inclusive and management weighs all quantitative factors in determining if an other-than-temporary decline
+in value of an investment has occurred. 
+46 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+k Land, Building, Equipment and Leasehold Improvements  Property and equipment are stated at cost. The Company provides for
+depreciation using the straight-line method over the estimated useful lives. Upon disposal, assets and related accumulated depreciation are removed from the Companys accounts and the resulting gains and losses are reflected in loss from
+operations in the Consolidated Statements of Operations. Repairs and maintenance are charged to expense as incurred. Improvement and betterments that extend the useful life of an asset are capitalized.  The estimated useful lives of depreciable assets are as follows:  Building
+25 years
+Equipment
+35 years
+Leasehold Improvements
+Shorter of the life of the improvement or lease term ranging from 3 to 10 years
+l Goodwill and
+Intangible Assets  Goodwill is the excess of purchase
+price over the value of the net assets acquired. Under SFAS 142, Goodwill and Other Intangible Assets, goodwill and intangibles with indefinite useful lives are no longer amortized but will be subject to, at a minimum, an annual impairment
+assessment of their carrying value. Under SFAS 142, goodwill impairment is deemed to exist if the net book value of a reporting unit exceeds its estimated fair value. Estimated fair values of reporting units underlying the segments were estimated
+using either a discounted cash flow methodology, recent comparable transactions or a combination thereof. For further discussions, see Note 5.  The cost of other acquired intangibles is amortized on a straight-line basis over their estimated useful lives.  The estimated useful lives of intangible assets are as follows:  Intellectual property
+35 years
+Customer relationships
+36 years
+Beneficial employment contracts
+4 years
+The Company assesses
+the carrying value of its long-lived assets, including land, building, equipment and leasehold improvement and amortizable intangible assets, whenever economic events or changes in circumstances indicate that the carrying values of the assets may
+not be recoverable. Long-lived assets are considered to be impaired when the sum of the undiscounted expected future net operating cash flows is less than the carrying values of the related assets.  m Income Taxes  Deferred income taxes are provided for the temporary differences between the
+financial reporting basis and the tax basis of the Companys assets and liabilities. The Company has evaluated its deferred tax asset and has recorded a valuation allowance where appropriate. 
+47 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+Historically, the government of India has provided incentives, in the form of tax holidays, to
+encourage foreign investment. Under the Indian Income Tax Act, 1961, the Companys Indian subsidiary is eligible to claim a tax holiday for 10 consecutive assessment years on profits derived from the export of software services from divisions
+registered under the Software Technology Parks at Bangalore, Chennai and Pune. The benefits of the holiday will expire for certain of the units beginning in 2005.  The Company has not provided for U.S. deferred income taxes or foreign withholding tax on basis differences in its non-U.S.
+subsidiaries of $58 million that result primarily from undistributed earnings the Company intends to reinvest indefinitely. Determination of the deferred income tax liability on these basis differences is not practicable because such liability, if
+any, is dependent on circumstances existing if and when remittance occurs.  n Minority Interest  Minority interest represents the proportionate share of outside equity holders. At December 31, 2004 and 2003, the Company had outside equity holders for the following Companies:  Percentage OutsideOwnership 2004 2003 iGate Global Solutions Ltd. iGS.
+179 12 Quintant, Inc. Quintant
+179 6 iGate Clinical Research International 10 DiagnoSearch
+5 5  iGS is a publicly held
+Company in India. All outside shareholders may vote.  o
+Disclosures about Fair Value of Financial Instruments  The
+following methods and assumptions were used to estimate the fair value of each class of financial instrument for which it is practicable to estimate that fair value:  Cash and short-term investmentsThe carrying amount approximates market value.  Accounts receivableThe carrying amount approximates market.
+Revolving credit facilityThe carrying amount
+approximates market value. The outstanding balance is reflected at its outstanding face value, excluding unpaid accrued interest at an interest rate at the lesser of the current LIBOR rate+125% or the Prime rate +025%, calculated on a per annum
+basis.  Accounts payableThe carrying amount
+approximates market. 
+48 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+p Derivatives Instruments and Hedging Activities  The Company uses derivative financial instruments for the purpose of hedging
+currency, price, and interest rate exposures, which exist as part of ongoing business operations. The Company carries derivative instruments on the balance sheet at fair value, determined by reference to quoted market prices. Derivatives are
+included in other assets and other liabilities based on the instruments fair value. The accounting for changes in the fair value of a derivative instrument depends on whether it has been designated and qualifies as part of hedging relationship
+and, if so, the reason for holding it. The cash flows related to derivative instruments are classified in the consolidated statements of cash flows within operating activities as a component of other items, net.  The Company recorded $01 million in other income in 2004 and $01 million in
+other expense in 2002 related to its foreign currency hedging transactions. The Company had no derivative gains or losses in 2003.  At December 31, 2002, the Company liquidated its only foreign exchange contract for $60 million Canadian dollars at rate of 15738 or U.S. $38 million.
+As a result of the sale, the Company realized a loss of $01 million in 2002.  q Stock-Based Employee Compensation  The Company has stock-based employee compensation plans, which are described more fully in Note 11. SFAS No. 123, Accounting for Stock-Based Compensation, SFAS 123 gives companies the option to
+adopt the fair value method for expense recognition of employee stock options or to continue to account for employee stock options using the intrinsic value method, as outlined under Accounting Principles Board Opinion No. 25, Accounting for
+Stock Issued to Employees APB 25. The Company has elected to continue to apply the intrinsic value method to account for employee stock options and discloses the pro forma effect as if the fair value method had been applied.
+The following table illustrates the effect on net loss per share if the Company had applied the fair value recognition provisions of SFAS 123 to stock-based employee compensation:  Year ended December 31 2004 2003 2002 in thousands, except per shareamounts Net Loss, as reported 18,211 9,020 27,491 Add: Deferred and other stock-based compensation expense reported in earnings 14,296 1,631 102 Less: Total stock-based employee compensation expense determined under fair value method for all awards and deferred compensation
+expense 15,076 2,298 600 Pro forma net loss 18,991 9,687 27,989 Earnings per share Basic and diluted As reported 035 017 054 Pro forma 036 019 055 
+49 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+The fair value of each option granted is estimated on the date of grant using the Black-Scholes
+option pricing model. The weighted average fair values of options granted and the assumptions used are as follows:  Year Ended December 31, 2004
+iGate iGS Weighted average fair values of options granted during 2004 328 640 Risk-free interest rate 35 34 Expected dividend yield 00 00 Expected life of options 5years 4years Expected volatility rate 898 755 Year Ended December 31, 2003
+iGate iGS Weighted average fair values of options granted during 2003 400 421 Risk-free interest rate 33 35 Expected dividend yield 00 00 Expected life of options 5 years 4 years Expected volatility rate 660 730 Year Ended December 31, 2002
+iGate iGS Weighted average fair values of options granted during 2002 404 367 Risk-free interest rate 40 40 Expected dividend yield 00 00 Expected life of options 5 years 4 years Expected volatility rate 790 790  r Currency
+Translation Adjustment  For all significant foreign
+operations, the functional currency is the local currency. Assets and liabilities of these operations are translated at the exchange rate in effect at each year-end. Statement of Operations accounts are translated at the average exchange rate
+prevailing during the year. Translation adjustments arising from the use of differing exchange rates from period to period are included as a component of other comprehensive loss. Gain and losses from foreign currency transactions are included in
+other expense income, net for the periods presented.  Foreign
+exchange gains or losses on intercompany loans from the Company to its operating subsidiaries are recorded as a component of other income if payment is expected in the foreseeable future based upon mutually agreed upon payment terms.  s Revenue Recognition  The Company recognizes revenue on time-and-materials contracts as the
+services are performed. Revenue is earned when the Company consultants are working on projects. Revenue recognition is negatively impacted by national holidays and consultant vacation and sick days. Revenues on fixed-price contracts are recognized
+using the proportional performance method. Performance is determined by relating the actual cost of work performed to date to the estimated total cost for each contract and revenue is recognized based upon costs incurred by the Companys
+consultants during the period. If the estimate indicates a loss on a particular fixed-price contract, a provision is made for the entire estimated loss without reference to the stage of completion. Changes in job performance, conditions and
+estimated profitability may result in revisions to costs and revenues and are 
+50 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+recognized in the period in which the changes are identified. Contracts with deliverables or project milestones recognize revenue as the deliverables or
+project milestones are achieved. Contracts with deliverables or project milestones can provide for certain penalties if the deliverables or project milestones are not met within contract timelines. Certain maintenance type contracts with no stated
+deliverables, with a designated workforce assigned, recognize revenues on a straight-line basis over the life of the contract, which are typically one year in duration. Revenue on these contracts is ratable and predetermined based upon the
+negotiated contract.  In certain client situations, where the
+nature of the engagement requires it, we utilize the services of other companies in our industry. If these services are provided under an arrangement whereby we agree to retain only a fixed portion of the amount billed to the client to cover our
+management and administrative costs, we classify the amount billed to the client as subcontractor revenue. These revenues, however, are recorded on a gross versus net basis because we retain credit risk and are the primary obligor to our client. All
+revenue derived from services provided by our employees or other independent contractors who work directly for us are recorded as direct revenue.  t Software Implementation Costs  The Company accounts for costs incurred for its own information systems upgrades in accordance with Statement of Position 98-1 SOP 98-1
+Accounting for the Costs of Computer Software Developed or Obtained for Internal Use. SOP 98-1 requires that both internal and external costs incurred during the preliminary project stage should be charged to operations as
+incurred. Such costs incurred during the application developement stage should be capitalized; training costs incurred in this stage should, however, be expensed. Costs of upgrades and enhancements should be capitalized but only during the
+application development stage if it is probable that the expenditures will result in added functionality for the software. During the post-implementation/operation stage, training costs both internal and external and maintenance costs should be
+charged to operations.  u Gains on Issuance of Stock by
+Subsidiaries  At the time a subsidiary sells its stock to
+unrelated parties at a price in excess of its book value, the Companys investment in that subsidiarys net assets increases. If at that time, the subsidiary is not a newly- formed, non-operating entity, nor a research and development,
+start-up, or development-stage company, nor is there a question as to the subsidiarys ability to continue in existence, the Company records the increase as a gain in its Consolidated Statement of Operations.  v Acquisitions  The Companys acquisitions are accounted for using the purchase method.
+The purchase price is allocated to the assets acquired and liabilities assumed based on their estimated fair market values. Any excess purchase price over the fair market value of the net assets acquired is recorded as goodwill. For all
+acquisitions, operating results are included in the Consolidated Statement of Loss since the dates of the acquisitions. See Note 12 for additional information. 
+w Discontinued Operations  The Company adopted SFAS No. 144, Accounting for the Impairment or Disposal of Long-Lived Assets, SFAS 144 effective January 1,
+2002. This standard establishes accounting and reporting requirements for the impairment or disposal of long-lived assets. The Company applied the provisions of SFAS 144 related to the sale of its Australian Australia and Direct
+Resources International DRI subsidiaries in 2004. 
+51 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+Managements plan to divest and the divestures both occurred within the same period for
+reporting purposes. Australia and DRI were classified in the Consolidated Financial Statements as discontinued operations. The balance sheet amounts and statement results were reclassified to discontinued operations for both the Balance Sheet and
+Statement of Operations presentation. The discontinued operations on the Statement of Operations were reported, net of applicable statutory taxes and net of gains on the sales of Australia and DRI. Additionally, segment information does not include
+the results of businesses classified as discontinued operations. The Companys management does not expect any continuing involvement with these businesses following the sales.  x Net Loss per Share  The Company calculates net loss per share based on the weighted average number of common shares outstanding. Because the Company was in a loss position,
+it did not include any stock options outstanding whose exercise price were below the average market price or the effect of a convertible promissory note Note 15 as their effect would be considered antidulitive.  y Recently Issued Accounting Standards  In December 2004, the Financial Accounting Standards Board
+FASB issued FASB No. 123 R, Share-based Payment. FASB No. 123 R requires employers to value share-based payments using the fair value method, eliminating the option to use the intrinsic method to value such payments. FASB
+No. 123 R is effective for the third quarter of 2005. The Company is currently evaluating the effect of the provision of this statement on its Consolidated Financial Statements.  In January 2003, the FASB issued Interpretation No. 46 FIN 46, Consolidation of Variable Interest
+Entities. FIN 46 requires unconsolidated variable interest entities to be consolidated by their primary beneficiaries if the entities do not effectively disperse the risk and rewards of ownership among their owners and other parties involved.
+The provisions of FIN 46 are effective immediately to all variable entities created after January 1, 2003 and variable interest entities in which an enterprise obtains an interest in after that date. For variable interest entities created before
+this date, the provisions are effective July 31, 2003. On October 8, 2003, the FASB issued FASB Staff Position No. 46-e, which allows public entities, who meet certain criteria, to defer the effective date for applying the provisions of FIN No. 46
+to interests held by the public entity in certain variable interest entities or potential variable interest entities until the end of the first interim or annual period ending after December 15, 2003. On December 24, 2003, the FASB extended the
+effective date to periods ending after March 15, 2004. The adoption of this standard did not have a material impact on the Companys Consolidated Financial Statements.  The Financial Accounting Standards FASB issued FASB Staff Position FSP No. 109-2, Application
+of FASB No. 109, Accounting and Disclosure Guidance for the Foreign Earnings Repatriation Provisions with the American Jobs Creation Act of 2004 in December 2004. FSP 109-2 addresses the appropriate point at which a company should reflect in its
+financial statements the effect of the one-time tax benefit on the repatriation of foreign earnings. We have decided not to repatriate earnings under the Act. 
+2.Restricted Cash and Investments  The Company has short-term investments consisting of money market funds and corporate bonds that totaled $359 million and $396 million at December 31,
+2004 and 2003, respectively. Approximately $109million and $146 million of these funds at December 31, 2004 and 2003 are to be used exclusively by iGS due to Indian governmental restrictions. 
+52 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+The Company had compensating balances classified on the Consolidated Balance Sheet as short-term
+investments which consisted of money market funds that totaled $250 million at December 31, 2004 and 2003. The restrictions related to the Credit Facility are discussed in Note 7. The compensating balance may be withdrawn, but the availability of
+short-term lines of credit is dependent upon maintenance of such compensating balances.  3.Derivative Instruments and Hedging Activities  Summarized below are derivatives instruments consisting of foreign exchange contracts and a principal only SWAP agreement whose carrying values are not equal to their fair value at December 31, 2004. Fair values are
+based on quoted market prices at prevailing exchange rates and other available market information.  2004 USDCarryingValuein thousands USD Fair Valueinthousands Foreign Exchange Contracts Forwards $USD/India Rupee 117 117 Options $USD/India Rupee 141 141 $USD/India Rupee 6 6 Principal Only SWAP Mumbai Interbank Forward Offered Rates 135 135 Market to market net gain at December 31, 2004 117 117  4.Investments in Unconsolidated Affiliates  The Companys investments in unconsolidated affiliates, and its percentage of ownership interests, are presented at December 31, 2004, 2003 and 2003, respectively. The investments are grouped by the applicable
+method of accounting. All ownership interests set forth on the table have been calculated based on the issued and outstanding common stock of each entity, assuming the issuance of common stock on the conversion or exercise of preferred stock and
+convertible notes, but excluding the effect of unexercised options and warrants.  Percentage OwnedDecember 31 2004 2003 2002 Available-for-sale equity securities Scansoft Inc. f/k/a/ Speechworks International, Inc1 Red Hat, Inc Red Hat Cost method of accounting Air2Web, Inc. Air2Web 14 14 14 Peopleclick, Inc. 3 3 3 The Concours Group
+4 4 0 Equity method of accounting CIBER India Pvt Ltd.
+40 44 0 Software AG India Private Ltd.
+40 44 0 
+53 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003  Denotes less than 1%. During 2003 and 2002, the Company recorded impairment charges against its investment in Air2Web due to the Companys belief that there was an other-than-temporary decline in
+the value of the securities. In addition, the Companys investments in Ordercare, Inc. Ordercare, Bluewater Information Convergence, Inc. Bluewater, Brainbench, Inc. Brainbench, Xpede, Inc.
+Xpede and Escend Technologies, Inc. Escend have been impaired in prior periods to reflect the Companys belief that no return on capital will be realized. On August 19, 2002, itiliti sold its assets and liabilities to Peopleclick, Inc. Peopleclick for approximately 3% of Peopleclicks outstanding common stock. The
+Company has a $0 basis in its itiliti shares and has continued to assign a $0 basis to its investment in itiliti. Prior to the August 2002 sale of Peopleclick, the Company owned 49% of itiliti. 1
+In September 2003, Scansoft, Inc. acquired Speechworks. Common shares of Speechworks were converted into Scansoft common shares at a conversion rate of 86 to 1.
+Carrying Value and Cost Basis of Investments
+in Unconsolidated Affiliates  The following table
+summarizes the Companys investments in unconsolidated affiliates as of December 31, 2004 and 2003. Ownership interests are classified according to applicable accounting methods.  December 31, 2004
+December 31, 2003 CarryingValue
+CostBasis
+CarryingValue
+CostBasis Dollars in thousands
+Available-for-sale equity securities 464 358 589 358
+Equity method of accounting 316 468 257 356
+Cost method of accounting 3,171 3,020 2,085 2,094 3,951 3,846 2,931 2,808  Loss on Venture
+Investments and Affiliated Companies  In 2002, the United
+States economy had experienced a broad decline in the public equity markets, particularly in technology stocks, including investments held in the Companys investment portfolio. Similarly, the Company experienced a significant decline in value
+of its privately held investment in Air2Web. As a result, the Company recorded noncash pretax charges to reduce the carrying value of its Speechworks investment by approximately $06 million and its Air2Web investment by approximately $68 million
+in the fourth quarter of 2002. These investments experienced other-than-temporary declines using the criteria discussed in Note 1. In 2002, the Company sold its shares in Versata stock at a loss of $02 million.  In 2003, management evaluated its available-for-sale investment portfolio and
+determined that no other-than-temporary decline existed under guidelines discussed in Note 1, and accordingly, no other-than-temporary losses were recorded. Management evaluated its investment in Air2Web and using guidelines previously discussed in
+Note 1, recorded a $03 million charge to reduce the carrying value in Air2Web. In 2003, the Company sold the remaining investment it held in Red Hat, Inc., recognizing a gain of $03 million. No additional impairment charges against the
+Companys investments in unconsolidated affiliates were recorded in 2004. 
+54 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+The following summarizes the activity in the Loss on Venture Investments and Affiliated
+Companies in millions:  December 31 2003 2002 Gain on sale of Red Hat stock 03 Impairment loss on Speechworks stock 06 Air2Web impairment loss 03 68 Loss on Versata sale 02 Total Net Loss 76  Equity in Losses of
+Affiliated Companies  The Company incurred equity losses
+of $03 million in 2004 and $01 million in 2003 related to CIBER and Software AG. In 2002, the Company did not incur any equity losses.  Gain on Deconsolidation of Subsidiary  On March 15, 2002, through the combination of a sale of new shares by itiliti to strategic investors and conversion of its bridge loan financing vehicle
+to voting equity securities, the Companys ownership interest in itiliti was reduced from 90% to 49%. Subsequent to the transaction date, the Company accounted for its interest in itiliti under the equity method of accounting due to its lack of
+a controlling interest in itiliti. In addition, the Company will have no future obligation to fund additional operating or financing requirements of itiliti. For the year ended December 31, 2002, the Company recorded a gain on deconsolidation of
+$71 million.  Components of Other Comprehensive Loss on
+Available for Sale Securities  The following table
+summarizes the Companys changes in other comprehensive loss on available for sale securities as of December 31, 2004, 2003 and 2002 in thousands:  2004 2003 2002 Gross unrealized loss 122 Gross unrealized gain 1,112 410 Reclassification adjustment for gains realized in net loss 121 760 192 Taxes allocated to unrealized gain loss 49 442 164 Change in other comprehensive loss income 194 90 54 
+55 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+5.Goodwill and Intangible Assets  The following tables present the reconciliation of changes in carrying value
+of goodwill and amortizable intangible assets for the years ended December 31, 2004 and 2003 in thousands:  iGateSolutions
+iGateProfessionalServices
+iGateCorporate
+Consolidated
+Goodwill at December 31, 2002  216  216
+Acquisitions 6,719 551 7,270
+Contingent consideration 1 1,026 1,026
+Foreign currency translation effect 112 112 Goodwill at December 31, 2003 7,857 216 551 8,624
+Adjustments 22 22
+Foreign currency translation effect 752 752 Goodwill at December 31, 2004 8,609 216 573 9,398 1Contingent consideration was paid in August 2003 and related to a prior acquisition. December 31, 2004
+December 31, 2003 GrossAmount
+AccumulatedAmortization
+GrossAmount
+AccumulatedAmortization
+Amortizable intangible assets Intellectual property 570 245 570 51
+Customer relationships 6,642 2,270 6,642 712
+Employment contracts 1,720 661 1,720 174
+Other costs 314 152 314 47 Total 9,246 3,328 9,246 984  Amortization expense
+related to identifiable intangible assets was $23 million, $10 million and $04million for the years ended December 31, 2004, 2003 and 2002, respectively. Estimated annual amortization for the years ended December 31, 2005 through 2009 is
+shown below:  2005 2,353
+2006 1,619
+2007 943
+2008 694
+2009 309
+6.Restructuring, Merger and Goodwill Impairment Charges  In 2004, the Company restructured its Canadian and United Kingdom operations. The Company incurred $09 million of early exit costs associated with its
+Toronto, Canada office. The Company incurred approximately $49 million related to the closing of its Red Brigade Ltd. office in Bracknell, UK, which was comprised of $46million of early exit costs associated with the closing and $03 million
+of non cash charges related to write-offs of leasehold improvements associated with the leased property. As part of the restructuring six employees were eliminated. These employees were executive level, administrative and back office support.
+56 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+In 2003, the Company recorded $01 million in severance related costs associated with the offshore
+outsourcing of certain of its back office finance and accounting functions at iGate Corporate. The 13 employees who were severed ranged from clerical to middle management. These costs were recognized in accordance with SFAS No. 146.  The following paragraphs discuss the Companys restructurings of its
+business. All costs associated with restructurings occurring in 2002 and 2001 were accounted for in accordance with EITF 94-3, Liability Recognition for Costs to Exit an Activity.  During the fourth quarter of 2002, the Company incurred $42 million of costs associated with a restructuring of certain of
+its business units as well as departments within the iGate corporate structure. The restructuring was due in part to iGSs agreed upon purchase of eJivas stock, to align the Companys business units to increase focus on global
+offshore delivery and to consolidate the Companys back office operations. The back office consolidation of operations included legal, accounting, marketing and human resource departments. As part of the restructuring, the Company vacated all
+non-essential properties and all remaining employees were relocated to a centralized location. As part of the restructuring, the Company eliminated 96 U.S. positions. These employees were executive level, back office support and administrative
+positions that were no longer being utilized. These actions were necessary due to the streamlining of the Companys back office operations and due to redundancies of effort. Of the total costs incurred as part of the restructuring, non-cash
+charges totaling $08million were related to write-offs of leasehold improvements on abandoned leased property. In 2003, the Company adjusted its original estimate of restructuring reserves, recognizing additional costs of $05 million related
+to rent expense due to the Companys inability to sub-lease its excess space.  In the third quarter of 2001, the continued economic downturn caused the Company to do an extensive review of its operations and certain overhead costs associated with each reportable segment. In August 2001, the
+Company approved a restructuring plan the plan. Based upon its revenue trends and the general economic environment, the Company decided to put a plan in place that would serve to cut excess costs in certain of the operating segments.
+As part of this plan, the Company recorded severance costs in the amount of $10 million. The Company reduced employee headcount by 84. These employees ranged from executive level through administrative assistants, and affected the iGate Solutions,
+iGate Professional Services and iGate Corporate segments. The Company also recorded a $24 million charge for a bonus for one of its key executives. The Company also performed an extensive fixed asset inventory in each reportable segment, in order
+to identify any fixed assets, such as laptops and computer equipment that were deemed to be in excess due to the headcount reduction. Based upon the fixed asset inventory, the Company recorded write-downs of $21 million. These write-downs of excess
+equipment were recorded in the iGate Solutions, iGate Professional Services and iGate Corporate segments. The Company also decided to exit its training function at the iGate Corporate level in favor of a more decentralized approach. Exit costs
+associated with the training department were $08 million and consisted of education-related licensing agreements entered into that would no longer be utilized. In the iGate Professional Services segment, the Company recorded a charge of $13
+million for lease costs associated with the closure of its office in San Francisco. The Companys total charge for the plan totaled $76 million. These steps were necessary due to declines in demand and overall headcount.  In December 2001, the Company severed 3 employees of its wholly owned
+subsidiary Global Financial Services of Nevada, ranging from executive level to general and administrative support and incurred a charge of $02 million. In December 2001, Innovative Resource Group, Inc. IRG, a majority-owned
+subsidiary of the Company, merged with and into eJiva. As part of the merger, eJiva incurred $14 million of merger related exit costs associated with a leased space in Pittsburgh, PA. The merged eJiva entity relocated to IRG office space.
+57 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+The components of the restructuring charges and the restructuring accrual at December 31, 2004, 2003
+and 2002 are as follows:  AccruedDecember31,2001
+ChargedtoExpense
+AssetWrite-downs 
+Cash Expenditures AccruedDecember31,2002
+2002 Severance and related items 1,166 884 282
+2002 Fixed assets write-downs 826 826 2002 Lease costs of office closure 2,240 45 2,195
+2001 Severance, bonus and related items 3,587 1,232 2,355
+2001 Lease costs of office closure 2,826 1,215 1,611 Total 6,413 4,232 826 3,376 6,443 AccruedDecember31,2002
+ChargedtoExpense
+AssetWrite-downs 
+Cash Expenditures AccruedDecember31,2003
+2003 severance and related items 80 80
+2002 severance and related items 282 282 2002 lease costs of office closure 2,195 524 3 1,241 1,481
+2001 severance, bonus and related items 2,355 45 595 1,805
+2001 lease costs of office closure 1,611 98 417 1,292 Total 6,443 604 146 2,535 4,658 AccruedDecember31,2003
+ChargedtoExpense
+AssetWrite-downs 
+Cash Expenditures AccruedDecember31,2004
+2004 lease costs of office closure 5,288 236 170 5,354
+2004 fixed assets write-downs 373 373 2004 severance and related items 144 144 2003 severance and related items 80 80 2002 lease costs of office closure 1,481 1,099 382
+2001 severance, bonus and related items 1,805 14 1,209 610
+2001 lease costs of office closure 1,292 20 189 1,123 Total 4,658 5,805 373 270 2,891 7,469  Goodwill Impairment
+As discussed in Note 1 on January 1, 2002, the Company
+adopted SFAS 142, which requires companies to cease amortizing goodwill and certain intangible assets with an indefinite useful life. Instead, SFAS 142 requires that goodwill and intangible assets deemed to have an indefinite useful life be reviewed
+for impairment upon adoption of SFAS 142 and, at a minimum, annually thereafter. 
+58 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+Under SFAS 142, goodwill impairment is deemed to exist if the net book value of a reporting unit
+exceeds its estimated fair value. Other than the allocation of goodwill, which is discussed below, the net book value of each of the Companys segments was generally based upon its carrying value. The Companys reporting units are
+generally consistent with the operating segments underlying the segments identified in Note 16. The Company performed a transitional impairment review during the first quarter of 2002, and concluded that no impairment was necessary.  During the fourth quarter of 2003, the Company reviewed its indefinite lived
+goodwill for impairment, using a discounted cash model to determine the market value of certain reporting units with assigned goodwill. Based upon the review, the Company was required to record impairment charges of $39 million related to its
+discontinued Australian operations.  During the fourth quarter
+of 2002, the Companys majority owned Indian subsidiary, iGS agreed to purchase its sister company, eJiva. The purchase consideration was $95 million. As part of Indian regulatory requirements, iGS was required to engage a third party to
+perform an independent valuation of eJiva in order to determine the purchase price consideration. The results of the valuation indicated that eJivas fair value was less than its carrying value. Due to this circumstance and in light of the
+continued economic downturn, the Company assessed its intangible assets for impairment in each one of its reporting units. As a result of the assessment of its reporting units, the Company recorded a noncash charge of approximately $297 million to
+reduce the carrying value of its goodwill. Goodwill was reduced by $243 million in the iGate Solutions segment and $17 million in the iGate Professional Services segment. An impairment charge of $260 million was recorded as a separate line item
+in the Companys 2002 Consolidated Statements of Operations. Impairment charges in the amount of $37million related to the Companys Australian operations is included as part of discontinued operations. The charge reflects overall
+market declines during 2002 in each of its operating segments.  7.Credit Facilities  On
+September 16, 2004, the Company renewed its secured credit facility Renewed Facility with PNC Bank N.A. PNC. The Renewed Facility provides a maximum loan amount of $250 million and is secured entirely by the
+Companys cash and cash equivalents. The provisions of the Renewed Facility requires the Company to maintain unrestricted cash and cash equivalents of at least $300 million and maintain tangible net worth of at least $880 million. The Company
+had one letter of credit outstanding in the amount of $03 million on the Renewed Facility as of December 31, 2004 and 2003, respectively. The Company did not file its Form 10-K by March 31, 2005. As a result, the Company violated an Affirmative
+Covenant under the Renewed Facility that requires the Company to deliver audited financial statements to PNC. PNC has waived the default provision. 
+59 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+8.Commitments  Lease Commitments  The Company rents certain office facilities and equipment under noncancelable operating leases, which provide for the following future minimum rental
+payments as of December 31, 2004:  Amount dollars inthousands
+Period ending December 31 2005 6,745
+2006 3,386
+2007 2,674
+2008 2,068
+2009 1,246
+Thereafter 1,555 Total 17,674  Rental expense was
+approximately $61 million, $49 million and $49 million for the years ended December 31, 2004, 2003 and 2002, respectively.  Other Commitments  As discussed in Note 6, the Company negotiated a severance bonus for a key executive in connection with a restructuring plan in 2001. At December 31,
+2001, the Company recorded a liability in the amount of $24 million, which was the present value of the future obligation under the agreement. The interest rate used to discount the liability was 575%. The Company paid the executive $10 million
+and $04 million, in 2004 and 2003, respectively, as part of the agreement. The Company will ultimately pay the executive $40 million through the expiration of the agreement on October 1, 2006.  In October 2003, the Company paid its entire $93 million obligation under a
+put option related to the Companys December 2001 eJiva merger. The payments were made to the three existing co-founders of IRG, which had previously been acquired by eJiva.  9.Contingencies  The Company settled its lawsuit with Convergys Information Management Group Inc. Convergys and Chubb Custom Insurance Group in May 2004.
+Under the Settlement, the Company agreed to pay a total of $04 million to Convergys to settle and dismiss any and all claims. The actual out-of pocket cost to the Company was $01 million as all other amounts including attorneys fees were
+reimbursed by our insurance carriers.  The Company is currently
+involved in a lawsuit in Australia with Cytel Pty. Ltd. Cytel. Cytel is alleging certain consultants that were provided to Cytel were unqualified and incompetent. As a result, Cytels business reputation with their customer was
+damaged and they failed to receive further projects from this customer. Cytel is seeking $38 million in damages. The Company has vehemently denied the accusations and considers the claim completely frivolous and merely an attempt to avoid paying
+the Company less than $01 million for services previous rendered. The Company believes that the claim is covered by its insurance policies, and out-of pocket costs to the Company will be limited to its deductible, which is less than $01 million.
+60 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+As part of the Companys acquisition of a 95% interest in DiagnoSearch, the Company may be
+required to fund their existing operations for an amount up to $30 million, based upon mutually agreed upon operating needs. In 2004 and 2003, the Company funded $05 million and $03 million, respectively, of the requirement, and may be required
+to fund DiagnoSearch operations in 2005 and in subsequent years.  10.Employee Benefit Plan  The Company has an Employee Retirement Savings Plan the Retirement Plan under Section 401k of the Internal Revenue Code that covers substantially all U.S. based salaried employees. Eligible employees may contribute up to 15%
+of eligible compensation, subject to limits in the Internal Revenue Code. The Retirement Plan does not provide for any Company matching contributions.  11.Stock Based Compensation  Modified Quintant Transaction Structure  On August 10, 2004, the Company modified the terms of the acquisition agreement dated as of August 21, 2003 relating to its acquisition of Quintant Inc.
+Initial Quintant Transaction Structure, and entered into a new agreement with the founders and principal shareholders of Quintant Modified Quintant Transaction Structure.  In conjunction with the Modified Quintant Transaction Structure, the Company
+was required to accelerate its recognition of unearned compensation expense in the amount of $51 million, which consisted of $31 million related to the cancellation of 21 million shares of Company restricted stock and $20 million related to the
+cancellation of $000 exercise price stock options. In addition, the Company recognized $05 million of compensation expense related to iGS shares purchased at a discount by the Quintant Co-Founders. At December 31, 2004, the Company had $17
+million of deferred compensation to be recognized over future periods. These costs were recorded as part of the iGate Solutions segments.  On August 25, 2004, the Company issued 455,924 common shares to two key employees of Quintant and cancelled 103,222 of stock options issued on August 21,
+2003, at $000 exercise price. The closing price of the Companys Common Stock at the date of issuance was $292. The Company recorded compensation expense in the amount of $13 million related to the issuance of shares and $03 million related
+to the canceling of stock options. These costs were recorded as part of iGate Solutions segment.  Deferred compensation in the amount of $105 million was recorded in conjunction with the August 21, 2003 acquisition of Quintant, which is more fully
+described in Note 12. The deferred compensation included 21 million shares of iGate restricted stock, 06 million iGate options granted at a $000 exercise price, 01 million iGate options granted at a $378 exercise price, and 08 million of iGS
+options granted at a discount from market value to continuing Quintant employees. As noted above, portions of the deferred compensation were accelerated and recognized in 2004.  The iGate restricted stock, which was granted to key employees of Quintant, was valued based upon the closing price of the
+Companys stock at August 20, 2003, which was $489 per share. Deferred compensation was being recognized over a weighted average vest period of four years. Deferred compensation not including accelerated compensation expense recognized for the
+years ended December 31, 2004 and 2003 was approximately $09 million and $09 million, respectively, for the restricted stock. 
+61 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+All options issued at $000 exercise price and $378 exercise price were valued based upon the
+closing price of the Company stock at the date of grant. Deferred compensation was being recognized ratably over a four year vesting period. Deferred compensation not including accelerated compensation expense recognized for the year ended December
+31, 2004 and 2003 was approximately $06 million and $04 million, respectively, for these options.  On August 20, 2003, 03 million iGS options were issued at a $218 exercise price with a market value of $511 per share on the same date. On August 22,
+2003, 05 million iGS options were issued at $253 exercise price with a market value of $539 on the same date. Deferred compensation is being recognized ratably over a four year vesting period. Deferred compensation recognized for the years ended
+December 31, 2004 and 2003, respectively, was approximately $06 million and $02 million for these options.  Other Stock Transactions  On October 1, 2004, the Company awarded 01 million shares of restricted Company Common Stock to a key executive as part of his employment agreement.
+These shares vest ratably over a two year period with a compensation charge equal to the fair value of the shares awarded at date of grant. Had compensation costs for these shares been determined consistent with SFAS 123, net loss and loss per share
+for the year ended December 31,2004 would have increased by approximately $03 million or less than $001 per share. Deferred compensation recognized for these shares for the year ended December 31, 2004, was less than $01 million.  On April 1, 2001, Michael J. Zugay, Senior Vice President and Chief Financial
+Officer, was awarded 015 million shares of restricted iGate Common Stock as part of his employment agreement. These shares vest ratably over a three year period with a compensation charge equal to the fair value of the shares awarded at date of
+grant. Had compensation costs for these shares been determined consistent with SFAS 123, net loss and diluted loss per share for the year ended December 31, 2001 would have increased by approximately $02 million or less than $001 per share.
+Deferred compensation recognized for these shares for the years ended December 31, 2004, 2003 and 2002 were $00 million, $01 million and $01 million, respectively.  iGate Corporation Stock Option Plans  During 2000, the Company adopted the Second Amended and Restated Stock Incentive Plan the Plan. The Plan
+provides that up to 10 million shares of the Companys Common Stock, plus an automatic annual increase each year from 2001 through 2006 of the lesser of i 2 million shares; ii 3% of the outstanding shares on the last day of the preceding
+year; or iii a lesser number of shares as determined by the Companys Board of Directors, shall be available for issuance to directors, executive management and key personnel. At December 31, 2004, there were 101 million shares of Common
+Stock available for issuance under the Plan. In addition, the Companys iGS subsidiary also maintains its own stock option plans. IGS stock option plans were approved by its Boards of Directors in 2XXX. The Company accounts for the Plan
+and its subsidiaries stock option plans under Accounting Principles Board Opinion No. 25, Accounting for Stock Issued to Employees. 
+62 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+During 2004, 2003 and 2002, options covering a total of 565,000, 949,792 and 39,500 shares,
+respectively, of Common Stock were granted under the Plan. Options generally expire ten years from the date of grant or earlier if an option holder ceases to be employed or associated by the Company for any reason. A summary of stock options is
+presented below:  Options
+WeightedAverage Exercise Price
+Options outstanding at December 31, 2001
+4,158,563 973
+Granted
+39,500 404
+Exercised
+161,457 336
+Lapsed and forfeited
+1,228,631 1204 Options outstanding at December 31, 2002
+2,807,975 900
+Granted
+949,792 400
+Exercised.
+273,422 230
+Lapsed and forfeited
+627,130 881 Options outstanding at December 31, 2003
+2,857,215 802
+Granted
+565,000 328
+Exercised.
+178,173 239
+Lapsed and forfeited
+669,723 1036 Options outstanding at December 31, 2004
+2,574,319 675 Options exercisable at December 31, 2004
+1,489,357 919 Available for future grant
+10,069,415  Stock Options Outstanding at
+December 31, 2004:  Options Outstanding
+Options Exercisable
+Rangeof ExercisePrice
+Options
+WeightedAverage Remaining ContractualLife Years
+WeightedAverage ExercisePrice
+Options
+WeightedAverage Exercise Price 1875$1875
+5,000
+624 1875
+4,687 1875
+19301930
+423,720
+675 1930
+188,845 1930
+20102960
+445,000
+946 2921
+23,125 2292
+35003700
+398,372
+845 3664
+217,558 3646
+37805250
+195,932
+685 3976
+157,744 4022
+55805580
+259,125
+883 5580
+76,500 5580
+56805813
+37,500
+909 5689
+11,250 5710
+75007500
+264,105
+196 7500
+264,105 7500
+900015875
+304,234
+417 13589
+304,234 13589
+1702033125
+241,331
+382 21640
+241,309 21640 1875$33125
+2,574,319
+666 6745
+1,489,357 9187  iGate options
+outstanding and exercisable at December 31, 2003 were 2,857,215 and 1,730,226, respectively, at prices ranging from $000 to $33125 per share. iGate options outstanding and exercisable at December 31, 2002 were 2,807,975 and 1,789,189,
+respectively, at prices ranging from $1875 to $33125 per share. 
+63 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+iGS Stock Option Plans  The Companys majority-owned subsidiary, iGS maintains two 2 employee stock option plans herein referred to as
+Plan 1 and Plan 2. The Plans are administered by a committee appointed by the Board of Directors of iGS. Plan 1 provides for the issuance of a maximum of 3,000,000 shares of iGS common stock and Plan 2 provides for the
+issuance of a maximum of 4,500,000 shares of iGS common stock. Options are granted at the prevailing market values for each of the Plans.  A summary of the Plans are provided below:  iGS Option Plan 1:  Options
+Options outstanding at December 31, 2001
+867,975 226
+Granted
+678,700 329
+Exercised
+120,939 206
+Lapsed and forfeited
+437,475 232 Options outstanding at December 31, 2002
+988,261 296
+Granted
+2,250,961 254
+Exercised
+60,179 246
+Lapsed and forfeited
+483,727 243 Options outstanding at December 31, 2003
+2,695,316 277
+Granted
+0 Exercised
+275,717 259
+Lapsed and forfeited
+582,976 297 Options outstanding at December 31, 2004
+1,836,623 268 Options exercisable at December 31, 2004
+710,155 285 Available for future grant
+663,807  STOCK OPTIONS OUTSTANDING AT
+DECEMBER 31, 2004PLAN 1:  Options Outstanding
+Options Exercisable
+Range ofExercisePrice
+Options
+LifeYears
+WeightedAverageExercisePrice
+Options
+WeightedAverageExercisePrice 0000$221
+783,177
+817 222
+358,055 222 223$442
+899,246
+844 306
+284,684 315 445$663
+154,200
+813 521
+67,416 526 1,836,623
+830 268
+710,155 285 
+64 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+iGS Option Plan 2:  Options
+Options outstanding at December 31, 2002
+0 
+Granted
+1,078,586 559
+Exercised Lapsed and forfeited
+0 Options outstanding at December 31, 2003
+1,078,586 559
+Granted
+1,447,550 547
+Exercised Lapsed and forfeited
+533,801 557 Options outstanding at December 31, 2004
+1,992,335 560 Options exercisable at December 31, 2004
+191,835 601 Available for future grant
+2,507,665  STOCK OPTIONS OUTSTANDING AT
+DECEMBER 31, 2004PLAN 2:  Options Outstanding
+Options Exercisable
+Range ofExercisePrice
+Options
+LifeYears
+WeightedAverageExercisePrice
+Options
+WeightedAverageExercisePrice 444$663
+1,769,585
+923 543
+174,585 585 667$886
+222,750
+905 717
+17,250 765 1,992,335
+921 560
+191,835 601  12. Acquisitions  The following paragraphs describe each of the acquisitions made by the
+Company during 2004 and 2003. There were no acquisitions in 2002. Descriptions regarding each acquisition will vary dependent upon the complexity of the transaction and materiality and are presented in chronological order. Unless otherwise noted,
+pro forma disclosure regarding these purchases have not been provided because they are not material to the operations of the Company.  The Company has calculated each purchase price allocation in accordance with Statement of Financial Accounting Standards No. 141, Business
+Combinations. All purchase price allocations have been finalized at December 31, 2004. All amortizable intangible assets acquired consist of intellectual property, beneficial employment contracts and customer relationships. Please refer to Note
+5 for information pertaining to amortization expense.  In the
+fourth quarter of 2004, the Company acquired the remaining 10% of ICRI it did not own from the University of Pittsburgh Cancer Institute Cancer Services UPCI. Pursuant to the transaction, ICRI transferred certain clinical research
+related study agreements to UPCI for the remaining 10% ownership, whose value was immaterial.  On August 10, 2004, the Company modified the terms of the acquisition agreement dated as of August 21, 2003 relating to its acquisition of Quintant Inc. Initial Quintant Transaction Structure, and
+entered into a new 
+65 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+agreement with the founders and principal shareholders of Quintant Modified Quintant Transaction Structure. The principal reasons that the
+Quintant acquisition structure was modified were a to have the Quintant co-founders more closely aligned to the stock value of iGS, rather than the Companys common stock, and b to simplify the ownership structure of Quintant whereby
+Quintant will be owned 100% by iGS, rather than the original ownership structure where Quintant was jointly owned by iGS and iGate.  Under the terms of the Modified Quintant Transaction Structure, the Company was required to accelerate compensation expense, which is more fully discussed
+in Note 11, and to pay the Quintant Co-Founders an additional $39 million in cash consisting of $32 million paid to Quintants Indian Co-Founder and $07 million paid in aggregate to the four Quintant Co-Founders. The costs associated with
+the Modified Quintant Transaction Structure did not affect the Companys original purchase price allocation, which is discussed below.  All costs incurred as part of the Modified Quintant Transaction Structure were recorded as compensation expense in the period incurred and are included in
+the Companys Consolidated Statements of Income as part of iGate Solutions segment.  In July 2004, iGS acquired the remaining 8% it did not own in Saint Life Pharmaceutical Research Laboratories Private Limited Saint Life for approximately $02 million.  On June 1, 2004, the Companys majority-owned subsidiary Symphoni
+Interactive LLC was sold to iGS for proceeds of $05 million.  In May 2004, the Companys sold the assets of its majority-owned subsidiary Red Brigade UK Ltd. to iGS for proceeds of $03 million.  In May 2004, iGS acquired an additional 5% of stock ownership in The Concours Group Concours for approximately $125 million, increasing its
+ownership to approximately 10%.  In February 2004, iGS acquired
+92% of Saint Life for approximately $05 million. iGS acquired Saint Life primarily for the land that it owns that is adjacent to the iGS Whitefield Campus in Bangalore, India.  On October 20, 2003, iGS acquired the assets of IdeaSpace Solutions Ltd. IdeaSpace through its wholly owned
+subsidiary ITT Technologies Services, Ltd. for approximately $15 million. IdeaSpace specializes in bank technology and operations. The purchase price allocation resulted in non-deductible goodwill of $03 million, which was assigned to the
+iGate Solutions segment, and $11 million of intangible assets with a weighted average useful life of 24 years. The acquisition was effective December 10, 2003.  In September 2003, iGate Inc. acquired a 95% interest in DiagnoSearch for $15 million. DiagnoSearch is an Indian based
+clinical research company. The purchase price allocation resulted in non-deductible goodwill of $05 million, which was assigned to the iGate Corporate segment, and $09 million of intangible assets with a weighted average useful life of 12 years.
+66 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+On August 21, 2003, the Company acquired Quintant, Inc. Quintant, a BPO company located
+in India, in exchange for iGate restricted stock and cash. The Initial Quintant Transaction Structure was modified in 2004, as discussed above and in Note 11. The following table summarizes the original purchase price of Quintant in thousands:
+Cash 20,544
+Restricted shares of iGate common stock 21 million shares to be issued; 11million shares allocated to purchase price consideration,
+10 million shares allocated to deferred compensation, see Note 11 15,569
+Legal and accounting fees incurred related to purchase 254 Total purchase price 36,367  The allocation of the
+purchase price resulted in non-deductible goodwill of $60 million, which was assigned to the iGate Solutions reportable segment. In addition, $49 million was allocated to intangible asset, which are subject to amortization, and have a weighted
+average useful life of five years. The fair value of assets acquired including goodwill and intangible assets, liabilities and deferred compensation See Note 11 was $255 million, $08 million and $103 million, respectively. Due to certain
+provisions within the acquisition agreement, the Company accounted for the acquisition as a majority-owned subsidiary and recognized approximately 94% of Quintants losses from August 21, 2003.  On May 20, 2003, iGS acquired the contact center and facility management
+businesses of ITT Technology Services Ltd. ITT. ITTs businesses are headquartered in Noida, India. The purchase price for these businesses totaled $45 million in cash and included customer contracts, working capital and
+fixed assets. The allocation of the purchase price resulted in non-deductible goodwill of $02 million and intangible assets of $23million with a weighted average life of 17 years.  On April 1, 2003, iGS acquired the stock of Aqua Regia, Ltd. for $05 million
+in cash. Aqua Regia is headquartered in Hyderabad, India and provides IT consulting services. The allocation of the purchase price resulted in non-deductible goodwill of $02 million.  On February 26, 2003, the Company, through a newly formed subsidiary of iGate Clinical Research International, formerly
+known as iGate Clinical Management, Inc. ICRI, purchased the assets of Pittsburgh Clinical Research Network PCRN, for $04 million. The Company retained a 90% ownership in ICRI, with one shareholder owning a 10% minority
+interest in the entity. There were no intangibles recorded as a result of the acquisition.  On January 1, 2003, iGS agreed to purchase its sister company, eJiva, for $95 million.  Operating results of the business acquired have been included in the Consolidated Statements of Operations from the respective acquisition date forward.
+67 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+The following table presents unaudited pro forma information as if the 2003 acquisitions referred to
+above had been completed at the beginning of each respective year dollars in thousands, except for share amounts:  Year endedDecember31 2003 2002 Revenues
+Asreported 240,634 250,851 Pro forma 245,120 253,084 Loss from continuing operations
+As reported 5,618 24,199 Pro forma 12,300 26,508 Loss per share from continuing operations, basic and diluted
+As reported 011 047 Pro forma 024 052
+The year ended
+December 31, 2003 reported results above include net revenue from acquisitions of approximately $36 million. The combined net loss for these entities was approximately $63 million. Therefore, the results of these entities increased basic and
+diluted loss per share by $012 for the year ended December 31, 2003. There were no such acquisitions requiring pro forma disclosure in 2004 or 2002.  13.Discontinued Operations  In 2004, the Company sold two international staffing company subsidiaries, iGate Australia Pty Ltd. iGate Australia, headquartered in
+Sydney, Australia, and Direct Resources Scotland Ltd., DRI located in Edinburgh, Scotland the Dispositions. In accordance with SFAS 144, these businesses are classified as discontinued operations.  The sale of iGate Australia was a stock for cash transaction and was
+completed on June 2, 2004. The Company sold DRI customer and contractor agreements for cash on April 1, 2004. For the year ended December31, 2003, both operations combined had approximately $470 million in revenues with operating losses of
+approximately $38 million. The purchase price received in cash for both transactions was approximately $98million.  The following table details selected financial information for the businesses included within discontinued operations dollars in thousands. 2004
+2003 2002 Revenues 20,540 47,167 41,797 Goodwill impairment 3,933 3,724 Income loss from operations 115 3,037 3,079 Gain on sale of operations 3,749 Income loss before income taxes 3,864 3,037 3,079 Income tax expense 46 365 213 Income loss from discontinued operations 3,818 3,402 3,292 
+68 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+14.Income Taxes  The components of loss from continuing operations before income taxes, as shown in the accompanying Consolidated Statement
+of Operations, consisted of the following for the years ended December 31, 2004, 2003 and 2002:  December 31 2004 2003 2002 Dollars in Thousands Loss from continuing operations before income taxes Domestic 16,135 8,484 32,734 Foreign 764 5,045 8,196 16,899 3,439 24,538  The provision
+benefit for income taxes from continuing operations, as shown in the accompanying Consolidated Financial Statements, consisted of the following for the years ended December 31, 2004, 2003 and 2002:  December 31 2004 2003 2002 Dollars in Thousands Current provision benefit Federal 1,344 20 1,428 State 15 378 1,056 Foreign 3,352 1,433 5 Total current provision benefit 2,023 1,831 2,489 Deferred provision benefit Federal 443 1,725 5,338 State 164 246 829 Foreign 790 780 358 Valuation allowance 2,924 843 2,981 Total deferred provision benefit 3,107 348 2,828 Total provision benefit for income taxes 5,130 2,179 339  The reconciliation of
+income taxes computed using the statutory U.S. income tax rate and the provision benefit for income taxes from continuing operations for the years ended December 31, 2004, 2003 and 2002 were as follows:  December 31, 2004 December 31, 2003 December 31, 2002 Income taxes computed at the federal statutory rate 5,914 350 1,204 350 8,588 350 State income taxes, net of federal tax benefit 1,132 67 1,048 305 1,863 76 Foreign taxes at other than U.S. Statutory rate 4,408 261 1,113 324 2,506 102 Nondeductible goodwill 466 28 1,721 500 5,798 236 Deferred and other compensation 4,833 286 Capital losses in investments 2,524 149 843 245 Dividends from controlled foreign corporation 2,166 630 249 10 Othernet 195 12 439 128 136 06 Valuation allowance 2,924 173 843 245 2,981 121 5,130 304 2,179 633 339 15 
+69 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+Under the Indian Income Tax Act, 1961, the Companys Indian subsidiary is eligible to claim a
+tax holiday for 10 consecutive assessment years on profits derived from the export of software services from divisions registered under the Software Technology Parks at Bangalore, Chennai and Pune. For the years ended December31, 2004, 2003
+and 2002, the tax holiday resulted in benefits of $03 million, $13 million and $26million, respectively, when calculated at the statutory US rate. The benefits of the holiday will expire for certain of the units beginning in 2005.
+The components of the deferred tax assets and liabilities were
+as follows:  December 31 2004 2003 Dollars in Thousands Deferred tax assets Allowance for doubtful accounts and employee advances 1,332 278 Accrued health benefits 246 Accrued vacation and bonuses 1,396 1,605 Depreciation 315 1,420 Reserve for Canadian employment taxes 243 432 Foreign currency translation adjustments 934 1,399 Capital losses in investments 10,006 7,482 Foreign tax credit carryover 714 Accrued restructuring charges 386 633 Other 605 892 Valuation allowance 11,120 8,196 Total deferred tax assets 4,343 6,659 Deferred tax liabilities Amortization of acquired intangibles 1,396 Prepaid expenses 380 Section 481a adjustments 77 Unrecognized gain on Mascot IPO 9,664 10,741 Unrecognized gain on investments 42 92 Total deferred tax liabilities 11,559 10,833 Net deferred tax liability 7,216 4,174 Net deferred tax liability 7,216 4,174 Plus: net current deferred tax asset 2,304 4,545 Net long-term deferred tax liability 9,520 8,719 
+70 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+15.Earnings per Share  The reconciliation between basic and diluted earnings per common share from continuing operations is as follows: Year Ended December 31 2004 2003 2002 in thousands, except per share data Basic loss per share Loss from continuing operations 22,029 5,618 24,199 Divided by Weighted average common shares 52,721 51,697 51,304 Basic loss per share from continuing operations 042 011 047 Diluted loss per share Loss from continuing operations 22,029 5,618 24,199 Divided by Weighted average common shares 52,721 51,697 51,304 Diluted loss per share from continuing operations 042 011 047  The number of
+outstanding options to purchase common shares for which the option exercise prices exceeded the average market price of the common shares aggregated 13 million, 15 million and 20 million shares for the years ended December 31, 2004, 2003 and
+2002, respectively. These options were excluded from the computation of diluted earnings per share under the treasury stock method.  In addition, the calculation of diluted earnings per share for 2004, 2003 and 2002, respectively, would have included 04 million, 04 million and 03
+million shares for assumed exercise of options under the Companys share incentive plans, and 05 million shares during 2002 for the vested portion of the G.E. Note. However, because the Company was in a net loss position inclusion of such
+shares would have been anti-dilutive.  16.Segment
+Reporting  The Companys reportable segments are
+iGate Solutions, iGate Professional Services and iGate Corporate. No operating segments have been aggregated. Effective April 1, 2004, we recast our segments to include the operations of Global Financial Services GFS as part of the
+iGate Professional Services IPS segment. Previously, GFS was included in the iGate Solutions segment. All prior periods have been reclassified to reflect the change to our segment reporting. The following discussion also compares our
+operating segments without the operations of iGate Australia Pty Ltd. and Direct Resources Ltd., which are being treated as discontinued operations. Prior to their sale in 2004 both entities were part of our IPS operating segment.  iGate Solutions  The iGate Solutions segments services offerings include offshore
+outsourcing of IT services and IT systems maintenance. Other offerings include enterprise applications implementation and related custom development of applications such as Oracle, SAP and PeopleSoft. The Segment also offers application maintenance
+outsourcing, business intelligence services and data management and application re-engineering through its offshore development centers ODCs. 
+71 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+iGate Solutions has ODCs located in Bangalore, Hyderabad, Chennai, Delhi, and Pune, India and Wuxi,
+China. iGS has global development centers GDCs located in Canada and the U.S. The centers can deliver both near shore and offshore services, dependent upon customer location and expectations. iGate Solutions operates in India, Canada,
+the U.S., Europe, Singapore, Malaysia, Japan, China and Australia.  iGate Professional Services IPS  The IPS segments service offerings include a variety of client-managed and supervised IT staffing service offerings which include enterprise resource package implementation and integration, application support services and client
+directed software design and customization. The IPS segment also offers training as a service to its customers.  The IPS segment services the U.S., Canada, Australia and portions of the European market.  iGate Corporate  In 2004 and 2003, iGate Corporate includes the operations of jobcurry Systems Private Ltd., ICRI acquired on February 26, 2003 and DiagnoSearch acquired
+October 28, 2003 and corporate and other unallocated costs. In 2002, iGate Corporate included itiliti, which was deconsolidated in March 2002, and MobileHelix, which ceased operations in February 2002.  The accounting policies of the segments are the same as those described in
+the summary of significant accounting policies in Note 1. We evaluate segment performance based upon profit or loss from operations. We do not allocate income taxes, other income or expense and non-recurring charges to segments. In addition, we
+account for inter-segment sales and transfers at current market prices. All inter-segment sales have been eliminated in consolidation, which are not material. 
+The following tables present selected financial information for the Companys reporting segments, as reclassified for discontinued operations, for
+the years ended December 31, 2004, 2003 and 2002:  Year Ended December 31, 2004 iGateSolutions iGateProfessionalServices
+iGate Corporate1 Total Dollars in thousands External revenues 131,484 131,241 1,860 264,585 Loss income from operations 17,323 9,155 9,093 17,261 Other income, net 1,374 1,374 Minority interest 677 677 Equity in losses of affiliated companies 335 335 Loss before income taxes 8,731 16,899 
+72 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003  Year Ended December 31, 2003 iGateSolutions iGateProfessionalServices
+iGate Corporate1 Total Dollars in thousands External revenues 145,854 93,124 1,656 240,634 Loss income from operations 3,056 9,244 10,748 4,560 Other income, net 1,560 1,560 Minority interest 312 312 Equity in losses of affiliated companies 99 99 Loss on venture investments and affiliated companies 28 28 Loss before income taxes 9,627 3,439  Year Ended December 31,
+2002 iGateGlobalSolutions iGateProfessionalServices
+iGate Corporate1 Total Dollars in thousands External revenues 142,598 107,666 587 250,851 Loss income from operations 22,882 9,284 11,438 25,036 Other income, net 1,463 1,463 Minority interest 441 441 Gain on deconsolidation of subsidiary 7,086 7,086 Loss on venture investments and affiliated companies 7,610 7,610 Loss before income taxes 10,940 24,538 1
+Corporate activities include general corporate expenses, interest income and expense, equity in losses of unconsolidated affiliates, minority interest, loss from joint ventures and
+restructuring charges not identified to a specific segment, and other unallocated charges. The Company evaluates segments based on income loss from operations. Since certain administrative and other operating expenses or income sources have not
+been allocated to the operating business segments, this basis is not necessarily a measure computed in accordance with generally accepted accounting principles and it may not be comparable to other companies.  Total assets by segment were as follows:  YearEndedDecember31 2004
+2003
+2002 Dollars in thousands
+iGate Solutions 101,439 93,013 85,126
+iGate Professional Services 40,978 19,926 16,197
+iGate Corporate including discontinued operations 37,815 68,001 87,617 Total assets 180,232 180,940 188,940 
+73 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+Revenue and tangible long-term assets by geographic area consisted of the following:  Year Ended December 31. 2004
+2003
+2002 Dollars in thousands
+Revenues North America, principally U.S. 223,772 178,825 192,166
+Europe 22,167 22,438 16,627
+Pacific Rim, principally India 18,646 39,371 42,058 Total revenues 264,585 240,634 250,851  YearEndedDecember31 2004
+2003
+2002 Dollars in thousands
+Tangible long-term assets North America, principally U.S. 2,511 3,064 1,926
+Europe 106 507 832
+Pacific Rim, principally India 23,197 12,912 7,595 Total tangible long-term assets 25,814 16,483 10,353  The following is a
+concentration of revenues greater than 10% for the periods shown:  2004 2003 2002 General Electric Company iGate Solutions
+37 35 33 iGate Consolidated
+19 22 19 International Business Machine Corp. iGate Professional Services
+23 19 iGate Consolidated
+12 Wachovia Corporation iGate Professional Services
+13 
+74 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+17. Quarterly Financial Information Unaudited  The following table sets forth certain unaudited financial information for each of the quarters indicated below and, in the
+opinion of management, contains all adjustments, consisting only of normal recurring adjustments, if necessary, for a fair presentation thereof. Earnings per share amounts for each quarter are required to be computed independently, and therefore may
+not equal the amount computed for the entire year.  Three Months Ended March31 June 30 Sept. 30 Dec. 31 Dollars in thousands, except per share data 2004 Revenues 64,063 65,868 66,565 68,089 Gross margin 17,037 16,386 16,837 16,748 Loss from continuing operations 2,243 5,484 1,474 8,060 Loss income from continuing operations before income taxes 1,610 5,919 1,034 8,336 Income loss from discontinued operations 170 3,645 3 Net loss 1,752 5,702 1,816 8,941 Net loss per common share, basic 003 011 003 017 Net loss per common share, diluted 003 011 003 017 2003 Revenues 57,957 60,582 60,338 61,757 Gross margin 16,773 18,089 17,263 16,855 Income loss from continuing operations 1,416 1,362 2,040 5,298 Income loss from discontinued operations 56 77 1 3,536 Income loss from continuing operations before income taxes 2,116 1,700 1,842 5,413 Net loss income 464 1,409 1,428 8,537 Net loss income per common share, basic 001 003 003 016 Net loss income per common share, diluted 001 003 003 016  The financial
+information for all periods presented has been reclassified to reflect the discontinued operations. See Note 13 to the Consolidated Financial Statements for further information.  In the fourth quarter, unfavorable adjustments in the amount of approximately $08 million were recorded to certain
+customers accounts receivable balances. These adjustments consisted of credits and discounts and were not related to prior reporting periods. In addition, an unfavorable adjustment in the amount of $13 million was recorded as compensation
+expense as a result of the Quintant modification. 
+75 Table of Contents iGATE CORPORATION  NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  AS OF DECEMBER 31, 2004 AND 2003 
+18. Related Party Transactions  In conjunction with the modified sales agreement with Quintant, which is more fully discussed in Notes 11 and 12, Phaneesh
+Murthy, CEO of iGS, purchased 722,570 shares of iGS at a market value of $591 per share. Through this transaction, Phaneesh Murthy owns approximately 25% of the outstanding common stock of iGS.  On August 25, 2004, Phaneesh Murthy was issued 357,863 shares of common stock
+of iGate Corporation at a market value of $292 per share.  The
+Company entered into a consulting arrangement with Primentor Consulting to provide human resource consulting services. Primentor Consulting was founded by Phaneesh Murthy, CEO of iGS. The Company paid $04 million for these services during 2003.
+The Company has advanced employees $14 million and $20
+million at December 31, 2004 and 2003, respectively. These advances do not exceed $2,500 per employee and are typically deducted from the employees salary over a six-month period or until paid in full.  At December 31, 2004, Sunil Wadhwani, CEO and Co-Founder of iGate
+Corporation, directly owned 12,738,791 common shares of the Company and indirectly owned 2,562,262 common shares of the Company through various family trusts. 
+At December 31, 2004, Ashok Trivedi, President and Co-Founder of iGate Corporation, directly owned 12,961,131 common shares of the Company and
+indirectly owned 2,339,922 common shares of the Company through various family trusts.  The Company leases office space in the Indian cities of Bangalore, Chennai and Pune from Sunil Wadhwani, the Companys Co-Chairman and Chief Executive Officer, and Ashok Trivedi, the Companys Co-Chairman
+and President. Messrs. Wadhwani and Trivedi own various properties jointly and individually. The acquisitions of the real estate and the construction of the office buildings, excluding build-outs of the office space, were financed entirely by
+Messrs. Wadhwani and Trivedi from personal funds. The leases cover approximately 137,000 square feet, and expire at various times from 2005 through 2008. The total annual rental is approximately $04 million. The lease agreements are subject to
+annual rent escalation, which has been accounted for on a straight-line basis.  Pursuant to a Promissory Note and in accordance with the terms of his employment agreement, Michael J. Zugay, Chief Financial Officer of iGate, received a loan in the amount of $01 million from iGate on December 31,
+2001 to satisfy the minimum required tax withholding obligations arising from his receipt of 015 million shares of restricted stock. Payments of interest, which accrued at 475% per annum on the unpaid principal, were due quarterly beginning on
+March 31, 2002 and the principal was due by December 31, 2003. The note was paid in full in 2003.  The Company owns approximately 5% of the Common Stock of Brainbench, a privately held company that provides web-based professional certification services.
+On March 10, 2000, the Company entered into an agreement the Agreement with Brainbench to purchase web-based skills testing services through a customized online virtual testing center. Expenses related to the Agreement were
+approximately $00 million, $00 million, $01 million and $03 million for the years ended December 31, 2004, 2003 and 2002, respectively. 
+76 Table of Contents
+Item 1. BUSINESS
+1 Item 2. PROPERTIES
+14 Item 3. LEGAL PROCEEDINGS
+14 Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+14 PART II Item 5.CONTROLS AND PROCEDURES  Disclosure Controls and Procedures  The Company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in the reports that the
+Company files or submits under the Securities Exchange Act of 1934 is recorded, processed, summarized, and reported within the time periods specified in the SECs rules and forms, and that such information is accumulated and communicated to the
+Companys management, including its Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.  As of the end of the period covered by this report, the Company carried out an evaluation, under the supervision and with
+the participation of Company management, including the Chief Executive Officer and the Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures pursuant to the Securities Exchange Act of
+1934 Exchange Act Rules 13a-15b and 15d-15b. Based upon, and as of the date of this evaluation, the Chief Executive Officer and the Chief Financial Officer concluded that the Companys disclosure controls and procedures were
+not effective because of the material weaknesses discussed below. Due to these material weaknesses, the Company performed additional analysis and other post-closing procedures to ensure that the consolidated financial statements were prepared in
+accordance with generally accepted accounting principles. Accordingly, management believes that the financial statements included in this report fairly present in all material respects the Companys financial position, results of operations and
+cash flows for the periods presented.  Status of
+Managements Report on Internal Control Over Financial Reporting  Management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting. The Companys internal control over financial reporting is a process designed to
+provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Because of its inherent limitations,
+internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become ineffective because of changes in conditions
+or that the degree of compliance with established policies or procedures may deteriorate.  Management is in the process of conducting an evaluation of the Companys internal control over financial reporting as of December 31, 2004. In making its assessment of internal control over financial reporting,
+management is using the criteria described in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission.  A material weakness is a control deficiency, or combination of control deficiencies, that results in more than a remote
+likelihood that a material misstatement of the annual or interim financial statements will not be prevented or detected. Management has not yet completed its assessment of the effectiveness of the Companys internal control over financial
+reporting. However, to date, management has identified certain control deficiencies which represent material weaknesses:  As of December 31, 2004, the Company did not maintain effective controls over the accounting for customer accounts receivable and the corresponding
+revenue. Specifically, the Company had ineffective controls over the application and monitoring of cash payments received from customers and the issuance of customer credit memos and discounts. This deficiency resulted in an audit adjustment to the
+fourth quarter 2004 consolidated financial statements. Additionally, this control deficiency could result in a misstatement to customer 
+77 Table of Contents
+accounts receivable and the corresponding revenue that could result in a material misstatement to the annual or interim consolidated financial statements
+that would not be prevented or detected. Accordingly, management has concluded that this control deficiency constitutes a material weakness; and  As of December 31, 2004, the Company did not maintain effective controls over the calculation and review of deferred compensation and the related
+compensation expense. Specifically, the Companys controls did not identify a computational error in determining the amount of compensation expense to be recognized from the cancellation of 21 million shares of restricted stock and the related
+cash payments made to the Quintant Inc. co-founders. This deficiency resulted in an audit adjustment to the fourth quarter 2004 consolidated financial statements. Additionally, this deficiency could result in a misstatement to deferred compensation
+expense that would result in a material misstatement to the annual or interim consolidated financial statements that would not be prevented or detected. Accordingly, management has concluded that this control deficiency constitutes a material
+weakness.  The existence of one or more material weaknesses at
+December 31, 2004 would preclude management from concluding that the Companys internal control over financial reporting was effective as of December 31, 2004. Upon completion of our assessment, management expects to conclude that as of
+December 31, 2004, the Company did not maintain effective internal control over financing reporting.  The Companys evaluation of its internal control over financial reporting as of December 31, 2004 is not complete. In connection with our ongoing
+evaluation, we may identify additional control deficiencies and once we have completed our evaluation of all deficiencies we may determine that the deficiencies, either alone or in combination with others, constitute one or more additional
+weaknesses.  We intend to file an amendment to this Form 10-K
+to include i the report of management on internal control over financial reporting and the associated report of our independent registered public accounting firm as required by Section 404 of the Sarbanes-Oxley Act and ii revised certifications
+as required by Section 906 of the Sarbanes-Oxley Act and Rule 13a-14a and Rule 15d-14a of the Securities Exchange Act, once we have completed our assessment of internal control over financial reporting.  Managements Remediation Efforts  The material weaknesses described above resulted in audit adjustments to the
+fourth quarter 2004 consolidated financial statements of approximately $800,000 and $1,300,000, respectively. To address these material weaknesses, the Company performed additional analysis and other post-closing procedures to ensure that the
+consolidated financial statements were prepared in accordance with generally accepted accounting principles. Accordingly, management believes that the financial statements included in this report fairly present in all material respects the
+Companys financial position, results of operations and cash flows for the periods presented.  Changes in Internal Control Over Financial Reporting  There has been no change in iGates internal control over financial reporting that occurred during the fourth quarter that has materially affected,
+or is reasonably likely to materially affect, such internal control over financial reporting as of December 31, 2004.  
+78 Table of Contents
+PART III  Item 1. BUSINESS
+1 Item 2. PROPERTIES
+14 Item 3. LEGAL PROCEEDINGS
+14 Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+14 PART II Item 5 is incorporated herein by reference from the section captioned Business Experience of Directors,
+Executive Officers, and Section 16a Beneficial Ownership Reporting Compliance in the Companys definitive proxy statement relating to the Annual Meeting of Shareholders scheduled for May 26, 2005, which will be filed
+with the Commission within 120 days after the close of the Companys fiscal year ended December 31, 2004 the Proxy Statement.  The information required by Item 405 of Regulation S-K with respect to compliance with Section 16a of the Securities Exchange Act of 1934, as amended,
+is incorporated herein by reference from the section captioned Compliance with Section 16a Reporting in the Proxy Statement.  The information required by Section 401 of Regulation S-K with respect to disclosure of audit committee financial experts is incorporated herein by
+reference from the section captioned Audit Committee Report in the Proxy Statement.  We have adopted a code of ethics applicable to all of our employees, including our principal executive officer, principal financial officer and principal
+accounting officer titled Code of Conduct Policy. The Code of Conduct Policy is posted on the Companys website, www.igatecorp.com under the Corporate Governance caption of the Investor Relations page. The Company intends
+to satisfy the disclosure requirement regarding certain amendments to, or waivers from, provisions of its code of ethics by posting such information on the Companys website.  

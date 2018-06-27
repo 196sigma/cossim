@@ -1,0 +1,1598 @@
+Item 8 hereof for financial information
+about the Company foreign and domestic operations and export sales required
+by this Item.                    6   The Company uses a process of integrated lead qualification and sales
+demonstration. Once a customer opportunity is identified, the Company employs a
+team-based sales approach involving inside and outside sales personnel who are
+supported by application engineers.
+The Company employs a variety of marketing techniques, including direct
+mail, trade shows, and advertising in trade journals, and proactively seeks
+publicity opportunities for customer testimonials. Management believes that
+word-of-mouth advertising from the Company existing customers provides an
+important marketing advantage. The Company also has a computerized sales and
+marketing software system with telemarketing, lead tracking and analysis, as
+well as customer support capabilities. Each of the Company sales offices is
+linked electronically to the Company headquarters.
+In June 1996, the Company entered into an Original Equipment Manufacturer
+OEM agreement with Mitutoyo Corporation Mitutoyo, a Japanese company that
+is the world largest manufacturer of metrology tools. Mitutoyo markets the
+FAROArmR in Japan under the name SPINARMR. The agreement, which grants
+Mitutoyo non-exclusive distribution right in Japan, expires in June 2000 and is
+renewable for successive one-year terms.
+In March 1999, the Company entered into an OEM agreement with Brown &
+Sharpe Manufacturing Company Brown & Sharpe, a North Kingstown, Rhode Island
+company that is a world leader in the manufacture of traditional CMMs and other
+metrology products. Brown & Sharpe will market the FAROArmR worldwide under
+the name GAGE 2000 A. The agreement, which grants Brown & Sharpe non-exclusive
+distribution right worldwide, expires in March 2001, and is renewable for
+successive one-year terms.
+RESEARCH AND DEVELOPMENT
+The Company believes that its future success depends on its ability to
+achieve technological leadership, which will require ongoing enhancements of
+its products and the development of new applications and products that provide
+3-D measurement solutions. Accordingly, the Company intends to continue to make
+substantial investments in the development of new technologies, the
+commercialization of new products that build on the Company existing
+technological base and the enhancement and development of additional
+applications for its products.
+The Company research and development efforts are directed primarily at
+enhancing the functional adaptability of its current products and developing new
+and innovative products that respond to specific requirements of the emerging
+market for 3-D measurement systems. The Company research and development
+efforts have been devoted primarily to mechanical hardware, electronics and
+software. The Company engineering development efforts will continue to focus
+on the FAROArmR and the family of CAM2 products. Significant efforts are also
+being directed toward the development of new measurement technologies and
+additional features for existing products. See Technology.                    7   At December 31, 1999, the Company employed 49 scientists and technicians
+in its research and development efforts. Research and development expenses were
+approximately $38 million in 1999 as compared to $26 million in 1998 and $11
+million in 1997. Research and development activities, especially with respect
+to new products and technologies, are subject to significant risks, and there
+can be no assurance that any of the Company research and development
+activities will be completed successfully or on schedule, or, if so completed,
+will be commercially accepted.
+TECHNOLOGY
+The primary measurement function of the FAROArmR is to provide
+orientation and position information with respect to the probe at the end of the
+FAROArmR. This information is processed by software and can be compared to the
+desired dimensions contained in the CAD data of a production part or assembly to
+determine whether the measured data conforms to such dimensional specifications.
+To accomplish this measurement function, the FAROArmR is designed as an
+articulated arm with six or seven joints. The arm consists of aluminum links and
+rotating joints that are combined in different lengths and configurations,
+resulting in human arm-like characteristics. Each joint is instrumented with a
+rotational transducer, a device used to measure rotation, which is based on
+optical digital technology. The position and orientation of the probe in three
+dimensions is determined by applying trigonometric calculations at each joint.
+The position of the end of a link of the arm can be determined by using the
+angle measured and the known length of the link. Through a complex summation of
+these calculations at each joint, the position and orientation of the probe is
+determined.
+The Company products are the result of a successful integration of
+state-of-the-art developments in mechanical and electronic hardware and
+applications software. The unique nature of the Company technical
+developments is evidenced by the Company numerous U.S. and international
+patents. The Company maintains low cost product design processes by retaining
+development responsibilities for all electronics, hardware and software.
+MECHANICAL HARDWARE. The FAROArmR is designed to function in diverse
+environments and under rigorous physical conditions. The arm monitors its
+temperature to adjust for environments ranging from -10 degrees to +50 degrees
+Celsius. The arm is constructed of pre-stressed precision bearings to resist
+shock loads. Low production costs are attained by the proprietary combination of
+reasonably priced electromechanical components accompanied by the optimization
+and on-board storage of calibration data. Many of the Company innovations
+relate to the environmental adaptability of its products. Significant features
+include integrated counter-balancing, configuration convertibility and
+temperature compensation.                    8   ELECTRONICS. An on-board computer that is designed to handle complex
+analyses of joint data as well as communications with a variety of host
+computers processes the rotational information for each joint. The Company
+electronics are based on digital signal processing and surface mount
+technologies. The Company products meet all mandatory electronic safety
+requirements. Advanced circuit board development, surface mount production and
+automated testing methods are used to ensure low cost and high reliability.
+SOFTWARE. CAM2 is a Windows-based, 32-bit application family written for
+the most recent PC-based technology. CAM2 has been entirely designed and
+programmed by the Company utilizing field input and industry wide beta site
+installations. CAM2 CAD AnalyserR is a family member for viewing, analyzing
+and browsing CAD files. CAM2 DesignR is a family member primarily used for
+reverse engineering and is written as an AutoCAD runtime extension ARX that is
+the AutoCAD Application Programming Interface API. Family member CAM2
+MeasureR is simplified version of Design for pure measurement applications
+written entirely on the ACIS CAD development platform. Family member CAM2
+AutomotiveR is a measurement software designed for large CAD files and
+specific Automotive applications and is written using a proprietary graphics
+display engine. Family member CAM2 SPC ProcessR is designed for plant wide
+dimensional data acquisition and presentation in classical SPC Statistical
+Process Control formats for plant-wide quality control.
+All the CAM2 family members are written in the C++ development language
+using Microsoft Foundation Class MFC standards. The software fully implements
+UNICODE standards for worldwide translation allowing the Company to create
+foreign language versions to enter international markets more effectively. The
+software is developed with the cooperation of diverse user beta sites and a
+well-developed system for tracking and implementing market demands.
+INTELLECTUAL PROPERTY
+The Company holds or has pending 30 patents in the United States, 19 of
+which are also held or pending in other jurisdictions. The Company also has 12
+registered trademarks in the United States, 18 foreign registered trademarks,
+10 trademark applications pending in the United States and 11 foreign trademark
+applications pending.
+The Company relies on a combination of contractual provisions and trade
+secret laws to protect its proprietary information. There can be no assurance
+that the steps taken by the Company to protect its trade secrets and
+proprietary information will be sufficient to prevent misappropriation of its
+proprietary information or to preclude third-party development of similar
+intellectual property.
+Despite the Company efforts to protect its proprietary rights,
+unauthorized parties may attempt to copy aspects of the Company products or
+to obtain and use information that the Company regards as proprietary. The
+Company intends to vigorously defend its proprietary rights against
+infringement by third parties. However, policing unauthorized use                    9 of the Company products is difficult, particularly overseas, and the Company
+is unable to determine the extent to which piracy of its software products
+exists. In addition, the laws of some foreign countries do not protect the
+Company proprietary rights to the same extent as the laws of the United
+States.
+The Company does not believe that any of its products infringe on the
+proprietary rights of third parties. There can be no assurance, however, that
+third parties will not claim infringement by the Company with respect to
+current or future products. Any such claims, with or without merit, could be
+time-consuming, result in costly litigation, cause product shipment delays or
+require the Company to enter into royalty or licensing agreements. Such royalty
+or licensing agreements, if required, may not be available on terms acceptable
+to the Company or at all, which could have a material adverse effect upon the
+Company business, operating results and financial condition.
+MANUFACTURING AND ASSEMBLY
+The Company manufactures its products primarily at its headquarters in
+Lake Mary, Florida. Manufacturing consists primarily of assembling components
+and subassemblies purchased from suppliers into finished products. The primary
+components, which include machined parts and electronic circuit boards, are
+produced by subcontractors according to the Company specifications. All
+products are assembled, calibrated and tested for accuracy and functionality
+before shipment. In limited circumstances, the Company performs in-house
+circuit board assembly and part machining.
+Quality has rapidly emerged as a new emphasis in commerce and industry,
+and is a significant factor in international trade. The Company
+manufacturing, engineering and design headquarters have been registered to the
+ISO 9001 standard since July 1998. Three successive surveillance audits have
+documented continuous improvement to this multinational standard. The Company
+continues to examine its scope of registration as the business evolves, and has
+chosen English as the standard business language for its operations. This
+decision is expected to significantly influence the Company operations and
+documentation globally. This has been done in concert with the ISO Standard
+Registrar, and is expected to increase customer confidence in the Company
+products and services worldwide.
+COMPETITION
+The broad market for measurement devices, which include hand-measurement
+tools, test fixtures and conventional, fixed-base CMMs, is highly competitive.
+Manufacturers of hand-measurement tools and traditional CMMs include a
+significant number of well-established companies that are substantially larger
+and possess substantially greater financial, technical and marketing resources
+than the Company. There can be no assurance that these entities or others will
+not succeed in developing products or technologies that will directly compete
+with those of the Company. The market for measurement software to retrofit
+traditional CMMs, and for statistical process control is also highly
+competitive. The Company                    10 will be required to make continued investments in technology and product
+development to maintain its technological advantage over its competition. There
+can be no assurance that the Company will have sufficient resources to make
+such investments or that the Company product development efforts will be
+sufficient to allow the Company to compete successfully as the industry
+evolves. The Company products compete on the basis of portability, accuracy,
+application features, ease-of-use, quality, price and technical support.
+The Company only significant direct competitor for its FAROArmR and
+related software is a joint venture of Romer SRL France and Romer, Inc.
+California. The Company is aware of a direct competitor in Germany, two direct
+competitors in Italy, and a direct competitor in the United Kingdom, each of
+which the Company believes currently has negligible sales. The Company also has
+an established, indirect competitor in Japan that markets a measuring device
+that is mobile but not portable. There can be no assurance that such companies
+will not devote additional resources to the development and marketing of
+products that compete with those of the Company.
+The worldwide trend toward CAD-based factory floor metrology has resulted
+in the introduction of CAD-based inspection software and statistical process
+control for conventional CMMs by most of the large CMM manufacturers. Certain
+CMM manufacturers are miniaturizing, and in some cases increasing the mobility
+of, their conventional CMMs. Nonetheless, these CMMs still have small
+measurement volumes, lack the adaptability typical of portable, articulated arm
+measurement devices and lose accuracy outside the controlled environment of the
+metrology lab.
+BACKLOG
+At December 31, 1999, the Company had orders representing approximately
+$18 million in sales. Substantially all outstanding orders at December 31,
+1999 were shipped by March 20, 2000.
+EMPLOYEES
+At December 31, 1999, the Company had 217 full-time employees, consisting
+of 85 sales/application-engineering professionals, 34 production staff, 49
+research and development staff, 36 administrative staff, and 13 customer
+service specialists. The Company is not a party to any collective bargaining
+agreements. The Company believes its employee relations are good. Management
+believes that its future growth and success will depend in part on its ability
+to retain and continue to attract highly skilled personnel. The Company
+anticipates that it will obtain the additional personnel required to satisfy
+the staffing requirements caused by its planned expansion over the next 12
+months.                    11 EXECUTIVE OFFICERS OF THE REGISTRANT
+The executive officers of the Company, and their ages, are as follows NAME                 AGE  PRINCIPAL POSITION
+-                                         
+EXECUTIVE OFFICERS:
+Simon Raab, Ph.D..  47   Chairman of the Board, Chief Executive Officer,
+and President
+Gregory A. Fraser, Ph.D..  45   Executive Vice President, Secretary, and
+Treasurer
+Stuart W. Jones..  43   Vice President and Chief Financial Officer   SIMON RAAB, PH.D., a co-founder of the Company, has served as the Chairman
+of the Board, Chief Executive Officer and a director of the Company since its
+inception in 1982 and as President since 1986. Mr. Raab holds a Ph.D. in
+Mechanical Engineering from McGill University, Montreal, Canada, a Masters of
+Engineering Physics from Cornell University and a Bachelor of Science in
+Physics with a minor in Biophysics from the University of Waterloo, Canada.
+GREGORY A. FRASER, PH.D., a co-founder of the Company, has served as
+Executive Vice President, Secretary, and Treasurer since August 1999. Prior to
+that Mr. Fraser served as Chief Financial Officer and Executive Vice President
+since May 1997 and as Secretary, Treasurer and a director of the Company since
+its inception in 1982. Mr. Fraser holds a Ph.D. in Mechanical Engineering from
+McGill University, Montreal, Canada, a Masters of Theoretical and Applied
+Mechanics from Northwestern University and a Bachelor of Science and Bachelor
+of Mechanical Engineering from Northwestern University.
+STUART W. JONES has served as Vice President and Chief Financial Officer
+since August 1999. Prior to that Mr. Jones served as Chairman, President and
+Chief Executive Officer of Metermaster Inc. since 1998, and as Executive Vice
+President and Chief Financial Officer of Metermaster Inc. since 1995. Mr. Jones
+holds an MBA in Finance and Marketing from the University of Illinois and a
+Bachelor of Science in Accounting from the University of Virginia.
+ITEM 2. PROPERTIES.
+The Company headquarters and principal operations are located in a
+leased building in Lake Mary, Florida containing approximately 35,000 square
+feet. The Company European headquarters are located in a leased building in
+Stuttgart, Germany containing approximately 14,000 square feet. The Company has
+a combined sales and training facility which is located in a leased building in
+Wixom, Michigan containing approximately 4,300 square feet. The Company has a
+combined sales and research and development facility, which is located in a
+leased building in Aveiro, Portugal containing approximately 2,800 square feet.
+The Company believes that its current facilities will be adequate for its
+foreseeable needs and that it will be able to locate suitable space for
+additional regional offices as those needs develop.                    12   In addition, the Company has five sales offices in Europe. The Company
+leases all of the sales offices. The information required by the remainder of
+this Item is incorporated herein by reference to Exhibit 991 attached hereto.
+ITEM 3. LEGAL PROCEEDINGS.
+The Company is not involved in any pending legal proceedings other than
+routine litigation arising in the ordinary course of business. The Company does
+not believe that the results of such litigation, even if the outcome were
+unfavorable to the Company, would have a material adverse effect on the
+Company business, financial condition or results of operations.
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+No matters were submitted to a vote of security holders during the last
+quarter of calendar 1999.                    13                   PART II
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+The Company Common Stock, par value $001 per share, began trading on
+the NASDAQ Stock Market on September 18, 1997, under the symbol FARO. Before
+that date, there was no established public trading market for the Common Stock.
+The following table sets forth the high and low sale price of the Company
+Common Stock for its two most recent fiscal years                           1999
+HIGH    LOW
+First Quarter..     7   3 3/4
+Second Quarter..   6 7/16   4 5/8
+Third Quarter..     6   2 3/4
+Fourth Quarter..     5   2 1/4
+1998
+HIGH    LOW
+First Quarter..   14 1/2    10
+Second Quarter..   12 1/2   9 1/4
+Third Quarter..   11 3/8   2 3/8
+Fourth Quarter..   4 1/16   2 3/8
+The Company has not paid any cash dividends on its Common Stock to date.
+The payment of dividends, if any in the future is within the discretion of the
+Board of Directors and will depend on the Company earnings, its capital
+requirements and financial condition, and may be restricted by future credit
+arrangements entered into by the Company. The Company expects to retain future
+earnings for use in operating and expanding its business and does not
+anticipate paying any cash dividends in the reasonably foreseeable future. As
+of March 24, 2000, the last sale price of the Company Common Stock was $425,
+and there were approximately 76 holders of record of Common Stock. The Company
+believes that there are approximately 1,900 beneficial owners of its Common
+Stock.
+On August 10, 1998 the prospectus comprising part of the Company
+Registration Statement on Form S-1, File No. 333-57395, was declared effective
+by the Securities and Exchange Commission. Common Stock was the only class of
+securities registered. Of the 343,750 shares registered, none had been sold as
+of March 24, 2000.
+On August 26, 1998 the Board of Directors authorized the officers of the
+Company, without further approval of the Board, to purchase in the open market,
+up to a maximum of one million shares of the Company Common Stock. During the
+period August 26, 1998 to December 31, 1998 the Company purchased 40,000 shares
+of Common Stock in the open market. During the year ended December 31, 1999 the
+Company did not purchase any shares of its Common Stock in the open market.                    14 ITEM 6. SELECTED FINANCIAL DATA.                                  YEARS ENDED DECEMBER 31
+1999       1998       1997      1996      1995
+STATEMENT OF OPERATIONS DATA:
+Sales   $ 33,105,740   $ 27,514,699  $ 23,516,385  $14,656,337  $9,862,242
+Cost of sales..   14,160,938    11,291,313    9,610,838   6,486,268   4,987,779
+- 
+Gross profit..   18,944,802    16,223,386   13,905,547   8,170,069   4,874,463
+Operating expenses:
+Selling    12,139,567    9,960,914    5,676,113   3,731,762   2,008,301
+General and administrative..   4,974,558    3,161,599    1,519,657    744,206    503,184
+Depreciation and amortization..   4,465,441    2,816,135     293,996    230,799    341,494
+Research and development..   3,828,801    2,587,181    1,075,505    730,124    363,871
+Employee stock options..    168,912     172,164     408,000     23,100    106,700
+Impairment loss on acquired
+intangible assets..   3,073,000
+In-process research and
+development resulting from
+acquisition..            3,210,000
+- 
+Total operating expenses..   28,650,279    21,907,993    8,973,271   5,459,994   3,323,550
+- 
+Loss income from operations..   9,705,477   5,684,607   4,932,276   2,710,075   1,550,913
+Other income expense:
+Interest income..    715,953    1,077,713     442,444
+Other income..    475,162     139,355     57,308     25,145    62,212
+Interest expense..     1,924     13,023    110,768   212,669   355,468
+- 
+Loss income before taxes..   8,516,286   4,480,562   5,321,260   2,522,554   1,257,657
+Income tax benefit expense..   1,121,464     450,532    2,114,630   1,115,892   342,000
+- 
+Net loss income..  $ 7,394,822  $ 4,931,094  $ 3,206,630  $ 1,406,662  $1,599,657
+- 
+Net loss income per
+common share:
+Basic   $   067  $   046  $    041  $   020  $   023
+Diluted      067      046      039      019     022
+Weighted average common
+shares outstanding:
+Basic    11,015,140    10,632,708    7,831,715   7,000,000   7,000,000
+Diluted    11,015,140    10,632,708    8,189,048   7,349,041   7,166,739                                  AT DECEMBER 31
+1999       1998      1997      1996      1995
+CONSOLIDATED BALANCE SHEET
+DATA:
+Working capital..  $ 24,869,844   $ 30,997,769  $ 37,277,545  $ 3,832,424  $1,321,517
+Total assets..   42,103,912    49,120,147   41,192,333   7,815,668   5,479,698
+Total debt..     26,236     337,710           1,501,267   2,200,000
+Total shareholders' equity..   36,599,346    45,375,391   38,939,411   3,773,699   2,343,937                    15 ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS.
+THE FOLLOWING INFORMATION SHOULD BE READ IN CONJUNCTION WITH THE
+CONSOLIDATED FINANCIAL STATEMENTS OF THE COMPANY, INCLUDING THE NOTES THERETO,
+INCLUDED ELSEWHERE IN THIS DOCUMENT.
+OVERVIEW
+The Company designs, develops, markets and supports portable,
+software-driven, 3-D measurement systems that are used in a broad range of
+manufacturing and industrial applications. In May 1998 the Company acquired CATS
+Computer Aided Technologies, GmbH CATS, a German company which develops and
+markets CAD-based inspection and statistical process control SPC software.
+The Company principal products are the FAROArmR articulated measuring device
+and its multi-faceted CAM2 formerly AnthroCamR software which provides for
+CAD-based inspection on portable and fixed-base CMMs, and factory-level
+statistical process control. Together, these products integrate the measurement
+and quality inspection function with CAD, CAM and computer-aided engineering
+CAE technology to improve productivity, enhance product quality and decrease
+rework and scrap in the manufacturing process. The Company products bring
+precision measurement, quality inspection and specification conformance
+capabilities, integrated with leading CAD software, to the factory floor. The
+Company is a pioneer in the development and marketing of 3-D measurement
+technology in manufacturing and industrial applications and currently holds or
+has pending 30 patents in the United States, 19 of which also are held or
+pending in other jurisdictions. The Company products have been purchased by
+more than 1,500 customers worldwide, ranging from small machine shops to such
+large manufacturing and industrial companies as General Motors,
+Daimler-Chrysler, Ford, Boeing, Lockheed Martin, General Electric, Westinghouse
+Electric, Caterpillar and Komatsu Dresser.
+From its inception in 1982 through 1992, the Company focused on providing
+computerized, 3-D measurement devices to the orthopedic and neurosurgical
+markets. During this period, the company introduced a knee laxity measurement
+device, a diagnostic tool for measuring posture, scoliosis and back
+flexibility, and a surgical guidance device utilizing a six-axis articulated
+arm.
+In 1992, in an effort to capitalize on a demand for 3-D portable
+measurement tools for the factory floor, the Company made a strategic decision
+to target its core measurement technology to the manufacturing and industrial
+markets. In order to focus on manufacturing and industrial applications of its
+technology, the Company phased out the direct sale of its medical products and
+entered into licensing agreements with two major neurosurgical companies for
+its medical technology. In 1995, the Company made a strategic decision to
+target international markets. The Company established sales offices in France
+and Germany in 1996 and Great Britain in 1997. International sales represented
+343% of sales in 1997 and 464% of sales in 1998, and 466% of sales in 1999.                    16   The Company derives revenues primarily from the sale of the FAROArmR, its
+six-axis articulated measuring device, and its multi-faceted CAM2 software.
+Revenue related to these products is recognized upon shipment.
+Revenue growth has resulted from increased unit sales due to an expanded
+sales effort that included the addition of sales personnel at existing offices,
+the opening of new sales offices, expanded promotional efforts and the
+acquisition of CATS. In September 1998 the Company announced the introduction
+of a new product line consisting of two additional FAROArm models, and the
+addition of 3 new software components to the CAM2 family, from the CATS
+acquisition.
+In addition to providing a one-year basic warranty without additional
+charge, the Company offers its customers one, two and three-year extended
+maintenance contracts, which include on-line help services, software upgrades
+and hardware warranties. In addition, the Company sells training and technology
+consulting services relating to its products. The Company recognizes the
+revenue from extended maintenance contracts proportionately as costs are
+projected to be incurred.
+Cost of sales consists primarily of material, production overhead and
+labor. Selling expenses consist primarily of salaries and commissions to sales
+and marketing personnel, and promotion, advertising, travel and
+telecommunications. General and administrative expenses consist primarily of
+salaries for administrative personnel, rent, utilities and professional and
+legal expenses. Research and development expenses represent salaries, equipment
+and third-party services.
+Accounting for wholly owned foreign subsidiaries is maintained in the
+currency of the respective foreign jurisdiction and, therefore, fluctuations in
+exchange rates may have an impact on intercompany accounts reflected in the
+Company consolidated financial statements. Although the Company has not
+historically engaged in any hedging transactions to limit risks of currency
+fluctuations, it intends to do so in the future.                    17 RESULTS OF OPERATIONS
+The following table sets forth for the periods presented, the percentage
+of sales represented by certain items in the Company consolidated statements
+of operations                                          YEARS ENDED DECEMBER 31,
+1999     1998     1997
+STATEMENT OF OPERATIONS DATA:
+Sales    1000%    1000%    1000%
+Cost of Sales     427%     410%     409%
+Gross profit     573%     590%     591%
+Operating expenses:
+Selling     367%     362%     241%
+General and administrative     150%     115%     65%
+Depreciation and amortization     135%     102%     13%
+Research and development     116%     94%     46%
+Employee stock options     05%     06%     17%
+Impairment loss on acquired intangible assets..    93%     00%     00%
+In-process research and development resulting from acquisition..    00%     117%     00%
+Total operating expenses     866%     796%     382%
+Loss income from operations    293%    207%    210%
+Interest income     22%     39%     19%
+Other income expense     14%     05%     02%
+Interest expense     00%     00%     05%
+Net loss income before income taxes    257%    163%    226%
+Income tax benefit expense     34%     16%     90%
+Net loss income    223%    179%    136%
+1999 COMPARED TO 1998
+SALES. Sales increased $56 million, or 204%, from $275 million in 1998
+to $331 million in 1999. The increase resulted from increases in the U.S.
+$30 million, or 204%, from $147 million to $177 million, the three
+European countries with a direct Company presence $21 million, or 247%, from
+$85 million to $106 million and the remainder of the world an increase of
+$05 million, or 116%, from $43 million to $48 million.
+GROSS PROFIT. Gross profit increased by $27 million, or 167%, from $162
+million in 1998 to $189 million in 1999. The increase resulted from the
+increase in sales, partially offset by unusual charges of $06 million related
+to excess and obsolete inventory $05 million and warranties $01 million.
+Excluding the unusual charges, gross profit was $195 million, or 589%, the
+same gross margin percentage as 1998.
+SELLING EXPENSES. Selling expenses increased $21 million, or 210%, from
+$100 million in 1998 to $121 million in 1999. The increase primarily resulted
+from selling expenses in Germany, which increased by $14 million, with a full
+year of expenses in 1999                    18 from the German acquisition, compared to seven and a half months in 1998, and
+an increase in the number of sales and marketing employees in Europe. Selling
+expenses also increased by $04 million, resulting from an unusual write-down
+of demonstration inventory, which was identified during a thorough worldwide
+physical inventory. U.S. salaries, commissions, advertising and trade shows
+also increased and were partially offset by lower spending on other promotions.
+GENERAL AND ADMINISTRATIVE EXPENSES. General and administrative expenses
+increased by $18 million, or 563%, from $32 million in 1998 to $50 million
+in 1999. The increase primarily resulted from general and administrative
+expenses in Germany, which increased by $11 million, with a full year of
+expenses in 1999 compared to seven and a half months in 1998. General and
+administrative expenses also increased due to higher salaries, outside
+services, and professional and legal expenses, and unusual third quarter
+charges $02 million, primarily for write-offs of doubtful accounts and
+residual costs related to the German acquisition, partially offset by lower
+bonuses and a $01 million unusual credit.
+DEPRECIATION AND AMORTIZATION EXPENSES. Depreciation and amortization
+expenses increased by $17 million, or 607%, from $28 million in 1998 to $45
+million in 1999. The increase primarily resulted from $10 million of unusual
+expenses $07 million of amortization of software development costs, $02
+million of depreciation of property and equipment and $01 million of
+amortization of patents with no remaining economic value. These unusual
+expenses resulted from a review of the Company assets, which determined that
+certain patents and capitalized research and development costs should be
+written off due to changes in technology. Additionally, a full year of
+amortization of the intangible assets resulting from the German acquisition
+increased amortization expense in 1999 by $03 million.
+RESEARCH AND DEVELOPMENT EXPENSES. Research and development expenses
+increased by $12 million, or 462%, from $26 million in 1998 to $38 million
+in 1999. The increase primarily resulted from an increase in the number of U.S.
+research and development employees $06 million, a full year of research and
+development expenses in Germany in 1999, compared to seven and a half months of
+expenses in 1998 $04 million, and an unusual charge $02 million to
+write-off capitalized research and development costs for products no longer
+sold by the Company.
+EMPLOYEE STOCK OPTION EXPENSES. Employee stock option expenses decreased
+by $3,000, or 17%, from $172,000 in 1998 to $169,000 in 1999. This decrease
+was a result of a reduction in the amortized deferred compensation expense
+related to stock options issued in 1995 and 1997. For all options issued in
+1999, no compensation expense was recorded, as the exercise price of the
+options was equal to the market price on the day of the grant.
+IMPAIRMENT LOSS ON ACQUIRED INTANGIBLE ASSETS. An unusual impairment loss
+of $31 million was recorded in 1999 to reflect an impairment of the intangible
+assets resulting from the German acquisition on May 15, 1998. The impairment
+resulted from the Company revised forecast of the cash flows expected from
+the developed and core software                    19 technology acquired with the German acquisition. Amortization expenses in 2000
+will drop by approximately $850,000 at present exchange rates as a result of
+the impairment loss.
+OTHER INCOME. Other income increased by $04 million, or 4000%, from $01
+million in 1998 to $05 million in 1999. The increase resulted principally from
+an increase in royalty income from an increase in licensing fees for the
+Company medical technologies in 1999.
+INTEREST INCOME. Interest income decreased by $04 million, or 364 from $11 million in 1998 to $07 million in 1999. The decrease primarily
+resulted from a reduction in the Company cash invested after the acquisition
+of the German company, which reduced the Company cash invested for twelve
+months in 1999, but only seven and a half months in 1998. In addition, more
+cash was invested in lower-yielding tax exempt municipal bonds during 1999.
+INCOME TAX BENEFIT EXPENSE. Income tax benefit increased by $16
+million, from a $05 million expense in 1998 to a $11 million benefit in 1999.
+The benefit resulted from the Company U.S. operation taxable loss. The
+deferred tax benefit on the Company foreign loss, including the impairment
+loss, was offset by a $31 million valuation allowance.
+NET LOSS. The Company net loss increased by $25 million, or 510%, from
+$49 million in 1998 to $74 million in 1999. The increase resulted primarily
+from the unusual impairment loss on acquired intangible assets $31 million,
+with no offsetting tax benefit on the intangible assets resulting from the
+acquisition in Germany. Other unusual operating charges $23 million and
+higher recurring general and administrative and research and development
+expenses as a percentage of sales also contributed to the higher net loss,
+partially offset by a $16 million increase in the income tax benefit. The net
+loss includes $25 million of amortization of intangibles related to the German
+acquisition, an increase of $03 million from 1998.
+1998 COMPARED TO 1997
+SALES. Sales increased $40 million, or 170%, from $235 million in 1997
+to $275 million in 1998. The increase was a result of increases in sales in
+Europe $54 million and Canada $06 million, offset by decreases in sales
+in Asia $10 million and the United States $08 million.
+GROSS PROFIT. Gross profit increased $23 million, or 167%, from $139
+million in 1997 to $162 million in 1998. This increase was a result of a
+proportional increase in sales in 1998, at a gross margin of 590%, virtually
+unchanged from 591% in 1997.
+SELLING EXPENSES. Selling expenses increased $43 million, or 755%, from
+$57 million in 1997 to $100 million in 1998. This increase was primarily the
+result of a 100% increase in the number of sales and marketing staff, and their
+resulting sales activities. The number of sales and marketing employees grew
+from 34 at December 31, 1997 to 68 at December 31, 1998. The cost per sales
+employee was higher in 1998 in part as a result of the greater proportion
+primarily as a result of the CATS acquisition of European employees and the
+higher cost of payroll benefits and travel costs in Europe.                    20   GENERAL AND ADMINISTRATIVE EXPENSES. General and administrative expenses
+increased $17 million, or 1133% from $15 million in 1997, to $32 million in
+1998. This increase resulted primarily from the increased number of
+administrative personnel both at the Company headquarters and from the
+acquisition of CATS.
+DEPRECIATION AND AMORTIZATION EXPENSES. Depreciation and amortization
+expenses increased $25 million or 8333%, from $03 million in 1997 to $28
+million in 1998. This increase was primarily due to $22 million in
+amortization expenses related to the intangible assets associated with the
+Company acquisition of CATS.
+RESEARCH AND DEVELOPMENT EXPENSES. Research and development expenses
+increased $15 million, or 1364%, from $11 million in 1997 to $26 million in
+1998. This increase was a result of an increase in the number of research and
+development employees from 14 at December 31, 1997 to 43 at December 31, 1998.
+EMPLOYEE STOCK OPTIONS. Employee stock option expenses decreased $02
+million or 500%, from $04 million in 1997 to $02 million in 1998. This
+decrease was a result of a reduction in the amortized deferred compensation
+expense relating to stock options issued in 1995 and 1997. For all options
+issued in 1998, no compensation expense was recorded, as the exercise price of
+the options was equal to the market price at the day of the grant.
+IN-PROCESS RESEARCH AND DEVELOPMENT RESULTING FROM ACQUISITION. On May 15,
+1998 the Company acquired CATS for $5 million and 916,668 shares of the
+Company Common Stock and the assumption of certain liabilities. The $32
+million portion of the purchase price that was attributed to in-process
+research and development and was expensed immediately.
+INTEREST INCOME. Interest income increased $07 million or 1750%, from
+$04 million in 1997 to $11 million in 1998. This increase was a result of a
+full year of interest in 1998 on the remaining portion of the proceeds from the
+Company initial public offering in September 1997, compared to approximately
+three months of interest on the portion of these proceeds which were invested
+in 1997.
+INCOME TAX EXPENSE. Income tax expense decreased $16 million or 762%
+from $21 million in 1997 to $05 million in 1998. The income tax provision in
+1998 results primarily from the Company U.S operations being in a taxable
+position, and the deferred tax benefit of the Company foreign loss being
+offset by a $3 million valuation allowance.
+NET INCOME LOSS. The Company net income loss for 1998 decreased $81
+million, from net income of $32 million in 1997 to a net loss of $49 million
+in 1998. This decrease was a result of a one-time in-process research and
+development charge $32 million, amortization costs related to the CATS
+acquisition $22 million, and higher sales, general and administrative, and
+research and development expenses as a percentage of sales.                    21 LIQUIDITY AND CAPITAL RESOURCES
+In September 1997, the Company completed an initial public offering of
+Common Stock that provided net proceeds of $317 million. Total marketable
+securities cash and cash equivalents, short-term investments and investments
+at December 31, 1999 were $169 million, compared to $182 million at December
+31, 1998.
+For the year ended December 31, 1999, net cash provided by operating
+activities was $15 million compared to net cash used by operating activities
+of $31 million in 1998. Net cash provided by operating activities in 1999,
+increased primarily due to non-cash depreciation and amortization $45
+million and the impairment loss $31 million and increases in accounts
+payable and accrued liabilities $24 million, partially offset by the net
+loss $74 million and increases in accounts receivable $10 million.
+Net cash excluding short-term investments and investments provided by
+investing activities primarily conversions of investments into cash and cash
+equivalents, which yielded equivalent interest rates at year end for the year
+ended December 31, 1999 was $53 million, compared to net cash used in
+investing activities of $252 million in 1998. Net cash provided by investing
+activities increased in 1999 primarily due to decreases in investments $68
+million, partially offset by purchases of property and equipment $11
+million and payments for intangible assets $03 million.
+Net cash used in financing activities for the year ended December 31, 1999
+was $03 million, compared to net cash provided by financing activities of $03
+million in 1998. The Company invests excess cash balances in short-term
+investment grade securities, such as money market investments, obligations of
+the U.S. government and its agencies, and obligations of state and local
+government agencies.
+Exchange rate changes resulted in a $11 million impact on the Company
+cash.
+In April 1997, the Company obtained a one-year secured $10 million line
+of credit that bears interest at the 30-day commercial paper rate plus 265%
+per annum. The line of credit has been extended twice for additional one-year
+terms. There were no outstanding borrowings under this loan agreement at
+December 31, 1999.
+The Company principal commitments at December 31, 1999 were leases on
+its headquarters and regional offices. There were no material commitments for
+capital expenditures at that date. The Company believes that its cash,
+investments, cash flows from operations and funds available from its credit
+facilities will be sufficient to satisfy its working capital and capital
+expenditure needs at least through 2000.                    22 FOREIGN EXCHANGE EXPOSURE
+Sales outside the United States represent a significant portion of the
+Company total revenues. At present, the majority of the Company revenues
+and expenses are invoiced and paid in U.S. dollars. In the future, the Company
+expects a greater portion of its revenues to be denominated in foreign
+currencies. Fluctuations in exchange rates between the U.S. dollar and such
+foreign currencies may have a material adverse effect on the Company
+business, results of operations and financial condition, particularly its
+operating margins, and could also result in exchange losses. The impact of
+future exchange rate fluctuations on the results of the Company operations
+cannot be accurately predicted. Historically, the Company has not managed the
+risks associated with fluctuations in exchange rates, but intends to undertake
+transactions to manage such risks in the future. To the extent that the
+percentage of the Company non-U.S. dollar revenues derived from international
+sales increases in the future, the risks associated with fluctuations in
+foreign exchange rates will increase. The Company at present is evaluating, and
+may use foreign exchange contracts with foreign currency options to hedge these
+risks.
+INFLATION
+The Company believes that inflation has not had a material impact on its
+results of operations in recent years and does not expect inflation to have a
+material impact on its operations in 2000.
+YEAR 2000
+During fiscal 1999, the Company completed its company-wide program to
+prepare the Company computer systems for year 2000 compliance. The year 2000
+issue relates to computer systems that use the last two digits rather than four
+to define a year and whether such systems would properly and accurately process
+information when the year changed to 2000.
+At the date of this report, the Company had not experienced any material
+problems related to the year 2000. The Company has not become aware of any
+significant year 2000 issues affecting the Company major customers or
+suppliers. The Company does not anticipate any material complaints regarding
+any year 2000 issues related to its products.
+Year 2000 related costs through December 31, 1999 were limited to
+employees' time and were expensed as incurred. The remaining estimated cost to
+address any additional year 2000 problems is deemed immaterial. No significant
+information system projects were deferred to accommodate the year 2000 issues.                    23 ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+INDEX TO FINANCIAL STATEMENTS
+PAGE
+Independent Auditors' Report    25
+Consolidated Balance Sheets as of December 31, 1999 and 1998..   26
+Consolidated Statements of Operations for the Years Ended
+December 31, 1999, 1998 and 1997    27
+Consolidated Statements of Shareholders' Equity for the Years Ended
+December 31, 1999, 1998 and 1997    28
+Consolidated Statements of Cash Flows for the Years Ended
+December 31, 1999, 1998 and 1997    29
+Notes to Consolidated Financial Statements..   30
+24 INDEPENDENT AUDITORS' REPORT To the Board of Directors and Shareholders
+of FARO Technologies, Inc.   We have audited the accompanying consolidated balance sheets of FARO
+Technologies, Inc. and subsidiaries as of December 31, 1999 and 1998, and the
+related consolidated statements of operations, shareholders' equity and cash
+flows for each of the three years in the period ended December 31, 1999. These
+financial statements are the responsibility of the Company management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+In our opinion, such consolidated financial statements present fairly, in
+all material respects, the financial position of FARO Technologies, Inc. and
+subsidiaries as of December 31, 1999 and 1998, and the results of their
+operations and their cash flows for each of the three years in the period ended
+December 31, 1999, in conformity with accounting principles generally accepted
+in the United States of America. DELOITTE & TOUCHE LLP
+Certified Public Accountants Tampa, Florida
+March 17, 2000                    25          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS                                             DECEMBER 31
+1999       1998
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents   $ 6,637,184   $ 1,183,656
+Short-term investments     6,494,262    17,011,831
+Accounts receivable, less allowance
+for doubtful accounts of $334,612 and $139,690..    9,812,838     8,963,343
+Refundable income taxes      234,470      716,048
+Inventories     6,199,414     6,443,618
+Prepaid expenses and other assets      447,894      155,037
+Deferred income taxes      494,088      121,543
+Total current assets    30,320,150    34,595,076
+PROPERTY AND EQUIPMENT -- at cost:
+Machinery and equipment     2,895,706     1,873,146
+Furniture and fixtures     1,094,927      899,616
+Leasehold improvements      34,086      28,889
+Total     4,024,719     2,801,651
+Less accumulated depreciation and amortization..   2,356,572    1,276,459
+Property and equipment -- net     1,668,147     1,525,192
+INTANGIBLE ASSETS -- net     5,979,072    12,821,191
+INVESTMENTS     3,747,694
+NOTES RECEIVABLE      130,936      178,688
+DEFERRED INCOME TAXES      257,913
+TOTAL ASSETS   $ 42,103,912   $ 49,120,147
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+Short-term notes payable to banks            $  296,230
+Current portion of long-term debt   $   8,746       4,156
+Accounts payable     2,200,408     2,020,359
+Accrued liabilities     2,838,330      832,093
+Current portion of unearned service revenues..     317,918      329,731
+Customer deposits      84,904      114,738
+Total current liabilities     5,450,306     3,597,307
+DEFERRED INCOME TAXES               78,220
+OTHER LONG-TERM LIABILITIES      54,260      69,229
+Total liabilities     5,504,566     3,744,756
+COMMITMENTS AND CONTINGENCIES Notes 2 and 10
+SHAREHOLDERS' EQUITY:
+Class A preferred stock -- par value $001, 10,000,000 shares
+authorized, no shares issued and outstanding
+Common stock -- par value $001, 50,000,000 shares authorized,
+11,392,842 and 11,048,137 issued; 11,019,510 and 11,008,137
+outstanding      11,060      11,048
+Additional paid-in capital    47,544,844    47,520,732
+Unearned compensation     123,404     292,316
+Accumulated deficit    9,307,651    1,912,829
+Other comprehensive loss income    1,374,878     199,381
+Common stock in treasury, at cost -- 40,000 shares in 1999 and 1998..    150,625     150,625
+Total shareholders' equity    36,599,346    45,375,391
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY   $ 42,103,912   $ 49,120,147
+See notes to consolidated financial statements.
+26          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS                               YEARS ENDED DECEMBER 31
+1999      1998      1997
+SALES   $ 33,105,740  $ 27,514,699  $ 23,516,385
+COST OF SALES    14,160,938   11,291,313    9,610,838
+Gross profit    18,944,802   16,223,386   13,905,547
+OPERATING EXPENSES:
+Selling    12,139,567    9,960,914    5,676,113
+General and administrative..   4,974,558    3,161,599    1,519,657
+Depreciation and amortization..   4,465,441    2,816,135     293,996
+Research and development..   3,828,801    2,587,181    1,075,505
+Employee stock options..    168,912     172,164     408,000
+Impairment loss on acquired intangible assets   3,073,000
+In-process research and development
+resulting from acquisition..           3,210,000
+Total operating expenses..   28,650,279   21,907,993    8,973,271
+LOSS INCOME FROM OPERATIONS..   9,705,477   5,684,607   4,932,276
+OTHER INCOME EXPENSE:
+Interest income..    715,953    1,077,713     442,444
+Other income     475,162     139,355     57,308
+Interest expense..     1,924    13,023    110,768
+LOSS INCOME BEFORE INCOME TAXES..   8,516,286   4,480,562   5,321,260
+INCOME TAX BENEFIT EXPENSE..   1,121,464    450,532    2,114,630
+NET LOSS INCOME..  $ 7,394,822  $ 4,931,094  $ 3,206,630
+NET LOSS INCOME PER COMMON
+SHARE -- BASIC..  $   067  $   046  $    041
+NET LOSS INCOME PER COMMON
+SHARE -- DILUTED..  $   067  $   046  $    039
+See notes to consolidated financial statements.                    27          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY                      COMMON STOCK    ADDITIONAL
+PAID-IN    UNEARNED
+SHARE   AMOUNTS   CAPITAL   COMPENSATION
+BALANCE, JANUARY 1, 1997.. 7,000,000  $ 7,000  $ 3,961,564   $  6,500
+Net income..
+Currency translation adjustment,
+net of tax..
+Comprehensive
+income..
+Granting of employee and
+director stock options..              866,793    501,834
+Amortization of unearned
+compensation..                       43,854
+Issuance of common stock.. 2,919,000   2,919  31,673,647
+BALANCE, DECEMBER 31, 1997       9,919,000   9,919  36,502,004    464,480
+Net loss..
+Currency translation adjustment,
+net of tax..
+Comprehensive loss..
+Issuance of common stock.. 1,129,137   1,129  10,323,564
+Income tax benefit resulting from
+the exercise of stock options..              695,164
+Amortization of unearned
+compensation..                      172,164
+Acquisition of treasury stock..
+BALANCE, DECEMBER 31, 1998      11,048,137  11,048  47,520,732    292,316
+Net loss..
+Currency translation adjustment,
+net of tax..
+Comprehensive loss..
+Issuance of common stock..   11,373    12    24,112
+Amortization of unearned
+compensation..                      168,912
+BALANCE, DECEMBER 31, 1999      11,059,510  $11,060  $47,544,844   $ 123,404
+ACCUMULATED
+RETAINED      OTHER
+EARNINGS    COMPREHENSIVE
+ACCUMULATED    LOSS     TREASURY
+DEFICIT     INCOME      STOCK     TOTAL
+BALANCE, JANUARY 1, 1997.. $ 188,365                   $ 3,773,699
+Net income..  3,206,630                    3,206,630
+Currency translation adjustment,
+net of tax..         $ 126,297            126,297
+Comprehensive
+income..                          3,080,333
+Granting of employee and
+director stock options..                           364,959
+Amortization of unearned
+compensation..                            43,854
+Issuance of common stock..                          31,676,566
+BALANCE, DECEMBER 31, 1997       3,018,265     126,297           38,939,411
+Net loss.. 4,931,094                   4,931,094
+Currency translation adjustment,
+net of tax..           325,678             325,678
+Comprehensive loss..                          4,605,416
+Issuance of common stock..                          10,324,693
+Income tax benefit resulting from
+the exercise of stock options..                           695,164
+Amortization of unearned
+compensation..                           172,164
+Acquisition of treasury stock..                   $ 150,625   150,625
+BALANCE, DECEMBER 31, 1998       1,912,829     199,381     150,625  45,375,391
+Net loss.. 7,394,822                   7,394,822
+Currency translation adjustment,
+net of tax..          1,574,259           1,574,259
+Comprehensive loss..                          8,969,081
+Issuance of common stock..                            24,124
+Amortization of unearned
+compensation..                           168,912
+BALANCE, DECEMBER 31, 1999      $9,307,651   $1,374,878    $ 150,625 $36,599,346
+See notes to consolidated financial statements.
+28          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF CASH FLOWS                                             YEARS ENDED DECEMBER 31
+1999        1998        1997
+CASH FLOWS FROM:
+OPERATING ACTIVITIES:
+Net loss income    $ 7,394,822   $ 4,931,094   $ 3,206,630
+Adjustments to reconcile net loss income to net cash
+provided by used in operating activities:
+Depreciation and amortization      4,465,441      2,858,108      293,996
+Bad debt expense, net of charge offs..      120,812       107,004        708
+Inventory reserve       627,411
+Impairment loss on acquired intangible assets..     3,073,000
+In-process research and development resulting from
+acquisition                3,210,000
+Deferred income tax      708,678      361,737      125,107
+Loss on disposal of fixed assets        5,400                 10,850
+Employee stock options       168,912       172,164      408,000
+Change in operating assets and liabilities:
+Decrease increase in:
+Accounts receivable     1,048,086     1,866,792    3,167,200
+Refundable income taxes       481,578      716,048
+Inventories      394,485     2,137,905     976,632
+Notes receivable       47,752       124,683
+Prepaid expenses and other assets..     292,857       66,972      68,778
+Increase decrease in:
+Accounts payable and accrued liabilities..     2,380,912      149,255     228,896
+Unearned service revenues       5,757      159,794      50,151
+Customer deposits       28,458       6,620     109,035
+Net cash provided by used in operating activities..     1,498,075     3,066,840     705,313
+INVESTING ACTIVITIES:
+Purchases of property and equipment..    1,120,552     1,001,655     480,127
+Acquisition of business net of cash acquired..              5,668,382
+Short-term investments               17,011,831
+Payment of patent costs                105,651     203,549
+Payment of product design costs                635,943     108,286
+Payments for intangible assets      316,527      754,559
+Cash received from investments      6,769,875
+Net cash provided by used in investing activities..     5,332,796     25,178,021     791,962
+FINANCING ACTIVITIES:
+Proceeds from issuance of Common Stock -- net..      24,124       624,842     31,676,566
+Payments on long-term debt and notes payable..     306,403      186,447    1,501,267
+Acquisition of treasury stock                150,625
+Net cash used in provided by financing activities..     282,279      287,770     30,175,299
+EFFECT OF EXCHANGE RATE CHANGES ON CASH..    1,095,064      325,678      126,297
+INCREASE DECREASE IN CASH AND CASH
+EQUIVALENTS      5,453,528     27,631,413    28,551,727
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR..     1,183,656     28,815,069      263,342
+CASH AND CASH EQUIVALENTS, END OF YEAR..   $  6,637,184    $  1,183,656    $ 28,815,069
+See notes to consolidated financial statements.
+29          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED DECEMBER 31, 1999, 1998 AND 1997
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+DESCRIPTION OF BUSINESS -- FARO Technologies, Inc. and subsidiaries
+develops, manufactures, markets and supports Computer Aided Design CAD-based
+quality assurance products and CAD-based inspection and statistical process
+control software. The Company has three wholly-owned subsidiaries: FARO
+Worldwide, Inc.; FARO Europe GmbH & Co. KG, a German company, and Antares LDA,
+a Portuguese company.
+PRINCIPLES OF CONSOLIDATION -- The consolidated financial statements
+include the accounts of FARO Technologies, Inc. and all wholly-owned
+subsidiaries collectively, the Company. All significant intercompany
+transactions and balances have been eliminated. The financial statements of the
+foreign subsidiaries are translated into U.S. dollars using exchange rates in
+effect at period end for assets and liabilities and average exchange rates
+during each reporting period for results of operations. Adjustments resulting
+from translation of financial statements are reflected as a separate component
+of comprehensive loss income.
+REVENUE RECOGNITION, PRODUCT WARRANTY AND EXTENDED MAINTENANCE CONTRACTS
+- -- Revenue related to the Company 3-D measurement equipment and related
+software is recognized upon shipment as the Company considers the earnings
+process substantially complete as of the shipping date. Revenue from sales of
+software only is recognized when no further significant production,
+modification or customization of the software is required and where the
+following criteria are met: persuasive evidence of a sales agreement exists,
+delivery has occurred, and the sales price is fixed or determinable and
+collectible. Revenues resulting from sales of comprehensive support, training
+and technology consulting services are recognized as such services are
+performed. Extended maintenance plan revenues are recognized proportionately as
+maintenance costs are projected to be incurred. Prior to November 1, 1997, such
+revenues were recognized ratably over the contract term. The change in estimate
+with respect to the recognition of such revenues more accurately matches
+revenues with costs incurred. The Company warrants its products against defects
+in design, materials and workmanship for one year. A provision for estimated
+future costs relating to warranty expenses is recorded when products are
+shipped. Costs relating to extended maintenance plans are recognized as
+incurred.
+CASH AND CASH EQUIVALENTS -- The Company considers cash on hand and
+amounts on deposit with financial institutions which have original maturities
+of three months or less to be cash and cash equivalents.
+30          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES--CONTINUED
+All short-term investments in debt securities which have maturities of
+three months or less are included in cash and cash equivalents and classified
+as trading securities, which are carried at their fair value based upon the
+quoted market prices of those investments at December 31, 1999 and 1998.
+Accordingly, net realized and unrealized gains and losses on trading securities
+are included in other income in the consolidated statements of operations.
+Total trading securities included in cash and cash equivalents were $4,694,451
+and $145,437 at December 31, 1999 and 1998, respectively. The gross unrealized
+gain or loss on all trading securities was an unrealized loss of approximately
+$18,000 at December 31, 1999, and an unrealized gain of approximately $3,000 at
+December 31, 1998.
+INVESTMENTS -- Short-term investments ordinarily consist of short-term
+debt securities acquired with cash not immediately needed in operations. Such
+amounts have maturities of less than one year. Investments ordinarily consist
+of debt securities acquired with cash not immediately needed in operations.
+Such amounts have maturities of at least one year none have maturities
+exceeding eighteen months.
+Management determines the appropriate classification of its short term
+investments and investments in debt securities at the time of the purchase and
+reevaluates such determinations at each balance sheet date. All investments in
+debt securities are classified as held to maturity as the company has the
+positive intent and ability to hold the securities to maturity. Held to
+maturity securities are stated at amortized cost. The amortized cost of debt
+securities is adjusted for amortization of premiums and accretion of discounts
+to maturity. Such amortization and interest are included in other income in the
+consolidated statements of operations. The Company investments in debt
+securities are diversified among high credit quality securities in accordance
+with the Company investment policy. The gross unrealized gain or loss on all
+held to maturity debt securities was an unrealized loss of approximately
+$83,000 at December 31, 1999, and unrealized loss of approximately $40,000 at
+December 31, 1998.
+INVENTORIES -- Inventories are stated at the lower of average cost or net
+realizable value. In order to achieve a better matching of production costs
+with the revenues generated in production, certain fixed overhead costs and
+certain general and administrative costs that are related to production are
+capitalized into inventory when they are incurred and are charged to cost of
+sales as product costs at the time of sale. Such amounts are not material to
+the consolidated financial statements.
+Sales demonstration inventory is comprised of measuring devices utilized
+by sales representatives to present the Company products to customers. These
+products remain in sales demonstration inventory for six to twelve months and
+are subsequently sold at prices that produce slightly reduced gross margins.
+31          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES--CONTINUED
+PROPERTY AND EQUIPMENT -- Property and equipment are recorded at cost.
+Depreciation is computed using the straight-line and declining-balance methods
+over the estimated useful lives of the various classes of assets as follows     Machinery and equipment..  2 to 10 years
+Furniture and fixtures..  5 to 10 years
+Leasehold improvements are amortized on the straight-line basis over the
+lesser of the life of the asset or the term of the lease.
+INTANGIBLES -- Goodwill represents the excess of purchase price over the
+fair value of businesses acquired and is amortized on a straight-line basis
+over 5 years.
+Other acquired intangibles principally include core technology, existing
+product technology, workforce in place and customer relationships that arose in
+connection with the acquisition of CATS. Other acquired intangibles are
+recorded at fair value at the date of acquisition and are amortized over their
+estimated useful lives of primarily 3 to 5 years.
+Product design costs incurred in the development of products after
+technological feasibility is attained are capitalized and amortized using the
+straight-line method over the estimated economic lives of the related products,
+not to exceed 3 years. The Company considers technological feasibility to be
+established when the Company has completed all planning, designing, coding and
+testing activities that are necessary to establish design specifications
+including function, features and technical performance requirements.
+Capitalization of product design costs ceases and amortization of such costs
+begins when the product is available for general release to customers.
+Patents are recorded at cost. Amortization is computed using the
+straight-line method over the lives of the patents, which is 17 years.
+Other intangibles are amortized over periods ranging from 3 to 5 years.
+RESEARCH AND DEVELOPMENT -- Research and development costs incurred in the
+discovery of new knowledge and the resulting translation of this new knowledge
+into plans and designs for new products, prior to the attainment of the related
+products' technological feasibility, are recorded as expenses in the period
+incurred.
+INCOME TAXES -- The Company utilizes the asset and liability method to
+measure and record deferred income tax assets and liabilities. Deferred tax
+assets and liabilities reflect the future income tax effects of temporary
+differences between the consolidated financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases
+32          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES--CONTINUED
+and are measured using enacted tax rates that apply to taxable income in the
+years in which those temporary differences are expected to be recovered or
+settled. Deferred tax assets are reduced by a valuation allowance when, in the
+opinion of management, it is more likely than not that some portion or all of
+the deferred tax assets will not be realized.
+FAIR VALUE OF FINANCIAL INSTRUMENTS -- The Company financial instruments
+include cash and cash equivalents, short-term investments, accounts receivable,
+investments, accounts payable and liabilities to banks. The carrying amount of
+long-term debt to banks approximates fair value based on interest rates that
+are currently available to the Company for issuance of debt with similar terms
+and remaining maturities. The carrying amounts of other financial instruments
+approximate their fair value because of their short-term maturities.
+EARNINGS PER SHARE -- Basic earnings per share EPS is computed by
+dividing earnings available to common shareholders by the weighted-average
+number of common shares outstanding for the period. Diluted EPS reflects the
+potential dilution of securities that could share in the earnings. A
+reconciliation of the number of common shares used in calculation of basic and
+diluted EPS is presented in Note 12.
+CONCENTRATION OF CREDIT RISK -- Financial instruments which potentially
+expose the Company to concentrations of credit risk consist principally of
+operating demand deposit accounts. The Company policy is to place its
+operating demand deposit accounts with high credit quality financial
+institutions.
+In June 1996, the Company entered into an Original Equipment Manufacturer
+OEM agreement with Mitutoyo Corporation Mitutoyo, a Japanese company
+which manufactures and markets metrology tools. Under the agreement, Mitutoyo
+sells the Company products under the name SPINARM. The agreement, which
+grants Mitutoyo a nonexclusive right to sales in Japan, originally expired in
+June 1999 and was renewed for a successive one-year term in 1999.
+In March 1999, the Company entered into an OEM agreement with Brown &
+Sharpe Manufacturing Company Brown & Sharpe, a North Kingstown, Rhode
+Island company that is a world leader in the manufacture of traditional CMMs
+and other metrology products. Brown & Sharpe will market the FAROArm/registered
+trademark/ worldwide under the name GAGE 2000 A. The agreement, which grants
+Brown & Sharpe non-exclusive distribution right worldwide, expires in March
+2001, and is renewable for successive one-year terms.
+No customer represented 6% or more of the Company total sales for the
+years ended December 31, 1999 and 1998.
+33          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES--CONTINUED
+STOCK-BASED COMPENSATION -- In accordance with Statement of Financial
+Accounting Standards SFAS No. 123, Accounting for Stock-Based
+Compensation, SFAS No. 123, the Company has elected to continue to account
+for its employee stock compensation plans under Accounting Principle Board
+APB Opinion No. 25 with pro forma disclosures of net earnings and earnings
+per share, as if the fair value based method of accounting defined in SFAS No.
+123 has been applied. Under the intrinsic value based method, compensation cost
+is the excess, if any, of the quoted market price of the stock at the grant
+date or other measurement date over the amount an employee must pay to acquire
+the stock. Under the fair value based method, compensation cost is measured at
+the grant date based on the value of the award and is recognized over the
+service period, which is usually the vesting period.
+LONG-LIVED ASSETS -- Long-lived assets, including property and equipment
+and certain intangible assets to be held and used by the Company are reviewed
+for impairment whenever events or changes in circumstances indicate that the
+carrying value of the assets may not be recoverable. Impairment losses are
+recognized if expected future cash flows of the related assets are less than
+their carrying values. Measurement of an impairment loss is based on the fair
+value of the asset. Long-lived assets and certain identifiable intangibles to
+be disposed of are reported at the lower of carrying amount or fair value less
+cost to sell. See Note 2 regarding the impairment of certain developed and core
+technology.
+ESTIMATES -- The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+RECENTLY ADOPTED ACCOUNTING STANDARDS -- In June 1997, the Financial
+Accounting Standards Board FASB issued SFAS No. 130, Reporting
+Comprehensive Income SFAS No. 130, effective for fiscal years beginning
+after December 15, 1997. SFAS No. 130 requires that all items that are required
+to be recognized under accounting standards as components of comprehensive
+income be reported in a financial statement that is displayed with the same
+prominence as other financial statements. SFAS No. 130 does not require a
+specific format for that financial statement but requires that an entity
+display an amount representing total comprehensive income for the period in
+that statement. SFAS No. 130 requires that an entity classify items of other
+comprehensive income by their nature in a financial statement. For example,
+other comprehensive loss income may include foreign currency and unrealized
+gains and losses on certain investments in debt and equity securities. In
+addition, the accumulated balance of other comprehensive income must be
+34          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES--CONTINUED
+displayed separately from retained earnings and additional paid in capital in
+the equity section of a statement of financial position. The Company adopted
+this accounting standard on January 1, 1998, as required. Prior year financial
+statements have been restated for comparative purposes.
+In June 1997, the FASB issued SFAS No. 131, Disclosure About Segments of
+an Enterprise and Related Information SFAS No. 131, effective for fiscal
+years beginning after December 15, 1997. SFAS No. 131 establishes standards for
+reporting information about operating segments in annual financial statements
+and requires selected information about operating segments in interim financial
+reports to shareholders. It also establishes standards for related disclosures
+about products and services, geographic areas and major customers. Operating
+segments are defined as components of an enterprise about which separate
+financial information is available that is evaluated regularly by the chief
+operating decision maker in deciding how to allocate resources and in assessing
+performance. SFAS No. 131 requires reporting segment profit or loss, certain
+specific revenue and expense items and segment assets. It also requires
+reconciliations of total segment revenues, total segments profit or loss, total
+segment assets, and other amounts disclosed for segments to corresponding
+amounts reported in the financial statements.
+In October 1997 the American Institute of Certified Public Accountants
+issued Statement of Position 97-2, Software Revenue Recognition SOP 97-2.
+SOP 97-2 provides guidance on applying generally accepted accounting principles
+in recognizing revenue on software transactions and is effective for
+transactions entered into in fiscal years beginning after December 15, 1997.
+The Company adopted SOP 97-2 on January 1, 1998, as required. Adoption of this
+SOP 97-2 did not have a material effect on the financial statements.
+NEW ACCOUNTING STANDARDS -- The FASB recently issued SFAS No. 137,
+Accounting for Derivative Instruments and Hedging Activities-Deferral of
+Effective Date of FASB Statement No. 133 SFAS No. 137. SFAS No. 137 defers
+for one year the effective date of SFAS No. 133, Accounting for Derivative
+Instruments and Hedging Activities SFAS No. 133. The rule now will apply
+to all fiscal quarters of all fiscal years beginning after June 15, 2000. SFAS
+No. 137 permits early adoption as of the beginning of any fiscal quarter after
+its issuance. SFAS No. 133 will require the Company to recognize all
+derivatives on the balance sheet at fair value. Derivatives that are not hedges
+must be adjusted to fair value through income. If the derivative is a hedge,
+depending on the nature of the hedge, changes in the fair value of derivatives
+will either be offset against the change in fair value of the hedged assets,
+liabilities, or firm commitments through earnings or recognized in other
+comprehensive income until the hedged item is recognized in earnings.
+35          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES--CONTINUED
+The ineffective portion of a derivative change in fair value will be
+immediately recognized in earnings. The Company has not completed its
+evaluation of the impact of SFAS No. 133 on the financial statements.
+RECLASSIFICATIONS -- Certain prior year amounts have been reclassified to
+conform to current year presentation.
+2. ACQUISITION OF CATS
+On May 15, 1998, the Company acquired CATS GmbH CATS for total
+consideration of $16,069,000 consisting of $5 million in cash, 916,668 shares
+of Common Stock and the assumption of certain outstanding liabilities of CATS.
+The purchase price includes direct costs of the acquisition in the amount of
+$674,000.
+In addition, 333,332 shares of Common Stock were placed in escrow to be
+issued provided CATS met certain sales performance goals within an
+eighteen-month period following the acquisition. These sales goals were not met
+by November 15, 1999. The 90-day period for registering disputes expired on
+February 13, 2000 with no claims. The 333,332 shares held by the escrow agent
+are being returned to the Company.
+The acquisition agreement provided that the Company would provide a loan
+to the two former shareholders of CATS to fund their tax liability in
+connection with the shares of FARO Common Stock that they received in the
+acquisition. The former CATS shareholders remain key employees of the Company.
+Pursuant to a Loan Agreement dated August 2, 1999 with each of the former CATS
+shareholders, the Company has agreed to loan to the former CATS shareholders an
+amount equal to their tax obligation to the German tax authorities in
+connection with the acquisition of CATS. The aggregate amount of the loans is
+estimated to be approximately $2 million. The Company is not obligated to
+provide the loans until the German tax authorities request payment for the tax
+from the former CATS shareholders, which has not yet occurred. Moreover, the
+loan commitment will cease if the Company share price rises to $1134 per
+share the price establishing the tax liability for several consecutive days.
+If the loans are made, they will be for a term of three years, at an interest
+rate of approximately 43%, with an option for the borrower to extend the term
+for an additional three years. As collateral for the loans, the former CATS
+shareholders will pledge to the Company the number of shares of Company Common
+Stock equal to the amount of the loan divided by 6375. If the amount of the
+loans is $2 million, the loans will be secured by 313,725 shares. The loans
+will be a non-recourse obligation of the former CATS shareholders.
+36          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+2. ACQUISITION OF CATS--CONTINUED
+The acquisition was recorded under the purchase method of accounting and
+the final allocation among tangible and intangible assets and liabilities is as
+follows   Tangible assets including cash of $5,618..  $ 1,522,000
+Intangible assets:
+Developed and core technology..   8,940,000
+Workforce in place     550,000
+Customer relations     590,000
+Goodwill    2,871,000
+In-process technology..   3,210,000
+Liabilities assumed   1,614,000
+$16,069,000
+The valuation of CATS was based on management estimates of after tax net
+cash flows and gives explicit consideration to the Security and Exchange
+Commission SEC recent views on in-process research and development in
+purchase transactions. In making the allocation of purchase price, the Company
+considered the present value of cash flows and income, the status of projects,
+completion costs and project risk. Specifically, the Company considered 1 the
+value of core technology and ensured that the relative allocations to core
+technology and in-process technology were consistent with the relative
+contributions of each of the final products and 2 the stage of completion of
+the individual projects and ensured that the value considered only the efforts
+completed as of the transaction date.
+The amount allocated to in-process research and development of $32
+million was expensed upon acquisition, as it was determined that the underlying
+projects had not reached technological feasibility, had no alternative future
+use and successful future development was uncertain.
+In the fourth quarter of 1999, the Company recorded a write-down of
+developed and core technology of approximately $3,073,000 in the Consolidated
+Statement of Operations. This write-down was in accordance with SFAS No. 121,
+Accounting for Impairment of Long-Lived Assets SFAS No. 121. Developed
+and core technology was determined to have been impaired because the
+anticipated future cash flows resulting from the software products acquired
+from CATS GmbH indicate that the recoverability of a portion of the developed
+and core technology is not reasonably assured. The estimated fair value of the
+developed and core technology was determined by calculating the present value
+of the estimated future cash flows.
+37          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+2. ACQUISITION OF CATS--CONTINUED
+The operating results of CATS have been included in the Consolidated
+Statements of Operations since the date of acquisition. The following unaudited
+pro forma results of operations are presented for informational purposes
+assuming that the Company had acquired CATS as of January 1, 1997. The $32
+million charge off for in-process research and development has been excluded
+from the pro forma results as it represents a material unusual charge.                    YEARS ENDED DECEMBER 31
+1998       1997
+Revenues..  $28,357,000    $26,860,000
+Net loss income..  1,215,000     1,369,000
+Loss income per share:
+Basic..  $   011    $   016
+Diluted..  $   011    $   015   The pro forma results of operations have been prepared for comparative
+purposes only and do not purport to be indicative of the results of operations
+which actually would have resulted had the acquisition occurred on the date
+indicated, or which may result in the future.
+3. SUPPLEMENTAL CASH FLOW INFORMATION
+Selected cash payments and non cash activities were as follows                                  YEARS ENDED DECEMBER 31
+1999      1998      1997
+Cash paid for interest..  $   3,237  $   13,023  $  110,768
+Cash paid for income taxes..     24,392     569,481   1,951,286
+Non cash investing and financing activities:
+Business acquired:
+Fair market value of assets acquired, net of
+cash acquired..           17,677,382
+Liabilities assumed..           1,614,000
+Common stock issued..           10,395,015                    38          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+4. INVENTORIES
+Inventories consist of the following                               DECEMBER 31
+1999       1998
+Raw materials..  $ 1,914,543   $ 2,778,081
+Finished goods..   1,191,977    1,486,572
+Sales demonstration..   3,092,894    2,178,965
+$ 6,199,414   $ 6,443,618
+5. INTANGIBLE ASSETS
+Intangible assets consist of the following                               DECEMBER 31
+1999       1998
+Goodwill   $ 2,695,632   $ 3,033,767
+Existing product technology..   5,320,924    9,446,839
+Work force in place..    516,405     581,181
+Customer relationships..    553,961     623,449
+Product design costs..    886,897     744,229
+Patents    1,102,821     956,439
+Other     283,067     130,639
+11,359,707   15,516,543
+Accumulated amortization..   5,380,635   2,695,352
+Intangible assets -- net..  $ 5,979,072   $12,821,191
+6. ACCRUED LIABILITIES
+Accrued liabilities consist of the following                               DECEMBER 31
+1999       1998
+Accrued compensation and benefits..  $ 1,334,675   $  221,105
+Accrued royalties and warranties..    227,486
+Other accrued liabilities..   1,276,169     610,988
+$ 2,838,330   $  832,093
+39          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+7. NOTES PAYABLE AND DEBT
+Long-term debt consists of the following                               DECEMBER 31
+1999     1998
+58% secured note..  $ 5,424   $ 10,092
+4-year, 59% automobile loan..   20,812
+Unsecured note to shareholders..          31,388
+26,236    41,480
+Less current portion..   8,746    4,156
+$ 17,490   $ 37,324
+Long-term debt of $17,490 and $37,324 is included in other long-term
+liabilities in the accompanying consolidated balance sheets as of December 31,
+1999 and 1998, respectively.
+The secured note is collateralized by a telephone system and was repaid in
+full in January 2000. In November 1999, a subsidiary acquired a company vehicle
+through a financing medium payable in 4 years to expire in 2003. The loan was
+originally financed for approximately $22,000.
+In April 1997, the Company obtained a one-year unsecured $10 million line
+of credit which bears interest at the 30-day commercial paper rate plus 265%
+per annum. The line of credit was extended in 1998 and 1999 and expires on
+March 31, 2000. No borrowings were outstanding under this line of credit as of
+December 31, 1999 and 1998.
+A subsidiary has a standby line of credit for $20,000 with a German bank
+to secure the remaining lease obligation on the former German headquarters. A
+3% fee is charged annually on the amount of the line of credit.
+In December 1998, the Company had available with two financial
+institutions short-term revolving lines of credit aggregating $445,000. Under
+these lines, a subsidiary could borrow funds for operations. These lines of
+credit were personally guaranteed by certain shareholders. The total amount
+outstanding on these lines at December 31, 1998 was approximately $296,000. The
+average interest rates in such borrowings at December 31, 1998 was 9%. The
+entire balance was repaid in 1999 and the line of credit was not renewed.
+40          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+8. RELATED PARTY TRANSACTIONS
+LEASES -- The Company leases its plant and office building from Xenon
+Research, Inc. Xenon, a 26% shareholder. The lease, which was amended in
+1997 to provide for additional premises and an increase in base rent of
+approximately $150,000, expires on February 28, 2001. The Company has two
+five-year renewal options. The base rent during renewal periods will reflect
+changes in the U.S. Bureau of Labor Statistics, Consumer Price Index for all
+Urban Consumers. Rent expense under this lease was approximately $358,000 in
+1999, $300,000 for 1998 and $150,000 for 1997.
+9. INCOME TAXES
+Loss income before taxes consisted of the following                                YEARS ENDED DECEMBER 31
+1999       1998      1997
+Domestic    $ 2,508,948  $  712,795  $5,584,295
+Foreign     6,007,338   5,193,357   263,035
+Loss income before income taxes..   $ 8,516,286  $ 4,480,562  $5,321,260
+The components of the income tax benefit expense for income taxes are as
+follows                                   DECEMBER 31
+1999       1998      1997
+Current:
+Federal    $  357,453  $   75,174  $1,945,035
+State       55,333     13,621    294,702
+412,786     88,795   2,239,737
+Deferred:
+Federal      585,932     107,597   108,646
+State       10,174      10,666    16,461
+Foreign      132,920     243,474
+708,678     361,737   125,107
+$ 1,121,464  $  450,532  $2,114,630
+41          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+9. INCOME TAXES--CONTINUED
+Income tax benefit expense for the years ended December 31, 1999, 1998
+and 1997 differ from the amount computed by applying the federal statutory
+corporate rate to income before income taxes. The differences are reconciled as
+follows                                     YEARS ENDED DECEMBER 31
+1999        1998       1997
+Tax benefit expense at statutory rate..   $ 2,895,537   $ 1,523,391   $1,809,228
+State income taxes, net of federal benefit..     109,543      46,719     181,713
+Nontaxable interest income..     141,180     121,442
+Foreign tax rate difference..     986,167     943,551
+Research and development credit..     171,059     103,309    64,893
+Nondeductible items       42,530       22,831     159,198
+Change in deferred tax asset
+valuation allowance     3,028,662     3,033,000
+Other      110,830       39,675     29,384
+Total income tax benefit expense..   $ 1,121,464   $  450,532   $2,114,630
+The components of the Company net deferred tax asset at December 31,
+1999 and 1998 are as follows                                             DECEMBER 31
+1999       1998
+Net deferred tax asset/liability -- current
+Unearned service revenue          $   6,780   $  98,230
+Product design costs            124,303    272,631
+Tax credits and carryforwards..            2,686     234,970
+Other            608,925     60,974
+Net deferred tax asset -- current..         $  494,088   $ 121,543
+Net deferred tax asset/liability -- non-current
+Depreciation          $   49,618   $ 22,979
+Employee stock options            150,363     87,347
+Unearned service revenue            106,305     52,082
+Patent amortization            48,373    72,963
+Intangible assets           3,762,451    2,089,000
+Foreign currency translation adjustment..                   132,920
+Tax credits and carryforwards..          2,299,211     944,000
+Other                     11,213
+Valuation allowance           6,061,662   3,033,000
+Net deferred tax asset/liability -- non-current..         $  257,913   $ 78,220
+42          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+9. INCOME TAXES--CONTINUED
+At December 31, 1999, the Company foreign subsidiaries had deferred tax
+assets relating to net operating loss carryforwards, which do not expire, and
+intangible assets of $2,299,211 and $3,762,451, respectively. For financial
+reporting purposes, a valuation allowance of $6,061,662 has been recognized to
+offset the deferred tax assets relating to the net operating losses and
+intangible assets.
+10. COMMITMENTS AND CONTINGENCIES
+LEASES -- The following is a schedule of future minimum lease payments
+required under noncancelable operating leases, including leases with related
+parties see Note 8, in effect at December 31, 1999  YEAR ENDING DECEMBER 31              AMOUNT
+2000   $ 964,000
+2001    536,000
+2002    334,000
+2003    292,000
+2004    283,000
+Total future minimum lease payments..  $2,409,000
+Rent expense for 1999, 1998 and 1997 was approximately $973,000, $641,000
+and $236,000, respectively.
+LITIGATION -- In the normal course of business, the Company is subject to
+various proceedings, lawsuits and other claims. Such matters are subject to
+many uncertainties, and outcomes are not predictable with assurance. While
+these uncertainties could affect future operations, the Company believes that
+after final disposition, any monetary liability or financial impact would not
+be expected to have a materially adverse effect on the Company Consolidated
+Financial Statements.
+11. STOCK OPTION PLANS
+The Company has three stock option plans that provide for the granting of
+stock options to key employees and non-employee members of the Board of
+Directors. The 1993 Stock Option Plan 1993 Plan and the Amended and
+Restated 1997 Employee Stock Option Plan 1997 Plan provide for granting
+incentive stock options and nonqualified stock options to officers and key
+employees of the Company. The Non-Employee Director Plan provides for granting
+nonqualified stock options and formula options to non-employee directors.
+43          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED 11. STOCK OPTION PLANS--CONTINUED
+The Company is authorized to grant options for up to 1,000,000 shares of
+Common Stock under the 1993 Plan, of which 295,997 and 133,218 options have
+been granted at exercise prices of $036 and $360, respectively. These options
+vest over primarily 3 and 4 year periods.
+The Company is authorized to grant options for up to 1,400,000 shares of
+Common Stock under the 1997 Plan, of which 857,594 options have been granted at
+exercise prices between $331 and $1430 for those meant to qualify for
+treatment as incentive stock options. These options vest over a three-year
+period. Subsequent to December 31, 1999, an additional 218,550 options were
+granted.
+The Company is authorized to grant up to 250,000 shares of Common Stock
+under the Non-Employee Director Plan. Each non-employee director is granted
+3,000 options upon election or reelection to the Board of Directors formula
+options. Formula options granted to directors are generally granted upon the
+same terms and conditions as options granted to officers and employees. These
+options vest over a three-year period. Additionally in 1997, certain
+non-employee directors were granted options to purchase 160,000 of Common Stock
+in consideration for their prior service on the Board of Directors. These
+options vested upon grant at an exercise price of $12.
+Additionally, the Company 1997 Non-Employee Directors' Fee Plan permits
+non-employee directors to elect to receive directors' fees in the form of
+Common Stock rather than cash. Common Stock issued in lieu of cash directors'
+fees is issued at the end of the quarter in which the fees are earned, with the
+number of shares being based on the fair market value of the Common Stock for
+the five trading days immediately preceding the last business day of the
+quarter.
+Compensation cost charged to operations associated with the Company
+stock option plans was $168,912, $172,164 and $408,000 in 1999, 1998 and 1997,
+respectively. Compensation cost was based on the difference between the value
+of the stock, at date of grant, and its exercise price multiplied by the number
+of shares vested in each year.
+44          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+11. STOCK OPTION PLANS--CONTINUED
+A summary of stock option activity and weighted average exercise prices
+follows                               YEARS ENDED DECEMBER 31
+1999           1998          1997
+WEIGHTED-        WEIGHTED-        WEIGHTED-
+AVERAGE         AVERAGE         AVERAGE
+EXERCISE         EXERCISE        EXERCISE
+OPTIONS   PRICE    OPTIONS   PRICE    OPTIONS   PRICE
+Outstanding at beginning of
+year.. 1,194,165   $ 973   955,723   $ 800    190,512  $ 036
+Granted..  66,000    476   535,381    864    797,001    990
+Forfeited.. 108,106    776   84,470    822    31,790   967
+Exercised..  11,373    260   212,469    117
+Outstanding at year-end.. 1,140,686    979  1,194,165    973    955,723    800
+Outstanding exercisable at
+year-end..  659,275   $ 1049   417,780   $ 1078    498,680  $ 667
+Weighted-average fair value
+of options granted during
+the year.. $  375        $  526         $  482   A summary of stock options outstanding and exercisable as of December 31,
+1999 follows                               WEIGHTED-AVERAGE
+EXERCISE      OPTIONS        REMAINING       OPTIONS
+PRICE      OUTSTANDING   CONTRACTUAL LIFE YEARS   EXERCISABLE
+$    036      27,859         597         27,859
+$ 331-364     243,366         859         103,914
+$ 416-562      60,000         952            0
+$1034-1135     137,461         852         45,817
+$   1200     332,000         772         275,018
+$1300-1320     240,000         574         173,334
+$   1430     100,000         816         33,333
+1,140,686                   659,275
+45          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+11. STOCK OPTION PLANS--CONTINUED
+Remaining non-exercisable options as of December 31, 1999 become
+exercisable as follows    YEAR ENDING
+DECEMBER 31                    AMOUNT
+2000                      283,918
+2001                      175,825
+2002                      21,668
+481,411
+Had compensation cost for the Company stock-based compensation plans
+been determined consistent with SFAS No. 123, the Company net earnings and
+earnings per share would have been as follows                                YEARS ENDED IN DECEMBER 31
+1999        1998        1997
+Net loss income..  As reported    $ 7,394,822   $ 4,931,094   $ 3,206,630
+Pro forma      8,531,554    5,720,379    2,345,551
+Loss income per share   Basic..  As reported    $   067   $   046   $   041
+Pro forma        077       054       030
+Loss income per share   Diluted..  As reported    $   067   $   046   $   039
+Pro forma        077       054       029   The Company used the Black-Scholes option-pricing model to determine the
+fair value of grants made. The following assumptions were applied in
+determining the pro forma compensation cost                        YEARS ENDED IN DECEMBER 31
+1999      1998      1997
+Risk-free interest rate..    550%  486 to 583%     563%
+Expected dividend yield..      0%        0%      0%
+Expected option life..  3-10 years    3-10 years  3-10 years
+Stock price volatility..   10521%      9132%    4633   The effects of applying SFAS No. 123 for the pro forma disclosures are not
+representative of the effects expected on reported net loss income and loss
+income per share in future years since the disclosures do not reflect
+compensation expense for options granted prior to 1996.
+46          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+12. EARNINGS PER SHARE
+A reconciliation of the number of common shares used in calculation of
+basic and diluted earnings per share EPS is presented below                          YEARS ENDED DECEMBER 31
+1999           1998          1997
+PER-SHARE        PER-SHARE        PER-SHARE
+SHARES    AMOUNT   SHARES    AMOUNT   SHARES   AMOUNT
+Basic EPS.. 11,015,140   $ 067 10,632,708   $ 046  7,831,715  $ 041
+Effect of dilutive
+securities:
+Stock options..                           355,495
+Warrants..                            1,838
+Diluted EPS.. 11,015,140   $ 067 10,632,708   $ 046  8,189,048  $ 039
+13. BENEFIT PLAN
+During 1996, the Company established a defined contribution retirement
+401k plan for its employees, which provides benefits for all employees meeting
+certain age and service requirements. The Company may make a discretionary
+contribution each Plan year as determined by its Board of Directors.
+Discretionary contributions or employer matches can be made to the
+participant account but cannot exceed 4% of compensation. The Company made no
+contributions to the Plan during the three years ending December 31, 1999.
+14. SEGMENT GEOGRAPHIC DATA
+The Company develops, manufactures, markets and supports Computer-Aided
+Design CAD-based quality assurance products and CAD-based inspection and
+statistical process control software. This one line of business represents more
+than 99% of consolidated sales. The Company operates through sales teams
+established by geographic area. Each team is equipped to deliver the entire
+line of Company products to customers within its geographic area. The Company
+has aggregated the sales teams into a single operating segment as a result of
+the similarities in the nature of products sold, the type of customers and the
+47          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+14. SEGMENT GEOGRAPHIC DATA--CONTINUED
+methods used to distribute the Company products. The following table presents
+information about the Company by geographic area                                DECEMBER 31
+1999             1998             1997
+LONG-LIVED          LONG-LIVED          LONG-LIVED
+SALES    ASSETS     SALES     ASSETS     SALES     ASSETS
+United States.. $17,687,875  $2,522,654  $14,740,829  $ 2,707,921  $15,439,776   $1,522,627
+Germany..  6,321,760   5,083,420   4,920,197   11,592,359   1,235,066
+United Kingdom..  2,568,020          1,916,115           1,263,294
+France..  1,716,031    41,145   1,647,798
+Canada..  1,286,501          1,283,834           1,252,423
+Other foreign..  3,525,553          3,005,926     46,103   4,325,826     53,132
+Total.. $33,105,740  $7,647,219  $27,514,699  $14,346,383  $23,516,385   $1,575,759
+15. QUARTERLY RESULTS OF OPERATIONS UNAUDITED               MARCH 31,     JUNE 30,   SEPTEMBER 30,   DECEMBER 31,
+QUARTER ENDED         1999       1999       1999       1999
+-                                              
+Sales..  $ 6,904,496   $8,611,436    $ 7,025,005    $10,564,803
+Gross profit..    4,165,767   5,163,983     3,633,976     5,981,076
+Net loss..   1,140,791   164,555    1,663,750    4,425,726
+Net loss per share:
+Basic..  $   010  $  001    $   015   $   040
+Diluted..      010     001       015      040                 MARCH 31,    JUNE 30,   SEPTEMBER 30,  DECEMBER 31,
+QUARTER ENDED           1998       1998      1998      1998
+-                                              
+Sales..  $ 6,682,201  $ 7,721,808  $ 4,972,182  $ 8,138,508
+Gross profit..   4,000,439    4,941,965    2,512,039    4,768,943
+Net income loss..   1,023,391   1,709,731   2,740,809   1,503,945
+Net income loss per share:
+Basic..  $    010  $   016  $   025  $   013
+Diluted..      010      016     025     013                    48          FARO TECHNOLOGIES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+15. QUARTERLY RESULTS OF OPERATIONS UNAUDITED--CONTINUED
+The fourth quarter of 1999 includes unusual charges of approximately
+$3,073,000 related to the impairment of existing developed and core software
+technology acquired from CATS GmbH; unusual charges of approximately $900,000
+related to obsolete inventory and a write-down of demonstration inventory,
+which was identified during a worldwide physical inventory; and unusual charges
+of approximately $1,200,000, primarily related to the write-off of certain
+patents and capitalized research and development costs due to changes in
+technology.
+The second quarter of 1998 includes unusual charges of $3,210,000 related
+to the portion of the CATS purchase price attributed to in-process research and
+development that was expensed immediately.
+49 

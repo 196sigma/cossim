@@ -1,0 +1,655 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+PAGE
+Report of Independent      21
+Consolidated Balance Sheets as of March 31, 1996 and      22
+Consolidated Statements of Operations for the Years Ended March 31, 1996, 1995 and 1994.     23
+Consolidated Statements of Cash Flows for the Years Ended March 31, 1996, 1995 and 1994.     24
+Consolidated Statements of Stockholders' Equity for the Years Ended March 31, 1996, 1995 and 1994.     25
+Notes to Consolidated Financial      26
+The following financial statement schedule of The Registrant is filed as part of this report:
+Schedule II -- Valuation and Qualifying      36
+All other schedules are omitted because they are not applicable or the
+required information is shown in the Consolidated Financial Statements or notes
+thereto.
+20
+REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Stockholders of
+Arbor Software Corporation
+In our opinion, the consolidated financial statements listed in the
+accompanying index present fairly, in all material respects, the financial
+position of Arbor Software Corporation and its subsidiary at March 31, 1996 and
+1995, and the results of their operations and their cash flows for each of the
+three years in the period ended March 31, 1996, in conformity with generally
+accepted  accounting  principles.  These  financial  statements  are  the
+responsibility of the Company management; our responsibility is to express an
+opinion on these financial statements based on our audits. We conducted our
+audits of these statements in accordance with generally accepted auditing
+standards which require that we plan and perform the audit to obtain reasonable
+assurance  about whether the financial  statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the  amounts and disclosures in the financial statements, assessing the
+accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for the opinion expressed above.
+PRICE WATERHOUSE LLP
+San Jose, California
+April 22, 1996
+21
+ARBOR SOFTWARE CORPORATION
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA
+ASSETS
+MARCH 31,
+1996    1995
+Current assets:
+Cash and cash  $ 10,698 $  2,739
+Short-term    25,965     79
+Accounts receivable, net of allowances of $388 and    4,505   1,829
+Deferred tax     900    Prepaid expenses and other current     485    221
+Total current    42,553   4,868
+Property and equipment,    2,923   1,402
+Other     407    224
+$ 45,883 $  6,494
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts  $  1,109 $   610
+Accrued expenses and other current    4,883    958
+Deferred    3,781   1,246
+Current portion of lease     711    542
+Total current    10,484   3,356
+Lease obligations,    1,093    833
+Commitments and Contingencies Note 9
+Stockholders' equity:
+Series A convertible preferred stock, $0001 par value; none and 2,065,000 shares
+authorized; none and 2,040,000 shares issued and    --       2
+Series B convertible preferred stock, $0001 par value; none and 960,000 shares
+authorized, issued and    --       1
+Series C convertible preferred stock, $0001 par value; none and 904,636 shares
+authorized, none and 874,636 shares issued and    --       1
+Preferred Stock, $0001 par value; 5,000,000 shares authorized; no shares issued and
+outstanding at March 31,    --      Common stock, $0001 par value; 25,000,000 and 8,000,000 shares authorized; 10,859,000
+and 2,372,490 shares issued and      11     2
+Additional paid-in    36,813   7,704
+Accumulated    2,519  5,397
+Cumulative translation      1     8
+Total stockholders'    34,306   2,305
+$ 45,883 $  6,494
+See accompanying notes to consolidated financial statements.
+22
+ARBOR SOFTWARE CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS
+YEAR ENDED MARCH 31,
+1996    1995    1994
+Revenues:
+$ 21,538 $ 10,268 $  3,853
+Maintenance, support and    3,596   1,252    415
+Total    25,134   11,520   4,268
+Cost of revenues:
+706    253    162
+Maintenance, support and     909    420    173
+Total cost of    1,615    673    335
+Gross    23,519   10,847   3,933
+Operating expenses:
+Sales and    14,060   7,081   3,831
+Research and    3,685   1,999   1,259
+General and    2,648   1,240    971
+Total operating    20,393   10,320   6,061
+Income loss from    3,126    527   2,128
+Interest and other     772     39     46
+Interest     304   168    98
+Income loss before income    3,594    398   2,180
+Provision for income     716    24                                               Net income  $  2,878 $   374 $ 2,180
+Net income per  $   27 $   04 $                                                                                          Shares used to compute net income per    10,502   9,718                                                                                            
+See accompanying notes to consolidated financial statements.
+23
+ARBOR SOFTWARE CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS
+YEAR ENDED MARCH 31,
+1996    1995    1994
+Cash flows from operating activities:
+Net income  $  2,878 $   374 $ 2,180
+Adjustments to reconcile net income loss to net cash provided by used in
+operating activities:
+Depreciation, amortization and     1,062    515    280
+Deferred income     900  --       Changes in assets and liabilities:
+Accounts    2,676   770   742
+Prepaid expenses and other current     264   101    51
+Other     183    60   164
+Accounts      499    142    316
+Accrued expenses and other current     3,925    423    113
+Deferred     2,535    573    584
+Net cash provided by used in operating     6,876   1,096   1,844
+Cash flows from investing activities:
+Purchases of short-term    25,886  --     1,080
+Proceeds from sale of short-term    --     1,001    Acquisition of property and    1,333   147    42
+Net cash provided by used in investing    27,219    854   1,122
+Cash flows from financing activities:
+Proceeds from issuance of common stock,    28,956     20     10
+Proceeds from issuance of preferred stock,      100   --     2,981
+Repayment of capital lease     763   416   210
+Net cash provided by used in financing    28,293    396   2,781
+Effect of exchange rate changes on cash and cash       9     9     1
+Net increase decrease in cash and cash     7,959   1,545    184
+Cash and cash equivalents at beginning of     2,739   1,194   1,378
+Cash and cash equivalents at end of  $  10,698 $  2,739 $  1,194
+Supplemental disclosures:
+Cash paid for  $   304 $   169 $   98
+Cash paid for income      625     7   Non-cash investing and financing activities:
+Acquisition of property and equipment through capital leases.    1,192   1,098    372
+See accompanying notes to consolidated financial statements.
+24
+ARBOR SOFTWARE CORPORATION
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+IN THOUSANDS, EXCEPT PER SHARE DATA                    SERIES A CONVERTIBLE   SERIES B CONVERTIBLE   SERIES C CONVERTIBLE
+COMMON
+PREFERRED STOCK      PREFERRED STOCK      PREFERRED STOCK     STOCK
+SHARES    AMOUNT    SHARES    AMOUNT    SHARES    AMOUNT   SHARES
+Balance at March 31, 1993.    2,040  $    2     960  $    1    --    $ --      2,085
+Issuance of common stock pursuant
+to exercise of options and
+--      --      --      --      --      --       68
+Issuance of Series C convertible
+preferred stock, net.   --      --      --      --       875      1    Translation adjustment.   --      --      --      --      --      --      Net    --      --      --      --      --      --                                                   Balance at March 31, 1994.    2,040      2     960      1     875      1    2,153
+Issuance of common stock pursuant
+to exercise of options.   --      --      --      --      --      --       220
+Translation adjustment.   --      --      --      --      --      --      Net    --      --      --      --      --      --                                                   Balance at March 31, 1995.    2,040      2     960      1     875      1    2,372
+Issuance of common stock pursuant
+to exercise of options and
+--      --      --      --      --      --       734
+Issuance of Series C convertible
+preferred stock.   --      --      --      --        16      1    Issuance of common stock pursuant
+to initial public offering, net.   --      --      --      --      --      --      1,880
+Conversion of preferred stock to
+common stock upon completion of
+initial public offering.   2,040     2    960     1    891     2   5,837
+Exercise of preferred stock warrant
+and conversion to common stock
+upon completion of initial public
+--      --      --      --      --      --       36
+Translation adjustment.   --      --      --      --      --      --      Net    --      --      --      --      --      --                                                   Balance at March 31, 1996.   --    $ --      --    $ --      --    $ --     10,859
+ADDITIONAL          CUMULATIVE
+PAID-IN   ACCUMULATED  TRANSLATION
+AMOUNT    CAPITAL    DEFICIT   ADJUSTMENT   TOTAL
+Balance at March 31, 1993.  $    2  $  4,694   $ 3,591   $ --    $  1,108
+Issuance of common stock pursuant
+to exercise of options and
+--        10    --       --        10
+Issuance of Series C convertible
+preferred stock, net.   --      2,980    --       --      2,981
+Translation adjustment.   --      --      --         1      1
+Net    --      --      2,180    --      2,180
+Balance at March 31, 1994.      2    7,684    5,771       1    1,920
+Issuance of common stock pursuant
+to exercise of options.   --        20    --       --        20
+Translation adjustment.   --      --      --         9     9
+Net    --      --        374     --       374
+Balance at March 31, 1995.      2    7,704    5,397      8    2,305
+Issuance of common stock pursuant
+to exercise of options and
+1     262    --       --       263
+Issuance of Series C convertible
+preferred stock.   --        99    --       --       100
+Issuance of common stock pursuant
+to initial public offering, net.      2    28,715    --       --      28,717
+Conversion of preferred stock to
+common stock upon completion of
+initial public offering.      5    --      --       --      Exercise of preferred stock warrant
+and conversion to common stock
+upon completion of initial public
+1      33    --       --        34
+Translation adjustment.   --      --      --         9      9
+Net    --      --       2,878     --      2,878
+Balance at March 31, 1996.  $   11  $ 36,813   $ 2,519   $    1  $ 34,306
+See accompanying notes to consolidated financial statements.
+25
+ARBOR SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1 -- THE COMPANY AND A SUMMARY OF ITS SIGNIFICANT ACCOUNTING POLICIES
+THE COMPANY
+Arbor Software Corporation the Company develops, markets and supports
+client/server multidimensional database software for business planning and
+analysis. The Company was incorporated in Delaware in April 1991 and commenced
+operations on that date.
+PRINCIPLES OF CONSOLIDATION
+The consolidated financial statements include the accounts of the Company
+and  its wholly-owned subsidiary in the United Kingdom. All significant
+intercompany accounts and transactions have been eliminated.
+REVENUE RECOGNITION
+The Company total revenues are derived from license revenues for its
+Essbase software as well as software maintenance and support, training and
+consulting revenues from Essbase licensees. Revenues for maintenance and support
+services, training and consulting are charged separately from the license of
+Essbase. License revenues are recognized upon shipment of the product if no
+significant vendor obligations remain, payment is due within 90 days, and
+collection of the resulting receivable is probable. In instances where a
+significant vendor obligation exists, revenue recognition is delayed until the
+obligation has been satisfied. Allowances for estimated future returns, which to
+date have been immaterial, are provided upon shipment. Maintenance and support
+revenues, including the element of licensing fees attributable to the initial
+warranty period, consist of ongoing support and product updates and are
+recognized ratably over the term of the contract, which is typically twelve
+months. Revenues from training and consulting are recognized when the services
+are performed. The Company has recognized revenue, for all periods presented, in
+accordance with Statement  of Position 91-1  entitled Software  Revenue
+Recognition.
+The Company entered into an agreement in December 1993 with an indirect
+channel partner which provides the indirect channel partner the right to
+sublicense certain of the Company products. Under the agreement the indirect
+channel partner provides the Company with a summary of royalties earned 45 days
+after the end of each calendar quarter. Royalty revenues generated under this
+agreement are recorded in that subsequent quarter due to the 45 day delay before
+the Company receives the summary of royalties earned and since currently such
+royalty revenues are not reasonably estimable prior thereto due, in part, to the
+limited history of this agreement. Such royalty revenues for the quarters ended
+March 31, June 30, September 30, and December 31, 1995 totaled approximately
+$1,300,000,  $1,600,000, $1,650,000 and $2,066,000 respectively, and were
+recorded by the Company during the quarters ended June 30, September 30 and
+December 31, 1995 and March 31, 1996, respectively. Royalty revenues for the
+quarter ended March 31, 1996 were approximately $2,400,000 and will be recorded
+by the Company during the quarter ending June 30, 1996.
+CASH, CASH EQUIVALENTS AND SHORT-TERM INVESTMENTS
+The Company invests certain of its excess cash in debt instruments of
+financial institutions. All highly liquid investments with a maturity of three
+months or less when purchased are considered to be cash equivalents and those
+with maturities greater than three months are considered short-term investments.
+The Company has classified all short-term investments as available-for-sale.
+CONCENTRATION OF CREDIT RISK
+Financial instruments that potentially subject the Company to significant
+concentrations of credit risk consist primarily of cash, cash equivalents,
+short-term investments and accounts receivable. The Company limits the amount of
+credit exposure to any one financial institution. Accounts receivable are
+derived from revenues earned from customers primarily located in the U.S. and
+Europe.
+26
+ARBOR SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 1 -- THE COMPANY AND A SUMMARY OF ITS SIGNIFICANT ACCOUNTING POLICIES
+CONTINUED
+The Company performs ongoing credit evaluations of its customers and generally
+requires no collateral. The Company maintains reserves for potential credit
+losses and historically such losses have been immaterial. One customer accounted
+for 26% of total revenues in both fiscal 1996 and 1995. No customer accounted
+for more than 10% of total revenues in fiscal 1994.
+Revenues from international customers, primarily in Europe, were 9%, 5% and
+12% of total revenues in fiscal 1996, 1995 and 1994, respectively.
+At March 31, 1996, outstanding receivables from one customer represented 16%
+of gross accounts receivable. At March 31, 1995, no single customer accounted
+for more than 10% of outstanding accounts receivable.
+PROPERTY AND EQUIPMENT
+Property and equipment, including leasehold improvements, are stated at
+cost. Depreciation is computed using the straight-line method over the estimated
+useful lives of the assets, generally three years, or the life of the lease,
+whichever is shorter.
+SOFTWARE DEVELOPMENT COSTS
+Software development costs are included in research and development and are
+expensed as incurred. Statement of Financial Accounting Standards No. 86 FAS
+86 requires the capitalization of certain software development costs once
+technological feasibility is established, which the Company defines as the
+completion of a working model. The capitalized cost is then amortized on a
+straight-line basis over the estimated product life, or on the ratio of current
+revenues to total projected product revenues, whichever is greater. To date, the
+period between achieving technological feasibility and the general availability
+of such software has been short and software development costs qualifying for
+capitalization have been insignificant. Accordingly, the Company has not
+capitalized any software development costs.
+INCOME TAXES
+Income taxes are computed using the asset and liability method. Under the
+asset and liability method, deferred income tax assets and liabilities are
+determined based on the differences between the financial reporting and tax
+basis of assets and liabilities and are measured using the currently enacted tax
+rates and laws.
+FOREIGN CURRENCY
+The functional currency of the United Kingdom subsidiary is the local
+currency. The balance sheet accounts are translated into United States dollars
+at the exchange rates prevailing at the balance sheet dates. Revenues, costs and
+expenses are translated into United States dollars at average rates for the
+periods. Gains and losses resulting from translation are accumulated as a
+component of stockholders' equity. Net gains and losses resulting from foreign
+exchange transactions are included in the consolidated statements of operations
+and were not significant during any of the periods presented.
+NET INCOME PER SHARE
+Net income per share is computed using the weighted average number of common
+and common equivalent shares outstanding during the period. Common equivalent
+shares consist of convertible preferred stock using the if converted method
+and stock options and warrants using the treasury stock method. Common
+equivalent shares are excluded from the computation if their effect is
+antidilutive, except that, pursuant to the Securities and Exchange Commission
+Staff Accounting Bulletin, convertible preferred stock using the if converted
+method and common equivalent shares
+27
+ARBOR SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 1 -- THE COMPANY AND A SUMMARY OF ITS SIGNIFICANT ACCOUNTING POLICIES
+CONTINUED
+using the treasury stock method and the initial public offering price issued
+subsequent to March 31, 1994 through November 6, 1995 have been included in the
+computation  as if they  were outstanding for  all periods through the
+effectiveness of the Company initial public offering. Earnings per share prior
+to fiscal 1995 have not been presented since such amounts are not deemed
+meaningful due to the significant change in the Company capital structure that
+occurred in connection with its initial public offering.
+MANAGEMENT ESTIMATES AND ASSUMPTIONS
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements, and reported amounts of revenues and expenses during the reporting
+period. Actual results could differ from those estimates.
+NOTE 2 -- INITIAL PUBLIC OFFERING
+In November 1995, the Company completed its initial public offering and
+issued 1,880,000 shares of its common stock to the public at a price of $1700
+per share. The Company received approximately $287 million of cash, net of
+underwriting discounts, commissions and other offering costs. Simultaneously,
+each outstanding share of convertible preferred stock was  automatically
+converted into one and one-half shares of common stock. See Note 6.
+NOTE 3 -- SHORT-TERM INVESTMENTS
+As of March 31, 1996, the Company short-term investments consisted
+primarily of medium term notes, corporate notes and market auction preferred
+stocks and their cost approximated fair value. As of March 31, 1995, the
+Company short-term investments consisted of a certificate of deposit and the
+cost approximated fair value.
+NOTE 4 -- BALANCE SHEET COMPONENTS
+MARCH 31,
+1996    1995
+IN THOUSANDS
+Property and equipment:
+Computer  $  3,863 $  1,748
+Furniture, fixtures and office      854    556
+Leasehold      184     72
+4,901   2,376
+Less: accumulated    1,978   974
+$  2,923 $  1,402
+Accrued expenses and other current liabilities:
+Income taxes  $   991 $   Accrued      907    309
+Accrued      758    210
+2,227    439
+$  4,883 $   958
+28
+ARBOR SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 5 -- BANK LINE OF CREDIT
+In September 1995, the Company entered into a line of credit agreement with
+a bank. The credit agreement provides for working capital advances of up to
+$3,000,000. Borrowings under the line of credit are limited to specified
+percentages of eligible  accounts receivable and  are collateralized  by
+substantially all of the assets of the Company. Interest on borrowings is set at
+the bank prime rate, plus 05% 875% at March 31, 1996. Among other
+provisions, the Company is required to maintain certain financial covenants. In
+addition, payment of cash dividends is prohibited without the bank consent.
+The line of credit agreement expires in July 1996. As of March 31, 1996, there
+were no borrowings outstanding under the line of credit.
+NOTE 6 -- CONVERTIBLE PREFERRED STOCK AND PREFERRED STOCK WARRANT
+PREFERRED STOCK
+At  March 31, 1996, the Company has authorized 5,000,000 shares of
+undesignated preferred stock. Prior to completion of the Company initial
+public offering, the Company had authorized 4,000,000 shares of preferred stock,
+of which 2,065,000 shares had been designated Series A Convertible Preferred
+Stock Series A, 960,000 shares had been designated Series B Convertible
+Preferred Stock Series B and 904,636 shares had been designated Series C
+Convertible Preferred Stock Series C collectively Preferred Shares.
+Holders  of Series A, B and C were entitled to receive noncumulative,
+preferential dividends of $010, $0275 and $034, respectively, per annum, when
+and if declared by the Board of Directors. No such dividends were declared. Each
+outstanding share of preferred stock was converted into one and one-half shares
+of common stock upon the completion of the Company initial public offering.
+PREFERRED STOCK WARRANT
+In August 1991 the Company issued a warrant to purchase 25,000 Series A
+Convertible Preferred Shares to a company for providing equipment lease
+financing the Warrant. The Warrant enabled the holder to purchase 25,000
+Series A Preferred Shares at $100 per share, subject to adjustment for
+dilution, and each share of preferred stock was convertible into one and one
+half shares of common stock. The Warrant was to expire on the earlier of August
+2001 or five years following the Company initial public offering. The Warrant
+had nominal value on the date of issuance. The warrant was exercised in
+conjunction with the Company initial public offering. The Company issued
+36,029 shares of common stock upon the net exercise and simultaneous conversion
+of the warrant from preferred stock to common stock.
+NOTE 7 -- COMMON STOCK, STOCK OPTION PLAN AND EMPLOYEE STOCK PURCHASE PLAN
+COMMON STOCK
+Under certain events, the Company has the right to repurchase, at the
+original issue price, a declining percentage of certain of the common shares
+issued to employees under written agreements with such employees. The Company
+right to repurchase such stock declines on a percentage basis based on the
+length of the employees' continual employment with the Company. At March 31,
+1996, 266,381 shares of common stock were subject to repurchase by the Company.
+STOCK OPTION PLAN
+In August 1995, the Company Board of Directors adopted, and  the
+stockholders subsequently approved, the 1995 Stock Option/Stock Issuance Plan
+the 1995 Plan. The 1995 Plan is intended to serve as the successor equity
+incentive program to the Company 1992 Stock Option Plan the Predecessor
+Plan. Outstanding options under the Predecessor Plan were incorporated into
+the 1995 Plan upon effectiveness of the initial public offering. No further
+option grants were made under
+29
+ARBOR SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 7 -- COMMON STOCK, STOCK OPTION PLAN AND EMPLOYEE STOCK PURCHASE
+PLAN CONTINUED
+the Predecessor Plan. The incorporated options will continue to be governed by
+their existing terms which are essentially the same as options granted under the
+Discretionary Option Grant Program described below.
+The  1995 Plan is  divided into four  separate components: i the
+Discretionary Option Grant Program; ii the Stock Issuance Program; iii the
+Salary Investment Option Grant Program; and iv the Automatic Option Grant
+Program. The 1995 Plan will terminate on September 30, 2005, unless terminated
+earlier by the Board.
+Options granted under the Discretionary Option Grant Program are for periods
+not to exceed ten years, and must be issued at prices not less than 100% and
+85%, for incentive and nonqualified stock options, respectively, of the fair
+market value of the stock on the date of grant. Incentive stock options granted
+to stockholders who own greater than 10% of the outstanding stock are for
+periods not to exceed five years and must be issued at prices not less than 110%
+of the fair market value of the stock on the date of grant. Options granted
+under the Discretionary Option Grant Program are exercisable at the date of
+grant and are subject to repurchase by the Company at the option exercise price
+paid per share with such repurchase right lapsing with respect to 25% one year
+after the date of grant and ratably each month over the remaining thirty-six
+month period. The Discretionary Option Grant Program also provides for the grant
+of stock appreciation rights. Stock appreciation rights provide the holders with
+the election to surrender their outstanding options for an appreciation
+distribution from the Company equal to the excess of the fair market value of
+the vested shares of common stock subject to each surrendered option over the
+aggregate  exercise price  payable for  those shares.  Such appreciation
+distribution may be made in cash or in shares of common stock. No stock
+appreciation rights had been granted under the 1995 Plan as of March 31, 1996.
+Under the Stock Issuance Program individuals may be issued shares of common
+stock directly through the purchase of shares at a price per share not less than
+85% of the fair market value at the time of issuance or as a fully paid bonus
+for services rendered to the Company. No shares had been issued under the Stock
+Issuance Program as of March 31, 1996.
+Under the Salary Investment Option Grant Program, each executive officer of
+the Company may elect, prior to the start of a calendar year, to reduce his or
+her base salary for that calendar year by a designated multiple of 1%, subject
+to a maximum dollar amount. In return the officer will automatically be granted,
+on the first trading day in the calendar year for which the salary reduction is
+in effect, a non-statutory option to purchase that number of shares of common
+stock determined by dividing the salary reduction amount by two-thirds of the
+fair market value per share of common stock on the date of grant. The option
+will be exercisable at a price per share equal to one-third of the fair market
+value of the option shares on the date of grant. As a result, the total spread
+on the option shares at the time of grant will be equal to the salary reduction
+amount. The option will vest in a series of twelve equal monthly installments
+over the calendar year for which the salary reduction is in effect. No executive
+officer of the Company had elected to participate in the Salary Investment
+Option Grant Program as of March 31, 1996.
+Under the Automatic Option Grant Program, each individual who first becomes
+a non-employee Board member will receive an option grant for 20,000 shares of
+common stock at the fair market value of the stock on the date he or she joins
+the Board, provided such individual has not otherwise been in the prior employ
+of the Company. In addition, at each Annual Stockholder Meeting, beginning with
+the 1996 Annual Meeting, each individual who is to continue to serve as a
+non-employee Board member after the meeting will receive on option grant to
+purchase an additional 5,000 shares of common stock at the fair market value of
+the  stock  on  the  date  of  grant,  provided  such  individual  has
+30
+ARBOR SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 7 -- COMMON STOCK, STOCK OPTION PLAN AND EMPLOYEE STOCK PURCHASE
+PLAN CONTINUED
+served on the Board for at least six months. Each automatic option will have a
+term of ten years, subject to earlier termination following the optionee
+cessation  of Board service. Each  automatic option will be immediately
+exercisable for all option shares; however, any shares purchased upon exercise
+of the option will be subject to repurchase by the Company, at the option
+exercise price paid per share, should the optionee cease service on the Board
+prior to vesting in those shares. The initial 20,000 share grant will vest in a
+series of four successive equal annual installments over the optionee period
+of Board service measured from the grant date. Each additional 5,000 share grant
+will vest upon the optionee completion of one year of Board service measured
+from the grant date.
+During fiscal 1996, the Company granted certain options for the purchase of
+common stock on which the Company will amortize approximately $212,000 of
+compensation expense over the four-year vesting period of the options. As of
+March 31, 1996, the Company had expensed $24,000 of compensation expense related
+to these options.
+A summary of the activity under the stock option plans is as follows:
+OPTIONS     OPTIONS OUTSTANDING
+AVAILABLE  
+FOR GRANT   SHARES   PRICE PER SHARE
+Balance at March 31, 1993.   147,750   707,250 $  007 - $ 020
+Additional shares authorized.   375,000     Options   277,875   277,875 $  020 - $ 023
+Options    --     60,061 $  007 - $ 020
+Options    39,689   39,689 $  007 - $ 023
+Balance at March 31, 1994.   284,564   885,375 $  007 - $ 023
+Additional shares authorized.   600,000     Options   673,950   673,950 $  023 - $ 107
+Options    --     219,928 $  007 - $ 050
+Options    43,156   43,156 $  007 - $ 033
+Balance at March 31, 1995.   253,770  1,296,241 $  007 - $ 107
+Additional shares authorized.   400,000     Options   471,531   471,531 $  227 - $4275
+Options    --     733,510 $  007 - $ 400
+Options    120,322   120,322 $  007 - $4275
+Balance at March 31, 1996.   302,561   913,940 $  007 - $4275
+Vested at March 31, 1996.         199,273 $  007 - $ 227
+EMPLOYEE STOCK PURCHASE PLAN
+In August 1995, the Company Board of Directors adopted the 1995 Employee
+Stock Purchase Plan the Purchase Plan and reserved 150,000 shares of common
+stock for issuance to eligible employees. The Purchase Plan permits eligible
+employees to purchase common stock through periodic payroll deductions of up to
+10% of their annual compensation. Each offering period will have a maximum
+duration of 24 months and shares of common stock will be purchased for each
+participant at semi-annual intervals during each offering period. The price at
+which the common stock is purchased under the Purchase Plan is equal to 85% of
+the lower of the fair market value of the Common Stock on the participant
+entry date into the offering period or the fair market value on the semi-annual
+purchase date.
+31
+ARBOR SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 8 -- INCOME TAXES
+Through March 31, 1994, the Company incurred net operating losses and had no
+provision or benefit for income taxes. The tax provision for fiscal 1996 and
+1995 consists of the following:
+YEAR ENDED
+MARCH 31,
+1996  1995
+IN
+THOUSANDS
+Provision benefit for income taxes:
+Current:
+$1,234 $22
+382  2
+1,616  24
+Deferred:
+900      --                                                          900                                                       $ 716 $24
+The tax provision reconciles to the amount computed by multiplying income
+before tax by the U.S. statutory rate 35%, as follows:
+YEAR ENDED
+MARCH 31,
+1996  1995
+IN
+THOUSANDS
+Provision at statutory rate. $1,258 $ 135
+State taxes, net of federal benefit.   247   1
+Permanent    45   15
+Utilization of net operating loss carryforwards.  997 127
+Utilization of research and development
+327  Change in deferred tax asset net of valuation
+allowance    380  Foreign loss with no federal benefit.   110                                                        $ 716 $ 24
+Deferred tax assets are comprised of the following:
+MARCH 31,
+1996   1995
+IN THOUSANDS
+Net operating loss  $ --   $ 1,092
+Research and development carryforwards.  --     200
+Deferred   1,258   414
+Accrued expenses and reserves.   740   239
+75      427   449
+2,500  2,394
+Less: deferred tax asset valuation allowance.  1,600 2,394
+Net deferred tax  $  900 $                                                          
+32
+ARBOR SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 8 -- INCOME TAXES CONTINUED
+Net deferred tax assets of $900,000 at March 31, 1996 are based on the
+Company carryback capacity. Management believes, based upon a number of
+factors, that the available objective evidence creates sufficient uncertainty
+regarding the realizability of the remainder of the deferred tax assets and has
+recorded a valuation allowance against these assets. Such factors include the
+lack of a significant history of material profits, recent increases in expense
+levels to support the Company growth, the fact that the market in which the
+Company operates is intensely competitive and characterized by rapidly changing
+technology, the materiality of revenues from indirect channel partners and the
+uncertainty regarding market acceptance of new versions of the Company Essbase
+software.
+NOTE 9 -- COMMITMENTS AND CONTINGENCIES
+The Company leases its facilities under noncancelable operating lease
+agreements which expire at various dates through 2000. Certain leases provide
+for escalating monthly payments and are being charged to operations ratably over
+the lease term. In addition, the Company leases certain equipment under
+long-term lease agreements that are classified as capital leases. These capital
+leases terminate at various dates through 2000. Total property and equipment
+acquired under these capitalized leases, which secure such borrowings, are as
+follows:
+MARCH 31,
+1996    1995
+IN THOUSANDS
+Computer  $  2,020 $  1,613
+Furniture, fixtures, and office     639    469
+Leasehold      27     27
+2,686   2,109
+Less: accumulated    1,013   819
+$  1,673 $  1,290
+Future minimum lease payments under all noncancelable operating and capital
+leases are as follows:
+OPERATING  CAPITAL
+YEAR ENDING MARCH 31,                                 LEASES   LEASES
+-                                                  
+IN THOUSANDS
+$   585  $  1,094
+92     907
+88     407
+88      1
+Total minimum   $   853    2,409
+Less: amount representing           605
+Present value of capital lease           1,804
+Less: current            711
+Lease obligations,         $  1,093
+Rent expense under operating leases totaled $659,000, $387,000 and $229,000
+during fiscal 1996, 1995 and 1994, respectively.
+33
+ARBOR SOFTWARE CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 9 -- COMMITMENTS AND CONTINGENCIES CONTINUED
+In the course of its business, the Company has been named as a defendant in
+certain actions and could incur an uninsured liability in one or more of them.
+However, in the opinion of management, the outcome of such litigation will not
+have a material adverse effect on the results of operations or financial
+condition of the Company.
+Item 1.         1
+Item 2.        12
+Item 3.   Legal      12
+Item 4.   Submission of Matters to a Vote of Security      13
+Item 4a.  Executive Officers of the      13
+PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+Information with respect to Directors may be found under the caption
+Election of Directors on pages 3-4 of the Company Proxy Statement dated June
+24, 1996, for the Annual Meeting of Stockholders to be held July 23, 1996 the
+Proxy Statement. Such information is incorporated herein by reference.
+Information with respect to Executive Officers may be found on pages 18-20 of
+the Proxy Statement, under the caption Executive Compensation and Related
+Information.

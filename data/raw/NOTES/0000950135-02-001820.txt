@@ -1,0 +1,1473 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+34                 SCANSOFT, INC.
+CONSOLIDATED FINANCIAL STATEMENTS
+35                 SCANSOFT, INC.
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS                                PAGE
+Report of Independent    37
+Consolidated Balance    38
+Consolidated Statements of    39
+Consolidated Statements of Stockholders' Equity. 40-41
+Consolidated Statements of Cash Flows.   42
+Notes to Consolidated Financial Statements. 43-64
+Financial Statement Schedule:
+Report of Independent Accountants on Financial Statement
+65
+Schedule II -- Valuation and Qualifying Accounts.   66                     36            REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and
+Stockholders of ScanSoft, Inc   In our opinion, the accompanying consolidated balance sheets and the
+related consolidated statements of operations, of stockholders' equity and of
+cash flows present fairly, in all material respects, the financial position of
+ScanSoft, Inc. and its subsidiaries at December 31, 2001 and 2000, and the
+results of their operations and their cash flows for each of the three years in
+the period ended December 31, 2001 in conformity with accounting principles
+generally accepted in the United States of America. These financial statements
+are the responsibility of the Company management; our responsibility is to
+express an opinion on these financial statements based on our audits. We
+conducted our audits of these statements in accordance with auditing standards
+generally accepted in the United States of America, which require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates
+made by management, and evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion. s/ PricewaterhouseCoopers LLP
+Boston, Massachusetts
+February 11, 2002, except as to Note 15
+for which the date is March 5, 2002
+37                 SCANSOFT, INC.
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS, EXCEPT SHARE AMOUNTS                                  DECEMBER 31,
+2001     2000
+ASSETS
+Current assets:
+Cash and cash  $ 14,324  $  2,571
+Short-term      --      62
+Accounts receivable, less allowances of $6,273 and $7,375,
+14,266    8,314
+507     806
+Prepaid expenses and other current assets.   1,614    1,610
+Total current    30,711    13,363
+Goodwill and other intangible assets, net.  108,276    92,051
+Property and equipment,    2,406    2,954
+Other     677    1,112
+Total  $ 142,070  $ 109,480
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts  $  5,320  $  7,945
+Accrued    14,471    7,418
+Deferred    1,375    1,084
+Short-term bank      --    3,400
+Note     227                                           Total current    21,393    19,847
+Deferred    2,534    2,172
+Long-term note payable, net of current portion.   3,273       Other     336                                           Total    27,536    22,019
+Commitments and contingencies Notes 5, 7 and 11
+Stockholders' equity:
+Preferred stock, $0001 par value; 40,000,000 shares
+authorized; 3,562,238 shares issued and outstanding
+liquidation preference    4,631    4,631
+Common stock, $0001 par value; 140,000,000 shares
+authorized; 62,745,211 and 46,072,748 shares issued and
+62,089,211 and 46,072,748 shares outstanding,
+63      46
+Additional paid-in   264,893   219,259
+Treasury stock at cost 656,000 and no shares,
+1,031       Deferred     276       Accumulated other comprehensive loss.    487     93
+Accumulated   153,259  136,382
+Total stockholders'   114,534    87,461
+Total liabilities and stockholders' equity. $ 142,070  $ 109,480
+The accompanying notes are an integral part of these consolidated financial
+statements.
+38                 SCANSOFT, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS                                  YEAR ENDED DECEMBER 31,
+2001    2000    1999
+Net  $ 63,855  $ 49,055  $31,629
+COSTS AND EXPENSES
+Cost of   12,849   12,692   7,602
+Research and   13,968   14,967   6,920
+Selling, general and   26,449   28,205   14,509
+Amortization of goodwill and other intangible assets.  27,520   22,586   1,921
+Restructuring and other charges, net.    --    4,811    346
+Acquired in-process research and development.    --   18,291   3,944
+Total costs and   80,786   101,552   35,242
+Loss from   16,931  52,497  3,613
+Other income expense
+Interest     209     112    181
+Interest    166    620    56
+Other expense income,    306    226     8
+Gain on sale of hardware     --     --    882
+Loss before income   17,194  52,779  2,598
+Provision for benefit from income taxes.   317    472    150
+Net  $16,877  $53,251  $2,748
+Net loss per share: basic and  $ 034  $ 126  $ 011
+Weighted average common shares outstanding: basic and
+49,693   42,107   25,630
+The accompanying notes are an integral part of these consolidated financial
+statements
+39                 SCANSOFT, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+IN THOUSANDS, EXCEPT SHARE AMOUNTS                 PREFERRED STOCK    COMMON STOCK             TREASURY STOCK
+ADDITIONAL      DEFERRED
+SHARES   AMOUNT   SHARES   AMOUNT  PAID-IN CAPITAL  SHARES  DOLLARS  COMPENSATION
+Balance at December 31,
+1998.            19,852,952  $20    $ 87,995               $50
+Issuance of common stock
+under employee stock
+compensation plans.             412,823          276
+Compensation expense related
+to stock options.                                            50
+Issuance of preferred stock,
+common stock and common
+stock options in connection
+with ScanSoft
+acquisition. 3,562,238  $4,631  6,755,992   7     12,810
+Common stock repurchased and
+retired.             331,740         684
+Net loss.
+Balance at December 31,
+1999. 3,562,238  4,631  26,690,027   27     100,397     --    --      Issuance of common stock
+under employee stock
+compensation plans.             354,203          815
+Issuance of common stock and
+common stock options in
+connection with Caere
+merger.            19,028,518   19     118,047
+Comprehensive loss:
+Net loss.
+Foreign currency
+translation adjustment.
+Comprehensive loss.
+Balance at December 31,
+2000. 3,562,238  4,631  46,072,748   46     219,259     --    --                      ACCUMULATED
+OTHER             TOTAL
+COMPREHENSIVE  ACCUMULATED  STOCKHOLDERS'  COMPREHENSIVE
+LOSS     DEFICIT    EQUITY      LOSS
+Balance at December 31,
+1998.          $ 80,383   $ 7,582
+Issuance of common stock
+under employee stock
+compensation plans.                    276
+Compensation expense related
+to stock options.                    50
+Issuance of preferred stock,
+common stock and common
+stock options in connection
+with ScanSoft
+acquisition.                  17,448
+Common stock repurchased and
+retired.                   684
+Net loss.           2,748    2,748    $ 2,748
+Balance at December 31,
+1999.    --      83,131    21,924
+Issuance of common stock
+under employee stock
+compensation plans.                    815
+Issuance of common stock and
+common stock options in
+connection with Caere
+merger.                  118,066
+Comprehensive loss:
+Net loss.           53,251   53,251    $53,251
+Foreign currency
+translation adjustment.    93              93      93
+Comprehensive loss.                         $53,344
+Balance at December 31,
+2000.   $93     136,382    87,461  The accompanying notes are an integral part of these consolidated financial
+statements.
+40                 SCANSOFT, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+IN THOUSANDS, EXCEPT SHARE AMOUNTS                 PREFERRED STOCK    COMMON STOCK             TREASURY STOCK
+ADDITIONAL      DEFERRED
+SHARES   AMOUNT   SHARES   AMOUNT  PAID-IN CAPITAL  SHARES  DOLLARS  COMPENSATION
+Issuance of common stock under
+employee stock compensation
+plans.             623,534   1      1,130
+Issuance of common stock in
+connection with L
+acquisition.            7,400,000   8     27,792
+Issuance of common stock in
+connection with equity
+investment.            8,261,905   8     15,721
+Issuance of common stock in
+connection with settlement
+of Caere acquisition
+liability.             262,200          700
+Issuance of restricted
+stock.             133,824          291                291
+Compensation expense
+associated with restricted
+stock.                                             15
+Repurchase of common stock at
+cost.                                656,000  1,031
+Comprehensive loss:
+Net loss.
+Foreign currency translation
+adjustment.
+Comprehensive loss.
+Balance at December 31,
+2001. 3,562,238  $4,631  62,754,211  $63    $264,893    656,000  $1,031   $276
+ACCUMULATED
+OTHER             TOTAL
+COMPREHENSIVE  ACCUMULATED  STOCKHOLDERS'  COMPREHENSIVE
+LOSS     DEFICIT    EQUITY      LOSS
+Issuance of common stock under
+employee stock compensation
+plans.                   1,131
+Issuance of common stock in
+connection with L
+acquisition.                  27,800
+Issuance of common stock in
+connection with equity
+investment.                  15,729
+Issuance of common stock in
+connection with settlement
+of Caere acquisition
+liability.                    700
+Issuance of restricted
+stock.                     Compensation expense
+associated with restricted
+stock.                    15
+Repurchase of common stock at
+cost.                  1,031
+Comprehensive loss:
+Net loss.           16,877   16,877    $16,877
+Foreign currency translation
+adjustment.    394             394      394
+Comprehensive loss.                         $17,271
+Balance at December 31,
+2001.   $487    $153,259   $114,534
+The accompanying notes are an integral part of these consolidated financial
+statements.
+41                 SCANSOFT, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS                                  YEAR ENDED DECEMBER 31,
+2001    2000    1999
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net  $16,877  $53,251  $2,748
+Adjustments to reconcile net loss to net cash provided by
+used in operating activities:
+1,762    2,091    240
+Amortization of goodwill and other intangible assets.  27,520   22,586   1,921
+Accounts receivable   1,102   2,904   2,100
+Write-off of acquired in-process research and
+--   18,291   3,944
+Provision for impairment of intangible assets.    --    3,490        Non-cash portion of restructuring charge.    --     272        Gain on settlement of acquisition liability.  1,050     --        Net gain on sale of hardware business.    --     --    882
+68     --     52
+Changes in operating assets and liabilities, net of
+effects from acquisitions:
+Accounts    252   3,740   7,291
+418     257    248
+Prepaid expenses and other current assets.    18     278    540
+Other     435    441   122
+Accounts    542    700   1,463
+Accrued    543   1,547   508
+Deferred     653    2,292    121
+Net cash provided by used in operating
+10,372   5,546  2,498
+CASH FLOWS FROM INVESTING ACTIVITIES
+Capital expenditures for property and equipment.   943   1,048   840
+Proceeds from sale of property and equipment.    344     --      Cash paid for acquisition, including transaction costs.  10,118     --      Cash of businesses acquired, net of cash paid.    --    1,419    211
+Net change in restricted     62     --    262
+Proceeds from sale of hardware business.    --     --   6,788
+Net sales purchase of short-term and other
+--     --    10
+Net cash provided by used in investing activities.  10,655    371   6,411
+CASH FLOWS FROM FINANCING ACTIVITIES
+Short-term bank borrowings,   3,400   3,400   6,000
+Payment of note     --   1,600      Repurchase of common   1,031     --    684
+Proceeds from issuance of common stock, net of issuance
+16,862     815    274
+Net cash provided by used in financing
+12,431    2,615   6,410
+Effects of exchange rate changes on cash and cash
+395    31     Net increase decrease in cash and cash equivalents.  11,753   2,591  2,497
+Cash and cash equivalents at beginning of year.   2,571    5,162   7,659
+Cash and cash equivalents at end of year. $ 14,324  $ 2,571  $ 5,162
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+Cash paid during the year for interest. $  135  $  635  $    The accompanying notes are an integral part of these consolidated financial
+statements.
+42                 SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. ORGANIZATION AND PRESENTATION
+ScanSoft, Inc. was incorporated as Visioneer, Inc. in March 1992 and
+through December 1998, developed and sold scanner hardware and software
+products. On January 6, 1999, Visioneer sold the hardware business and the
+Visioneer brand name to Primax Electronics, Ltd., and on March 2, 1999,
+Visioneer acquired ScanSoft, in a cash election merger, from Xerox Corporation.
+The corporate entity Visioneer survived the merger, but changed its name to
+ScanSoft, Inc. In addition, Visioneer changed the ticker symbol for its common
+stock that trades on the NASDAQ, to SSFT. On March 13, 2000, the Company
+merged with Caere Corporation Caere, a California-based digital imaging
+software company. The acquisitions of ScanSoft and Caere were accounted for
+under the purchase method of accounting and, accordingly, the results of
+operations of ScanSoft and Caere have been included in the Company financial
+statements as of the acquisition dates.
+When we refer to we or ScanSoft or the Company in this Annual Report
+on Form 10-K, we mean the current Delaware corporation ScanSoft, Inc., including
+all of its consolidated subsidiaries.
+Acquisition of Lernout & Hauspie L Speech Products N.V. Assets   On December 7, 2001, the Company entered into a definitive asset purchase
+agreement the Purchase Agreement to acquire certain assets and intellectual
+property relating to the former L entities that were in bankruptcy under the
+jurisdiction of both the U.S. Bankruptcy Court for the District of Delaware and
+the Belgium Court of Ieper. We purchased these assets in a closed auction
+proceeding administered by the creditors committee of the former entities and
+approved by both the U.S. and Belgium courts on December 11, 2001. The
+transaction was completed on December 12, 2001.
+Pursuant to the Purchase Agreement, the Company acquired patents,
+trademarks, tradenames, product and customer contracts associated with certain
+of the speech and language technology assets of L In addition, the Company
+also obtained rights to accounts receivable related to the customer contracts
+acquired and fixed assets. The Company also hired 223 employees from L The
+Company paid $413 million in total consideration to the creditors as follows 100 million in cash, 74 million shares of the Company common stock valued
+at $278 million based on the average of the closing share price of our stock 3
+days before and after the proposed acquisition was announced and a 9%
+promissory note in the principal amount of $35 million, to be repaid in
+installments of $01 million of principal and interest quarterly commencing on
+March 15, 2002, for a total of eleven 11 payments. All remaining principal and
+interest shall become due on December 15, 2004.
+With the acquisition of Lernout & Hauspie L assets in December 2001,
+ScanSoft added speech and language solutions to its portfolio of
+productivity-enhancing applications and technologies. The group of assets
+acquired includes the RealSpeak text-to-speech technology, Dragon speech
+recognition software and other speech and voice-related technologies aimed at
+the rapidly growing telecommunications, automotive and mobile device markets.
+ScanSoft believes that its speech-based technology and intellectual property is
+widely considered the finest in the industry.
+The Company generated $104 million of cash from operations for 2001 and
+had a cash balance of $143 million at December 31, 2001. The Company cash
+balance reflects lower operating expenses as a result of restructuring actions
+and other cost reduction initiatives, taken in fiscal 2000, higher revenues
+compared to fiscal 2000 and equity financings net of cash paid for the L
+acquisition. The Company expects that operating expenses will increase in 2002
+as a result of the L acquisition. While the Company believes its revenues will
+also increase and therefore its cash flows from operations, cash generated from
+operations could be negatively impacted if the Company products are not
+accepted in the markets in which it does business, by seasonality of customer
+buying patterns or by a continued or worsened economic downturn in the United
+States or international markets where its products are sold. There can be no
+assurance that the Company will
+43
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+be able to continue to generate cash from operations or secure additional equity
+financing if required. The Company has sustained recurring losses and has an
+accumulated deficit at December 31, 2001. The Company believes that operating
+expense levels in combination with expected future revenues will continue to
+generate positive cash flows from operations. The Company also believes that,
+should it experience any of the aforementioned factors, it has the ability to
+reduce operating expenses to levels commensurate with revenues to maintain
+positive cash flows from operations. The Company believes that cash flows from
+future operations in addition to cash on hand will be sufficient to meet its
+working capital, investing, financing and contractual obligations as they become
+due for the foreseeable future including stock repurchase programs and potential
+business or asset acquisitions.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentations
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities on the dates of the financial
+statements and the reported amounts of revenue and expenses during the reporting
+periods. The most significant estimates included in the financial statements are
+accounts receivable and sales allowances, the recoverability of intangible
+assets including goodwill and the valuation allowances on deferred tax assets.
+Actual results could differ from those estimates.
+The consolidated financial statements include the accounts of the Company
+and its wholly owned subsidiaries. Intercompany transactions and balances have
+been eliminated.
+Foreign Currency Translation
+The functional currency of the Company foreign subsidiaries is the local
+currency. Assets and liabilities of foreign subsidiaries that are denominated in
+foreign currencies are translated into U.S. dollars at exchange rates in effect
+at the balance sheet date. Revenue and expense items are translated using the
+average exchange rates for the period. Net unrealized gains and losses resulting
+from foreign currency translation are included in other comprehensive loss,
+which is a separate component of stockholders' equity. Foreign currency
+transaction gains and losses are included in results of operations. The Company
+reported foreign currency transaction gains and losses of $02 million, $01
+million and zero for the years ended 2001, 2000 and 1999, respectively.
+Revenue Recognition
+The Company derives revenues from the sale of its software products to
+end-users through distribution partners and value added resellers VAR,
+royalty revenues from OEM partners, license fees from sales of its products to
+end-users and from services, primarily maintenance associated with software
+license transactions.
+The Company applies the provisions of Statement of Position 97-2 Software
+Revenue Recognition, as amended by Statement of Position 98-9 Modification of
+SOP 97-2, Software Revenue Recognition, With Respect to Certain Transactions to
+all transactions involving the sale of software products. In addition, the
+Company applies the provisions of Staff Accounting Bulletin 101, Revenue
+Recognition.
+For sales through distributors and authorized resellers including VAR,
+title and risk-of-loss, pass to the customer upon shipment, at which time
+payment is due. Agreements with distributors and resellers provide for full
+rights of return. As a result, reserves for sales returns are established based
+on inventory levels of the Company products at the distributors and resellers.
+Revenue is recognized upon shipment of the Company product from distributors
+and resellers to retailers or end-users of the product. Reserves for
+44
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+estimated sales returns from retailers or end-users are recorded when the
+revenue is recognized based on historical experience with sales returns from
+these parties. From time to time, the Company offers its customers rebates, or
+price protection incentive programs to retailers for the sale of the Company
+products. The Company estimates the impact on revenue of rebate or price
+protection programs based upon its historical experiences with similar programs
+for like products. The estimated reserve for such rebates or programs is
+recorded as a reduction of revenue in the period when the rebate or price
+protection program is available to the end-user.
+The Company also enters into royalty-bearing agreements with original
+equipment manufacturers OEMs and performs software development services
+pursuant to certain license agreements. The Company recognizes revenue for
+royalty fees based on an accrual of the historical revenue trends for the
+respective licensing agreements of the Company products by OEMs to third
+parties. The Company considers the past payment and royalty reporting history of
+its OEMs, seasonality of the OEMs business, the number of units sold in previous
+periods and the overall economic climate that its OEMs operate in.
+Revenue from the sale of licenses of the Company software products to
+end-users is recognized upon delivery, provided that no significant obligations
+remain, evidence of the arrangement exists, the fees are fixed or determinable,
+and collectibility is reasonably assured. For direct sales by its customer
+service group, and for sales over the Internet, revenue is recognized when a
+credit card authorization has been received and the product ships.
+The Company recognizes revenue from the sale of maintenance and support to
+end-users ratably over the contract period, usually one year. Payments received
+in advance for maintenance and support revenue are originally treated as
+deferred revenue.
+The Company also generates revenue to a lesser degree from consulting and
+training services. Fees charged for such services are based on a fee per day or
+fee per student depending on the type of service or training provided.
+For arrangements with multiple obligations for example, undelivered
+maintenance and support, the Company allocates revenue to each element of the
+arrangement based on the fair value of each element determined by the sales
+price of the elements had they been sold separately.
+Cash Equivalents
+Cash equivalents are short-term, highly liquid instruments with original
+maturities of 90 days or less at the date of acquisition. The Company invests
+primarily in commercial paper.
+Inventory
+Inventory is stated at the lower of cost determined on a first-in,
+first-out basis or market value. Costs incurred related to shipping and
+handling of our inventory and products are recorded as a cost of revenue.
+Property and Equipment
+Property and equipment are stated at cost and are depreciated using the
+straight-line method over the estimated useful lives of the assets. Leasehold
+improvements are amortized over the term of the related lease or the useful
+life, if shorter. The cost and related accumulated depreciation of sold or
+retired assets are removed from the accounts and any gain or loss is included in
+operations. Repairs and maintenance costs are expensed as incurred.
+45
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Intangible Assets
+Intangible assets result from acquisitions that were accounted for under
+the purchase method of accounting and consist of the values of identifiable
+intangible assets including core technology, patents, trade names, trademarks,
+OEM relationships, work force and registered users base, as well as goodwill.
+Goodwill is the amount by which the cost of acquired net assets exceeded the
+fair values of those net assets on the purchase date. Intangible assets are
+reported at cost, net of accumulated amortization. Intangible assets are
+amortized on a straight-line basis over their estimated useful lives of three to
+seven years. The Company evaluates its intangible assets when events and
+circumstances indicate a potential impairment. Recoverability of these assets is
+assessed based on undiscounted expected cash flows from these assets,
+considering a number of factors, including past operating results, budgets and
+economic projections, market trends and product development cycles. An
+impairment in the carrying value of each asset is assessed when the undiscounted
+expected cash flows derived from the asset are less than its carrying value see
+Note 11.
+Research and Development Costs
+Costs incurred in the research and development of new software products and
+enhancements to existing products, other than certain software development costs
+that qualify for capitalization, are expensed as incurred. Software development
+costs incurred subsequent to the establishment of technological feasibility, but
+prior to the general release of the product, are capitalized and amortized to
+cost of revenue over the estimated useful life of the related products. In the
+years ended December 31, 2001, 2000 and 1999, costs eligible for capitalization
+were not material.
+Income Taxes
+Deferred tax assets and liabilities are determined based on the difference
+between the financial statement and tax bases of assets and liabilities using
+enacted tax rates in effect in the years in which the differences are expected
+to reverse. A valuation allowance against deferred tax assets is recorded if,
+based on the weight of available evidence, it is more likely than not that some
+or all of the deferred tax assets will not be realized. The Company does not
+provide for U.S. income taxes on the undistributed earnings of its foreign
+subsidiaries, which the Company considers to be permanent investments.
+Comprehensive Loss
+Comprehensive loss consists of net loss and other comprehensive loss, which
+includes foreign currency translation adjustments. For the purposes of
+comprehensive loss disclosures, the Company does not record tax provisions or
+benefits for the net changes in the foreign currency translation adjustment, as
+the Company intends to permanently reinvest undistributed earnings in its
+foreign subsidiaries.
+Concentration of Risk
+Financial instruments that potentially subject the Company to significant
+concentrations of credit risk consist principally of cash equivalents, and trade
+accounts receivable. The Company places its cash and cash equivalents with
+financial institutions with high credit ratings. The Company performs ongoing
+credit evaluations of its customers' financial condition and does not require
+collateral, since management does not anticipate nonperformance of payment. The
+Company also maintains reserves for potential credit losses and such losses have
+been within management expectations. At December 31, 2001, three customers
+represented 31%, 13% and 12%, of our net accounts receivable balance,
+respectively. At December 31, 2000, two customers in aggregate accounted for
+50%, of our net accounts receivable balance.
+46
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Fair Value Disclosures of Financial Instruments
+Financial instruments include cash equivalents, accounts receivable,
+short-term bank borrowings and long-term notes payable and are carried in the
+financial statements at amounts that approximate their fair value as of December
+31, 2001 and 2000.
+Advertising Costs
+Advertising costs are expensed as incurred and are classified as selling,
+general and administrative costs. The Company reported advertising costs of $25
+million, $19 million and $10 million for the years ended December 31, 2001,
+2000 and 1999, respectively.
+Net Loss Per Share
+Basic loss per share is based on the weighted average number of common
+shares outstanding excluding unvested restricted stock, and diluted loss per
+share is based on the weighted average number of common shares outstanding and
+dilutive potential common shares outstanding. Potential common shares result
+from the assumed exercise of outstanding stock options and warrants as well as
+unvested shares of restricted stock and conversion of Series B Preferred Stock,
+the proceeds of which are then assumed to have been used to repurchase
+outstanding common stock using the treasury stock method. There is no difference
+between basic and diluted net loss per share for all periods presented since
+potential common shares were anti-dilutive for all periods presented.
+Accounting for Stock-Based Compensation
+The Company accounts for stock-based awards to employees using the
+intrinsic value method as prescribed in Accounting Principles Board APB
+Opinion No. 25, Accounting for Stock Issued to Employees and related
+interpretations. The Company follows the disclosure provisions of Statement of
+Accounting Standards SFAS No. 123, Accounting for Stock-Based Compensation
+see Note 6. Deferred compensation is recorded for restricted stock granted to
+employees based on the fair value of the Company common stock at the date of
+grant and is amortized over the period in which the restrictions lapse. All
+stock-based awards to non-employees are accounted for at their fair value in
+accordance with SFAS No. 123 and related interpretations.
+Recently Issued Accounting Standards
+In June 2001, the Financial Accounting Standards Board issued Statements of
+Financial Accounting Standards No. 141 SFAS 141, Business Combinations and
+No. 142 SFAS 142, Goodwill and Other Intangible Assets. SFAS 141 requires
+business combinations initiated after June 30, 2001 to be accounted for using
+the purchase method of accounting, and broadens the criteria for recording
+intangible assets separate from goodwill. SFAS 142 addresses financial
+accounting and reporting for acquired goodwill and other intangible assets,
+including how goodwill and other intangible assets should be accounted for after
+they have been initially recognized. In addition, SFAS 142 includes provisions
+for the reclassification of certain existing recognized intangible assets, such
+as acquired workforce, into goodwill. SFAS 142 provides that goodwill and
+intangible assets that have indefinite useful lives not be amortized but rather
+be tested at least annually for impairment; intangible assets with finite useful
+lives will continue to be amortized over their useful lives. SFAS 142 also
+provides specific guidance for testing goodwill for impairment. In accordance
+with its provisions, the Company will adopt SFAS 142 on January 1, 2002 and will
+cease amortizing goodwill; the Company had previously been recording annual
+goodwill amortization of approximately $101 million. The Company will also
+reclassify approximately $01 million of previously recognized acquired
+workforce to goodwill and as a result, amortization on this amount has also
+ceased. The workforce recorded in connection with the L acquisition is not
+subject to the provisions of SFAS 142 as the transaction, for financial
+47
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+accounting purposes, was recorded as an asset purchase and not a business
+combination. SFAS 142 also requires the Company to complete a transitional
+goodwill impairment test with-in six months from the date of adoption. The
+Company currently does not expect to record an impairment charge on the $422
+million of goodwill at December 31, 2001, upon completion of the initial
+impairment review. The decrease in amortization expense from the goodwill will
+be partly offset in 2002 by the amortization of intangible assets acquired from
+L of approximately $45 million per year. The Company estimates total
+amortization expense for 2002 will be approximately $219 million.
+In August 2001, the FASB issued Statement of Financial Accounting Standards
+No. 144, Accounting for the Impairment or Disposal of Long-Lived Assets SFAS
+144. The objectives of SFAS 144 are to address significant issues relating to
+the implementation of FASB Statement No. 121, Accounting for the Impairment of
+Long-Lived Assets and for Long-Lived Assets to Be Disposed Of SFAS 121, and
+to develop a single accounting model, based on the framework established in SFAS
+121, for long-lived assets to be disposed of by sale, whether previously held
+and used or newly acquired. SFAS 144 supersedes SFAS 121; however, it retains
+the fundamental provisions of SFAS 121 for 1 the recognition and measurement
+of the impairment of long-lived assets to be held and used and 2 the
+measurement of long-lived assets to be disposed of by sale. SFAS 144 supersedes
+the accounting and reporting provisions of Accounting Principles Board No. 30,
+Reporting the Results of Operations -- Reporting the Effects of Disposal of a
+Segment of a Business, and Extraordinary, Unusual and Infrequently Occurring
+Events and Transactions APB 30, for segments of a business to be disposed
+of. However, SFAS 144 retains the requirement of APB 30 that entities report
+discontinued operations separately from continuing operations and extends that
+reporting requirement to a component of an entity that either has been
+disposed of or is classified as held for sale. SFAS 144 also amends the
+guidance of Accounting Research Bulletin No. 51, Consolidated Financial
+Statements, to eliminate the exception to consolidation for a temporarily
+controlled subsidiary. SFAS 144 is effective for financial statements issued for
+fiscal years beginning after December 15, 2001, including interim periods, and,
+generally, its provisions are to be applied prospectively. The Company does not
+expect that the initial application of SFAS 144 will have a material impact on
+its financial position or results of operations.
+In November 2001, the Emerging Issues Task Force EITF, a committee of
+the FASB, reached a consensus on EITF Issue 01-9, Accounting for Consideration
+Given by a Vendor to a Customer or Reseller of the Vendor Products EITF
+01-9. EITF 01-9 presumes that consideration from a vendor to a customer or
+reseller of the vendor products is a reduction of the selling prices of the
+vendor products and, therefore, should be characterized as a reduction of
+revenue when recognized in the vendor income statement and could lead to
+negative revenue under certain circumstances. Revenue reduction is required
+unless consideration relates to a separate identifiable benefit and the
+benefit fair value can be established, in which case such amounts may be
+recorded as operating expenses. In accordance with its provisions, the Company
+will adopt EITF 01-9 on January 1, 2002. Certain of its co-operative marketing
+and marketing development fund programs do not meet the criteria to be recorded
+as operating expenses, which is the current policy. Unless the Company is able
+to renegotiate or otherwise change these marketing programs with its retailers,
+amounts earned by the retailers under such programs will be recorded as revenue
+reductions in the future. Upon adoption, the Company will reclassify all prior
+period reported results of operations to conform to the presentation required by
+EITF 01-9. The Company is currently assessing the impact of EITF 01-09 on its
+previously reported revenue and operating expenses. EITF 01-9 will not impact
+its overall results of operations.
+48
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+3. BALANCE SHEET COMPONENTS
+The following table summarizes key balance sheet components in thousands                                  DECEMBER 31,
+2001    2000
+Inventory
+Raw  $  107  $  324
+Finished     400     482
+$  507  $  806
+Goodwill and other intangible assets see Note 11
+$ 60,447  $ 60,447
+Core   63,069   28,586
+Developed   16,340   16,340
+Trademarks and   10,365    4,383
+Non-competition    4,048    4,048
+Acquired favorable     553     553
+OEM    1,100    1,100
+Assembled    4,203     923
+200     200
+160,325   116,580
+Accumulated   52,049  24,529
+$108,276  $ 92,051
+Accrued expenses
+Accrued  $ 2,775  $ 1,188
+Accrued sales and marketing    1,160    1,880
+Accrued     634    1,428
+Accrued     750     650
+Accrued professional     571     638
+Accrued acquisition    6,065       Accrued transaction     882       Accrued taxes and    1,634    1,634
+$ 14,471  $ 7,418
+DECEMBER 31,
+USEFUL LIFE                              IN YEARS   2001    2000
+PROPERTY AND EQUIPMENT
+Computers, software and equipment.   3      $ 6,556  $ 5,391
+Leasehold   2-4       436    505
+Furniture and    3        193    534
+Construction in   --        176                                                                               7,361   6,430
+Accumulated          4,955  3,476
+$ 2,406  $ 2,954
+49
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Depreciation expense, associated with property and equipment, for the years
+ended December 31, 2001, 2000 and 1999 was $18 million, $21 million, and $02
+million, respectively.
+4. DEBT
+On March 14, 2000, the Company entered into a one year Credit Agreement
+the Agreement with its primary financial institution for a $10,000,000
+revolving loan the Credit Facility. Borrowings under the Credit Facility
+bore interest at the prime rate plus one percent and, as amended, expired on
+September 30, 2001. The maximum aggregate amount of borrowings outstanding at
+any one time as amended was $50 million.
+During 2001, the Company repaid all amounts due under the Credit Facility,
+which included principal and interest amounting to $34 million. The Credit
+Facility was terminated and cancelled upon the final payment.
+PROMISSORY NOTES PAYABLE
+In connection with the L acquisition, the Company issued a $35 million
+promissory note the Note to Lernout & Hauspie Speech Products, N.V. The
+unsecured Note, matures on December 15, 2004 and bears interest at 9% per annum.
+Payments of principal and interest in the amount of $133,000 are due quarterly
+commencing on March 15, 2002, for a total of eleven 11 payments. All remaining
+principal and interest is due on December 15, 2004.
+Principal payments due under the Note are as follows: $02 million in 2002 02 million in 2003, and $31 million in 2004.
+5. STOCKHOLDERS' EQUITY
+Preferred Stock
+The Company is authorized to issue up to 40,000,000 shares of preferred
+stock, par value $0001 per share. The Company has designated 100,000 shares as
+Series A Preferred Stock and 15,000,000 as Series B Preferred Stock. In
+connection with the acquisition of ScanSoft see Note 11, the Company issued
+3,562,238 shares of Series B Preferred Stock to Xerox Corporation Xerox. The
+Series B Preferred Stock is convertible into shares of common stock on a
+one-for-one basis. The Series B Preferred Stock has a liquidation preference of
+$130 per share plus all declared but unpaid dividends. The Series B Preferred
+Stock holders are entitled to non-cumulative dividends at the rate of $0065 per
+annum per share, payable when, as and if declared by the Board of Directors. To
+date no dividends have been declared by the Board of Directors. Holders of
+Series B Preferred Stock have no voting rights, except those rights provided
+under Delaware law. The undesignated shares of preferred stock will have rights,
+preferences, privileges and restrictions, including voting rights, dividend
+rights, conversion rights, redemption privileges and liquidation preferences, as
+shall be determined by the Board of Directors upon issuance of the preferred
+stock. The Company has reserved 3,562,238 shares of its common stock for
+issuance upon conversion of the Series B Preferred Stock.
+Common Stock Warrants
+In connection with the ScanSoft acquisition in 1999 see Note 11, the
+Company issued Xerox a ten-year warrant that allows Xerox to acquire a number of
+shares of common stock equal to the number of stock options whether vested or
+unvested that remains unexercised at the expiration of any ScanSoft stock
+option assumed by the Company in the merger. The exercise price for each warrant
+share is $061. If all of the assumed ScanSoft options expire without being
+exercised, Xerox would be entitled to purchase 1,736,630 shares of common stock.
+From the date of acquisition through December 31, 2001, 520,413 ScanSoft options
+50
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+have been forfeited and accordingly, the Xerox warrant at December 31, 2001 was
+exercisable for the purchase of 520,413 shares of the Company common stock.
+Stock Repurchase Program
+During 2001, the Board of Directors authorized the repurchase of up to 2
+million shares of common stock for a period of one year ending on August 22,
+2002. Purchases have been and will be made in the open market or in privately
+negotiated transactions. Repurchased shares are available for issuance under
+employee stock plans or in the ordinary course of business. For the year ended
+December 31, 2001 the Company repurchased 656,000 shares of common stock at a
+cost of $10 million.
+Other
+During December 2001, the Company issued 262,200 shares of its common stock
+in partial settlement of a $21 million liability assumed in connection with the
+Caere acquisition. The common stock was valued at $07 million based on the fair
+value of the common stock on the date agreement was reached. The Company also
+agreed to pay $07 million in cash as part of the settlement. The Company
+realized a gain on this settlement of $07 million as a reduction of general and
+administrative expenses in 2001.
+On December 21, 2001, the Company committed to issuing 65,100 shares of its
+common stock in partial settlement of a $10 million liability incurred as part
+of the Caere acquisition. The common stock was valued at $03 million based on
+the fair value of the common stock on the date agreement was reached. The
+Company also agreed to pay $03 million in cash as part of the settlement. The
+Company realized a gain on this settlement of $03 million as a reduction of
+general and administrative expenses in 2001. The $03 million value of the
+common stock is reflected in other long-term liabilities at year-end as the
+shares were not issued as of December 31, 2001.
+6. STOCK COMPENSATION PLANS
+Stock Option and Award Plans
+The Company has several stock-based compensation plans under which
+employees, officers, directors and consultants may be granted stock awards or
+options to purchase the Company common stock generally at the fair market
+value on the date of grant. Certain plans allow for options to be granted at
+below fair market value under certain circumstances. Options become exercisable
+over various periods, typically two to four years and have a maximum term of 10
+years. At December 31, 2001, 17,409,583 shares were authorized for grant under
+the Company stock-based compensation plans, of which 4,192,414 were available
+for future grant. To date, all stock options have been granted with exercise
+prices equal to the fair market value of the Company common stock on the date
+of grant.
+During 2001, the Company awarded 133,824 shares of restricted common stock
+to senior executives at a weighted average fair value at the grant date of $272
+resulting in deferred compensation of $291,000. Restrictions lapse over a period
+of 2 to 4 years depending on the grant. The restricted stock awards entitle the
+participant to full dividend and voting rights. Unvested shares are restricted
+as to disposition and subject to forfeiture under certain circumstances.
+Deferred compensation expense is amortized to compensation expense over the
+period that the restrictions lapse. During 2001, compensation expense of $15,000
+was recognized. No restricted stock awards were outstanding for the years ended
+December 31, 2000 and 1999, respectively.
+51
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+The following table summarizes activity under all stock option plans and
+for options granted outside the plans                                       WEIGHTED
+AVERAGE
+NUMBER   EXERCISE
+OF SHARES   PRICE
+Balance at December 31,   2,551,903  $24607
+Options   3,344,392  $24886
+Options granted in exchange for ScanSoft options.  1,736,630  $06100
+Options   371,230  $06419
+Options  3,082,858  $18685
+Balance at December 31,   4,178,837  $27695
+Options   7,453,007  $22604
+Options granted in exchange for Caere options.  4,577,993  $25057
+Options   307,307  $09703
+Options  3,536,878  $27977
+Balance at December 31,  12,365,652  $24863
+Options   3,891,021  $23866
+Options   527,582  $19562
+Options  2,511,922  $32688
+Balance at December 31,  13,217,169  $23315
+The weighted average grant date fair value per share of options granted was
+$192, $183 and $140 for the years ended December 31, 2001, 2000 and 1999,
+respectively.
+The following table summarizes information about stock options outstanding
+under the Company stock compensation plans at December 31, 2001              OPTIONS OUTSTANDING          OPTIONS EXERCISABLE
+WEIGHTED
+AVERAGE     WEIGHTED            WEIGHTED
+EXERCISE     SHARES    REMAINING    AVERAGE     SHARES     AVERAGE
+PRICE RANGE  OUTSTANDING  LIFE IN YEARS  EXERCISE PRICE  EXERCISABLE  EXERCISE PRICE
+-                                         
+$041 - $121  1,485,028    800      $073      649,775    $060
+$123 - $128  1,911,037    893       126     1,058,210     127
+$131 - $134  2,807,750    151       134     1,836,426     134
+$141 - $172  1,483,326    777       162      492,460     163
+$178 - $304  1,401,558    789       257      847,079     256
+$310 - $400  1,430,437    753       347      584,745     345
+$413 - $430  1,596,327    838       428      378,815     424
+$445 - $587   990,852    767       514      574,304     511
+$593 - $593   70,854    641       593      70,854     593
+$594 - $594   40,000    820       594      10,000     594
+041 - $594 13,217,169    668      $233     6,502,668    $219
+1995 Employee Stock Purchase Plan
+The Company 1995 Employee Stock Purchase Plan, as amended on June 29,
+1999, authorizes the issuance of a maximum of 1,000,000 shares of common stock
+in semi-annual offerings to employees at a price
+52
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+equal to the lower of 85% of the closing price on the applicable offering
+commencement date or 85% of the closing price on the applicable offering
+termination date. The Company issued 95,952, 46,896 and 60,786 shares of common
+stock under this plan during the years ended December 31, 2001, 2000 and 1999
+respectively. The weighted average fair value of common stock on the grant date
+was $071, $108 and $128 during the years ended December 31, 2001, 2000 and
+1999 respectively.
+Pro Forma Information
+Had compensation expense for the Company stock-based compensation plans
+been determined based on fair market value at the grant dates, as prescribed by
+SFAS No. 123, the Company net loss and pro forma net loss and the Company
+net loss and pro forma net loss per share would have been as follows in
+thousands, except per share amounts                              YEAR ENDED DECEMBER 31,
+2001    2000    1999
+Net loss -- as  $16,877  $53,251  $2,748
+Net loss -- pro  $21,897  $57,419  $5,004
+Net loss per share -- as reported: basic and
+$ 034  $ 126  $ 011
+Net loss per share -- pro forma: basic and
+$ 044  $ 136  $ 020   The fair value of each option grant was estimated on the date of grant
+using the Black-Scholes option-pricing model with the following assumptions:
+expected volatility of 130% for 2001 and 2000, and 209% for 1999, risk-free
+interest rate of 366% to 497% for options granted in 2001, 502% to 668% for
+options granted in 2000, and 536% to 607% for options granted in 1999, and a
+weighted average expected option term of 5 years for all periods. The Company
+has not paid dividends to date and assumed no dividend yield.
+For the Employee Stock Purchase Plan, the fair value of each purchase right
+was estimated at the beginning of the offering period using the Black-Scholes
+option-pricing model with the following assumptions used in 2001, 2000 and 1999:
+expected volatility of 133% to 168% for 2001, 128% for 2000 and 100% to 130% for
+1999; risk-free interest rate of 341% to 504%, 610% and 503% for 2001, 2000
+and 1999, respectively; and expected lives of six months for all three years.
+The Company has not paid dividends and assumed no dividend yield. The
+weighted-average fair value of all purchase rights granted in 2001, 2000 and
+1999, were $104, $173 and $066, respectively.
+7. COMMITMENTS AND CONTINGENCIES
+Operating Leases
+The Company has various operating leases for office space around the world.
+These obligations extend through 2008. Future minimum payments under operating
+leases with an initial term of more than one year are as follows in thousands YEAR ENDED
+DECEMBER 31                                
+$1,736
+1,820
+1,779
+1,767
+1,408
+400
+$8,910
+53
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Total rent expense under operating leases for the years ended December 31,
+2001, 2000 and 1999 was $08 million, $08 million and $03 million,
+respectively.
+Litigation and Other Claims
+Like many companies in the software industry, we have from time to time
+been notified of claims that we may be infringing certain intellectual property
+rights of others. These claims have been referred to counsel, and they are in
+various stages of evaluation and negotiation. If it appears necessary or
+desirable, we may seek licenses for these intellectual property rights. We can
+give no assurance that licenses will be offered by all claimants, that the terms
+of any offered licenses will be acceptable to us or that in all cases the
+dispute will be resolved without litigation, which may be time consuming and
+expensive, and may result in injunctive relief or the payment of damages by us.
+In January 2002, ScanSoft received notice that the Massachusetts Institute
+of Technology and Electronics For Imaging, Inc. had filed a patent infringement
+claim against 94 defendants including ScanSoft. Damages are sought in an
+unspecified amount. To date, we have not yet been served with the court
+documents. We cannot predict the outcome of the claim, nor can we make any
+estimate of the amount of damages, if any, for which we will be held responsible
+in the event of a negative conclusion of the claim.
+On August 16, 2001, ScanSoft was sued by Horst Froessl for patent
+infringement. Damages are sought in an unspecified amount. We filed an Answer
+and Counterclaim on September 19, 2001. We believe this claim has no merit and
+we intend to defend the action vigorously.
+The Company believes that the final outcome of such matters will not have a
+significant adverse effect on the Company financial position and results of
+operations, including the expenditure of a significant amount of resources
+defending such claims. However, should the Company not prevail in any such
+litigation, its operating results and financial position could be adversely
+impacted.
+8. 401k SAVINGS PLAN
+The Company has established a retirement savings plan under Section 401k
+of the Internal Revenue Code the 401k Plan. The 401k Plan covers
+substantially all employees of the Company who meet minimum age and service
+requirements, and allows participants to defer a portion of their annual
+compensation on a pre-tax basis. The Company contributes in cash, 100% of up to
+the first 4% of an employee salary contributed to the 401k Plan by the
+employee. The Company contributions to the 401k Plan totaled $04 million 04 million and $03 million for the years ended December 31, 2001, 2000 and
+1999, respectively.
+9. SEGMENT, GEOGRAPHIC AND SIGNIFICANT CUSTOMER INFORMATION
+The Company operates in a single segment. The following table presents
+total revenue information by geographic area in thousands                              YEAR ENDED DECEMBER 31,
+2001    2000    1999
+United  $50,405  $39,965  $24,732
+Other foreign   13,450   9,090   6,897
+$63,855  $49,055  $31,629
+Revenue classification above is based on the country in which the sale
+originates or is invoiced. Revenue in other countries predominately relates to
+sales to customers in Europe. Intercompany sales are insignificant as products
+sold in other countries are sourced within Europe.
+54
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+A number of the Company North American OEM partners distribute its
+products throughout the world but because its partners do not provide the
+geographic dispersion of its products it has recognized the revenue in the
+United States.
+The following table summarizes the Company long-lived assets, excluding
+intangible assets, by geographic location in thousands                                 DECEMBER 31,
+2001   2000
+United  $2,421  $3,505
+Other foreign    662    561
+$3,083  $4,066
+In 2001, three customers accounted for 28%, 15% and 11% of total net
+revenues. During 2000, three customers accounted for 27%, 11% and 11% of total
+net revenues. During 1999, three customers accounted for 24%, 15% and 14% of
+total net revenues.
+10. INCOME TAXES
+The components of the income tax provision benefit are as follows in
+thousands                                YEAR ENDED DECEMBER 31,
+2001   2000   1999
+$ 16  $ --   $ 70
+277   382    60
+578   90    20
+Provision benefit for income taxes. $317  $472   $150
+For financial reporting purposes, loss before income taxes includes the
+following components in thousands                              YEAR ENDED DECEMBER 31,
+2001    2000    1999
+United  $17,797  $53,609  $2,756
+603     830    158
+$17,194  $52,779  $2,598
+The cumulative amount of undistributed earnings of foreign subsidiaries,
+which is intended to be permanently reinvested and for which U.S. income taxes
+have not been provided, totaled approximately $12 million at December 31, 2001.
+55
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Deferred tax assets liabilities consist of the following in thousands                                  DECEMBER 31,
+2001    2000
+Deferred tax assets
+Net operating loss  $ 36,439  $ 40,450
+Federal and state credit    4,011    3,213
+Capitalized start-up and development costs.   1,108    1,091
+Accrued expense and other    3,374    4,007
+Deferred    1,136    1,136
+1,960    1,697
+4      5
+Gross deferred tax   48,032   51,599
+Deferred tax liabilities
+Acquired   7,767  14,622
+Valuation   40,265  36,977
+Net deferred tax  $   --  $                                        At December 31, 2001 and 2000, the Company provided a valuation allowance
+for the full amount of its net deferred tax assets due to the uncertainty of
+realization of those assets as a result of the recurring and cumulative losses
+from operations.
+The Company monitors the realization of its deferred tax assets based on
+changes in circumstances, for example, recurring periods of income for tax
+purposes following historical periods of cumulative losses or changes in tax
+laws or regulations. At such time that changes occur which will result in a
+change in the estimate of the valuation allowance, an income tax benefit would
+be recorded in the results of operations to reduce the valuation allowance.
+A reconciliation of the Company effective tax rate to the statutory
+federal rate is as follows                               YEAR ENDED DECEMBER 31,
+2001     2000    1999
+Federal statutory tax   340%   340%  340%
+Nondeductible amortization and in-process research
+and    200%     53%   516%
+Foreign    04%    04%    23%
+State tax, net of federal benefit.   44%    01%    05%
+05%     --     Change in valuation    165%    291%   146%
+18%    09%    58%
+At December 31, 2001 and 2000, the Company had federal net operating loss
+carryforwards of approximately $90 million and $105 million, respectively, of
+which approximately $41 million and $28 million, respectively, relate to tax
+deductions from stock compensation. The tax benefit related to the stock
+compensation, when realized, will be accounted for as additional paid-in capital
+rather than as a reduction of the provision for income tax. At December 31, 2001
+the Company had federal and state research and development credit carryforwards
+of approximately $28 million and $16 million respectively. The net operating
+loss and credit carryforwards will expire at various dates through 2021, if not
+utilized. Utilization of the net operating losses and credits may be subject to
+a substantial annual limitation due to the ownership
+56
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+change limitations provided by the Internal Revenue Code of 1986 and similar
+state provisions. The annual limitation may result in the expiration of net
+operating losses and credits before utilization.
+11. ACQUISITIONS
+Acquisition of Lernout & Hauspie L Speech Products N.V. Assets   On December 7, 2001, the Company entered into a definitive asset purchase
+agreement the Purchase Agreement to acquire certain assets and intellectual
+property relating to the former L entities that were in bankruptcy under the
+jurisdiction of both the U.S. Bankruptcy Court for the District of Delaware and
+the Belgium Court of Ieper. We purchased these assets in a closed auction
+proceeding administered by the creditors committee of the former entities and
+approved by both the U.S. and Belgium courts on December 11, 2001. The
+transaction was completed on December 12, 2001 and the Company results from
+operations include L activities since that date.
+Pursuant to the Purchase Agreement, the Company acquired patents,
+trademarks, tradenames, product and customer contracts associated with certain
+of the speech and language technology assets of L In addition, the Company
+obtained rights to accounts receivable related to the customer contracts
+acquired and fixed assets. The Company also hired 223 employees from L The
+Company paid $413 million in total consideration to the creditors as follows 100 million in cash, 74 million shares of the Company common stock valued
+at $278 million based on the average of the closing share price of our stock 3
+days before and after the proposed acquisition was announced and a 9%
+promissory note in the principal amount of $35 million, to be repaid in
+installments of $01 million of principal and interest quarterly commencing on
+March 15, 2002, for a total of eleven 11 payments. All remaining principal and
+interest shall become due on December 15, 2004. The Company incurred
+approximately $10 million of acquisition related costs.
+The purchase price was allocated to the tangible and intangible assets
+acquired patent and core technology, trade names and trademarks, and workforce
+and liabilities assumed based on their respective fair market values. The total
+identifiable tangible and intangible assets amounted to $229 million. The
+excess purchase price of $213 million has been allocated to identifiable
+long-lived assets based on their respective percentages of fair value. The
+purchase price including acquisition costs was allocated as follows in
+thousands                               
+Identified intangible   $43,745
+Net current liabilities    1,976
+Fixed     531
+$42,300
+The values of the patents, core technology and trade names and trademarks
+were determined using the income approach. The income approach requires a
+projection of revenues and expenses specifically attributed to the intangible
+assets. The discounted cash flow DCF method is then applied to the potential
+income streams after making necessary adjustments with respect to such factors
+as the wasting nature of the identifiable intangible assets and the allowance of
+a fair return on the net tangible assets and other intangible assets employed.
+There are several variations on the income approach, including the
+relief-from-royalty method, the avoided cost method and the lost profits method.
+The relief-from-royalty method was used to value the patents, core technology
+and trade names and trademarks. The relief-from-royalty method is used to
+estimate the cost savings that accrue to the owner of the intangible assets that
+would otherwise have to pay royalties or licensee fees on revenues earned
+through the use of the asset. The royalty rate used in the analysis is based on
+an analysis of empirical, market-derived royalty rates for guideline intangible
+assets.
+Typically, revenue is projected over the expected remaining useful life of
+the intangible asset. The market-derived royalty rate is then applied to
+estimate the royalty savings. The key assumptions used in
+57
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+valuing the patents and core technology are as follows: royalty rate 5 discount rate 15%, tax rate 40% and estimated life of 10 years. The key
+assumptions used in valuing the trade names and trademarks are as follows:
+observed royalty rate 1%, discount rate 15%, tax rate 40% and estimated life of
+12 years.
+The workforce value was determined using the avoided cost method. The
+avoided cost method considers the concept of avoided cost as an indicator of
+value. The avoided cost method is appropriate for estimating the fair value of
+an asset where reliable data for sales of comparable assets are not available
+and where assets do not directly produce a revenue stream. As a result, the
+basis of the valuation is the estimated cost to recruit and train an entire new
+workforce.
+OEM contracts and customer relationships, as well as completed technology,
+were determined to have de minimus values and, accordingly, no amount of the
+purchase price was allocated to these intangible assets. A discounted cash flow
+method was used to estimate the residual cash flows attributable to OEM
+contracts and customer relationships. The projections included negative cash
+flows over the early years of the relationship and, when combined with the
+contributory asset charged for the other technology-based assets, such as
+patents and core technology which are required to realize revenue under these
+arrangements, resulted in de minimus value for the OEM contracts and the
+customer relationships. The completed technology was valued using individual
+cash flow projections for each technology, adjusted for capital charges, and
+discounted to present value using a weighted average cost of capital. Cash flow
+projections and operating profits are negative for the initial years and when
+considered with the short life cycle of the application-based completed
+technology, the value ascribable to the completed technology was de minimus.
+The following table identifies the intangible assets acquired in connection
+with L and their respective lives                              AMOUNT      LIFE
+IN THOUSANDS  IN YEARS
+Patents and core    $34,483      10
+Trade names and     5,982      12
+3,280       6
+$43,745
+In connection with the acquisition, we assumed certain liabilities for
+products which were sold prior to the acquisition date and which are expected to
+be upgraded with newer versions in 2002 and liabilities for development
+contracts with customers. The actual amount of the liabilities may differ from
+the estimated amounts. Differences between the actual and estimated amounts will
+be recorded as an adjustment to the liability.
+Caere Acquisition   On March 13, 2000, the Company acquired all of the outstanding capital
+stock of Caere Corporation, a California-based company that designed, developed
+and marketed a range of optical character recognition software tools, for
+approximately $485 million in cash, 190 million shares of common stock of the
+Company valued at $985 million, and the issuance of stock options for the
+purchase of approximately 46 million shares of the Company common stock
+valued at $155 million, in exchange for outstanding employee stock options of
+Caere. The fair value of the employee stock options was estimated using the
+Black-Scholes option pricing model. In addition, pursuant to a concurrent
+non-competition agreement and subject to certain other conditions, the Company
+agreed to pay in cash the former Caere President and CEO on the second
+anniversary of the merger, March 13, 2002, the difference between $1350 and the
+closing price per share of ScanSoft common stock at that time, multiplied by
+486,548. The value of this stock price guarantee at the date of acquisition was
+approximately $41 million and has been included in the total purchase price of
+the acquisition see Note 15. Additionally, in conjunction with the
+acquisition, the Company incurred
+58
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+approximately $18 million of acquisition related costs. The purchase price of
+Caere, including acquisition costs was allocated as follows in thousands                              
+Property and  $ 2,865
+Current and other tangible   58,400
+Liabilities   16,985
+61,095
+Core   17,905
+Developed   16,340
+Other identified intangible   10,448
+Acquired in-process research and development.  18,291
+$168,359
+The amounts allocated to identifiable tangible and intangible assets,
+including acquired in-process research and development, were based on the fair
+value of the assets. Goodwill represents the amount by which the cost of
+acquired net assets exceeded the fair values of those net assets on the date of
+purchase. Acquired in-process research and development represented development
+projects that had not yet reached technological feasibility and had no
+alternative future use. Accordingly, the amount of $183 million was charged to
+operations upon consummation of the acquisition.
+The values of the core technology, developed technology and acquired
+in-process technology were determined by a risk adjusted, discounted cash flow
+approach. The value of in-process research and development was determined by
+estimating the costs to develop the in-process projects into commercially viable
+products, estimating the resulting net cash flows from the sale of such
+products, discounting net cash flows back to their present values, and adjusting
+those results to reflect the projects' stages of completion at the acquisition
+date. These include projects primarily major version upgrades in each of
+Caere major products, including OmniPage, OmniForm, and PageKeeper. The
+discount rates used were 14% for developed technology, 19% for core technology,
+and 24% for in-process technology. The discount rate for in-process technology
+takes into consideration the Company weighted average cost of capital adjusted
+for the inherent uncertainties surrounding the successful development of the
+in-process research and development, the profitability levels of such technology
+and the uncertainty of technological advances, which could potentially impact
+the estimates described above.
+The percentage of completion of the in-process projects ranged from 50% to
+67% at the date of the acquisition. Revenues were initially projected to be
+generated in late 2000 for each of the product versions in development at the
+acquisition date. As of December 31, 2000, revenues from these projects were
+expected to be generated beginning in the second quarter of 2001. All these
+projects were completed during 2001.
+The table following identifies the intangible assets acquired in connection
+with Caere and their respective lives                              AMOUNT      LIFE
+IN THOUSANDS  IN YEARS
+$ 61,095      6
+Core     17,905      5
+Developed     16,340      2
+Other identified intangible assets.    10,448     2-5
+$105,788
+59
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Other identified intangible assets consist of a non-compete agreement,
+acquired work force, a favorable building lease agreement, and patents on the
+Caere technology. These assets have expected useful lives of 2, 3, 4 and 5
+years, respectively, and are being amortized accordingly.
+During the year ended December 31, 2000, the Company, as a result of its
+June restructuring see Note 12, wrote-off $11 million of acquired workforce
+and $24 million of the favorable building lease established as part of the
+identifiable intangible assets acquired from Caere. The portion of the assets
+impaired related directly to the number of employees terminated and facility
+space vacated in connection with these restructuring actions.
+This acquisition has been accounted for under the purchase method of
+accounting. Accordingly, the results of operations of Caere and the fair market
+value of acquired assets and assumed liabilities have been included in the
+financial statements of the Company as of the date of acquisition.
+ScanSoft Acquisition   On March 2, 1999, the Company acquired the business of ScanSoft, Inc., an
+indirect wholly-owned subsidiary of Xerox Corporation, for approximately 68
+million shares of common stock valued at $104 million, 36 million shares of
+non-voting preferred stock valued at $46 million and the issuance of stock
+options for the purchase of approximately 17 million shares of the Company
+common stock, valued at $24 million, in exchange for outstanding employee stock
+options of ScanSoft. In conjunction with the acquisition, the Company incurred
+approximately $12 million of acquisition related costs.
+The purchase price of $186 million was allocated to the tangible and
+intangible assets acquired in-process research and development, core
+technology, trade mark and trade name, and assembled workforce acquired and
+liabilities assumed based on fair value. Acquired in-process research and
+development represented development projects that had not yet reached
+technological feasibility and had no alternative future use. Accordingly, the
+amount of $39 million was charged to operations upon consummation of the
+acquisition. The purchase price was allocated as follows in thousands                               
+Property and   $  909
+Current and other    4,813
+Liabilities    2,166
+Identified intangible    11,096
+Acquired in-process research and development.   3,944
+$18,596
+This acquisition has been accounted for under the purchase method of
+accounting. Accordingly, the results of operations of ScanSoft and the fair
+value of acquired assets and assumed liabilities have been included in the
+financial statements of the Company as of the date of acquisition.
+The values of the core technology and acquired in-process technology were
+determined by a risk adjusted, discounted cash flow approach. The value of
+in-process research and development, specifically, was determined by estimating
+the costs to develop the in-process projects into commercially viable products,
+estimating the resulting net cash flows from the sale of such products,
+discounting net cash flows back to their present values, and adjusting those
+results to reflect the projects' stages of completion at the acquisition date.
+These projects include projects primarily major version releases in each of
+ScanSoft major products, including ScanWorks, Pagis, TextBridge and API. The
+discount rate used for the core technology and in-process technology was 20% and
+25%, respectively. This discount rate takes into consideration the Company
+weighted-average cost of capital adjusted for the inherent uncertainties
+surrounding the successful development of the in-process research and
+development, the profitability levels of such technology and the
+60
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+uncertainty of technological advances, which could potentially impact the
+estimates described above. The percentage of completion of the projects ranged
+from 73% to 95% at the date of acquisition. All of the projects were
+successfully completed in 1999.
+The following table identifies the intangible assets acquired in connection
+with ScanSoft and their respective lives                              AMOUNT      LIFE
+IN THOUSANDS  IN YEARS
+Core    $ 8,747      6
+1,800      7
+549      3
+$11,096
+Acquisition of MetaCreations Product Lines   On June 30, 1999, the Company entered into a definitive asset purchase
+agreement the Purchase Agreement and license agreement the License to
+acquire and license certain assets and intellectual property relating to the
+photo imaging software products business of MetaCreations Corporation
+MetaCreations, which include Kai PhotoSoap 10 and 20, Kai SuperGOO
+10, Kai PowerGOO 10 and Kai Power SHOW 11 the Products.
+Pursuant to the Purchase Agreement, the Company purchased all
+MetaCreations' inventory, intangibles, marketing materials and website content
+relating to the Products. Under the License Agreement, MetaCreations granted the
+Company a perpetual non-exclusive, royalty free license to use, reproduce,
+license, sell and distribute the intellectual property relating to the Products
+and other related software technology. The Company paid MetaCreations an
+aggregate of $10 million in cash and issued a 7% promissory note in the
+principal amount of $16 million, due and paid in full on June 30, 2000.
+Additionally, the Company assumed the obligations to fulfill sales orders
+relating to the Products, all liabilities under all original equipment
+manufacturer and other agreements pertaining to the Products, and up to $950,000
+of product returns relating to Products sold prior to the date of the Purchase
+Agreement.
+The purchase price was allocated to the tangible and intangible assets
+core technology, OEM relationships, trademarks, and registered users base
+acquired and liabilities assumed based on fair value. The allocation of purchase
+price is estimated as follows in thousands                               
+Net liabilities   $1,234
+Identified intangible    3,834
+$ 2,600
+The following table identifies the intangible assets acquired in connection
+with MetaCreations and their respective lives                              AMOUNT      LIFE
+IN THOUSANDS  IN YEARS
+Core    $1,934      3
+OEM     1,100      3
+Trademark and registered users.     800      3
+$3,834
+61
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+During the fourth quarter of 2000, based on the financial results of the
+MetaCreations products, the Company reviewed the estimated future lives of the
+MetaCreations intangible assets. As a result of this review, the Company reduced
+the future amortization period of these intangible assets with lives greater
+than three years at December 31, 2000, to three years, resulting in increased
+amortization of $248,000 per year over the remaining lives.
+PRO FORMA RESULTS UNAUDITED
+The following table reflects unaudited pro forma results of operations of
+the Company assuming that the acquisition of ScanSoft and Caere had occurred on
+January 1, 1999 in thousands, except per share data                             YEAR ENDED DECEMBER 31,
+2000     1999
+$ 58,956   $ 93,299
+Net   $45,098   $21,248
+Net loss per diluted   $ 105   $ 046   These unaudited pro forma results of operations do not include the hardware
+business or the write-off of acquired in-process research and development as
+these amounts were non-recurring in nature. The unaudited pro forma results of
+operations are not necessarily indicative of the actual results that would have
+occurred had the transactions actually taken place at the beginning of these
+periods.
+12. RESTRUCTURING AND OTHER CHARGES
+In connection with the acquisition of Caere in the first quarter of 2000,
+ScanSoft identified 46 employees of Caere whose positions were eliminated upon
+consummation of the acquisition. These positions included 22 in research and
+development, 14 in general and administrative functions, and 10 in sales and
+marketing. Additionally, the Caere president and CEO position was eliminated. As
+a result, ScanSoft established as part of the purchase price allocation, a
+restructuring reserve of $05 million for severance payments to employees, and a
+restructuring reserve of $11 million for severance to the Caere former
+president and CEO, the payments of which will continue through March 2005.
+In June 2000, ScanSoft implemented a restructuring plan to strategically
+refocus our business and bring operating expenses in line with net revenues. As
+a result, the Company eliminated 65 employee positions including 29 in research
+and development, 13 in general and administrative functions and 23 in support
+and marketing. ScanSoft recorded a restructuring charge in the amount of
+$1,069,000 for severance payments to these employees and a restructuring charge
+of $04 million for certain termination fees to be incurred as a result of
+exiting the Los Gatos facility. Additionally, ScanSoft wrote-off $35 million of
+net intangible assets acquired as part of the Caere acquisition including the
+acquired work force of $11 million and the favorable building lease of $24
+million, which were impaired as a result of the restructuring action.
+For the years ended December 31, 2001 and 2000, ScanSoft paid $08 million
+and $11 million, respectively in severance payments related to these
+restructuring actions. The remaining severance balance of $06 million primarily
+relates to severance for the former Caere President and CEO and will be paid
+through March 2005.
+The Company was obligated to pay retention bonuses amounting to
+approximately $08 million and $02 million relating to key employees who were
+employed in the Caere integration and restructuring of the companies,
+respectively. These retention bonuses were expensed as incurred and were not
+included in the purchase price of the acquisition. As of December 31, 2000, the
+Company had paid all of these bonuses.
+During the fourth quarter of 2000, the Company incurred an additional $03
+million of facility related exit costs related to leasehold improvements on the
+Los Gatos facility in space vacated by the Company.
+62
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Additionally, during the fourth quarter the Company reversed $04 million of
+restructuring accruals taken in June 2000. Facility related contracts accounted
+for $03 million of the reserve. The remaining $01 million related to severance
+accruals for employees who left the Company prior to being eligible to receive
+severance benefits.
+The following table sets forth the 2001 and 2000 restructuring reserve
+activity in thousands                              LEASE  INTANGIBLE
+EMPLOYEE  EXIT    ASSET
+RESTRUCTURING AND OTHER CHARGES RESERVE    RELATED   COSTS  IMPAIRMENT   TOTAL
+-                                               
+Restructuring reserve provided in March 2000
+$ 1,552              $ 1,552
+Restructuring and other charges for June
+2000   1,069   $ 397   $ 3,490    4,956
+Additional Restructuring charges for June
+2000         276           276
+Reversal of excess restructuring charges
+related to June 2000 restructuring.   73   347          420
+Non-cash         276   3,490   3,766
+Cash   1,120              1,120
+Balance at December 31, 2000. $ 1,428   $ 50   $  --   $ 1,478
+Cash    794   50          844
+Balance at December 31, 2001. $  634   $ --   $  --   $  634
+Pursuant to the disposal of the hardware business and acquisition of the
+software business of ScanSoft, the Company initiated restructuring actions in
+the first quarter of 1999 and recorded a charge of $346,000 for such actions.
+All planned restructuring actions were completed and all related liabilities
+were paid in 1999.
+13. RELATED PARTIES
+At December 31, 2001, Xerox owned approximately 19% of the Company
+outstanding common stock and all of the Company outstanding Series B Preferred
+Stock. In addition, Xerox has the opportunity to acquire additional shares of
+common stock pursuant to a warrant see Note 5. The Company and Xerox have
+entered into multiple non-exclusive agreements in which the Company grants Xerox
+the royalty-bearing right to copy and distribute certain versions of the
+Company software programs with Xerox multi-function peripherals. Xerox
+accounted for 11% of total net revenues during each of the years ended December
+31, 2001 and 2000. As of December 31, 2001 and 2000, Xerox owed the Company $18
+million and $16 million, respectively, pursuant to these agreements, which are
+included in accounts receivable.
+On September 13, 1999, the Company purchased 600,000 shares of Series A
+Preferred Stock, par value $10 per share, at a cost of $25 per share for a
+total investment of $150,000 in BookmarkCentral.com which was recently renamed
+EchoBahn.com, Inc. One of the Company former directors, is a founder and the
+current President and Chief Executive Officer of EchoBahn. During 2001, the
+Company wrote-off its cost basis investment, in EchoBahn as a result of factors
+which indicated the investment was impaired.
+14. SALE OF HARDWARE BUSINESS
+On January 6, 1999 the Company sold the assets, liabilities and
+intellectual property related to the former hardware business to Primax for
+approximately $68 million in cash. The Company reported a non-operating gain of
+$09 million related to the sale of the hardware business, net of costs and
+expenses of disposing of the business.
+63
+SCANSOFT, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+15. SUBSEQUENT EVENTS
+On March 5, 2002, the Company negotiated an agreement with the former Caere
+President and CEO to terminate the non-competition agreement entered into in
+connection with the Caere acquisition see Note 11. Under the terms of the
+termination agreement, the calculation date for payments due as well as the
+expiration date of options to purchase 829,000 shares of common stock were
+accelerated to February 12, 2002. The resulting total cash payment will be paid
+as follows: $10 million immediately with the remainder payable in equal
+quarterly installments of approximately $04 million over the next two years.
+The final consideration under the termination agreement will result in a
+reduction of additional-paid-in capital of approximately $43 million in fiscal
+2002 and will have no effect on the results of operations.
+16. QUARTERLY DATA UNAUDITED
+The following information has been derived from unaudited consolidated
+financial statements that, in the opinion of management, include all recurring
+adjustments necessary for a fair presentation of such information.                     FIRST    SECOND   THIRD   FOURTH
+QUARTER   QUARTER   QUARTER  QUARTER   YEAR
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS
+2001
+Net  $ 12,801  $ 15,078  $17,066  $18,910  $ 63,855
+Net income loss. $ 6,900  $ 4,395  $3,214  $2,368  $16,877
+Earnings per share:
+$ 015  $ 009  $ 006  $ 004  $ 034
+$ 015  $ 009  $ 006  $ 004  $ 034
+Weighted average common shares
+outstanding:
+46,100   48,939   50,875   52,858   49,693
+46,100   48,939   50,875   52,858   49,693
+2000
+Net  $ 7,415  $ 13,975  $13,638  $14,027  $ 49,055
+Net income loss. $23,938  $16,028  $7,076  $6,209  $53,251
+Earnings per share:
+$ 078  $ 035  $ 015  $ 013  $ 126
+$ 078  $ 035  $ 015  $ 013  $ 126
+Weighted average common shares
+outstanding:
+30,529   45,918   45,963   46,032   42,107
+30,529   45,918   45,963   46,032   42,107                     64            REPORT OF INDEPENDENT ACCOUNTANTS ON
+FINANCIAL STATEMENT SCHEDULE
+To the Board of Directors and
+Stockholders of ScanSoft, Inc   Our audits of the consolidated financial statements referred to in our
+report dated February 11, 2002, except for Note 15 which is as of March 5, 2002,
+appearing in the 2001 Annual Report on Form 10-K of ScanSoft, Inc. also included
+an audit of the financial statement schedule listed in Item 14a2 of this
+Form 10-K. In our opinion, the financial statement schedule presents fairly, in
+all material respects, the information set forth therein when read in
+conjunction with the related consolidated financial statements. s/ PricewaterhouseCoopers LLP
+Boston, Massachusetts
+February 11, 2002
+65                  SCHEDULE II
+VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+IN THOUSANDS
+ACCOUNTS RECEIVABLE                                2001    2000    1999
+Balance at beginning of  $ 7,375   $3,690   $ 4,171
+Additions charged to costs and expenses.   186    726    9,305
+Additions charged to other   1,185a 3,116a    987
+Deductions and    103   157   10,773
+Balance at end of  $ 6,273   $7,375   $ 3,690 a Amounts recorded against revenue representing estimated returns as of
+December 31, 2001 and 2000, respectively.
+Item 1.       2
+Item 2.      18
+Item 3.    LEGAL   19
+Item 4.    SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.  19
+PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The information set forth in the Company Proxy Statement dated April 30,
+2002, for the Annual Meeting of Shareholders to be held on June 14, 2002 the
+Proxy Statement under the caption Election of Directors and Management
+Information is incorporated herein by reference.

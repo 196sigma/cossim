@@ -1,0 +1,1908 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+We present the information required by Item 8 of Form 10-K here in the
+following order                              
+Report of Independent   49
+Consolidated Statements of Operations -- Years ended
+December 31, 2002, 2001 and   50
+Consolidated Balance Sheets -- December 31, 2002 and 2001.  51
+Consolidated Statements of Stockholders' Equity -- Years
+ended December 31, 2002, 2001 and 2000.  52
+Consolidated Statements of Cash Flows -- Years ended
+December 31, 2002, 2001 and   53
+Notes to Consolidated Financial Statements.  54
+Reports of Independent Public   85
+Schedule II -- Valuation and Qualifying Accounts.  87   In addition, pursuant to General Instruction G1 of Form 10-K and Rule
+12b-23 promulgated under the Securities Exchange Act of 1934, as amended, the
+following financial information of Anam Semiconductor, Inc. required to be
+included in this Report by Rule 3-09 of Regulation S-X is incorporated by
+reference from our Report on 8-K filed on March 27, 2003.
+Reports of Independent Accountants
+Consolidated Balance Sheets -- December 31, 2002 and 2001
+Consolidated Statements of Operations -- Years ended December 31, 2002, 2001 and
+2000
+Consolidated Statements of Stockholders' Equity Deficit -- Years ended
+December 31, 2002, 2001 and 2000
+Consolidated Statements of Cash Flows -- Years ended December 31, 2002, 2001 and
+2000
+Notes to Consolidated Financial Statements
+48            REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Shareholders of Amkor Technology, Inc.   In our opinion, based on our audits and the report of another auditor, the
+consolidated financial statements listed in the accompanying index present
+fairly, in all material respects, the financial position of Amkor Technology,
+Inc. and its subsidiaries at December 31, 2002 and 2001, and the results of
+their operations and their cash flows for each of the three years in the period
+ended December 31, 2002 in conformity with accounting principles generally
+accepted in the United States of America. These financial statements are the
+responsibility of the Company management; our responsibility is to express an
+opinion on these financial statements based on our audits. We did not audit the
+financial statements of Amkor Technology Philippines, Inc. formerly Amkor
+Technology Philippines P1/P2, Inc. and Amkor Technology Philippines P3/P4,
+Inc. a wholly owned subsidiary, referred to herein as ATP, which combined
+financial statements reflect total assets of 14% and operating expenses of 14%
+of the related consolidated totals as of and for the year ended December 31,
+2002. The combined financial statements of ATP for 2002 were audited by another
+auditor whose report thereon has been furnished to us, and our opinion expressed
+herein, insofar as it relates to the amounts included for ATP, is based solely
+on the report of the other auditor. The financial statements of ATP as of
+December 31, 2001, and for each of the two years in the period ended December
+31, 2001 were audited by other independent accountants who have ceased
+operations. Those independent accountants expressed an unqualified opinion on
+those financial statements in their report dated March 19, 2002. In addition, in
+our opinion, the financial statement schedule listed in the accompanying index
+presents fairly, in all material respects, the information set forth therein
+when read in conjunction with the related consolidated financial statements. We
+conducted our audits of these statements in accordance with auditing standards
+generally accepted in the United States of America, which require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates
+made by management, and evaluating the overall financial statement presentation.
+We believe that our audits and the report of the other auditor provide a
+reasonable basis for our opinion.
+As discussed in Note 2 and Note 3, the Company adopted Statements of
+Financial Accounting Standards No. 142 Goodwill and Other Intangibles and No.
+144 Accounting for the Impairment or Disposal of Long-Lived Assets.
+PricewaterhouseCoopers LLP
+Philadelphia, Pennsylvania
+January 29, 2003,
+except for the information in Note 7
+describing the transaction involving
+the Company wafer fabrication
+business for which the date is
+February 28, 2003 and the sale of the
+Company investment in ASI for
+which the date is March 24, 2003
+49               AMKOR TECHNOLOGY, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS                                FOR THE YEAR ENDED DECEMBER 31,
+2002     2001     2000
+IN THOUSANDS, EXCEPT PER SHARE DATA
+Net  $1,639,707  $1,517,862  $2,387,294
+Cost of revenues -- including purchases from ASI.  1,521,887   1,448,064   1,782,158
+Gross    117,820    69,798    605,136
+Operating expenses:
+Selling, general and    188,567    200,218    192,623
+Research and    31,189    38,786    26,057
+Loss on disposal of fixed assets, net.    2,496    14,515     1,355
+Amortization of goodwill and other acquired
+6,992    84,962    63,080
+Special    291,970      --                                            Total operating    521,214    338,481    283,115
+Operating income   403,394   268,683   322,021
+Other income expense:
+Interest expense,    147,497    164,064    119,840
+Foreign currency      917      872     4,812
+Other income,     961    3,669     60
+Total other    147,453    161,267    124,592
+Income loss before income taxes, equity in loss of
+investees and minority   550,847   429,950   197,429
+Provision benefit for income taxes.   65,815    81,691    22,285
+Equity in loss of    33,865   100,706   20,991
+Loss on impairment of equity investment.  172,533      --       Loss on disposition of equity investment.   1,767      --       Minority    1,932    1,896                                         Net income  $ 826,759  $ 450,861  $ 154,153
+Basic net income loss per common share. $  504  $  287  $   106
+Diluted net income loss per common share. $  504  $  287  $   102
+Shares used in computing net income loss per common
+share:
+164,124    157,111    145,806
+164,124    157,111    153,223
+The accompanying notes are an integral part of these financial statements.
+50               AMKOR TECHNOLOGY, INC.
+CONSOLIDATED BALANCE SHEETS                                  DECEMBER 31,
+2002     2001
+IN THOUSANDS
+ASSETS
+Current assets:
+Cash and cash  $ 311,249  $ 200,057
+Accounts receivable:
+Trade, net of allowance for doubtful accounts of $7,378
+and    257,081   211,419
+Due from      298     871
+8,234    8,953
+72,121    73,784
+Other current    48,661    37,106
+Total current    697,644   532,190
+Property, plant and equipment, net.   968,943  1,392,274
+83,235   382,951
+Other assets:
+Due from    20,852    20,518
+628,099   659,130
+Acquired    45,033    37,050
+114,178   199,205
+808,162   915,903
+Total  $2,557,984  $3,223,318
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Bank  $  4,633  $  5,116
+Short-term borrowings and current portion of long-term
+71,023    54,815
+Trade accounts    180,999   148,923
+Due to    70,243    16,936
+Accrued    184,223   145,544
+Total current    511,121   371,334
+Long-term   1,737,690  1,771,453
+Other noncurrent    67,661    64,077
+Total   2,316,472  2,206,864
+Commitments and contingencies
+Minority    10,145    7,737
+Stockholders' equity:
+Preferred stock, $0001 par value, 10,000 shares
+authorized designated Series A, none issued.     --       Common stock, $0001 par value, 500,000 shares authorized,
+issued and outstanding of 165,156 in 2002 and 161,782
+in      166     162
+Additional paid-in   1,170,227  1,123,541
+Accumulated   933,734  106,975
+Receivable from    2,887   3,276
+Accumulated other comprehensive loss.   2,405   4,735
+Total stockholders'    231,367  1,008,717
+Total liabilities and stockholders' equity. $2,557,984  $3,223,318
+The accompanying notes are an integral part of these financial statements.
+51               AMKOR TECHNOLOGY, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY                                              ACCUMULATED
+COMMON STOCK                RECEIVABLE    OTHER          COMPREHENSIVE
+PAID-IN   ACCUMULATED   FROM    COMPREHENSIVE          INCOME
+SHARES  AMOUNT  CAPITAL    DEFICIT   STOCKHOLDER    LOSS     TOTAL     LOSS
+IN THOUSANDS
+BALANCE AT DECEMBER 31,
+1999. 130,660  $131  $ 551,964  $ 189,733   $3,276    $ 811   $ 737,741
+Net income.    --   --      --   154,153      --       --     154,153   $ 154,153
+Unrealized losses on
+investments, net of
+tax.    --   --      --      --      --      143      143     143
+Comprehensive income.                                               $ 154,010
+Issuance of 205 million
+common stock shares and
+39 million common
+stock warrants.  20,500   21    409,980      --      --       --     410,001
+Issuance of stock through
+employee stock purchase
+plan and stock
+options.   710   --     9,622      --      --       --      9,622
+Debt conversion.   248   --     3,460      --      --       --      3,460
+BALANCE AT DECEMBER 31,
+2000. 152,118   152    975,026   343,886    3,276     954   1,314,834
+Net loss.    --   --      --   450,861     --       --    450,861  $450,861
+Unrealized losses on
+investments, net of
+tax.    --   --      --      --      --      103      103     103
+Cumulative translation
+adjustment.    --   --      --      --      --     3,678     3,678    3,678
+Comprehensive loss.                                               $454,642
+Issuance of stock for
+acquisitions.  4,948    5    87,869      --      --       --     87,874
+Issuance of stock through
+employee stock purchase
+plan and stock
+options.  1,000    1    11,698      --      --       --     11,699
+Debt conversion.  3,716    4    48,948      --      --       --     48,952
+BALANCE AT DECEMBER 31,
+2001. 161,782   162   1,123,541   106,975   3,276    4,735   1,008,717
+Net loss.    --   --      --   826,759     --       --    826,759  $826,759
+Unrealized loss on
+investments, net of
+tax.    --   --      --      --      --     1,224     1,224    1,224
+Cumulative translation
+adjustment.    --   --      --      --      --     3,554      3,554     3,554
+Comprehensive loss.                                               $824,429
+Issuance of stock for
+acquisitions.  1,827    2    35,200      --      --       --     35,202
+Issuance of stock through
+employee stock purchase
+plan and stock
+options.  1,547    2    11,486      --      --       --     11,488
+Payment received from
+stockholder.    --   --      --      --     389       --       389
+BALANCE AT DECEMBER 31,
+2002. 165,156  $166  $1,170,227  $933,734   $2,887    $2,405   $ 231,367
+The accompanying notes are an integral part of these financial statements.
+52               AMKOR TECHNOLOGY, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS                                 FOR THE YEAR ENDED DECEMBER 31,
+2002    2001     2000
+IN THOUSANDS
+Cash flows from operating activities:
+Net income  $826,759 $450,861 $  154,153
+Adjustments to reconcile net income loss to net cash
+provided by operating activities   Depreciation and   325,345   442,762    325,896
+Amortization of deferred debt issuance costs.   8,251   22,321     7,013
+Debt conversion      --     --      272
+Provision for accounts     756    4,000      17
+Provision for excess and obsolete inventory.   5,841   17,869    10,000
+Deferred income    72,719   85,022    8,255
+Equity in loss of    33,865   100,706    20,991
+Loss on impairment of equity investment.  172,533     --         Loss on disposition of equity investment.   1,767     --         Loss on disposal of fixed assets, net.   2,496   14,515     1,355
+Asset impairment charges and facility closure costs.  284,602    3,600         Minority    1,932    1,896        Changes in assets and liabilities excluding effects of
+acquisitions   Accounts   40,850  103,157    72,914
+Repurchase of accounts receivable and settlement of
+security      --     --    71,500
+Other     719   2,488    2,884
+218   31,372    23,871
+Due to/from affiliates,    53,546   10,340    2,110
+Other current    2,207   6,069    17,977
+Other non-current    19,433    1,700    19,582
+Accounts    28,064   24,081    15,950
+Accrued    25,781   24,720    40,209
+Other long-term    8,425    8,011     7,108
+Net cash provided by operating activities.  176,477   160,466    373,825
+Cash flows from investing activities:
+Purchases of property, plant and equipment.  95,104  158,700   480,074
+Acquisitions, net of cash   18,459  11,057   17,602
+Acquisitions of K1, K2 and K3 and K4, net of cash
+--     --   927,290
+Investment in      --     --   459,000
+Proceeds from the sale of property, plant and equipment.   2,870    1,863     2,823
+Proceeds from disposition of equity investment.   58,139     --        Proceeds from the sale purchase of investments.   2,011    321   136,879
+Net cash used in investing activities.  54,565  168,215  1,744,264
+Cash flows from financing activities:
+Net change in bank overdrafts and short-term borrowings.   6,189   15,067     5,975
+Net proceeds from issuance of long-term debt.     --   750,486   1,027,479
+Payments of long-term   30,119  662,565   87,166
+Net proceeds from the issuance of 205 million common
+--     --    410,001
+Proceeds from issuance of stock through employee stock
+purchase plan and stock    11,488   11,698     9,622
+Payment received from     389     --                                             Net cash provided by financing activities.  12,053  114,686   1,365,911
+Effect of exchange rate fluctuations on cash and cash
+1,333    397                                          Net increase decrease in cash and cash equivalents.  111,192   106,540    4,528
+Cash and cash equivalents, beginning of period.  200,057   93,517    98,045
+Cash and cash equivalents, end of period. $ 311,249  $ 200,057  $  93,517
+Supplemental disclosures of cash flow information:
+Cash paid received during the period for:
+$ 142,299  $ 144,345  $  111,429
+Income  $  845 $  642 $  18,092  The accompanying notes are an integral part of these financial statements.
+53               AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+BASIS OF PRESENTATION
+The consolidated financial statements include the accounts of Amkor
+Technology, Inc. and its subsidiaries. The consolidated financial statements
+reflect  the elimination  of all  significant intercompany  accounts and
+transactions. The investments in and the operating results of 20% to 50% owned
+companies are included in the consolidated financial statements using the equity
+method of accounting.
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the amounts reported in the financial statements and
+accompanying notes. Actual results could differ from those estimates. Certain
+previously reported amounts have been reclassified to conform with the current
+presentation.
+FOREIGN CURRENCY TRANSLATION
+The U.S. dollar is the functional currency of the majority of our
+subsidiaries in Korea and the Philippines, and the foreign currency asset and
+liability amounts at these subsidiaries are remeasured into U.S. dollars at
+end-of-period exchange rates, except for nonmonetary items which are remeasured
+at historical rates. Foreign currency income and expenses are remeasured at
+average exchange rates in effect during the year, except for expenses related to
+balance sheet amounts remeasured at historical exchange rates. Exchange gains
+and losses arising from remeasurement of foreign currency-denominated monetary
+assets and liabilities are included in other income expense in the period in
+which they occur.
+The local currency is the functional currency of our subsidiaries in Japan,
+Taiwan and China, and the asset and liability amounts of these subsidiaries are
+translated into U.S. dollars at end-of-period exchange rates. The resulting
+translation adjustments are reported as a component of accumulated other
+comprehensive loss in the stockholders' equity section of the balance sheets.
+Assets and liabilities denominated in currency other than the local currency are
+remeasured into the local currency prior to translation into U.S. dollars, and
+the resultant exchange gains or losses are included in other income expense in
+the period in which they occur. Income and expenses are translated into U.S.
+dollars at average exchange rates in effect during the period.
+CONCENTRATIONS OF CREDIT RISK
+Financial instruments, for which we are subject to credit risk, consist
+principally of accounts receivable, cash and cash equivalents, short-term
+investments and marketable securities. With respect to accounts receivable, we
+mitigate our credit risk by selling primarily to well established companies,
+performing ongoing credit evaluations  and making frequent contact  with
+customers. We have historically mitigated our credit risk with respect to cash
+and cash equivalents, as well as short-term investments, through diversification
+of our holdings into various money market accounts, U.S. treasury bonds, federal
+mortgage backed securities, high grade municipal bonds, commercial paper and
+preferred stocks.
+RISKS AND UNCERTAINTIES
+Our  future results of  operations involve a  number of risks and
+uncertainties. Factors that could affect future operating results and cause
+actual results to vary materially from historical results include, but are not
+limited to, dependence on the highly cyclical nature of the semiconductor
+industry, the continuing negative impacts of the unprecedented industry downturn
+beginning in 2001, our high leverage and the restrictive covenants contained in
+the agreements governing our indebtedness, uncertainty as to the demand from our
+customers over both the long- and short-term, competitive pricing and declines
+in average selling prices we experience, the timing and volume of orders
+relative to our production capacity, the absence of significant backlog in our
+business, fluctuations in manufacturing yields, the availability of financing,
+our competition, our
+54
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+dependence on international operations and sales, our dependence on raw material
+and equipment suppliers, exchange rate fluctuations, our dependence on key
+personnel,  difficulties  integrating  acquisitions,  the  enforcement  of
+intellectual property rights by or against us, our need to comply with existing
+and future environmental regulations, the results of Anam Semiconductor, Inc.
+ASI as it impacts our financial results and political and economic
+uncertainty resulting from terrorist activities.
+CASH AND CASH EQUIVALENTS
+We consider all highly liquid investments with a maturity of three months
+or less when purchased to be cash equivalents.
+INVENTORIES
+Inventories are stated at the lower of cost or market. Cost is determined
+principally by using a moving average method. In general we order raw materials
+based on the customers forecasted demand and we do not maintain any finished
+goods inventory. If our customers change their forecasted requirements and we
+are unable to cancel our raw materials order or if our vendor requires that we
+order a minimum quantity that exceeds the current forecasted demand, we will
+experience a build-up in raw material inventory. We will either seek to recover
+the cost of the materials from our customers or utilize the inventory in
+production. However, we may not be successful in recovering the cost from our
+customers or being able to use the inventory in production, which we would
+consider as part of our reserve estimate. Our reserve for excess and obsolete
+inventory is based on forecasted demand we receive from our customers. When a
+determination is made that the inventory will not be utilized in production it
+is written-off and disposed.
+PROPERTY, PLANT AND EQUIPMENT
+Property,  plant and equipment are stated at cost. Depreciation is
+calculated by the straight-line method over the estimated useful lives of
+depreciable assets. Accelerated methods are used for tax purposes. Depreciable
+lives follow                              
+Buildings and  10 to 30 years
+Machinery and   3 to 7 years
+Furniture, fixtures and other   3 to 10 years   Effective with the fourth quarter of 2002, we changed the estimated useful
+lives of certain of our packaging equipment from four years to seven years for
+depreciation purposes, which is in line with our historical usage. This change
+decreased our net loss by approximately $167 million, or $010 per share. There
+was no offsetting impact to our tax provision related to the change in useful
+lives because of our consolidated net losses for 2002 and our recognition of a
+valuation allowance against the associated net operating loss carryforwards see
+Note 17.
+Cost and accumulated depreciation for property retired or disposed of are
+removed from the accounts and any resulting gain or loss is included in
+earnings. Expenditures for maintenance and repairs are charged to expense as
+incurred. Depreciation expense was $3176 million, $3567 million and $2620
+million for 2002, 2001 and 2000, respectively.
+GOODWILL AND ACQUIRED INTANGIBLES
+Goodwill is recorded when the cost of an acquisition exceeds the fair
+market value of the net tangible and identifiable intangible assets acquired. On
+January 1, 2002, we adopted SFAS No. 142, Goodwill and Other Intangible Assets
+see Note 4. The new standard requires that goodwill and indefinite-lived
+intangible  assets no  longer be  amortized. In  addition, goodwill and
+indefinite-lived intangible assets are tested for impairment at least annually.
+These tests are performed more frequently if warranted. Impairment losses are
+recorded when
+55
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+the carrying amount of goodwill exceeds its implied fair value. Such impairment
+losses are recorded as a part of income from continuing operations.
+Definite-lived intangible assets include acquired patents and technology
+rights and are amortized on a straight-line basis over their estimated useful
+lives, generally for periods ranging from 5 to 10 years. We continually evaluate
+the reasonableness of the useful lives of these assets. The unamortized balances
+recorded for acquired intangibles are evaluated periodically for potential
+impairment. An impairment loss, if any, would be measured as the excess of the
+carrying value over the fair value. Such impairment losses are recorded as a
+part of income from continuing operations.
+OTHER NONCURRENT ASSETS
+Other noncurrent assets consist principally of a note receivable which is
+related to our sale of ASI stock to Dongbu see Note 7, deferred debt issuance
+costs, security deposits, the cash surrender value of life insurance policies,
+deferred income taxes and tax credits. As discussed in Note 17, significant tax
+valuation allowances related to our deferred tax assets were recorded during
+2002.
+DUE FROM AND TO AFFILIATES
+Due from affiliates primarily relates to advances made to a Philippine
+realty corporation in which we own 40%. Such investment is accounted for under
+the equity method of accounting. Given the foreign ownership restrictions in the
+Philippines, the affiliated entity owns the land on which our Philippine
+factories are located. The affiliated entity has no long-term obligations other
+than their obligations to us and we have not extended guarantees or other
+commitments to the entity. Due to affiliates primarily relates to  our
+transactions with Anam Semiconductor, Inc. see Note 7.
+OTHER NONCURRENT LIABILITIES
+Other noncurrent liabilities consist primarily of Korean severance plan
+obligations, Philippine and Taiwanese pension obligations and noncurrent income
+taxes payable.
+RECEIVABLE FROM STOCKHOLDER
+Amkor Electronics, Inc. AEI, which was merged into our company just
+prior to the initial public offering of our company in May 1998, elected to be
+taxed as an S Corporation under the provisions of the Internal Revenue Code of
+1986 and comparable state tax provisions. As a result, AEI did not recognize
+U.S. federal corporate income taxes. Instead, the stockholders of AEI were taxed
+on their proportionate share of AEI taxable income. Accordingly, no provision
+for U.S. federal income taxes was recorded for AEI. Just prior to the initial
+public offering, AEI terminated its S Corporation status at which point the
+profits of AEI became subject to federal and state income taxes at the corporate
+level. We consummated a tax  indemnification agreement between us,  our
+predecessor and James Kim and his family collectively, the Kim Family. James
+Kim, is our founder and significant stockholder, and currently serves as our
+Chairman and CEO. Under the terms of the tax indemnification agreement, Amkor
+indemnified the former owners of AEI for the settlement of AEI S Corporation
+federal and state tax returns and any adjustments to the reported taxable
+income.
+At the time AEI was converted to a C Corporation, AEI and the Kim Family
+identified certain federal and state tax overpayments associated with the
+results of AEI during S Corporation status years, and AEI, in May 1998, paid
+such amounts to the Kim Family. These amounts, which principally related to the
+finalization of AEI federal tax return, are reflected as a receivable from
+stockholder in the stockholders' equity section of our balance sheets. As the
+refunds are paid by the associated taxing authorities and received by the Kim
+Family, the Kim Family, in turn, remits the funds to Amkor. During 2002, $04
+million of tax refunds were
+56
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+received by the Kim Family and used to pay down the stockholder loan. The loan
+balance will be further reduced as AEI tax returns are finalized and refunds
+remitted by the associated taxing authorities.
+REVENUE RECOGNITION AND RISK OF LOSS
+Our company does not take ownership of customer-supplied semiconductor
+wafers. Title and risk of loss remains with the customer for these materials at
+all times. Accordingly, the cost of the customer-supplied materials is not
+included in the consolidated financial statements. Revenues from packaging
+semiconductors and performing test services are recognized upon shipment or
+completion of the services. We record wafer fabrication services revenues upon
+shipment of completed wafers. Such policies are consistent with provisions in
+the Securities and Exchange Commission Staff Accounting Bulletin No. 101,
+Revenue Recognition in Financial Statements.
+STOCK COMPENSATION
+We apply Accounting Principles Board APB Opinion No. 25, Accounting
+for Stock Issued to Employees, and related Interpretations, to our stock option
+plans. These stock option plans are discussed more fully in Note 19, Stock
+Compensation Plans. No compensation expense has been recognized for our
+employee stock options that have been granted. If compensation costs for our
+stock option plans had been determined using the fair value method of accounting
+as set forth in SFAS No. 123, Accounting for Stock-Based Compensation, our
+reported net income loss and earnings loss per share would have been
+reduced.
+The following table illustrates the effect on net income loss and
+earnings loss per share as if the fair value based method had been applied to
+all outstanding and unvested awards in each period.                              FOR THE YEAR ENDED DECEMBER 31,
+2002      2001     2000
+IN THOUSANDS EXCEPT PER SHARE AMOUNTS
+Net income loss:
+Net income loss, as reported.  $826,759   $450,861   $154,153
+Deduct:
+Total stock-based employee compensation
+determined under fair value based method, net
+of related tax    41,470    29,619   26,572
+Net income, pro   $868,229   $480,480   $127,581
+Earnings loss per share:
+Basic:
+As     504     287     106
+Pro     529     306     088
+Diluted:
+As     504     287     102
+Pro     529     306     085   For the 2002 pro forma net loss of $8682 million, there was no offsetting
+impact to our tax provision related to the pro forma Black-Scholes stock option
+expense because of our consolidated net losses for 2002 and our recognition of a
+valuation allowance against the associated net operating loss carryforwards see
+Note 17.
+57
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+RESEARCH AND DEVELOPMENT COSTS
+Research and development expenses include costs directly attributable to
+the conduct of research and development programs primarily related to the
+development of new package designs and improving the efficiency and capabilities
+of our existing production process. Such costs include salaries, payroll taxes,
+employee benefit costs, materials, supplies, depreciation on and maintenance of
+research equipment, fees under licensing agreements, services provided by
+outside contractors, and the allocable portions of facility costs such as rent,
+utilities, insurance, repairs and maintenance, depreciation and general support
+services. All costs associated with research and development are expensed as
+incurred.
+RECENTLY ISSUED ACCOUNTING STANDARDS
+In 2002, the Financial Accounting Standards Board FASB issued FASB
+Interpretation FIN  No. 45,  Guarantor Accounting  and  Disclosure
+Requirements for Guarantees, Including Indirect Guarantees of Indebtedness of
+Others. The initial recognition and measurement provisions of FIN No. 45 apply
+on a prospective basis to guarantees issued or modified after December 31, 2002.
+As required, we have adopted the disclosure requirements of this interpretation
+as of December 31, 2002 see Note 21. We will apply the initial recognition and
+measurement provisions on a prospective basis effective January 1, 2003. This
+interpretation modifies existing disclosure requirements for most guarantees and
+requires that at the time a company issues a guarantee, the company must
+recognize an initial liability for the fair value of the obligation it assumes
+under that guarantee. We are in the process of evaluating the recognition and
+measurement provisions of the Interpretation and absent any unforeseen events,
+we do not expect that the adoption of these provisions will have a significant
+impact on our financial condition, liquidity or results of operations.
+In January 2003, the FASB issued FIN No. 46, Consolidation of Variable
+Interest Entities. The primary objective of FIN No. 46 is to provide guidance
+on the identification of, and financial reporting for, entities over which
+control is achieved through means other than voting rights; such entities are
+known as variable interest entities. FIN No. 46 requires variable interest
+entities to be consolidated by the primary beneficiary of the variable interest
+entities and expands disclosure requirements for both variable interest entities
+that are consolidated as well as those within which an enterprise holds a
+significant variable interest. FIN No. 46 is effective immediately for all
+variable interest entities created after January 31, 2003, and is effective no
+later than the beginning of the first interim or annual reporting period
+beginning after June 15, 2003 for all variable interest entities created prior
+to February 1, 2003.
+We have variable interests in certain Philippine realty corporations in
+which we have a 40% ownership and from whom we lease land and buildings in the
+Philippines. The assets and liabilities of these Philippine realty corporations
+are not currently consolidated within our financial statements. As of December
+31, 2002, the combined book value of the assets and liabilities associated with
+these Philippine realty corporations were $217 million and $239 million. Our
+maximum exposure related to these variable interest entities is limited by our
+investments and loans to these entities of $212 million at December 31, 2002.
+In addition to our interests in the Philippine realty corporations, we are
+currently reviewing our interests in other entities to determine whether any of
+these entities would be variable interest entities. The maximum exposure to loss
+as a result of our involvement with any additional variable interest entities
+identified is not expected to be an amount materially in excess of interests
+currently reflected in our consolidated balance sheet.
+In June 2002, the FASB issued SFAS No. 146, Accounting for Costs
+Associated with Exit or Disposal Activities. SFAS No. 146 addresses financial
+accounting and reporting for costs associated with exit or disposal activities
+and supercedes Emerging Issues Task Force Issue No. 94-3, Liability Recognition
+for Certain Employee Termination Benefits and Other Costs to Exit an Activity
+including Certain Costs Incurred in a Restructuring. SFAS No. 146 requires
+that a liability for a cost associated with an exit or disposal activity shall
+be recognized and measured initially at its fair value in the period in which
+the liability is
+58
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+incurred rather than when a company commits to such an activity. We will adopt
+this standard beginning with exit or disposal activities that are initiated
+after December 31, 2002.
+In January 2003, the Emerging Issues Task Force issued Issue No. 00-21
+Revenue Arrangements with Multiple Deliverables. Issue No. 00-21 primarily
+addresses certain aspects of the accounting by a vendor for arrangements under
+which it will perform multiple revenue-generating activities. Specifically, it
+addresses  how to  determine whether  an arrangement  involving multiple
+deliverables contains more than one unit of accounting. In applying Issue No.
+00-21, separate contracts with the same entity or related parties that are
+entered into at or near the same time are presumed to have been negotiated as a
+package and should, therefore, be evaluated as a single arrangement in
+considering whether there are one or more units of accounting. That presumption
+may be overcome if there is sufficient evidence to the contrary. Issue No. 00-21
+also addresses how arrangement consideration should be measured and allocated to
+the separate units of accounting in the arrangement. The provisions of Issue No.
+00-21 are effective for revenue arrangements entered into in fiscal periods
+beginning after June 15, 2003. We are currently evaluating the impact this
+statement will have on our financial position or results of operations.
+2. SPECIAL CHARGES
+Special charges consist of the following                                 YEAR ENDED
+DECEMBER 31,
+2002
+IN THOUSANDS
+Impairment of long-lived assets Note 3.   $190,266
+Impairment of goodwill Note     73,080
+Lease termination and other exit costs Note 5.    28,624
+$291,970
+3. SFAS NO. 144, ACCOUNTING FOR THE IMPAIRMENT OR DISPOSAL OF LONG-LIVED ASSETS
+In August 2001, the FASB issued SFAS No. 144 Accounting for the Impairment
+or Disposal of Long-Lived Assets, which supersedes SFAS No. 121. This standard
+provides a single accounting model for long-lived assets to be disposed of by
+sale and establishes additional criteria that would have to be met to classify
+an asset as held for sale. The carrying amount of an asset or asset group is not
+recoverable if it exceeds the sum of the undiscounted cash flows expected to
+result from the use and eventual disposition of the asset or asset group.
+Estimates of future cash flows used to test the recoverability of a long-lived
+asset or asset group must incorporate the entity own assumptions about its use
+of the asset or asset group and must factor in all available evidence. SFAS No.
+144 requires that long-lived assets be tested for recoverability whenever events
+or changes in circumstances indicate that its carrying amount may not be
+recoverable. Such events include significant under-performance relative to the
+expected historical or projected future operating results; significant changes
+in the manner of use of the assets; significant negative industry or economic
+trends and significant changes in market capitalization.
+Although significant recovery was noted in our company core packaging
+services during the second quarter of 2002, our test services assets and several
+non-core packaging services assets remained at low utilization rates relative to
+our projections, and are no longer expected to reach previously anticipated
+utilization levels. In addition, during the second quarter of 2002, we
+experienced a significant decline in our market capitalization. These events
+triggered an impairment review in accordance with SFAS No. 144. This review
+included a company-wide evaluation of underutilized assets that could be sold
+and a detailed update of our operating and cash flow projections. As a result of
+this analysis, we identified $198 million of test and packaging fixed assets
+that we expect to dispose by June 30, 2003. We recognized an $187 million
+impairment
+59
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+charge to reduce the carrying value of the test and packaging fixed assets to be
+disposed to their fair value less cost to sell. Fair value of the assets to be
+disposed was determined with the assistance of an appraisal firm and available
+information on the resale value of the equipment. Additionally, we tested for
+impairment our long-lived test assets that are held and used, including
+intangible assets that we are amortizing, and certain non-core packaging fixed
+assets that are held and used. For the test and packaging assets that are held
+and used, we recognized a $1716 million impairment charge to reduce the
+carrying value of those assets to fair value, including $48 million for the
+impairment of test services patents and technology rights. An appraisal firm was
+engaged to assist in the determination of the fair value of the assets held for
+use. The determination of fair value was based on projected cash flows using a
+discount rate commensurate with the risk involved.
+4. SFAS NO. 141, BUSINESS COMBINATIONS AND SFAS NO. 142, GOODWILL AND OTHER
+INTANGIBLE ASSETS
+In June 2001, the FASB issued SFAS No. 141, Business Combinations, which
+prohibits  the  pooling-of-interests  method of  accounting  for business
+combinations initiated after June 30, 2001 and addresses the accounting for
+purchase method business combinations completed after June 30, 2001. Also in
+June 2001, the FASB issued SFAS No. 142, Goodwill and Other Intangible Assets.
+For existing acquisitions, the provisions of SFAS No. 142 were effective as of
+January 1, 2002 and are generally effective for business combinations initiated
+after  June 30, 2001.  SFAS No. 142  includes provisions regarding the
+reclassification of certain existing recognized intangibles as  goodwill,
+reassessment of the useful lives of existing recognized intangibles, the
+cessation of amortization related to goodwill and indefinite-lived intangibles,
+and the testing for impairment of goodwill and other intangibles annually or
+more frequently if circumstances warrant. Additionally, SFAS No. 142 requires
+that within six months of adoption of SFAS No. 142, goodwill be tested for
+impairment at the reporting unit level as of the date of adoption.
+We adopted SFAS No. 142 as of January 1, 2002 and we reclassified $300
+million of intangible assets previously identified as an assembled workforce
+intangible to goodwill. Additionally at adoption of SFAS No. 142, we stopped
+amortizing goodwill of $6591 million, as well as goodwill of $1186 million
+associated with our investment in ASI accounted for under the equity method of
+accounting. The as adjusted financial information below assumes that the
+cessation of amortization occurred as of January 1, 2001.
+60
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED                              FOR THE YEAR ENDED DECEMBER 31,
+2002      2001     2000
+IN THOUSANDS EXCEPT PER SHARE AMOUNTS
+Net income loss,   $826,759   $450,861   $154,153
+Goodwill and assembled workforce amortization.     --     80,232    60,003
+Goodwill related to equity investments.     --     35,544    24,910
+--    115,776    84,913
+Net income loss, as adjusted.  $826,759   $335,085   $239,066
+Basic net income loss per share, reported.  $  504   $  287   $  106
+Goodwill and assembled workforce amortization.     --      051     041
+Goodwill related to equity investments.     --      023     017
+--      074     058
+Basic net income loss per share, as adjusted.  $  504   $  213   $  164
+Diluted net income loss per share, reported.  $  504   $  287   $  102
+Goodwill and assembled workforce amortization.     --      051     039
+Goodwill related to equity investments.     --      023     016
+--      074     055
+Diluted net income loss per share, as adjusted.  $  504   $  213   $  158
+As of the adoption date of the standard, we reassessed the useful lives of
+our identified intangibles and they continue to be appropriate. Goodwill and
+other intangible assets are attributable to two reporting units, packaging and
+test services. We completed the initial impairment test during the second
+quarter of 2002. Based on the comparison of the fair value of the reporting
+units with their respective carrying values each as of January 1, 2002, we
+concluded that goodwill associated with our packaging and test services
+reporting units was not impaired as of adoption. An appraisal firm was engaged
+to assist in the determination of the fair value of our reporting units. The
+determination of fair value was based on projected cash flows using a discount
+rate commensurate with the risk involved.
+SFAS No. 142 provides that goodwill of a reporting unit be tested for
+impairment on an annual basis and between annual tests in certain circumstances
+including a significant adverse change in the business climate and testing for
+recoverability of long-lived assets. Our test services assets and several
+non-core packaging services assets remained at low utilization rates during the
+second quarter of 2002 and were no longer expected to reach previously
+anticipated  utilization levels. As discussed in Note 3, we tested the
+recoverability of such assets as of June 30, 2002 and concluded that a portion
+of those assets was impaired. Accordingly, we retested goodwill for impairment
+as of June 30, 2002, and concluded that the carrying value of the assets and
+liabilities associated with the test services reporting unit exceeded its fair
+value. As of June 30, 2002, we recognized a $731 million goodwill impairment
+charge. Such impairment charge was measured by comparing the implied fair value
+of the goodwill associated with the test services reporting unit to its carrying
+value. An appraisal firm was engaged to assist in the determination of the fair
+value of our reporting units. The determination of fair value was based on
+projected cash flows using a discount rate commensurate with the risk involved.
+61
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+The changes in the carrying value of goodwill by reporting unit are as
+follows                             PACKAGING   TEST
+SERVICES  SERVICES  TOTAL
+IN THOUSANDS
+Balance as of January 1, 2002. $586,344  $72,786  $659,130
+Goodwill   40,890     --   40,890
+Goodwill     --  73,080  73,080
+Translation     865    294    1,159
+Balance as of December 31, 2002. $628,099  $  --  $628,099
+5. RESTRUCTURING CHARGES
+During  2002, we recorded $286 million of charges related to the
+consolidation of our worldwide facilities to increase operational efficiency and
+reduce costs. The charges were comprised of $208 million to write-off leasehold
+improvements and other long-lived assets and $78 million for lease termination
+and other exit costs. Our consolidation efforts included   - Transferring the packaging operations at our K2 site in Bucheon, South
+Korea into our K4 factory in Kwangju, South Korea and closing the K2
+facility   - Merging our factory operations in Taiwan into a single location; and
+- Consolidating select U.S. office locations and closing our San Jose test
+facility.
+The charges associated with the consolidation initiatives in Korea, Taiwan
+and the U.S. were $100 million, $138 million and $48 million, respectively.
+We expect to complete the closing of the K2 facility during the second quarter
+of 2003 and the other activities were substantially completed during 2002. Of
+the total $286 million restructuring charges recorded in 2002, $61 million
+remains outstanding as of December 31, 2002. The outstanding liability is
+principally future lease payments of which $43 million is expected to be paid
+during 2003. The remaining lease payments are expected to be paid through 2007
+unless the leases can be terminated earlier.
+6. ACQUISITIONS IN JAPAN AND TAIWAN
+In April 2002, we acquired the semiconductor packaging business of Citizen
+Watch Co., Ltd. located in the Iwate prefecture in Japan. The business acquired
+includes a manufacturing facility, over 80 employees and intellectual property.
+The purchase price included a $78 million cash payment at closing. We are
+required to make additional payments one year from closing for the amount of the
+deferred purchase price as well as contingent payments. Based on the resolution
+of the contingency as of January 2003, the total amount of additional payments
+due in April 2003 is 17 billion Japanese yen $143 million based on the spot
+exchange rate at December 31, 2002. We recorded $196 million of intangible
+assets for patent rights that are amortizable over 7 years. The fair value of
+the other assets acquired and liabilities assumed was approximately $25 million
+for fixed assets, $01 million for inventory and other assets and $142 million
+for the deferred purchase price payment and minimum amount of the contingent
+payments. Such net assets principally relate to our packaging services reporting
+unit.
+In October 2002, we terminated negotiations with Fujitsu Limited to acquire
+Fujitsu packaging and test operation in Kagoshima, Japan pursuant to the April
+2002 memorandum of understanding between our company and Fujitsu.
+In January 2002, we acquired Agilent Technologies, Inc. packaging
+business related to semiconductor packages utilized in printers for $28 million
+in  cash.  The  acquired  tangible  assets  were  integrated  into  our
+62
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+existing manufacturing facilities. The purchase price was principally allocated
+to the tangible assets of our packaging services reporting unit. Our results of
+operations were not significantly impacted by this acquisition.
+In July 2001, we acquired, in separate transactions, 69% of Taiwan
+Semiconductor Technology Corporation TSTC and 98% of Sampo Semiconductor
+Corporation SSC in Taiwan. Including our prior ownership interest in TSTC,
+our ownership increased to 94% of the outstanding shares of TSTC. The combined
+purchase price was paid with the issuance of 49 million shares of our common
+stock valued at $879 million based on our closing share price two days prior to
+each acquisition, the assumption of $348 million of debt and $37 million of
+cash consideration, net of acquired cash. The carrying value of our prior
+investment in TSTC was $178 million. We recorded intangible assets, principally
+goodwill, of $238 million as of the acquisition date that is nonamortizable. In
+connection with earn-out provisions that provided for additional purchase price
+based in part on the results of the acquisitions, we issued an additional 18
+million shares in January 2002 and recorded an additional $352 million in
+goodwill. The combined fair value of the assets acquired and liabilities assumed
+was approximately $953 million for fixed assets, $395 million for accounts
+receivable, inventory and other assets, $348 million of assumed debt and $101
+million for other assumed liabilities. The minority interest as of the
+acquisition date was $43 million. The results of TSTC and Sampo have been
+included in the accompanying consolidated financial statements since the
+acquisition dates.
+In January 2001, Amkor Iwate Corporation commenced operations and acquired
+from Toshiba a packaging and test facility located in the Iwate prefecture in
+Japan. The total purchase price of $771 million was financed by a short-term
+note payable to Toshiba of $211 million, $470 million in other financing from
+a Toshiba financing affiliate and cash on hand. We currently own 60% of Amkor
+Iwate and Toshiba owns the balance of the outstanding shares. By January 2004 we
+are required to purchase the remaining 40% of the outstanding shares of Amkor
+Iwate from Toshiba. The share purchase price will be determined based on the
+performance of the joint venture during the three-year period but cannot be less
+than 1 billion Japanese yen and cannot exceed 4 billion Japanese yen $84
+million to $337 million based on the spot exchange rate at December 31, 2002.
+The results of Amkor Iwate have been included in the accompanying consolidated
+financial statements since the date of acquisition. Acquired intangibles as of
+the acquisition date, based on estimates of fair value, were $214 million and
+are being amortized on a straight-line basis over 5 to 10 years. Acquired
+intangibles include the value of acquired technology. The combined fair value of
+the assets acquired and liabilities assumed was approximately $424 million for
+fixed assets, $140 million for inventory and other assets, and $07 million for
+assumed  liabilities. Amkor  Iwate provides packaging  and test services
+principally to Toshiba Iwate factory under a long-term supply agreement that
+provides for services to be performed on a cost plus basis during the term of
+the joint venture and subsequently at market based rates. The supply agreement
+with Toshiba Iwate factory terminates two years subsequent to our acquisition
+of Toshiba ownership interest in Amkor Iwate.
+7. ACQUISITIONS FROM ANAM SEMICONDUCTOR, INC. ASI AND OUR RELATIONSHIP WITH
+ASI
+ACQUISITIONS FROM AND INVESTMENT IN ANAM SEMICONDUCTOR, INC.
+Historically we performed packaging and test services at our factories in
+the Philippines and subcontracted for additional services with ASI, which
+operated four packaging and test facilities in Korea. In the fourth quarter of
+1998 ASI business had been severely affected by the economic crisis in Korea.
+ASI was part of the Korean financial restructuring program known as the
+Workout program beginning in October 1998. The Workout program was the result
+of an accord among Korean financial institutions to assist in the restructuring
+of Korean business enterprises. The process involved negotiation between ASI
+banks and ASI, and did not involve the judicial system. The Workout process
+restructured the terms of ASI significant bank debt. Although ASI operations
+continued uninterrupted during the process, it caused concern among our
+customers that we could potentially lose access to ASI services. As a result,
+we decided to acquire ASI packaging and test operations to ensure continued
+access to the manufacturing services previously provided by
+63
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+ASI. During the course of negotiations for the purchase of the packaging and
+test operations, both ASI management and the ASI bank group presented a
+counter-proposal whereby, in addition to the purchase of the packaging and test
+operations, we would also make an equity investment in ASI. The bank group and
+ASI management proposed this structure because they believed the equity
+investment would reflect a level of commitment from us to continue our ongoing
+business relationship with ASI after the sale of its packaging and test
+operations to Amkor.
+In May 1999, we acquired K4, one of ASI packaging and test facilities,
+and in May 2000 we acquired ASI remaining packaging and test facilities, K1,
+K2 and K3. With the completion of our acquisition of K1, K2 and K3, we no longer
+depend upon ASI for packaging or test services. In May 2000 we committed to a
+$4590 million equity investment in ASI, and fulfilled this commitment in
+installments taking place over the course of 2000. In connection with the May
+2000 transactions with ASI, we obtained independent appraisals to support the
+value and purchase price of each the packaging and test operations and the
+equity investment. We invested a total of $5006 million in ASI including an
+equity investment of $416 million made in October 1999.
+The acquisition of K1, K2 and K3 was accounted for as a purchase.
+Accordingly, the results of K1, K2 and K3 have been included in the accompanying
+consolidated financial statements since the date of acquisition. Goodwill and
+acquired intangibles as of the acquisition date were $5558 million and prior to
+the adoption of SFAS No. 142 see Note 3 were being amortized on a
+straight-line basis over a 10 year period. Acquired intangibles at the time of
+the acquisition included the value of acquired patent rights and of a
+workforce-in-place. The fair value of the assets acquired and liabilities
+assumed was approximately $394 million for fixed assets, $9 million for
+inventory and other assets, and $9 million for assumed liabilities.
+As part of our strategy to sell our investment in ASI and to divest our
+wafer fabrication services business, we entered into a series of transactions
+beginning in the second half of 2002   - In September 2002, we sold 20 million shares of ASI common stock to
+Dongbu Group for $581 million in net cash proceeds and 42 billion Korean
+Won approximately $354 million at a spot exchange rate as of December
+31, 2002 of interest bearing notes from Dongbu Corporation payable in
+two equal principal payments in September 2003 and February 2004. The
+Dongbu Group comprises Dongbu Corporation, Dongbu Fire Insurance Co.,
+Ltd. and Dongbu Life Insurance Co., Ltd., all of which are Korean
+corporations and  are collectively  referred herein  as  Dongbu.
+Additionally, we divested one million shares of ASI common stock in
+connection with the payment of certain advisory fees related to this
+transaction.
+- As of February 28, 2003, we sold our wafer fabrication services business
+to ASI for total consideration of $62 million.
+- In separate transactions designed to facilitate a future merger between
+ASI and Dongbu, i we acquired a 10% interest in Acqutek from ASI for
+$19 million; ii we acquired the Precision Machine Division PMD of
+Anam Instruments, a related party to Amkor, for $8 million; and iii
+Anam Instruments, which had been partially owned by ASI, utilized the
+proceeds from the sale of PMD to us to buy back all of the Anam
+Instruments shares owned by ASI. Acqutek supplies materials to the
+semiconductor industry and is publicly traded in Korea. An entity
+controlled by the family of James Kim, our Chairman and Chief Executive
+Officer, held a 25% ownership interest in Acqutek at the time of our
+acquisition of our interest in Acqutek. We have historically purchased
+and  continue to  purchase leadframes from  Acqutek. PMD supplies
+sophisticated die mold systems and tooling to the semiconductor industry
+and historically over 90% of its sales were to Amkor. At the time of our
+acquisition of PMD, Anam Instruments was owned 20% by ASI and 20% by a
+family member of James Kim.
+64
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Each of the transactions with Dongbu, ASI and Anam Instruments are
+interrelated and it is possible that if each of the transactions were viewed on
+a stand-alone basis without regard to the other transactions, we could have had
+different conclusions as to fair value.
+As of February 28, 2003, we sold our wafer fabrication services business to
+ASI. Additionally, we obtained a release from Texas Instruments regarding our
+contractual obligations with respect to wafer fabrication services to be
+performed subsequent to the transfer of the business to ASI. Beginning with the
+first quarter of 2003, we will reflect our wafer fabrication services segment as
+a discontinued operation and restate our historical results. In connection with
+the disposition of our wafer fabrication business, we expect to incur an
+estimated $1 million in severance and other exit costs to close our wafer
+fabrication services operations in Boise, Idaho and Lyon, France. We estimate
+that in the first quarter of 2003 we will recognize a pre-tax net gain on the
+disposition of our wafer fabrication services business approximately $58
+million. The carrying value of the disposed net assets associated with the
+business as of February 28, 2003 was $3 million. In addition, pursuant to the
+definitive agreements, 1 Amkor and Dongbu agreed to use reasonable best
+efforts to cause Dongbu Electronics and ASI to be merged together as soon as
+practicable, 2 Amkor and Dongbu agreed to cause ASI to use the proceeds ASI
+received from its sale of stock to Dongbu to purchase shares in Dongbu
+Electronics and 3 Amkor and Dongbu agreed to use their best efforts to provide
+releases and indemnifications to the chairman, directors and officers of ASI,
+either past or incumbent, from any and all liabilities arising out of the
+performance of their duties at ASI between January 1, 1995 and December 31,
+2001. The last provision would provide a release and indemnification for James
+Kim, our CEO and Chairman, and members of his family. We are not aware of any
+claims or other liabilities which these individuals would be released from or
+for which they would receive indemnification.
+OUR INVESTMENT IN ASI
+We evaluate our investments for impairment due to declines in market value
+that are considered other than temporary. In the event of a determination that a
+decline in market value is other than temporary, a charge to earnings is
+recorded for the unrealized loss, and a new cost basis in the investment is
+established. The stock prices of semiconductor companies' stocks, including ASI
+and its competitors, have experienced significant volatility during the past
+several years. The weakness in the semiconductor industry has affected the
+demand for the wafer output from ASI foundry and the market value of ASI
+stock as traded on the Korea Stock Exchange. During 2002, we recorded impairment
+charges totaling $1725 million to reduce the carrying value of our investment
+in ASI to ASI market value. Additionally during 2002, we recorded a loss of
+$18 million on the disposition of a portion of our interest in ASI to Dongbu.
+At January 1, 2002 Amkor owned 477 million shares or 42% of ASI voting stock.
+During 2002, we divested 21 million shares of ASI stock and at December 31, 2002
+Amkor owned 267 million shares of ASI or 21%. The carrying value of our
+remaining investment in ASI at December 31, 2002 was $775 million, or $290 per
+share.
+On March 24, 2003, we sold an additional 7 million shares of ASI common
+stock to an investment bank for 244 billion Korean won $195 million based on
+the spot exchange rate as of the transaction date which approximates the
+carrying value of those shares. As part of that sale, we purchased a
+nondeliverable call option for $67 million that expires December 2003 and is
+indexed to ASI share price with a strike price of $197 per share. The net
+proceeds from the exercise of the option could be less than the current carrying
+value and could expire unexercised losing our entire investment in the option.
+As of March 24, 2003, we owned 197 million shares of ASI, or 16% of ASI
+voting stock. Beginning March 24, 2003, we ceased accounting for our investment
+in ASI under the equity method of accounting and commenced accounting for our
+investment as a marketable security that is available for sale.
+65
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+PRO FORMA FINANCIAL INFORMATION RELATED TO AMKOR'S MAY 2000 ACQUISITION OF K1,
+K2 AND K3 UNAUDITED
+The unaudited pro forma information below assumes that the May 2000
+acquisition of K1, K2 and K3 occurred at the beginning of 2000. The pro forma
+adjustments  include a provision for amortization of goodwill and other
+identified intangibles, an adjustment of depreciation expense based on the fair
+market value of the acquired assets, interest expense on debt issued to finance
+the acquisitions and income taxes related to the pro forma adjustments. The pro
+forma results are not necessarily indicative of the results we would actually
+have achieved if the acquisition had been completed as of the beginning of the
+period presented, nor are they necessarily indicative of future consolidated
+results.                                FOR THE YEAR ENDED
+DECEMBER 31, 2000
+IN THOUSANDS
+EXCEPT PER SHARE
+AMOUNTS
+Net     $2,397,515
+Gross      675,172
+Operating      366,686
+Income before income taxes and equity in income loss of
+215,904
+Net      172,518
+Earnings per share:
+Basic net income per common        114
+Diluted net income per common share.       110
+Depreciation      285,256
+Amortization of goodwill and acquired intangibles.      81,607   The pro forma adjustments exclude the effects of our investments in ASI.
+Had we included pro forma adjustments for the year ended December 31, 2000
+related to our investments in ASI, pro forma net income would have been $1608
+million and pro forma earnings per share on a diluted basis would have been
+$102.
+FINANCIAL INFORMATION FOR ASI
+The following summary of consolidated financial information was derived
+from the consolidated financial statements of ASI, reflecting ASI packaging
+and test operations prior to May 2000 as discontinued operations within their
+results of operations. ASI net income for the year ended December 31, 2000
+includes a $4342 million gain on sale of K1, K2 and K3, which was eliminated
+for purposes of calculating our equity in income of ASI.                            FOR THE YEAR ENDED DECEMBER 31,
+2002    2001    2000
+IN THOUSANDS
+SUMMARY INCOME STATEMENT INFORMATION FOR ASI
+Net  $213,813  $ 161,700  $344,792
+Gross profit   99,417  100,295  41,682
+Loss from continuing   97,129  162,173  19,703
+Net income   97,129  162,173  450,641                     66
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED                                 DECEMBER 31,
+2002    2001
+IN THOUSANDS
+SUMMARY BALANCE SHEET INFORMATION FOR ASI
+Cash, including restricted cash and bank deposits. $ 65,891  $ 84,721
+Current   167,145  144,898
+Property, plant and equipment, net.  482,028  646,298
+Noncurrent assets including property, plant and
+622,487  770,932
+Current   111,409  134,727
+Total debt and other long-term financing including current
+150,607  238,970
+Noncurrent liabilities including debt and other long-term
+119,493  175,487
+Total stockholders'   558,730  605,616  OUR RELATIONSHIP WITH ASI
+We have had a long-standing relationship with ASI. ASI was founded in 1956
+by Mr. H. S. Kim, the father of Mr. James Kim, our Chairman and Chief Executive
+Officer. Through our supply agreements with ASI, we historically have had a
+first right to substantially all of the packaging and test services capacity of
+ASI and the exclusive right to all of the wafer output of ASI wafer
+fabrication facility. Beginning in May 2000 with our acquisition of K1, K2 and
+K3, we no longer receive packaging and test services from ASI. Under the former
+wafer fabrication services supply agreement which was consummated in January
+1998, we had the exclusive right but not the requirement to purchase all of the
+wafer output of ASI wafer fabrication facility on pricing terms negotiated
+annually. Historically, we have had other relationships with ASI affiliated
+companies for financial  services, construction  services, materials  and
+equipment. We believe each of these transactions was conducted on an arms-length
+basis in the ordinary course of business. In addition, ASI former construction
+subsidiary is currently in reorganization and its affairs are managed by a
+number of creditor banks; all transactions between Amkor and this entity are
+subject to review and approval by these banks. Total purchases from ASI and its
+affiliates included in cost of revenue for the years ended December 31, 2002,
+2001  and 2000 were $2126 million, $1616 million and $4998 million.
+Additionally, financial services performed by ASI and its affiliates included in
+interest expense for the year ended December 31, 2000 was $16 million.
+Construction services and equipment purchases received from ASI and its
+affiliates capitalized during the years ended December 31, 2002, 2001 and 2000
+were $28 million, $147 million and $388 million, respectively.
+8. ACCOUNTS RECEIVABLE SALE AGREEMENT
+Effective July 1997 we entered into an agreement to sell receivables with
+certain banks. The transaction qualified as a sale under the provisions of SFAS
+No. 125 Accounting for Transfers and Servicing of Financial Assets and
+Extinguishments of Liabilities. Under the agreement, the participating banks
+committed to purchase, with limited recourse, all right, title and interest in
+selected accounts receivable, up to a maximum of $1000 million. Losses on
+receivables sold under the agreement were approximately $11 million in 2000 and
+are included in other expense, net. In March 2000, we terminated the agreement
+and repurchased approximately $715 million of accounts receivable.
+9. INVENTORIES
+Inventories, net of reserves for excess and obsolete inventory of $250
+million and $202 million for 2002 and 2001, respectively, consist of raw
+materials and purchased components that are used in the semiconductor packaging
+process.
+67
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED                                 DECEMBER 31,
+2002   2001
+IN THOUSANDS
+Raw materials and purchased  $61,806  $64,752
+10,315   9,032
+$72,121  $73,784
+10. PROPERTY, PLANT AND EQUIPMENT
+Property, plant and equipment consist of the following                                  DECEMBER 31,
+2002     2001
+IN THOUSANDS
+$  88,744  $  88,667
+Buildings and    537,288    495,104
+Machinery and   1,512,307   1,661,140
+Furniture, fixtures and other equipment.   132,462    118,069
+Construction in     1,829    63,782
+2,272,630   2,426,762
+Less -- Accumulated depreciation and amortization.  1,303,687  1,034,488
+$  968,943  $ 1,392,274
+As described in Note 3, we recorded in 2002 a $1855 million impairment
+charge associated with our test and packaging fixed assets. Such impairment
+charge principally related to machinery and equipment.
+11. ACQUIRED INTANGIBLES
+Acquired intangibles consist of the following                                 DECEMBER 31,
+2002   2001
+IN THOUSANDS
+Patents and technology  $ 61,994  $46,713
+Less -- Accumulated   16,961  9,663
+$ 45,033  $37,050
+Amortization expense was $73 million, $56 million and $31 million in
+2002, 2001 and 2000, respectively. The estimated annual amortization expense for
+each of the next five years ending on December 31 is $73 million. The weighted
+average amortization period for the patents and technology rights is 8 years. As
+described in Note 3, we reduced the carrying value of our test services patents
+and technology rights in 2002 by a $48 million impairment charge.
+68
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+12. INVESTMENTS
+Investments include equity investments  in affiliated companies  and
+noncurrent marketable securities as follows                                 DECEMBER 31,
+2002    2001
+IN THOUSANDS
+Equity investments under the equity method:
+ASI ownership of 21% and 42% at December 31, 2002 and 2001,
+respectively see Note  $77,450  $377,947
+Other equity investments 20% -- 50% owned.  1,195    966
+Total equity   78,645  378,913
+Marketable securities classified as available for sale.  4,590   4,038
+$83,235  $382,951
+In connection with the disposition of a portion of our interest in ASI, we
+acquired a 10% interest in Acqutek from ASI for a total purchase price of $19
+million. Our investment in Acqutek is classified as a marketable security that
+is available for sale. Acqutek supplies materials to the semiconductor industry
+and is a publicly traded company in Korea. An entity controlled by the family of
+James Kim, our Chairman and Chief Executive Officer, held a 25% ownership
+interest in Acqutek at the time of our acquisition of our interest in Acqutek.
+We have historically purchased and continue to purchase leadframes from Acqutek.
+Total purchases from Acqutek included in cost of revenue for 2002, 2001 and 2000
+were $160 million, $140 million and $292 million, respectively. We believe
+these transactions with Acqutek were conducted on an arms-length basis in the
+ordinary course of business.
+13. ACCRUED EXPENSES
+Accrued expenses consist of the following                                 DECEMBER 31,
+2002    2001
+IN THOUSANDS
+Accrued income  $ 48,787  $ 53,364
+Accrued   32,690   32,584
+Accrued   29,295   20,813
+Other accrued   73,451   38,783
+$184,223  $145,544
+69
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+14. DEBT
+Following is a summary of short-term borrowings and long-term debt                                  DECEMBER 31,
+2002     2001
+IN THOUSANDS
+Secured bank facility:
+Term B loans, LIBOR plus 4% due September 2005. $  97,118  $  97,706
+$1000 million revolving line of credit, LIBOR plus 375%
+due March      --      925% Senior notes due May    425,000   425,000
+925% Senior notes due February 2008.   500,000   500,000
+105% Senior subordinated notes due May 2009.   200,000   200,000
+575% Convertible subordinated notes due June 2006,
+convertible at $3500 per    250,000   250,000
+5% Convertible subordinated notes due March 2007,
+convertible at $5734 per    258,750   258,750
+Other    77,845    94,812
+1,808,713  1,826,268
+Less -- Short-term borrowings and current portion of
+long-term    71,023   54,815
+$1,737,690  $1,771,453
+In June 2002 and September 2002 we amended our existing bank debt covenants
+with the secured bank lenders to provide further flexibility with respect to
+capital expenditures, investment restrictions and other financial covenants
+measured in part by our liquidity and earnings. As part of the September 2002
+amendment, lenders under our bank debt facility agreed to extend the existing
+financial covenant framework through December 31, 2003.
+In March 2001, June 2001 and September 2001, we amended the financial
+covenants associated with the secured credit facilities. In connection with the
+September 2001 amendment, the revolving line of credit was reduced from a $200
+million commitment to $100 million, the interest rate on the Term B loans was
+increased to LIBOR plus 4% and we prepaid $125 million of the Term B loans in
+November 2001. We expensed, as interest expense, approximately $40 million of
+deferred debt issuance costs as a result of the reduction of the revolving line
+of credit commitment and the prepayment of the Term B loans.
+In May 2001, we sold $2500 million principal amount of our 575%
+convertible subordinated notes due 2006 in a private placement. The notes are
+convertible into Amkor common stock at a conversion price of $3500 per share.
+We used $1220 million of the $2430 million of the net proceeds of that
+offering to repay amounts outstanding under the Term B loans of our secured
+credit facility, and the balance of the net proceeds was available to be used
+for general corporate and working capital purposes. In connection with the
+repayment in May 2001 of the Term B loans, we expensed, as interest expense 23 million of unamortized deferred debt issuance costs.
+In May 2001, we called for the redemption of all of the 575% convertible
+subordinated  notes due  May 2003.  In anticipation  of the redemption,
+substantially all of the holders of the convertible notes opted to convert their
+notes into Amkor common stock and, accordingly, $502 million of the convertible
+notes were converted to 37 million of our common stock. In connection with the
+conversion of the 575% convertible subordinated notes due May 2003, $12
+million of unamortized deferred debt issuance costs was charged to additional
+paid-in capital.
+70
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+In February 2001, we sold $5000 million principal amount of our 925%
+senior notes due 2008 in a private placement. We used $3875 million of the
+$4900 million of the net proceeds of that offering to repay amounts outstanding
+under the Term A loans and revolving line of credit of our senior secured credit
+facility, and the balance of the net proceeds was available to be used for
+general corporate and working capital purposes. In connection with the repayment
+in February 2001 of the Term A loans, we expensed, as interest expense, $71
+million of unamortized deferred debt issuance costs.
+Other debt as of December 31, 2002 and 2001 included our foreign debt
+principally related to the financing of Amkor Iwate acquisition of a Toshiba
+packaging and test facility and the debt assumed in connection with the
+acquisition of Sampo Semiconductor Corporation in Taiwan. Our foreign debt
+included fixed and variable debt maturing between 2003 and 2010, with the
+substantial majority maturing by 2003. As of December 31, 2002 the foreign debt
+had interest rates ranging from 10% to 66%. These debt instruments do not
+include significant financial covenants.
+In connection with our issuance of the 575% convertible subordinated notes
+due 2006 in May 2001, we incurred debt issuance costs of $70 million. In
+connection with our issuance of the 925% senior notes due 2008 and the
+amendment to our secured bank facility in February 2001, we incurred debt
+issuance costs of $110 million. The debt issuance costs have been deferred and
+are being amortized over the life of the associated debt. Deferred debt issuance
+costs are included, net of amortization, in other noncurrent assets in the
+accompanying consolidated balance sheet and the related amortization expense is
+included in interest expense in the accompanying consolidated statements of
+operations.
+During the fourth quarter of 1999 and continuing into 2000, we completed an
+early conversion of the 575% convertible subordinated notes due May 2003.
+During the year ended December 31, 2000, we exchanged approximately 248,000
+shares of our common stock for $32 million of the convertible subordinated
+notes. During the year ended December 31, 1999, we exchanged 121 million shares
+of common stock for $1536 million of convertible subordinated notes. The fair
+value of the shares of common stock issued in excess of the shares required for
+conversion of the notes was $03 million and $174 million for the year ended
+December 31, 2000 and 1999, respectively, and such amounts were expensed and are
+included in other expense in the accompanying consolidated statements of
+operations.
+Interest expense related to short-term borrowings and long-term debt is
+presented net of interest income of $42 million, $103 million and $142
+million in 2002, 2001 and 2000, respectively, in the accompanying consolidated
+statements of operations. The principal payments required under short-term and
+long-term debt borrowings at December 31, 2002 are as follows: 2003 -- $710
+million, 2004 -- $564 million, 2005 -- $424 million, 2006 -- $6779 million,
+2007 -- $2596 million and thereafter -- $7014 million.
+15. STOCKHOLDERS' EQUITY
+In connection with a $4100 million private equity offering in May 2000, we
+issued 205 million shares of our common stock and granted warrants that expire
+four years from issuance to purchase 39 million additional shares of our common
+stock at $2750 per share. The estimated fair value of the stock warrants of
+$350 million is included in additional paid-in capital on our consolidated
+balance sheet.
+16. EMPLOYEE BENEFIT PLANS
+U.S. DEFINED CONTRIBUTION PLAN
+Our company has a defined contribution benefit plan covering substantially
+all U.S. employees. Employees can contribute up to 13% of salary to the plan and
+the company matches in cash 75% of the employee contributions up to a defined
+maximum on an annual basis. The expense for this plan was $20 million, $21
+million and $18 million in 2002, 2001 and 2000, respectively.
+71
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+PHILIPPINE PENSION PLAN
+Our Philippine subsidiary sponsors a defined benefit plan that covers
+substantially all employees who are not covered by statutory plans. Charges to
+expense are based upon costs computed by independent actuaries.
+The components of net periodic pension cost for the Philippine defined
+benefit plan are as follows                               YEAR ENDED DECEMBER 31,
+2002   2001   2000
+IN THOUSANDS
+Service cost of current  $2,339  $ 2,534  $ 1,862
+Interest cost on projected benefit obligation.  1,681   1,919   1,468
+Expected return on plan   920  1,482  1,092
+Amortization of transition obligation and actuarial
+62    64    66
+Total pension  $3,162  $ 3,035  $ 2,304
+It is our policy to make contributions sufficient to meet the minimum
+contributions required by law and regulation. The following table sets forth the
+funded status of our Philippine defined benefit pension plan and the related
+changes in the projected benefit obligation and plan assets                                2002   2001
+IN THOUSANDS
+Change in projected benefit obligation:
+Projected benefit obligation at beginning of year. $19,742  $16,585
+Service   2,339   2,534
+Interest   1,681   1,919
+Effect of   2,148     Actuarial   1,997   401
+Foreign exchange    807   378
+Benefits    203   517
+Projected benefit obligation at end of year.  18,607  19,742
+Change in plan assets:
+Fair value of plan assets at beginning of year.  10,003  11,585
+Actual return on plan    283   800
+Effect of   1,500     Foreign exchange    408   265
+Benefits    203   517
+Fair value of plan assets at end of year.  7,609  10,003
+Funded status:
+Projected benefit obligation in excess of plan assets.  10,996   9,739
+Unrecognized actuarial   1,642  3,218
+Unrecognized transition    440   523
+Accrued pension  $ 8,914  $ 5,998
+The discount rate used in determining the projected benefit obligation for
+our Philippine defined benefit plan was 8%, 10% and 12% as of December 31, 2002,
+2001 and 2000, respectively. The rate of increase in future compensation levels
+was 7%, 9% and 11% as of December 31, 2002, 2001 and 2000, respectively. The
+72
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+expected long-term rate of return on plan assets was 8%, 12% and 12% as of
+December 31, 2002, 2001 and 2000, respectively. These rates reflect economic and
+market conditions in the Philippines. The fair value of plan assets includes an
+investment in our common stock of $05 million and $16 million at December 31,
+2002 and 2001, respectively.
+KOREAN SEVERANCE PLAN
+Our Korean subsidiary participates in an accrued severance plan that covers
+employees and directors with one year or more of service. Eligible plan
+participants are entitled to receive a lump-sum payment upon termination of
+their employment, based on their length of service and rate of pay at the time
+of termination. Accrued severance benefits are estimated assuming all eligible
+employees were to terminate their employment at the balance sheet date. The
+contributions to the national pension fund made under the National Pension Plan
+of  the Republic of Korea are  deducted from accrued severance benefit
+liabilities. Contributed amounts are                                 DECEMBER 31,
+2002   2001
+IN THOUSANDS
+Balance at the beginning of  $40,002  $31,446
+Provision of severance   16,805  13,430
+Severance   8,897  3,132
+Gain/loss on foreign currency translation.  4,436  1,742
+52,346  40,002
+Payments remaining with the Korean National Pension Fund.  1,632  1,715
+Balance at the end of  $50,714  $38,287
+TAIWAN PENSION PLAN
+Our Taiwan subsidiary sponsors a defined benefit plan that  covers
+substantially all full-time employees. Charges to expense are based upon costs
+computed by independent actuaries. As of December 31, 2002 and 2001, the
+projected benefit obligation was $21 million and $12 million, respectively.
+Pension assets at fair market value as of December 31, 2002 and 2001 were $19
+million and $14 million, respectively. Accrued pension cost at December 31,
+2002 and 2001 was $05 million.
+73
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+17. INCOME TAXES
+The provision for income taxes includes federal, state and foreign taxes
+currently payable and those deferred because of temporary differences between
+the financial statement and the tax bases of assets and liabilities. The
+components of the provision for income taxes follow                             FOR THE YEAR ENDED DECEMBER 31,
+2002    2001    2000
+IN THOUSANDS
+Current:
+$21,275  $   --  $ 2,149
+--     --    159
+14,371    3,331   28,550
+6,904   3,331   30,540
+Deferred:
+70,738   87,077  6,869
+1,981    2,055   1,386
+72,719   85,022  8,255
+Total provision  $ 65,815  $81,691  $22,285
+The reconciliation between the taxes payable based upon the U.S. federal
+statutory income tax rate and the recorded provision follows                           FOR THE YEAR ENDED DECEMBER 31,
+2002    2001    2000
+IN THOUSANDS
+Federal statutory  $192,771 $150,419 $ 69,101
+Income loss of foreign subsidiaries subject to
+tax    63,337   33,762  43,367
+Foreign exchange losses gains recognized for
+income    14,855   13,221    382
+Change in valuation   138,228    3,656   5,898
+Difference in rates on foreign subsidiaries.   24,140   20,415   8,142
+Change in tax rate from prior year.     --    5,796     State taxes, net of federal benefit.   3,297   8,480   661
+Goodwill and other permanent differences.   21,323     358    162
+$ 65,815  $ 81,691 $ 22,285
+74
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+The following is a summary of the significant components of the deferred
+tax assets and liabilities                                 DECEMBER 31,
+2002    2001
+IN THOUSANDS
+Deferred tax assets:
+Net operating loss  $160,043  $103,340
+Capital loss   45,069         7,945   10,495
+Corporate income tax    5,447   9,990
+Accounts    3,605   3,248
+Property, plant and    3,594   1,103
+4,023   5,331
+Other accrued    2,790    542
+Unrealized foreign exchange    1,054    257
+Loss on impairment/lease shutdown reserves.  11,890         6,666   6,309
+Total deferred tax   252,126  140,615
+Valuation  196,442  13,722
+Total deferred tax assets net of valuation allowance.  55,684  126,893
+Deferred tax liabilities:
+Property, plant and    8,714   6,291
+6,146   9,218
+Unrealized foreign exchange    2,203     88
+1,424   1,380
+Total deferred tax   18,487   16,977
+Net deferred tax  $ 37,197  $109,916
+During 2002, we recorded a $1382 million charge to establish a valuation
+allowance against our deferred tax assets consisting primarily of U.S. and
+Taiwanese net operating loss carryforwards and tax credits. In connection with
+our divestiture in 2002 of 21 million shares of ASI common stock, we realized a
+capital loss of approximately $1170 million and recognized a U.S. tax benefit
+of $445 million for which we provided a full valuation allowance because we did
+not have any offsetting capital gains. Generally accepted accounting principles
+require companies to weigh both positive and negative evidence in determining
+the need for a valuation allowance. In light of our three years of cumulative
+losses, an unprecedented industry downturn and continued poor visibility of
+customer demand, we have determined, during 2002, that a valuation allowance
+representing substantially all of our deferred tax assets is appropriate. These
+negative factors outweighed our forecasted future profitability and expectation
+that we will be able to utilize our net operating loss carryforwards.
+In connection with our 2001 acquisitions in Japan and Taiwan, we recorded
+as of the acquisition date a net deferred tax assets of $133 million, which is
+net of a $13 million valuation allowance.
+As a result of certain capital investments, export commitments and
+employment levels, income from operations in Korea, the Philippines and China is
+subject to reduced tax rates, and in some cases is wholly exempt from taxes. As
+a result of our 1999 and 2000 acquisitions of K1, K2, K3 and K4 in Korea, we
+benefit from a tax holiday extending through 2012 that provides for a 100% tax
+holiday for seven years and then 50                     75
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+tax holiday for an additional 3 years. In the Philippines, our operating
+locations operate in economic zones and in exchange for tax holidays we have
+committed to certain export and employment levels. One of our Philippine
+locations benefits from a full tax holiday through 2003, followed by perpetual
+reduced tax rate of 5%, while the other location benefits from a perpetual
+reduced tax rate of 5%. As a result of our 2001 investment in China, we expect
+to benefit from a 100% tax holiday for five years and then 50% tax holiday for
+an additional two years. As a result of the net losses incurred by our foreign
+subsidiaries subject to tax holidays during 2002 and 2001, there is a forgone
+income tax benefit attributable to the tax status of these subsidiaries of
+approximately $633 million or $0385 per share and $338 million or $021 per
+share, in 2002 and 2001, respectively. The income tax benefit in 2000
+attributable to the tax status of these subsidiaries was approximately $434
+million or $028 per share.
+The deferred tax asset and liability for foreign exchange gains and losses
+relate to U.S. dollar denominated monetary assets and liabilities for which
+foreign exchange gains or losses were realized for book purposes and not for tax
+purposes. During 2000 one of our Philippine subsidiaries realized net foreign
+exchange gains and losses for book purposes which were deferred for tax and
+established a valuation allowance for a portion of the related deferred tax
+assets. Our ability to utilize these assets depends on the timing of the
+settlement of the related assets or liabilities and the amount of taxable income
+recognized within the Philippine statutory carryforward limit of three years.
+During 2002 and 2001, such Philippine subsidiary realized the foreign exchange
+gains and losses for tax causing a reduction to the valuation allowance
+established in 2000.
+In December 2002, we utilized $333 million of U.S. net operating losses by
+carrying back such amounts to offset U.S. reported taxable income in prior
+years. At December 31, 2002, our company has remaining U.S. net operating losses
+available to be carried forward totaling $3755 million expiring between 2021
+and 2022. Additionally, at December 31, 2002, our company had non-U.S. net
+operating losses available to be carried forward totaling $612 million expiring
+between 2003 and 2012. The tax returns for open years are subject to changes
+upon final examination. Non-U.S. loss before taxes and minority interest was
+$3953 million and 1807 million in 2002 and 2001, respectively, and non-U.S.
+income before taxes and minority interest was $2010 million in 2000. At
+December 31, 2002, net cumulative undistributed losses of non-U.S. subsidiaries
+totaled approximately $614 million. No liabilities are recognized for our
+cumulative earnings loss position and no U.S. income and foreign withholding
+taxes would be due on the cumulative earnings loss. It is the company
+intention to reinvest any undistributed earnings outside the U.S.
+At December 31, 2002 and 2001 current deferred tax assets of $55 million
+and $163 million, respectively, are included in other current assets and
+noncurrent deferred tax  assets of  $363 million  and $1081  million,
+respectively, are included in other assets in the consolidated balance sheet.
+The net deferred tax assets include amounts, which, in our opinion, are more
+likely than not to be realizable through future taxable income. In addition, at
+December 31, 2002 and 2001, noncurrent deferred tax liabilities of $46 million
+and $145 million, respectively, are included in other noncurrent liabilities in
+the consolidated balance sheet.
+We operate in and file income tax returns in various U.S. and non-U.S.
+jurisdictions which are subject to examination by tax authorities. Our tax
+returns have been examined through 1998 in the Philippines and the U.S., through
+1999 in Japan, through 2000 in Taiwan and through 2001 in China. The tax returns
+for open years in all jurisdictions in which we do business are subject to
+changes upon examination. We believe that we have estimated and provided
+adequate accruals for the probable additional taxes and related interest expense
+that may ultimately result from examinations related to our transfer pricing and
+local  attribution  of  income  resulting  from  significant intercompany
+transactions, including ownership and use of intellectual property, in various
+U.S. and non-U.S. jurisdictions. Our estimated tax liability is subject to
+change as examinations of specific tax years are completed in the respective
+jurisdictions. We believe that any additional taxes or related interest over the
+amounts accrued will not have a material effect on our financial condition or
+results of operations, nor do we expect that examinations to be completed in the
+near term would have a material favorable impact. As of December 31, 2002 and
+2001,  the  accrual  for  current  taxes  and  estimated  additional
+76
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+taxes was $488 million and $534 million, respectively. In addition, changes in
+the mix of income from our foreign subsidiaries, expiration of tax holidays and
+changes in tax laws or regulations could result in increased effective tax rates
+in the future.
+18. EARNINGS PER SHARE
+Statement of Financial Accounting Standards SFAS No. 128, Earnings Per
+Share, requires dual presentation of basic and diluted earnings per share on
+the face of the income statement. Basic EPS is computed using only the weighted
+average number of common shares outstanding for the period, while diluted EPS is
+computed assuming conversion of all dilutive securities, such as options,
+convertible debt and warrants. For the years ended December 31, 2002 and 2001,
+we excluded from the computation of diluted earnings per share potentially
+dilutive securities which would have an antidilutive effect on EPS. As of
+December  31, 2002, the total number of potentially dilutive securities
+outstanding was 66 million, 117 million and 39 million for outstanding
+options, convertible notes and warrants for common stock, respectively. As of
+December 31, 2001, the total number of potentially dilutive  securities
+outstanding was 124 million, 117 million and 39 million for outstanding
+options, convertible notes and warrants for common stock, respectively. The
+basic and diluted per share amounts are the same for the years 2002 and 2001,
+due to net losses.
+Year 2000 basic and diluted per share amounts are calculated as follows                                       WEIGHTED
+EARNINGS   AVERAGE SHARES  PER SHARE
+NUMERATOR  DENOMINATOR   AMOUNT
+IN THOUSANDS EXCEPT PER SHARE AMOUNTS
+Earnings per Share -- Year Ended December 31, 2000
+Basic earnings per   $154,153    145,806     $106
+Impact of convertible    2,414     3,744
+Dilutive effect of      --     3,673
+Diluted earnings per   $156,567    153,223     $102
+19. STOCK COMPENSATION PLANS
+1998 Director Option Plan. A total of 300,000 shares of common stock have
+been reserved for issuance under the Director Plan. The option grants under the
+Director Plan are automatic and non-discretionary. As of January 1, 2003, the
+Director Plan provides for an initial grant of options to purchase 20,000 shares
+of common stock to each new non-employee director of the company when such
+individual first becomes an outside director. In addition, each non-employee
+director will automatically be granted subsequent options to purchase 10,000
+shares of common stock on each date on which such director is re-elected by the
+stockholders of the company, provided that as of such date such director has
+served on the board of directors for at least six months. The exercise price of
+the options is 100% of the fair market value of the common stock on the grant
+date. The term of each option is ten years and each option granted to an
+non-employee director vests over a three year period. The Director Plan will
+terminate in January 2008 unless sooner terminated by the board of directors.
+1998 Stock Plan. The 1998 Stock Plan generally provides for the grant to
+employees, directors and consultants of stock options and stock purchase rights.
+Unless terminated sooner, the 1998 Plan will terminate automatically in January
+2008. A total of 5,000,000 shares are reserved for issuance under the 1998 Stock
+Plan, and there is a provision for an annual replenishment to bring the number
+of shares of common stock reserved for issuance under the plan up to 5,000,000
+as of each January 1.
+Unless determined otherwise by the board of directors or a committee
+appointed by the board of directors, options and stock purchase rights granted
+under  the  1998  Plan  are  not  transferable  by  the  optionee.
+77
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Generally, the exercise price of all stock options granted under the 1998 Plan
+must be at least equal to the fair market value of the shares on the date of
+grant. In general, the options granted will vest over a four year period and the
+term of the options granted under the 1998 Plan may not exceed ten years.
+1998 Stock Option Plan for French Employees.  The 1998 French Plan will
+terminate in April 2003. Amkor intends to implement a new French Plan, subject
+to shareholder approval, in 2003. The 1998 French Plan provides for the granting
+of options to employees of our French subsidiaries. A total of 250,000 shares of
+common stock are reserved for issuance under the 1998 French Plan, and there is
+a provision for an annual replenishment to bring the number of shares of common
+stock reserved for issuance under the plan up to 250,000 as of each January 1.
+In general, stock options granted under the 1998 French Plan vest over a four
+year period, the exercise price for each option granted under the 1998 French
+Plan shall be 100% of the fair market value of the shares of common stock on the
+date the option is granted and the maximum term of the option must not exceed
+ten years. Shares subject to the options granted under the 1998 French Plan may
+not be transferred, assigned or hypothecated in any manner other than by will or
+the laws of descent or distribution before the date which is five years after
+the date of grant.
+On November 8, 2002, we initiated a voluntary stock option replacement
+program such that employees and members of our board of directors could elect to
+surrender their existing options and be granted new options no earlier than six
+months and one day after the tendered options were cancelled. We will issue new
+option grants equal to the same number of shares surrendered by the employees.
+Pursuant to the terms and conditions of the offer to exchange, a total of 1,633
+eligible employees participated and our company has accepted for cancellation
+options to purchase an aggregate of 7,115,891 shares of our company common
+stock under the 1998 Stock Plan, an aggregate of 35,000 shares of our company
+common stock under the 1998 Director Option Plan and an aggregate of 248,200
+shares of our company common stock under the 1998 French Plan. Subject to the
+terms and conditions of the offer to exchange, our company intends to grant new
+options to purchase up to 7,399,091 shares of our common stock no earlier than
+June 12, 2003 in exchange for the options tendered by eligible employees and
+members of our board of directors and accepted by our company. The exercise
+price will equal the fair market value of common stock as of the new grant date.
+The vesting term of the new options will be similar to the tendered options
+except the new options contain an additional one year vesting period prior to
+any options becoming exercisable.
+78
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+A summary of the status of the stock option plans follows                             WEIGHTED AVERAGE  WEIGHTED AVERAGE
+NUMBER OF   EXERCISE PRICE    GRANT DATE
+SHARES    PER SHARE     FAIR VALUES
+Balance at December 31, 1999.  5,065,548    $1015
+5,168,950     4015       $2246
+418,388     1032
+545,909     3387
+Balance at December 31, 2000.  9,270,201     2548
+4,313,850     1514       $ 847
+517,822     988
+709,863     2760
+Balance at December 31, 2001. 12,356,366     2240
+4,004,460     1276       $ 794
+547,862     1030
+9,239,701     2488
+Balance at December 31, 2002.  6,573,263    $1415
+Options exercisable at:
+December 31, 2000.  2,827,380    $1023
+December 31, 2001.  4,508,557     2235
+December 31, 2002.  3,436,469     1395   Significant option groups outstanding at December 31, 2002 and the related
+weighted average exercise price and remaining contractual life information are
+as follows                         OUTSTANDING      EXERCISABLE    WEIGHTED
+AVERAGE
+WEIGHTED        WEIGHTED  REMAINING
+AVERAGE        AVERAGE   LIFE
+SHARES   PRICE   SHARES   PRICE   YEARS
+Options with exercise price of:
+$ 161 - $ 322.   75,000  $ 213      --  $  --    97
+$ 323 - $ 646.  476,876  $ 551   356,286  $ 566    51
+$ 647 -  2,124,872  $1034  2,006,802  $1036    44
+$1295 -  3,444,608  $1424   720,965  $1542    76
+$2591 -   451,907  $4247   352,416  $4264    28
+Options outstanding at December 31,
+6,573,263       3,436,469
+79
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+In order to calculate the fair value of stock options at date of grant, we
+used the Black-Scholes option pricing model. The following assumptions were used
+to calculate weighted average fair values of the options granted                                FOR THE YEAR ENDED
+DECEMBER 31,
+2002  2001  2000
+Expected life in   4   4   4
+Risk-free interest  25%  45%  68%
+85%  70%  66%
+Dividend   --   --      1998 Employee Stock Purchase Plan.  A total of 1,000,000 shares of common
+stock are available for sale under the Stock Purchase Plan and an annual
+increase is to be added as of each January 1 to restore the maximum aggregate
+number of shares of common stock available for sale under the plan up to
+1,000,000. Employees including officers and employee directors of the company
+but excluding 5% or greater stockholders are eligible to participate if they
+are customarily employed for at least 20 hours per week. The Stock Purchase Plan
+permits eligible employees to purchase common stock through payroll deductions,
+which may not exceed 15% of the compensation an employee receives on each
+payday. Each participant will be granted an option on the first day of a two
+year offering period, and shares of common stock will be purchased on four
+purchase dates within the offering period. The purchase price of the common
+stock under the Stock Purchase Plan will be equal to 85% of the lesser of the
+fair market value per share of common stock on the start date of the offering
+period or on the purchase date. Employees may end their participation in an
+offering period at any time, and participation ends automatically on termination
+of employment with the company. The Stock Purchase Plan will terminate in
+January 2008, unless sooner terminated by the board of directors.
+For the years ended December 31, 2002, 2001 and 2000, employees purchased
+common stock shares under the stock purchase plan of 996,617, 482,937 and
+263,498, respectively. The average estimated fair values of the purchase rights
+granted during the years ended December 31 2002, 2001 and 2000 based on the
+Black-Scholes option pricing model were $316, $653 and $1217, respectively.
+The following assumptions were used to calculate weighted average fair values of
+the purchase rights granted                                FOR THE YEAR ENDED
+DECEMBER 31,
+2002  2001  2000
+Expected life in  05  05  05
+Risk-free interest  25%  45%  68%
+85%  70%  66%
+Dividend   --   --   20. FAIR VALUE OF FINANCIAL INSTRUMENTS
+The estimated fair value of financial instruments has been determined using
+available  market  information  and  appropriate  methodologies;  however,
+considerable judgment is required in interpreting market data to develop the
+estimates for fair value. Accordingly, these estimates are not necessarily
+indicative of the amounts that we could realize in a current market exchange.
+Certain of these financial instruments are with major financial institutions and
+expose us to market and credit risks and may at times be concentrated with
+certain counterparties or groups of counterparties. The creditworthiness of
+counterparties is continually reviewed, and full performance is anticipated.
+The carrying amounts reported in the balance sheet for  short-term
+investments, due from affiliates, other accounts receivable, due to affiliates,
+accrued expenses and  accrued income taxes  approximate fair value  due
+80
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+to the short-term nature of these instruments. The methods and assumptions used
+to estimate the fair value of other significant classes of financial instruments
+is set forth below   Cash and Cash Equivalents. Cash and cash equivalents are due on demand or
+carry a maturity date of less than three months when purchased. The carrying
+amount of these financial instruments is a reasonable estimate of fair value.
+Available for sale investments.  The fair value of these financial
+instruments was estimated based on market quotes, recent offerings of similar
+securities, current and projected financial performance of the company and net
+asset positions.
+Long-term debt.  The carrying amount of our total long-term debt as
+December 31, 2002 was $1,7377 million and the fair value based on available
+market quotes is estimated to be $1,3213 million.
+21. COMMITMENTS AND CONTINGENCIES
+Amkor is involved in various claims incidental to the conduct of our
+business. Based on consultation with legal counsel, we do not believe that any
+claims, either individually or in the aggregate, to which the company is a party
+will have a material adverse effect on our financial condition or results of
+operations.
+Net future minimum lease payments under operating leases that have initial
+or remaining noncancelable lease terms in excess of one year are                                DECEMBER 31,
+2002
+IN THOUSANDS
+$ 10,026
+7,798
+6,250
+7,077
+6,985
+63,341
+Total net of minimum sublease income of $7,585.   $101,477
+Rent expense amounted to $150 million, $218 million and $137 million for
+2002, 2001 and 2000, respectively. We lease office space in West Chester,
+Pennsylvania from certain of our stockholders. The lease expires in 2006. We
+have the option to extend the lease for an additional 10 years through 2016.
+Amounts paid for this lease in each of 2002, 2001 and 2000 were $12 million.
+Indemnifications and Guarantees
+In November 2002, the FASB issued FIN No. 45, Guarantor Accounting and
+Disclosure  requirements for Guarantees, Including Indirect Guarantees of
+Indebtedness of Others. We have adopted the disclosure requirements of the
+Interpretation as of December 31, 2002. Disclosures about our indemnifications
+and guarantees are provided below.
+We have indemnified members of our board of directors and our corporate
+officers collectively, the Indemnitees against any threatened, pending or
+completed action or proceeding, whether civil, criminal, administrative or
+investigative by reason of the fact that the Indemnitee is or was a director or
+officer of the company. The Indemnitees are indemnified, to the fullest extent
+permitted by law, against related expenses, judgments, fines and any amounts
+paid in settlement. The maximum amount of future payments is generally
+unlimited. There is no amount recorded for this indemnification at December 31,
+2002. Due to the nature of
+81
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+this indemnification, it is not possible to make a reasonable estimate of the
+maximum potential loss or range of loss. No assets are held as collateral and no
+specific recourse provisions exist related to this indemnification.
+In connection with the termination of AEI status as an S Corporation see
+Note 1, Receivable from Stockholder, in 1998 we indemnified and agreed to hold
+harmless the Kim family against any U.S. federal or state income tax liability
+resulting from the Kim family being required to include in income amounts in
+excess of the income shown to be reportable on the original tax returns filed,
+as they relate to the previously existing S Corporation. The carrying amount
+recorded for this indemnification as of December 31, 2002 is $150 million. It
+is reasonably possible that future payments may exceed amounts accrued. The
+maximum potential loss related to this indemnification is $233 million. No
+assets are held as collateral and no specific recourse provisions exist.
+As of December 31, 2002, we have outstanding $10 million of standby
+letters of credit. Such standby letters of credit are used in our ordinary
+course of business and are collateralized by our cash balances.
+22. SEGMENT INFORMATION
+In accordance with SFAS No. 131, Disclosures about Segments of an
+Enterprise and Related Information, we had two reportable segments, packaging
+and test services and wafer fabrication services. These segments were managed
+separately because the services provided by each segment required different
+technology and marketing strategies.
+Packaging and Test Services.  Through our factories located in the
+Philippines, Korea, Japan, Taiwan and China, we offer a complete and integrated
+set of packaging and test services including integrated circuit IC packaging
+design, leadframe and substrate design, IC package assembly, final testing,
+burn-in, reliability testing and thermal and electrical characterization.
+Wafer Fabrication Services.  Through our wafer fabrication services
+division, we provided marketing, engineering and support services for ASI
+wafer foundry, under a long-term supply agreement. As of February 28, 2003, we
+sold our wafer fabrication services business to ASI. Beginning with the first
+quarter of 2003, we will reflect our wafer fabrication services segment as a
+discontinued operation and restate our historical results.
+Prior to the sale of our wafer fabrication services business to ASI in
+February 2003, we derived 928%, 794% and 807% of our wafer fabrication
+revenues from Texas Instruments TI for 2002, 2001 and 2000, respectively.
+Effective as of February 28, 2003, we obtained a release from Texas Instruments
+regarding our contractual obligations with respect to wafer fabrication services
+to be performed subsequent to the transfer of the business to ASI. Total net
+revenues derived from TI accounted for 139%, 102% and 141% of consolidated
+net revenues in 2002, 2001 and 2000, respectively. With the commencement of
+operations of Amkor Iwate and the acquisition of a packaging and test facility
+from Toshiba in 2001, total net revenues derived from Toshiba accounted for
+126% and 143% of our consolidated  net revenues for 2002 and  2001,
+respectively.
+The accounting policies for segment reporting are the same as those for our
+consolidated financial statements. We evaluate our operating segments based on
+operating income. Summarized  financial information concerning  reportable
+segments is shown in the following table. The Other column includes the
+82
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+elimination of inter-segment balances and corporate assets which include cash
+and cash equivalents, non-operating balances due from affiliates, investment in
+equity affiliates and other investments.                         PACKAGING    WAFER
+AND TEST  FABRICATION  OTHER    TOTAL
+IN THOUSANDS
+2002
+Net  $1,406,178  $233,529   $   --  $1,639,707
+Gross    95,615   22,205      --   117,820
+Operating income loss.  416,920   13,526      --   403,394
+Depreciation and amortization including debt
+issue    331,516    2,080      --   333,596
+Capital expenditures including by
+95,104     --      --    95,104
+Total   1,978,600   164,048   415,336  2,557,984
+2001
+Net  $1,336,674  $181,188   $   --  $1,517,862
+Gross    52,251   17,547      --    69,798
+Operating income loss.  277,148   8,465      --   268,683
+Depreciation and amortization including debt
+issue    462,912    2,171      --   465,083
+Capital expenditures including by
+296,346     105      --   296,451
+Total   2,540,020   87,953   595,345  3,223,318
+2000
+Net  $2,009,701  $377,593   $   --  $2,387,294
+Gross    567,381   37,755      --   605,136
+Operating    297,746   24,275      --   322,021
+Depreciation and amortization including debt
+issue    330,824    2,085      --   332,909
+Capital expenditures including by
+883,752    1,124      --   884,876
+Total   2,732,733   46,231   614,320  3,393,284   The following table presents net revenues by country based on the location
+of the customer                                NET REVENUES
+2002     2001     2000
+IN THOUSANDS
+United  $ 660,527  $ 601,066  $1,280,896
+71,237    76,786    92,548
+333,232   297,277    76,133
+150,813   151,183   325,903
+108,674    72,947   108,674
+Other foreign    315,224   318,603   503,140
+$1,639,707  $1,517,862  $2,387,294
+83
+AMKOR TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+The following table presents property, plant and equipment based on the
+location of the asset                            PROPERTY, PLANT AND EQUIPMENT
+2002    2001     2000
+IN THOUSANDS
+United  $ 74,088  $  87,776  $  84,351
+281,089   471,302   579,619
+484,938   698,448   813,983
+76,542    90,088         39,727    35,074     174
+11,996    9,093      Other foreign     563     493     383
+$968,943  $1,392,274  $1,478,510
+The following supplementary information presents net revenues allocated by
+product family for the packaging and test segment                                NET REVENUES
+2002     2001     2000
+IN THOUSANDS
+Traditional  $ 391,338  $ 438,557  $ 605,637
+Advanced    915,067    790,495   1,286,289
+99,773    107,622    117,775
+$1,406,178  $1,336,674  $2,009,701
+84             REPORT OF INDEPENDENT AUDITORS
+The Stockholders and the Board of Directors
+Amkor Technology Philippines, Inc.
+We have audited the accompanying balance sheet of Amkor Technology
+Philippines, Inc. the Company, formerly Amkor Technology Philippines P1/P2,
+Inc., a company incorporated under the laws of the Republic of the Philippines
+as of December 31, 2002, and the related statements of operations, changes in
+stockholders' equity and cash flows for the year then ended. These financial
+statements are  the  responsibility  of the  Company  management.  Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+We conducted our audit in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audit provides  a
+reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material  respects, the financial  position of Amkor  Technology
+Philippines, Inc. as of December 31, 2002, and the results of its operations and
+its cash flows for the year then ended, in conformity with accounting principles
+generally accepted in the United States of America.
+/s/ SYCIP GORRES VELAYO & CO.
+Makati City, Philippines
+January 15, 2003
+85 THE FOLLOWING REPORT IS A COPY OF A REPORT PREVIOUSLY ISSUED BY SYCIP GORRES
+VELAYO & CO., A MEMBER FIRM OF ARTHUR ANDERSEN, AND HAS NOT BEEN REISSUED BY
+SYCIP GORRES VELAYO & CO.
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+The Stockholders and the Board of Directors
+Amkor Technology Philippines P1/P2, Inc. and
+Amkor Technology Philippines P3/P4, Inc.
+We have audited the combined balance sheet of Amkor Technology Philippines
+P1/P2, Inc. and Amkor Technology Philippines P3/P4, Inc., companies
+incorporated under the laws of the Republic of the Philippines and collectively
+referred to as the Companies as of December 31, 2001 and 2000, and the
+related combined statements of income, stockholders' equity and cash flows for
+the years then ended. These financial statements are the responsibility of the
+Companies' management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide  a
+reasonable basis for our opinion.
+In our opinion, the combined financial statements referred to above present
+fairly, in all material respects, the combined financial position of Amkor
+Technology Philippines P1/P2, Inc. and Amkor Technology Philippines P3/P4,
+Inc. as of December 31, 2001 and 2000, and the combined results of their
+operations and their cash flows for the years then ended, in conformity with
+accounting principles generally accepted in the United States of America.
+/s/ SYCIP GORRES VELAYO & CO.
+Makati City, Philippines
+March 19, 2002
+86           AMKOR TECHNOLOGY, INC. AND SUBSIDIARIES
+SCHEDULE II -- VALUATION AND QUALIFYING ACCOUNTS                      BALANCE AT  ADDITIONS
+BEGINNING  CHARGED TO             BALANCE AT
+OF PERIOD   EXPENSE   WRITE-OFFS  OTHER  END OF PERIOD
+Year ended December 31, 2000:
+Allowance for doubtful accounts.  $2,443    $ 17   $  --    --   $2,426
+Year ended December 31, 2001:
+Allowance for doubtful accounts.  $2,426    $4,000   $1,037  1,453   $6,842
+Year ended December 31, 2002:
+Allowance for doubtful accounts.  $6,842    $ 756   $ 220    --   $7,378 ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+Not Applicable.
+PART III

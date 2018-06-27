@@ -1,0 +1,767 @@
+Item 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+The following Consolidated Financial Statements and supplementary data are
+included as part of this Annual Report on Form 10-K Report of Independent  40
+Consolidated Balance Sheets at December 31, 1998 and 1997. 25
+Consolidated Statements of Operations for the years ended December 31, 1998,
+1997 and  26
+Consolidated Statements of Redeemable Preferred Stock & Shareholders' Equity
+for the years ended December 31, 1998, 1997 and 1996. 27
+Consolidated Statements of Cash Flows for the years ended December 31, 1998,
+1997 and  28
+Notes to Consolidated Financial  29
+-24 
+Consolidated Balance Sheets
+In thousands, except share and per share amounts                                             December 31,
+1998   1997
+ASSETS
+Current assets:
+Cash and cash equivalents                          $ 18,523  $ 23,601
+Short-term investments                             7,086   10,103
+Accounts receivable, net of allowance for billing adjustments and       18,432   12,445
+doubtful accounts of $1,508 in 1998 and $1,304 in 1997
+Inventory                                    3,525   1,550
+Deferred income taxes                              1,564   1,564
+Prepaid expenses                                 823    630
+- 
+Total current assets                            49,953   49,893
+Property and equipment:
+Telecommunications systems & software                     47,801   36,346
+Furniture and fixtures                             2,264   1,984
+Leasehold improvements                             2,127   1,725
+Systems in development                             4,305   5,955
+- 
+56,497   46,010
+Less allowance for depreciation and amortization                    18,442   7,923
+- 
+38,055   38,087
+Goodwill, net                                      3,460   4,067
+Other assets                                       292   1,338
+- 
+Total assets                               $ 91,760  $ 93,385
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                               $  884  $ 2,786
+Accrued expenses                                10,124   7,304
+Income taxes payable                               496    466
+Current maturities of capital lease obligations                 1,052   1,127
+- 
+Total current liabilities                         12,556   11,683
+Capital lease obligations, net of current maturities                   546   1,598
+Commitments and contingencies 
+Shareholders' equity:
+Preferred Stock, $01 par value, 2,000,000 shares authorized,
+none issued and outstanding                           --         Common Stock, voting, par value $01 per share, 35,000,000 shares         164    163
+authorized, 16,436,028 shares in 1998 and 16,273,947 shares in 
+1997 issued
+Additional paid-in capital                           91,683   91,029
+Treasury Stock 101,420 shares in 1998 and 46,420 shares in 1997 at cost    673   372
+Accumulated deficit                              12,516  10,716
+- 
+Total shareholders' equity                           78,658   80,104
+- 
+Total liabilities and shareholders' equity                  $ 91,760  $ 93,385
+See accompanying notes.
+-25 
+Consolidated Statements of Operations
+In thousands, except share and per share amounts
+Year Ended December 31,
+1998   1997   1996
+REVENUES:
+Prepaid wireless services                  $18,624  $ 7,539  $  312
+Teleservices                         26,001  17,009  13,413
+Roaming services                       28,235  32,461  32,234
+System sales                         13,622  11,090   4,692
+- 
+86,482  68,099  50,651
+EXPENSES:
+Cost of services revenues                   51,919  44,180  36,606
+Cost of system revenues                    8,448   6,201   2,576
+Engineering, research and development             5,523   5,433   3,221
+Sales and marketing                      5,590   5,089   2,949
+General and administrative                   6,208   3,470   2,580
+Depreciation and amortization                 11,245   5,546   2,109
+Impairment of long-lived assets                 698    569      
+89,631  70,488  50,041
+-  
+Operating income loss                      3,149  2,389   610
+Interest income                           1,349   1,085    589
+- 
+Income loss before income taxes                 1,800  1,304  1,199
+Provision benefit for income taxes                  -   188   600
+- 
+Net income loss                         1,800  1,116   599
+Accretion of dividends on redeemable preferred stock          --    --   451
+-  
+Net income loss available to common shareholders        $1,800 $1,116 $  148
+Basic net income loss available to common shareholders:
+Net income loss                       $011  $008  $002
+Shares used in computing basic net income loss per share  16,274  14,007   8,352
+Diluted net income loss available to common shareholders:
+Net income loss                       $011  $008  $001
+Shares used in computing diluted net income loss per    16,274  14,007  10,884
+share
+See accompanying notes.
+-26 
+Consolidated Statements of Redeemable Preferred Stock and Shareholders' Equity
+In thousands, except share amounts
+Shareholders' Equity
+Accretion of
+Redeemable               Convertible                     Dividends
+Preferred Stock   Treasury Stock   Preferred Stock   Common Stock    Additional   Redeemable
+Paid In    Preferred
+Shares  Dollars  Shares  Dollars  Shares  Dollars   Shares  Dollars  Capital     Stock 
+- 
+Balance at
+January 1, 1996     11,871  $ 15,896    --    --   850    $ 1  3,335,985   $ 33   $ 1,016    $4,025 
+Conversion of 
+Convertible Preferred 
+Stock           --     --    --    --   850    1  5,004,608    50     49      --  
+Accretion of dividends
+on Redeemable     
+Preferred Stock      --    451    --    --    --    --      --    --     --      451 
+Redemption of     
+Redeemable Preferred
+Stock and Accreted
+Dividends      11,871  16,347    --    --    --    --      --    --     --     4,476 
+Issuance of Common
+Stock           --     --    --    --    --    --  4,183,928    42   51,745       -- 
+Exercise of Common
+Stock Options       --     --    --    --    --    --   201,228    2     26       -- 
+Treasury Stock
+Purchase         --     --  46,420   372   --    --      --    --     --       -- 
+Net income         --     --    --    --    --    --      --    --     --       -- 
+- 
+Balance at 
+December 31, 1996      --     --  46,420   372   --    --  12,725,749   127   52,738       -- 
+Issuance of Common 
+Stock           --     --    --    --    --    --  3,000,000    30   35,769       -- 
+Exercise of Common
+Stock Options       --     --    --    --    --    --   538,630    6    2,482        Issuance of Common
+Stock Under Employee
+Stock Purchase Plan    --     --    --    --    --    --    9,568    --     40        Net loss          --     --    --    --    --    --      --    --     --       -- 
+- 
+Balance at 
+December 31, 1997      --     --  46,420   372   --    --  16,273,947   163   91,029       -- 
+Exercise of Common 
+Stock Options       --     --    --    --    --    --   143,488    1     572        Issuance of Common
+Stock Under Employee
+Stock Purchase Plan    --     --    --    --    --    --    18,593    --     82        Treasury Stock Purchase  --     --  55,000   301   --    --      --    --     --       -- 
+Net loss          --     --    --    --    --    --      --    --     --       -- 
+- 
+Balance at 
+December 31, 1998      --  $   --  101,420  $673   --      16,436,028   $164   $91,683    $  -- 
+Shareholders' Equity
+Total
+Shareholders'
+Accumulated     Equity 
+Deficit     Deficit
+Balance at
+January 1, 1996      $ 5,723     $  8,698
+Conversion of 
+Convertible Preferred 
+Stock              --         -- 
+Accretion of dividends
+on Redeemable     
+Preferred Stock         --        451
+Redemption of     
+Redeemable Preferred
+Stock and Accreted
+Dividends          4,476          Issuance of Common
+Stock              --       51,787
+Exercise of Common
+Stock Options          --         28
+Treasury Stock
+Purchase            --        372
+Net income           599         599
+- 
+Balance at 
+December 31, 1996       9,600       42,893
+Issuance of Common 
+Stock              --       35,799
+Exercise of Common
+Stock Options          --        2,488
+Issuance of Common
+Stock Under Employee
+Stock Purchase Plan       --         40
+Net loss           1,116       1,116
+- 
+Balance at 
+December 31, 1997      10,716       80,104
+Exercise of Common 
+Stock Options          --         573 
+Issuance of Common
+Stock Under Employee
+Stock Purchase Plan       --         82
+Treasury Stock Purchase     --        301
+Net loss           1,800       1,800
+- 
+Balance at 
+December 31, 1998     $ 12,516     $  78,658 
+See accompanying notes
+-27 
+Consolidated Statements of Cash Flows
+In thousands
+Year Ended December 31,
+1998   1997   1996
+- 
+OPERATING ACTIVITIES
+Net income loss                      $ 1,800 $ 1,116 $  599
+Adjustments to reconcile net income loss to net cash
+provided by used in operating activities:
+Depreciation and amortization                11,245   5,546   2,109
+Deferred income taxes                      --    230    466
+Impairment of long-lived assets                 698    569       Changes in operating assets and liabilities, excluding
+effects of business acquisitions:
+Accounts receivable                   5,987  1,385  3,208
+Inventory                        1,975   361  1,128
+Prepaid expenses and other assets              65    151   547
+Accounts payable and accrued expenses           918   1,514    524
+Income taxes payable                    30    24   297
+- 
+Net cash provided by used in operations           3,194   4,362   1,482
+INVESTING ACTIVITIES
+Acquisition of businesses, net of cash acquired           --   1,398   846
+Purchase of short-term investments               14,095  12,976  26,937
+Sale of short-term investments                 17,112   23,371   6,439
+Purchase of property and equipment               10,516  28,552  8,093
+- 
+Net cash used in investing activities              7,499  19,555  29,437
+FINANCING ACTIVITIES
+Proceeds from exercise of stock options              573   2,488     28
+Proceeds from issuance of stock                   82   35,839   49,787
+Repurchase of redeemable preferred stock              --     --  16,347
+Purchase of treasury stock                    301    --    372
+Repayment of capital lease obligations             1,127   456  1,507
+- 
+Net cash provided by used in financing activities        773  37,871   31,589
+Increase decrease in cash and cash equivalents        5,078  22,678    670
+Cash and cash equivalents at beginning of year         23,601    923    253
+Cash and cash equivalents at end of year           $ 18,523  $ 23,601  $  923
+See accompanying notes.
+-28 
+Notes to Consolidated Financial Statements
+1. BASIS OF PRESENTATION
+The Company
+Boston Communications Group, Inc. the Company develops, markets and provides
+specialized prepaid wireless services, teleservices, and roaming services to the
+wireless telephone industry. The Company also manufactures prepaid and voice
+system equipment.
+2. SIGNIFICANT ACCOUNTING POLICIES
+Revenue Recognition
+The Company earns revenues by providing teleservices customer care support,
+processing prepaid wireless calls and processing wireless calls for unregistered
+wireless subscribers who have roamed outside of their service area. Revenue is
+recognized when the service is provided and is recorded net of estimated billing
+adjustments. The Company recognizes revenue from the sale of systems at the time
+the systems are shipped.
+Principles of Consolidation
+The financial statements include 100% of the accounts and operations of the
+Company and all of its majority-owned subsidiaries. All intercompany accounts
+and transactions have been eliminated.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with a maturity of three
+months or less at the date of purchase to be cash equivalents.
+Investments
+The Company accounts for its marketable securities under the Statement of
+Financial Accounting Standards No. 115, Accounting for Certain Instruments in
+Debt and Equity Securities. The Company has classified all of its securities as
+available-for-sale, and are thus reported at fair market value.
+Investments with maturities between three and twelve months are considered
+short-term investments. The Company short-term investments are invested in
+corporate notes.
+Estimates
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities, the disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from those estimates.
+Concentrations of Credit Risk
+The Company prepaid wireless services allows carriers, throughout the United
+States and Canada, to access the Company prepaid C/2/C platform, enabling the
+carriers to offer prepaid wireless calling to their subscribers. Accounts are
+not activated until payment is received by the carrier. Teleservices are
+provided to wireless carriers located throughout the United States and Canada.
+The Company roaming customers are individuals who place wireless calls from
+service areas, which are not covered by traditional roaming agreements. These
+calls are forwarded by wireless carriers to the Company for processing. Each
+transaction is small in size and the Company minimizes credit risk by validating
+appropriate billing information. The Company sells its voice systems in North
+America and its prepaid systems in North and South America.
+-29 
+The Company has roaming, teleservice and prepaid wireless service agreements
+with, and sells its systems to numerous carriers.  During the years ended
+December 31, 1998, 1997 and 1996, the Company top 10 customers accounted for
+79%, 75% and 82% of the Company total revenues, respectively. The following
+table summarizes sales in excess of 10% of total revenues only, as a percentage
+of total revenues, to major customers:
+December 31,
+1998      1997    1996
+- 
+Ameritech Cellular T,R            15%      12%     15%
+BellSouth Cellular Corp. P,T,R,S       13       --      11
+AirTouch P,T,R                13       --      Bell Atlantic Mobile P,T,R          11       12      12
+Southwestern Bell Mobile Systems P,T,R    --       11       
+Revenue from these customers was generated from the following divisions:
+P - Prepaid wireless services
+T - Teleservices
+R - Roaming services
+S - Systems
+Inventory, which consists of computer hardware and electronic components, is
+recorded at the lower of cost first-in, first-out method or market. Inventory
+is categorized as follows in thousands:
+December 31,
+1998      1997
+Raw materials                   $2,690      $1,114
+Work in process                    835       127
+Finished goods                     --       309
+- 
+$3,525      $1,550
+Property and Equipment
+Property and equipment are recorded at cost and depreciated on a straight-line
+basis over the estimated useful lives of the assets, which range from 3 to 7
+years. Systems in development represent the cost of purchased hardware and
+software to be used in switching equipment not yet placed into service and will
+be depreciated between 3 and 5 years.
+In accordance with Financial Accounting Standards Board Statement No. 121,
+Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to
+be Disposed Of, the Company reviews its long-lived assets for impairment
+whenever events or changes in circumstances indicate that the carrying amount of
+an asset may not be recoverable. If it is determined that the carrying amount of
+an asset cannot be fully recovered, an impairment loss is recognized. During
+1998 and 1997, the Company recorded impairment losses of $698,000 and $569,000,
+respectively, for the writedown of equipment which could no longer be used in
+its business to its fair market value. These assets were sold during 1998 at
+their impaired carrying value of $265,000.
+Goodwill
+Goodwill represents the excess of cost of acquired businesses over the fair
+market value of all net assets acquired. Goodwill is being amortized on a
+straight-line basis over an eight-year period. Accumulated amortization totaled
+approximately $14 million and $786,000 as of December 31, 1998 and 1997,
+respectively.
+-30 
+Engineering, Research and Development
+Costs associated with engineering, research and development are expensed as
+incurred.
+Reclassifications
+Certain items on the financial statements have been reclassified from the prior
+year to be comparable with the current year presentation.
+Stock-Based Compensation
+The Company has elected to follow Accounting Principles Board Opinion No. 25,
+Accounting for Stock Issued to Employees APB 25 in accounting for its stock-
+based compensation plans, rather than the alternative fair value accounting
+method provided for under Financial Accounting Standards Board Statement SFAS
+No. 123, Accounting for Stock-Based Compensation, as this alternative requires
+the use of option valuation models that were not developed for use in valuing
+employee stock options. Under APB 25, since the exercise price of options
+granted under these plans equals the market price of the underlying stock on the
+date of grant, no compensation expense is required.
+Accounting Pronouncements
+In June 1998, the Financial Accounting Standards Board issued SFAS No. 133,
+Accounting for Derivative Instruments and Hedging Activities, which
+establishes standards for the recognition, measurement, and reporting of
+derivatives and hedging activities and is effective for the Company year
+ended December 31, 2000. The Company anticipates that the adoption of this new
+accounting standard will not have a material impact on the Company
+consolidated financial statements. 3. ACQUISITIONS
+In February 1996, the Company acquired the net assets of Voice Systems
+Technology Inc. VST, now the Systems Division, a company which develops and
+markets prepaid and voice processing systems, for approximately $25 million
+$500,000 cash and 265,373 shares of common stock. VST had revenues and net
+income for the 11 months ended February 29, 1996 of $21 million and $9,000,
+respectively. The allocation of the purchase price was based on the fair market
+value of assets and liabilities acquired and the excess over those amounts is
+accounted for as goodwill. On January 31, 1996, the Company acquired 175% of
+the stock in Wireless America Corp. WAC for $35,000. WAC marketed and sold
+prepaid equipment in Latin America. On October 23, 1996, the Company acquired an
+additional 625% of the stock of WAC for $916,500. In August 1997, the Company
+paid $14 million to purchase the final 20% interest in WAC and recorded this
+amount as goodwill, which is being amortized over eight years. WAC was
+subsequently merged into VST. The acquisitions have been accounted for under
+the purchase method of accounting and the results of operations have been
+included in the Company results of operations from the date of acquisition.
+The following unaudited pro forma information has been prepared assuming that
+these acquisitions had taken place at the beginning of 1996. The unaudited pro
+forma information includes adjustments for interest expense that would have been
+incurred to finance the purchase, amortization of goodwill resulting from the
+purchase, elimination of the effect of transactions between the Company and
+acquired companies and income taxes. The unaudited pro forma financial
+information is not necessarily indicative of the results of operations as if the
+transactions had been effected on December 31, 1996 unaudited and in thousands,
+except per share data 
+Net revenues                     $51,873
+Net income available to common stockholders     $   1
+Net income per basic and diluted common share    $ 000
+-31 
+4. ACCRUED EXPENSES
+Accrued expenses consist of the following:
+December 31,
+In thousands                 1998      1997
+- 
+Billing adjustments                $ 1,177     $1,216
+Cellular airtime                   1,178      1,544
+Payroll                       2,052      1,183
+Telecommunication costs               1,596       779
+Deferred revenue                    700       426
+Other                        3,421      2,156
+- 
+$10,124     $7,304
+5. SEGMENT REPORTING
+The Company adopted SFAS No. 131, Disclosures about Segments of an Enterprise
+and Related Information in 1998. SFAS No. 131 established standards for
+reporting information about operating segments in annual financial statements
+and requires selected information about operating segments in interim financial
+reports issued to stockholders. It also established standards for related
+disclosures about products and services, and geographic areas. Operating
+segments are defined as components of an enterprise about which separate
+financial information is available that is evaluated regularly by the chief
+operating decision maker, or decision making group, in deciding how to allocate
+resources and in assessing performance. The Company chief operating decision-
+maker is the Chief Executive Officer. The operating segments are managed
+separately because each operating segment represents a strategic business unit
+that offers different products and serves different niches in the wireless
+industry.
+The Company reportable operating segments consist of the Prepaid Wireless
+Services, Teleservices, Roaming Services and Systems Divisions. The Company
+Prepaid Wireless Services Division offers prepaid wireless service that allows
+carriers to access the Company prepaid C/2/C platform, enabling the carriers
+to offer prepaid wireless calling to their subscribers. The Company
+Teleservices Division provides customer support teleservices to wireless
+carrier customers, which allows carriers to outsource all or a portion of
+their customer service activities. The Company Roaming Services Division
+provides carriers with ROAMERplus call processing services which provides
+carriers the ability to generate revenues from subscribers who are not covered
+under traditional roaming agreements by arranging payment for roaming calls. The
+Company Systems Division manufactures and markets voice processing platforms
+to wireless and wireline carriers throughout North and South America with
+enhanced features including prepaid wireless, voice messaging and fax mail
+services. The Systems Division also sells prepaid systems to international
+carriers and manufactures the voice nodes used to support the Company C/2/C
+network. The other segment assets include cash equivalents and short-term
+investments and other assets not allocated to the reportable operating segments.
+The accounting policies of the operating segments are the same as those
+described in the summary of significant accounting policies except that the
+financial results for the Company operating segments have been prepared using
+a management approach. This is consistent with the basis and manner in which the
+Company management internally analyzes financial information for the purposes
+of assisting in making internal operating decisions. The Company evaluates
+performance based on stand-alone operating segment income loss before interest
+and taxes and allocates corporate level operating expenses to the operating
+segments. All revenues are generated from external customers and there are no
+intersegment revenues. Revenues are attributed to geographic areas based on the
+location of the customers to whom the services were provided or the location
+where the systems were shipped. Capital expenditures include equipment purchased
+directly from vendors or acquired through a capital lease. The summary of
+operating segment information is as follows at December 31, in thousands                    -32                     Prepaid
+Wireless          Roaming
+Services  Teleservices  Services   Systems     Other     Total
+1998
+Net revenues             $ 18,624   $ 26,001   $ 28,235   $ 13,622   $   --   $ 86,482
+Depreciation and amortization       6,782     2,473      808     1,182       --    11,245
+Operating income loss         7,236      393     2,962      732       --    3,149
+Assets, net               31,501     10,493     5,518    12,855     31,393    91,760
+Capital expenditures           6,603     1,311      199     1,184     1,219    10,516
+1997
+- 
+Net revenues               7,539     17,009    32,461    11,090       --    68,099
+Depreciation and amortization       2,359     1,745      600      842       --     5,546
+Operating income loss         7,976      562     4,547      478       --    2,389
+Assets, net               29,314     8,126     7,110     9,701     39,134    93,385
+Capital expenditures           24,742     4,154      798     1,006     1,034    31,734
+1996
+- 
+Net revenues                312     13,413    32,234     4,692       --    50,651
+Depreciation and amortization        789      701      263      356       --     2,109
+Operating income loss         5,792      674     4,757      971       --      610
+Assets, net                5,630     5,435     6,966     7,934     25,994    51,959
+Capital expenditures           5,165     1,305      611      945     1,567     9,593
+Information concerning principal geographic areas is as follows in thousands:
+Year ended December 31,
+Net Revenues           1998       1997       1996
+North America
+- 
+United States          $78,044     $59,760     $47,786
+Other               3,565      5,296      2,865
+-  
+Total North America      81,609      65,056      50,651
+South America
+- 
+Total South America       4,873      3,043        -
+Total             $86,482     $68,099     $50,651
+6. INCOME TAXES
+Deferred income taxes reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and the amounts used for income tax purposes. Significant components of
+the Company deferred tax assets and liabilities are as follows                                   December 31,
+1998       1997
+- 
+Deferred tax assets:
+Net operating loss carryforwards              $ 1,724     $  884
+Allowance for doubtful accounts and billing           521
+adjustments                                    747
+Minimum tax credit carryforwards                 111       128
+Accrued expenses and other                   1,222       665
+Asset impairment                         478       200
+- 
+Total deferred tax assets                    4,056      2,624
+Deferred tax liabilities:
+Tax over book depreciation and amortization expense     2,492     1,060
+- 
+Total deferred tax liabilities                 2,492     1,060
+- 
+Net deferred tax assets                    $ 1,564     $ 1,564
+-                     -33 
+The provision benefit for income taxes consists of the following in
+thousands                              Year Ended December 31,
+1998    1997     1996
+Current:
+Federal                            $ --     $ 51
+State                         --      42      83
+- 
+--      42     134
+Deferred:
+Federal                        --     209     423
+State                         --     21      43
+- 
+--     230     466
+- 
+Income tax provision benefit                  $188     $600
+The Company utilized $20 million in 1996 of federal net operating loss
+carryforwards to offset taxable income. The valuation allowance decreased
+$162,000 during 1996 due primarily to the utilization of net operating loss
+carryforwards. At December 31, 1998, the Company has approximately $47 million
+of net operating loss carryforwards for federal income tax return purposes
+available for use in future years that expire beginning in 2006.
+A reconciliation of the statutory rate to the effective rate is as follows                                 Year Ended December 31,
+1998      1997      1996
+- 
+Federal provision benefit at statutory rate       34%      34%      34%
+State income provision benefit, net of federal      6       6       6
+Permanent differences                    16       26       12
+Net operating losses not recognized             24        -        -
+Benefit of net operating loss                -        -       2
+- 
+0 %      14%      50  Income taxes paid were $352,000 in 1996, $83,000 in 1997 and $61,000 in 1998. 7. CAPITAL STOCK
+Common Stock
+On April 26, 1996, the Company authorized 35,000,000 shares of a new class of
+common stock and effected a recapitalization of the Company the 1996
+Recapitalization. All outstanding shares of the Company class A, B, C and D
+common stock were exchanged for an aggregate of Stock. In addition, the terms
+and conditions of the Company three classes of convertible preferred stock
+were modified, without changing the total number of shares of Common Stock into
+which the preferred stock can be converted. The convertible preferred shares
+were converted to 5,004,608 shares of Common Stock upon the closing of the
+initial public offering.
+Public Offerings
+In 1996, the Company sold in its initial public offering IPO 3,918,555 shares
+of its common stock yielding net proceeds to the Company of $498 million. The
+proceeds were used to redeem preferred stock and to repay an existing line of
+credit and capital leases. Upon the closing of the IPO, the Company redeemed
+all 11,871 outstanding shares of redeemable preferred stock at a redemption
+price of $1,000 per share. In addition, the Company paid approximately $45
+million in accreted dividends on the redeemable preferred stock.
+-34 
+In 1997, the Company sold in a public offering 3,000,000 shares of its common
+stock yielding net proceeds to the Company of $358 million. The proceeds are
+being used for capital and other expenditures in connection with the expansion
+of the C/2/C network.
+Preferred Stock
+The Board of Directors are authorized, subject to certain limitations prescribed
+by law, without further shareholder approval, to issue from time to time up to
+an aggregate of 2,000,000 shares of Preferred Stock in one or more series and to
+fix or alter the designations, preferences, rights and any qualifications,
+limitations or restrictions of the shares of each such series thereof, including
+the dividend rights, dividend rates, conversion rights, voting rights, terms of
+redemption including sinking fund provisions, redemption price or prices,
+liquidation preferences and the number of shares constituting any series or
+designations of such series. The issuance of Preferred Stock may have the effect
+of delaying, deferring or preventing a change of control of the Company. The
+Company has no present plans to issue any shares of Preferred Stock.
+Stock Option Plans
+The Company 1996 and 1998 Stock Option Plans the Plans were adopted by the
+Board of Directors and approved by the stockholders of the Company in 1996 and
+1998, respectively. The Plans provide for the grant of stock options to
+employees, officers and directors, consultants and advisors to, the Company and
+its subsidiaries. Under the Plans, the Company may grant options that are
+intended to qualify as incentive stock options within the meaning of Section 422
+of the Internal Revenue Code of 1986, as amended the Code incentive stock
+options, or options not intended to qualify as incentive stock options non-
+statutory options. Incentive stock options may only be granted to employees
+of the Company. A total of 1,264,792 and 600,000 shares of Common Stock may be
+issued upon the exercise of options granted under the 1996 and 1998 Stock Option
+Plans, respectively. The maximum number of shares with respect to which options
+may be granted to any employee under the 1996 and 1998 Stock Option Plans shall
+not exceed 200,000 and 60,000 shares of Common Stock, respectively, during any
+calendar year. All options granted have 10 year terms and generally vest and
+become exercisable over five years.
+In 1996, the Company granted non-qualified options to purchase 653,278 and
+93,551 shares of common stock at exercise prices of $575 and $1000,
+respectively. In 1998, the Company granted 400,000 non-qualified options to
+purchase shares of common stock at an exercise price of $706. The exercise
+prices of all non-qualified options were equal to the fair market value as
+determined by the Company on the date of grant.
+Pro forma information regarding net income and earnings per share is required by
+Statement 123, and has been determined as if the Company had accounted for its
+employee stock options under the fair value method of that statement. The fair
+value for these options was estimated at the date of grant using a Black-Scholes
+option pricing model with the following weighted average assumptions for 1997
+and 1998: risk-free interest rates of 64% and 54% respectively, no dividend
+yield, the volatility factor of the expected market price of the Company
+common stock was 05 and a weighted-average expected life of the option of 4 to
+5 years.
+The Black-Scholes option valuation model was developed for use in estimating the
+fair value of traded options which have no vesting restrictions and are fully
+transferable. In addition, option valuation models require the input of highly
+subjective assumptions including the expected stock price volatility. Because
+the Company employee stock options have characteristics significantly
+different from those of traded options, and because changes in the subjective
+input assumptions can materially affect the fair value estimate, in management
+opinion, the existing models do not necessarily provide a reliable single
+measure of the fair value of its employee stock options.
+For purposes of pro forma disclosures, the estimated fair value of the options
+is amortized to expense over the options' vesting period. The Company pro
+forma information follows in thousands, except for per share information                    -35                               December 31,
+1998       1997        1996
+Pro forma net loss            $4,034     $3,474      $1,086
+Pro forma basic net loss per share    $ 025     $ 025      $ 013
+Pro forma diluted net loss per share   $ 025     $ 025      $ 010
+Stock option information is as follows                        1998            1997            1996
+Weighted          Weighted          Weighted
+Average          Average          Average
+Exercise          Exercise          Exercise
+Options    Price    Options    Price    Options    Price
+Outstanding -- beginning of year  1,417,654    $674   1,666,359   $ 886    355,758   $ 014
+Granted                966,500    733   1,124,342    587   1,548,329    976
+Exercised              143,888    400    538,630    462    201,228    014
+Canceled               304,290    900    834,417   1118    36,500   1361
+Outstanding--end of year      1,935,976    $690   1,417,654   $ 674   1,666,359   $ 886
+The following table summarizes the stock options outstanding and exercisable as
+of December 31, 1998  Options      Options      Exercise
+Exercisable     Outstanding      Price
+--        5,555     $   014
+190,476       621,410      475 488
+316,928       752,278      500 706
+121,033       556,733     $725- 1400 
+- 
+628,437      1,935,976
+There are 439,649 options available for grant at December 31, 1998. There were
+417,915 options exercisable at December 31, 1997 at a weighted-average exercise
+price of $644. The weighted-average fair value of options granted during 1997
+and 1998 was $344 and $324, respectively. The weighted-average contractual
+life of options outstanding at December 31, 1997 and 1998 was 92 and 86 years,
+respectively.
+Employee Stock Purchase Plan
+The Company 1996 Employee Stock Purchase Plan the Purchase Plan was
+adopted by the Board of Directors and approved by the shareholders of the
+Company in April 1996. The Purchase Plan authorizes the issuance of up to a
+total of 225,000 shares of Common Stock to participating employees.
+All full-time employees of the Company who have been employed by the Company for
+a minimum of twelve months, including directors of the Company who are
+employees, are eligible to participate in the Purchase Plan. On the first day of
+a designated payroll deduction period the Offering Period, the Company will
+grant to each eligible employee who has elected to participate in the Purchase
+Plan an option to purchase shares of Common Stock as follows: the employee may
+authorize an amount up to a maximum of 10% of such employee regular pay to
+be deducted by the Company from such pay during the Offering Period. On the last
+day of the Offering Period, the employee is deemed to have exercised the option,
+at the option exercise price, to the extent of accumulated payroll deductions.
+Under the terms of the Purchase Plan, the option price is an amount equal to 90%
+of the fair market value per share of the Common Stock on either the first day
+or the last day of the Offering Period, whichever is lower. In no event may an
+employee purchase in any one Offering Period a number of shares which has an
+aggregate market value determined on the last day of the Offering Period in
+excess of $25,000. The Compensation Committee may, in its discretion, choose an
+Offering Period of 12 months or less for each of the Offerings and choose a
+different Offering Period for each Offering.
+-36 
+8. NET INCOME LOSS PER SHARE
+The following table sets forth the computation of basic and diluted net income
+loss per share:
+Year Ended December 31,
+In thousands                    1998       1997      1996
+Numerator for basic and fully diluted earnings
+per share:
+Net income loss available to common shareholder $ 1,800    $ 1,116    $  148
+Denominator:
+Denominator for basic earnings per share
+weighted average shares               16,274      14,007     8,352
+- 
+Effect of dilutive securities:
+Employee stock options                  --        --      238
+Conversion of preferred stock              --        --     2,294
+- 
+Dilutive potential common shares             --        --     2,532
+- 
+Denominator for diluted earnings per share
+adjusted weighted average shares and assumed
+Conversion                      16,274      14,007     10,884
+Basic net income loss available to common
+shareholder per common share            $ 011    $  008    $ 002
+Diluted net income loss available to common
+shareholder per common share            $ 011      008     001
+Options to purchase 1,935,976 shares of common stock were outstanding as of
+December 31, 1998 and were not included in the computation of diluted earnings
+per share because of the Company net losses for those years. 9. COMMITMENTS
+Leases
+The Company entered into a capital lease for $15 million in 1996 which was
+fully repaid in 1996 and entered into a capital lease for $32 million in 1997.
+The accumulated amortization of the assets under capital lease was $271,000 and
+$886,000 at December 31, 1997 and 1998, respectively. The Company also has non-
+cancelable operating lease commitments for office space, call center facilities,
+equipment and personnel. Rent and call center facility and equipment expense
+approximated $881,000 in 1996, $12 million in 1997, and $22 million in 1998.
+-37 
+Future minimum payments under non-cancelable capital leases and operating leases
+are as follows in thousands:
+Capital   Operating
+Year ending December 31,            Leases    leases
+1999                       $1,145    $ 5,165
+2000                        562     3,446
+2001                         --     2,814
+2002                         --     2,641
+2003                         --     1,543
+- 
+Total minimum lease payments           1,707    $15,609
+Amounts representing interest            109
+- 
+Present value of net minimum payments       1,598
+Current portion                  1,052
+- 
+$ 546
+The operating leases include $24 million per year payable through May 2003 for
+a call center facility and equipment. The Company has the option to buyout the
+lease for the call center facility and equipment beginning in May 1999 for $59
+million.
+Significant Contracts
+In 1998, the Company entered into an agreement with a vendor to jointly develop
+two products for the Company. The Company will pay this vendor $17 million for
+the development effort and the exclusive license of the first product. In
+addition, the Company is required to pay $9 million for the second product
+during the next three years.
+10. RELATED-PARTY TRANSACTIONS
+Pursuant to a management agreement, the Company paid annual fees of $252,000 in
+1996 to a management company affiliated with certain shareholders of the
+Company. This amount represents the payroll and certain benefit costs of six
+senior management personnel responsible for the operations of the Company.
+The management agreement was terminated in March 1996 and the employees of the
+management company became employees of the Company. The management fees
+previously incurred by the Company under the management agreement closely
+approximate the actual payroll and related benefits currently being directly
+incurred by the Company, and the Company believes that these amounts are
+reasonable and comparable to those that would have been incurred with an
+unrelated third party. Additionally, the Company leased office space from
+another company affiliated with certain shareholders of the Company under a
+leasing arrangement which was terminated in August 1996. The Company recorded
+rent expense of $40,000 in 1996 in connection with this lease. Another company,
+affiliated with certain shareholders of the Company, received $462,000 in 1996
+in connection with the repurchase of redeemable preferred stock of the
+affiliated company investment and its accreted dividends.
+-38 
+Report of Ernst & Young LLP, Independent Auditors Board of Directors and Shareholders
+Boston Communications Group, Inc.
+We have audited the accompanying consolidated balance sheets of Boston
+Communications Group, Inc. and subsidiaries as of December 31, 1998 and 1997 and
+the related consolidated statements of operations, redeemable preferred stock
+and shareholders' equity, and cash flows for each of the three years in the
+period ended December 31, 1998. Our audits also included the financial
+statements schedule listed in the Index at 

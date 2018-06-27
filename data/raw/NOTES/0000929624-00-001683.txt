@@ -1,0 +1,1296 @@
+Item 8. Consolidated Financial Statements and Supplementary Data
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+The following consolidated financial statements of Netopia, Inc. are filed
+as part of this Report on Form 10-K                                      Page
+Consolidated Financial Statements:
+Independent Auditors'  47
+Consolidated Balance Sheets at September 30, 2000 and 1999. 48
+Consolidated Statements of Operations for the fiscal years ended
+September 30, 2000, 1999 and  49
+Consolidated Statements of Stockholders' Equity for the fiscal years
+ended September 30,2000, 1999 and  50
+Consolidated Statements of Cash Flows for the fiscal years ended
+September 30, 2000, 1999 and  51
+Notes to Consolidated Financial  52
+Financial Statement Schedules:
+Valuation and Qualifying  72                    46              INDEPENDENT AUDITORS' REPORT
+The Board of Directors
+Netopia, Inc. and subsidiaries  We have audited the consolidated financial statements of Netopia, Inc. and
+subsidiaries as listed in the accompanying index. In connection with our audits
+of the consolidated financial statements, we have also audited the financial
+statement schedule as listed in the accompanying index. These consolidated
+financial statements and financial statement schedule are the responsibility of
+the Company management. Our responsibility is to express an opinion on these
+consolidated financial statements and financial statement schedule based on our
+audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Netopia,
+Inc. and subsidiaries as of September 30, 2000 and 1999 and the results of
+their operations and their cash flows for each of the years in the three-year
+period ended September 30, 2000 in conformity with auditing principles
+generally accepted in the United States of America. Also in our opinion, the
+related financial statement schedule, when considered in relation to the basic
+consolidated financial statements taken as a whole, presents fairly, in all
+material respects, the information set forth herein.
+KPMG LLP
+San Francisco, California
+October 23, 2000
+47             NETOPIA, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS                                September 30,
+2000   1999
+in thousands
+ASSETS
+Current assets:
+Cash and cash  $ 37,839 $ 61,381
+Short-term   21,938   8,102
+Trade accounts receivable less allowance for doubtful
+accounts and returns of $3,258 and $796, respectively.  15,646   9,852
+Inventories,   10,284   3,681
+Prepaid expenses and other current assets.  2,341   2,724
+Total current   88,048  85,740
+Royalties    --    377
+Furniture, fixtures and equipment, net.  4,469   2,403
+Intangible assets,   31,016   2,362
+Deposits and other   4,840   5,087
+$128,373 $ 95,969
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts  $ 8,547 $ 5,258
+Accrued   2,756   2,170
+Accrued   1,332   1,564
+Deferred   2,215   1,343
+Other current    906    11
+Total current   15,756  10,346
+Long-term    328    544
+Total   16,084  10,890
+Commitments and contingencies
+Stockholders' equity:
+Common stock: $0001 par value, 25,000,000 shares
+authorized; 17,587,615 and 15,519,198 shares issued and
+outstanding at September 30, 2000 and 1999,
+17    15
+Additional paid-in  142,857  99,978
+Accumulated  30,079 14,942
+Accumulated other comprehensive income loss.   506    28
+Total stockholders'  112,289  85,079
+$128,373 $ 95,969
+See accompanying notes to consolidated financial statements.
+48             NETOPIA, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS                            Fiscal years ended
+September 30,
+2000   1999   1998
+in thousands, except for
+per share amounts
+Revenues:
+Internet  $ 65,546 $24,460 $ 10,885
+Web platform licenses and services.  24,660  19,691  13,951
+90,206  44,151  24,836
+Cost of revenues:
+Internet   46,582  15,597   7,064
+Web platform licenses and services.   697   646    891
+47,279  16,243   7,955
+Gross   42,927  27,908  16,881
+Operating expenses:
+Research and   13,324  9,211   7,201
+Selling and   25,842  20,221  14,404
+General and   6,554  3,654   3,380
+Acquired in-process research and development.  8,658  4,205     Amortization of goodwill and other intangible
+9,746   543                                   Total operating   64,124  37,834  24,985
+Operating  21,197 9,926  8,104
+Other income,   3,579  2,066   2,222
+Loss from continuing operations before income
+17,618 7,860  5,882
+Income tax    --    --   2,155
+Loss from continuing operations. 17,618 7,860  8,037
+Discontinued operations:
+Income from discontinued operations, net of
+--    --    602
+Gain loss on sale of discontinued operations,
+net of   2,481   --   3,098
+Net  $15,137 $7,860 $10,533
+Comprehensive loss:
+Net  $15,137 $7,860 $10,533
+Other comprehensive income loss.   534   28                                   Total comprehensive loss. $15,671 $7,832 $10,533
+Per share data, continuing operations:
+Basic and diluted loss per share. $ 105 $ 060 $ 069
+Common shares used in the per share
+16,830  13,092  11,687
+Per share data, net loss:
+Basic and diluted net loss per share. $ 090 $ 060 $ 090
+Common shares used in the per share
+16,830  13,092  11,687
+See accompanying notes to consolidated financial statements.
+49             NETOPIA, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY                                   Accumulated
+Common stock  Additional         other   Retained    Total
+paid-in   Deferred  comprehensive earnings  stockholders'
+Shares  Amount capital  compensation  income   deficit   equity
+in thousands, except per share amounts
+Balances, September 30,
+1997. 11,492,732 $ 12  $ 50,568   $ 54    $ --   $ 3,451   $ 53,977
+Exercise of stock
+options.   308,019  --     729    --      --      --      729
+Issuance of common stock
+under Employee Stock
+Purchase Plan.   153,157  --     604    --      --      --      604
+Amortization of deferred
+compensation.     --  --     --     24      --      --      24
+Forfeiture of deferred
+compensation.     --  --     30    30      --      --      Net loss.     --  --     --    --      --    10,533   10,533
+Balances, September 30,
+1998. 11,953,908  12   51,871    --      --    7,082   44,801
+Exercise of stock
+options.   626,013   1   2,834    --      --      --     2,835
+Acceleration and
+extension
+of stock options.     --  --     176    --      --      --      176
+Issuance of common stock
+under secondary
+offering net of share
+issuance costs of $30
+million.  2,330,000   2   41,315    --      --      --    41,317
+Net unrealized
+investment gain.     --  --     --    --       28     --      28
+Issuance of common stock
+for acquisitions.   409,556  --    2,811    --      --      --     2,811
+Issuance of common stock
+under Employee Stock
+Purchase Plan.   199,721  --     855    --      --      --      855
+Issuance of non-employee
+stock options.     --  --     116    --      --      --      116
+Net loss.     --  --     --    --      --    7,860   7,860
+Balances, September 30,
+1999. 15,519,198  15   99,978    --       28   14,942   85,079
+Exercise of stock
+options.  1,203,369   1   5,794    --      --      --     5,795
+Issuance of common stock
+under Employee Stock
+Purchase Plan.   130,306  --    1,738    --      --      --     1,738
+Issuance of common stock
+for acquisitions.   677,848   1   35,386    --      --      --    35,387
+Exercise of stock
+warrants.   56,875  --     --    --      --      --      Costs related to
+issuance of common
+stock under secondary
+offering.     --  --     39   --      --      --      39
+Net unrealized
+investment loss.     --  --     --    --      534     --     534
+Net loss.     --  --     --    --      --    15,137   15,137
+Balances, September 30,
+2000. 17,587,615 $ 17  $142,857   $ --     $506  $30,079  $112,289
+See accompanying notes to consolidated financial statements
+50             NETOPIA, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS                            Fiscal years ended
+September 30,
+2000   1999   1998
+in thousands
+Cash flows from operating activities:
+Net  $15,137 $7,860 $10,533
+Adjustments to reconcile net loss to net cash
+provided by used in operating activities:
+Depreciation and   12,324  2,990    995
+Deferred income     --    --   2,869
+Amortization of deferred compensation.    --    --     24
+Noncash compensation for services.    --    292     Charge for in-process research and development.   8,658  4,205     Changes in allowance for doubtful accounts and
+returns on accounts receivable.   2,462   179    40
+Changes in operating assets and liabilities, net
+of effects of acquisition:
+Trade accounts   8,255 5,673  1,549
+6,603 2,090   618
+Prepaid expenses and other current assets.    383   470   443
+Deposits and other assets.   1,035   637   127
+Accounts payable and accrued liabilities.   3,643  1,133  5,310
+Deferred     748   627    67
+Other     803   94   155
+Net cash provided by used in operating
+61  8,390   926
+Cash flows from investing activities:
+Purchase of furniture, fixtures and equipment.  2,914 1,625   711
+Acquisition of trademark license.    --    --   1,000
+Capitalization of software development costs.   679  656   237
+Proceeds from sale of discontinued operations.    --    --   2,000
+Acquisition of long term investment.  2,000 1,000    Acquisition of   11,669 4,298    Purchase of     --  1,650    Purchase of short-term investments.  62,025 19,472 47,706
+Proceeds from the sale of short-term
+48,190  34,221  52,047
+Net cash provided by used in investing
+31,097  5,520   4,393
+Cash flows from financing activities:
+Proceeds from the issuance of common stock, net.   7,494  45,007   1,333
+Net cash provided by financing activities.   7,494  45,007   1,333
+Net increase decrease in cash and cash
+23,542 42,137   4,800
+Cash and cash equivalents, beginning of year.  61,381  19,244  14,444
+Cash and cash equivalents, end of year. $ 37,839 $61,381 $ 19,244
+Supplemental disclosures of cash flow activities:
+Income taxes  $  --  $  --  $  193
+Supplemental disclosures of noncash investing and
+financing activities:
+Issuance of common stock for acquisition of
+intangible  $ 35,387 $ 2,811 $                                 Note receivable from sale of discontinued
+$  --  $  --  $  888
+Royalties receivable from sale of discontinued
+$  --  $  --  $ 1,782
+Note issued for other assets. $  --  $  --  $  800
+Warrant received from sale of discontinued
+$  --  $  --  $  189
+See accompanying notes to consolidated financial statements
+51             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1 Nature of Business and Summary of Significant Accounting Policies
+Nature of Business
+Netopia the Company provides Internet and electronic commerce
+infrastructure that enables small and medium size businesses to connect to the
+Internet, establish and enhance their presence, and conduct business and
+electronic commerce on the Web. The Company offers high-speed, multi-user,
+plug-and-play Internet equipment products and Web platforms for creating and
+hosting Web sites, creating and hosting electronic commerce stores, and
+conducting real-time Internet communications.
+Principles of Consolidation
+The accompanying consolidated financial statements include the accounts of
+the Company and its wholly-owned subsidiaries located in France, Germany,
+Australia, and the Netherlands. All significant intercompany balances and
+transactions have been eliminated in consolidation.
+Cash Equivalents and Short-Term Investments
+Cash equivalents consist of instruments with purchased maturities of 90 days
+or less. Certain cash equivalents and all of the Company investments are
+classified as available-for-sale. The securities are carried at fair value,
+which approximates cost.
+The amortized cost of available-for-sale debt securities is adjusted for
+amortization of premiums and accretion of discounts to maturity. Such
+amortization is included in other income, net. Realized gains and losses, and
+declines in value judged to be other than temporary on available-for-sale
+securities are included in other income, net. The cost of securities sold is
+based on the specific identification method. Interest and dividends on
+securities classified as available-for-sale are included in other income, net.
+Cash equivalents and short-term investments classified as available-for-sale
+as of September 30, 2000 and 1999, consisted of the following in thousands                                September 30,
+2000  1999
+U.S. Treasury Securities and obligations of U.S.
+Government  $  -- $  996
+Money market    478     Corporate  22,370  3,015
+Commercial  36,713 49,822
+$59,561 $53,833
+The available-for-sale securities as of September 30, 2000 and 1999 were all
+due in one year or less. As of September 30, 2000, the Company had an
+unrealized loss on short-term investments of approximately $506,000. Expected
+maturities may differ from contractual maturities because issuers of the
+securities may have the right to prepay obligations without penalties.
+Revenue Recognition
+The Company revenue recognition policies are in accordance with Statement
+of Position SOP 97-2, Software Revenue Recognition, as amended. In general,
+software license revenues are recognized when a non-cancelable license
+agreement has been signed and the customer acknowledges an unconditional
+obligation to
+52             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued
+pay, the software product has been delivered, there are no uncertainties
+surrounding product acceptance, the fees are fixed and determinable, and
+collection is considered probable; professional services revenues are
+recognized as such services are performed; and maintenance revenues, including
+revenues bundled with software agreements which entitle the customers to
+technical support and future unspecified enhancements to the Company
+products, are deferred and recognized ratably over the related contract period,
+generally twelve months. Revenues recognized from multiple-element software
+arrangements are allocated to each element of the arrangement based on the fair
+values of the elements, such as software products, upgrades, enhancements, post
+contract customer support, installation, or training. The determination of fair
+value is based on objective evidence which is specific to the Company.
+The Company records unearned revenue for software arrangements when cash has
+been received from the customer and the arrangement does not qualify for
+revenue recognition under the Company revenue recognition policy. The Company
+records accounts receivable for software arrangements when the arrangement
+qualifies for revenue recognition and cash or other consideration has not been
+received from the customer.
+In December 1998, AcSEC issued SOP 98-9, Software Revenue Recognition, With
+Respect to Certain Transactions, which requires recognition of revenue using
+the residual method in a multiple-element arrangement when fair value does
+not exist for one or more of the delivered elements in the arrangement. Under
+the residual method, the total fair value of the undelivered elements is
+deferred and subsequently recognized in accordance with SOP 97-2. There was no
+material change to the Company accounting for revenues as a result of the
+provisions of SOP 98-9.
+Concentrations of Credit Risk
+Financial instruments that potentially expose the Company to concentrations
+of credit risk principally consist of cash, cash equivalents, short-term
+investments, accounts receivable, accounts payable and accrued liabilities.
+The Company limits the amounts invested in any one type of investment. The
+Company maintains its cash investments with two financial institutions.
+Management believes the financial risks associated with such deposits are
+minimal.
+The Company sells its products primarily through distributors and resellers.
+Sales are generally not collateralized, credit evaluations are performed as
+appropriate, and allowances are provided for estimated credit losses.
+Historically, the Company has not experienced significant losses on trade
+receivables from any particular customer, industry, or geographic region.
+However, during the fiscal fourth quarter of 2000, the Company fully reserved
+$19 million of outstanding accounts receivable owed by one Competitive Local
+Exchange CLEC customer.
+Inventories
+Inventories are stated at the lower of cost or market. Cost is determined by
+the first-in, first-out FIFO method.
+Furniture, Fixtures, and Equipment
+Furniture, fixtures, and equipment are stated at cost, net of accumulated
+depreciation. Depreciation is computed using the straight-line method over the
+shorter of estimated useful lives or related lease terms ranging from one to
+seven years.
+53             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued Impairment of Long-Lived Assets, Including Identifiable Intangibles
+The Company evaluates long-lived assets and certain identifiable intangibles
+for impairment whenever events or changes in circumstances indicate that the
+carrying amount of the asset may not be recoverable. Recoverability of assets
+to be held and used is measured by a comparison of the carrying amount of an
+asset to future net cash flows expected to be generated by the asset. If such
+assets are considered to be impaired, the impairment to be recognized is
+measured by the amount by which the carrying amount exceeds the fair value of
+the assets. Assets to be disposed of are reported at the lower of carrying
+values or fair values, less costs of disposal.
+Intangible assets consists of developed and core technology, assembled
+workforce and a non-compete agreement related to the Company acquisitions of
+WebOrder, StarNet, Serus and netOctopus. Goodwill is amortized over a four year
+period. Intangible assets are being amortized over their estimated useful life
+of approximately three years.
+Software Development Costs
+Research and development costs include costs related to software products
+that are expensed as incurred until the technological feasibility of the
+product has been established. The Company has defined technological feasibility
+as completion of a working model. After technological feasibility is
+established, any additional software development costs are capitalized in
+accordance with SFAS No. 86, Accounting for the Costs of Computer Software to
+Be Sold, Leased, or Otherwise Marketed. Product development costs capitalized
+are amortized over a future period.
+Amortization of capitalized product development costs begins when the
+products are available for general release to customers, and is computed on a
+product-by-product basis as the greater of: i the ratio of current gross
+revenue for a product to the total of current and anticipated future gross
+revenues for the product; or ii the straight-line method over the remaining
+estimated economic life of the product, which is generally two years. All other
+research and development expenditures are charged to research and development
+expense in the period incurred. During fiscal 2000, 1999 and 1998, $679,000 656,000 and $237,000, respectively, of product development cost incurred
+subsequent to delivery of a working model, under a development agreement with a
+third party, have been capitalized.
+Advertising Costs
+The Company records advertising costs in accordance with SOP 93-7, Reporting
+On Advertising Costs. SOP 93-7 permits the capitalization and amortization of
+direct response advertising costs when persuasive historical evidence exists
+that allows the entity to reliably predict future net revenues that will be
+obtained as a result of the advertising. Advertising expense was $707,000, $17
+million and $13 million for fiscal 2000, 1999 and 1998, respectively. For the
+fiscal years ended September 30, 2000, 1999 and 1998, the Company did not
+capitalize advertising costs.
+Income Taxes
+Deferred tax assets and liabilities are recognized for the future tax
+consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured using enacted tax rates
+expected to apply to taxable income in the years that those temporary
+differences are expected to be recovered or settled. The effect on deferred tax
+assets and liabilities of a change in tax rates is recognized in income in the
+period that includes the enactment date. A valuation allowance is provided to
+the extent such deferred tax assets may not be realized.
+54             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued Investments
+The Company accounts for investments in equity securities in accordance with
+the provisions of Statement of Financial Accounting Standards SFAS No. 115,
+Accounting for Certain Investments in Debt and Equity Securities. Marketable
+securities are composed primarily of equity securities. The Company has equity
+securities in one publicly traded Company and in two privately held companies.
+The Company classifies all of its equity securities as available-for-sale.
+These securities are carried at fair value, with the unrealized gains and
+losses, net of income taxes, reported as a component of comprehensive income
+loss.
+Stock-Based Compensation
+The Company has elected to continue to use the intrinsic value-based method
+as allowed under Accounting Principles Board APB Opinion No. 25, Accounting
+for Stock Issued to Employees, to account for all of its stock-based employee
+compensation plans. Pursuant to SFAS No. 123, Accounting for Stock-Based
+Compensation, the Company is required to disclose the pro forma effects on
+operating results as if the Company had elected to use the fair value approach
+to account for all its stock-based employee compensation plans.
+Use of Estimates
+The preparation of the consolidated financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosures of contingent assets and liabilities at the date of the
+consolidated financial statements and the recorded amounts of revenues and
+expenses during the reporting period. Actual results could differ from those
+estimates.
+Per Share Calculations
+Basic net loss per share EPS is based on the weighted average number of
+shares of common stock outstanding during the period. Diluted net loss per
+share is based on the weighted average number of shares of common stock
+outstanding during the period and dilutive common equivalent shares from
+options and warrants outstanding during the period. No common equivalent shares
+are included for loss periods as they would be anti-dilutive. Dilutive common
+equivalent shares consist of options and warrants.
+Potentially dilutive common shares have been excluded from the computation
+of diluted EPS for fiscal 2000, 1999 and 1998 since their effect on EPS is
+antidilutive due to the losses incurred in each period. Potentially dilutive
+common shares which were excluded from the computation of diluted EPS consisted
+of options to purchase common stock totaling 4,019,480 in fiscal 2000;
+4,040,520 in fiscal 1999; 3,520,899 in fiscal 1998, and warrants to purchase
+common stock totaling 60,000 in each of fiscal 1999 and 1998.
+Comprehensive Income Loss
+The Company adopted SFAS No. 130, Reporting Comprehensive Income in April
+1999. SFAS No. 130 establishes standards for the reporting and disclosure of
+comprehensive income loss and its components. Comprehensive income loss
+includes all changes in equity during a period except those resulting from
+investments by or distributions to owners.
+For the years ended September 30 2000 and 1999, comprehensive income /
+loss was $534,000 and $28,000, respectively. There was no comprehensive
+income / loss for the fiscal year ended September 30, 1998. The components of
+other comprehensive income for the fiscal years ended September 30, 2000 and
+1999 relate solely to unrealized gains and losses on available-for-sale
+investments.
+55             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued Recent Accounting Pronouncements
+In June 1998, the Financial Accounting Standards Board FASB issued SFAS
+No. 133, Accounting for Derivative and Hedging Activities. SFAS No. 133
+establishes accounting and reporting standards for derivative instruments
+including derivative instruments embedded in other contracts and for hedging
+activities. SFAS No. 133, as amended by SFAS No. 137, is effective for all
+fiscal quarters of fiscal years beginning after June 15, 2000. The Company will
+adopt SFAS 133 in our first fiscal quarter of 2001 and the Company does not
+expect a material effect on its consolidated financial position results of
+operations.
+In December 1999, the SEC issued Staff Accounting Bulletin SAB 101,
+Revenue Recognition in Financial Statements. SAB 101 provides guidance on
+applying generally accepted accounting principles to revenue recognition issues
+in financial statements. The Company will adopt SAB 101 in fiscal 2001 and the
+Company is evaluating the effect, if any, that such adoption may have on its
+consolidated results of operations and financial position.
+In March 2000, the FASB issued Interpretation FIN No44, Accounting for
+Certain Transactions Involving Stock Compensation--an Interpretation of
+Accounting Principles Board APB No. 25. APB No. 25 clarifies a the definition
+of employee for purposes of applying APB No. 25; b the criteria for
+determining whether a plan qualifies as a noncompensatory plan; c the
+accounting consequences of various modifications to the terms of a previously
+fixed stock option or award; and d the accounting for an exchange of stock
+compensation awards in a business compensation. The Company adopted FIN No. 44
+on July 1, 2000 which did not have a material effect on the Company
+consolidated results of operations and financial position.
+2 Acquisitions
+WebOrder
+On March 23, 2000, the Company acquired all the outstanding common and
+preferred stock of WebOrder, a California corporation, in a merger transaction
+in which WebOrder merged into WO Merger Corporation, a wholly owned subsidiary
+formed in connection with the transaction. WebOrder was a developer of e-
+commerce infrastructure for small and medium size businesses. WebOrder Smart
+Commerce System offers e-commerce solutions to on-line businesses including the
+ability to manage order processing, and the ability to maintain records of
+customer transactions flowing through a merchant e-store.
+The Company accounted for the transaction under the purchase method. The
+aggregate purchase price of the transaction was approximately $207 million,
+based on the consideration paid at closing. The final purchase price is
+dependent on potential earnout payments as discussed below. The aggregate
+purchase price includes. $16 million in cash paid on the closing date of the transaction. 233,119 shares of our common stock issued on the closing date. A series of potential earnout payments paid in cash and common stock
+after the closing date if certain revenue milestones are achieved. These
+earnout opportunities will be added to and included in the purchase price
+for accounting purposes when the earnouts have been achieved and
+additional consideration is distributable. At September 30, 2000, no
+milestones had been achieved. The substitution of stock options to purchase the Company common stock
+in replacement of the WebOrder options held by WebOrder former
+employees, who joined Netopia after the closing, valued at approximately
+$21 million. The Company used the Black-Scholes method to value the
+options issued using the following assumptions: volatility of 101   expected life of 5 years, interest rate of 57%, and no dividends; and. Transaction costs of approximately $975,000 which includes legal fees,
+accounting fees, and fees for other related professional services.
+56             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  Approximately 15,695 shares of the Company common stock will be held in
+escrow for one year after the closing to satisfy WebOrder indemnification
+obligations.
+The excess purchase price over the net book value of the assets acquired was
+approximately $201 million. The transaction resulted in goodwill and other
+intangible assets of approximately $171 million, which is being amortized over
+four and three years, respectively and a charge for acquired in-process
+research and development of approximately $30 million. During the fiscal year
+ended September 30, 2000, the Company amortized $24 million in goodwill and
+other intangible assets related to the acquisition of WebOrder.
+Both cost and income approaches were used to appraise the value of the
+business and projects acquired. Such methods take into consideration
+replacement costs of assets acquired, the stage of completion of the projects
+and estimates related to expected future revenues, expenses and cash flows
+which are then discounted back to present day amounts. Based upon these
+estimates, material net cash flows from the acquired business are expected to
+occur during the Company first quarter of 2001. These cash flows were
+discounted using a weighted average discount rate of 42%. Based upon the
+expenses incurred and the development time invested in the products prior to
+the acquisition and the estimated expenses and development time to complete the
+products, the Company determined the products purchased in aggregate, including
+products under development and completed products, to be approximately 82%
+complete at the time of acquisition. The Company completed the in-process
+research and development during the fiscal fourth quarter of 2000 and expended
+approximately $326,000 to complete the in-process research and development.
+All of WebOrder former full time employees became employees of Netopia.
+WebOrder founder and one other key shareholder/employee entered into non-
+competition agreements in connection with the acquisition.
+StarNet Technologies
+On October 13, 1999, the Company acquired StarNet Technologies, Inc.,
+StarNet, a California corporation, in a merger transaction in which StarNet
+merged into a wholly owned subsidiary. StarNet had been developing a voice
+channel technology architecture that allows the transmission of voice lines
+over a digital subscriber line along with the simultaneous transmission of
+standard data packets.
+The Company accounted for the transaction under the purchase method. The
+aggregate consideration constituting the purchase price was approximately $275
+million at closing and may increase by up to an additional $49 million
+depending on potential earnout payments. The aggregate consideration included. $84 million in cash paid on the closing date of the transaction. 447,852 shares of our common stock issued on the closing date. A series of potential cash earnout payments aggregating up to
+approximately $59 million at various times after the closing date if
+certain technical and revenue milestones are achieved. These earnout
+opportunities will be included in the purchase price for accounting
+purposes when the milestones are achieved and additional consideration is
+distributable. At the acquisition date, we had deemed probable and
+recorded approximately $10 million in earnout payments. During the three
+months ended June 30, 2000, the Company determined that the milestones
+for the $10 million potential earnout payment would not be met and
+accordingly, reduced the purchase price and amortization of goodwill
+relating to the purchase of StarNet by such amount. As of September 30,
+2000, no earnouts have been achieved.
+57             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued. The substitution of stock options to purchase the Company common stock
+in replacement of the StarNet options held by StarNet former employee,
+who joined Netopia after the closing, valued at approximately $14
+million. The Company used the Black-Scholes method to value the options
+issued using the following assumptions: volatility of 101%, expected life
+of 4 years, interest rate of 49%; and no dividends; and. Transaction costs of approximately $820,000 which includes legal fees,
+accounting fees, fees paid for an independent fairness opinion, and fees
+for other services.
+Approximately 30,673 shares of common stock were held in escrow for a period
+of time after the closing to satisfy StarNet indemnification obligations
+under the definitive acquisition agreements. During the three months ended June
+30, 2000, a portion of these shares were released from the escrow to Netopia to
+satisfy Netopia indemnification claims, and the remaining shares were
+released from escrow to StarNet former shareholders.
+The acquisition has been accounted for as a purchase and resulted in
+goodwill and other intangible assets of approximately $224 million at closing
+which is being amortized over four and three years, respectively, and a charge
+for acquired in-process research and development of $57 million. During the
+fiscal year ended September 30, 2000, the Company amortized $66 million in
+goodwill and other intangible assets related to the purchase of StarNet.
+The Company used the income approach to appraise the value of the business
+and projects acquired. Such method takes into consideration the stage of
+completion of the projects and estimates related to expected future revenues,
+expenses and cash flows which are then discounted back to present day amounts.
+Based upon these estimates, material net cash flows from the acquired business
+were expected to occur during the fiscal fourth quarter of 2000. These cash
+flows were discounted using a weighted average discount rate of 20%. Based upon
+the expenses incurred and the development time invested in the products prior
+to the acquisition and the estimated expenses and development time to complete
+the products, the Company determined the products purchased in aggregate,
+including products under development and completed products, to be
+approximately 73% complete at the time of acquisition. The Company expects to
+complete the in-process research and development in the second fiscal quarter
+of 2001 and the Company estimates the cost to complete the in-process research
+and development to be approximately $287,000.
+All of StarNet former full time employees became employees of Netopia.
+Each of StarNet founders, and certain other key employees, entered into non-
+competition agreements in connection with the acquisition.
+The following summary, prepared on an unaudited pro forma basis, reflects
+the condensed consolidated statements of operations for the fiscal years ended
+September 30, 2000 and 1999 assuming WebOrder and StarNet had been acquired as
+of the beginning of the periods presented in thousands, except per share
+data                                September 30,
+2000   1999
+$90,475 $ 45,387
+Net  $9,647 $21,928
+Basic and diluted loss per share. $ 057 $ 159
+Weighted average shares used in the computation of basic
+and diluted loss per   16,957  13,773  The above pro forma results for the fiscal years ended September 30, 2000
+and 1999 exclude the charges for acquired in-process research and development.
+The above pro forma results for the fiscal years ended September 30, 2000 and
+1999 and have been adjusted to include the amortization of goodwill and other
+intangibles related to the acquisitions of StarNet and WebOrder for each
+period.
+58             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  The above pro forma results are not necessarily indicative of what would
+have occurred if the acquisitions had been in effect for the periods presented.
+In addition, they are not intended to be a projection of future results and do
+not reflect any synergies that might be achieved from combined operations.
+netOctopus
+On December 31, 1998, the Company purchased from Network Associates'
+substantially all of the assets and assumed certain liabilities related to the
+netOctopus systems management software netOctopus. The netOctopus software is
+a suite of administration tools under development that allows for simultaneous
+system support of multiple users across MacOS computer networks. In accordance
+with the netOctopus Purchase Agreement, Netopia acquired substantially all of
+the assets and assumed certain liabilities related to the netOctopus software
+and its existing operations which included in-process research and development.
+The Company accounted for the transaction under the purchase method. The
+aggregate purchase price of the transaction was approximately $11 million,
+based on the consideration paid at closing. The final purchase price is
+dependent on potential earnout payments. The aggregate purchase price includes. $11 million in cash paid on the closing date of the transaction; and. A series of potential earnout payments totaling $300,000 if certain
+revenue and technical milestones are achieved. These earnout
+opportunities will be added to and included in the purchase price for
+accounting purposes when the milestones have achieved and additional
+consideration is distributable. In our first fiscal quarter of 2000, we
+made a $100,000 earnout payment which we recorded as part of the purchase
+price of the transaction.
+The excess purchase price over the net book value acquired was $11 million,
+of which, based upon the Company estimates prepared in conjunction with a
+third party valuation consultant, $400,000 was allocated to acquired in-process
+research and development and $753,000 was allocated to intangible assets. The
+amounts allocated to intangible assets include assembled workforces of $60,000,
+developed technology of $540,000 and goodwill of $100,000. The Company is
+amortizing goodwill and other intangible assets related to the netOctopus
+transaction over four years. During the fiscal years ended September 30, 2000
+and 1999, the Company amortized $226,000 and $144,000, respectively, in
+goodwill and other intangible assets related to the acquisition of netOctopus.
+The Company used the income approach to appraise the value of the business
+and projects acquired. Such method takes into consideration the stage of
+completion of the project and estimates related to expected future revenues,
+expenses and cash flows which are then discounted back to present day amounts.
+Based upon these estimates, material net cash flows from the acquired business
+are expected to begin in the calendar year 2000. These cash flows were
+discounted using a discount rate of 250%. Based upon the expenses incurred and
+the development time invested in the product prior to the acquisition and the
+estimated expenses and development time to complete the product, the Company
+determined the product to be approximately 70% complete at the time of
+acquisition. In fiscal 1999, the Company completed the development of the
+Windows versions of the product. From the acquisition date, the Company
+expended approximately $287,000 to complete development of the product.
+Serus LLC
+On December 17, 1998, the Company purchased substantially all of the assets
+and assumed certain liabilities and the existing operations of Serus LLC
+Serus, a Utah limited liability company. Serus was developing a java-based
+web site editing software product which would allow web site owners to modify
+and
+59             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued
+edit the appearance of their web site through their web browser with minimal
+knowledge of Hypertext Markup Language HTML. The Company is marketing the
+products both independently and along with its Netopia Web platform to allow
+users more flexibility in customizing their Web sites. In accordance with the
+Serus Asset Purchase Agreement, Netopia acquired substantially all of the
+assets and assumed certain liabilities of Serus and its existing operations
+which included in-process research and development.
+The Company accounted for the transaction under the purchase method. The
+aggregate purchase price of the transaction was approximately $70 million,
+based on the consideration paid at closing. The final purchase price is
+dependent on potential earnout payments. The aggregate purchase price includes. $30 million in cash paid on the closing date of the transaction. 409,556 shares of the Company common stock issued on the closing date;
+and. A $10 million earnout opportunity based upon certain revenue and
+technical milestones achieved. As of September 30, 2000 the earnout
+period had expired and no milestones had been achieved. The excess
+purchase price over the net book value acquired was $60 million, of
+which, based upon the Company estimates prepared in conjunction with a
+third party valuation consultant, $39 million was allocated to acquired
+in-process research and development and $21 million was allocated to
+intangible assets. The amounts allocated to intangible assets include
+assembled workforces of $100,000 and goodwill of $20 million. The
+Company is amortizing goodwill and other intangible assets related to the
+Serus transaction over four years. During the fiscal years ended
+September 30, 2000 and 1999, the Company amortized $533,000 and $398,000,
+respectively, in goodwill and other intangible assets related to the
+acquisition of Serus.
+The Company used the income approach to appraise the value of the business
+and projects acquired. Such method takes into consideration the stage of
+completion of the project and estimates related to expected future revenues,
+expenses and cash flows which are then discounted back to present day amounts.
+Based upon these estimates, material net cash flows from the acquired business
+are expected to begin in the calendar year 2001. These cash flows were
+discounted using a discount rate of 440%. Based upon the expenses incurred and
+the development time invested in the product prior to the acquisition and the
+estimated expenses and development time to complete the product, the Company
+determined the product to be approximately 85% complete at the time of
+acquisition. On November 15, 1999, the Company launched the product and is
+marketing the product under the Net Jane product brand name. Since the
+acquisition date, the Company expended approximately $664,000 to complete
+development of the product.
+The following table represents the balances in goodwill and other intangible
+assets, net of accumulated amortization, related to the Company acquisitions
+of WebOrder, StarNet, Serus, and netOctopus at September 30, 2000 and 1999                               September 30,
+in thousands
+2000   1999
+Goodwill and Other Intangible Assets Remaining at
+September 30:
+$ 26,014 $2,204
+Developed and Core Technology Acquired.  12,172   60
+Assembled   1,458   640
+Non-Compete   1,660                                                                  41,304  2,904
+Accumulated  10,288  542
+$ 31,016 $2,362
+60             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 3 Discontinued Operations
+On August 5, 1998, the Company sold its Farallon Local Area Networking LAN
+Division the LAN Division including the LAN Division products, accounts
+receivable, inventory, property and equipment, intellectual property and other
+related assets to Farallon Communications, Inc. Farallon, formerly known as
+Farallon Networking Corporation, a Delaware corporation and an affiliate of
+Gores Technology Group Gores. The consideration the Company received for the
+sale of the LAN Division consisted of the following in thousands                                    
+$2,000
+Note   888
+Royalties  1,782
+189
+$4,859
+The note receivable was for $10 million which was payable on July 31, 2000,
+bearing interest at 8% per annum. Farallon paid the note and related interest
+receivable in its entirety on May 9, 2000.
+The royalties receivable were based upon Farallon total annual revenues
+over each of the next five fiscal years ending on July 31, 2003. If total
+annual revenues of at least $150 million are reached, the royalty rate applies
+to total revenues, including the first $150 million.
+The value of the royalties accrued at the close of the transaction was based
+upon the present value of the Company assumptions as to the projected future
+revenue of the LAN Division. Royalties accrued; however, were not recorded to
+the extent that total consideration on the transaction exceeded the net asset
+value of the LAN Division assets being sold.
+Additionally, the Company received and valued a warrant to purchase up to 5%
+of the equity of Farallon as of the closing of the transaction. Subsequently,
+the Company entered into an agreement with the buyer to reduce the warrant
+entitlement to 3% of the equity of Farallon.
+The disposition of the LAN Division in August 1998 has been accounted for as
+a discontinued operation in accordance with APB Opinion No. 30, and prior
+period consolidated financial statements have been restated to reflect the LAN
+Division operations as a discontinued operation. Revenue from discontinued
+operations was $151 million and $320 million in fiscal 1998 and 1997,
+respectively. The income from discontinued operations of $602,000 in fiscal
+1998 and represents operating income, net of taxes, of the discontinued
+operation. The loss on sale of discontinued operations of $31 million in
+fiscal 1998 is principally comprised of the transaction expenses and costs
+incurred and accrued as a result of the sale of the LAN Division. Such expenses
+are directly attributable to the sale transaction and are primarily related to
+reserves taken against the lease of the Company Alameda, California
+headquarters, investment advisory, legal and accounting fees and certain
+expenses related to employees of the LAN Division. Of the amount recorded as a
+loss on the sale of discontinued operations, $12 million is included in
+accrued liabilities at September 30, 1999.
+During the fiscal third quarter of 2000, Farallon bought out its royalty
+obligation in its entirety for an amount in excess of the receivable on the
+Company balance sheet. In addition, the Company exercised our warrant in
+Farallon and sold the shares received upon exercise of the warrant. These
+transactions resulted in income of $13 million, net of taxes, and are included
+in the gain on sale from discontinued operations for the fiscal year ended
+September 30, 2000. In addition, the gain on sale from discontinued operations
+also represents the reversal of a liability recorded for the excess space
+created at the Company Alameda, California headquarters that the Company
+believed could not be subleased to third parties at the time of sale. During
+the three months ended December 31, 1999, the Company found alternative uses
+for this excess space.
+61             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 4 Inventories
+Inventories consisted of the following in thousands                                 September 30,
+2000  1999
+Raw materials and work in  $ 4,723 $1,699
+Finished   5,561 1,982
+$10,284 $3,681
+5 Furniture, Fixtures, and Equipment
+Furniture, fixtures, and equipment consisted of the following in
+thousands                                September 30,
+2000   1999
+Office  $ 3,568 $ 2,684
+Furniture and   2,198   1,637
+10,505   8,675
+Leasehold    209    569
+16,480  13,565
+Accumulated depreciation and amortization. 12,011 11,162
+$ 4,469 $ 2,403
+6 Income Taxes
+Total income tax expense benefit for the years ended September 30, 2000,
+1999, and 1998 is allocated as follows in thousands                                September 30,
+2000  1999  1998
+Continuing  $ --  $ -- $2,155
+Discontinued  397  --   385
+$397 $ -- $2,540
+Income tax expense benefit related to continuing operations consisted of
+the following in thousands                                September 30,
+2000 1999  1998
+Current:
+$ -- $ -- $ 596
+--  --  118
+--  --  714
+Deferred:
+--  --  2,191
+--  --   678
+--  --  2,869
+$ -- $ -- $2,155
+62             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  Income tax expense benefit related to continuing operations differs from
+the amounts computed by applying the statutory income tax rate of 34% to pretax
+loss as a result of the following in thousands                             September 30,
+2000   1999   1998
+Computed expected tax benefit of 34%. $5,990 $2,672 $2,000
+Change in valuation allowance for deferred tax
+1,853  2,772  5,459
+Research    --   100  770
+Acquired   4,073   --      State tax and other, net.   64   --   534
+$  --  $  --  $ 2,155
+The tax effects of temporary differences that give rise to significant
+portions of the deferred tax assets are presented below in thousands                                September 30,
+2000   1999
+Deferred tax assets:
+Reserves and accruals not currently deductible. $ 3,096 $ 1,373
+Deferred     49   119
+Research and other   2,950  1,882
+Tangible and intangible    --    279
+Net operating   11,689  5,713
+State tax and other,    --                                         Gross deferred   17,784  9,366
+Less valuation  13,710 9,366
+Total deferred tax  $ 4,074 $                                     Deferred tax liabilities:
+Tangible and intangible   4,074                                      Total deferred tax  $ 4,074 $                                     Net deferred tax  $  --  $                                     The net change in the total valuation allowance for the years ended
+September 30, 2000 and 1999 was increases of $43 million and $28 million,
+respectively.
+At September 30, 2000 and 1999, the Company believed that based upon
+available objective evidence, there was sufficient uncertainty regarding the
+realizability of its deferred tax assets to warrant a full valuation allowance.
+The factors considered included the relative shorter life cycles in the high
+technology industry and the uncertainty of longer-term taxable income
+estimates. Included in the valuation allowance is a tax benefit attributable to
+noncompensatory stock options of $74 million of tax benefit attributable to
+purchase acquisitions which, when realized, will be a credit to additional
+paid-in-capital.
+At September 30, 2000, the Company had net operating loss carryforwards of
+approximately $301 million for federal tax purposes and $161 million for
+state tax purposes. If not earlier utilized, the federal net operating loss
+carryforwards will expire in various years beginning in 2019 through 2020 and
+the state net operating loss carryforwards will expire in various years
+beginning 2003 through 2005.
+63             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  At September 30, 2000, the Company had research credit carryforwards of
+approximately $18 million for federal tax purposes and $700,000 for state tax
+purposes. If not earlier utilized, the federal research credit carryforwards
+will expire in various years beginning 2006 through 2020. The state research
+credits carry forward indefinitely until utilized. The Company has California
+manufacturing credit carryforwards of approximately $49,000 which expire in
+various years beginning 2006 through 2008.
+At September 30, 2000, the Company also had minimum tax credit carryforwards
+of approximately $149,000 for federal tax purposes and $169,000 for state tax
+purposes. These credits carryforward indefinitely until utilized.
+Federal and California state tax laws impose substantial restrictions on the
+utilization of net operating loss carryforwards in the event of an ownership
+change for tax purposes, as defined in section 382 of the Internal Revenue
+Code. If such ownership change were to occur, utilization of net operating
+losses would be subject to annual limitations in future years.
+7 Stockholders' Equity and Stock Option Plan
+On April 23, 1996, the Company was reincorporated in the State of Delaware.
+The Company authorized capital consists of 25,000,000 shares of $0001 par
+value common stock.
+Common Stock
+The holders of Common Stock are entitled to one vote per share on all
+matters to be voted upon by the stockholders. Subject to preferences that may
+be applicable to any outstanding Preferred Stock, the holders of common stock
+are entitled to receive ratably such dividends, if any, as may be declared from
+time to time by the Board of Directors out of funds legally available. In the
+event of a liquidation, dissolution or winding up of the Company, the holders
+of common stock are entitled to share ratably in all assets remaining after
+payment of liabilities, subject to prior distribution rights of Preferred
+Stock, if any, then outstanding. The common stock has no preemptive or
+conversion rights or other subscription rights.
+Common Stock Warrants
+Warrants to purchase 60,000 shares of common stock were issued in fiscal
+1997 for consulting services provided. The exercise price of the warrants was
+$400. The Company recognized an expense of $60,000 for the estimated fair
+value of the warrants issued. The warrants were exercised, in full, on March
+24, 2000 in a cashless transaction. In payment of the exercise price of the
+warrants, the Company retained 3,125 warrants which was based on the fair
+market value of the Company stock on March 24, 2000.
+Stock Option Plan
+On April 16, 1996, the Company adopted the 1996 Stock Option Plan the 1996
+Plan providing for the issuance of incentive or non-statutory options to
+directors, employees, and non-employee consultants. Options are granted at the
+discretion of the Board of Directors. As of September 30, 2000, the 1996 Plan
+share reserve of 4,281,418 shares is comprised of i 4,019,480 shares subject
+to outstanding options and ii 261,938 shares available for grant.
+Incentive stock may be granted at not less than 100% of the fair market
+value per share and non-statutory stock options may be granted at not less than
+85% of the fair market value per share at the date of grant as determined by
+the Board of Directors or committee thereof, except for options granted to a
+person owning greater than 10% of the total combined voting power of all
+classes of stock of the Company, for which the exercise price of the options
+must be not less than 110% of the fair market value.
+64             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  Included in the 1996 Plan is a provision for the automatic grant of non-
+statutory options to non-employee Board of Director members of 25,000 shares on
+the effective date of the Company initial public offering at the initial
+offering price. These options were granted to two non-employee Board of
+Director members, of which one currently remains on the Company Board of
+Directors. Thereafter, each new director will be granted an option to purchase
+25,000 shares of common stock on the date they become a Board member of the
+Company at the then current fair market value. Options issued to Board members
+after January 13, 2000 will become exercisable in four successive and equal
+annual installments over the non-employee Board member period of continued
+service as a Board member, beginning one year from the grant date of the
+option.
+The Board of Directors, on July 24, 1996, unanimously amended the Notice of
+Grant to provide for a four year vesting schedule commencing on the date of the
+grant. Grants prior to that date normally vest over five years commencing on
+the date of the grant.
+In the first quarter of fiscal 1999, the Company provided a 90 day extension
+of the exercise period for all Farallon employees with outstanding stock
+options priced at $400 or higher in the Company. This resulted in a total
+compensation charge of approximately $35,000. In the fourth quarter of fiscal
+1998, in connection with the sale of Farallon, the Company provided for an
+accelerated vesting period to discretionary employees of Farallon for their
+outstanding stock options in the Company. This resulted in a total compensation
+charge of approximately $143,500 in fiscal 1998.
+The following table summarizes activity under the 1996 Plan and its
+predecessor                            Incentive Stock Options
+Weighted
+Shares    Average
+Under Options Exercise Price
+Outstanding as of September 30, 1997.  2,867,200     432
+Options   1,409,425     551
+Options   312,090    240
+Options   443,636    480
+Outstanding as of September 30, 1998.  3,520,899     490
+Options   1,413,900    1187
+Options   626,013    455
+Options   268,266    689
+Outstanding as of September 30, 1999.  4,040,520     726
+Options   1,564,823    4113
+Options  1,203,369    481
+Options   382,494    2034
+Outstanding as of September 30, 2000.  4,019,480    1994
+1,431,806    $ 973
+65             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  The following table summarizes information about stock options outstanding
+at September 30, 2000                   Options Outstanding        Options Exercisable
+Weighted-
+Number of   average           Number
+outstanding  remaining         exercisable
+shares as of contractual  Weighted-    as of    Weighted-
+September 30,  life    average   September 30,  average
+Range of exercise prices   2000    years  exercise price   2000   exercise price
+-                                        
+$ 06105-$4375      456,968   539    $ 28306    348,733   $ 25364
+45000- 52500      463,398   734     50200    233,507    50540
+53125- 63750      698,435   714     58584    403,939    59783
+64375-148750      573,087   808     76381    185,608    78448
+160000-310000      621,752   882     226390    145,342    193761
+316250-470000      415,538   962     370716     27,139    360207
+480000-480000      718,927   934     480000     83,410    480000
+490000-862500      71,375   924     567933     4,128    490000
+4,019,480   805    $199358   1,431,806   $ 97326
+1996 Employee Stock Purchase Plan
+On April 16, 1996, the Board adopted the 1996 Employee Stock Purchase Plan
+the Purchase Plan and reserved 300,000 shares of common stock for issuance
+under the Purchase Plan. To date an additional 500,000 shares have been
+approved for issuance under the Purchase Plan. Employees may purchase shares of
+common stock at a price per share that is 85% of the lesser of the fair market
+value as of the beginning or the end of the semi-annual option period.
+Shares issued under the Purchase Plan totaled 130,306 in fiscal 2000,
+199,721 in fiscal 1999, 153,157 in fiscal 1998 and 178,236 in fiscal 1997. As
+of September 30, 2000, 661,420 shares have been issued under the Purchase Plan
+and 138,580 shares were reserved for future issuances under the plan.
+Pro Forma Disclosure--Compensatory Stock Arrangements
+Stock options are granted at not less than the fair market value of the
+common stock on the date of grant. All options expire no later than 10 years
+from the date of grant. The Company has adopted the disclosure provisions of
+SFAS No. 123, Accounting for Stock Based Compensation, which was issued in
+October 1995. As permitted by the provisions of SFAS No. 123, the Company
+applies APB Opinion 25 and related interpretations in accounting for its stock
+option plans.
+If the Company had elected to recognize compensation cost based on the fair
+value of the options granted at grant date and the fair value of shares
+purchased under the plan as prescribed by SFAS No. 123, net loss and per share
+results would have been the pro forma amounts indicated in the table below in
+thousands, except per share amounts                            September 30,
+2000   1999   1998
+Net income loss--as reported. $15,137 $ 7,860 $10,533
+Net income loss--pro forma. $28,892 $12,143 $13,384
+Basic and diluted net loss per share--as
+$ 090 $ 060 $ 090
+Basic and diluted net loss per share--pro
+$ 172 $ 093 $ 115                    66             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  The effect on net loss and net loss per share is not expected to be
+indicative of the effects on results in future years.
+The effect of applying SFAS No. 123 for disclosing compensation costs may
+not be representative of the effects on reported net loss for the future years
+because pro forma net loss reflects compensation costs only for stock options
+granted in fiscal 2000, 1999, 1998 and 1997. The weighted average fair value of
+employee stock options granted during fiscal 2000, 1999, 1998 and 1997 was
+$3122, $808, $348 and $305 respectively.
+The Black-Scholes option valuation model was developed for use in estimating
+the fair value of traded options which have no vesting restrictions and are
+fully transferable while the Company employee stock options have
+characteristics significantly different from those of traded options. In
+addition, option valuation models require the input of highly subjective
+assumptions including the expected stock price volatility. The fair value of
+each option grant and share purchased under the Purchase Plan are estimated on
+the date of grant or share purchase using the Black-Scholes option-pricing
+model with the following assumptions                                 Years ended
+September 30,
+2000  1999 1998
+Expected  1035%  95%  84%
+Risk-free interest  577 459% 425%
+Expected dividend   --  --    The expected lives of options under the Employee Stock Option and Employee
+Stock Purchase Plans are estimated at four years and six months, respectively
+for all years presented.
+8 Commitments and Contingencies
+Leases
+The Company conducts its operations in leased facilities and with equipment
+under operating lease agreements expiring at various dates through 2005.
+The following is a schedule of future minimum rental payments required under
+these leases that have initial or remaining non-cancelable lease terms in
+excess of one year in thousands  Year ending September 30,
+$1,758
+1,590
+367
+72
+11
+Total minimum lease  $3,798
+Total rental expense for all operating leases amounted to approximately $17
+million, $11 million and $12 million for the fiscal years ended September 30,
+2000, 1999 and 1998, respectively.
+67             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued Litigation
+The Company is involved in various legal matters that have arisen in the
+normal course of business. Management believes, after consultation with
+counsel, any liability that may result from the disposition of such legal
+matters will not have a material adverse effect on the Company operating
+results and financial condition.
+Plan for Savings and Investments
+The Company maintains a plan for savings and investments under which
+eligible employees may contribute up to 15% of their annual compensation. In
+addition, the Company may make discretionary retirement contributions to the
+plan. No discretionary retirement contributions were made in any period
+presented.
+9 Geographic, Segment and Significant Customer Information
+The Company adopted the provisions of SFAS No. 131, Disclosure about
+Segments of an Enterprise and Related Information, during fiscal year 1999.
+SFAS No. 131 establishes standards for the reporting by public business
+enterprises of information about operating segments, products and services,
+geographic areas, and major customers. The methodology for determining what
+information is reported is based on the organization of operating segments and
+the related information that the Chief Operating Decision Maker CODM uses for
+operational decisions and financial performance assessments. The Company
+Chief Executive Officer CEO is considered its CODM. For purposes of making
+operating decisions and assessing financial performance, the CEO reviews
+financial information presented on a consolidated basis accompanied by
+disaggregated information for revenues and gross margins by product group as
+well as revenues by geographic region and by customer. Currently, operating
+expenses or assets are not disaggregated by product group for purposes of
+making operating decisions and assessing performance.
+68             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  The Company generates revenue from three groups of products and services.
+Disaggregated financial information regarding the Company three operating
+segments is as follows                          WEB PLATFORM PRODUCTS
+WEB SITE
+/ E-
+INTERNET  STORE  TIMBUKTU TOTAL
+EQUIPMENT PRODUCTS PRODUCTS PRODUCTS
+2000
+$65,546  $9,398 $15,262 $ 90,206
+Cost of   46,582   247   450  47,279
+Gross   18,964  9,151  14,812  42,927
+Unallocated operating expenses.                64,124
+Operating                21,197
+Other income, net.                3,579
+Loss before income taxes.               17,618
+Income tax                                                        Loss from continuing operations.               $17,618
+WEB PLATFORM PRODUCTS
+WEB SITE
+/ E-
+INTERNET  STORE  TIMBUKTU INTERNET
+EQUIPMENT PRODUCTS PRODUCTS EQUIPMENT
+1999
+$24,460  $3,826 $15,865  $44,151
+Cost of   15,597    13   633  16,243
+Gross   8,863  3,813  15,232  27,908
+Unallocated operating expenses.                37,834
+Operating                 9,926
+Other income, net.                2,066
+Loss before income taxes.                7,860
+Income tax                                                        Loss from continuing operations.               $7,860
+WEB PLATFORM PRODUCTS
+WEB SITE
+/ E-
+INTERNET  STORE  TIMBUKTU INTERNET
+EQUIPMENT PRODUCTS PRODUCTS EQUIPMENT
+1998
+$10,885  $691  $13,260  $24,836
+Cost of   7,064   16    875   7,955
+Gross   3,821   675  12,385  16,881
+Unallocated operating expenses.                24,985
+Operating                 8,104
+Other income, net.                2,222
+Loss before income taxes.                5,882
+Income tax                 2,155
+Loss from continuing operations.               $8,037
+69             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  The Company sells its products and provides services worldwide through a
+direct sales force, independent distributors, and value-added resellers. It
+currently operates in five regions, United States, Europe, Asia/Pacific, Canada
+and Other, and Latin America. Revenues outside of the United States are
+primarily export sales denominated in United States dollars. Disaggregated
+financial information regarding the Company products and services and
+revenues by geographic region is as follows in thousands                              Years ended September
+30,
+2000  1999  1998
+United  $73,744 $31,945 $16,670
+13,558  9,820  6,215
+826  1,066  1,175
+Canada and   1,689  1,222   706
+Latin    389   98   70
+Total  $90,206 $44,151 $24,836
+The Company has no material operating assets outside the United States.
+During the fiscal years ended September 30, 2000, 1999 and 1998. Revenues from CLECs accounted for 40%, 9% and 0%, respectively, of our
+total revenues. Covad Communications, a CLEC, accounted for 16%, 0% and 0%, respectively,
+of our total revenues. Northpoint Communications, a CLEC, accounted for 12%, 6% and 0   respectively, of our total revenues; and. Ingram Micro, a worldwide distributor of computer technology products and
+services, accounted for 7%, 10% and 12%, respectively, of our total
+revenues.
+No other customers during the fiscal years ended September 30, 2000, 1999
+and 1998 accounted for 10% or more of our total revenues.
+For the fiscal year ended September 30, 2000, all revenue from Covad
+Communications related to our Internet equipment.
+For the fiscal years ended September 30, 2000 and 1999, all revenue from
+Northpoint Communications related to our Internet equipment.
+For the fiscal year ended September 30, 2000, 77% of our revenue from Ingram
+Micro related to our Internet equipment and 23% related to our Web Platform
+products. For the fiscal year ended September 30, 1999, 61% of our revenue from
+Ingram Micro related to our Internet equipment and 39% related to our Web
+Platform products. For the fiscal year ended September 30, 1998, 50% of our
+revenue from Ingram Micro related to our Internet equipment and 50% related to
+our Web Platform products.
+For the fiscal year ended September 30, 2000, there were five customers who
+each individually represented at least 5% of our total revenues and in
+aggregate, accounted for 46% of our total revenues. For the fiscal year ended
+September 30, 1999, there were two customers who each individually represented
+at least 5% of our total revenues and in aggregate accounted for 15% of our
+total revenues. For the fiscal year ended September 30, 1998, there were three
+customers who each individually represented at least 5% of our total revenues
+and in aggregate accounted for 21% of our total revenues.
+70             NETOPIA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 10 Subsequent Events
+On December 8, 2000, we purchased $20 million of Series D Preferred stock
+in Megapath Networks Incorporated Megapath. Megapath, a broadband service
+provider, provides high-speed, Internet access to small and midsize businesses.
+Megapath offers high-speed DSL access, Web-site design and development, e-
+commerce and Web hosting services. During the year ended September 30, 2000
+Megapath had purchased our Internet equipment and licensed our Web site and e-
+commerce platform.
+71              FINANCIAL STATEMENT SCHEDULE
+Schedule--Valuation and Qualifying Accounts in thousands                     Charged
+Balance at credited            Balance
+beginning to costs and           at end of
+Description     of period  expenses  Deductions Othera period
+Allowance for doubtful
+accounts:
+Fiscal year ended
+September 30, 2000.   $579    $2,832    $594   --   $2,817
+Fiscal year ended
+September 30, 1999.   400     534    355   --     579
+Fiscal year ended
+September 30, 1998.   566      96     31   231    400
+Allowance for returns and
+rebates:
+Fiscal year ended
+September 30, 2000.   $217    $ 336    $112   --   $ 441
+Fiscal year ended
+September 30, 1999.   217     --     --    --     217
+Fiscal year ended
+September 30, 1998.   561     105    210   239    217  a Amounts transferred with sale of LAN Division
+72 Item 1.  Description of    3
+Item 2.     18
+Item 3.  Legal   18
+Item 4.  Submission of Matters to a Vote of Security Holders.  18
+PART II.
+Market for Netopia Common Stock and Related Stockholder
+Item 5. Directors and Executive Officers of the Registrant
+Our executive officers and directors, and their ages as of December 1, 2000,
+are as follows      Name      Age              Position
+Alan B. Lefkof1. 47 President, Chief Executive Officer and Director
+James A. Clark. 44 Vice President and Chief Financial Officer
+Brooke A. Hauch. 52 Senior Vice President and Chief Information Officer
+David A. Kadish. 48 Vice President, General Counsel and Secretary
+Thomas A. Skoulis. 44 Senior Vice President and General Manager, Web Platforms
+Thomas J. Spadafore. 42 Senior Vice President, Sales and Service, Web Platforms
+Michael P. Trupiano. 44 Senior Vice President and General Manager, Internet Equipment
+Reese M. Jones. 42 Chairman of the Board of Directors
+David C. King23. 40 Director
+David F.         51 Director
+Marquardt23.  1 Member of the Stock Option Committee
+2 Member of the Audit Committee
+3 Member of the Compensation Committee
+Mr. Lefkof. Alan B. Lefkof joined Netopia as President in August 1991 and
+has been Chief Executive Officer since November 1994. Prior to joining Netopia,
+Mr. Lefkof spent over nine years at GRiD Systems, a manufacturer of laptop
+computers, where he served as President from October 1989 to August 1991, Chief
+Financial Officer from March 1987 to September 1989, and Vice President of
+Marketing from August 1983 to February 1987. Before joining GRiD Systems, Mr.
+Lefkof served as a Management Consultant at McKinsey & Company from July 1977
+to January 1982. Mr. Lefkof received a B.S. in computer science from the
+Massachusetts Institute of Technology in 1975 and an M.B.A. from Harvard
+Business School in 1977.
+Mr. Clark. James A. Clark, Vice President and Chief Financial Officer,
+joined Netopia in November 1994. Prior to joining Netopia, Mr. Clark was Vice
+President and Chief Financial Officer at Integral Systems, a developer of large
+scale, client/server business application software, from November 1985 to
+November 1994. Before joining Integral Systems, Mr. Clark was Manager of
+Reporting and International Accounting at MicroPro from April 1984 to November
+1985. Mr. Clark received a B.A. in business administration/accounting from
+California State University at Chico in 1978 and is a Certified Public
+Accountant.
+Ms. Hauch. Brooke A. Hauch, Senior Vice President and Chief Information
+Officer, joined Netopia in October 1991. Prior to joining Netopia, Ms. Hauch
+was Vice President of Customer Service at Argonaut Information Systems, Inc.,
+Western Regional Vice President of Software Sales and Consulting at Ross
+Systems, Inc. and Project Manager at Blue Cross of Northern California. Ms.
+Hauch holds a bachelor degree in business from Arizona State University.
+Mr. Kadish. David A. Kadish, Vice President, General Counsel and Secretary,
+joined Netopia in June 1999. Prior to joining Netopia, Mr. Kadish provided
+legal consulting services to Netopia from September 1997 to June 1999. Mr.
+Kadish operated an independent legal consulting practice from May 1996 to June
+1999. He served as Senior International Counsel and Manager, Intellectual
+Property Law for the Electric Power Research Institute, Inc., from December
+1997 to June 1999. He was Vice President, General Counsel and Secretary of
+Integral Systems, a developer of large scale, client/server business
+application software, from September 1987 to April 1996. Mr. Kadish received a
+B.A. in American history from University of California at Santa Cruz in 1973,
+an M.A. in American history from Brandeis University in 1974, and a J.D. from
+Yale University in 1979.
+73  Mr. Skoulis. Thomas A. Skoulis, Senior Vice President and General Manager,
+Timbuktu, joined Netopia in September 1991. Prior to joining Netopia, Mr.
+Skoulis held various sales management positions with 3Com from March 1988 to
+September 1991. Before joining 3Com, Mr. Skoulis also held the position of
+Senior Sales Representative at Digital Equipment from June 1980 to March 1988.
+Mr. Skoulis received a B.A. in business administration from Miami University in
+Oxford, Ohio, in 1980.
+Mr. Spadafore. Thomas J. Spadafore, Senior Vice President, Sales and
+Service, Web Platforms, joined Netopia in July 1997. Prior to joining Netopia,
+Mr. Spadafore was Senior Director of major accounts at NETCOM Communications
+form March 1994 to June 1997. Before joining NETCOM, Mr. Spadafore was Senior
+Account Executive at Apple Computer from 1984 to 1993 and was a professional
+football player in the NFL for the San Diego Chargers, Washington Redskins and
+the Los Angelas Rams from 1980 to 1983. He holds a B.A. in Elementary Education
+and Special Education and an M.A. in Computer Technology and Education from
+Boise State University.
+Mr. Trupiano. Michael P. Trupiano, Senior Vice President and General
+Manager, Internet Equipment, joined Netopia in May 1992. Prior to joining
+Netopia, Mr. Trupiano was Director of R/Product Marketing at Verifone, a
+transaction processing products company, from January 1989 to May 1992. Before
+joining Verifone, Mr. Trupiano was Vice President of Engineering at Isix from
+June 1987 to December 1989, and was Director of Engineering at Amtel Systems
+from January 1984 to June 1987. Mr. Trupiano received a B.S. in electrical
+engineering and computer science from Santa Clara University in 1978.
+Mr. Jones. Reese M. Jones, founder of Netopia, has served as Chairman of the
+Board of Directors of Netopia since inception. Mr. Jones served as Chief
+Executive Officer of Netopia until Mr. Lefkof was appointed Chief Executive
+Officer in November 1994. Mr. Jones currently serves on the Board of Directors
+of a number of privately held companies. Mr. Jones received a B.A. in
+biophysics from the University of California at Berkeley in 1982.
+Mr. King. David C. King has been a director of Netopia since January 2000.
+Mr. King is currently President, Chief Executive Officer and Chairman of the
+Board of Directors of Proxim, Inc., a developer of wireless local area
+networking products. Mr. King joined Proxim in December 1992 as Vice President
+of Marketing and Acting Chief Financial Officer. In July 1993, Mr. King was
+appointed President, Chief Executive Officer and director, and in January 1996,
+was appointed Chairman of the Board. From December 1990 to November 1992, Mr.
+King served in various executive capacities at Vitalink Communications
+Corporation. From 1985 to 1990, Mr. King was Senior Manager in the San
+Francisco office of McKinsey & Company, Inc. Mr. King holds an A.B. in
+Economics, as well as an M.B.A. and J.D. from Harvard University.
+Mr. Marquardt. David F. Marquardt has been a director of Netopia since 1990.
+Mr. Marquardt is a founding General Partner of August Capital, formed in 1995,
+and has been a General Partner of various Technology Venture Investors TVI
+entities since August 1980. August Capital and the TVI entities are all private
+venture capital partnerships. Mr. Marquardt currently serves on the Board of
+Directors of Microsoft, Tumbleweed Communications and a number of privately
+held companies. Mr. Marquardt received a B.S. in mechanical engineering from
+Columbia University in 1973 and an M.B.A. from Stanford University in 1979.

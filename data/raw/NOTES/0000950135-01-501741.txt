@@ -1,0 +1,588 @@
+ITEM 8:   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Index to Consolidated Financial Statements                                                Page
+Report of Independent Accountants - PricewaterhouseCoopers    17
+Consolidated Balance Sheets as of March 31, 2001 and    18
+Consolidated Statements of Income for the Years Ended March 31, 2001, 2000 and 1999.   19
+Consolidated Statements of Stockholders' Equity for the Years Ended March 31, 2001,
+2000 and    20
+Consolidated Statements of Cash Flows for the Years Ended March 31, 2001, 2000 and
+21
+Notes to Consolidated Financial    22
+Schedules   Schedule II - Valuation and Qualifying    31                    16
+17
+REPORT OF INDEPENDENT ACCOUNTANTS To the Board of Directors and Stockholders of
+Atlantic Data Services, Inc In our opinion, the accompanying consolidated balance sheets and the related
+consolidated statements of income, of shareholders' equity and of cash flows
+present fairly, in all material respects, the financial position of Atlantic
+Data Services, Inc and its subsidiary the Company at March 31, 2001, 2000
+and 1999, and the results of their operations and their cash flows for each of
+the three years in the period ended March 31, 2001 in conformity with accounting
+principles generally accepted in the United States of America. These financial
+statements are the responsibility of the Company management; our
+responsibility is to express an opinion on these financial statements based on
+our audits. We conducted our audits of these statements in accordance with
+auditing standards generally accepted in the United States of America, which
+require that we plan and perform the audit to obtain reasonable assurance about
+whether the financial statements are free of material misstatement. An audit
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, and evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion. s/ PricewaterhouseCoopers LLP
+Boston, Massachusetts
+April 23, 2001                    17
+18
+ATLANTIC DATA SERVICES, INC.
+Consolidated Balance Sheets
+in thousands, except share data                                       March 31,    March 31,
+2001      2000
+ASSETS
+Current assets:
+Cash and cash equivalents                       $ 36,655    $ 38,347
+Accounts receivable, net of allowances for doubtful accounts
+of $375 and $650 at March 31, 2001 and 2000, respectively        3,090      5,514
+Prepaid expenses                              243       103
+Deferred taxes                               464       845
+Total current assets                         40,452     44,809
+Long-term investment                              3,000        Property and equipment, net                           629       919
+Other assets                                   536       387
+Total assets                                $ 44,617    $ 46,115
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                            $  538    $  757
+Accrued expenses and other liabilities                  2,828      3,997
+Billings in excess of costs and estimated earnings              86       42
+Income taxes payable                             --       343
+Total current liabilities                       3,452      5,139
+Commitments
+Stockholders' equity:
+Preferred stock, $01 par value, 1,000,000 authorized, no shares
+issued or outstanding                           --          Common stock, $01 par value, 60,000,000 shares authorized,
+13,135,126 shares issued and 13,023,126 outstanding at
+March 31, 2001 and 13,087,599 shares issued and 12,975,599
+outstanding at March 31, 2000                       131       131
+Additional paid-in capital                        26,900     26,737
+Retained earnings                            14,159     14,133
+Treasury stock 112,000 shares carried at cost               25      25
+Total stockholders' equity                      41,165     40,976
+Total liabilities and stockholders' equity                 $ 44,617    $ 46,115
+The accompanying notes are an integral part of these consolidated financial
+statements.                    18
+19
+ATLANTIC DATA SERVICES, INC.
+Consolidated Statements of Income
+in thousands, except per share data                        Year Ended    Year Ended   Year Ended
+March 31,    March 31,   March 31,
+2001      2000      1999
+Revenues                    $ 34,135    $ 35,186    $66,763
+Cost of revenues                 23,890     26,207     41,083
+Gross profit                   10,245      8,979     25,680
+Operating expenses:
+Sales and marketing              4,856      3,232     4,469
+General and administrative          6,920      7,441     8,849
+Restructuring expense              337       --                                            Total operating expenses         12,113     10,673     13,318
+Income loss from operations          1,868     1,694    12,362
+Interest income, net               2,144      1,822     1,261
+Income before provision for income taxes      276       128     13,623
+Provision for income taxes             250       109     5,864
+Net income               $   26    $   19    $ 7,759
+Basic earnings per share            $  000    $  000    $ 062
+Diluted earnings per share           $  000    $  000    $ 060
+Shares used in computing earnings per
+share basic                 12,998     12,925     12,468
+Shares used in computing earnings per
+share diluted                13,213     13,254     12,855
+The accompanying notes are an integral part of these consolidated financial
+statements.                    19
+20
+ATLANTIC DATA SERVICES, INC.
+Consolidated Statements of Stockholders' Equity
+in thousands, except share data                                        Class A              Special
+Common Stock           Common Stock            Common Stock
+Shares      Amount     Shares     Amount      Shares      Amount
+Balance at March 31, 1998      6,847,960     $ 68      928,790      $ 9      3,104,080      $ 31
+Conversion of Class A
+common stock and
+special common stock
+to common stock         4,032,870      40     928,790      9     3,104,080      31
+Issuance of common
+stock, net of issuance
+costs              2,000,000      20        --      --          --        Shares issued under stock
+option plans            137,561       2        --      --          --        Income tax benefit from
+exercise of stock options        --      --        --      --          --        Net income                --      --        --      --          --                                                        Balance at March 31, 1999      13,018,391      130        --      --          --        Shares issued under stock
+option plans             69,208       1        --      --          --        Income tax benefit from
+exercise of stock options        --      --        --      --          --        Net income                --      --        --      --          --                                                        Balance at March 31, 2000      13,087,599      131        --      --          --        Shares issued under stock
+option plans            47,527      --        --      --          --        Net income                --      --        --      --          --                                                        Balance at March 31, 2001      13,135,126     $131        --                --      $                                                                     Additional
+Paid-In                Treasury Stock
+Retained                         Capital     Earnings     Shares     Amount      Total
+Balance at March 31, 1998       $ 2,245     $ 6,355     112,000     $25     $ 8,683
+Conversion of Class A
+common stock and
+special common stock
+to common stock             --        --        --      --          Issuance of common
+stock, net of issuance
+costs                23,351        --        --      --      23,371
+Shares issued under stock
+option plans              839        --        --      --        841
+Income tax benefit from
+exercise of stock options        91        --        --      --        91
+Net income                --      7,759        --      --       7,759
+Balance at March 31, 1999        26,526      14,114     112,000      25      40,745
+Shares issued under stock
+option plans              210        --        --      --        211
+Income tax benefit from
+exercise of stock options        1        --        --      --         1
+Net income                --        19        --      --        19
+Balance at March 31, 2000        26,737      14,133     112,000      25      40,976
+Shares issued under stock
+option plans              163        --        --      --        163
+Net income                --        26        --      --        26
+Balance at March 31, 2001       $26,900     $14,159     112,000     $25     $41,165
+The accompanying notes are an integral part of these consolidated financial
+statements.                    20
+21
+ATLANTIC DATA SERVICES, INC.
+Consolidated Statements of Cash Flows
+in thousands                                        Year Ended     Year Ended     Year Ended
+March 31,     March 31,     March 31,
+Increase Decrease in Cash and Cash Equivalents                 2001        2000        1999
+Cash flows from operating activities:
+Net income                                   $   26      $   19      $ 7,759
+Adjustments to reconcile net income to net cash provided by
+operating activities:
+Depreciation and amortization                          536        676        668
+Deferred taxes                                  381        106       455
+Tax benefit from exercise of stock options                    --         1         91
+Change in assets and liabilities:
+Accounts receivable                             2,424       1,523       2,063
+Prepaid expenses and other assets                      289        55        270
+Accounts payable                               219       436        132
+Accrued expenses and other liabilities                   1,169       518       1,279
+Billings in excess of costs and estimated earnings on contracts        44         42        640
+Federal and state income taxes                        343        74       413
+Net cash provided by operating activities                     1,391       1,072       10,754
+Cash flows from investing activities:
+Long-term investment                               3,000        --         Purchase of property and equipment                         246       249      1,019
+Net cash used in investing activities                      3,246       249      1,019
+Cash flows from financing activities:
+Principal payments under capital lease obligation                  --        13        22
+Proceeds from exercise of stock options under stock option plans          163        211        841
+Net proceeds from initial public offering                      --         --       23,371
+Net cash provided by financing activities                      163        198       24,190
+Net increase decrease in cash and cash equivalents               1,692       1,021       33,925
+Cash and cash equivalents, beginning of year                   38,347       37,326       3,401
+Cash and cash equivalents, end of year                     $ 36,655      $ 38,347      $ 37,326
+Supplemental disclosure of cash flow information:
+Cash paid during the year for:
+Taxes                                    $  759      $  853      $ 6,689
+The accompanying notes are an integral part of these consolidated financial
+statements.                    21
+22
+ATLANTIC DATA SERVICES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2001
+1. DESCRIPTION OF BUSINESS
+Atlantic Data Services, Inc. ADS or the Company, provides information
+technology IT strategy consulting and systems integration services to
+customers exclusively in the financial services industry, primarily banks. The
+Company offers IT solutions to the business challenges faced by financial
+services companies through our in-depth financial services experience,
+technological expertise and project management skills. The Company service
+offerings are organized around four practice areas: e-Business, Customer
+Relationship Management CRM, IT Strategy and Consulting, and Conversions and
+Consolidations. 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Principles of Consolidation
+The consolidated financial statements include the accounts of Atlantic Data
+Services, Inc. and its wholly owned subsidiary, ADS Securities Corp.
+collectively the Company. All intercompany accounts and transactions
+have been eliminated in consolidation.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments purchased with an original
+maturity date of three months or less to be cash equivalents. Cash equivalents
+consist of money market accounts and repurchase agreements, which are
+collateralized by U.S. Treasury Securities and controlled by major financial
+institutions. These investments are subject to minimal credit and market risk.
+At March 31, 2001 and 2000, cash equivalents were comprised of money market
+funds totaling approximately $31,993,000 and $31,586,000, respectively, and
+repurchase agreements totaling approximately $4,268,000 and $6,627,000,
+respectively. At March 31, 2001 and 2000, cash equivalents are classified as
+available-for-sale and recorded at cost, which approximates fair value.
+Concentration of Credit Risk
+Financial instruments that potentially subject the Company to credit risk
+consist primarily of cash equivalents and accounts receivable. The risk with
+respect to cash equivalents is minimized by the Company policies in which
+investments have relatively short maturities and are only placed with highly
+rated issuers. A significant portion of the Company revenues and accounts
+receivable are derived from services provided to banks and other financial
+institutions. The risk with respect to accounts receivable is minimized by
+creditworthiness of the Company customers and the Company credit and
+collection policies. The Company performs ongoing credit evaluations of its
+customers, generally does not require collateral, and maintains allowances for
+potential credit losses which, when realized, have been within the range of
+management expectations.
+Revenue Recognition
+The Company primarily derives its revenue from consulting services under time
+and material billing arrangements. Under these arrangements, revenue is
+recognized as the services are provided. Deferred revenue pertains to time and
+material billing arrangements and represents cash collected in advance of the
+performance of services.                    22
+23
+Revenue on fixed price contracts is recognized using the percentage of
+completion method of accounting and is adjusted monthly for the cumulative
+impact of any revision in estimates. The Company determines the percentage of
+completion of its contracts by comparing costs incurred to date to total
+estimated costs. Contract costs include all direct labor and expenses related to
+the contract performance. Losses, if any, are provided for in the period in
+which the loss is determined. Billings in excess of costs and estimated
+earnings, represents billings in excess of revenues recognized.
+Included in revenues for the years ended March 31, 2001, 2000 and 1999 are
+reimbursable contract-related travel and entertainment expenses of $5,777,000 5,517,000 and $9,413,000, respectively, which are separately billed to
+customers.
+In the beginning of the fourth quarter of fiscal 2001, the Company adopted Staff
+Accounting Bulletin 101 SAB 101, Revenue Recognition, which was issued by
+the Securities and Exchange Commission SEC in December 1999. SAB 101
+outlines the basic criteria that must be met to recognize revenue and it
+provides guidance for presentation and disclosure of revenue recognition
+policies in financial statements filed with the SEC. Adoption of SAB 101 had no
+material impact on ADS' reported revenues and results of operations.
+Property and Equipment
+Property and equipment are stated at cost, less depreciation. Depreciation
+expense is recognized using the straight-line method over the estimated useful
+lives of the related assets. When assets are sold or retired, the related costs
+and accumulated depreciation are removed from the accounts and any resulting
+gain or loss is reflected in operations.
+Leases
+Leases are recorded as capital or operating leases. Any lease where
+substantially all of the benefits and risks related to the ownership of the
+leased asset are transferred to the lessee, as defined by Statement of Financial
+Accounting Standards SFAS No. 13, Accounting for Leases, is accounted for
+as if the asset was acquired and as if the obligation were assumed as of the
+date of the lease. All other leases are recorded as operating leases, whereby
+the related costs are charged to income on a straight-line basis over the lesser
+of the lease term or the useful life of the lease.
+Stock-Based Compensation
+The Company grants stock options for a fixed number of shares to employees with
+an exercise price equal to the fair value of the shares at the date of the
+grant. The Company accounts for stock options granted to employees in accordance
+with Accounting Principles Board Opinion No. 25, Accounting for Stock Issued to
+Employees and related interpretations, and applies the disclosure only
+provisions of SFAS No. 123, Accounting for Stock-Based Compensation see Note
+7.
+Segment Information
+The Company follows SFAS No. 131, Disclosure about Segments of an Enterprise
+and Related Information. SFAS No. 131 prescribes the use of the management
+approach whereby the Company reportable segments are established based on the
+internal reporting that is used by management for making operating decisions and
+assessing performance. Also required by SFAS No. 131 are disclosures about
+products and services, geographic areas and major customers see Note 11.                    23
+24
+Earnings per Common Share
+The Company follows SFAS No. 128, Earnings per Share. SFAS No. 128 requires
+the presentation of two amounts, basic earnings per share and diluted earnings
+per share. Basic earnings per share is calculated by dividing net income by the
+weighted average number of shares of common stock and special common stock
+outstanding during the period. Diluted earnings per share is computed using the
+weighted average number of common stock and special common stock outstanding
+during the period, plus the dilutive effect of common stock equivalents.
+Income Taxes
+In accordance with FAS 109, the Company recognizes deferred tax assets and
+liabilities for the expected consequences of temporary differences between the
+financial statement basis and tax basis of the Company assets and liabilities.
+A deferred tax valuation allowance is established if, in management opinion,
+it is more likely than not that all or a portion of the Company deferred tax
+assets will not be realized.
+Use of Estimates
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosures of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reported period. Actual
+results could differ from those estimates.
+3.  PROPERTY AND EQUIPMENT
+Property and equipment consists of the following                           Useful Life   March 31,   March 31,
+in Years      2001     2000
+in thousands
+Computer equipment and software           3-5      $ 2,165   $ 2,020
+Office furniture and equipment           5-7        667     623
+Leasehold improvements             Lease Term       509     509
+Building                      315        183     183
+3,524    3,335
+Accumulated depreciation and amortization              2,895   2,416
+$  629   $  919
+Depreciation and amortization expense relating to fixed assets was $536, $676
+and $668 for the years ended March 31, 2001, 2000 and 1999, respectively, of
+which $22, $13 and $37, respectively, related to amortization of office
+furniture and equipment held under capital leases. Accumulated amortization of
+office furniture and equipment held under capital leases was approximately $122 100 and $87 at March 31, 2001, 2000 and 1999, respectively.                    24
+25
+4.  ACCRUED EXPENSES AND OTHER LIABILITIES
+Accrued expenses and other liabilities consist of the following                         March 31,      March 31,
+2001         2000
+in thousands
+Accrued payroll               $1,500        $2,054
+Accrued medical                395         391
+Compensated absences              196         219
+Other                     737        1,333
+$2,828        $3,997
+5.  INCOME TAXES
+Significant components of the provision for income taxes are presented below               March 31,     March 31,      March 31,
+2001        2000        1999
+in thousands
+Current:
+Federal        $ 37      $  112       $ 5,193
+State          106         24        1,172
+Deferred:
+Federal         250         22        404
+State          69         5        97
+$ 250       $  109       $ 5,864
+The reconciliation of the consolidated effective tax rate of the Company for the
+years ended March 31, 2001, 2000 and 1999 is as follows                          2001    2000    1999
+in thousands
+Pretax income                $ 276   $ 128   $13,623
+Statutory income tax rate          $ 96   $ 44   $ 4,768
+State taxes, net of federal benefit       24     12     699
+Permanent differences             134    151     256
+Other                      4    98    141
+Total provision             $ 250   $ 109   $ 5,864
+25
+26
+The Company deferred tax assets are comprised of the following                       March 31,    March 31,
+2001      2000
+in thousands
+Allowance for doubtful accounts     $ 151     $ 261
+Compensated absence accrual         79       88
+Depreciation                245       198
+Net operating loss carryforward       130          Other accruals               257       496
+$ 862     $1,043
+The Company continually reviews the recoverability of its deferred tax assets
+and would, if necessary, establish a valuation allowance if it is more likely
+than not that such deferred tax assets will not be realized. At March 31, 2001
+and 2000, management believes that it is more likely than not that the tax
+benefit will be realized for its deferred tax assets.
+6.  STOCKHOLDERS' EQUITY
+On May 21, 1998, the Company commenced an initial public offering of 2,500,000
+shares of common stock, generating proceeds of $23,371,000, net of underwriting
+commissions and other expenses incurred in connection with the offering. Of the
+2,500,000 shares of common stock offered, 2,000,000 shares were offered and sold
+by the Company and 500,000 shares were offered and sold by certain selling
+stockholders. In addition, certain underwriters exercised an overallotment
+option to purchase an additional 375,000 shares of common stock from selling
+stockholders in June 1998.
+In connection with the initial public offering, all issued and outstanding
+shares of Class A common stock and special common stock converted into 4,032,870
+shares of common stock on a share-for-share basis. Holders of the common stock
+are entitled to one vote per share and to receive dividends, when and if
+declared by the Company Board of Directors.
+7.  STOCK OPTION PLANS
+Key Person Stock Plan
+In March 1985, the Board of Directors approved the Company Key Person Stock
+Plan the Key Person Plan and authorized that 560,000 shares of Class A
+common stock be reserved for issuance under such plan. Under the terms of the
+Key Person Plan, the Company is authorized to sell shares at the then fair
+market value of Class A common stock to officers and other key employees of and
+consultants to the Company. To date, 394,800 have been issued under the Key
+Person Plan, of which an aggregate 112,000 shares were repurchased by the
+Company and are held in treasury at March 31, 2001 and 2000. No Class A common
+stock was issued pursuant to this plan during the years ended March 31, 2001,
+2000 and 1999. At March 31, 2001, 165,200 shares of common stock were available
+for future issuance; however, the Company does not intend to issue additional
+shares under the Key Person Plan.
+Incentive Stock Option Plan
+On January 26, 1993, the Board of Directors approved the Company 1992
+Incentive Stock Option Plan the 1992 Plan. Under the terms of the 1992 Plan,
+the Company is authorized to grant incentive stock options to purchase shares of
+Class A common stock to officers and other employees of and consultants to the
+Company. The aggregate number of shares of Class A common stock which may be
+issued pursuant to the 1992 Plan is                    26
+27
+812,000. Vesting is determined by the Board of Directors. All options issued
+were issued to employees and vested immediately upon issuance. All options
+granted under the 1992 Plan were converted to options to purchase common stock
+on May 28, 1998. At March 31, 2001, no options were available for future grant
+under the 1992 Plan.
+1997 Stock Plan
+In October 1997, the Board of Directors approved the Company 1997 Stock Plan
+the Plan, and authorized that 500,000 shares of Class A common stock be
+reserved for issuance under such plan. Under the terms of the Plan, the Company
+is authorized to grant incentive stock options and non-qualified stock options,
+as well as awards and direct purchases of Class A common stock to employees,
+consultants, directors and officers of the Company. In March 1998, the Board of
+Directors voted to amend the Stock Plan to provide, among other things, that the
+number of shares reserved for issuance under the Stock Plan be increased from
+500,000 shares of Class A common stock to 1,500,000 shares of Class A common
+stock. In connection with the conversion of Class A common stock to common stock
+as part of the initial public offering, all options granted and available for
+grant under the Plan were converted to options to purchase common stock on May
+28, 1998. In March 1999, the Board of Directors voted to increase the authorized
+number of shares for issuance under the Plan to 3,000,000, which vote was
+ratified and approved by the Company shareholders at the July 28, 1999 Annual
+Meeting of Shareholders.
+1998 Employee Stock Purchase Plan
+The 1998 Employee Stock Purchase Plan the 1998 Plan, provides for the grant
+of rights to eligible employees on a semi-annual basis to purchase shares of the
+Company common stock. The 1998 Plan allows eligible employees to purchase up
+to 500 shares at the lessor of 1 85% of the average market price of the common
+stock on the first business day of the Payment Period or 2 85% of the average
+market price of the common stock on the last business day of the Payment Period.
+The participant can contribute up to 10% of total compensation to the 1998 Plan.
+Stock Option Activity
+The option activity for the years ended March 31, 2001, 2000 and 1999 was as
+follows                       2001                2000                1999
+Weighted             Weighted              Weighted
+Number      Average     Number      Average      Number     Average
+of      Exercise      of       Exercise      of       Exercise
+Shares      Price      Shares      Price      Shares      Price
+Outstanding options at
+beginning of year:       1,990,625     $ 564     1,908,125     $ 623      649,510     $ 641
+Granted           1,019,000      428      590,000      434     1,502,500      770
+Exercised           26,000      497         --       --      63,260      601
+Cancelled           726,625      539      507,500      634      180,625     1298
+Outstanding options at
+end of year           2,257,000      508     1,990,625      564     1,908,125     $ 623
+Exercisable at end of year    1,085,625      547      846,377      543      542,000     $ 498
+Available for future grant
+at end of year          932,750       --     1,043,500       --     1,306,625                                                   Weighted average fair
+value of options granted
+during the year        $   377             $   319             $   429
+27
+28
+The following table summarizes stock options outstanding at March 31, 2001                        OPTIONS OUTSTANDING                 OPTIONS EXERCISABLE
+WEIGHTED
+AVERAGE       WEIGHTED                WEIGHTED
+REMAINING      AVERAGE                 AVERAGE
+RANGE OF            NUMBER     CONTRACTUAL      EXERCISE      NUMBER       EXERCISE
+EXERCISE PRICE         OUTSTANDING      LIFE        PRICE      EXERCISABLE      PRICE
+-                                                                               
+$ 091            277,000       444        $  091       277,000      $  091
+238            168,000       968          238         --             263            30,000       993          263         --             363            46,000       918          363         --             381            90,000       840          381       70,000        381
+388            36,000       867          388       12,000        388
+400            64,000       955          400         --             413            109,000       857          413       21,000        413
+425            60,000       678          425       60,000        425
+469            263,000       942          469         --             505            45,000       930          505         --             506            614,000       794          506       364,333        506
+525            60,000       909          525         --             531            45,000       904          531         --             713             8,000       891          713        2,667        713
+838            15,000       901          838         --             900            136,750       687          900       136,750        900
+1300            73,250       714         1300       53,375       1300
+1344            40,000       716         1344       20,000       1344
+1413            60,000       753         1413       60,000       1413
+1500            17,000       747         1500        8,500       1500
+091 - $1500         2,257,000       791        $  507      1,085,625      $  545
+Pro forma information regarding net income loss and earnings per share is
+required by SFAS No. 123, and has been determined as if the Company had
+accounted for its employee share options under the fair value method of that
+statement. The fair value for employee options granted during this year was
+estimated at the date of grant using a Black-Scholes option-pricing model with
+the following assumptions                           For the Year Ended
+March 31,    March 31,    March 31,
+2001      2000      1999
+Risk free interest rate         47 - 66%     56%     42 - 67%
+Volatility                 118%       80%       80%
+Dividend yield               --       --        Expected life in years          4 years     4 years     4 years For purposes of pro forma disclosures, the estimated fair value of the options
+is amortized to expense over the options' vesting period, which includes actual
+accelerated vesting entitlements during the year.                    28
+29
+The Company pro forma information follows in thousands except for earnings
+per share information                                  For the Year Ended
+March 31,       March 31,       March 31,
+2001          2000          1999
+Pro forma net income loss         $ 3,812,000     $ 2,032,000     $  6,267,000
+Pro forma earnings per share basic     $    029     $    016     $    050
+Pro forma earnings per share         $    029     $    015     $    049
+The effect on net income and earnings per share may not be indicative of the
+effects in future years as options vest over several years and the Company
+continues to grant stock options to new employees.
+8.  EARNINGS PER SHARE
+The following table sets forth per share earnings for the year ended March 31,
+2001 and 2000                                          For the Year Ended
+March 31,     March 31,
+2001        2000
+Numerator:
+Net income numerator for earnings per common share and
+earnings per common share assuming dilution             $  25,511     $  19,197
+Denominator:
+Denominator for basic earnings per share - weighted average
+shares                                 12,997,765     12,925,059
+Effect of dilutive securities:
+Employee stock options                         215,003       328,867
+Denominator for diluted earnings per share - adjusted weighted
+average shares and assumed conversions                 13,212,768     13,253,926
+Basic earnings per share                          $   000     $   000
+Diluted earnings per share                         $   000     $   000
+In addition, as of March 31, 2001 and 2000, there were options outstanding to
+purchase 1,782,000 and 235,125 shares, respectively, that are potentially
+anti-dilutive.
+9.  MAJOR CUSTOMERS
+The nature of the Company services results in the Company deriving significant
+amounts of revenue from certain customers in a particular year. For the year
+ended March 31, 2001, two customers accounted for 272% and 125% of the
+Company revenues. At March 31, 2001, these customers accounted for 351% and
+02% of accounts receivable. For the year ended March 31, 2000, two customers
+accounted for 255% and 113% of the Company revenue. At March 31, 2000, these
+customers accounted for 240% and 105% of accounts receivable. For the year
+ended March 31, 1999, three customers accounted for 184%, 164% and 138% of
+the Company revenues. At March 31, 1999, these customers represented 297 11% and 64% of accounts receivable.                    29
+30
+10.  EMPLOYEE RETIREMENT PLAN
+The Company maintains a defined contribution retirement plan under Section
+401k of the Internal Revenue Code for eligible employees the 401k Plan.
+The 401k Plan is funded by employee contributions of up to 15% of gross
+compensation and by discretionary Company contributions. In accordance with the
+provisions of the 401k Plan, employees may make tax-deferred contributions and
+the Company, at its discretion, may match 50% of employee contributions up to 5%
+of their earnings. The Company may also elect to make additional contributions
+to the plan. Company contributions vest over five years of employment. Company
+contributions amounted to $357,998, $391,067 and $477,365 for the years ended
+March 31, 2001, 2000 and 1999, respectively.
+11.  SEGMENT INFORMATION
+The Company operates in a single business segment, which offers similar products
+and services. The Company products are similar in nature, providing
+information technology strategy consulting and systems integration services to
+customers primarily in the financial services industry, with a primary focus on
+banks.
+12.  LONG-TERM INVESTMENT
+On September 8, 2000, the Company made a $3 million preferred stock investment,
+representing a minority interest, in S2 Systems, Inc., a software solution
+provider in the banking and diversified financial services markets. The
+investment is stated at cost.
+13.  COMMITMENTS
+The Company leases its facilities and other equipment under operating leases.
+Rent expense recognized under these leases during the fiscal years ended March
+31, 2001, 2000 and 1999 totaled approximately $639,000, $546,000 and $519,000,
+respectively. Future minimum lease payments due under noncancelable operating
+leases are as follows                         Required Minimum
+Payments
+in thousands
+Year ending March 31:
+2002                      $  700
+2003                        719
+2004                        718
+2005                        741
+2006                                                       Total minimum lease payments            $2,878
+There were no capital leases outstanding as of March 31, 2001.
+14.  SUBSEQUENT EVENT
+On April 20, 2001, we reduced our headcount by 37 employees and expect to take a
+pre-tax restructuring charge of approximately $925,000.
+15.  SELECTED QUARTERLY FINANCIAL DATA UNAUDITED
+The following table presents unaudited quarterly financial information for the
+years ended March 31, 2001 and 2000 in thousands, expect per share data                    30
+31                               For the Quarters Ended
+June 30,    September 30,   December 31,     March 31,
+2000       2000        2000        2001
+Revenue                 $9,527      $10,467      $ 8,223       $ 5,918
+Income loss from operations         4        594        307       2,159
+Net income loss              290        621        112        997
+Basic earnings per share         $ 002      $ 005      $ 001       $ 008
+Diluted earnings per share        $ 002      $ 005      $ 001       $ 008                                For the Quarters Ended
+June 30,     September 30,    December 31,     March 31,
+1999        1999        1999        2000
+Revenue                 $ 10,251       $ 6,789       $ 8,111       $10,036
+Income loss from operations         46       1,781        467        600
+Net income loss               204        805         9        629
+Basic earnings per share         $  002       $ 006      $ 000       $ 005
+Diluted earnings per share        $  002       $ 006      $ 000       $ 005 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+The following schedule depicts the allowance for doubtful accounts for the years
+ended March 31, 1999, 2000 and 2001 in thousands                     Balance at     Charged to     Charged to Other     Balance at
+Allowance            Beginning      Cost and       Accounts -        End of
+for Doubtful Accounts         of Period      Expenses       Write-Offs        Period
+Year Ended March 31, 1999         $375         $352        $  2           $725
+Year Ended March 31, 2000          725         75         --           650
+Year Ended March 31, 2001          650          7         282           375 

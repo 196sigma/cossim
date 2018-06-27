@@ -1,0 +1,941 @@
+ITEM 8. Financial Statements
+IXYS CORPORATION
+INDEX TO FINANCIAL STATEMENTS
+CONTENTS                                       Page
+Report of PricewaterhouseCoopers LLP, Independent Accountants. 32
+Audited Financial Statements
+Consolidated Balance  33
+Consolidated Statement of  34
+Consolidated Statement of Stockholders'  35
+Consolidated Statements of Cash  36
+Notes to Consolidated Financial  37                    31            REPORT OF INDEPENDENT ACCOUNTANTS
+To the Stockholders and Board of Directors IXYS Corporation
+In our opinion, the accompanying consolidated balance sheets and the related
+consolidated statements of operations, of stockholders' equity deficit, and
+cash flows, present fairly, in all material respects, the financial position
+of IXYS Corporation and its subsidiaries at March 31, 1999 and 1998, and the
+results of their operations and their cash flows for each of the three years
+in the period ended March 31, 1999, in conformity with generally accepted
+accounting principles. These financial statements are the responsibility of
+the company management; our responsibility is to express an opinion on these
+financial statements based on our audits. We conducted our audits of these
+statements in accordance with generally accepted auditing standards, which
+require that we plan and perform the audit to obtain reasonable assurance
+about whether the financial statements are free of material misstatement. An
+audit includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, and evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for the opinion expressed above.
+/s/ PricewaterhouseCoopers LLP
+San Jose, California
+May 10, 1999
+32                 IXYS CORPORATION
+CONSOLIDATED BALANCE SHEETS
+in thousands, except share data                                 March 31,
+1998   1999
+ASSETS
+Current assets:
+Cash and cash  $ 9,644 $ 7,087
+Restricted     950   1,393
+Accounts receivable, less allowance for doubtful accounts
+of $588 in 1998 and $600 in 1999, respectively.  10,009  11,731
+17,103  20,167
+Deferred income    1,617   1,617
+Total current   39,323  41,995
+Plant and equipment,   10,602  11,323
+Other    1,143   2,743
+Deferred income    3,272   1,039
+$ 54,340 $ 57,100
+LIABILITIES
+Current liabilities:
+Current portion of capitalized lease obligations. $  428 $ 1, 102
+Current portion of notes payable to bank.   4,168   4,369
+Current portion of mandatorily redeemable preferred
+9,300
+Accounts    4,474   5,161
+Accrued expenses and other    7,119   6,954
+Total current   25,489  17,586
+Notes payable to bank, net of current portion.   6,624   6,211
+Capitalized lease obligations, net of current portion.    814   2,195
+Pension    5,113   5,388
+Commitments and contingencies Note 8
+Series A and B mandatorily redeemable convertible preferred
+stock, $001 par value: Authorized: 116,000 shares in 1998
+and 0 shares in 1999
+Issued and outstanding: 111,409,671 shares in 1998 and 0
+shares in 1999 Aggregate liquidation value of $37,589 in
+1998,   28,256
+STOCKHOLDERS' EQUITY DEFICIT
+Preferred stock, $001 par value; 5,000,000 shares
+authorized, No shares issued and outstanding
+Common stock, $01 par value:
+Authorized: 250,000,000 shares in 1998 and 40,000,000
+shares in 1999
+Issued and outstanding: 72,211,873 shares in 1998 and
+11,986,661 shares in     72    120
+Additional paid-in    1,001  43,297
+Notes receivable from    936   936
+Accumulated   11,359 16,597
+Cumulative translation    734   164
+Total common stock, additional paid-in capital, notes
+receivable from stockholders, accumulated deficit, and
+accumulated translation   11,956  25,720
+$ 54,340 $ 57,100
+The accompanying notes are an integral part of these consolidated financial
+statements.
+33                 IXYS CORPORATION
+CONSOLIDATED STATEMENT OF OPERATIONS
+in thousands, except share data                           Year Ended March 31,
+1997   1998   1999
+Net  $ 55,322 $ 56,856 $ 66,523
+Cost of goods   34,158  38,048  44,939
+Gross   21,164  18,808  21,584
+Operating expenses:
+Research, development and engineering.   3,015   3,329   4,196
+Selling, general and administrative.   8,950   8,384  20,256
+Total operating expenses.  11,965  11,713  24,452
+Operating income    9,199   7,095  2,868
+Interest    116   431   993
+Gain loss on foreign currency transactions.   246   183    37
+Other income    484  3,466    669
+Income before income tax provision.   8,353  10,313  3,155
+Income tax   3,946  4,229  2,083
+Net income  $ 4,407 $ 6,084 $ 5,238
+Net income loss per share--basic. $  008 $  009 $ 056
+Number of shares used in per share calculation    53,478  65,501   9,373
+Net income loss per share--diluted. $  002 $  003 $ 056
+Number of shares used in per share calculation   208,280  201,866   9,373
+The accompanying notes are an integral part of these consolidated financial
+statements.
+34                 IXYS CORPORATION
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' DEFICIT
+FOR THE YEARS ENDED MARCH 31, 1997, 1998 and 1999
+in thousands                            Notes
+Additional Receivable       Cumulative   Total
+Paid-In    from   Accumulated Translation Stockholder
+Shares Amount Capital  Stockholders  Deficit  Adjustment   Deficit
+Balances, March 31,
+1996. 4,191  $ 42  $ 1,022   $936   $21,850   $ 700   $21,022
+Exercise of stock
+options.   2        4                         4
+Exercise of stock
+warrants.   1        1                         1
+Issuance of note
+receivable for common
+stock.   2
+Foreign currency
+translation
+adjustments.                            519     519
+Net income.                      4,407          4,407
+Balances, March 31,
+1997. 4,196   42   1,027    936   17,443    181    17,129
+Exercise of stock
+options.   2        2                         2
+Repurchase of common
+stock.  21       4                        4
+Payment on notes
+receivable from
+stockholders.
+Exercise of warrants.
+Foreign currency
+translation
+adjustments.                            915     915
+Net income.                      6,084          6,084
+Balance, March 31,
+1998. 4,177   42   1,025    936   11,359   734   11,962
+Exercise of stock
+options.   6        17                        17
+Exercise of warrants.  893   9                              9
+Conversion of preferred
+stock. 6,469   65  37,491                      37,556
+Issuance of common
+stock.  442   4   4,764                       4,768
+Foreign currency
+translation
+adjustment.                             570      570
+Net loss.                      5,238         5,238
+Balances, March 31,
+1999. 11,987  $120  $43,297   $936   $16,597   $164   $ 25,720
+The accompanying notes are an integral part of these consolidated financial
+statements.
+35                 IXYS CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+in thousands                            Year Ended March 31,
+1997   1998   1999
+Cash flows from operating activities:
+Net income  $ 4,407 $ 6,084 $ 5,238
+Adjustments to reconcile net income to net cash
+provided by operating activities:
+Depreciation and    969  1,525   2,614
+262  1,018
+Provision for excess and obsolete inventories.   730   708   1,367
+Writeoff of goodwill and in-process research and
+10,401
+Loss gain on foreign currency translation.   246   317   297
+Deferred income   3,366  4,369    600
+Changes in operating assets and liabilities:
+Accounts    401 3,447  2,290
+2,735 6,907  5,657
+Prepaid expenses and other current assets.        5   514
+Other    264  754  1,213
+Accounts    812  2,446   178
+Accrued expenses and other liabilities.  4,255 1,741   151
+Pension    379   353    275
+Net cash provided by operating activities.  1,368  3,332    615
+Cash flows used in investing activities:
+Purchases of plant and equipment.  1,400 9,311  3,116
+Purchase of    --    --    606
+Net cash used in investing activities.  1,400 9,311  3,722
+Cash flows used in financing activities:
+Proceeds from capital lease obligations.   996   350   2,143
+Restricted cash    187   641   443
+Principal payments on capital lease obligations.   268  209   303
+Repayment of notes payable to bank.   645 2,500
+Proceeds from bank   2,500  11,148
+Other     5    5   977
+Net cash provided by financing activities.  2,401  9,435    420
+Effect of foreign exchange rate fluctuations on
+cash and cash    697  452   130
+Net increase in cash and cash equivalents.  1,672  3,004  2,557
+Cash and cash equivalents at beginning of year.  4,968  6,640   9,644
+Cash and cash equivalents at end of year. $ 6,640 $ 9,644 $ 7,087
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+Cash paid during the period for interest. $  36 $  501 $  979
+Cash paid during the period for income taxes.  1,615   326   2,739
+SUPPLEMENTAL SCHEDULE OF NONCASH INVESTING AND
+FINANCING ACTIVITIES:
+Purchase of fixed assets under capital lease.             129
+Purchase of common stock through issuance of notes
+6
+Conversion of mandatorily convertible preferred
+37,556
+Common stock issued for Paradigm assets.            4,740  The accompanying notes are an integral part of these financial statements.
+36                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. FORMATION AND BUSINESS OF IXYS  Effective September 23, 1998, IXYS Corporation IXYS merged with Paradigm
+Technology, Inc. Paradigm, a company that designs and markets fast SRAM
+products, in a transaction accounted for as a reverse merger. In the merger,
+Paradigm issued 11,513,821 shares of its common stock in exchange for all
+outstanding shares of IXYS capital stock. At the conclusion of the merger,
+IXYS stockholders held approximately 96% of the combined company. After the
+merger, the historic accounting records of IXYS became those of the combined
+company and, accordingly, Paradigm changed its name to IXYS the combined
+company of which is referred to in this filing as the Company or the
+Registrant.
+IXYS Corporation designs, develops and markets power semiconductors, Digital
+and Analog Integrated Circuits IC, and high speed, high density Static
+Random Access Memory SRAM. Power semiconductors are used primarily in
+controlling energy in motor drives, power conversion including
+uninterruptible power supplies UPS and switch mode power supplies SMPS
+and medical electronics. IXYS' power semiconductors convert electricity at
+relatively high voltage and current levels to create efficient power as
+required by a specific application. IXYS' target market includes segments of
+the power semiconductor market that require medium to high power
+semiconductors, with a particular emphasis on higher power semiconductors.
+IXYS sells power semiconductors, including power MOSFETs, insulated gate
+bipolar transistors IGBTs, thyristors silicon controlled rectifiers or
+SCRs and rectifiers, including fast recovery epitaxial diodes FREDs. SRAM
+products are for uses in telecommunication devices, workstations and high
+performance PCs to OEMs and distributors in the United States, Europe and the
+Far East.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Principles of Consolidation  The consolidated financial statements include the accounts of the Company
+and its wholly owned subsidiaries after elimination of all significant
+intercompany balances and transactions.
+Use of Estimates  The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could materially differ from IXYS' estimates.
+Foreign Currency Translation  The local currency is considered to be the functional currency of the
+Company wholly owned subsidiary IXYS Semiconductor GmbH IXYS GmbH.
+Accordingly, assets and liabilities are translated at the exchange rate in
+effect at year-end and revenues and expenses are translated at average rates
+during the year. Adjustments resulting from the translation of the accounts of
+IXYS GmbH into U.S. dollars are included in cumulative translation adjustment,
+a separate component of stockholders' deficit. Foreign currency transaction
+gains and losses are included as a component of other income and expense.
+Cash Equivalents  IXYS considers all highly liquid investments with original or remaining
+maturities of three months or less at the time of purchase to be cash
+equivalents.
+37                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued Inventories  Inventories, consisting primarily of bipolar devices, transistors, diodes
+and integrated circuits, are stated at the lower of cost or market. Cost is
+determined on a standard cost basis which approximates actual costs determined
+on a first-in, first-out FIFO method.
+Plant and Equipment  Plant and equipment, including equipment under capital leases, is stated at
+cost less accumulated depreciation and amortization. Depreciation or
+amortization is computed using the straight-line method over estimated useful
+lives of three to five years for equipment and twenty years for buildings.
+Upon disposal, the assets and related accumulated depreciation are removed
+from IXYS' accounts and the resulting gains or losses are reflected in the
+statements of income. The Company policy is to regularly review the carrying
+value of specialized assets to evaluate the remaining life and recoverability
+of such equipment in light of current market conditions.
+Product Warranty  Expected future product warranty expense is recorded when the product is
+sold.
+Revenue Recognition  Revenue from power semiconductor product sales is recognized upon shipment
+and is reflected net of an allowance for estimated returns and discounts. In
+general, the Company sales to distributors are made under agreements
+allowing certain rights of return and price protection on products unsold by
+the distributors.
+Advertising  IXYS expenses advertising as the costs are incurred. Advertising expense for
+the years ended March 31, 1997, 1998 and 1999 was $268,000, $408,000, and
+$413,000 respectively.
+Research and Development  Research and development costs are charged to operations as incurred.
+Income Taxes  The Company provision for income taxes is comprised of its current tax
+liability and the change in deferred tax assets and liabilities. Deferred tax
+assets and liabilities are determined based on differences between financial
+reporting and tax bases of assets and liabilities and are measured using the
+enacted tax rates and laws that will be in effect when the differences are
+expected to reverse.
+Other Assets--Goodwill and Other Intangible Assets  Goodwill and other intangible assets arose from the Paradigm merger in the
+amount of approximately $9,908,000. The company assesses the recoverability of
+intangible assets by determining whether the amortization of the asset net
+book value over its remaining life can be recovered through projected
+undiscounted future cash flows. Accordingly, the company wrote off
+approximately $1,463,000 of intangible assets and $7,752,000 of goodwill in
+the fourth quarter of fiscal year 1999 to reflect an impairment in the value
+of intangible assets and goodwill associated with the acquisition. The
+anticipated cash flows related to the related products indicated that the
+recoverability of those assets was not reasonably assured.
+38                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued Net Income Per Share  Basic EPS is computed by dividing net income by the weighted-average number
+of common shares outstanding for the period. Diluted EPS reflects the
+potential dilution from the exercise or conversion of other securities into
+common stock.
+Recent Accounting Pronouncements  In June 1997, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 131, Disclosure about Segments of an
+Enterprise and Related Information SFAS 131. SFAS 131 establishes standards
+for the way that public business enterprises report information about
+operating segments in annual financial statements and requires that those
+enterprises report selected information about operating segments in interim
+financial reports issued to stockholders. SFAS 131 generally supersedes
+Statement of Financial Accounting Standards No14, Financial Reporting for
+Segments of Business Enterprise. Under SFAS 131, operating segments are
+components of an enterprise about which separate financial information is
+available that is evaluated regularly by the chief operating decision maker in
+deciding how to allocate resources and in assessing performance. Generally,
+financial information is required to be reported on the basis it is used
+internally. SFAS 131 is effective for financial statements for periods
+beginning after December 15, 1997, and restatement of comparative information
+for earlier years is required. However, SFAS 131 is not required to be applied
+to interim financial statements in the initial year of application. Based upon
+the criteria of SFAS 131, the Company has a single operating segment.
+Accordingly, the financial statements provided herein satisfy the standard for
+reporting. Geographic information about revenues, operating income and
+identifiable assets are provided in the notes to the financial statements.
+In June 1998, the FASB issued Statement of Financial Accounting Standards
+No. 133, or SFAS 133, Accounting for Derivative Instruments and Hedging
+Activities. SFAS 133 establishes new standards of accounting and reporting for
+derivative instruments and hedging activities. SFAS 133 requires that all
+derivatives be recognized at fair value in the balance sheet, and that the
+corresponding gains or losses be reported either in the statement of
+operations or as a component of comprehensive income, depending on the type of
+hedging relationship that exists. SFAS 133 will be effective for fiscal years
+beginning after June 15, 1999. The Company does not currently hold derivative
+instruments or engage in hedging activities.
+In March 1998, the Accounting Standards Executive Committee, or AcSEC,
+released Statement of Position 98-1, or SOP 98-1, Accounting for the Costs of
+Computer Software Developed or Obtained for Internal Use. SOP 98-1 requires
+companies to capitalize certain costs of computer software developed or
+obtained for internal use, provided that those costs are not research and
+development. SOP 98-1 is effective for fiscal years beginning after December
+15, 1998. The Company is evaluating the requirements of SOP 98-1 and the
+effects, if any, on the Company current policies on accounting for software
+costs.
+Comprehensive Income  The Company adopted Statement of Financial Accounting Standards No. 130, or
+SFAS 130, Accounting for Comprehensive Income, during the fiscal year ended
+1998. This statement establishes standards for reporting and display of
+comprehensive income and its components including revenues, expenses, gains
+and losses in a full set of general-purpose financial statements. The
+Company change in the cumulative translation adjustment represent the only
+component of comprehensive income which is excluded from net income for 1999
+and prior years. The Company comprehensive income has been presented in the
+consolidated financial statements.
+Business Risks  Dependence on Third Parties for Wafer Fabrication and Assembly: IXYS
+manufactures approximately 53% of its wafers, an integral component of its
+products, in its wholly owned facility in Germany. IXYS
+39 purchases the remaining 47% of its wafers from other suppliers. There can be
+no assurance that material disruptions in supply will not occur in the future.
+In such event, IXYS may have to identify and secure additional foundry
+capacity and may be unable to identify or secure additional foundry capacity
+from another manufacturer, particularly at the levels that IXYS currently
+anticipates such foundries to provide. Even if such capacity is available from
+another manufacturer, the qualification process could take six months or
+longer. If IXYS were unable to qualify alternative manufacturing sources for
+existing or new products in a timely manner or if such sources were unable to
+produce semiconductor devices with acceptable manufacturing yields and at
+acceptable prices, IXYS' business, financial condition and results of
+operations would be materially and adversely affected.
+Dependence on Suppliers: IXYS purchases silicon wafers from three vendors
+with whom IXYS does not have long term supply agreements. Any of these
+suppliers could eliminate or terminate IXYS' supply of wafers at any time.
+IXYS' reliance on a limited number of suppliers involves several risks,
+including potential inability to obtain an adequate supply of silicon wafers
+and reduced control over the price, timely delivery, reliability and quality
+of the silicon wafers. There can be no assurance that problems will not occur
+in the future with suppliers.
+Included in IXYS' consolidated balance sheet at March 31, 1999 are the net
+assets, at book value, of IXYS' manufacturing operation in Germany, which
+total approximately $567 million.
+40                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued Concentration of Credit Risk  IXYS invests its excess cash primarily in short-term time deposit accounts
+with a major German bank and money market accounts with a U.S. bank. These
+securities typically mature within ninety days and bear minimal credit risk.
+IXYS has not experienced any losses on such investments.
+IXYS sells its products primarily to distributors and original equipment
+manufacturers in the United States and in Europe. IXYS performs ongoing credit
+evaluations of its customers and generally does not require collateral. An
+allowance for potential credit losses is maintained by IXYS and such losses
+have not been material.
+Fair Value of Financial Instruments  Carrying amounts of certain of IXYS' financial instruments including cash
+and cash equivalents, accounts receivable, other assets, accounts payable and
+other accrued liabilities approximate fair value due to their short
+maturities. Based on borrowing rates currently available to IXYS for loans
+with similar terms, the carrying value of notes payable to bank and notes
+receivable from shareholders approximate fair value.
+The amounts reported for cash equivalents, receivables and other financial
+instruments are considered to approximate fair values based upon comparable
+market information available at the respective balance sheet dates. Financial
+instruments that potentially subject the Company to concentrations of credit
+risks comprise principally cash, investments and trade accounts receivable.
+The Company invests its excess cash in accordance with its investment policy
+that has been approved by the Board of Directors and is reviewed periodically
+to minimize credit risk. The policy authorizes the investment of excess cash
+in government securities, tax exempt municipal securities, Eurodollar notes
+and bonds, time deposits, certificates of deposit, commercial paper rated Aa
+or better and other specific money market and corporate instruments of similar
+liquidity and credit quality.
+Stock--Based Compensation Plans
+The Company accounts for stock-based compensation using the intrinsic value
+method prescribed in Accounting Principles Board Opinion APB No. 25,
+Accounting for Stock Issued to Employees. Under APB No. 25, compensation
+cost is measured as the excess, if any, of the quoted market price of the
+Company stock at the date of grant over the exercise price of the option
+granted. Compensation cost for stock options, if any, is recognized ratably
+over the vesting period. The Company policy is to grant options with an
+exercise price equal to the quoted market price of the Company stock on the
+grant date. Accordingly, no compensation has been recognized for its stock
+option plans. The Company provides additional pro forma disclosures as
+required under SFAS No. 123, Accounting for Stock-Based Compensation.
+3. ACQUISITION AND MERGER  The purchase price for Paradigm, consisting of the value of Paradigm common
+stock outstanding at the date of the merger, costs incurred by IXYS and the
+Paradigm liabilities assumed, has been allocated to Paradigm tangible and
+intangible assets based on relative fair values as follows                                   
+Current  $  484
+Fixed    810
+In-process research and   1,186
+Other   1,463
+8,445
+$12,388
+41                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  The amounts allocated to intangible assets, including in-process research
+and development, were based on results of an independent appraisal. Acquired
+in-process research and development represented development projects in areas
+that had not reached technological feasibility and had no alternative future
+use and were valued using the stage of completion methodology prescribed by
+the Securities and Exchange Commission, and were charged to operations at the
+date of the acquisition.
+Intangible amortization of $1,463,000 and the writeoff of goodwill in the
+amount of $7,752,000 was recorded as expense in fiscal 1999. The value of the
+in-process research development acquired in the transaction, in the amount of
+$1,186,000, was recorded as an expense immediately following the transaction
+as the products under development had not reached technological feasibility
+and there was no other alternative future use for the costs incurred. The
+aforementioned items are included within the operating statement caption
+Sales, general and administrative.
+In conjunction with the merger, all outstanding shares of mandatorily
+redeemable convertible preferred stock were converted to common stock and the
+carrying value of $37,556,000 has been reclassified as stockholders' equity.
+The following unaudited proforma consolidated statement of operations
+assumes Paradigm had been purchased at the beginning of fiscal 1998.                               Years Ended March
+31,
+1999   1998
+Dollars in
+thousands
+Net  $ 67,983 $ 67,697
+Net  13,006  2,061
+Net loss per share:
+$ 139 $ 003
+$ 139 $ 003
+Shares used in per share calculations:
+9,373  65,501
+9,373  65,501 4. INVENTORIES  Inventories consist of the following in thousands                                 March 31,
+1998   1999
+Raw  $ 3,789 $ 3,368
+Work in  12,059  13,654
+Finished   5,765  9,172
+21,613  26,194
+Less inventory  4,510 6,027
+$17,103 $20,167
+42                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 5. PLANT AND EQUIPMENT  Plant and equipment consists of the following in thousands                                March 31,
+1998   1999
+Buildings
+$13,825 $ 20,055
+Equipment--capital   4,635   7,400
+Leasehold    38    38
+23,624  27,493
+Accumulated depreciation and amortization--owned plant
+and  9,449 11,662
+Accumulated amortization--capital leases. 3,573  4,508
+$10,602 $ 11,323
+6. ACCRUED EXPENSES AND OTHER LIABILITIES  Accrued expenses and other liabilities consist of the following in
+thousands                                   March 31,
+1998  1999
+Accrued patent and  $ 800 $  16
+Personnel  1,837 1,610
+Warranty and loss   715  957
+Income  1,602  737
+2,165 3,634
+$7,119 $6,954
+7. BORROWING AND CAPITAL LEASE ARRANGEMENTS  Borrowings and capital lease arrangements consist of the following in
+thousands                                  March 31,
+1998   1999
+Notes payable to  $10,792 $10,580
+Capitalized lease   1,242  3,297
+12,034  13,877
+Less current  2,496 5,471
+$ 9,538 $ 8,406
+IXYS entered into a loan and security agreement with a U.S. bank to borrow
+up to an aggregate amount not to exceed $5 million. The loan bears interest at
+the bank prime rate 775% at March 31, 1999, payable monthly, and matures
+in August 1999. The loan is collateralized by certain assets and contains
+certain general and financial covenants, including a requirement that IXYS
+remain solvent and able to pay its debts as they become due. At March 31,
+1999, IXYS has drawn $21 million against the loan.
+43                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  The Company entered into a loan agreement with a German bank to finance the
+acquisition of the Lampertheim facility the Facility from Asea Brown
+Boveri Aktiengesellschaft ABB, a stockholder. The loan was for the total
+amount of DM 13,250,000 $7,175,000, payable in monthly installments of DM
+125,226 $67,800 at March 31, 1999 and is due no later than October 31, 2009.
+The loan, which is collateralized by the Facility, bears interest at the
+annual rate of 540% through August 2001, at which time the interest rate will
+be adjusted to market rates in accordance with the terms of the loan
+agreement. The acquisition of the Facility closed in January 1998, at which
+time the proceeds were drawn against the loan. At March 31, 1999, the amount
+outstanding under the loan agreement was DM 12,234,000 $6,681,000.
+IXYS leases certain equipment under capital lease arrangements expiring
+through fiscal 2001 at interest rates of 49% to 63%.
+Future minimum payments under capital lease obligations and notes payable
+are in thousands                                 Capital Notes
+Leases Payable
+Fiscal year ending March 31,
+$1,102 $ 4,369
+890   499
+720   525
+585   554
+585
+4,048
+$3,297 $10,580
+8. COMMITMENTS AND CONTINGENCIES Commitments  IXYS rents certain of its facilities under operating leases which expire in
+January 2002 and March 2004. IXYS is responsible for insurance and property
+taxes. Future minimum lease payments are as follows in thousands                                    
+Fiscal year ending March 31,
+$ 413
+329
+338
+2003 and   685
+$1,765
+Rent expense, for fiscal years ended March 31, 1997, 1998 and 1999 amounted
+to $410,000, $571,000, and $358,000 respectively.
+As of March 31, 1998 and 1999, IXYS had cash deposits with a financial
+institution of $950,000, and $1,393,00 respectively, which were restricted as
+to use and represent compensating balances for current or future Discounted
+Acceptances and letters of credit.
+44                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued Litigation
+In February 1997, in U.S. District Court, a judgment was entered against
+IXYS for $365 million related to the sale of products that infringed certain
+patents. IXYS paid $313 million of the $365 million judgment in 1997 and
+filed an appeal in U.S. Federal Court. Through the appeal process, IXYS
+accrued the unpaid portion of the judgment and was accruing royalty expense in
+accordance with the Court judgment. At March 31, 1997, IXYS was holding
+approximately $575,000 in an escrow account for payment of the balance of the
+judgment.
+In December 1997, IXYS entered into a settlement agreement with the
+plaintiff, whereby there would be no liability to IXYS. The agreement is
+subject to ratification by the U.S. District Court, and during 1998, the
+plaintiff returned the $313 million payment plus interest which is included
+in other income on the consolidated statements of income.
+On August 12, 1996, the Company and Michael Gulett, Robert McClelland,
+Richard A. Veldhouse, Dennis McDonald and Chiang Lam the Paradigm
+Defendants were named, along with PaineWebber, Inc., as defendants in a
+purported class action entitled Bulwa et al. v. Paradigm Technology, Inc. et
+al., Santa Clara County Superior Court Case No. CV759991 brought on behalf of
+stockholders who purchased the Company stock between November 20, 1995 and
+March 22, 1996 the Class Period.
+The complaint asserted six causes of action against the Paradigm Defendants:
+negligent misrepresentation, fraud, breach of fiduciary duty, violations of
+California Corporations Code sections 25400 and 25500 Sections 25400 and
+25500, violation of Corporations Code section 1507, and violation of
+California Civil Code sections 1709 and 1710.
+The Paradigm Defendants responded to the complaint by filing a demurrer
+which challenged the legal sufficiency of all six causes of action. On
+December 12, 1996, the Court sustained the demurrer as to all of the causes of
+action except for the fourth cause of action for violation of Sections 25400
+and 25500 and as to all causes of action for defendant Michael Gulett. The
+Court, however, granted plaintiffs leave to amend the complaint to attempt to
+cure the defects which caused the Court to sustain the demurrer. Plaintiffs
+failed to amend within the allotted time and independently expressed an intent
+to prosecute only the fourth cause of action. On January 8, 1997, the Paradigm
+Defendants, with the exception of Michael Gulett who by virtue of the ruling
+on the demurrer has obtained a dismissal with prejudice as to all causes of
+action asserted against him, filed an answer to the complaint denying any
+liability for the acts and damages alleged by the plaintiffs.
+Plaintiffs have since served the Paradigm Defendants with discovery requests
+for production of documents and interrogatories, to which the Paradigm
+Defendants have responded. Plaintiffs have also subpoenaed documents from
+various third parties. The Paradigm Defendants have served the plaintiffs with
+an initial set of discovery requests, to which plaintiffs have responded. The
+Paradigm Defendants also took the depositions of the named plaintiffs on April
+9, 1997.
+On January 15, 1997, plaintiffs filed a motion to certify the matter as a
+class action. After several hearings and continuances, on February 9, 1998 the
+Court certified a class consisting only of California purchasers of the
+Company stock during the Class Period. Following the California Supreme
+Court decision in Diamond Multimedia Systems, Inc. v. Superior Court, 19 Cal.
+4th 1036 1999, plaintiffs moved to modify the prior class certification
+ruling to include also non-California purchaser. The Court granted this motion
+on April 28, 1999.
+On April 9, 1998, the court granted plaintiffs' motion to amend their
+complaint to incorporate factual allegations derived from the Campbell, et al.
+action described below. The court overruled the Paradigm Defendants' demurrer
+to the amended complaint on August 6, 1998. The Paradigm Defendants filed an
+answer to the amended complaint on August 27, 1998. There can be no assurance
+that the Company will be successful
+45                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued
+in the defense of this action. If unsuccessful in the defense of any such
+claim, the Company business, operating results and cash flows could be
+materially adversely affected.
+On December 4, 1998, defendant Dennis McDonald, Paradigm former Vice
+President of Human Resources, filed a motion for summary judgment on the
+amended complaint. Following his deposition, and prior to the hearing on the
+motion, plaintiffs agreed to dismiss the defendant McDonald from the action
+with prejudice in exchange for a waiver of costs. Defendant McDonald has since
+obtained a judgment of dismissal.
+On February 21, 1997, an additional purported class action, with causes of
+action and factual allegations essentially identical to those of the Bulwa, et
+al. action, was filed by the law firm of Stull, Stull & Brody in the Santa
+Clara County Superior Court on behalf of stockholders who held the Company
+stock between November 20, 1995 and March 22, 1996. The action was entitled
+Chai, et al. v. Paradigm Technology Inc. et al. Case No. CV764259, and was
+asserted against the same Paradigm Defendants as in the Bulwa, et al. action,
+PaineWebber, Inc. and Smith Barney. Prior to the hearing on the Paradigm
+Defendants' demurrer to the initial complaint, plaintiff amended his complaint
+to incorporate factual allegations derived from the Campbell, et al. action
+described below. The Paradigm Defendants filed a demurrer to the amended
+complaint, which was heard on September 9, 1997.
+On September 10, 1997, the Court issued an order sustaining the Paradigm
+Defendants' demurrer as to all causes of action without leave to amend. A
+judgment in favor of the Paradigm Defendants dismissing the entire complaint
+was entered by the Court on September 23, 1997. Plaintiff appealed the
+decision, but on November 13, 1998 the Court of Appeal affirmed the judgment.
+Plaintiff petition for rehearing was denied. The time for filing a petition
+for review by the Supreme Court has expired.
+On May 19, 1997, Thomas Campbell, James Zulliger and Mark Wagenhals, former
+employees of the Company, filed an action Campbell, et al. v. Paradigm
+Technology, Inc., et al., Case No. CV766271 in Santa Clara County Superior
+Court. The complaint named as defendants the Company, Michael Gulett, Richard
+Veldhouse, Dennis McDonald and Chiang Lam. The Campbell plaintiffs filed with
+the complaint a notice that they considered their case related legally and
+factually to the Bulwa action discussed above. The Campbell complaint
+contained causes of action for fraud, breach of fiduciary duty, violations of
+California Corporations Code sections 25400-25402, 25500-25502 and 25504 and
+violation of California Civil Code sections 1709-1710. The Campbell complaint
+alleged that the defendants misled them and committed fraud by allegedly
+overstating the Company back orders in the fourth quarter of 1995 and
+inflated reported sales in the fourth quarter of 1995 and the first quarter of
+1996, which allegedly resulted in distorting the Company financial
+condition, which allegedly inflated its stock price. Plaintiffs alleged that
+they purchased the Company stock at the allegedly inflated prices and were
+damaged thereby. The complaint sought an unspecified amount of compensatory,
+rescissory and/or punitive damages. Defendants responded to the complaint on
+September 12, 1997 by filing a demurrer as to all causes of action. Prior to
+the hearing on the demurrer, plaintiffs amended their complaint to identify
+two allegedly fraudulent sale transactions. Defendants filed a demurrer as to
+all causes of action in the amended complaint, which was heard on April 2,
+1998. That same day, the Court issued its order sustaining the demurrer on
+multiple grounds, but granted plaintiffs leave to amend the complaint by May
+15, 1998. Defendants filed a demurrer in response to the second amended
+complaint, which was heard on September 3, 1998. That same day, the Court
+sustained the demurrer but granted plaintiffs leave to file a third amended
+complaint by September 30, 1998. Plaintiffs then filed a third amended
+complaint. Following defendants' filing of a demurrer to the third amended
+complaint, plaintiffs agreed to dismiss their claims with prejudice in
+exchange for defendants' agreement not to seek to recover defendants' costs
+incurred in defending against the action. The third amended complaint was
+dismissed with prejudice on December 11, 1998 and the defendants agreed not to
+pursue any action against the plaintiffs for having filed the action.
+46                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  On May 19, 1998, the law firm that filed the Bulwa, et al. action described
+above filed an additional securities class action lawsuit against the Company,
+Michael Gulett, Robert McClelland, Richard A. Veldhouse and Chiang Lam, this
+time in the United States District Court for the Northern District of
+California. The complaint alleged violations of section 10b of the
+Securities Exchange Act of 1934, as amended the Exchange Act, the
+Commission Rule 10b-5 and section 20a of the Exchange Act. Plaintiff alleged
+the same class and the same substantive factual allegations that are contained
+in the Bulwa, et al. action as amended. Defendants responded to the complaint
+on July 27, 1998 by filing a motion to dismiss the complaint for failure to
+state claims upon which relief can be granted and for various pleading
+inadequacies. In lieu of opposing the motion, plaintiff filed a first amended
+complaint. Defendants renewed their motion to dismiss, and on January 20, 1999
+the Court issued an order granting the motion and dismissing plaintiff
+action and entered judgment thereon. On February 3, 1999, the Court entered an
+amended judgment clarifying that the judgment is with prejudice. On March 12,
+1999, plaintiffs filed a notice of appeal.
+IXYS is involved in various other litigation and potential claims. Due to
+the inherent uncertainty of litigation, management is not able to reasonably
+estimate losses that may be incurred in relation to this litigation. Although
+no assurance can be given as to the results of these cases, based on the
+present status, management does not believe that results of the aforementioned
+actions will have a material adverse effect on the Company financial
+condition or results of operations.
+9. COMMON STOCK AND PREFERRED STOCK  Preferred Stock under the terms of the Company Articles of Incorporation,
+the Board of Directors may determine the rights, preferences, and terms of the
+Company authorized but unissued shares of preferred stock.
+Warrants  IXYS has outstanding warrants as follows                            Number
+of Shares
+Under The
+Expiration Date                  Warrants  Exercise Price
+None. Convertible into common stock  8,031 $1470 per share
+April 2001. Convertible into common stock 181,847 $ 086 per share Stock Purchase and Incentive Stock Option Plans  IXYS has a 1994 Stock Option Plan the Plan under which incentive stock
+options may be granted not less than 85% of fair market value at the time of
+grant. The options once granted expire ten years from the date of grant. The
+Board of Directors has the full power to determine the provisions of each
+option issued under both plans.
+47                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  Stock option activity under the Plan is summarized below in thousands,
+except share data               Shares     Options Outstanding    Weighted-
+Available   Average
+for   Number             Exercise
+Grant  of Shares Exercise Price Total  Price
+Balances, March 31,
+1996. 206,361  115,849 $ 0017 432 $ 13  $ 012
+Options granted. 206,496  206,496 $  691 761  87  $ 042
+Options exercised.   --   2,314 $     173 --   $ 010
+Options canceled.   289    289 $ 0017 259 --   $ 006
+Balances, March 31,
+1997.   154  319,742 $ 0017 761 100  $ 031
+Options exercised.       2,024 $  086 259 --   $ 013
+Options canceled.  42,803  42,803 $     692 17  $ 040
+Balances, March 31,
+1998.  42,957  274,915 $ 0017 761  83  $ 030
+New authorized. 115,260       $         1  $ 015
+Options granted. 99,900  106,566 $37125--33750 348  $3481
+Options exercised.   --   25,129 $ 0017 086  2  $0075
+Options canceled.  3,905   3,905 $ 0017 432  1  $0157
+Options expired. 46,841    --  $        --                            Balances, March 31,
+1999.  15,381  352,447 $ 0017-$37125 $429  $ 122  Expired options in 1999 represents options under the pre-merger IXYS plan
+established in 1989 which ceased in fiscal year 1999.
+In October 1995, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standard No. 123 SFAS 123, Accounting for Stock-
+Based Compensation, which was effective for IXYS' fiscal year 1997. SFAS 123
+allows companies to either account for stock-based compensation under the new
+provisions of SFAS 123 or under the provisions of Accounting Principles Board
+Opinion No. 25 APB 25, Accounting for Stock Issued to Employees, but
+requires pro forma disclosure in the footnotes to the financial statements as
+if the measurement provisions of SFAS 123 had been adopted.
+IXYS has continued to account for its stock based compensation under the
+Plan in accordance with APB 25. Accordingly, no compensation expense has been
+recognized for stock options granted under the Plan. Had compensation cost for
+the Plan been determined based on the fair value at the grant date for awards
+in fiscal years 1996, 1997 and 1998 consistent with the provisions of SFAS No.
+123, IXYS' net income and net income per share for fiscal years 1996, 1997 and
+1998 would have decreased to the pro forma amounts indicated below in
+thousands, except per share amounts                             Year Ended March 31,
+1997  1998  1999
+Net income loss--as  $4,407 $6,084 $5,238
+Net income loss--pro  $4,388 $5,996 $5,285
+Net income loss per share--basic--as reported. $ 008 $ 009 $ 056
+Net income loss per share--basic--pro forma. $ 008 $ 009 $ 056
+Net income loss per share--diluted--as reported. $ 002 $ 003 $ 056
+Net income loss per share--diluted--pro forma. $ 002 $ 003 $ 056
+48                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  In future years, annual compensation expense will vary relative to the
+vesting of options granted in those future years.
+In accordance with the provisions of SFAS 123, the fair value of each option
+is estimated using the Black- Scholes model using the following assumptions
+used for grants for the year ended March 31, 1999; dividend yield of 0 volatility of 83%, risk-free interest rates of between 433% to 567% at the
+date of grant and an expected term of four years. The weighted-average fair
+value of options granted during 1998 and 1999 was $1625 and $3481 per share,
+respectively.
+IXYS has sold 3,908,095 shares of common stock to certain members of IXYS'
+management under a restricted stock purchase agreement subject to IXYS' right
+of repurchase, which lapses ratably over five years. The shares were purchased
+through recourse promissory notes at a purchase price of $022 per share.
+Interest is due on the notes at a rate of 5% per annum, with the balance
+outstanding due in full November 2000. At March 31, 1998 and 1999, 187,077
+shares and 72,550 shares of common stock are subject to IXYS' right of
+repurchase, respectively.
+Reverse Stock Split
+On May 1, 1998, the Company stockholders approved a 10-for-1 reverse stock
+split of the Company common stock, such that every 10 shares shall be
+combined into one share of common stock. Common share and per share data for
+1999 have been restated to reflect this stock split.
+A Stock Split was effected in September 1998 by the Company Board of
+Directors which approved a 1-for-15 reverse split of the Company common
+stock that was applicable to shareholders of record on June 16, 1998 and
+effective on September 23, 1998. References to share and per-share data for
+1999 have been adjusted to give effect to this stock split.
+10. EMPLOYEE SAVINGS AND RETIREMENT PLAN  IXYS has a 401K plan, known as the IXYS Corporation and Subsidiary Employee
+Savings and Retirement Plan. Eligibility to participate in the plan is
+subject to certain minimum service requirements. Employees may voluntarily
+contribute up to 20% of yearly compensation and IXYS may make matching
+contributions as determined by the Board of Directors in a resolution on or
+before the end of the fiscal year. Employees are 100% vested immediately. For
+the years ended March 31, 1997, 1998 and 1999, IXYS contributed $76,000 96,000 and $113,000, respectively.
+11. PENSION PLANS  Employees of IXYS GmbH participate in a number of employee retirement plans,
+including a defined benefit pension plan, the benefits for which will be paid
+out of the general assets of IXYS GmbH, as well as other government sponsored
+retirement plans to which IXYS GmbH and eligible employees are required to
+contribute.
+In addition to providing income at retirement, many of these plans also
+provide survivor, termination and disability benefits. The defined benefits
+pension plan covers substantially all employees and benefits are based on
+years of service and the employees' compensation.
+49                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  Pension expense for the defined benefit pension plan was as follows at March
+31, in thousands                                 1997 1998 1999
+Service cost of the current  $111 $ 94 $111
+Interest cost on the projected benefit obligation. 408 337 312
+Pension  $519 $431 $423
+In Germany there are no legal requirements to fund the pension obligation by
+transferring cash to an outside funding agency. Consequently, the defined
+benefit pension plan is unfunded.
+The following table sets forth the actuarial present value of benefit
+obligations and funded status for the defined benefit pension plan in
+thousands                                   March 31,
+1998  1999
+Actuarial present value of benefit obligation:
+Vested benefit  $5,007 $5,248
+Nonvested benefit    71  104
+5,078 5,352
+Additional benefits related to future compensation levels.   35   36
+Projected benefit  $5,113 $5,388
+The actuarial computations calculated at March 31, 1998 and 1999 assume a
+discount rate used to measure the projected benefit obligation of 3%, and the
+rate of increase in future compensation levels of 3%.
+12. INCOME TAXES  Income loss before income tax provision consists of the following in
+thousands                              Year Ended March 31,
+1997  1998  1999
+$3,866 $ 8,250 $3,260
+4,487  2,063   105
+$8,353 $10,313 $3,155
+IXYS' provision for income taxes consists of the following in thousands                            Year Ended March 31,
+1997   1998   1999
+Current:
+$  63 $ 175 $ 234
+188  398   40
+329  904   44
+580 1,477   150
+Deferred:
+1,289 2,590 2,042
+109   147  191
+2,186   15
+3,366 2,752 2,233
+Total income tax provision. $3,946 $4,229 $2,083
+50                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued  IXYS' effective tax rate differs from the statutory federal income tax rate
+for the years ended March 31, as shown in the following table                                 1997 1998 1999
+Statutory federal income tax  34%  34% 34%
+State taxes, net of federal tax benefit.  3   4   4
+Foreign taxes at higher   9   2   1
+Acquired        94
+Other   1   1   1
+Effective tax rate  47%  41%  66%
+The effective tax rate of 66% in fiscal year 1999 includes the one-time non-
+tax deductible write-off of $104 million in connection with the reverse
+acquisition of Paradigm. Without the write-off, tax rate would approximate
+29%.
+The components of net deferred income tax assets are as follows in
+thousands                                   March 31,
+1998  1999
+Deferred tax assets:
+Other liabilities and  $1,562 $1,117
+Depreciable    72  538
+Net operating loss  2,519 4,283
+Research and development tax credit carryforward.  504  504
+Alternative minimum tax   232  342
+Less valuation on     4,128
+Net deferred tax  $4,889 $2,656
+At March 31, 1999, the Company had approximately $12 million and $8 million
+of federal and state net operating loss carryforwards, respectively. The
+Company also has federal research and development tax credit carryforwards of
+approximately $500,000 and federal alternative minimum tax credit
+carryforwards of approximately $342,000. The net operating loss and research
+and development tax credit carryforwards expire in varying amounts from 2008
+to 2018. The alternative minimum tax credit carryforwards can be carried
+forward indefinitely.
+The Tax Reform Act of 1986 limits the utilization of net operating loss and
+tax credit carryforwards in certain situations where changes occur in the
+stock ownership of a company. Due to the merger of the Company with Paradigm
+Technology, Inc. Paradigm in September of 1998, a change in ownership of
+Paradigm took place. As a result of the change in ownership, a portion of the
+Company net operating losses and tax credit carryforwards will be subject to
+an annual limitation of approximately $400,000.
+Due to the uncertainty of the realization of certain tax carryforwards
+related to the Paradigm transaction, the Company has established a valuation
+allowance against these carryforward benefits in the amount of $4,128,000.
+51                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 13. FOREIGN OPERATIONS  IXYS' foreign operations consist of those of its subsidiary IXYS GmbH in
+Germany. The following table summarizes the sales, income and total assets of
+IXYS' U.S. and German operations in thousands                             Year Ended March 31,
+1997  1998  1999
+Sales:
+IXYS  $34,262 $35,722 $36,534
+IXYS  21,060 21,134 29,989
+$55,322 $56,856 66,523
+Net Income Loss:
+IXYS  $ 2,157 $ 2,010 1,438
+IXYS   2,250  4,074 3,800
+$ 4,407 $ 6,084 5,238
+Total Assets:
+IXYS  $21,724 $27,008 26,503
+IXYS  17,686 27,332 32,229
+$39,410 $54,340 $58,732
+There were no significant export sales from the U.S. during the years ended
+March 31, 1997, 1998 or 1999.
+14. COMPUTATION OF NET INCOME LOSS PER SHARE  Basic and diluted earnings per share are calculated as follows in
+thousands, except per share amounts                            Year Ended March 31,
+1997   1998  1999
+BASIC:
+Weighted-average shares.  53,478  65,501  9,373
+Net income  $ 4,407 $ 6,084 $5,238
+Net income loss per share. $  008 $  009 $ 056
+DILUTED:
+Weighted-average shares.  53,478  65,501  9,373
+Restricted stock subject to repurchase.  19,041  3,234
+Common equivalent shares from stock options
+and   24,351  21,721
+Common equivalent shares from preferred
+111,410 111,410
+Shares used in per share calculation. 208,280 201,866  9,373
+Net income  $ 4,407 $ 6,084 $5,238
+Net income loss per share. $  002 $  003 $ 056
+52                IXYS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--Continued 15. SEGMENT AND GEOGRAPHIC INFORMATION
+The Company operates in a single industry segment comprising power
+semiconductors used primarily in controlling energy in motor drives, power
+conversion including uninterruptible power supplies UPS and switch mode
+power supplies SMPS and medical electronics. The Company sales by major
+geographic area based on destination were as follows                              Year Ended March 31,
+1997  1998  1999
+North America:
+United  $21,060 $21,134 $23,734
+Total North  $21,060 $21,134 $23,734
+28,625 29,239 36,054
+580   953   480
+Asia   5,057  5,530  6,255
+$55,322 $56,856 $66,523
+There was no single end customer providing more than 10% of the Company
+sales for years ended March 31, 1997, 1998, and 1999.
+ITEM. 9 Changes in and Disagreements With Accountants on Accounting and
+Financial Disclosure
+Not Applicable.
+PART III

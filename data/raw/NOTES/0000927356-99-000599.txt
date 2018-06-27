@@ -1,0 +1,570 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA
+Index to Consolidated Financial Statements and Financial Statement Schedule                                                           Pages
+Consolidated Financial Statements:
+Independent Auditors'     29
+Consolidated Balance Sheets
+December 31, 1997 and December 31,     30
+Consolidated Statements of Operations
+Years ended December 31, 1996, 1997 and     31
+Consolidated Statements of Stockholders' Equity
+Years ended December 31, 1996, 1997 and     32
+Consolidated Statements of Cash Flows
+Years ended December 31, 1996, 1997 and     33
+Notes to Consolidated Financial     34
+Financial Statement Schedule:
+Independent Auditors'     43
+Schedule II - Valuation and Qualifying     44 
+Independent Auditors' Report
+The Board of Directors
+Carrier Access Corporation  We have audited the accompanying balance sheets of Carrier Access Corporation
+as of December 31, 1997 and 1998, and the related statements of operations,
+stockholders' equity deficit and cash flows for each of the years in the
+three-year period ended December 31, 1998. These financial statements are the
+responsibility of the Company management. Our responsibility is to express an
+opinion on these financial statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Carrier Access Corporation as
+of December 31, 1997 and 1998, and the results of its operations and its cash
+flows for each of the years in the three-year period ended December 31, 1998, in
+conformity with generally accepted accounting principles.
+KPMG LLP
+Boulder, Colorado
+January 20, 1999              CARRIER ACCESS CORPORATION
+BALANCE SHEETS
+in thousands, except share data                                                    December 31,
+1997          1998
+ASSETS
+Current assets:
+Cash and cash equivalents                                    $ 6,104        $31,201
+Marketable securities available for sale                              2,516         22,777
+Accounts receivable, net of allowances for doubtful
+accounts and returns of $398 and $643 in
+1997 and 1998, respectively                                    4,645         8,493
+Inventory, net note 2                                      6,784         5,053
+Deferred income taxes note 5                                    237         1,198
+Prepaid expenses and other current assets                               91          804
+Total current assets                                       20,377         69,526
+Property and equipment, net of accumulated depreciation and amortization note 3
+1,267         2,599
+Deferred income taxes                                                   118
+Other assets                                             36           70
+Total assets                                          $21,680        $72,313
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                                        $ 2,685        $ 3,630
+Accrued warranty costs payable                                   286          594
+Accrued compensation payable                                    381         1,838
+Cooperative advertising                                       159          467
+Deferred rent concessions note 10                                 217          274
+Income taxes payable                                                  2,000
+Other liabilities                                          34          152
+Total current liabilities                                     3,762         8,955
+Redeemable Series A and B preferred stock, 5,000,000 shares authorized, 3,728,755
+shares outstanding in 1997 note 6                               17,358                                                           
+Stockholders' equity note 7:
+Common stock, 60,000,000 authorized and 14,299,689
+and 23,630,355 shares issued and outstanding for
+December 31, 1997 and 1998, respectively                               19           28
+Additional paid-in-capital                                     1,296         59,955
+Deferred stock option compensation                                1,144        2,377
+Retained earnings                                          389         5,752
+Total stockholders' equity                                     560         63,358
+Commitments note 10
+Total liabilities and stockholders' equity                            $21,680        $72,313
+See accompanying notes to financial statements. 
+CARRIER ACCESS CORPORATION
+Statements OF OPERATIONS
+in thousands, except per share data
+Years ended December 31,
+1996           1997           1998
+Net revenue                      $ 5,809         $18,719         $48,133
+Cost of sales                      3,284          9,469          23,067
+Gross profit                      2,525          9,250          25,066
+Operating expenses:
+Sales and marketing                    844          2,395          6,083
+Research and development                 874          2,848          5,588
+General and administrative                907          1,578          3,270
+Amortization of deferred stock       
+compensation note 7                              83           688 
+Total operating expenses                2,625          6,904          15,629
+Income loss from operations            100          2,346          9,437
+Interest income                       0           174          1,213
+Other income, net                      24            6            11
+Income loss before income taxes          76          2,526          10,661
+Income tax expense note 5                            791          3,712
+Net income loss                     76          1,735          6,949
+Preferred stock dividend requirement    
+note 6                         285         1,121         1,586 
+Net income loss available to common   
+stockholders                     $ 361         $  614         $ 5,363 
+Income loss per share:
+Basic                         $003          $004          $029
+Diluted                        $003          $004          $028
+Weighted average common shares
+outstanding:
+Basic                         13,881          14,132          18,253
+Diluted                        13,881          14,713          19,387         See accompanying notes to financial statements. 
+CARRIER ACCESS CORPORATION
+STATEMENTS OF STOCKHOLDERS' EQUITY DEFICIT
+YEARS ENDED DECEMBER 31, 1996, 1997 AND 1998
+In thousands                                 
+Common Stock  Additional   Deferred           Total  
+Paid-in  Stock Option  Retained  Stockholders' 
+Shares  Amount  Capital  Compensation  Earnings  Equity deficit
+Balances at January 1, 1996         13,875    19     26       --    178        223
+Conversion from subchapter S to C corporation    --    --     178       --    178        Exercise of stock options             150    --      5       --     --         5
+Preferred stock dividend requirement note 6    --    --    209      --    76       285
+Distribution to stockholders            --    --     --       --    25       25
+Net loss                      --    --     --       --    76       76
+Balances at December 31, 1996        14,025    19     --       --    177       158
+Exercise of stock options             275    --     69       --     --        69
+Deferred stock compensation related to stock
+options issued at less than fair value note 7  --    --    1,227     1,227    --         
+Amortization of deferred stock compensation     --    --     --       83     --        83
+note 7
+Preferred stock dividend requirement note 6    --    --     --       --   1,121      1,121
+Distribution to stockholders            --    --     --       --    48       48
+Net income                     --    --     --       --   1,735       1,735
+Balances at December 31, 1997        14,300    19    1,296     1,144    389        560
+Exercise of stock options             299    --     64       --     --        64
+Deferred stock compensation related to stock         --    1,921
+options issued at less than fair value note 7  --               1,921    --         
+Amortization of deferred stock compensation     --    --     --      688     --        688
+note 7
+Preferred stock dividend requirement note 6    --    --     --       --   1,586      1,586
+Issuance of common stock in initial public    3,450    3   37,599       --     --      37,602
+offering, net of offering costs note 6
+Conversion of preferred stock to common stock  5,593    6   18,939       --     --      18,945
+note 6
+Purchase and retirement of common stock      12   --     59      --     --        59
+Tax benefit from exercise of stock options     --    --     195       --     --        195
+note 5
+Net income                     --    --     --       --   6,949       6,949
+Balances at December 31, 1998        23,630   $28   $59,955    $2,377  $ 5,752      $63,358
+See accompanying notes to financial statements.
+CARRIER ACCESS CORPORATION
+STATEMENTS OF CASH FLOWS
+YEARS ENDED DECEMBER 31, 1996, 1997 AND 1998
+In thousands                                         Year Ended December 31,
+1996      1997      1998
+Cash flows from operating activities:
+Net income     $  76     $ 1,735    $ 6,949
+Adjustments to reconcile net income loss to net cash
+provided used by operating activities:
+Depreciation and amortization       120       421      470
+Provision for doubtful accounts and returns.       20       382      246
+Provision for inventory        --        --      576
+Compensation expense related to stock options issued
+at less than fair        --        83      688
+Accrued interest payable converted to preferred stock.       18        --         Deferred income tax        --       237    1,079
+Tax benefit relating to exercise of stock options.       --        --      195
+Changes in operating assets and liabilities:
+Accounts       912     4,000    4,093
+1,544     4,573     1,155
+Prepaid expenses and       20       59     747
+Accounts       364      2,083      945
+Accrued warranty costs        45       230      308
+Accrued compensation       148       203     1,457
+Cooperative        --       159      308
+Deferred rent       139        78       57
+Income taxes        --        --     2,000
+Other        3        --      118
+Net cash provided used by operating activities.     1,695     3,495     9,553
+Cash flows from investing activities:                
+Purchase of       401     1,065    1,802
+Sales purchases of securities available for sale, net.       --      2,514    20,261
+Software development       238       --                --       38                                                         Net cash used by investing       639     3,617    22,063
+Cash flows from financing activities:                
+Cash       170       --         Proceeds from issuance of preferred stock, net.     3,049      12,514         Proceeds from issuance of common stock, net.       --        --     37,602
+Proceeds from exercise of stock        5        69       64
+Purchase and retirement of common        --        --      59
+Distributions to       25       48        Proceeds from short-term       276      1,900         Payments on short-term        --      2,148                                                         Net cash provided by financing      3,135      12,287     37,607
+Net increase in cash and cash       801      5,175     25,097
+Cash and cash equivalents at beginning of period.      128       929     6,104
+Cash and cash equivalents at end of     $  929     $ 6,104    $ 31,201
+Supplemental disclosure of cash flow and financing activities
+information:
+Cash paid for     $   2     $  22       10
+Cash paid for income     $  --     $  948      2,616
+Conversion of debt and accrued interest payable into preferred      $  88     $  --    $                    
+Conversion of preferred stock to common stock.    $  --     $  --    $ 18,945
+See accompanying notes to financial statements.
+CARRIER ACCESS CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+December 31, 1996, 1997 and 1998
+1. Summary of Significant Accounting Policies
+a. Business and Basis of Presentation--Carrier Access Corporation CAC or
+the Company is a leading provider of Multi-service Digital Access MDA
+equipment to competitive telecommunications carriers, including competitive
+local exchange carriers, Internet service providers and wireless carriers. The
+Company MDA equipment is used for the provisioning of enhanced voice and high-
+speed data services by carriers to end users such as small and medium-sized
+businesses and government and educational institutions. The Company sells its
+products through distributors and directly to end user customers. The Company
+operates in one business segment and substantially all of its sales and
+operations are domestic.
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities at the date of the
+financial statements and disclosures of contingent assets and liabilities and
+the reported amounts of revenue and expenses during the reporting period.
+Actual results could differ from those estimates.
+b. Cash and Cash Equivalents and Marketable Securities Available for Sale Cash and cash equivalents include investments in highly liquid debt securities
+with maturities or interest reset dates of three months or less at the time of
+purchase.
+Marketable securities available for sale represent U.S. Government Agency and
+Corporate bonds with maturities of greater than three months and are recorded at
+the lower of amortized cost or market value. At December 31, 1997 and 1998,
+amortized cost approximates market value. Securities available for sale 
+consisted of the following as of December 31                   Amortized Cost and Market Value          Interest Rates
+1997           1998             1998
+Medium Term Notes                --        $ 1,676,925       606% to 638%
+Corporate Notes             $ 560,837        $ 5,942,743       715% to 800%
+Municipal Bonds                 --        $12,257,327       500% to 750%
+Other                  $1,955,357        $ 2,900,000        Variable
+Total                  $2,516,194        $22,776,995
+c. Inventory--Inventory is recorded at the lower of cost or market, using
+standard costs, which approximate average cost. Costs includes freight, certain
+warehousing costs and other allocable overhead.
+d. Property and equipment--Property, equipment and leasehold improvements are
+recorded at cost and are depreciated and amortized using the straight-line
+method over useful lives ranging from three to thirty years or the lease term.
+Depreciation and amortization expense for the years ended December 31, 1996,
+1997 and 1998 totaled $114,687, $185,701, $470,359, respectively.
+e. Revenue Recognition--Revenue from sales of products is recognized upon
+shipment. Reserves for estimated sales returns through stock rotation are
+recorded when sales are made to customers with the right of return and are
+based on management estimate of expected returns and historical experience.
+The Company provides limited price protection to its distributors, whereby
+increases in prices are subject to a 60-day notice period before becoming
+effective. In addition, the distributor is also entitled to receive a credit
+for subsequent price decreases to the extent of unsold distributor inventory at
+the time of the price decrease. The Company also provides its distributors with
+limited stock rotation rights, whereby products may be returned for an equal
+dollar amount of new or different equipment. Customers are limited to three
+exchanges per year and an amount equal to 15% of purchases in the preceding four
+month period. Neither of these rights affect the total sales price or payment
+obligations of the customer. In addition, the customers' obligation to the
+Company is not contingent upon the ultimate resale of the products. The Company
+provides for the estimated impact of price protection and stock rotation rights
+in its allowance for estimated returns based on historical experience and
+management forecasts of price protection credits and returns.
+f. Advertising Costs--In addition to its own advertising activities, the
+Company accrues a specified percentage of the previous quarter sales over
+certain contractual minimums to reimburse distributors for a portion of their
+advertising costs. Any unused allowance expires if not used during the
+following six months. Cooperative advertising expense for the years ended
+December 31, 1997 and 1998 totaled $217,687 and $342,442, respectively, and is
+included in sales and marketing expenses.
+CARRIER ACCESS CORPORATION
+NOTES TO FINANCIAL STATEMENTS continued
+g. Research and Development Costs--Research and development costs are charged
+to operations as incurred.
+h. Long-Lived Assets--The Company accounts for long-lived assets under the
+provisions of Statement of Financial Accounting Standards No. 121, Accounting
+for the Impairment of Long-Lived Assets and for Long-Lived Assets to Be Disposed
+Of SFAS 121, which requires that long-lived assets and certain identifiable
+intangibles held and used by an entity be reviewed for impairment whenever
+events or changes in circumstances indicate that the carrying value of an asset
+may not be recoverable. An impairment loss is generally recognized when
+estimated undiscounted future cash flows expected to be generated by the asset
+is less than its carrying value. Measurement of impairment loss is based on the
+fair value of the asset, which is generally determined using valuation
+techniques such as the discounted present value of expected future cash flows.
+i. Income Taxes --The Company accounts for income taxes under the provisions
+of Statement of Financial Accounting Standards No. 109, Accounting for Income
+Taxes SFAS 109. Under the asset and liability method of SFAS 109, deferred
+tax assets and liabilities are recognized for the future tax consequences
+attributable to differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases. Deferred tax
+assets and liabilities are measured using enacted tax rates expected to apply to
+taxable income in the years in which those temporary differences are expected to
+be recovered or settled. Under SFAS 109, the effect on deferred tax assets and
+liabilities of a change in tax rates is recognized in income in the period that
+includes the enactment date. A valuation allowance is required to the extent
+any deferred tax assets may not be realizable.
+j.  Income Loss Per Share, Common Stock Split and Re-Incorporation--Income
+loss per share is presented in accordance with Statement of Financial
+Accounting Standards SFAS No. 128, Earnings Per Share SFAS 128. SFAS 128
+requires the presentation of basic and diluted EPS. Under SFAS 128, basic EPS
+excludes dilution for potential common shares and is computed by dividing income
+or loss available to common shareholders by the weighted average number of
+common shares outstanding during the period. Diluted EPS reflects the potential
+dilution that could occur if securities or other contracts to issue common stock
+were exercised or converted and resulted in the issuance of common stock. In
+1997 and 1998, diluted income per share includes the impact of common stock
+options and excludes the impact of redeemable preferred stock, as the effect of
+the assumed conversion of the preferred stock and the elimination of the related
+dividend requirement would be antidilutive. Due to the loss in 1996, potential
+common stock instruments were antidilutive.
+On May 28, 1998 the Company Board of Directors approved a three-for-two
+forward split of the Company Common Stock. In addition, the Board also
+approved re-incorporation as a Delaware corporation, which included an increase
+to 60 million authorized common shares and a change to a par value of $001 per
+share. All share and per share information included in the accompanying
+financial statements and notes thereto have been restated for the stock split.
+k. Stock-Based Compensation--The Company accounts for its stock-based employee
+compensation plan using the intrinsic value based method prescribed by
+Accounting Principles Board Opinion No. 25, Accounting for Stock Issued to
+Employees APB 25, and related interpretations. As such, compensation expense
+is recorded on the date of grant only if the current market price of the
+underlying stock exceeds the exercise price. The Company has provided pro forma
+disclosures of net income loss and income loss per share, as if the fair
+value based method of accounting for the plan, as prescribed by Statement of
+Financial Accounting Standards No. 123, Accounting for Stock-Based Compensation
+SFAS 123, had been applied.
+Stock options issued to consultants and others for services are recorded at
+fair value as prescribed by SFAS 123. Charges to operations associated with
+these option grants were not significant during the years ended December 31,
+1996, 1997 and 1998.
+l. Warranty Costs--The Company provides limited warranty protection to
+customers for a period of up to five years from the date of sale for parts and
+labor. The Company has accrued for its warranty obligations based on historical
+experience and management estimate of future warranty costs to be incurred.
+m. Reclassifications--Certain reclassifications have been made to conform
+prior year financial statements to the 1998 presentation.
+2.  Inventory
+The components of inventory as of December 31, are summarized as follows in
+thousands 
+CARRIER ACCESS CORPORATION
+NOTES TO FINANCIAL STATEMENTS continued                          1997       1998
+Raw       $3,320     $3,327
+351       93
+Finished       3,113      2,209
+Reserve for         --      576
+$6,784     $5,053
+3. Property and Equipment
+Property and equipment as of December 31, consisted of the following in
+thousands                          1997       1998
+Machinery and software.      $1,349     $2,706
+Real         --       270
+Furniture, fixtures and other.       160       295
+Leasehold        134       174
+1,643      3,445
+Less accumulated depreciation.       376      846
+$1,267     $2,599
+4. Debt and Related Party Transactions
+In May 1998, the Company entered into a credit agreement with a bank which
+provides for a $50 million revolving line of credit. The revolving line of
+credit bears interest at the prime rate 775% at December 31, 1998, matures in
+1999, and is secured by certain assets of the Company. No borrowings were
+outstanding under the revolving line of credit at December 31, 1998.
+The above credit agreement contains certain restrictive covenants, including
+the maintenance of various financial ratios and does not permit the payment of
+any dividends without the prior written consent of the lender.
+5. Income Taxes
+Income tax expense consists of the following for the years ended December 31,
+in thousands                          1997      1998
+$1,028     $ 4,791
+237     1,079
+Income tax    $ 791     $ 3,712
+No tax benefit was recorded for the year ended December 31, 1996 due to the
+Company net loss and the uncertainty relating to the ultimate utilization of
+the Company net operating loss carry forward.
+A reconciliation of expected income tax expense benefit calculated by
+applying the statutory Federal tax rate to actual income tax expense for the
+years ended December 31, is as follows in thousands                                  1996      1997      1998
+Expected income tax expense      $ 26     $ 859    $3,631
+State income taxes, net of federal tax benefit.      2       64      386
+Change in valuation       26       67      Research and development tax             112     286
+Amortization of deferred stock compensation.             32      140
+Other,        2       15     159
+Actual income tax      $       $ 791    $3,712
+The tax effects of significant temporary differences that result in deferred
+tax assets and liabilities at December 31, are as follows in thousands                                        1997      1998
+Deferred tax assets:
+Allowance for doubtful      $ 151      $ 241
+Inventory        --       321
+CARRIER ACCESS CORPORATION
+NOTES TO FINANCIAL STATEMENTS continued
+Accrued warranty and co-operative        --       398
+Other accrued       143       111
+Compensation accruals, including deferred stock compensation.       --       361
+Other,        --       55
+Net deferred tax      $ 294     $ 1,487
+Deferred tax liabilities:
+Property and       43      149
+Other,       14      22
+Total deferred tax       57      171
+Net deferred tax      $ 237     $1,316
+For the year ended December 31, 1998, the Company recognized $195,010 as a
+direct increase to paid-in capital for the income tax benefit resulting from the
+exercise of non-qualified stock options by employees.
+6. Redeemable Preferred Stock And Initial Public Offering
+During 1995, the Company authorized a new class of preferred stock, consisting
+of 5,000,000 convertible Series A preferred shares with a par value of $010 per
+share. The preferred shares were convertible, at the option of the holder, into
+shares of common stock which was subject to the three-for-two forward split. The
+preferred shares were redeemable at the option of a majority of the preferred
+stockholders, any time after four years from the date of issuance, provided that
+the Company had not achieved certain financial results or completed a public
+offering of common stock, both as defined.
+On June 21, 1996, the Company completed a private placement of 1,210,861
+shares of Series A preferred stock at a price of $286 per share, for net
+proceeds of $3,049,406. The private placement included 135,678 preferred shares
+issued to noteholders. In the event of the Company liquidation, or redemption
+of the preferred shares, the Series A preferred stockholders were entitled to
+$286 per share plus unpaid dividends equal to 15% of the liquidation value per
+annum.
+During 1997, the Company amended its articles of incorporation to authorize a
+new class of preferred stock, consisting of 2,725,998 convertible Series B
+preferred shares with a par value of $010 per share. On September 16, 1997, the
+Company completed a private placement of 2,517,894 shares of Series B preferred
+stock at a price of $499 per share, for net proceeds of $12,514,291. In the
+event of the Company liquidation, or redemption of the preferred shares, the
+Series B stockholders were entitled to $499 per share plus unpaid dividends
+equal to 15% of the liquidation value per annum.
+In August 1998, the Company completed its initial public offering of
+3,450,000 shares of common stock at $1200 per share, for net proceeds of
+approximately $376 million. Aggregate offering costs were approximately $38
+million.
+In connection with the initial public offering, 1,210,861 shares of Series A
+preferred stock and 2,517,894 shares of Series B preferred stock with a
+liquidation value of $286 and $499 per share, respectively, were converted
+into common stock. The conversion gave effect to a three-for-two forward split,
+resulting in the issuance of 5,593,133 shares of common stock to the preferred
+stockholders.
+7. Stock Options
+Pursuant to the Company 1995 stock option plan the Plan, a committee
+appointed by the Company Board of Directors may grant incentive and
+nonqualified options to employees, consultants and directors. The Plan, as
+amended in 1998, authorizes the grant of options to purchase up to 3,750,000
+shares of authorized, but unissued common stock. Incentive stock options have a
+ten-year term and non-qualified stock options have a five-year term. A majority
+of the stock options vest 25% on the first anniversary date of the grant and
+625% each quarter thereafter, with the remaining stock options vesting 100%
+five years from the grant date. As of December 31, 1998, an aggregate of
+3,850,650 options had been granted under the Plan of which 1,211,250 were
+incentive stock options and 2,639,400 were non-qualified stock options.
+The following summarizes stock option activity under the Plan                                                 Weighted Average
+Shares Under option     Exercise Price
+Options outstanding at January 1, 1996.          540,000           014
+970,500           033
+150,000           003
+596,250           033
+Options outstanding at December 31, 1996.          764,250           025
+927,675           050
+CARRIER ACCESS CORPORATION
+NOTES TO FINANCIAL STATEMENTS continued
+274,689           025
+73,284           033
+Options outstanding at December 31, 1997.         1,343,952           042
+1,413,150           882
+298,856           022
+658,906           333
+Options outstanding at December 31, 1998.         1,799,340           $599
+Options available for grant at December 31, 1998.         1,227,115
+The following summarizes information about outstanding options at December 31,
+1998              Number outstanding      Weighted average remaining      Number vested
+Exercise price     at December 31, 1998      contractual life years      and exercisable
+- -                                                   
+033             466,868              43                172,099
+083             165,372              33                42,693
+173              38,250              40                 1,500
+333             124,350              42                   400             297,750              43                   467              59,250              43                   567              74,700              44                   1000             48,750              45                   1100             340,950              45                   1425             60,500              47                   1688             28,000              48                   2400             42,600              49                   2875             30,000              50                   3025             22,000              50                    As discussed in Note 1, the Company applies APB 25 and related interpretations
+in accounting for stock options issued to employees and directors. As a result,
+for options issued with exercise prices below the estimated fair market value on
+the date of grant, the Company recorded deferred compensation expense totaling
+approximately $1,227,000 for options granted during the year ended December 31,
+1997 and $2,046,000 for options granted during the year ended December 31, 1998.
+Such deferred compensation expense will be amortized to operations pro rata over
+the forty-eight month option vesting period. Such amortization expense totaled
+approximately $83,000 and $688,000 for the year ended December 31, 1997 and
+1998, respectively.
+The weighted average fair values of options granted during 1996, 1997 and 1998
+were $005 and $030 and $628 per share, respectively, using the Black-Scholes
+option-pricing model with the following assumptions: no expected dividends, no
+volatility in 1996 and 1997 and 895% volatility in 1998, expected life of the
+options of three years in 1996 and 1997 and 498 years in 1998 and a risk-free
+interest rate of 6% for all years. Had compensation cost for the Company
+stock-based compensation plan been determined based upon the fair value of
+options on the grant dates, consistent with the provisions of SFAS 123, the
+Company 1996, 1997 and 1998 pro forma net income loss would have been as
+follows in thousands, except per share data                                   Year ended December 31,
+1996     1997     1998
+Net income loss available to common stockholders:
+As      $ 361    $ 614     $5,363
+Pro       366     577     5,039
+Income loss per common share:
+As reported:
+$003    $004     $ 029
+003     004      028
+Pro forma:
+$003    $004     $ 028
+003     004      026 
+CARRIER ACCESS CORPORATION
+NOTES TO FINANCIAL STATEMENTS continued 8. Significant Customers, Suppliers and Concentration or Credit Risk
+The Company customers are primarily distributors and an OEM, who resell the
+Company products to end users. The Company recognized revenue from the
+following significant customers for the years ended December31                                  1996      1997     1998
+Company A                                      $6,840   $20,749
+Company B                                1,027    2,698    7,369
+Company C                                1,017    1,253    6,360
+Company D                                      3,802    2,337
+Company E                                 631     650     855
+Company F                                2,756    1,161       Although the Company generally uses standard parts and components for its
+products, many key components are purchased from sole or single source vendors
+for which alternative sources may not currently be available. The
+identification and utilization of new suppliers for such items could adversely
+effect the Company future operating results.
+The Company is exposed to potential concentrations of credit risk from its
+accounts receivable with its various customers. The Company receivables are
+concentrated in customers in the telecommunications industry. To reduce this
+risk, the Company has a policy of assessing the creditworthiness of its
+customers and monitors the aging of its accounts receivable for potential
+uncollectable accounts.
+9. Employee Benefit Plan
+In May 1996, the Company adopted a defined contribution employee benefit plan
+the Plan under Section 401k of the Internal Revenue Code which is available
+to all employees who meet the Plan eligibility requirements. Employees may
+contribute up to the maximum limits allowed by the Internal Revenue Code. The
+Company may make discretionary employer matching contributions to the Plan. The
+Company made no contributions to the Plan in 1996, 1997 or 1998.
+10. Commitments
+The Company leases office space under various noncancelable operating leases
+that expire through 2009. Future obligations under these leases are as follows
+in thousands Year ending December 31:
+$  896
+1,076
+1,064
+1,110
+1,159
+5,526
+$10,831
+The Company records rent expense under noncancelable operating leases using the
+straight-line method after consideration of increases in rental payments over
+the lease term, and records the difference between actual payments and rent
+expense as deferred rent concessions.
+Rent expense for the years ended December 31, 1996, 1997 and 1998 totaled
+$549,105, $547,130 and $555,483, respectively.
+The Company also subleases office space under various noncancelable operating
+leases that expire through 2000. Future rental income under these subleases are
+as follows in thousands Year ending December 31:
+142
+75
+$217
+Item 1.     3
+Item 2.     19
+Item 3. Legal    19
+Item 4. Submission of Matters to a Vote of Security    19
+PART II
+Item 5. Market for Registrant Common Equity and Related Stockholder    20
+Item 6. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The information required by this item concerning the Company directors and
+executive officers is incorporated by reference to the information set forth in
+the sections entitled Proposal One--Election of Directors and Section 16a
+Beneficial Ownership Reporting Compliance in the Company Proxy Statement for
+the 1999 Annual Meeting of Stockholders to be filed with the Commission within
+120 days after the end of the Company fiscal year ended December 31, 1999 the
+1999 Proxy Statement, except that certain information required by this item
+concerning the executive officers of the Company is incorporated by reference to
+the information set forth in the section entitled Executive Officers of the
+Company at the end of Part I of this Annual Report on Form 10-K.

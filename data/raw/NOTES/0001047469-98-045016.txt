@@ -1,0 +1,702 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+PAGE
+Financial Statements:
+Report of Independent Public      23
+Consolidated Balance Sheets as of September 30, 1998 and      24
+Consolidated Statements of Operations for the fiscal years ended September 30, 1998, 1997 and 1996.     25
+Consolidated Statements of Stockholders' Equity for the fiscal years ended September 30, 1998, 1997 and
+26
+Consolidated Statements of Cash Flows for the fiscal years ended September 30, 1998, 1997 and 1996.     27
+Notes to Consolidated Financial      28
+22
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+To the Stockholders of
+Health Systems Design Corporation:
+We have audited the accompanying consolidated balance sheets of Health
+Systems Design Corporation a Delaware corporation and subsidiary as of
+September 30, 1998 and 1997, and the related consolidated statements of
+operations, stockholders' equity and cash flows for each of the three years in
+the period ended September 30, 1998. These consolidated financial statements and
+the schedule referred to below are the responsibility of the Company
+management. Our responsibility is to express an opinion on these consolidated
+financial statements and schedule based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Health Systems Design
+Corporation and subsidiary as of September 30, 1998 and 1997, and the results of
+their operations and their cash flows for each of the three years in the period
+ended September 30, 1998, in conformity with generally accepted accounting
+principles.
+Our audit was made for the purpose of forming an opinion on the basic
+financial statements taken as a whole. The schedule listed in Item 14 of Form
+10-K is presented for purposes of complying with the Securities and Exchange
+Commission rules and is not part of the basic financial statements. This
+schedule has been subjected to the auditing procedures applied in the audit of
+the basic financial statements and, in our opinion, fairly states in all
+material respects the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+ARTHUR ANDERSEN LLP
+San Francisco, California
+November 13, 1998
+23
+HEALTH SYSTEMS DESIGN CORPORATION
+CONSOLIDATED BALANCE SHEETS
+SEPTEMBER 30,
+1998    1997
+ASSETS
+Current Assets:
+Cash and cash  $9,441,381 $11,194,757
+Accounts receivable, net of allowance for doubtful accounts of
+$525,000 and $193,000 at September 30, 1998 and 1997,
+5,645,547  5,208,056
+Unbilled   2,404,886   994,421
+Prepaid    384,213   568,266
+Total current  17,876,027 17,965,500
+Property and equipment:
+Computer   3,739,706  3,636,153
+Office furniture and   1,407,333  1,149,701
+Total property and   5,147,039  4,785,854
+Less: Accumulated  2,299,527 1,599,767
+Net property and   2,847,512  3,186,087
+Deposits and other    117,895   127,000
+Software development costs, net of accumulated amortization of
+$927,261 and $582,752 at September 30, 1998 and 1997,
+2,786,701   798,540
+Total  $23,628,135 $22,077,127
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts  $1,136,908 $1,202,204
+Accrued   2,170,854  1,740,674
+Unearned   2,728,022  1,675,265
+Total current   6,035,784  4,618,143
+Stockholders' equity:
+Preferred stock, $001 par value, 1,000,000 shares authorized,
+none    --       Common stock, $001 par value, 20,000,000 shares authorized,
+6,673,307 shares and 6,533,406 shares issued and outstanding at
+September 30, 1998 and 1997,     6,673    6,533
+Additional paid-in  23,986,104 23,029,552
+Treasury stock, 2,054    28,500  28,500
+Deferred    27,519  43,279
+Retained  6,344,407 5,505,322
+Total stockholders'  17,592,351 17,458,984
+Total liabilities and stockholders' equity. $23,628,135 $22,077,127
+The accompanying notes are an integral part of these statements
+24
+HEALTH SYSTEMS DESIGN CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+FISCAL YEAR ENDED SEPTEMBER 30,
+1998    1997    1996
+Revenues:
+System  $22,329,345 $14,268,604 $10,639,298
+Services and   3,525,363  2,496,921  1,812,528
+Total  25,854,708 16,765,525 12,451,826
+Cost of   7,055,200  6,171,683  3,060,615
+Gross  18,799,508 10,593,842  9,391,211
+Operating expenses:
+General and   7,481,926  5,646,031  3,805,863
+Sales and   4,200,037  3,820,733  2,749,946
+Product   8,289,814  5,655,583  4,082,002
+Total operating  19,971,777 15,122,347 10,637,811
+Loss from  1,172,269 4,528,505 1,246,600
+Interest,    453,633   673,251   39,454
+Loss before provision for income taxes.  718,636 3,855,254 1,207,146
+Provision for income   120,449   1,050    800
+Net  $ 839,085 $3,856,304 $1,207,946
+Net loss per share:
+$  013 $  060 $  022
+$  013 $  060 $  022
+Weighted average common shares outstanding:
+6,588,842  6,478,789  5,656,418
+6,588,842  6,478,789  5,656,418
+The accompanying notes are an integral part of these statements
+25
+HEALTH SYSTEMS DESIGN CORPORATION
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+ADDITIONAL                       TOTAL
+COMMON   PAID-IN  TREASURY  DEFERRED   RETAINED  STOCKHOLDERS'
+SHARES   STOCK   CAPITAL   STOCK  COMPENSATION   DEFICIT    EQUITY
+Balance, September 30, 1995. 4,442,600 $ 247,165 $  --    $ --    $78,795  $ 441,072 $ 272,702
+Issuance of warrants to
+purchase common stock.   --     --     350,000   --     --       --      350,000
+Exercise of warrants to
+purchase common stock.   95,000     95   474,905   --     --       --      475,000
+Exercise of common stock
+options.   43,220     43    57,387   --     --       --       57,430
+Amortization of deferred
+compensation.   --     --      3,996  --     19,756     --       15,760
+Initial public offering, net
+of issuance costs. 1,855,000   1,855  21,721,110   --     --       --     21,722,965
+Transfer of par value upon
+reincorporation.   --    242,724   242,724   --     --       --       Purchase of treasury stock.   2,054  --     --    28,500   --       --      28,500
+Net loss.   --     --     --     --     --     1,207,946  1,207,946
+Balance, September 30, 1996. 6,433,766   6,434  22,842,130  28,500  59,039   1,649,018  21,112,007
+Exercise of options to
+purchase common stock.   99,640     99   187,422   --     --       --      187,521
+Amortization of deferred
+compensation.   --     --     --     --     15,760     --       15,760
+Net loss.   --     --     --     --     --     3,856,304  3,856,304
+Balance, September 30, 1997. 6,533,406   6,533  23,029,552  28,500  43,279   5,505,322  17,458,984
+Exercise of options to
+purchase common stock.  132,702    133   912,147   --     --       --      912,280
+Issuance of shares under
+employee stock purchase
+plan.   7,199     7    44,405   --     --       --       44,412
+Amortization of deferred
+compensation.   --     --     --     --     15,760     --       15,760
+Net loss.   --     --     --     --     --      839,085   839,085
+Balance, September 30, 1998. 6,673,307 $  6,673 $23,986,104 $28,500  $27,519  $6,344,407 $17,592,351
+The accompanying notes are an integral part of these statements
+26
+HEALTH SYSTEMS DESIGN CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+FISCAL YEAR ENDED SEPTEMBER 30,
+1998    1997    1996
+Cash flows from operating activities:
+Net  $ 839,085 $3,856,304 $1,207,946
+Adjustments to reconcile net loss to net cash provided by
+used in operating activities:
+Allowance for doubtful    332,000   93,000   50,000
+Depreciation and   1,535,632  1,036,032   630,085
+Gain loss on sale of    179,576    9,809   2,975
+Amortization of deferred    15,760   15,760   15,760
+Write off of debt    --     --     350,000
+Changes in current assets and liabilities:
+Accounts   769,491 1,639,072 2,292,675
+Unbilled  1,410,465  475,112  819,329
+Prepaid    184,053  140,680  386,170
+Accounts    65,296  508,935   22,084
+Accrued    430,180   994,316   531,769
+Unearned   1,052,757   473,352  362,592
+Net cash provided by used in operating activities.   645,621 2,029,740 3,471,989
+Cash flows from investing activities:
+Purchases of property and  1,051,714 1,487,458 2,019,119
+Proceeds from sale of property and equipment.   19,590    2,500   33,301
+Capitalization of software development costs. 2,332,670  684,814  276,812
+Deposits and other     9,105   43,789   82,975
+Net cash used in investing activities. 3,355,689 2,213,561 2,179,655
+Cash flows from financing activities:
+Borrowings from line of    --     --     450,000
+Payments under line of    --     --    958,427
+Borrowings from notes    --     --    1,500,000
+Payments under notes payable and capital lease obligations.   --     3,505 2,162,000
+Proceeds from issuance of common stock to employees.   44,412   --       Proceeds from issuance of common stock, net of issuance
+--     --   21,722,965
+Advances from    --     --     175,000
+Purchase of treasury    --     --     28,500
+Proceeds from exercise of common stock options and warrants.   912,280   187,521   57,430
+Net cash provided by financing activities.   956,692   184,016 20,756,468
+Net increase decrease in cash. 1,753,376 4,059,285 15,104,824
+Cash and cash equivalents at beginning of year          11,194,757 15,254,042   149,218
+Cash and cash equivalents at end of year. $9,441,381 $11,194,757 $15,254,042
+Supplemental disclosure of cash flow information:
+Interest  $  --   $  --   $ 105,968
+Taxes  $ 116,916 $  1,050 $   800
+Supplemental disclosure of noncash transactions:
+Warrants exercised in exchange for cancellation of note
+$  --   $  --   $ 475,000
+Cancellation of deferred compensation related to stock option
+$  --   $  --   $  3,996
+The accompanying notes are an integral part of these statements
+27
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. ORGANIZATION:
+Health Systems Design Corp. was incorporated in the State of California on
+July 1, 1988. In February 1996, the Company was reorganized as Health Systems
+Design Corporation the Company, a Delaware holding corporation which owns
+100% of the stock of Health System Design Corp., the California corporation. The
+Company is a provider of managed care information systems software to payors and
+providers of managed care services. The Company introduced its first internally
+developed product, DIAMOND-TM- 725, in fiscal 1992 followed by DIAMOND-TM-
+950C/S in fiscal 1995.
+Substantially all of the Company operations are in one industry segment:
+developing and selling managed care information systems. Therefore, no industry
+segment information is presented.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+PRINCIPLES OF CONSOLIDATION
+The Consolidated financial statements include the accounts of Health Systems
+Design Corporation and its subsidiary. All intercompany accounts and
+transactions have been eliminated.
+CASH AND CASH EQUIVALENTS
+The Company considers cash and cash equivalents to be all highly liquid
+investments with an original maturity of less three months or less from the date
+of purchase.
+CONCENTRATION OF BUSINESS RISKS
+The market for the Company products and services is characterized by
+intense competition, rapid technological developments, frequent new product
+introductions, and evolving industry standards. Accordingly, the Company is
+required to continually improve the performance, features and reliability of its
+products and develop and maintain strategic relationships with distributors and
+with other service organizations. In addition, substantially all of the
+Company revenue is derived from its two principal products.
+The Company operates primarily in the United States, but has contracts in
+other countries. These contracts could be impacted by particular economic and
+political situations overseas.
+See Note 8 for discussion of sales to major customers.
+CONCENTRATION OF CREDIT RISK
+Financial instruments that potentially subject the Company to concentrations
+of credit risk consist principally of accounts receivable. The Company believes
+it has addressed this risk through its contract approval process.
+ADOPTION OF ACCOUNTING PRONOUNCEMENTS
+For the year ending September 30, 1999, the Company will report
+Comprehensive Income based upon the recently issued Statement of Financial
+Accounting Standards No. 130 SFAS No. 130, Comprehensive Income. The pro
+forma effect of this accounting change has no impact on the net loss as reported
+for the year ended September 30, 1998.
+28
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: CONTINUED
+In June 1997, the FASB issued SFAS No. 131, Disclosures about Segments of
+an Enterprise and Related Information, which is required to be adopted for
+fiscal years beginning after December 15, 1997. The Statement changes the way
+public companies report segment information in financial statements and also
+requires those companies to report selected segment information in interim
+financial reports to stockholders. Adoption of this pronouncement is not
+expected to have a material impact on the Company financial statements taken
+as a whole.
+In February 1998, the FASB issued SFAS No. 132, Employer Disclosures
+about Pension Plans and Other Postretirement Benefits, which is required to be
+adopted for fiscal years beginning after December 15, 1997. Adoption of this
+pronouncement is not expected to have a material impact on the Company
+financial statements taken as a whole
+In June 1998, the FASB issued SFAS No. 133 Accounting for Derivative
+Instruments and Hedging Activities which is required to be adopted for fiscal
+quarters beginning after June 15, 1999. Adoption of this pronouncement is not
+expected to have a material impact on the Company financial statements taken
+as a whole.
+MANAGEMENT'S USE OF ESTIMATES
+The preparation of the consolidated financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions. These assumptions effect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the dates of
+the consolidated financial statements and the reported amounts of revenues and
+expenses during the reporting periods. Actual results could differ from those
+estimates. Significant estimates made by management include: revenue recognition
+under the percentage-of-completion method for its license contracts which
+require extended installation periods, determination of technological
+feasibility of software under development and related research and development
+cost capitalization, product life amortization periods for capitalized software
+costs, and allowance for doubtful accounts receivable, and certain other
+reserves, including a reserve required under the SMS amendment.
+REVENUE RECOGNITION
+The Company licenses its internally developed software products and other
+software products to health care organizations under the terms of product
+license contracts. Individual sales may include, among others, a combination of
+software license, implementation, program enhancements, training, and support.
+Contracts with customers could be terminated under certain circumstances and
+revenues recognized could be refundable upon termination in certain cases,
+including breach of contract. The termination of significant customer contracts
+could have a material adverse effect on the Company business, financial
+condition, or results of operations.
+In October, 1997, the AICPA issued SOP 97-2, Software Revenue Recognition,
+which the Company was required to adopt as of October 1, 1999. SOP 97-2 provides
+guidance on applying generally accepted accounting principles in recognizing
+revenue on software transactions and supercedes the guidance contained in SOP
+91-1. The Company elected to adopt the provisions of the statement effective
+October 1, 1997.
+The Company generates revenues from licensing the rights to use its software
+products directly to end-users and indirectly through distributors. The Company
+also generates revenues from sales of post-
+29
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: CONTINUED
+contract support, implementation services, fees for product enhancements, and
+training services performed for customers who license the Company products.
+If the contract does not require significant production or customization of
+software, revenue is recognized when all the following conditions are met: a
+signed contract is obtained, delivery has occurred, the fee is fixed and
+determinable, and collection is probable. Effective October 1, 1997, the Company
+generally recognizes DIAMOND-TM- 725 license revenue upon shipment of the
+software to end users, as no significant production or customization of this
+software is required, and the installation period is relatively short. The
+Company generally recognizes DIAMOND-TM- 950C/S license revenue on a
+percentage-of-completion basis based on the labor hours required to implement
+the system, as this software generally requires an extended installation period
+and can require significant enhancements. If the software license agreement
+provides for acceptance criteria that extend beyond the published specifications
+of the applicable product, then revenues are recognized upon the earlier of
+customer acceptance or the expiration of the acceptance period.
+Implementation and training fees are billed either on an hourly or a monthly
+basis and are recognized as services are rendered. Third party software and
+hardware are typically billed and recognized as revenue when delivered to the
+end user.
+Post-contract support services are billed on a monthly basis. Customers who
+purchase post-contract support services under maintenance agreements have the
+right to receive unspecified product updates and upgrades. Customers that do not
+purchase post-contract support must purchase product updates and upgrades under
+separate agreements that are subject to the criteria of the Company revenue
+recognition policy. Revenues from post-contract support services are recognized
+ratably over the term of the support period. If post-contract support services
+are included free or at a discount in a license agreement, such amounts are
+recorded at their fair market value based on the value established by
+independent sale of such post-contract support services to customers.
+In January 1994, the Company entered into a marketing agreement with another
+company remarketer, whereby the remarketer sells certain of the Company
+products to its customer base. License fees under this agreement are recognized
+when a contract between the other company and the end-user is executed for
+DIAMOND-TM- 725 and are recognized for DIAMOND-TM- 950C/S upon successful
+implementation of the system at the remarketer end-user site. Revenues under
+term license agreements are recognized ratably over the customer contract
+term. Fees for support and other services are recognized as services are
+rendered. In December 1997, the Company entered into an amendment to the above
+agreement for the purpose of resolving certain disagreements between the
+parties, amongst other matters. The amendment provides for a $4 million credit
+pool against which the remarketer may charge billings for services rendered by
+the Company, as well as future royalties payable by the remarketer to license
+the DIAMOND-TM- products. As of September 30, 1998, the credit pool had been
+reduced to approximately $35 million. Due to the establishment of the credit
+pool, the Company has not generated significant revenues from this remarketer
+and is not expected to in the near future.
+Revenue recognized in excess of billings is recorded as an asset unbilled
+revenue. Billings in excess of recognized revenue are recorded as a liability
+unearned revenue.
+30
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: CONTINUED
+CAPITALIZED SOFTWARE DEVELOPMENT COSTS
+The Company accounts for capitalized software development costs in
+accordance with SFAS No. 86, Accounting for the Costs of Computer Software to
+be Sold, Leased or Otherwise Marketed. The Company begins capitalizing software
+development costs upon the establishment of technological feasibility, which is
+established upon the completion of a working model or, in the case of major
+releases, detailed program design. Costs incurred prior to technological
+feasibility are charged to expense as incurred. Capitalization ceases when the
+product is considered available for general release to customers. Capitalized
+software development costs are amortized to direct costs over the estimated
+economic lives of the software products based on actual sales experience and
+product life expectancy. Generally, estimated economic lives of the software
+products do not exceed 3 years. Capitalized software development cost
+amortization was $345,000, $192,244 and $235,001 in fiscal 1998, 1997 and 1996,
+respectively.
+PROPERTY AND EQUIPMENT
+Computer equipment and office furniture are recorded at cost and are
+depreciated using the straight-line method over their estimated useful lives of
+three and seven years, respectively. The cost of assets retired or otherwise
+disposed of and the related accumulated depreciation are removed from the
+accounts, and any gain or loss is included in the results of operations.
+Maintenance and repairs that do not improve or extend the life of assets are
+expensed as incurred.
+INCOME TAXES
+The Company provides for income taxes under Statement of Financial
+Accounting Standards SFAS No. 109, Accounting for Income Taxes, issued in
+February 1992. Under the liability method specified by SFAS No. 109, deferred
+income taxes are determined based on the difference between the financial
+statement and tax bases of assets and liabilities as measured by the effective
+tax rate. A valuation allowance is placed on the deferred tax assets to reduce
+them to their net realizable value. The Company was on the cash basis of
+accounting for tax reporting purposes during the fiscal years ended September
+30, 1996 and 1995 and changed to the accrual basis of accounting as of October
+1, 1996.
+NET INCOME LOSS PER SHARE
+During 1998, the Company adopted SFAS No. 128, Earnings per Share. Net
+income loss per share is computed using the weighted average number of shares
+outstanding. Stock options and warrants are excluded from the computation as
+their effect is antidilutive in fiscal 1998, 1997 and 1996. The change in the
+Company previously reported net income loss per share for fiscal 1996 is due
+to the adoption of SFAS No. 128 and subsequently, Staff Accounting Bulletin No.
+98 on Computations of Earnings per Share, which became effective in February
+1998.
+RECLASSIFICATIONS
+During the fourth quarter Company management decided to revise its expense
+classifications to be more consistent with industry standards. This decision
+resulted in certain product engineering costs being included in product
+development instead of cost of revenues. All prior periods presented have been
+reclassified accordingly.
+31
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+3. LINE OF CREDIT:
+In May 1995, the Company entered into a line of credit agreement with a
+bank. Under the terms of the agreement, as amended, the outstanding balance
+could not exceed $750,000, and interest was calculated at the bank reference
+rate plus 15 percent 1025 percent at September 30, 1995. Borrowings were
+limited to 70 percent of eligible accounts receivable, as defined. The
+outstanding balance under the line of credit was $508,427 at September 30, 1995.
+The line of credit agreement also contained restrictions on the Company
+ability to pay dividends. Repayments under the line of credit were guaranteed by
+three stockholders of the Company, and were secured by substantially all the
+assets of the Company. The agreement expired May 30, 1996, by which time all
+outstanding balances had been repaid.
+4. RELATED PARTY TRANSACTIONS:
+During fiscal 1996 and 1995, a stockholder of the Company made advances to
+the Company totaling $175,000 and $325,000, respectively. All advances were due
+upon demand, but no later than one year from the date of the advance and bore
+interest at rates ranging from 59 to 61 percent. The impact of imputing
+interest at the market rate was not material. The advance was repaid with the
+proceeds of the March 5, 1996 initial public offering See Note 11.
+The Company paid approximately $90,000 in consulting fees to a director
+during the years ended September 30, 1998 and 1997. The Company paid
+approximately $36,000 for consulting to a company operated by an officer during
+the year ended September 30, 1998.
+5. LEASE COMMITMENTS:
+The Company is obligated under certain operating leases for office space and
+certain equipment. Future minimum lease payments for fiscal years ending
+September 30, are as follows:
+$ 1,774,516
+1,958,623
+1,897,816
+1,828,643
+1,820,508
+$ 9,280,106
+Rent expense under these operating leases was $1,253,638, $1,140,330 and
+$665,999 in fiscal 1998, 1997, 1996, respectively.
+32
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+6. ACCRUED EXPENSES
+Accrued expenses consists of the following:
+SEPTEMBER 30,
+1998    1997
+Accrued  $ --   $ 169,452
+Accrued   363,141  215,629
+Accrued   100,465   30,412
+Accrued professional and consulting fees.  169,034  206,060
+Accrual under SMS   823,542  908,542
+Accrued   241,926   Other accrued   472,746  210,579
+$2,170,854 $1,740,674
+7. INCOME TAXES:
+The provision for income taxes consists of the following:
+FISCAL YEAR ENDED SEPTEMBER 30,
+1998    1997    1996
+Current:
+$  --   $  --   $       5,933    1,050    800
+114,516   --     Deferred:
+790,600 1,462,456 398,899
+253,166  244,722  11,467
+Valuation   1,043,766  1,707,178  410,366
+$ 120,449 $  1,050 $   800
+33
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+7. INCOME TAXES: CONTINUED
+Deferred tax liabilities and assets under SFAS 109, which result from
+temporary differences in the recognition of certain revenues and expenses for
+financial and income tax reporting purposes, consisted of the following:
+SEPTEMBER 30,
+1998    1997
+Cash to accrual basis differences. $ 581,032 $ 871,549
+Capitalized software   1,109,943   318,058
+256,675   265,279
+Gross deferred tax   1,947,650  1,454,886
+Research and development credit carryforward.  1,562,144   770,650
+Net operating loss   3,210,625  2,859,723
+Reserves not deductible for tax in the current
+732,520   338,646
+Gross deferred tax   5,505,289  3,969,019
+Valuation  3,557,639 2,514,133
+Net deferred tax asset liability. $  --   $                                                            
+The provision for income taxes differed from the amount computed using the
+statutory federal income tax rate of 34 percent as follows:
+FISCAL YEAR ENDED
+SEPTEMBER 30,
+1998   1997   1996
+Statutory U.S. tax rate.   34% 34%  34%
+State    6  6   6
+Research and development credit
+77  9   15
+Foreign tax credit carryforward.   16  --        4   5    21
+Valuation    145   44    34
+--                                                 16%  -- %   -- %
+--                               --                                                
+For financial reporting purposes, a 100% valuation allowance has been
+recorded at September 30, 1998 to offset the deferred tax assets recognized
+under SFAS No. 109 as the Company has historically not achieved significant
+levels of profitability, and there is inherent uncertainty as to when the
+Company will achieve future profitability.
+At September 30, 1998, the Company has approximately $8,793,000 and
+$1,009,000 of federal tax net operating loss carryforward and tax credit
+carryforward, respectively, which are available to reduce future taxable income
+of the Company, if any. These carryforwards begin to expire in fiscal 2007.
+Provisions under the Tax Reform Act of 1986 may limit the federal net
+operating loss carryforward and credits available to be used in any given year
+in the event of a significant change in ownership, including the March 5, 1996
+initial public offering.
+34
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+7. INCOME TAXES: CONTINUED
+The Company has approximately $3,792,000 and $553,000 of California tax net
+operating loss carryforward and research and development tax credit
+carryforward, respectively, which are available to reduce future taxable income
+of the Company, if any. The carryforwards begin to expire in fiscal 2000.
+8. SALES TO MAJOR CUSTOMERS:
+During the fiscal year ended September 30, 1998, five customers accounted
+for approximately 52% of the Company revenues. Of those customers, two
+accounted for over 10% of revenues. One customer represented 20% of total
+revenues, while the other customer represented 11% of total revenues. Subsequent
+to September 30, 1998, Blue Cross/Blue Shield of North Carolina ceased
+implementation of the DIAMOND-TM- 950C/S product. This customer accounted for 8%
+of the Company total revenues for the fiscal year ended September 30, 1998.
+9. RETIREMENT PLAN:
+The Company maintains a 401k retirement plan the Plan for full-time
+employees. The plan year is from January 1 to December 31, and the discretionary
+employer contribution is established at the end of the plan year. Participants
+become fully vested after four years of service, although they vest
+incrementally on an annual basis until the four-year period is completed. No
+contributions were made during the fiscal years ended September 30, 1998 and
+1997.
+10. STOCK OPTION PLAN AND WARRANTS:
+Effective August 5, 1994, the Company implemented the 1994 Stock Option Plan
+1994 Plan and reserved 500,000 shares of stock for grants. However, since the
+inception of the 1996 Omnibus Equity Incentive Plan the Company no longer issues
+stock options on the 1994 Plan.
+On January 2, 1996, the Board of Directors authorized the 1996 Omnibus
+Equity Incentive Plan 1996 Plan, under which the Company is authorized to
+grant up to 500,000 shares of common stock to employees and consultants of the
+Company. The number of authorized shares increased from 500,000 to 900,000
+during fiscal 1997 and from 900,000 to 1,400,000 during fiscal 1998. The plan
+allows incentive stock options to be granted to employees only, while
+nonstatutory stock options may be granted to both employees and consultants.
+Under the terms of the 1996 plan, incentive stock options to purchase shares of
+the Company common stock must be granted at a price equal to the market price
+of the stock at the date of grant, except for employees who, prior to the grant,
+own more than 10 percent of the voting power of all stock. The exercise price
+for such employees must be no less than 110 percent of the market price. For
+nonstatutory stock options, the exercise price for both employees and
+consultants will be no less than 85 percent of the market price. Both incentive
+stock options and nonstatutory stock options may be exercised within ten years
+from the date of grant, except for employees and consultants who own more than
+10 percent of the voting power of all classes of stock. In this case, the
+options may be exercised within a five-year period. Options generally vest over
+a five-year period.
+In October 1996, the Company Board of Directors approved the issuance of
+300,000 shares under the Health Systems Design Corporation Employee Stock
+Purchase Plan ESP Plan. The Plan allows for employees to purchase the
+Company common stock at a 15% discount off the stock market value as defined
+under the Plan. Employees began participating in the ESP Plan on January 1,
+1998. As of September 30, 1998, the Company had issued 7199 shares under the ESP
+plan.
+35
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+10. STOCK OPTION PLAN AND WARRANTS: CONTINUED
+In March 1997, the Company stockholders approved the Nonemployee Director
+Stock Option Plan Director Plan, which is authorized to grant up to 60,000
+shares to nonemployee directors of the Company. Members of the Board of
+Directors are generally granted 5,000 options on the date of each annual meeting
+which vest on the first anniversary of that meeting.
+The Company accounts for the above plans under APB Opinion No. 25, under
+which $78,795 was charged to deferred compensation in the year ended September
+30, 1995 because certain options were granted at below the then fair market
+value of the common stock. This deferred compensation is being amortized over
+the vesting period of the related options. Amortization of deferred compensation
+was $15,760 for each of the years ended September 30, 1998, 1997 and 1996 and no
+other compensation cost has been recognized under APB Opinion No. 25 as all
+other options have been granted at an option exercise price equal to the market
+value of common stock on the date of grant. Had compensation cost for these
+plans been determined consistent with SFAS No. 123, the Company net loss in
+total and per share would have been changed to the following pro forma amounts:
+YEAR ENDED SEPTEMBER 30,
+1998     1997     1996
+Net  As Reported $ 839,085 $3,856,304 $1,207,946
+Pro Forma  $1,688,639 $4,180,109 $1,376,354
+Basic  As Reported $   013 $   060 $   022
+Pro Forma  $   026 $   065 $   024
+Diluted  As Reported $   013 $   060 $   022
+Pro Forma  $   026 $   065 $   024
+Because the SFAS No. 123 method of accounting has not been applied to
+options granted prior to October 1, 1995, the resulting pro forma compensation
+cost may not be representative of that to be expected in future years.
+36
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+10. STOCK OPTION PLAN AND WARRANTS: CONTINUED
+The stock option activity under the Stock Option and Equity Incentive Plans
+during the fiscal years ended September 30, 1998, 1997, and 1996, was as
+follows:
+WEIGHTED
+NUMBER OF SHARES        WEIGHTED  AVERAGE
+AVERAGE  FAIR VALUE  EXERCISABLE
+DIRECTOR       EXERCISE  OF OPTIONS   AT END
+1996 PLAN  1994 PLAN   PLAN    TOTAL   PRICE   GRANTED   OF PERIOD
+Outstanding, September 30, 1995.   --    487,500   --     487,500  $295           26,760
+200,250   12,000   5,000   217,250  $1485   $1170
+43,220   --     43,220 $142
+3,500  23,680   --     27,180 $611
+Outstanding, September 30, 1996.  196,750   432,600   5,000   634,350  $699          111,040
+805,250    4,200   10,000   819,450  $705    $555
+--    99,640   --     99,640 $185
+279,450  140,940   --    420,390 $963
+Outstanding, September 30, 1997.  722,550   196,220   15,000   933,770  $639          268,780
+208,502    --    10,000   218,502  $757    $577
+110,400  22,000   --    132,400 $704
+73,500  15,450   --     88,950  $804
+Outstanding, September 30, 1998.  747,152   158,770   25,000   930,922  $641          284,462
+At September 30, 1998, 1997 and 1996, the following shares were reserved and
+unissued under the Plans.
+YEAR ENDED SEPTEMBER 30,
+1998    1997    1996
+1996 Omnibus Equity Incentive Plan.  542,448  177,450  303,250
+1994 Stock Option   176,370  160,920   24,180
+Nonemployee Director Stock Option Plan.   35,000   45,000   55,000
+As mentioned above, the options available in the 1994 plan are no longer
+reissued, since the inception of the 1996 Plan.
+Options outstanding at September 30, 1998 consist of the following:
+WEIGHTED
+AVERAGE     REMAINING
+OPTION    EXERCISE    EXERCISE      AVERAGE     VESTED
+SHARES   PRICE RANGE    PRICE    CONTRACTUAL LIFE   SHARES
+-                                 
+11,200 $  000-178   $   30        60     11,200
+51,220 $  178-355   $  180        64     29,360
+96,350 $  355-533   $  500        68     58,150
+368,002 $  533-710   $  595        86     146,602
+395,650 $  710-888   $  775        89     35,750
+3,500 $ 1420-1598  $  1475        77      1,400
+5,000 $ 1598-1775  $  1775        36      2,000
+-                              930,922                            284,462
+37
+HEALTH SYSTEMS DESIGN CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+10. STOCK OPTION PLAN AND WARRANTS: CONTINUED
+The fair value of each option grant is estimated on the date of grant using
+the Black-Scholes option pricing model with the following weighted-average
+assumptions used for grants in 1998, 1997 and 1996: risk-free weighted average
+interest rate of 515, 611 and 655 percent, respectively, expected dividend
+yields of 0 percent, expected lives of 5 years from the date of grant and
+expected volatility of 1030 percent for fiscal years 1996 and 1997 and 986
+percent for fiscal 1998.
+In a December 1995 private placement, the Company issued $2,000,000 in notes
+with warrants to purchase 200,000 shares of the Company common stock at $500
+per share. Upon repayment of the notes, the note holders executed warrants to
+purchase 95,000 shares of the Company common stock. At September 30, 1998 and
+1997, warrants to purchase 95,000 and 105,000 shares, respectively, of the
+Company common stock were outstanding.
+11. PUBLIC OFFERING
+On March 5, 1996, the Company sold 1,855,000 shares of its common stock
+through an initial public offering. As a result, the Company received net
+proceeds of $21,722,965. A portion of the proceeds was immediately used to
+retire short-term and long-term indebtedness to banks and other creditors. In
+connection with the repayment of the private placement notes payable of
+$2,000,000 of which $600,000 was paid to a stockholder, the Company recorded a
+one-time, non-cash charge to interest expense of approximately $350,000 in
+fiscal 1996 to reflect the write-off of deferred interest.
+38
+Item 8.
+The Company also has a branch office in Atlanta, Georgia and satellite
+offices in the United States. The Company believes its facilities are adequate
+for its current operations.
+Item 3. DIRECTORS AND EXECUTIVE OFFICERS OF THE COMPANY
+The information required by this item is incorporated by reference from the
+information set forth under the captions, Election of Directors and Section
+16a Information of the Company definitive Proxy Statement relating to the
+Annual Meeting of Stockholders to be held on March 23, 1999. See also Item 8.
+The Company also has a branch office in Atlanta, Georgia and satellite
+offices in the United States. The Company believes its facilities are adequate
+for its current operations.
+Item 3. EXECUTIVE COMPENSATION
+The information required by this item is incorporated by reference from the
+information set forth under the caption, Compensation of Executive Officers,
+of the Company definitive Proxy Statement relating to the Annual Meeting of
+Stockholders to be held on March 23, 1999.

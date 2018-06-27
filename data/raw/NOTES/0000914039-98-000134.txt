@@ -1,0 +1,784 @@
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.                            Page
+Number
+Report of Independent Accountants                                    15
+TransAct Technologies Incorporated consolidated financial statements         Consolidated balance sheets as of December 31, 1997 and December 31, 1996.           16
+Consolidated statements of income for the years ended December 31, 1997, December 31, 1996   17
+and December 31, 1995 unaudited, and the nine months ended December 31, 1995 and
+December 31, 1994 unaudited.
+Consolidated statements of cash flows for the years ended December 31, 1997, December 31,    18
+1996 and December 31, 1995 unaudited, and the nine months ended December 31, 1995 and
+December 31, 1994 unaudited.
+Consolidated statement of changes in shareholders' equity for the period from August 22,    19
+1996 through December 31, 1997.
+Notes to consolidated financial statements.                           20                    14
+15
+REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Shareholders
+of TransAct Technologies Incorporated
+In our opinion, the accompanying consolidated balance sheets and the related
+consolidated statements of income, of cash flows and of changes in shareholders'
+equity present fairly, in all material respects, the financial position of
+TransAct Technologies Incorporated and its subsidiaries, as described in Note 1,
+at December 31, 1997 and 1996, and the results of their operations and their
+cash flows for the years ended December 31, 1997 and December 31, 1996 and the
+nine months ended December 31, 1995, and their changes in shareholders' equity
+for the year ended December 31, 1997 and the period from August 22, 1996 through
+December 31, 1996 in conformity with generally accepted accounting principles.
+These financial statements are the responsibility of the Company management;
+our responsibility is to express an opinion on these financial statements based
+on our audits. We conducted our audits of these statements in accordance with
+generally accepted auditing standards which require that we plan and perform the
+audit to obtain reasonable assurance about whether the financial statements are
+free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements,
+assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for the opinion expressed
+above.
+Price Waterhouse LLP
+Hartford, Connecticut
+February 12, 1998                    15
+16
+TRANSACT TECHNOLOGIES INCORPORATED
+CONSOLIDATED BALANCE SHEETS
+In thousands                                        December 31,   December 31,
+1997       1996
+ASSETS:
+Current assets:
+Cash and cash equivalents                          $   391     $  1,041
+Receivables, net Note 4                            6,941       5,179
+Receivable from Tridex                              294        266
+Inventories Note 5                              8,570       7,370
+Other current assets                              1,365        628
+Total current assets                             17,561      14,484
+Plant and equipment, net Note 6                         4,989       3,964
+Excess of cost over fair value of net assets acquired, net
+Note 2                                    2,073       2,246
+Other assets                                     76        90
+7,138       6,300
+$ 24,699     $ 20,784
+LIABILITIES AND SHAREHOLDERS' EQUITY:
+Current liabilities:
+Bank loans payable Note 9                         $   300     $    -
+Accounts payable                                3,043       2,463
+Accrued liabilities Note 7                          2,780       2,412
+Note payable to Tridex Note 15                          -       1,000
+Total current liabilities                           6,123       5,875
+Other liabilities                                  673        502
+Commitments and contingencies Note 10
+Shareholders' equity:
+Common stock, $001 par value; 20,000,000
+authorized; 6,810,300 and 6,722,500 issued                    68        67
+Preferred stock, 5,000,000 authorized, no issued
+and outstanding                                  -         -
+Additional paid-in capital                           14,975      13,186
+Retained earnings                                6,062       1,169
+Unamortized restricted stock compensation                    942        -
+Cumulative translation adjustment                         9       15
+20,154      14,407
+Less: Treasury stock, at cost, 200,000 shares Note 18            2,251        -
+Total shareholders' equity                          17,903      14,407
+$ 24,699     $ 20,784
+See accompanying notes to consolidated financial statements.                    16
+17                     TRANSACT TECHNOLOGIES INCORPORATED
+CONSOLIDATED STATEMENTS OF INCOME
+In thousands, except per share data
+Year Ended               Nine Months Ended
+December 31,   December 31,   December 31,   December 31,  December 31,
+1997       1996       1995       1995      1994
+Unaudited           Unaudited
+Net sales              $ 58,400     $ 42,134    $ 33,433    $ 25,497    $ 25,426
+Cost of sales             40,227      28,201      22,843      17,529     17,035
+Gross profit              18,173      13,933      10,590      7,968      8,391
+Operating expenses:
+Engineering, design and
+product development costs     2,773       2,467       1,997      1,533     1,244
+Selling, general and
+administrative expenses      7,569       6,233       6,039      4,556     4,117
+Provision for restructuring
+Note 15               -         -        300       300       -
+10,342       8,700       8,336      6,389     5,361
+Operating income            7,831       5,233       2,254      1,579     3,030
+Other income expense:
+Interest, net              16        17        -        -       -
+Other, net Note 15          19       312         3       15      108
+3       295         3       15      108
+Income before income taxes       7,828       5,528       2,257      1,564     3,138
+Income tax provision
+Note 13              2,935       2,188        925       648     1,255
+Net income             $  4,893     $  3,340     $  1,332     $  916   $  1,883
+Net income per share 
+pro forma prior to 1997   Basic              $  072     $  057     $  025    $  017   $  035
+Diluted               071       057       025       017      035
+Weighted average common shares 
+outstanding pro forma 
+prior to 1997   Basic               6,767       5,864       5,400      5,400     5,400
+Diluted              6,932       5,884       5,400      5,400     5,400
+See accompanying notes to consolidated financial statements.                            17
+18                       TRANSACT TECHNOLOGIES INCORPORATED
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+In thousands
+Year Ended              Nine Months Ended
+December 31,   December 31,  December 31,  December 31,  December 31,
+1997       1996      1995      1995      1994
+Unaudited          Unaudited
+Cash flows from operating activities:
+Net income                    $ 4,893    $ 3,340     $ 1,332    $  916    $ 1,883
+Adjustments to reconcile net income
+to net cash provided by operating activities:
+Depreciation and amortization          1,591      1,135       957      729      686
+Deferred income taxes               51      82       168       82       -
+Gain on sale of securities available        -      285        -       -       -
+for sale
+Gain on sale of solenoid product
+line Note 15                  -        -        -       -      115
+Loss on disposal of equipment            8        6        1       5       8
+Changes in operating assets and
+liabilities:
+Receivables                 1,790     2,199       752      532      154
+Inventories                 1,200     1,017     1,653     656      16
+Other current assets              623       30       45      54      1
+Other assets                  50      27       41      150      56
+Accounts payable                580      248       50      35      409
+Accrued liabilities and other          
+liabilities                  477      1,319       327      142      315
+Net cash provided by operating
+activities                  3,835      1,972      1,830     1,881     2,959
+Cash flows from investing activities:
+Purchases of plant and equipment          2,266     1,836     1,586    1,334     956
+Proceeds from sale of securities available
+for sale                      -       508        -       -       -
+Proceeds from sale of solenoid product line
+Note 15                      -        -        -       -      115
+Proceeds from sale of equipment             3       13        4       4       13
+Other                          -       5       30       -       -
+Net cash used in investing activities     2,263     1,320     1,552    1,330     828
+Cash flows from financing activities:
+Bank line of credit borrowings           1,500        -        -       -       -
+Bank line of credit repayments           1,200       -        -       -       -
+Purchases of treasury stock            2,251       -        -       -       -
+Proceeds from option exercises             76        -        -       -       -
+Tax benefit related to employee stock sales      647        -        -       -       -
+Payment of intercompany debt            1,000     7,500        -       -       -
+Net proceeds from issuance of stock           -      8,991        -       -       -
+Net transactions with Tridex prior to the
+initial public offering             -     1,087      278     551    2,131
+Net cash provided by used in
+financing activities            2,228      404       278     551    2,131
+Effect of exchange rate changes on cash          6       15        -       -       -
+Increase decrease in cash and cash          650     1,041        -       -       -
+equivalents
+Cash and cash equivalents at beginning of       
+period                      1,041        -        -       -       -
+Cash and cash equivalents at end of period     $  391    $ 1,041     $   0    $   0    $   0
+Supplemental cash flow information:
+Interest paid                  $   52    $   28     $   -    $   -    $   -
+Income taxes paid                  2,775       592        -       -             See accompanying notes to consolidated financial statements.                    18
+19                        TRANSACT TECHNOLOGIES INCORPORATED
+STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+In thousands, except share data
+Common Stock    Additional         Unamortized   Cumulative
+Paid-in   Retained  Restricted Stock Translation  Treasury
+Shares    Amount   Capital   Earnings   Compensation  Adjustment   Stock
+Balance, August 22, 1996       5,400,000  $   54  $  4,207  $    -   $    -   $    -  $    -
+Issuance of Offering shares    1,322,500      13    8,978      -       -       -       -
+Purchase of warrants           -      -      1      -       -       -       -
+Translation adjustments          -      -      -      -       -      15      -
+Net income subsequent to the
+Offering                -      -      -    1,169       -       -       -
+Balance, December 31, 1996      6,722,500      67    13,186    1,169       -      15        Issuance of restricted stock     78,800      1    1,066      -     1,066       -       -
+Issuance of shares from
+exercise of stock options      9,000      -      76      -       -       -       -
+Amortization of restricted
+stock compensation           -      -      -      -      124       -       -
+Tax benefit related to
+employee stock sales          -      -     647      -       -       -       -
+Purchase of treasury shares    200,000      -      -      -       -       -    2,251
+Translation adjustments          -      -      -      -       -       6       -
+Net income                -      -      -    4,893       -       -       -
+Balance, December 31, 1997      6,610,300  $   68  $  14,975  $  6,062    $  942   $   9  $  2,251
+See accompanying notes to consolidated financial statements.                                19
+20
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1.  BASIS OF PRESENTATION
+TransAct Technologies Incorporated TransAct or the Company was
+incorporated on June 17, 1996, as a wholly-owned subsidiary of Tridex
+Corporation Tridex. Following the incorporation, TransAct and two of
+Tridex wholly-owned subsidiaries, Magnetec Corporation Magnetec and
+Ithaca Peripherals Incorporated Ithaca, entered into a Plan of
+Reorganization the Plan of Reorganization, pursuant to which: i
+Ithaca merged into Magnetec; ii TransAct transferred to Tridex certain
+assets of Magnetec used in manufacturing a printer ribbon product line;
+iii TransAct issued 5,400,000 shares of its common stock to Tridex in
+exchange for all the outstanding shares of Magnetec; iv TransAct sold in
+an initial public offering the Offering 1,322,500 shares or
+approximately 197% of its common stock; v TransAct repaid $8,500,000 of
+intercompany indebtedness to Tridex; vi Tridex applied to the Internal
+Revenue Service the IRS for a ruling that the distribution of the
+5,400,000 shares of TransAct owned by Tridex to Tridex stockholders the
+Distribution would constitute a tax-free reorganization for federal
+income tax purposes; and vii Tridex agreed to effect the Distribution
+promptly after receipt of a favorable ruling from the IRS and the
+satisfaction of certain other conditions.
+On February 12, 1997, Tridex received a favorable ruling from the IRS
+confirming the tax-free nature of the Distribution. On March 31, 1997
+Tridex distributed its 5,400,000 shares, or 803% of TransAct common
+stock, pro rata to persons who were Tridex stockholders of record on March
+14, 1997, on the basis of approximately one share of TransAct for each
+share of Tridex. Upon completion of the Distribution, Tridex no longer
+owned any shares of TransAct capital stock.
+The financial statements of the Company have been prepared principally
+on the basis of items i and ii of the Plan of Reorganization outlined
+above and include the financial position and consolidated combined prior
+to the implementation of the Plan of Reorganization results of operations
+and cash flows of the business described. The term consolidated as used
+herein refers to both the consolidated and combined financial statements.
+The Company carries its assets and liabilities at historical cost. The
+financial results in these financial statements are not necessarily
+indicative of results that would have occurred if the Company had been a
+separate stand alone entity during the periods presented or of future
+results of the Company.
+2.  BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+BUSINESS AND PRODUCTS: TransAct, through its two operations, one in
+Wallingford, CT and the other in Ithaca, NY, operates in one industry
+segment, printers and printer peripheral products. TransAct designs,
+develops, manufactures and markets transaction based printers and related
+products under the ITHACA and MAGNETEC brand names. The Company printers
+are used to provide transaction records such as receipts, tickets, coupons,
+register journals and other documents. The Company focuses on four vertical
+markets: point-of-sale POS from which the Company derived
+approximately 40% of net sales for the year ended December 31, 1997;
+gaming and lottery approximately 40% of net sales; kiosk approximately
+11% of net sales; and financial services approximately 9% of net sales.
+The Company sells its products directly to end users, original equipment
+manufacturers OEM, value added resellers and selected distributors,
+primarily in the United States, Canada, Europe and Latin America.
+TransAct manufactures and sells customizable and custom dot matrix and
+thermal printers for applications requiring up to 60 character columns in
+each of its four vertical markets. The Company also sells an 80 column
+laser printer for kiosk applications. The Company customizable products
+include several series of printers which offer customers the ability to
+choose from a variety of features and functions. Options typically include
+paper cutting devices, paper handling capacities and number of print
+stations. In addition to its customizable printers, TransAct manufactures
+custom printers for certain OEM customers. In collaboration with these
+customers, the Company provides engineering and manufacturing expertise for
+the design and development of specialized printers.
+PRINCIPLES OF CONSOLIDATION: The accompanying consolidated financial
+statements include the accounts of the Company and its wholly-owned
+subsidiaries, after elimination of all material intercompany accounts and
+transactions.
+CHANGE IN FISCAL YEAR END: In December 1995, the Company fiscal year
+end was changed to December 31 from the Saturday closest to March 31.
+20
+21
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+2.  BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+CASH AND CASH EQUIVALENTS: The Company considers all highly liquid
+investments purchased with an initial maturity of three months or less to
+be cash equivalents.
+USE OF ESTIMATES: The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date
+of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results could differ from
+those estimates.
+FOREIGN CURRENCY: The financial position and results of operations of
+the Company foreign subsidiaries are measured using local currency as the
+functional currency. Assets and liabilities of such subsidiaries have been
+translated at end of period exchange rates, and related revenues and
+expenses have been translated at weighted average exchange rates. The
+aggregate effect of translation adjustments so calculated for periods prior
+to the Offering, which would be ordinarily included as a separate component
+of shareholders' equity, is de minimis. Transaction gains and losses are
+included in other income.
+INVENTORIES: Inventories are stated at the lower of cost principally
+standard cost which approximates actual cost on a first-in, first-out
+basis or market.
+PLANT AND EQUIPMENT AND DEPRECIATION: Plant and equipment and leasehold
+improvements are stated at cost. Depreciation is provided for primarily by
+the straight-line method over the estimated useful lives. The estimated
+useful life of machinery, furniture and equipment is three to ten years.
+Leasehold improvements are amortized over the shorter of the term of the
+lease or the useful life of the asset. Depreciation amounted to $1,227,000,
+$905,000 and $521,000 in the year ended December 31, 1997, December 31,
+1996 and the nine months ended December 31, 1995, respectively.
+EXCESS OF COST OVER FAIR VALUE OF NET ASSETS ACQUIRED: The excess of
+cost over fair value of net assets acquired goodwill resulted from the
+acquisition of Ithaca in 1991. The original amount applicable to this
+acquisition totaled $3,536,000 and is being amortized on the straight line
+method over 20 years. Accumulated amortization of goodwill was $1,463,000
+and $1,290,000 at December 31, 1997 and December 31, 1996, respectively.
+The Company periodically reviews goodwill to assess recoverability based
+upon expectations of non-discounted cash flows from operations for Ithaca.
+The Company believes that no impairment of goodwill exists at December 31,
+1997.
+REVENUE RECOGNITION: Sales are recognized when the product is shipped.
+Revenue from extended warranty and maintenance agreements is recognized
+over the term of such agreements as services are performed. Sales to one
+customer accounted for approximately 29%, 16% and 12% of net sales for the
+year ended December 31, 1997, December 31, 1996 and the nine months ended
+December 31, 1995, respectively.
+INCOME TAXES: Through the date of the Distribution, the Company was
+included in the consolidated federal and certain state income tax returns
+of Tridex. The income tax amounts reflected in the accompanying financial
+statements are accounted for under the liability method in accordance with
+FAS 109 Accounting for Income Taxes, and for the periods presented
+through the date of the Distribution are an allocation of Tridex
+consolidated balances, and are computed as if a separate return had been
+filed for the Company, using those elements of income and expense as
+reported in the consolidated statements of income. Subsequent to the
+Distribution, the Company will file federal and state income tax returns
+separately from Tridex. See Note 13.
+EARNINGS PER SHARE: TransAct adopted FAS 128 Earnings per Share,
+effective December 15, 1997, which requires the dual presentation of basic
+and diluted earnings per share for complex capital structures. In
+accordance with FAS 128, earnings per share presented in the accompanying
+financial statements for periods prior to adoption have been restated. For
+the year ended December 31, 1996, December 31, 1995 unaudited, the nine
+months ended December 31, 1995 and the nine months ended December 31, 1994
+unaudited, pro forma basic and diluted earnings per share are based on
+the weighted average number of shares outstanding during the period, as if
+all shares issued to Tridex prior to the Offering had been outstanding
+throughout these periods.                    21
+22
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+2.  BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+STOCK-BASED COMPENSATION: The Company has elected to follow Accounting
+Principles Board Opinion No. 25, Accounting for Stock Issued to Employees
+APB 25, and related interpretations in accounting for its stock
+options. Under APB 25, because the exercise price of employee stock options
+equals the market price of the underlying stock on the date of grant, no
+compensation expense is recorded. The Company has adopted the
+disclosure-only provisions of Statement of Financial Accounting Standards
+No. 123, Accounting for Stock-Based Compensation FAS 123. See Note
+11.
+3. RELATED PARTY TRANSACTIONS
+Prior to the Offering, the Company participated in Tridex centralized
+cash management system. While under this system, cash deposits from the
+Company were transferred to Tridex and Tridex funded the Company
+disbursement bank accounts as required. In August 1996, the Company ceased
+to participate in the Tridex cash management system.
+Prior to the Offering, Tridex provided certain general and
+administrative services to the Company, including tax, treasury, risk
+management and insurance, legal, marketing, accounting, auditing, human
+resources and executive management. For periods prior to the Offering,
+these expenses were allocated to the Company based upon actual usage for
+those expenses directly attributable to the Company, and otherwise
+allocated based upon other methods which management believes to be
+reasonable. These allocations were $869,000 and $1,203,000 for the year
+ended December 31, 1996 and the nine months ended December 31, 1995,
+respectively. These costs may have been different had the Company operated
+as a separate stand-alone entity during the periods presented.
+Included as a component of Tridex investment in the Company are net
+cash advances from Tridex to the Company and general and administrative
+expenses allocated from Tridex to the Company. No interest expense on net
+advances from Tridex has been reflected in the accompanying financial
+statements.
+On July 31, 1996, the Company entered into a Corporate Services
+Agreement with Tridex. Under the terms of this agreement, Tridex agreed to
+provide the Company with certain services, including employee benefit
+administration, human resource and related services, administrative
+services, risk management, regulatory compliance, preparation of tax
+returns and certain financial and other services. Such services were
+provided and reimbursed at actual cost, which amounted to approximately
+$96,000 and $91,000 for the year ended December 31, 1997 and December 31,
+1996, respectively. Certain services ceased to be provided after March 31,
+1997. Also, pursuant to the terms of the agreement, Tridex agreed to pay
+15% of the direct employment costs of the Company chief financial officer
+through March 31, 1997, which amounted to approximately $7,000 and $8,000
+for the year ended December 31, 1997 and December 31, 1996, respectively.
+The Corporate Services Agreement expired on December 31, 1997.
+On July 31, 1996, the Company entered into a Tax Sharing Agreement with
+Tridex. The agreement provides for the treatment of certain tax attributes
+of the Company including the method of allocating tax obligations,
+treatment of tax carryforwards and the computation of income tax provisions
+for the Company between the date of the Offering and the Distribution. In
+addition, tax benefits related to certain tax carryforwards arising prior
+to the Distribution will be paid to Tridex as the carryforwards are
+utilized. For the year ended December 31, 1997 and December 31, 1996, the
+Company paid, net of refunds from Tridex, approximately $410,000 and
+$527,000, respectively, to Tridex pursuant to the agreement.
+The Company and Tridex also entered into an Asset Transfer Agreement
+dated July 31, 1996, under which the Company agreed to transfer to Tridex
+certain assets used in the manufacturing process of the printer ribbon
+product line. Additionally, on September 28, 1996, the Company and Tridex
+entered into a Manufacturing Support Services Agreement. Under this
+agreement, the Company agrees to provide Tridex with space within its
+Wallingford, CT manufacturing facility and certain support services for the
+ribbon business through September 28, 1998. Tridex agrees to pay the
+Company a monthly fee calculated to compensate the Company for the direct
+and indirect costs incurred by the Company to provide the space and render
+such services. These fees amounted to approximately $254,000 and $67,000
+during the year ended December 31, 1997 and December 31, 1996,
+respectively. The Company also purchased approximately $4,000 and $5,000 of
+ribbons from Tridex during the same periods.                    22
+23
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+3.  RELATED PARTY TRANSACTIONS CONTINUED
+The Company sells certain POS printers to a wholly-owned subsidiary of
+Tridex. Revenues from the sale of such printers amounted to $2,675,000,
+$3,178,000 and $2,340,000 for the year ended December 31, 1997, the year
+ended December 31, 1996 and the nine months ended December 31, 1995,
+respectively. On July 30, 1996, the Company entered into a Printer Supply
+Agreement which will require the subsidiary, in consideration for continued
+favorable price terms, to purchase from the Company at least three quarters
+of its total POS printer requirements through December 31, 1999.
+On April 1, 1997, the Company established the TransAct Technologies
+Retirement Savings Plan the Plan, a defined contribution plan under
+Section 401k of the Internal Revenue Code. Prior to the Distribution, the
+Company employees participated in the Tridex Corporation Retirement
+Savings Plan. All full-time employees are eligible to participate in the
+Plan at the beginning of the calendar quarter immediately following their
+date of hire. The Company matches employees' contributions at a rate of
+375% of employees' contributions up to the first 4% of the employees'
+compensation contributed to the Plan. The Company matching contributions
+were $101,000, $80,000 and $51,000 in the year ended December 31, 1997,
+December 31, 1996 and the nine months ended December 31, 1995,
+respectively, and are included in general and administrative expense.
+Effective January 1, 1998, the Company increased its rate of matching
+contributions to 50% of the employees' contributions up to the first 4% of
+the employees' compensation contributed to the Plan.
+4.  RECEIVABLES
+Receivables are net of the allowance for doubtful accounts. The
+reconciliation of the allowance for doubtful accounts is as follows                                  Year Ended        Nine Months
+Ended
+December 31,   December 31,   December 31,
+In thousands                    1997       1996       1995
+Balance at beginning of period            $ 106      $  40      $  76
+Provision for doubtful accounts            18        66        12
+Accounts written off, net of recoveries       22        -       48
+Balance at end of period               $ 102      $ 106      $  40
+5.  INVENTORIES
+The components of inventories are                             December 31,   December 31,
+In thousands                    1997       1996
+Raw materials and component parts         $ 7,482     $ 5,828
+Work-in-process                    588        810
+Finished goods                     500        732
+$ 8,570     $ 7,370
+23
+24
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+6.  PLANT AND EQUIPMENT
+The components of plant and equipment, net are                              December 31,    December 31,
+In thousands                     1997        1996
+Machinery and equipment                $ 8,399      $ 6,798
+Furniture, office and computer equipment         2,545       2,276
+Leasehold improvements                   339        276
+11,283       9,350
+Less: accumulated depreciation             6,294      5,386
+$ 4,989      $ 3,964
+7.  ACCRUED LIABILITIES
+The components of accrued liabilities are                              December 31,    December 31,
+In thousands                     1997        1996
+Payroll and fringe benefits              $ 1,225      $  931
+Income taxes payable                    415        330
+Customer advances, deferred revenue and
+warranty                         436        324
+Due to Tridex                        24        103
+Other                           680        724
+$ 2,780      $ 2,412
+8. TRIDEX INVESTMENT IN THE COMPANY
+Tridex investment in the Company includes the original investment in
+the Company and the net intercompany payable from the Company to Tridex
+reflecting transactions described in Note 3. The following analyzes Tridex
+investment in the Company for the periods presented. The amounts presented
+below for the year ended December 31, 1996 reflect activity through the
+Offering date, August 22, 1996.                                           Nine Months
+Year Ended      Ended
+December 31,    December 31,
+In thousands                        1996       1995
+Balance at beginning of the period            $ 11,645       $ 11,280
+Net income                        2,171         916
+Net transactions with Tridex:
+Allocation of general and administrative
+expenses from Tridex                 869       1,203
+Sales to affiliates                  1,998        2,340
+Net transfers to Tridex                2,216       1,688
+Reclassification of note payable to Tridex       8,500                Issuance of shares to Tridex in exchange
+for all outstanding shares of Magnetec         4,229                                                       Balance at end of the period               $   --       $ 11,645
+24
+25
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+9.  BANK CREDIT AGREEMENT
+On August 29, 1996, the Company entered into an agreement with Fleet
+National Bank Fleet to provide the Company with a $5,000,000 revolving
+credit facility the Credit Facility. The Credit Facility bears interest
+on outstanding borrowings at Fleet prime rate 825% at December 31,
+1997 and bears a commitment fee of 025% on any unused portion of the
+Credit Facility. The Credit Facility also permits the Company to designate
+a LIBOR rate on outstanding borrowings with a margin of 15 percentage
+points over the market rate. The Credit Facility is secured by a lien on
+substantially all of the assets of the Company, imposes certain financial
+covenants and restricts the payment of cash dividends. The Company had
+borrowings of $1,500,000 under the Credit Facility during the year ended
+December 31, 1997 and none during the year ended December 31, 1996. The
+Company had $300,000 of borrowings outstanding at December 31, 1997.
+On January 29, 1998, the Company replaced its existing $5,000,000
+Credit Facility with a new $15,000,000 facility the New Credit
+Facility. The New Credit Facility, also with Fleet, provides the Company
+with a $5,000,000 revolving working capital facility, and a $10,000,000
+revolving credit facility that may be used for activities such as
+acquisitions and repurchases of the Company common stock. Borrowings
+under the $10,000,000 revolving credit facility may, at the Company
+election, be converted to a four-year term loan commencing on June 30,
+1999, the expiration date of the New Credit Facility. Any term loan
+borrowings mature on June 30, 2003. Borrowings under the New Credit
+Facility bear interest at Fleet prime rate and bear a commitment fee
+ranging from 025% to 050% on any unused portion of the New Credit
+Facility. The New Credit Facility also permits the Company to designate a
+LIBOR rate on outstanding borrowings with a margin ranging from 125 to
+175 percentage points over the market rate, depending on the Company
+meeting certain ratios. The New Credit Facility is secured by a lien on
+substantially all of the assets of the Company, imposes certain financial
+covenants and restricts the payment of cash dividends and the creation of
+liens.
+10. COMMITMENTS AND CONTINGENCIES
+At December 31, 1997, the Company was lessee on operating leases for
+equipment and real property. The terms of certain leases provide for
+escalating rent payments in later years of the lease as well as payment of
+minimum rent and real estate taxes. Rent expense amounted to approximately
+$713,000, $682,000 and $532,000 in the year ended December 31, 1997,
+December 31, 1996 and the nine months ended December 31, 1995,
+respectively. Minimum aggregate rental payments required under operating
+leases that have initial or remaining non-cancelable lease terms in excess
+of one year as of December 31, 1997 are as follows: $836,000 in 1998;
+$864,000 in 1999; $842,000 in 2000; $826,000 in 2001; $806,000 in 2002 and
+$4,516,000 thereafter.
+The Company has a long-term purchase agreement for certain printer
+components. Under the terms of the agreement, the Company receives
+favorable pricing for volume purchases over the life of the contract. In
+the event anticipated purchase levels are not achieved, the Company would
+be subject to retroactive price increases on previous purchases. Management
+currently anticipates achieving sufficient purchase levels to maintain the
+favorable prices.
+In conjunction with the Plan of Reorganization, as described in Note 1,
+Tridex indemnified the Company from any liabilities, including
+environmental liabilities, which could arise in connection with a
+manufacturing facility owned by Tridex and formerly operated by the
+Company.                    25
+26
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+11. STOCK OPTIONS AND WARRANTS
+STOCK OPTIONS. On July 30, 1996, the Company adopted the 1996 Stock
+Plan which provides for the grant of awards to officers and other key
+employees of the Company, and the Directors' Stock Plan which provides for
+non-discretionary awards to non-employee directors. The plans provide for
+awards in the form of: i incentive stock options, ii non-qualified
+stock options, iii shares of restricted stock, iv restricted units, v
+stock appreciation rights or vi limited stock appreciation rights.
+Options granted are at prices equal to 100% of the fair market value of the
+common stock at the date of grant. Options granted have a ten-year term and
+vest over a five-year period, unless automatically accelerated. At December
+31, 1997, the Company has reserved 660,000 shares of common stock for
+issuance under the 1996 Stock Plan and Directors' Stock Plan.
+The 1996 Stock Plan and Directors' Stock Plan option activity is
+summarized below                                   Year Ended             Year Ended
+December 31, 1997          December 31, 1996
+Weighted               Weighted
+Average               Average
+Shares   Exercise Price     Shares    Exercise Price
+Outstanding at beginning of period           339,300  $    850         -         -
+Granted                       227,500      1445      339,300    $    850
+Exercised                       9,000      850         -         -
+Canceled                       15,200      1004         -         -
+Outstanding at end of period              542,600      1097      339,300        850
+Options exercisable at end of period           57,060  $    850         -    $     -
+The Company applies APB 25 and related interpretations in accounting
+for its long-term incentive stock plans. Accordingly, no compensation cost
+has been recognized for its stock options.                             Options Outstanding            Options Exercisable
+Outstanding at Weighted-Average Weighted-Average  Exercisable at  Weighted-Average
+December 31,  Exercise Price    Remaining    December 31,  Exercise Price
+Range of Exercise Prices           1997             Contractual Life    1997
+In years
+$ 750  - $1000           318,100      $ 850        84      57,060      $850
+1001  -  1250            15,500      1175        94        -        -
+1251  -  1500           134,000      1373        90        -        -
+1501  -  1750            75,000      1633        96        -                            26
+27
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+11. STOCK OPTIONS AND WARRANTS CONTINUED
+Had compensation expense been recognized based on the fair value of the
+options at their grant dates, as prescribed in FAS 123, the Company net
+income and net income per share would have been as follows                                    Year Ended
+December 31,     December 31,
+In thousands, except per share data        1997         1996
+Net income:
+As reported                  $  4,893      $  3,340
+Pro forma under FAS 123              4,422        3,248
+Net income per share:
+Basic        As reported                   072         057
+Pro forma under FAS 123             065         055
+Diluted        As reported                   071         057
+Pro forma under FAS 123             064         055     The fair value of each option grant is estimated on the date of grant
+using the Black-Scholes option pricing model with the following assumptions
+used for the grants made during the years ended December 31, 1997 and 1996.                                          Year Ended
+December 31,  December 31,
+1997      1996
+Risk-free interest rate                       6400%      5062%
+Dividend yield                             0%        0%
+Expected volatility factor                      0600       0595
+Expected option term                       10 years     10 years
+Weighted average fair value of options granted during period    $ 1097      $ 625     RESTRICTED STOCK: Under the 1996 Stock Plan, in 1997 the Company
+granted 78,800 shares of restricted common stock to its Chairman of the
+Board, officers and certain key employees. Restricted stock totaling 49,800
+shares vest over a five-year period, while 29,000 shares vest at the end of
+a five-year period. Under certain conditions vesting may be automatically
+accelerated. Upon issuance of the restricted stock, unearned compensation
+equivalent to the market value at the date of grant is charged to
+stockholders' equity and subsequently amortized over the vesting period.
+Amortization expense of $124,000 was recorded during 1997.
+WARRANTS: On August 22, 1996, the Company sold to the underwriters of
+the Offering, for nominal consideration, a warrant to purchase from the
+Company up to 115,000 shares of common stock at an exercise price of $1020
+per share. The warrant is exercisable for a period of five years beginning
+April 1, 1998. No warrants were exercisable at December 31, 1997.
+12. STOCKHOLDER RIGHTS PLAN
+In December 1997, the Board of Directors adopted a stockholder rights
+plan declaring a distribution of one right the Rights for each
+outstanding share of the Company common stock to shareholders of record
+at December 15, 1997. Initially, each of the Rights will entitle the
+registered holder to purchase from the Company one one-thousandth of a
+share of Series A Preferred Stock, $001 par value, at a price of $69 per
+one one-thousandth of a share. The Rights, however, will not become
+exercisable unless and until, among other things, any person or group of
+affiliated persons acquires beneficial ownership of 15 percent or more of
+the then outstanding shares of the Company Common Stock. If a person, or
+group of persons, acquires 15 percent or more of the outstanding Common
+Stock of the Company subject to certain conditions and exceptions more
+fully described in the Rights Agreement, each Right will entitle the
+holder other than the person, or group of persons, who acquired 15 percent
+or more of the outstanding Common Stock to purchase Preferred Stock of the
+Company having a market value equal to twice the exercise price of the
+Right. The Rights are redeemable, under certain circumstances, for $00001
+per Right and will expire, unless earlier redeemed, on December 2, 2007.                    27
+28
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+13. INCOME TAXES
+The components of the income tax provision are as follows                            Year Ended            Nine Months
+Ended
+December 31,    December 31,     December 31,
+In thousands               1997        1996         1995
+Current:
+Federal                 $ 2,461      $ 1,934       $  476
+State                    525         336          90
+2,986        2,270         566
+Deferred:
+Federal                   46        73         73
+State                     5         9          9
+51        82         82
+Total income tax provision        $ 2,935      $ 2,188       $  648
+Deferred income taxes arise from temporary differences between the tax
+basis of assets and liabilities and their reported amounts in the financial
+statements. The Company gross deferred tax assets and liabilities were
+comprised of the following                              December 31,    December 31,
+In thousands                     1997        1996
+Gross deferred tax assets:
+Liabilities and reserves              $  710      $  586
+Gross deferred tax liabilities:
+Depreciation                    $  363      $  290
+At December 31, 1997 and 1996, the Company had foreign net operating
+loss carryforwards of approximately $21,000 and $152,000, respectively,
+which do not expire. A valuation allowance was recorded with respect to the
+foreign net operating loss carryforwards at December 31, 1996.
+Differences between the U.S. statutory federal income tax rate and the
+Company effective income tax rate are analyzed below                                      Year Ended          Nine Months
+Ended
+December 31,    December 31,    December 31,
+1997        1996        1995
+Federal statutory tax rate                  340%       340%       340%
+State income taxes, net of federal income taxes        44        40        44
+Non-deductible purchase accounting adjustments         09        11        28
+Tax benefit from foreign sales corporation          10        -         -
+Other                             08        05        02
+Effective tax rate                     375%       396%       414%
+28
+29
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+14. DISCLOSURE REGARDING FAIR VALUE OF FINANCIAL INSTRUMENTS
+The carrying amount of trade accounts receivable, other current assets,
+trade accounts payable, accrued expenses and bank loans approximate fair
+value because of the short maturity of those instruments.
+15.  SIGNIFICANT TRANSACTIONS
+On August 22, 1996, the Company sold 1,150,000 shares of its common
+stock at a price of $850 per share in the Offering. On September 18, 1996,
+the Company sold an additional 172,500 shares upon exercise of the
+underwriters' over-allotment option. Net proceeds from the Offering
+including the exercise of the Underwriters' over-allotment option were
+approximately $8,991,000, after payment of approximately $2,250,000 of
+Offering expenses.
+Concurrent with the Offering, the Company repaid $7,500,000 of a total
+of $8,500,000 of intercompany indebtedness to Tridex and issued a
+$1,000,000 subordinated promissory note to Tridex. The note was due on
+March 31, 1998 and bore interest, payable monthly in arrears, at the rate
+paid by Tridex under its revolving credit facility. On February 14, 1997,
+the Company repaid the note, plus accrued interest, to Tridex.
+In December 1995, the operations of Magnetec and Ithaca were combined
+under unified management. In connection with this combination, the Company
+recorded a provision for restructuring costs of $300,000, which covers the
+costs associated with combining operations under unified management and is
+primarily comprised of severance costs.
+In 1994 the Company sold its solenoid product line. Proceeds from the
+sale were cash and shares of common stock of the purchaser marketable
+securities. During the nine months ended December 31, 1994 unaudited,
+the Company recognized a gain of $115,000 as the result of a contingent
+payment received from the purchaser. In addition, during the year ended
+December 31, 1996, the Company sold the remainder of the marketable
+securities and recognized a gain of $285,000. These gains are included in
+other income.
+16. INTERNATIONAL OPERATIONS
+The Company has foreign operations primarily from Ithaca Peripherals
+Ltd., a wholly-owned subsidiary, which had sales to its customers of
+$4,204,000, $397,000 and $332,000 in the year ended December 31, 1997,
+December 31, 1996 and the nine months ended December 31, 1995,
+respectively. The Company had export sales to its customers from the United
+States of approximately $5,618,000 in the year ended December 31, 1997,
+$1,622,000 in the year ended December 31, 1996 and $1,211,000 in the nine
+months ended December 31, 1995.                    29
+30
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+17. QUARTERLY RESULTS OF OPERATIONS UNAUDITED
+The Company quarterly results of operations for the years ended
+December 31, 1997 and 1996 unaudited are as follows                                            Quarter Ended
+In thousands, except per share amounts         March 29    June 28    September 27   December 31
+1997:
+Net sales                     $    14,014 $    15,569 $    16,040 $    12,777
+Gross profit                        4,352      4,963      5,065      3,793
+Net income                         1,087      1,360      1,582       864
+Net income per share        Basic                           016      020      023       013
+Diluted                          016      020      023       012                                 March 30    June 29    September 28   December 31
+1996:
+Net sales                     $    10,463 $    9,762 $    10,794 $    11,115
+Gross profit                        3,479      3,328      3,655      3,471
+Net income                          865       868       927       680
+Net income per share        Basic                           016      016      016       010
+Diluted                          016      016      016       010 18. SUBSEQUENT EVENTS
+As of February 9, 1998 the Company had purchased an additional 164,500
+shares of its common stock on the open market for approximately $1,841,000.                    30
+31
+\Item 3.  LEGAL PROCEEDINGS.
+None.
+Item 4.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+Information contained in Election of Directors and Section 16a
+Beneficial Ownership Reporting Compliance of the Company Proxy Statement the
+Proxy Statement for its Annual Meeting of Shareholders which is scheduled to
+be held on May 7, 1998 is hereby incorporated herein by reference. Also, see
+information under Executive Officers of Registrant in Item 1.
+Item 3.  LEGAL PROCEEDINGS.
+None.
+Item 4.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+The information contained in Security Ownership of Certain Beneficial
+Owners and Management of the Proxy Statement is hereby incorporated herein by
+reference.

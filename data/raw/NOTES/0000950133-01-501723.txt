@@ -1,0 +1,723 @@
+Item8. This discussion and analysis contains
+forward-looking statements within the meaning of
+Section21E of the Securities Exchange Act of 1934. Words
+such as anticipates, expects,
+intends, believes, plans,
+seeks, estimates and similar expressions
+identify such forward-looking statements. These forward-looking
+statements are subject to risks, uncertainties and assumptions.
+Our actual results may differ materially from those anticipated
+in these forward-looking statements as a result of certain
+factors, including, but not limited to, those set forth under
+Factors that May Affect Future Operating Results in
+Item1 and elsewhere in this report. OVERVIEW Background We are a leading provider of infrastructure software and
+services for comprehensive end-to-end integration solutions that
+enable our customers to achieve comprehensive automation of
+business processes by integrating their systems in real time.
+Our customers use our software, webMethods B2B, webMethods
+Enterprise, and webMethods Mainframe Integration Server to
+integrate business processes among different systems within the
+enterprise through the real-time exchange of information and to
+work more closely with their customers, suppliers and other
+business partners through the real-time exchange of information
+and transactions. webMethods was founded in June1996. In August2000,
+webMethods acquired Active Software, Inc. Active
+in a transaction which was accounted for as a pooling of
+interests. Active was founded in September1995. We have
+grown from 94 employees as of March31, 1998 to 1,018
+employees as of March31, 2001. We shipped the first
+version of webMethods B2B in June1998 and have released
+seven subsequent versions of webMethods B2B, the most recent of
+which we began shipping in April2001. The first version of
+webMethods Enterprise Server was shipped in August1996,
+and eleven subsequent versions of the webMethods Enterprise
+Server have been released since, the most recent of which began
+shipping in March2001. The first shipment of the
+webMethods Mainframe Integration Server was in August 2000
+and two subsequent versions have been released with the most
+recent being in December2000. Business Merger On August15, 2000 webMethods completed a merger with
+Active, a provider of software products for businesses that
+allow users to integrate incompatible software applications
+across their extended enterprises of customers, suppliers and
+partners, which was a publicly held software company based in
+Santa Clara, California. Active stockholders received
+527shares of common stock of webMethods for each share of
+Active common stock, or an aggregate of 139million
+shares. The merger has been accounted for as a pooling of
+interests, and accordingly the financial statements have been
+retroactively restated as if the merger had occurred as of the
+beginning of the earliest period presented. Active had a
+calendar fiscal year end. In connection with the retroactive
+restatement, the financial statements of Active were recast to a
+March31year end to conform to webMethods
+presentation. Business Acquisitions In April 2000, we acquired Premier Software
+Technologies,Inc. Premier, a provider of integration
+products and services for e-commerce. In connection with this
+transaction, 63,929shares of our common stock were issued
+and cash of $500,000 was paid in exchange for all of the
+outstanding shares of capital stock of Premier. In addition,
+outstanding options to purchase Premier capital stock were
+converted into options to purchase an aggregate of 6,081 shares
+of our common stock.
+30 Table of Contents In April 2000, we acquired TransLink Software,Inc.
+TransLink, a provider of high performance mainframe
+integration solutions for e-commerce. In connection with this
+transaction, 419,683shares of our common stock were issued
+and cash of $45million was paid. In addition, the
+outstanding options to purchase TransLink capital stock were
+converted into options to purchase an aggregate of 22,682 shares
+of our common stock. Acquisition of Technology In February 2001, we acquired Intelliframe Corporation, a wholly
+owned subsidiary of Computer Network Technology Corporation
+Intelliframe. Through the acquisition, we acquired
+Intelliframe, certain workflow technology and
+Intelliframes Boston based research and development team.
+The total purchase price for the acquisition was $321 million
+consisting of a cash payment of $88million and the
+issuance of 273,542 shares of our common stock with a fair value
+of $233million on the date of issuance. The Intelliframe workflow technology was purchased with the
+intent to subsequently integrate certain parts of the technology
+into a future product. The efforts required to complete and
+incorporate the acquired in-process research and development
+include the completion of all planning, designing and testing
+activities that are necessary to meet its design requirements,
+including functions, features and technical performance
+requirements. No other significant assets were purchased.
+Accordingly management has determined the product into which the
+acquired technology is to be incorporated has not met
+technological feasibility and as such substantially all of the
+purchase price was charged to in-process research and
+development during the quarter ended March31, 2001. Revenue We enter into arrangements, which may include the sale of
+licenses of our integration software, professional services and
+maintenance or various combinations of each element. We
+recognize revenue based on Statement of Position
+SOP 97-2, Software Revenue
+Recognition, as amended, and modified by SOP 98-9,
+Modification of SOP 97-2, Software Revenue Recognition,
+With Respect to Certain Transactions. SOP 98-9 modified
+SOP 97-2 by requiring revenue to be recognized using the
+residual method if certain conditions are met.
+Revenue is recognized based on the residual method when an
+agreement has been signed by both parties, the fees are fixed or
+determinable, collection of the fees is probable, delivery of
+the product has occurred and no other significant obligations
+remain. Historically we have not experienced significant returns
+or offered exchanges of our products. For multi-element arrangements, each element of the arrangement
+is analyzed and we allocate a portion of the total fee under the
+arrangement to the undelivered elements, such as professional
+services, training and maintenance. Revenue allocated to the
+undelivered elements is deferred using vendor-specific objective
+evidence of fair value of the elements and the remaining portion
+of the fee is allocated to the delivered elements generally the
+software license, under the residual method. Vendor
+specific-objective evidence of fair value is based on the price
+the customer is required to pay when the element is sold
+separately i.e. hourly time and material rates charged for
+consulting services when sold separately from a software license
+and the optional renewal rates charged by us for maintenance
+arrangements. For electronic delivery, the product is considered to have been
+delivered when the access code to download the software from our
+website and activation key, as applicable, have been provided to
+the customer. If an element of the license agreement has not
+been delivered, revenue for the element is deferred based on its
+vendor-specific objective evidence of fair value. If
+vendor-specific objective evidence of fair value does not exist,
+all revenue is deferred until sufficient objective evidence
+exists or all elements have been delivered. If the fee due from
+the customer is not fixed or determinable, revenue is recognized
+as payments become due. If collectibility is not considered
+probable, revenue is recognized when the fee is collected. License Revenue: Amounts allocated to license revenue
+under the residual method are recognized at the time of delivery
+of the software when vendor-specific objective evidence of fair
+value exists for the undelivered elements, if any, and all the
+other revenue recognition criteria discussed above have been met.
+31 Table of Contents Professional Services Revenue: Revenue from professional
+services is comprised of consulting, implementation services and
+training. Consulting services are generally sold on a
+time-and-materials basis and include services such as
+installation and building non-complex interfaces to allow the
+software to operate in customized environments. Services are
+generally separable from the other elements under the
+arrangement since the performance of the services is not
+essential to the functionality i.e. the services do not involve
+significant production, modification or customization of the
+software or building complex interfaces of any other element of
+the transaction. Revenue for professional services and training
+is recognized when the services are performed. Maintenance Revenue: Maintenance revenue consists
+primarily of fees for providing when-and-if-available
+unspecified software upgrades and technical support over a
+specified term. Maintenance revenue is recognized on a
+straight-line basis over the term of the contract. Costs of Revenue Our cost of license revenue primarily includes royalties related
+to third parties software embedded in our products or sold
+to our customers. Our cost of professional services and
+maintenance revenue includes compensation and related expenses
+for our professional services and technical support
+organizations, costs of third-party consultants we use to
+provide professional services to customers and an allocation of
+overhead and recruitment costs. Operating Expenses Our operating expenses are classified as sales and marketing,
+research and development and general and administrative. Each
+category includes related expenses for compensation, employee
+benefits, professional fees, travel, communications and
+allocated facilities, recruitment and overhead costs. Our sales
+and marketing expenses include expenses which are specific to
+the sales and marketing activities, such as commissions, trade
+shows, public relations, promotional costs and marketing
+collateral. Also included in our operating expenses is the
+amortization of deferred stock compensation and deferred warrant
+charge.
+32 Table of Contents RESULTS OF OPERATIONS The following table sets forth our historical consolidated
+statement of operations data for each of the periods indicated
+as a percentage of total revenue Year Ended March 31 2001 2000 1999 Revenue License 711 712 755 Professional services 173 195 172 Maintenance 116 93 73 Total revenue 1000 1000 1000 Cost of revenue License 26 43 56 Professional services and maintenance Stock based compensation 06 09 05 Other professional services and maintenance 229 268 266 Total cost of revenue 261 320 327 Gross profit 739 680 673 Operating expenses Sales and marketing Stock based compensation and warrant charge 24 24 19 Other sales and marketing costs 496 732 1033 Research and development Stock based compensation 62 21 13 Other research and development costs 224 246 425 General and administrative Stock based compensation 08 05 04 Other general and administrative costs 103 162 222 Acquisition related expenses 168 Amortization of goodwill and intangibles 205 22 In-process research and development 173 46 Total operating expenses 1463 1258 1716 Operating loss 724 578 1043 Interest income, net 72 55 29 Net loss 652 523 1014 Year Ended March 31, 2001 compared to Year Ended
+March31, 2000 Revenue Total revenue increased by approximately $1419million, or
+236%, to $2020million for the year ended March31,
+2001 from $601million for the year ended March31,
+2000. License. License revenue increased by approximately
+$1007million, or 235%, to $1435million for the
+year ended March31, 2001 from $428million for the
+year ended March31, 2000. License revenue as a percentage
+of total revenue is 711% and 712% for the year ended
+March31, 2001 and 2000, respectively. The absolute dollar
+increase is primarily attributable to an increase in sales to
+new and existing customers resulting from increased sales force
+headcount, new products, features and enhancements, a growing
+acceptance of our integration software, new and expanded
+relationships with many systems integrators and enterprise
+application vendors and an increased presence internationally.
+33 Table of Contents Professional Services. Professional services revenue
+increased by approximately $233million, or 199%, to
+$350million for the year ended March31, 2001 from
+$117million for the year ended March31, 2000.
+Professional services revenue as a percentage of total revenue
+is 173% and 195% for the year ended March31, 2001 and
+2000, respectively. The absolute dollar increase is attributable
+to the increased licensing activity described above, which has
+resulted in increased customer implementation activity and
+follow-on professional services. Maintenance. Maintenance revenue increased by
+approximately $179million, or 320%, to $235million
+for the year ended March31, 2001 from $56million
+for the year ended March31, 2000. Maintenance revenue as a
+percentage of total revenue is 116% and 93% for the year ended
+March31, 2001 and 2000, respectively. This increase is due
+primarily to the increased license activity as described above
+since most license contracts include post contract maintenance
+and support which is recognized as revenue on a ratable basis
+over the term of the maintenance agreement. Cost of revenue License. Cost of license revenue increased by
+approximately $26million, or 100%, to $52million
+for the year ended March31, 2001 from $26 million for the
+year ended March31, 2000. Cost of license revenue as a
+percentage of total revenue is 26% and 43% for the year ended
+March31, 2001 and 2000, respectively. The growth in cost
+of license revenue on an absolute dollars basis was attributable
+to an increase in revenue from licenses for which we pay
+royalties related to third party software embedded in our
+products or sold to our customers. Gross profit margin on
+license revenue increased to 96% for the year ended
+March31, 2001 compared to 94% for the year ended
+March31, 2000. The improvement in gross margin was
+attributable to a smaller proportion of our products sold,
+incorporating third party technology for which we pay royalties.
+We anticipate that the cost of license revenue will increase in
+absolute dollars as we license additional products, although
+cost of license revenue may vary as a percentage of license
+revenue from period to period. Professional Services and Maintenance. Cost of
+professional services and maintenance revenue, excluding stock
+based compensation, increased by approximately
+$302million, or 188% to $463million for the year
+ended March31, 2001 from $161million for the year
+ended March31, 2000. Cost of professional services and
+maintenance revenue as a percentage of total revenue is 229%
+and 268% for the years ended March31, 2001 and 2000,
+respectively. This increase on an absolute dollar basis was
+primarily attributable to increases in the number of
+professional service and technical support personnel, which
+increased to 219 people as of March31, 2001 from 114
+people as of March31, 2000, and to a lesser extent an
+increase in subcontractor and travel expenses. Gross profit
+margin on professional services and maintenance excluding stock
+based compensation, increased to 21% of professional services
+and maintenance revenue, for the year ended March31, 2001
+compared to 7% for the year ended March31, 2000. The
+increase in gross profit margin is due primarily to the increase
+in maintenance revenue which has a lower cost associated with it
+as well as an increase in the rates charged on professional
+services. Gross profit Gross profit increased by approximately $1084million, or
+265%, to $1493million for the year ended March31,
+2001 from $409million for the year ended March31,
+2000. The increase is attributable to the growth in our customer
+base, which contributed to increased revenue from software
+licenses, professional services and maintenance, and, to a
+lesser extent, a decrease in third party royalties as a
+percentage of license revenue and a decrease in professional
+services revenue as a percentage of total revenue. The gross
+profit margin was 74% for the year ended March31, 2001, up
+from 68% for the year ended March31, 2000. Operating expenses Sales and Marketing. Sales and marketing expenses,
+excluding stock based compensation, increased by approximately
+$562million, or 128%, to $1002million, for the
+year ended March31, 2001 from
+34 Table of Contents 440million for the year ended March31, 2000. Sales
+and marketing expense as a percentage of total revenue is 496%
+and 732% for the years ended March31, 2001 and 2000,
+respectively. The absolute dollar increase in sales and
+marketing expenses is primarily attributable to an increase in
+the number of sales and marketing employees, commissions, and
+international expansion and, to a lesser extent, increases in
+external commissions and marketing programs which include trade
+shows, public relations, promotional costs and marketing
+collateral. Research and Development. Research and development
+expenses, excluding stock based compensation, increased by
+approximately $304million, or 205%, to $452million
+for the year ended March31, 2001 from $148million
+for the year ended March31, 2000. Research and development
+expense as a percentage of total revenue is 224% and 246% for
+the years ended March31, 2001 and 2000, respectively. The
+absolute dollar increase in research and development expenses is
+attributable to increases in the number of software development,
+pre-commercial release quality assurance and documentation
+personnel, and, to a lesser extent, third-party development
+costs. General and Administrative. General and administrative
+expenses, excluding stock based compensation, increased by
+approximately $110million, or 112%, to $208million
+for the year ended March31, 2001 from $98million
+for the year ended March31, 2000. General and
+administrative expense as a percentage of total revenue is 103%
+and 162% for the years ended March31, 2001 and 2000,
+respectively. The absolute dollar increase in general and
+administrative expenses is attributable to external legal,
+accounting and other professional fees, provision for allowance
+for doubtful accounts, increases in the number of accounting,
+finance and human resources personnel and implementation of
+systems infrastructure. Acquisition Related Expenses. In connection with the
+acquisition of Active, we expensed $340million in
+acquisition related expenses. These expenses included investment
+banking, regulatory, legal and accounting fees. Amortization of Goodwill and Acquired Intangibles.
+Amortization of goodwill and acquired intangibles was
+$414million for the year ended March31, 2001 and
+$13million for the year ended March31, 2000. The
+estimated useful life of the goodwill and the acquired
+intangibles is 3years for trained and acquired assembled
+workforce, one year for license agreements, 2years for
+non-compete agreements, 3years for goodwill and
+4years for favorable lease terms. The goodwill and
+acquired intangibles relate to the acquisitions of Alier during
+the year ended March31, 2000, and Premier and Translink
+during the year ended March31, 2001. In-process Research and Development. In-process research
+and development was $349million for the year ended
+March31, 2001 and $27million for the year ended
+March31, 2000. The $349million charge during
+March31, 2001 represent: ia one-time charge of
+$321million recorded in connection with the acquisition
+and write-off of the Intelliframe workflow technology because in
+the opinion of management, the product into which the acquired
+workflow technology is to be incorporated had not met
+technological feasibility and $490,000 in expenses related to
+the acquisition; and ii$23million of in-process
+research and development acquired and written off in conjunction
+with the Translink acquisition, which in the opinion of
+management, had not reached technological feasibility and had no
+other alternative future use. The charge during the year ended
+March31, 2000 represents a one-time charge of
+$27million recorded upon the acquisition of Alier in
+February2000. This charge relates to the in-process
+research and development that was expensed upon consummation of
+the acquisition as technology acquired had not reached
+technological feasibility, and in the opinion of management, had
+no alternative future use. Stock Based Compensation and Warrant Charge. In
+connection with the grant of stock options to employees and
+non-employee directors during the years ended March31,
+2000 and 1999, we recorded aggregate unearned compensation of
+$155million, representing the difference between the
+deemed fair value of our common stock at the date of grant and
+the exercise price of such options. As a result of the
+acquisitions of Alier, Premier and Translink we recorded a
+deferred compensation charge of $279million related to
+restricted stock issued to Alier, Premier and Translink
+stockholders. In connection with the
+35 Table of Contents Active merger 50% of remaining options vested upon consummation
+which resulted in an acceleration of amortization of deferred
+stock compensation. In March 2001, we entered into an OEM/Reseller agreement with i2
+and issued i2 a warrant to purchase 750,000 shares of our common
+stock at an exercise price of $4088 per share. The fair value
+of the warrant based on the Black-Scholes valuation model was
+$236million on the date of issuance which has been
+recorded as a deferred warrant charge. As part of the agreement,
+i2 will pay us OEM fees of $10,000,000 over the term of the
+agreement which will be recorded as a reduction to the deferred
+warrant charge and will not be recorded as revenue. In March
+2001 we received $40million of OEM fees from i2 which was
+recorded as a reduction to the deferred warrant charge. The deferred stock compensation and deferred warrant charge is
+presented as a reduction of stockholders equity and is
+amortized over the vesting period of the applicable equity
+arrangement and is shown by expense category. Of the total
+deferred stock compensation and warrant charge recorded for
+options, restricted stock and warrants, approximately
+$201million was amortized during the year ended
+March31, 2001, compared to $36million during the
+year ended March31, 2000. Interest income, net Interest income, net increased by approximately
+$112million, or 339%, to $145million for the year
+ended March31, 2001 from $33million for the year
+ended March31, 2000. This increase is primarily
+attributable to increases in interest income that resulted from
+the approximately $1694million in net cash proceeds
+resulting from issuance of common stock in our initial public
+offering and the concurrent private placement in
+February2000. Year Ended March 31, 2000 compared to Year Ended March 31,
+1999 Revenue Total revenue increased by approximately $458million, or
+320%, to $601million for the year ended March31,
+2000 from $143million for the year ended March31,
+1999. License. License revenue increased by approximately
+$320million, or 296%, to $428million for the year
+ended March31, 2000 from $108million for the year
+ended March31, 1999. License revenue as a percentage of
+total revenue is 712% and 755% for the years ended
+March31, 2000 and March31, 1999 respectively. This
+absolute dollar increase is primarily attributable to an
+increase in sales to new and existing customers resulting from
+increased sales force headcount and a growing acceptance of our
+integration software. Professional Services. Professional services revenue
+increased by approximately $92million, or 368%, to
+$117million for the year ended March31, 2000 from
+$25million for the year ended March31, 1999.
+Professional services revenue as a percentage of total revenue
+is 195% and 172% for the years ended March31, 2000 and
+March31, 1999 respectively. This absolute dollar increase
+is attributable to the increased licensing activity described
+above, which has resulted in increased customer implementation
+activity and follow-on professional services. Maintenance. Maintenance revenue increased by
+approximately $46million, or 460%, to $56million
+for the year ended March31, 2000 from $10million
+for the year ended March31, 1999. Maintenance revenue as a
+percentage of total revenue is 93% and 73% for the years ended
+March31, 2000 and March31, 1999 respectively. This
+absolute dollar increase is attributable to the increased
+licensing activity described above. Because a majority of the
+license contracts include post-contract maintenance and support,
+an increased level of license revenue as well as renewal
+maintenance on perpetual licenses results in an increased amount
+of maintenance revenue recognized ratably over the term of the
+maintenance agreement. Cost of revenue License. Cost of license revenue increased by
+approximately $18million, or 227%, to $26million
+for the year ended March31, 2000 from $799,000 for the
+year ended March31, 1999. Cost of license
+36 Table of Contents revenue as a percentage of total revenue is 43% and 56% for
+the years ended March31, 2000 and March31, 1999
+respectively. The growth in cost of license revenues on an
+absolute dollars basis was attributable primarily to an increase
+in revenue for licenses for which we pay royalties related to
+third party software embedded in our products or sold to our
+customers. We anticipate that the cost of license revenue will
+increase in absolute dollars as we license additional products,
+although cost of license revenue may vary as a percentage of
+license revenue from period to period. Gross profit margin on
+license revenue increased to 94% for the year ended
+March31, 2000 compared to 93% for the year ended
+March31, 1999. Professional Services and Maintenance. Cost of
+professional services and maintenance, exclusive of stock based
+compensation, increased by approximately $123million, or
+324% to $161million for the year ended March31,
+2000 from $38million for the year ended March31,
+1999. Cost of professional services and maintenance revenue as a
+percentage of total revenue is 268% and 266% for the years
+ended March31, 2000 and March31, 1999 respectively.
+This absolute dollar increase is primarily attributable to
+increases in the number of professional service and technical
+support personnel, which increased to 114 people as of
+March31, 2000 from 26 people as of March31, 1999. In
+addition, subcontractor, travel, and recruiting expenses
+contributed to the increase in cost of professional services and
+maintenance for the year ended March31, 2000. Gross profit
+margin on professional services and maintenance, exclusive of
+stock based compensation, increased to 7% of professional
+services and maintenance revenue in the year ended
+March31, 2000 compared to 9% for the year ended
+March31, 1999. Gross profit Gross profit increased by approximately $313million, or
+326%, to $409million for the year ended March31,
+2000 from $96million for the year ended March31,
+1999. The increase is attributable to the growth in our customer
+base, which contributed to increased revenue from software
+licenses, professional services and maintenance. The gross
+profit margin was 68% for the year ended March31, 2000 up
+from 67% for the year ended March31, 1999. Operating expenses Sales and Marketing. Sales and marketing expenses,
+exclusive of stock based compensation, increased by
+approximately $292million, or 197%, to $440million
+for the year ended March31, 2000 from $148million
+for the year ended March31, 1999. This expense as a
+percentage of total revenue is 732% and 1033% for the year
+ended March31, 2000 and March31, 2001 respectively.
+The absolute dollar increase in sales and marketing expenses is
+primarily attributable to an increase in the number of sales and
+marketing employees, international expansion and, to a lesser
+extent, increases in marketing programs. Research and Development. Research and development
+expenses, exclusive of stock based compensation, increased by
+approximately $87million, or 143%, to $148million
+for the year ended March31, 2000 from $61million
+for the year ended March31, 1999. This expense as a
+percentage of total revenue is 246% and 425% for the year
+ended March31, 2000 and March31, 2001 respectively.
+The absolute dollar increase in research and development
+expenses is attributable to increases in the number of software
+development, pre-commercial release quality assurance and
+documentation personnel and in third-party development costs. General and Administrative. General and administrative
+expenses, exclusive of stock based compensation, increased by
+approximately $66million, or 206%, to $98million
+for the year ended March31, 2000 from $32million
+for the year ended March31, 1999. This expense as a
+percentage of total revenue is 162% and 222% for the year
+ended March31, 2000 and March31, 2001 respectively.
+This absolute dollar increase is primarily attributable to
+increases in the number of accounting and finance, human
+resources, and office administration personnel. In addition,
+professional service fees, corporate insurance and other general
+corporate costs increased to support organizational growth. Amortization of Goodwill and Acquired Intangibles.
+Amortization of goodwill and acquired intangibles was
+$13million during the year ended March31, 2000. The
+estimated useful life of the goodwill and the acquired
+intangibles is 3years for trained and acquired assembled
+workforce, one year for
+37 Table of Contents license agreements, 2years for non-compete agreements,
+3years for goodwill and 4years for favorable lease
+terms. The goodwill and acquired intangibles relates to the
+acquisition of Alier. In-process Research and Development. In-process research
+and development was $27million during the year ended
+March31, 2000. This amount represents a one-time charge of
+$27million recorded upon the acquisition of Alier in
+February2000. This charge relates to the in-process
+research and development that was expensed upon consummation of
+the acquisition as technology acquired had not reached
+technological feasibility, and in the opinion of management, had
+no alternative future use. Amortization of Deferred Stock Compensation. Certain
+options granted during the year ended March31, 2000 have
+been treated as compensatory because the estimated fair value
+for accounting purposes was greater than the exercise price as
+determined by our Board of Directors on the date of grant. The
+total deferred stock compensation associated with these options
+as of March31, 2000 amounted to approximately
+$111million, net of amortization. In connection with the
+acquisition of Alier, restricted stock was issued to two of the
+Alier stockholders, which has been treated as deferred stock
+compensation. These restrictions vest over a 2-year period. Of
+the total deferred stock compensation, approximately
+$36million was amortized during the year ended
+March31, 2000 compared to $577,000 during the year ended
+March31, 1999. These remaining amounts are being amortized
+over the respective vesting periods of these equity
+arrangements, generally 48months for the options and
+24months for the restricted stock. Interest income, net Interest income, net increased by approximately
+$29million, or 699%, to $33million for the year
+ended March31, 2000 from $415,000 for the year ended
+March31, 1999. This increase is primarily attributable to
+increases in interest income that resulted from the
+approximately $1694million in net cash proceeds resulting
+from issuance of common stock in our initial public offering and
+the concurrent private placement in February2000. Quarterly results of operations The following tables set forth consolidated statement of
+operations data for us for each of the eight quarters ended
+March31, 2001, as well as that data expressed as a
+percentage of the total revenue for the quarters presented. This
+information has been derived from our unaudited consolidated
+financial statements, which have been retroactively restated to
+give effect to the pooling of interests in connection with the
+merger between webMethods and Active. The unaudited consolidated
+financial statements have been prepared on the same basis as the
+audited consolidated financial statements contained in
+Item8 of this report and include all adjustments,
+consisting only of normal recurring adjustments that we consider
+necessary for a fair presentation of such information. You
+should read this information in conjunction with our annual
+audited consolidated financial statements and related notes
+appearing in Item8 of this report. You should not draw any
+conclusions about our future results from the results of
+operations for any quarter. Three Months Ended Mar. 31 Dec. 31 Sept. 30 June 30 Mar. 31 Dec. 31 Sept. 30 June 30 2001 2000 2000 2000 2000 1999 1999 1999 in thousands Revenue License 43,679 43,425 32,424 23,986 15,666 13,575 7,794 5,787 Professional services 9,981 8,780 8,441 7,743 5,148 2,509 2,243 1,799 Maintenance 8,114 7,175 4,873 3,336 2,217 1,511 1,110 786 Total revenue 61,774 59,380 45,738 35,065 23,031 17,595 11,147 8,372 Cost of revenue License 1,225 1,659 1,303 1,002 738 753 727 394 Professional services and maintenance Stock based compensation 172 270 529 217 401 93 33 33 Other professional services and maintenance 12,911 12,533 10,755 10,105 7,074 4,046 2,812 2,170 Total cost of revenue 14,308 14,462 12,587 11,324 8,213 4,892 3,572 2,597 38 Table of Contents Three Months Ended Mar. 31 Dec. 31 Sept. 30 June 30 Mar. 31 Dec. 31 Sept. 30 June 30 2001 2000 2000 2000 2000 1999 1999 1999 in thousands Gross profit 47,466 44,918 33,151 23,741 14,818 12,703 7,575 5,775 Operating expenses Sales and marketing Stock based compensation 720 1,060 2,006 1,027 943 225 152 151 Other sales and marketing 31,261 27,317 22,102 19,474 16,919 12,413 8,728 5,973 Research and development Stock based compensation 3,051 3,007 3,637 2,752 956 124 85 85 Other research and development 13,851 12,774 10,872 7,661 5,102 4,127 3,674 1,877 General and administrative Stock based compensation 66 402 310 862 241 33 33 Other general and administrative costs 5,901 5,723 4,754 4,459 3,380 2,926 2,241 1,206 Acquisition related expenses 34,039 Amortization of goodwill and intangibles 10,507 10,604 10,604 9,680 1,305 In-process research and development 32,599 2,311 2,737 Total operating expenses 97,956 60,887 88,324 48,226 31,342 20,056 14,913 9,325 Operating loss 50,490 15,969 55,173 24,485 16,524 7,353 7,338 3,550 Interest income, net 3,653 3,300 3,984 3,566 1,945 796 445 129 Net loss 46,837 12,669 51,189 20,919 14,579 6,557 6,893 3,421 As a Percentage of Total Revenue Mar. 31 Dec. 31 Sept. 30 June 30 Mar. 31 Dec. 31 Sept. 30 June 30 2001 2000 2000 2000 2000 1999 1999 1999 Revenue License 707 731 708 684 680 772 699 691 Professional services 162 148 185 221 224 143 201 215 Maintenance 131 121 107 95 96 85 100 94 Total revenue 1000 1000 1000 1000 1000 1000 1000 1000 Cost of revenue License 20 28 28 29 33 43 65 47 Professional services and maintenance Stock based compensation 03 05 12 06 17 05 03 04 Other professional services and maintenance 209 211 235 288 307 230 252 259 Total cost of revenue 232 244 275 323 357 278 320 310 Gross profit 768 756 725 677 643 722 680 690 Operating expenses Sales and marketing Stock based compensation 12 18 44 29 41 13 14 18 Other sales and marketing 506 460 483 555 735 705 783 713 Research and development Stock based compensation 49 50 79 79 41 07 08 10 Other research and development 224 215 238 218 221 235 330 224 General and administrative Stock based compensation 01 07 07 25 14 03 04 Other general and administrative costs 95 96 104 127 147 166 200 145 Acquisition related expenses 744 Amortization of goodwill and intangibles 170 179 232 276 57 In-process research and development 528 66 119 Total operating expenses 1585 1025 1931 1375 1361 1140 1338 1114 Operating loss 817 269 1206 698 717 418 658 424 Interest income, net 59 56 87 101 84 45 40 15 Net loss 758 213 1119 597 633 373 618 409 39 Table of Contents Income taxes We have recorded a valuation allowance for the full amount of
+our net deferred tax assets, as the realizability of the
+deferred tax assets is not currently predictable. As of March31, 2001, we had net operating loss carry
+forwards of approximately $1480million. These net
+operating loss carryforwards are available to reduce future
+taxable income and begin to expire in fiscal 2010. Under the
+provisions of the Internal Revenue Code, certain substantial
+changes in our ownership have limited the amount of net
+operating loss carry-forwards that could be utilized annually in
+the future to offset taxable income. LIQUIDITY AND CAPITAL RESOURCES We have financed our operations through an initial public
+offering of our common stock and a concurrent private placement
+which was completed on February10, 2000 and as a result
+webMethods received net proceeds of $1694million. In
+addition, we had private sales of mandatorily redeemable,
+convertible preferred stock, resulting in net proceeds from
+inception to March31, 2001, of approximately
+$387million, and, to a lesser extent, we received funds
+through bank loans and financed equipment through leases. Prior
+to the Active merger, Active had private sales of convertible
+redeemable preferred stock resulting in net proceeds from
+inception to date of acquisition, of approximately
+$251million and also completed an initial public offering
+with net proceeds of $400 million. As of March31, 2001,
+we had approximately $1097million in cash and cash
+equivalents, approximately $967million in short-term
+investments, and approximately $1907million in working
+capital. Net cash used in operating activities was approximately $167
+million in fiscal 2001, approximately $32million in
+fiscal 2000, and approximately $138million in fiscal
+1999. The increase in net cash used in operating activities was
+due primarily to $340 million of acquisition related expenses
+paid in connection with the Active merger. Net cash used in investing activities was approximately
+$651million in fiscal 2001, approximately
+$731million in fiscal 2000, and approximately
+$26million in fiscal 1999. Cash used in investing
+activities reflects purchases of property, equipment, marketable
+securities investments in private companies, Intelliframe
+workflow technology and the acquisitions of Premier and
+Translink. We paid approximately $88million in connection
+with the acquisition of the Intelliframe workflow technology and
+$47 million for the acquisitions of Premier and Translink.
+Capital expenditures were approximately $107million in
+fiscal 2001, approximately $57 in fiscal 2000, and
+approximately $11million in fiscal 1999. Capital
+expenditures consisted of purchases of operating resources to
+manage operations, including computer hardware and software,
+office furniture and equipment and leasehold improvements. Since
+inception we have generally funded capital expenditures either
+through capital leases, the use of working capital, or bank
+loans. We expect that our capital expenditures will continue to
+increase in the future as we continue to expand the business. Net cash provided by financing activities was approximately
+$199million in fiscal 2001, approximately
+$2391million in fiscal 2000, and approximately
+$132million in fiscal 1999. These cash flows primarily
+reflect net cash proceeds from exercises of stock options in
+fiscal 2001 and from private sales of mandatorily redeemable,
+convertible preferred stock in fiscal 2000 and fiscal 1999. In
+addition, we received $1694million in net proceeds from
+the issuance of common stock from our initial public offering
+and our concurrent private placement in February 2000 and
+$400million in net proceeds from the initial public
+offering of Active Software, in August1999. As of
+March31, 2000 we had a line of credit to borrow up to a
+maximum principal amount of $3,000,000. This note bears interest
+at the banks prime rate plus 1%per annum. As of
+March31, 2001, we had not borrowed against this line of
+credit. In connection with the line of credit, we obtained a
+letter of credit totaling $750,000 which expires in
+June2001 and relates to the new office lease. Subsequent
+to year-end, we amended the line of credit to borrow up to a
+maximum principal amount of $10,000,000 with a maturity date of
+July10, 2002. Borrowings under this note are limited to
+80% of eligible accounts receivable. Interest is payable on the
+unpaid principal balance at the banks prime rate.
+40 Table of Contents We expect to experience growth in our operating expenses,
+particularly sales and marketing expenses, research and
+development and customer care, for the foreseeable future in
+order to execute our business plan. As a result, we anticipate
+that such operating expenses, as well as planned capital
+expenditures, will result in a use of our cash resources. In
+addition, we may utilize cash resources to fund acquisitions or
+investments in complementary businesses, technologies or product
+lines. We believe that our existing working capital and our
+amended line of credit will be sufficient to meet our working
+capital and operating resource expenditure requirements for at
+least the next twelve months. Thereafter, we may find it
+necessary to obtain additional equity or debt financing. In the
+event additional financing is required, we may not be able to
+raise it on acceptable terms or at all. RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS In December1999, the Securities and Exchange Commission
+SEC released Staff Accounting Bulletin
+SAB No101, Revenue Recognition in
+Financial Statements, which provides guidance on the
+recognition, presentation and disclosure of revenue in financial
+statements filed with the SEC. The SEC released SAB 101A, which
+delayed the implementation date of SAB101 for registrants
+with fiscal years that begin between December16, 1999 and
+March15, 2000. Subsequently, the SEC released
+SAB101B, which further delays the implementation date of
+SAB 101 until no later than the fourth fiscal quarter of years
+beginning after December15, 1999. We did not have a
+material effect on our financial position, results of operations
+or cash flows as a result of SAB101. In March2000, FASB issued Interpretation
+FINNo44, Accounting for Certain
+Transactions Involving Stock Compensation An
+Interpretation of APB Opinion No25. FIN44
+clarifies the application of APB Opinion No25 and, among
+other issues, clarifies the following: the definition of an
+employee for purposes of applying APB Opinion No25; the
+criteria for determining whether a plan qualifies as a
+non-compensatory plan; the accounting consequence of various
+modifications to the terms of previously fixed stock options or
+awards; and the accounting for an exchange of stock compensation
+awards in a business combination. FIN44 was effective
+July1, 2000, but certain conclusions in FIN44 cover
+specific events that occurred after either December15,
+1998 or January12, 2000. The adoption did not to have a
+material impact on our financial position or results of
+operations. In June2000, SFAS No138, Accounting for
+Certain Hedging Activities, an amendment of FASB
+No133, was issued. We adopted SFAS No133,
+137 and 138 in June2000. In July1999, SFAS
+No137, Accounting for Derivative Instruments and
+Hedging ActivitiesDeferral of Effective Date
+of FASB No133, was issued. In September1998,
+SFAS No133, Accounting for Derivative instruments
+and Hedging Activities, was issued. This statement
+establishes accounting and reporting standards requiring that
+every derivative instrument, including certain derivative
+instruments embedded in other contracts, be recorded in the
+balance sheet as either an asset or liability measured at its
+fair value. The statement also requires that changes in the
+derivatives fair value be recognized in earnings unless
+specific hedge accounting criteria are met. We have not entered
+into derivative contracts and do not have near term plans to
+enter into such contracts, accordingly the adoption of SFAS
+No133, SFAS No137 and SFAS 138 did not have a
+material effect on the financial statements. Item7a.QUANTITATIVE AND QUALITATIVE
+DISCLOSURES ABOUT MARKET RISK We are exposed to a variety of risks, including changes in
+interest rates affecting the return on our investments and
+foreign currency fluctuations. We have established policies and
+procedures to manage our exposure to fluctuations in interest
+rates and foreign currency exchange rates. Interest rate risk. We maintain our funds in money market
+and certificate of deposit accounts at financial institutions.
+Our exposure to market risk due to fluctuations in interest
+rates relates primarily to our interest earnings on our cash
+deposits. These securities are subject to interest rate risk in
+as much as their fair value will fall if market interest rates
+increase. If market interest rates were to increase immediately
+and uniformly by 10% from the levels prevailing as of
+March31, 2001, the fair value of the portfolio would not
+decline by a material amount. We do not use derivative financial
+instruments to
+41 Table of Contents mitigate risks. However, we do have an investment policy that
+would allow us to invest in short-term and long-term investments
+such as money market instruments and corporate debt securities.
+Our policy attempts to reduce such risks by typically limiting
+the maturity date of such securities to no more than twenty-four
+months with a maximum average maturity to our whole portfolio of
+such investments at twelve months, placing our investments with
+high credit quality issuers and limiting the amount of credit
+exposure with any one issuer. Foreign currency exchange rate risk. Our exposure to
+market risk due to fluctuations in foreign currency exchange
+rates relates primarily to the intercompany balances with our
+subsidiaries located in Australia, England, France, Germany,
+Japan, the Netherlands and Singapore. Although we transact
+business in various foreign countries, settlement amounts are
+usually based on U.S. currency. Transaction gains or losses have
+not been significant in the past, and there is no hedging
+activity on foreign currencies. We would not experience a
+material foreign exchange loss based on a hypothetical 10%
+adverse change in the price of the euro, Great Britain pound,
+Singapore dollar, Australian dollar, or yen against the U.S.
+dollar. Consequently, we do not expect that a reduction in the
+value of such accounts denominated in foreign currencies
+resulting from even a sudden or significant fluctuation in
+foreign exchange rates would have a direct material impact on
+our financial position, results of operations or cash flows. Notwithstanding the foregoing, analysis of the direct effects of
+interest rate and foreign currency exchange rate fluctuations on
+the value of certain of our investments and accounts, the
+indirect effects of fluctuations in foreign currency could have
+a material adverse effect on our business, financial condition
+and results of operations. For example, international demand for
+our products is affected by foreign currency exchange rates. In
+addition, interest rate fluctuations may affect the buying
+patterns of our customers. Furthermore, interest rate and
+currency exchange rate fluctuations have broad influence on the
+general condition of the U.S. foreign and global economics,
+which could materially adversely affect our business, financial
+condition results of operations and cash flows. Item 2. Properties 26 Item 3. Legal Proceedings 26 Item 4. Submission of Matters to a Vote of Security
+Holders 26 Part II Item 5. Market for Registrants Common Stock and
+Related Stockholder Matters 27 Item 6. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+AND FINANCIAL DISCLOSURES None.
+42 Table of Contents PART III The following information contained in the definitive Proxy
+Statement of webMethods in connection with our annual meeting of
+stockholders to be held on August23, 2001, which
+webMethods intends to mail to its stockholders on or about
+July16, 2001 is incorporated by reference into this report 

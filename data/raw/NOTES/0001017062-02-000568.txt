@@ -1,0 +1,1074 @@
+Item 8. Financial Statements and Supplemental Data in Notes 1 and 10 to the Notes to Consolidated Financial Statements. Revenues for each of our business segments as a percentage of consolidated revenues and additional discussion
+relating to the Companys revenues are presented under Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations. Reference also is made to Item 7. Managements Discussion and
+Analysis of Financial Condition and Results of Operations Factors That May Affect Future Results for a discussion relating to certain business risks relating to the business of the Company.  Company History  The Company was formed in 1993
+by purchasing all rights and assets of various audio and speaker technologies from the Hughes Aircraft Company Hughes. The Company successfully completed its initial public offering in August 1996, raising approximately $22 million.
+From its inception in 1993 until February1998, the Company derived substantially all of its revenues from audio technology licensing activities for the consumer electronics, computer and game markets. 
+3 Table of Contents
+On March 2, 1998, the Company acquired 100% of the outstanding stock of Valence Technology Inc.
+aBritish Virgin Islands holding company ultimately succeeded by Valence, which had its principal business operations and office locations in Hong Kong and the Peoples Republic of China the PRC. This acquisition significantly
+expanded the Companys business activities from the original licensing model to include the design, manufacture and marketing of custom ASICs, standard ICs, components and products.  In addition to the acquisition of Valence, during the fiscal year ended December 31, 1998 Fiscal 1998, the Company acquired rights to two additional technologies, Voice
+Intelligibility Processor VIP, a patented voice processing technology that improves the intelligibility of the spoken voice, especially in high ambient noise environments and Circle Surround, a patented audio delivery system that
+allows multi-channel surround sound to be encoded into a two-channel stereo format and allows an encoded two-channel audio source to be decoded into a multi-channel surround format.  During the fiscal year ended December 31, 2000 Fiscal 2000, the Company launched its internet-based business. Initially, SRSWOWcasts business plan was focused on
+developing and acquiring audio based content to generate and retain visitor traffic to its website in order to sell advertising and e-commerce products. In the fiscal year ended December 31, 2001 Fiscal 2001, the Company changed its
+Internet strategy and the corporate direction of SRSWOWcast to focus on the licensing of the Companys audio and voice enhancement technology solutions for use in the broadcast of any material, whether over the Internet or traditional broadcast
+means, such as traditional television, cable or satellite.  SRS Labs Technology, Licensing and Products  Description of Business  SRS Labs technology licensing strategy continues to be the development, acquisition and licensing of audio, voice and speaker technologies to product and semiconductor manufacturers in the consumer electronics, home theater, gaming,
+computer, Internet, wireless and telecommunications markets around the world. Its strategy is to identify high growth markets, develop needed technology solutions and features, and work with semiconductor and platform partners to make these
+technologies widely available and easy to implement. SRS Labs believes that it will strengthen its market position as a world leader in audio and voice technology by employing a strategy of providing a continuous stream of patented audio and voice
+technologies, enhancing relationships with existing licensees and creating strong brand awareness in order to attract new licensees.  SRS Labs technologies may be implemented in a variety of methods, including discrete analog components, chip modules, analog semiconductors, DSPs and software. These various implementation options offer customers significant
+flexibility when incorporating SRS Labs technologies into products.  License agreements for SRS Labs technologies
+typically have multi-year terms and either require per-unit royalty payments for all products implementing SRS Labs technologies or provide for a fixed annual or quarterly royalty payment. License agreements also specify the use of SRS
+Labs trademarks and logos on the product, within the packaging and in the users manual. Agreements also require product review and approval by SRS Labs to guarantee the quality of the technology implementation and the display of SRS Labs
+logos and trademark verbiage. We believe these terms a ensure the quality and consistency of the technology and belevate the Companys brand awareness in the marketplace. Most agreements do not have volume requirements and may be
+terminated by the licensees or SRS Labs without substantial financial penalty.  Platform Strategy 
+SRS Labs licensing platform strategy is to achieve strategic coverage for its technology solutions within all of its targeted vertical
+product markets in order to expand sales and licensing opportunities. By developing strong relationships with the leading software and semiconductor companies, SRS audio technologies can be delivered to customers worldwide across high growth and
+high volume product applications. 
+4 Table of Contents
+SRS Labs licensing model often employs a two-tiered system whereby semiconductor
+manufacturers are licensed to build and sell semiconductor implementations involving SRS Labs technology solutions the SRS Chip Partners. Under this two-tiered system, revenue is not received directly from the SRS Chip Partners.
+OEMs also enter into licensing arrangements with SRS Labs for the use of our technology solutions in consumer and other products manufactured by the OEM. The SRS Chip Partners sell these semiconductor technology solutions directly to the licensed
+OEMs. Under this two-tiered licensing method, OEM product licensees are free to choose a semiconductor solution from the SRS Chip Partner that best suits their requirements and matches their price expectations. SRS Labs receives royalties directly
+from the licensed OEM under the two-tiered system for the use of its technologies in licensed products manufactured by the OEM. Many major OEMs have licenses for the use of one or more of SRS Labs technologies and for the use and display of
+SRS Labs trademarks.  The two-tiered methodology is not well established in the computer multimedia industry or in certain
+geographic regions such as the PRC consumer electronics marketplace. To address these market conditions, SRS Labs implements an alternate royalty collection method, whereby the royalty is bundled into the cost of the semiconductor
+product and remitted directly to SRS Labs from the SRS Chip Partner when the semiconductor product is sold to the OEM. This methodology simplifies the business process for the OEM, the SRS Chip Partner and SRS Labs. SRS Labs determines which
+licensing model to follow based on factors involving mutual discussions with the SRS Chip Partner and consumer product manufacturer, the particular market segment involved, the particular region where the products are manufactured and sold and other
+factors.  The following table identifies the SRS Chip Partners who have entered into licensing agreements with SRS Labs as of
+December 31, 2001 or who have software or digital platforms, which offer our technologies to licensed OEMs:   AKMSemiconductor 
+Analog Devices 
+Philips Semiconductor 
+Broadcom Corporation 
+Samsung 
+Cirrus Logic 
+ST Microelectronics 
+Fujitsu Semiconductor 
+Texas Instruments 
+MitsubishiElectricCorporation 
+Toshiba Corporation 
+Motorola 
+Zoran 
+Portfolio of Audio and Voice Technologies  The portfolio of technologies developed or acquired by SRS Labs includes a wide range of technology for mono and stereo audio enhancement, voice
+processing, multi-channel surround sound and speaker design applications. The technologies, described in detail below, include Circle Surround, Circle Surround II CSII, FOCUS, NuVoice,
+SRS, SRS Headphone, TruBass, TruSurround, TruSurround XT,
+VIP, WOW and WOW Voice.  SRS, SRS Headphone, TruSurround, VIP, Circle Surround, TruBass, FOCUS and WOW are currently the subject of numerous license agreements and are actively marketed by SRS Labs. TruSurround
+XT, CS II, NuVoice and WOW Voice were developed during Fiscal 2000 and Fiscal 2001 and the Company expects these technologies will contribute to revenue during the fiscal year ended December 31, 2002 Fiscal 2002. Baser and ORB, speaker design applications that were included in the original technology acquisition from Hughes, and AVT have not been actively promoted.  Mono and Stereo Audio Enhancement  SRS 3D
+Sound  SRS 3D Sound is one of the worlds leading 3D audio enhancement technologies. The patented
+technology broadens any mono or stereo audio signal and creates a realistic 3D sound image from just two standard stereo
+5 Table of Contents
+speakers. SRS is based on the fundamentals of the human hearing system and recreates the multitude of spatial cues that are present in a live listening environment but are lost in recording and
+playback. SRS dramatically widens the sweet spot associated with traditional stereo; it therefore does not require the listener to be positioned in a specific location to experience the immersive 3D sound image.  SRS was originally developed by Hughes, which spent significant resources to develop and patent SRS and related audio technologies. Since acquiring the
+SRS technology from Hughes in June 1993, SRS Labs has improved the performance of SRS, reduced the cost for OEMs to implement the technology, secured licensing relationships with various SRS Chip Partners who offer the technology in various analog
+and DSP options and introduced the technology to a wider variety of consumer applications.  SRS can be applied to any consumer
+electronics product that includes mono or stereo audio playback through two speakers or headphones, including televisions, computers, audio receivers, car products, musical instruments, gaming products, powered speakers, portable and wireless audio
+products and mobile phones with audio playback.  SRS Headphone  Introduced in early 1998, the patented SRS Headphone technology optimizes
+the core SRS 3D sound technology for use with a standard pair of headphones or ear buds. The process repositions the sound image from inside the listeners head to outside the listeners ears, creating a more natural listening situation.
+WOW
+WOW is SRS Labs next generation 3D audio enhancement for speakers and headphones and was
+introduced to the marketplace in November 1998. It delivers an incredibly large, immersive sound experience, from any stereo or mono source. WOW dramatically enlarges the sound image field creating a wider sweet spot, improves performance from
+stereo speakers or headphones and, with SRS Labs patented TruBass technology, creates low bass frequencies up to an octave lower than the frequency limitation of the physical speakers. Product applications for WOW include any playback
+environment using two speakers or a pair of headphones, including televisions, computers, boom boxes, automotive and portable audio devices, such as MP3 players, personal data assistants PDAs or voice recorders. WOW can also be
+included in computer software products.  In March 2000, Microsoft Corporation Microsoft and SRS Labs entered into
+a strategic alliance relating to its WOW technology. In connection with this alliance, Microsoft received licensing rights to include WOW in any of its products for a three year term. In Fiscal 2000, Microsoft embedded the WOW technology into its
+Windows Media Player 7 and placed the SRS Logo and WOW controls directly on the Media Player interface. The WOW technology is prominently featured with a Media Player 7 Interface in the form of the SRS Labs logo that hyperlinks to the Companys
+technology page in the SRSWOWcast website. In Fiscal 2001, Microsoft introduced the XP Version of the media player, which continues to feature the WOW technology and the hyperlink to the Companys technology page.  FOCUS
+In many audio environments, speakers are not placed in an ideal location directly in front of a
+listener. This makes it difficult to achieve a realistic sound experience from speakers that are below the plane of the listeners ear. SRS Labs developed FOCUS as a technology solution for this problem. Originally designed for use in
+automobiles where front speakers are often placed under the dashboard or facing each other in the door panels, the patented FOCUS technology electronically repositions the sound image to create the appropriate perception of image height. In addition
+to automobiles, FOCUS is ideally suited for any product application where speakers cannot be placed in optimal locations for either space or aesthetic reasons, such as big screen or projection TVs, home in-wall speakers and commercial applications
+such as drive-through restaurant communications. 
+6 Table of Contents
+TruBass
+In 1998, SRS Labs introduced TruBass, a psychoacoustic process that creates the perception of
+dramatically increased bass performance in smaller speaker systems and headphones far beyond the physical capabilities of the speakers themselves. It is a dynamic technology that actively monitors the low-frequency content of an audio signal and
+optimizes the frequency and amplitude spectrum of the output signal to enhance bass perception. It effectively creates the impression of a subwoofer in smaller speaker systems and when used with a subwoofer, further increases the efficiency and
+overall performance of the bass response.  Applications for this technology include any product with small and medium sized
+speakers or headphones, such as those found in televisions, radios, portable audio devices, boom boxes, games and smaller hand-held devices. TruBass is an important part of the feature-set for several of SRS Labs technology solutions,
+including WOW, CSII and TruSurround XT. In November 2001, SRS Labs was granted a United States patent for the TruBass technology.  Voice Processing  VIP
+VIP is a patented audio processing technology that improves the intelligibility of the spoken voice
+especially in noisy environments or in text-to-speech applications. VIP selectively processes only those spectral portions of the speech signal that the brain uses for cognition, without requiring an increase in gain or volume. SRS inventor Arnold
+Klayman, who is now the principal audio scientist at SRS Labs, originally developed the VIP technology at Hughes. During a divestiture in 1994, Hughes sold the VIP technology to a third party that further developed and marketed the VIP technology
+along with a stand-alone signal processor for use in the professional sound reinforcement industry. As mentioned previously, SRS Labs acquired the VIP technology in 1998.  The market opportunities for VIP include cellular phones, wireless products, text-to-speech applications, hearing aids, public address and emergency warning systems, talking toys,
+hand-free devices, Voice over Internet Protocol VoIP, traditional and Internet broadcasting and other voice-related applications. SRS Labs directly offers both software and hardware implementation options for VIP. VIP technology is
+available as digital code that may be ported to DSP platforms used by manufacturers of cellular phones, paging systems, digital televisions, sound reinforcement equipment and hearing aids. VIP is also available in software and can run on client or
+server-side applications.  WOWVoice and NuVoice  In Fiscal 2000, SRS Labs introduced two new technologies, WOWVoice and NuVoice, based on SRS Labs VIP technology and specifically designed for
+telephone voice quality and intelligibility and text-to-speech enhancement applications. VIP alone increases the intelligibility of voice, particularly in noisy listening environments and dramatically improves the quality and clarity of synthesized
+speech in text-to-speech applications see VIP description above for more details. NuVoice adds warmth to voice and speech restoring the lower bass-frequencies oftentimes cut-off or lost in the transmission or compression of the telephony
+bandwidth. It overcomes the physical limitations of small transducers found in cellular and traditional telephones by producing lower bass tones using psycho-acoustics and harmonic principles to make the speech sound more realistic, closer to the
+original human speech before it was sent over the telephony equipment. NuVoice also improves the quality of text-to-speech engines making synthesized voices sound more natural. When NuVoice is added to VIP, the resulting suite of voice technology is
+called WOWVoice. SRS Labs began actively marketing these technologies in the third and fourth quarter of 2000. In Fiscal 2001, Mitsubishi Electric Corporation signed a license agreement with SRS Labs for the use of the WOWVoice
+technology in digital phones marketed in Japan under the NTT DoCoMo brand. 
+7 Table of Contents
+Multi-Channel Audio  SRS Labs markets a complete technology portfolio for home entertainment systems, including virtual surround sound for playback of multi-channel audio material over two speakers, and an
+encode/decode surround sound matrix technology that allows for the encoding of up to 51 channels of audio and the decoding of up to 61channels of audio.  TruSurround  TruSurround was specifically engineered to present 51 multi-channel
+content using only two speakers, retaining all of the original audio information and giving listeners the perception that additional phantom speakers surround them. This technology is important in the home theater market for televisions,
+set top boxes and DVD players as DVD audio and much of the satellite and cable programming are encoded or broadcast in multi-channel formats yet only a small fraction of households own multi-speaker home theater systems. TruSurround accepts all such
+surround encoded audio sources and delivers a powerful, home theater experience through any two-speaker system, including the internal television speakers, DVD laptop speakers or any traditional pair of headphones. TruSurround is also backward
+compatible with non surround-encoded audio and delivers an immersive SRS 3D audio experience from standard stereo sources. TruSurround carries Dolby certification.  SRS Labs has already been granted a key U.S. Patent with 48 claims for TruSurround. The European Patent Office has recently issued a notice of allowance for SRS Labs TruSurround
+technology. The patent is expected to issue in the coming months and will provide protection within the major economies of Europe including the United Kingdom, France, Italy, Germany, Austria, Belgium, Ireland, Netherlands, Spain, Sweden and
+Switzerland.  TruSurround XT  In November 2001, SRS Labs announced TruSurround XT, a premium version of
+TruSurround that included significant new audio features. Based upon its patented predecessor and namesake, TruSurround XT also solves the problem of playing 51 multi-channel content over two speakers or headphones but also utilizes proprietary
+algorithms for dialog clarity and bass enhancement.  Playback of dialog in home theater environments often suffers due to
+competing signals from other speakers. In addition, feature film content is mixed specifically for cinema playback. When translated through home systems, dialog may become unintelligible. SRS Labs patented algorithm for dialog clarity enhances
+voice clarity to address these problems, thus improving dialog intelligibility from all such source material. The patented TruBass technology is also included in TruSurround XT.  Similar to the original TruSurround, TruSurround XT is also backward compatible with stereo material. Unlike TruSurround, which enables SRS for stereo, TruSurround XT enables WOW for an
+even more immersive and compelling stereo experience.  Circle Surround  Circle Surround is SRS Labs patented multi-channel encode/decode audio solution. It encodes five discrete channels of audio into two channels the same space required for stereo and
+then decodes the two channels back into five for playback over a stereo, computer, gaming device or home theater system equipped for multi-channel playback. Circle Surround is unique to other multi-channel audio technologies in that it allows the
+delivery of surround sound audio over a stereo format, so it can be broadcast over Internet, television, radio or cable infrastructures without requiring the bandwidth or equipment traditionally needed for 51 surround sound recording and playback.
+In addition to the five channels for surround sound playback, there is also a low frequency output for the operation of a subwoofer. 
+8 Table of Contents
+An additional unique feature of Circle Surround is that it produces up to 51 channels from any
+mono or stereo material. As a result, consumers who own multi-speaker home theater speaker systems can enjoy 51 surround sound with standard stereo television programming, VHS movies or music CDs. Circle Surround is also backward compatible with
+Dolby surround encoded material. Circle Surround can be used in the recording process for music or movies or in the development of games for computers or video game consoles and then implemented in a decoding playback device, such as a home audio
+receiver, multi-media speakers, DVD player or car audio products.  In Fiscal 2001, SRS Labs demonstrated Circle Surrounds
+game encoding capabilities and is pursuing game encoding relationships to further the technologys use in the game market.  Circle Surround II
+In November 2001, SRS Labs introduced CSII, a premium version of Circle Surround with powerful new audio
+features. Based upon its patented predecessor and namesake, CSII is also an encode/decode surround matrix technology but also utilizes proprietary algorithms for dialog clarity and bass enrichment.  Playback of dialog in home theater environments often suffers due to competing signals from other speakers. In addition, feature film content is mixed
+specifically for cinema playback. When translated through home systems, dialog may become unintelligible. SRS Labs patented algorithm for dialog clarity enhances voice clarity to address these problems, thus improving dialog intelligibility
+from all such source material. SRS Labs patented TruBass technology is also included in CSII, providing deep bass to the front channels and subwoofer. Similar to the original Circle Surround, CSII is also backward compatible with non-encoded
+surround material. Unlike Circle Surround, which creates up to 51 channels of audio from only a stereo source, CSII can create up to 61 channels from a stereo or mono audio source, making it the most flexible and feature rich surround sound
+technology available on the market today.  CSII has been introduced to the network of SRS Chip Partners and SRS Labs anticipates
+that it will announce semiconductor solutions and licensed products during Fiscal 2002.  Vertical Markets and OEM products
+SRS Labs markets its patented technologies in the following vertical product segments: home theater and consumer audio;
+computer multimedia and Internet products; gaming; portable and wireless audio; and voice communications.  Home Theater and
+Consumer Audio  Home theater and consumer audio represents the largest current market for SRS Labs technologies and
+has historically been the largest revenue contributor to the licensing segment. Audio enhancement, virtual surround sound and multi-channel technologies are becoming increasingly significant in televisions, stereo components, DVD players,
+audio/video receivers and other home entertainment products. The markets for consumer electronics products are highly competitive and generally dominated by large manufacturers. SRS Labs provides its technology solutions to these manufacturers who
+differentiate their products by continually adding new features and increasing product performance. SRS technologies applicable to these types of products include SRS, WOW, TruSurround, TruSurround XT, TruBass, FOCUS, Circle Surround and CSII.
+SRS Labs has successfully signed licensing agreements with many of the leading consumer electronics manufacturers. One of SRS
+Labs key strategies is to expand the use of its technologies into the various product lines of each OEM. For example, SRS technology was first licensed to Sony Corporation for use in televisions and over the last few years, Sony has expanded their
+use of SRS technologies to portable DVD players, set-top boxes and portable audio devices. 
+9 Table of Contents
+Computer Multimedia and Internet Products  Consumers are increasingly using computers and the Internet for more than just word processing or business functions. The majority of desktop computers
+and laptops incorporate a CD-ROM drive and speakers and typically support high-resolution graphics, sound and voice communications. The demand for these capabilities has been driven by the proliferation of multi-media based entertainment and video
+games, as well as the widespread use of the Internet. The personal computer and Internet software and appliance market is characterized by intense pricing competition and as a result the hardware market is difficult to penetrate. While no
+significant licensing revenue was generated in this market during Fiscal 2001, SRS Labs believes that its technology solutions for voice communications, multi-channel sound for Internet and PC-based gaming and the playback of DVD movies through a
+laptop will open up new licensing opportunities for this highly competitive and volatile market.  Gaming 
+Various SRS technologies can be implemented inside a variety of hardware gaming applications, including; video and arcade games, portable
+game systems, accessory products and console game machines. In addition, SRS technology can be encoded directly into the game software thereby enhancing the quality of the audio track or providing multi-channel audio playback. SRS Labs has not
+derived significant licensing revenue from these market segments, but believes that its Circle Surround and TruSurround technologies are well suited for use by gaming developers and gaming product manufacturers, including consoles and portable
+devices, to enhance the overall sound quality of the game or offer multi-speaker surround sound or virtual surround sound through two speakers.  Portable and Wireless Audio  Portable audio product use is widespread reflecting demand
+from consumers to take their music and video with them. The use of boom boxes, headphone products and digital audio players, such as MP3 and portable CD players are growing at a strong rate. Industry reports indicate this trend will continue. SRS
+Labs believes that several of its technologies, such as WOW, TruBass and SRS Headphone, are ideally suited to improve the sound quality of small speakers or headphones that are traditionally used in this market segment. Consumers are also showing an
+interest in migrating the home entertainment experience to the road through rear-seat video systems in automobiles using monitors built into headrests, the backs of driver seats, consoles and ceilings and through DVD players incorporated inside
+laptops. This phenomenon is driving aftermarket suppliers to develop more entry-level DVD systems for use in the automotive and computer markets and provides a significant opportunity for SRS Labs virtual surround sound technologies, TruSurround and
+TruSurround XT.  Voice Communications  Voice Communications present a serious challenge for intelligibility due to limited bandwidth and the dynamic range of the speakers and headphones used in mobile phones and other voice
+devices. Additionally, when voice is compressed for transmission in the digital domain, quality is further degraded. As described above, many mobile phones throughout the world are increasingly incorporating music and audio playback functionality.
+The combination of SRS voice technologies, VIP, WOW Voice and NuVoice, with audio technologies, WOW and SRS Headphone, provide a complete audio and voice enhancement solution for a variety of product applications, including cellular phones, wireless
+products, text-to-speech applications, hearing aids, public address and emergency warning systems, talking toys, hand-free devices, traditional and Internet broadcasting and other voice-related applications.  Overall Licensee Sales Support  To implement its licensing sales strategy within its identified vertical markets, SRS Labs has established a direct sales force and a worldwide network of independent sales agents. In North America, SRS Labs employs a
+10 Table of Contents
+direct sales force to market our portfolio of audio and voice technologies to the OEM community. Internationally, SRS Labs maintains support offices in India, the Czech Republic, Japan, Hong Kong
+and Korea to support its multi-national OEM customers. The Company actively promotes the use of its trademarks and logos and directs customers to prominently display the appropriate SRS technology logo on products, packaging and in advertising. The
+Company works closely with its licensees to enhance their success in selling finished products and semiconductor products that incorporate SRS Labs technologies through a variety of licensee support programs. These programs include engineering
+support, sales training, tradeshow support, press support, customized marketing materials and corporate communications. The Companys corporate communications program includes press releases and corporate newsletter dissemination to its
+customers around the world, primarily through e-mail. The Company began to use the Internet to provide easy-to-use audio technology demonstrations for those technologies that can be appropriately demonstrated on the World Wide Web. The Company
+conducts in-person technology demonstrations or presentations for the press and other companies to promote the Companys technologies and products.  The Company regularly participates in tradeshows and conferences to increase awareness of its technologies and to market its technologies and products. The Company also works closely with its licensees and SRS Chip
+Partners to actively explore additional opportunities to utilize the Companys technologies in new products and/or markets. 
+11 Table of Contents
+OEM Licensees  The following table identifies many of the Companys OEM licensees and the market or markets in which such licensees are participating or are planning to participate, as of December
+31, 2001:   Home Theater and Consumer Audio 
+Computer Multimedia and Internet products 
+Aiwa 
+Amtran Technology 
+Bangalore Audio Labs 
+Colortac Technology 
+Casil Ele Products 
+Cyberlink Corporation 
+Daewoo 
+Microsoft Corporation 
+Diva Laboratories 
+Minebea Onkyo 
+Fujitsu Ten Corporation 
+NEWQ System 
+Funai Electric 
+Sony Corporation 
+Hitachi Ltd. 
+HiSense Corporation 
+Portable and Wireless Audio 
+Hughes Network Systems 
+Bright Headphone Electronics 
+Kenwood Corporation 
+Etronics Corporation 
+Konka Group 
+Gamma Inc. 
+Loewe OPTA GmbH 
+MPMan.com 
+Marantz Japan Inc. 
+Olympus Optical 
+Minebea Onkyo 
+SAEC Commerce 
+Mitsubishi Electric Corporation 
+Sejin Electronics 
+Philips Consumer Electronics 
+Sennheiser Electronic 
+Pioneer Corporation 
+Sony Corporation 
+Thomson Multimedia 
+Telean Technology 
+Salora International 
+Uni-Art Precise Products 
+Samsung Electronics 
+Victor Company of Japan 
+Sharp Manufacturing Company of America 
+Sherwood America, Inc. 
+Voice Communications 
+Skyworth Digital RD Institute 
+Mitsubishi Electric Corporation 
+Sony Corporation 
+Olympus Optical 
+Toshiba Corporation 
+Samsung Electronics 
+Videocon International 
+Sharp Corporation 
+Yamaha Corporation 
+Products  In September 1999, the Company introduced the WOW Thing family of software and hardware products. The WOW Thing family of software and hardware products enhances the sound quality of music downloaded over the Internet as well as the audio performance of computer and home
+entertainment products and speakers. The Company currently markets two models: WOW Thing for Computers and WOW Thing for Game Consoles to consumers through the Companys Internet website, www.wowthing.com. The revenue
+from this activity has not been significant; however, this product group helps elevate awareness of the technology as well as create brand awareness with the Companys customers and consumers.  During Fiscal 2001, SRS Labs developed a new line of proprietary, flat panel speakers and previewed design samples at the Consumer Electronics
+Conference in January 2002. Plans have been developed to market these speakers under the SRS brand name to the U.S. consumer electronics retail industry beginning mid year
+12 Table of Contents
+2002. Recognizing that this is an extremely mature and competitive market, SRS Labs has adopted a very conservative strategy, which includes a plan to outsource the manufacturing of the speakers
+and to target the high volume mass retailers. In this way, SRS Labs will be in a position to take advantage of the significant market opportunities while at the same time minimizing its cash expenditures.  SRSWOWcast Technologies  Description of
+Business  SRSWOWcast focuses on developing and licensing hardware and software applications involving SRS technology for
+the Internet and broadcast markets. Formed during the fiscal year ended December 31, 1999 Fiscal 1999, SRSWOWcast was originally established as an entertainment portal with original Internet programming, syndicated programming and a
+demonstration platform for SRS audio technologies. By the end of Fiscal 2000, it became apparent that the cost to produce original programming was increasing and the advertising revenue model would not be viable for SRSWOWcast. 
+In February 2001, SRSWOWcast revised its Internet strategy in order to focus on the licensing of the Companys audio and voice
+enhancement technology solutions for Internet audio, online radio and traditional broadcast applications, such as television, radio, cable and satellite. SRSWOWcast has established a direct sales force to market the technology solutions and a line
+of hardware and software products. Consistent with the licensing trademark policy, SRSWOWcast will actively promote the use of the SRS Labs trademarks and logos and will direct its customers to display the appropriate SRS technology logo.
+Internet Market  Hardware and Software products developed by SRSWOWcast during Fiscal 2001 for the Internet market include SRS-APC Solo Software, SRS Surround Software, the SRS-APC System and the WOWCaster Internet Radio Audio Processor.  SRS-APC Solo Software is a complete software system that acts as a processing station to provide all SRS audio enhancement technologies prior to compression or web casting. The software analyzes and processes an audio
+signal of any content type, including voice, stereo and surround sound. The software is available in three configurations depending on the type of content that is to be processed. The SRS-APC Solo Software includes mono, stereo and voice enhancement
+technologies from SRS Labs and is marketed to Internet radio stations, live event websites, encoding and service providers and other companies who deal with voice material and mono or stereo audio.  SRS Surround Software includes SRS-APC Solo Software with the addition of TruSurround technology, which creates virtual surround sound from any
+multi-channel audio source. This version is marketed to websites and music companies whose content source was originally encoded in 51 or 61 audio, such as movie clips and live concerts.  The SRS-APC System includes SRS software configured on a rack mount personal computer bundled with a multi-channel management hardware device that enables processing of up to eight
+channels simultaneously. This configuration provides a completely self-contained, rack mount processing station that can process any analog or digital input and is ideal for encoding companies, large content publishers, content delivery networks and
+other production houses that process, stream or host a large amount of content simultaneously.  The WOWCaster Internet Radio
+Audio Processor is a small hardware device that includes SRS WOW audio enhancement technology and is marketed to Internet radio stations and online music portals that prefer a hardware solution. The WOWCaster is installed directly between the source
+of the audio before compression and transmission over the Internet occurs. 
+13 Table of Contents
+Broadcast Market  In December 2001, SRSWOWcast signed a technology licensing agreement with National Mobile Television NMT, the worlds leading provider of mobile television production
+equipment for outside broadcast sports, entertainment and corporate productions. NMT provides mobile facilities to support more than 6,000 worldwide live events annually from major broadcast networks, cable networks and independent producers
+including ABC Sports, CBS Sports, ESPN, Fox News, Fox Sports, Automatic Productions, WNET/Thirteen and The Madison Square Garden Network. The agreement marks SRSWOWcasts entry into the traditional broadcast market. Under the terms of the
+agreement, SRSWOWcast will initially license its new Broadcast Phase Protector BPP and Broadcast Sports Processor BSP hardware products exclusively for NMTs sports broadcasting use in their entire fleet of 46 mobile
+production units. The agreement requires a a per-event fee for events that are broadcast using the BSP and b SRS logo credit and on screen credits for the broadcast event.  The BSP includes a combination of SRS audio technologies specifically designed to enhance the announcers voice in a sports audio mix and improve the quality and clarity of mono,
+stereo or surround sound broadcasts. The BPP allows for accurate stereo reproduction from a stereo broadcast by immunizing the stereo audio signal from common inadvertent phase reversals along the distribution path, including those originating at
+the cable headend or from an improperly wired home audio system. Production units of both processors are expected to be available in selected NMT production units during the second quarter of 2002 with full deployment by the end of 2002. Under terms
+of the agreement, NMT can also distribute the BPP and BSP processors to the entire broadcast industry.  ABC Sports successfully
+used a prototype BSP production unit during their telecast of the 2002 Tournament of Roses Parade and the 2002 Rose Bowl Game.  Valence
+Description of Business  Valence, a Hong Kong based, fabless semiconductor supplier, designs and sells a variety of custom ASICs and standard ICs which include analog, digital, mixed signal and DSP semiconductor
+products that address a wide range of applications in the consumer electronics, telecommunications, game and personal computer markets.  Valence operates primarily in two areas, the design and sale of custom ASIC and standard IC semiconductor solutions and the distribution of semiconductors and components. Consistent with SRS Labs strategy to focus on high margin
+business opportunities, Valence has been gradually phasing out the component distribution area of their business, which historically has provided significant top line revenue but very low margins. Concentrating sales, engineering and marketing
+efforts on the high margin custom semiconductor design and semiconductor sales business should contribute to improved financial performance.  Design and Sale of Semiconductor Solutions  Valence has over sixteen years of
+experience in the design and sale of ASICs and markets these products in two categories a custom ASICs for specific OEM customers and b standard ICs marketed under their own brand name, ASP Microelectronics ASP. Based in Hong Kong,
+approximately 30 engineers support Valences ASIC design capabilities with state of the art design libraries, equipment and software. Valence sells these custom ASICs and standard ICs to its contracted customers, outsourcing the manufacturing
+to a network of fabrication partners throughout Asia Pacific, including Chartered Semiconductor, Samsung and Tower Semiconductor Limited in Israel.  Valences custom ASIC customers include industry leading, Asia-based manufacturing facilities for consumer electronics, telecommunications, game and personal computer manufacturers headquartered in North
+14 Table of Contents
+America, Europe and the Asia Pacific region. Due to nondisclosure agreements, specific customers cannot be disclosed. Under many of the design contracts, Valence negotiates to retain ownership of
+the specific designs resulting in significant cost advantages. These designs form a significant library of intellectual property that can be utilized in future projects.  In addition to performing contract design work, Valence designs, produces and sells ICs to OEMs of consumer electronics, game, telecommunication and personal computer equipment in Asia
+Pacific under the ASP brand name. Product offerings include a universal serial bus USB controller, a programmable USB end point device, a single chip PDA reduced instruction set computer RISC processor, a digital tuning
+system, an electronic shock protection controller, a digital compact disk CD servo motor controller, a liquid crystal display LCD driver module as well as 4, 8 and 16 bit micro-controllers for applications in DVD players,
+set-top box receivers, audio/video equipment, telecommunication and game equipment, MP3 players, televisions and mini and micro stereo hi-fi systems. The products created are based upon managements analysis of trends in the market, knowledge
+gained from long standing relationships with customers and overall business experience. Many of these products are developed by capitalizing upon Valences extensive custom design libraries, advanced mixed signal design technologies, system
+level expertise, software knowledge and a deep understanding of customer requirements.  The world is fast becoming digital, and
+DSPs are the heart of this digital revolution. Valence has developed powerful 16 and 24 bit high speed DSPs with low power consumption and low cost performance features using deep sub-micron technology down to 018 microns. This DSP core technology
+will enable the Company to optimize solutions for various applications including SRS audio and voice technologies such as TruSurround, TruSurround XT, WOW and Circle Surround. In addition, Valence has started to develop low power analog audio
+processor ICs based on SRS audio and voice technologies targeting the mass volume consumer electronics markets for products such as boom boxes, televisions, LCD monitors and Surround Headphones. These products will be sold under the ASP brand name.
+Low power analog ICs incorporating TruBass and WOW technologies are expected to be available in the first half of 2002.  Components  Valence is an authorized, non-exclusive distributor in Hong Kong and/or the PRC for
+semiconductor products from Philips Hong Kong Ltd., Molex Hong Kong / China, Tripath Technology, Inc., Silicon Wave and Portalplayer Inc. as well as its own ASP brand. Access to multiple suppliers of similar ICs provides value to customers by
+insuring an adequate supply of components and just in time delivery of goods to meet their production schedules.  In
+the normal course of business, Valence carries inventory quantities of selected products that it distributes to meet rapid delivery requirements of customers. Valence provides a normal and customary merchandise return policy and generally does not
+provide payment terms. Due to low margins and significant inventory risks within the component business, Valence will continue to phase out of the distribution side of its business and anticipates exiting the business by the end of Fiscal 2002.
+Backlog  Sales at
+Valence are primarily made pursuant to standard purchase orders for the delivery of ASIC, IC and component products. Order quantities and delivery schedules are frequently changed to reflect product availability, scheduling at our fabrication
+partner facilities or changes in our customers needs. Customer orders can be canceled or rescheduled without significant penalty to the customer. Accordingly, our backlog at any particular date is not representative of actual sales for any
+succeeding period, and we therefore believe that backlog is not generally a good indicator of future revenue. As of December 2001 and 2000, the backlog of orders for ASIC design work to non-affiliated parties was $647,267 and $738,841, respectively.
+As of December2001 and 2000, the backlog of orders for components was $84,801 and $5,777,740, respectively. The
+15 Table of Contents
+Company expects that all or substantially all of the current backlog of orders for 2001 will be completed in Fiscal 2002. Backlog is applicable only to the Companys Valence operating unit.
+Research and Development  The Company has spent approximately 270%, 173% and 255% of total operating expenses on research and development RD in Fiscal 2001, 2000 and 1999, respectively. These expenses consist of salaries and related costs of
+employees and consultants engaged in ongoing research, design and development activities and costs for engineering materials and supplies  The Companys RD group includes 44 software, hardware and application engineers who focus on developing intellectual property, technology solutions and consumer products. Nine engineers are based in the U.S.
+with the remainder based in Hong Kong.  The U.S.-based engineering group is focused upon developing new audio and voice
+technologies, improving the performance of existing technologies and reducing the implementation cost of the Companys technologies. These engineers also are focused on assisting customers to implement the Companys technologies and
+supporting the Companys sales and marketing efforts on a worldwide basis.  Through Valence, the Company operates one of
+the largest independent IC design houses in Hong Kong, whose activities are primarily engaged in working on custom design ASIC projects for clients in the consumer electronics, game and telecommunications industries. These clients range from local
+producers to large, multi-national manufacturers around the world. For five consecutive years since 1997, Valence has won the Hong Kong Industry Awards HKITCC Certificate of Merit in Technology Achievement award.  The market for the Companys technologies and products is subject to rapid and significant changes and frequent new technology and product
+introductions. The Company believes that its future success will depend on its ability to continue to enhance its existing technologies and to introduce or acquire new technologies on a competitive basis. There can be no assurance, however, that the
+Company will be able to successfully enhance existing technologies and products or introduce or acquire new technologies and products.  Competition
+SRS Labs competes in each of its business segments with a number of companies that produce a variety of audio and voice
+enhancement technologies, processes and products. These technologies, processes and products include: THX, a certification program that indicates if a movie theater or particular piece of audio equipment meets certain specifications;
+Dolby A-type, B-type and C-type noise reduction; Dolby SR, which provides noise reduction and encodes analog sound using four sound channels; ProLogic and ProLogicII, surround sound systems incorporating an active center channel; DolbySRD, which encodes a six channel digital sound track on a movie print; DTS, which uses CDs to reproduce six channels of digital sound synchronized with a movie print; Dolby Digital, AC-3 and Dolby Digital EX, which encodes a six channel digital sound track on a
+movie print and decodes six channels of digital audio in a consumer electronics device; and SDDS, which encodes six
+or eight channels of digital sound on both sides of a movie print. Because SRS works with any existing recorded material whether mono, stereo, surround sound or other encoding process, SRS can be used either as an alternative or as a complement and
+enhancement to almost any competing audio technology. As a multi-channel encode/decode technology, Circle Surround competes more directly with the various surround sound technologies listed above.  SRS Labs also directly competes in the field of 3D audio and bass enhancement with other audio providers, including QSound Labs, Inc., Spatializer,
+MaxxBass and Sensaura. The Company is not aware of any direct competing technologies to its voice intelligibility technology, VIP. 
+16 Table of Contents
+In addition, SRS Labs technologies may, in the future, compete with audio technologies
+developed by other companies, some of whom may be current licensees of SRS Labs.  Certain of these companies referenced above
+have, or may have, substantially greater resources than the Company to devote to further technologies and new product developments. The Company believes that it will compete based primarily on the quality and performance of its proprietary
+technologies, brand name awareness, the ease and cost of implementing its technologies, the ability to meet OEMs needs to differentiate their products, and the strength of its licensee relationships including the relationship with Microsoft
+and Sony. There can be no assurance that, based on these factors, the Company will continue to be competitive with existing or future products or technologies of its competitors.  Valence competitors are primarily fabless semiconductor design houses and manufacturers located in Taiwan, Japan and Korea. Most of the fabless semiconductor design houses in Taiwan and
+Korea focus on the design of dynamic random access memory, static random access memory and semiconductors for personal computer applications. These fabless semiconductor design houses focus less on semiconductors for consumer electronics such as
+home audio and video products, communications equipment and electronic game players.  Although the Asian Pacific semiconductor
+industry is dominated by several major suppliers, such as Motorola, National Semiconductor and Texas Instruments, within every major market there is need for local, niche participants, such as Valence. Generally speaking, established semiconductor
+companies do not offer semiconductor design services to manufacturers and will only do so if the number of semiconductors required by such manufacturers is very large. Instead, they supply standard semiconductors to such manufacturers. These
+standard semiconductors may not be the most suitable components for the manufacturers as they may require additional semiconductor components to perform the designed functions required in their products. In such cases, these semiconductors will be
+bulkier, heavier and more expensive compared to one custom-designed system-on-a-chip ASIC. Valences ASIC team is more flexible in its strategy of designing new products, as well as more responsive and flexible in the service provided to
+clients. With sixteen years of experience in the Asian Pacific semiconductor market, Valences personnel has expertise in local business practices and a strong franchise of relationships with clients that the Company believes gives it a
+competitive advantage over newcomers to the industry or the large multi-national firms.  DVD and MP3 have become and will
+continue to be the standard audio and video formats and have received global mass-market adoption. Through its strategic partnerships with various technology providers, combined with ASP ICs and ASIC technologies, Valence designs, develops and
+markets complete system turnkey solutions for mass consumer audio and video OEM manufacturers of DVD players, home theater systems, MP3 Discman with PLL, MP3 recorders and players and MP3 Hard Disk Jukeboxes. Although the overall consumer
+electronics market in the PRC is vast, it is highly competitive with many large manufacturers competing in the same market segment. Price erosion and technology change will rapidly reduce product life cycles.  The markets in which the Company sells its products are subject to extreme price competition. Accordingly, the Company expects to continue to experience
+declines in the selling prices of its products over the life cycle of each product. In order to offset declines in the selling prices of its products, the Company must continue to reduce the costs of products through product design changes,
+manufacturing process changes, volume discounts and other savings negotiated with its manufacturing subcontractors. Since the Company does not operate its own manufacturing facilities with respect to ASICs, products or components, it may not be able
+to reduce its costs as rapidly as competitors who perform their own manufacturing. The failure of the Company to design and introduce, in a timely manner, lower cost versions of existing products or higher gross margin new products, or to
+successfully manage its manufacturing subcontractor relationships could have a material adverse effect on the Companys gross margins. 
+17 Table of Contents
+Intellectual Property Rights and Proprietary Information 
+The Company operates in industries where innovation, investment in new ideas and protection of its resulting intellectual property rights are important for success. The Company
+relies on a variety of intellectual property protections for its products and services, including patent, copyright, trademark and trade secret laws, and contractual obligations and pursues a policy of enforcing such rights. There can be no
+assurance, however, that the Companys intellectual property rights will be adequate to ensure the Companys competitive position, or that competitors will not be able to produce a non-infringing competitive product or service. There can
+be no assurance that third parties will not assert infringement claims against the Company, or that if required to obtain any third party licenses as a result of an infringement dispute the Company will be able to obtain such licenses. Although the
+Company believes that its patents and trademarks are important to each of its business segments, such patents and trademarks are especially important to the ASIC and licensing business segments. 
+In order to protect the underlying technology concepts, the Company has filed and/or obtained patents for all of its marketed technologies including technologies marketed under the
+trademarks SRS, TruSurround, FOCUS, Circle Surround, WOW, VIP and TruBass. In addition, the Company has numerous issued patents and patents pending for speaker and other acoustic reproduction technologies. The Company pursues a general practice of
+filing patent applications for its technologies in the United States and various foreign countries where its licensees manufacture, distribute or sell licensed products. The Company continually updates and adds new applications to its patent
+portfolio to address changing worldwide market conditions and new technological innovations of the Company. The range of expiration dates for the Companys patents extend between the year 2005 to 2018. The Company has multiple patents covering
+unique aspects and improvements for many of its technologies. Accordingly, the expiration of any single patent is not likely to affect the Companys intellectual property position or the ability to generate licensing revenue. 
+The Companys strategy for protection of its trademarks identifying the various Company technology solutions is commensurate with its
+strategy for obtaining patent protection. Specifically, the Company routinely files U.S. federal and foreign trademark applications for the various word names and logos used to market its technology solutions to licensees and the general public. The
+duration of the U.S. and foreign registered trademarks can typically be maintained indefinitely, provided proper maintenance fees are paid and trademarks are continually used or licensed by the Company.  Seasonality  Due to the Companys dependence
+on the consumer electronics market, the substantial seasonality of sales in the market could impact the Companys revenues and net income. In particular, the Company believes that there is seasonality relating to the Christmas season as well as
+the Chinese New Year in the Asia Pacific region, which fall into the fourth and first quarters, respectively.  Employees  The Company employed 100 persons as of December 31, 2001: 23 in finance and administration, 46 in RD, engineering and product development and 31 in
+sales and marketing. Of the aggregate number of employees, 65 are employed by Valence and are located overseas. None of the Companys employees are covered by a collective bargaining agreement or are presently represented by a labor union. The
+Company has not experienced any work stoppages and considers its employee relations to be good. 
+18 Table of Contents
+Item 2.
+Properties  The Companys corporate headquarters are located in Santa Ana, California, in a
+23,400 square foot facility consisting of office and warehouse space. The Company leases the facility from Daimler Commerce Partners, L.P. the Partnership, an affiliated partnership. The general partner of the Partnership is Conifer
+Investments, Inc. Conifer. The sole shareholders of Conifer are Thomas C.K. Yuen and Misako Yuen, as co-trustees of the Thomas Yuen Family Trust the Trust, and the executive officers of Conifer include Mr. and Mrs. Yuen.
+Mr.and Mrs. Yuen, as co-trustees of the Trust, also beneficially own a significant amount of the Companys outstanding shares of common stock. Mr. Yuen is the Chairman of the Board and Chief Executive Officer of the Company. 
+Pursuant to the Companys lease agreement with the Partnership, the Company leases all 23,400 square feet of space at the
+above-referenced facility. The lease is for a term of two years which commenced June 1, 2000 and is scheduled to expire on May 31, 2002. At the time of expiration, the Company will have an option to renew the lease, under similar terms and
+conditions, for two additional years commencing on June 1, 2002 and terminating on May 31, 2004. The Company paid the Partnership rent of $182,520 during Fiscal 2001, $175,500 during Fiscal 2000 and $165,672 during Fiscal 1999. 
+The Company, through Valence and its subsidiaries, leases office and warehouse facilities in Hong Kong. Valences principal operations
+are conducted at two leased facilities located in Hong Kong. The principal executive offices of Valence are located in Kowloon Tong, Hong Kong, in a 5,887 square foot office facility under a lease, which expires in August 2003. Valences other
+principal office is located in Kwun Tong, Kowloon, Hong Kong, in a 9,918 square foot office facility under a lease, which expires in December 2003. Pursuant to these leases, the Company paid rent of $301,686 during Fiscal 2001, $413,569 during
+Fiscal 2000 and $429,672 during Fiscal 1999.  The Companys corporate headquarters house personnel responsible for the
+development of the Companys technologies, including SRSWOWcast, as well as the administration of the Companys license program, while the Valence facilities are used in connection with the design and marketing of ASICs and the sale of
+consumer electronic products and components.  The Company believes that the current facilities of the Company will be adequate
+to meet the Companys needs for the foreseeable future. Should the Company need additional space, management believes that the Company will be able to secure additional space at reasonable rates.  Item 3.
+Legal Proceedings  From time to time the Company may be involved in various disputes and litigation
+matters arising in the normal course of business. As of the date of this Annual Report on Form 10-K, the Company is not involved in any legal proceedings that are expected to have a material adverse effect on the Companys consolidated
+financial position, results of operations or cash flows.  Item 4.
+Submission of Matters to a Vote of Security Holders  No matters were submitted to a vote of the
+Companys stockholders during the fourth quarter of 2001. 
+19 Table of Contents
+PART II  Item
+5.
+Market for Registrants Common Equity and Related Stockholder Matters  Market for Common Stock 
+The common stock of the Company, par value $0001 per share the Common Stock, trades on the Nasdaq Stock Market as a National
+Market System Security under the symbol SRSL. The table below reflects the high and low sales prices of the Common Stock as reported by The Nasdaq Stock Market, Inc. for the periods indicated.  
+High 
+Low 
+FISCAL 2001 
+First Quarter 
+475 
+200 
+Second Quarter 
+600 
+200 
+Third Quarter 
+540 
+271 
+Fourth Quarter 
+410 
+210 
+FISCAL 2000 
+First Quarter 
+4700 
+575 
+Second Quarter 
+2494 
+838 
+Third Quarter 
+1163 
+706 
+Fourth Quarter 
+850 
+175 
+At March 15, 2002, the last sale price of the Common Stock was $305 per share.
+Holders  At March 15,
+2002, there were 417 stockholders of record.  Dividend Policy  The Company has never paid cash dividends on the Common Stock. The Company currently intends to retain its available funds for future growth and, therefore, does not anticipate paying
+any dividends in the foreseeable future 
+20 Table of Contents
+Item 6.
+Selected Consolidated Financial Data  The following table sets forth selected financial data of the
+Company for the fiscal years ended December31, 2001, 2000, 1999, 1998 and 1997 which has been derived from the Companys consolidated audited financial statements. The following information should be read in conjunction with Item 7.
+Managements Discussion and Analysis and Results of Operations Liquidity and Capital Resources and the Consolidated Financial Statements and Notes thereto included elsewhere in this Report.   
+Fiscal Year Ended December 31, 
+2001  2000  1999  1998  1997 
+in thousands except per share data 
+Revenues: 
+Semiconductor revenue 
+$ 
+5,647 
+$ 
+10,168 
+$ 
+15,247 
+$ 
+10,295 
+$ 
+Licensing revenue 
+4,973 
+2,930 
+3,378 
+5,467 
+10,081 
+Component distribution revenue 
+4,603 
+14,718 
+17,123 
+28,963 
+Product revenue 
+190 
+101 
+48 
+Internet and broadcast revenue 
+18 
+55 
+Total revenues 
+15,431 
+27,972 
+35,796 
+44,725 
+10,081 
+Cost of sales 
+6,704 
+16,611 
+22,003 
+29,819 
+210 
+Gross margin 
+8,727 
+11,361 
+13,793 
+14,906 
+9,871 
+Operating costs and expenses Sales and marketing 
+4,475 
+6,355 
+5,148 
+6,846 
+2,112 
+Research and development 
+3,576 
+4,151 
+4,142 
+2,555 
+596 
+General and administrative 
+5,167 
+10,357 
+6,932 
+5,531 
+2,615 
+Non-cash stock issuance cost 
+3,112 
+Acquired in-process research and development 
+18,510 
+Total operating costs and expenses 
+13,218 
+23,975 
+16,222 
+33,442 
+5,323 
+Loss income from operations 
+4,491 
+12,614 
+2,429 
+18,536 
+4,548 
+Other income, net 
+797 
+1,180 
+735 
+705 
+1,088 
+Minority interest 
+193 
+250 
+Loss income before income tax expense benefit 
+3,501 
+11,184 
+1,694 
+17,831 
+5,636 
+Income tax expense benefit 
+377 
+325 
+50 
+273 
+1,863 
+Net loss income 
+$ 
+3,878 
+$ 
+11,509 
+$ 
+1,744 
+$ 
+17,558 
+$ 
+3,773 
+Net loss income per common share: 
+Basic 
+$ 
+031 
+$ 
+093 
+$ 
+015 
+$ 
+154 
+$ 
+039 
+Diluted 
+$ 
+031 
+$ 
+093 
+$ 
+015 
+$ 
+154 
+$ 
+035 
+Weighted average number of shares used in the calculation of net loss income per common share: 
+Basic 
+12,630 
+12,379 
+11,696 
+11,410 
+9,556 
+Diluted 
+12,630 
+12,379 
+11,696 
+11,410 
+10,852 
+Balance sheet data: 
+Working capital 
+$ 
+19,615 
+$ 
+21,914 
+$ 
+10,953 
+$ 
+7,644 
+$ 
+9,075 
+Total assets 
+28,263 
+41,569 
+39,101 
+45,535 
+31,542 
+Short-term debt and current portion of long-term obligations 
+8,000 
+8,000 
+8,000 
+82 
+Stockholders equity 
+24,536 
+28,303 
+25,040 
+26,072 
+29,420 
+21 Table of Contents
+Item 7.
+Managements Discussion and Analysis of Financial Condition and Results of Operations  The
+following discussion should be read in conjunction with Item 6. Selected Consolidated Financial Data included in this Annual Report on Form 10-K and Item 8. Financial Statements and Supplemental Data including the Notes to
+Consolidated Financial Statements. The forward-looking statements in this discussion regarding the markets in which the Company operates, our expectations regarding our future performance, liquidity and capital resources and other non-historical
+statements in this discussion include numerous risks and uncertainties, as described in Factors That May Affect Future Results in this Item 7 of this Report. Our actual results may differ materially from those contained in any
+forward-looking statements.  Overview  SRS Labs, Inc. conducts its business activities through the following three operating business units: SRS Labs, the parent company; its majority-owned subsidiary, SRSWOWcast; and its wholly-owned subsidiary, Valence.
+The Company is a developer and provider of ASICs, ICs and audio and voice technology solutions for the consumer electronics,
+home theater, DVD, portable audio, wireless device, computer, game, broadcast, Internet and telecommunications markets. The Company operates in the following five business segments:  SRS Labs  Licensing:SRS Labs develops and licenses audio and voice technologies to OEMs and semiconductor manufacturers around the world. 
+Products:SRS Labs sells consumer products which incorporate its proprietary technologies.  SRSWOWcast  Internet and Broadcast:SRSWOWcast develops and licenses software and hardware audio enhancement technology solutions for the Internet and broadcast markets.
+Valence  ASICs:Valence develops and markets technology solutions in the form of analog and DSP ASIC semiconductors or other imbedded custom semiconductor designs to
+OEMs.  Component Distribution:Valence is an authorized, non-exclusive distributor of semiconductor components, subassemblies and finished goods for selected OEM
+customers. The Company expects this business segment will be completely phased out by the end of 2002.  From
+the Companys inception in 1993 until February 1998, the Company derived substantially all of its revenue from royalties received from technology licenses. On March 2, 1998, the Company acquired all of the outstanding capital stock of Valence,
+a British Virgin Islands holding company with its principal business operations in Hong Kong and the PRC for an aggregate purchase price, excluding non-compete agreements and acquisition costs, of $19,500,000 consisting of approximately $7,400,000
+in cash and approximately 1,680,611shares of the Companys common stock, $0001 par value per share the Common Stock. The acquisition was accounted for as a purchase with an effective date of February 1, 1998. The
+acquisition of Valence had a material impact on the Companys financial statements subsequent to February 1998. Accordingly, current and future financial statements may not be directly comparable to the Companys historical financial
+statements prior to 1998.  During Fiscal 1998, the Company acquired certain rights to VIP, which is a patented voice processing
+technology that improves the intelligibility of the spoken voice, especially in high ambient noise environments. Aggregate consideration, including acquisition costs, was $1,138,710 and was comprised of $620,178 in cash, 25,000 shares of Common
+Stock and warrants to purchase 100,000 shares of Common Stock at $947 per share.
+22 Table of Contents
+Also during Fiscal 1998, the Company acquired certain rights to Circle Surround, a patented audio delivery system that allows multi-channel surround sound to be encoded into a two-channel stereo
+format and allows an encoded two-channel audio source or a traditional stereo audio source to be decoded into a multi-channel surround format. The aggregate purchase price, including acquisition costs, was $834,985 and was comprised of $534,985 in
+cash and 35,294 shares of Common Stock.  Critical Accounting Policies  On December 12, 2001, the Securities and Exchange Commission SEC issued Financial Reporting Release FRR No. 60, Cautionary Advice Regarding Disclosure
+About Critical Accounting Policies which, among other things, encourages discussion concerning the most critical accounting policies used in the preparation of the Companys financial statements. Critical accounting policies are defined
+as those that are both very important to the portrayal of the Companys financial condition and results, and require managements most difficult, subjective or complex judgments. We are required to make certain estimates, judgments and
+assumptions that we believe are reasonable based upon available information, historical experience and/or forecasts. These estimates, judgments and assumptions affect the reported amounts of assets and liabilities at the date of the financial
+statements and the reported revenues and expenses during the reporting periods. Actual results could differ from these estimates. The accounting policies which management believes are the most critical to aid in fully understanding and evaluating
+our reported financial results include those relating to allowances for doubtful accounts for accounts receivable and inventory obsolescence reserves.  Allowance for Doubtful Accounts  The Companys trade receivables are derived from
+sales to OEMs and distributors in the consumer electronics, home theater, computer, game, broadcast, Internet and telecommunications markets primarily in Asia, North America and Europe. The Company makes periodic evaluations of the creditworthiness
+of its customers and manages its exposure to losses from bad debts by limiting the amount of credit extended whenever deemed necessary. The Company maintains an allowance for estimated uncollectible accounts receivable and such losses have
+historically been within managements expectations. Any deterioration in the financial condition of our customers could result in an impairment of their ability to pay our accounts receivable in full which may require an increase in our
+allowance for doubtful accounts.  Inventory Obsolescence Reserves 
+Inventories, which consist of finished goods, are stated at the lower of cost or net realizable value. Cost is calculated using the weighted average method and is comprised of
+material costs and, where applicable, subcontracting and overhead costs that have been incurred in bringing the inventories to their present location and condition. Net realizable value represents the estimated selling price less costs to be
+incurred in selling and distribution. We regularly review inventory quantities on hand and record a provision for excess and obsolete inventory based primarily on our estimates of product demand, current material costs and/or net realizable value.
+Adverse changes in technology or market conditions could result in a decrease in demand for our products, which may require an increase to our inventory obsolescence reserves. 
+23 Table of Contents
+Results of Operations  The following table sets forth certain consolidated operating data as a percentage of total revenues for the years ended December 31, 2001, 2000 and 1999:   
+Percentage of Total Revenue Years Ended December 31, 
+2001  2000  1999 
+Semiconductor revenue 
+37 
+% 
+36 
+% 
+43 
+% 
+Licensing revenue 
+32 
+11 
+9 
+Component distribution revenue 
+30 
+53 
+48 
+Product revenue 
+1 
+0 
+0 
+Internet and broadcast revenue 
+0 
+0 
+0 
+Total revenue 
+100 
+100 
+100 
+Cost of sales 
+43 
+59 
+61 
+Gross margin 
+57 
+41 
+39 
+Operating costs and expenses 
+Sales and marketing 
+29 
+23 
+14 
+Research and development 
+23 
+15 
+12 
+General and administrative 
+34 
+37 
+20 
+Non-cash stock issuance cost 
+0 
+11 
+0 
+Total operating expense 
+86 
+86 
+46 
+Operating loss 
+29 
+45 
+7 
+Other income, net 
+5 
+4 
+2 
+Minority interest 
+1 
+1 
+0 
+Loss before income taxes 
+23 
+40 
+5 
+Income tax expense benefit 
+2 
+1 
+0 
+Net loss 
+25 
+% 
+41 
+% 
+5 
+% 
+Year Ended December 31, 2001 Compared to Year Ended December 31, 2000
+Revenues  The Company generates revenues in five business segments. Semiconductor revenue consists of design fees and sales of ASICs by Valence to OEM manufacturers and sales of general purpose ICs designed by the Company under
+the brand name ASP. Licensing revenues are royalties generated primarily from the license of the Companys audio and voice technologies. License and royalty agreements generally provide for the license of technologies for a specified period of
+time for either a single fee or a fee based on the number of units distributed by the licensee. Component distribution revenue consists of a the manufacture and sale of Valences own branded product line of VCD players, amplifiers and game
+products and b the distribution of semiconductor products, manufacturing components and sub-assemblies to OEMs for the Hong Kong and the PRC markets. Product sales represent sales of consumer products incorporating one or more of SRS Labs
+proprietary technologies. Internet and broadcast revenues consist of the sale of hardware and software applications involving the Internet and broadcast audio markets.  Total revenues for Fiscal 2001 were $15,430,930 compared to $27,972,694 in Fiscal 2000, a decrease of $12,541,764 or 448%. Semiconductor revenues were $5,646,724 in Fiscal 2001 compared
+to $10,168,525 in Fiscal 2000 a decrease of $4,521,801 or 445%. This decrease was due to a continued general weakness in demand in worldwide markets for consumer electronics products which negatively impacted the sales of
+24 Table of Contents
+semiconductor ICs. Licensing revenues were $4,973,584 in Fiscal 2001 compared to $2,929,717 in Fiscal 2000 an increase of $2,043,867 or 698%. This increase was attributable to the sales growth
+of home entertainment products such as DVD players and other products which incorporate our technologies. Component distribution revenues were $4,602,819 in Fiscal 2001 compared to $14,718,440 in Fiscal 2000 a decrease of $10,115,621 or 687%. This
+decrease was due both to the continued general weakness in demand in worldwide markets for consumer electronics products as well as the Companys decision to focus on higher margin semiconductor and licensing revenues and de-emphasize certain
+lower margin distribution activities. Product revenues and revenues generated by the Companys Internet and broadcast based business were $189,820 and $17,983, respectively in Fiscal 2001 and $101,148 and $54,864, respectively in Fiscal 2000.
+Gross Margin  Cost of sales consists primarily of component costs, fabrication costs, assembly and test costs, and the cost of materials and overhead from operations. Gross margin for Fiscal 2001 increased to 566% as a percentage
+of total revenue from 406% for Fiscal 2000. The increase resulted primarily from the Companys decision to focus the revenue base towards higher margin semiconductor and licensing revenues and away from lower margin component distribution.
+Sales and Marketing  Sales and marketing expenses consist primarily of employee-related expenses, sales commissions and product promotion costs. Sales and marketing expenses were $4,474,575 in Fiscal 2001 compared to $6,355,742 in Fiscal
+2000, a decrease of $1,881,167 or 296%. This decrease is attributable primarily to reductions in spending at Valence associated with the cutback in the component distribution business as well as reductions in the level of expenditures at SRSWOWcast
+following Fiscal 2000s initial construction of the website and the creation of program content for the website. Effective February 21, 2001, SRSWOWcast discontinued efforts to develop program content to focus on utilizing the website to
+promote the licensing of the Companys audio and voice technology solutions. Management believes sales and marketing expenditures will continue to be a significant component of operating costs in the future to increase brand awareness and
+promote the adoption of the Companys technology in new and existing markets. As a percentage of total revenues, sales and marketing expenses increased to 290% in Fiscal 2001 from 227% in Fiscal 2000.  Research and Development  Research and development expenses consist of salaries and related costs of employees and consultants engaged in ongoing research, design and development activities and costs for engineering materials and supplies. Research and development
+expenses were $3,576,170 in Fiscal 2001 compared to $4,151,064 in Fiscal 2000, a decrease of $574,894 or 139%. This decrease is primarily attributable to a reduction in staffing levels at Valence and SRSWOWcast. As a percentage of total revenues,
+research and development expenses increased to 232% in Fiscal 2001 from 148% in Fiscal 2000.  Management believes that
+research and development expenses will increase in the future as a result of a return to more normal demand for semiconductor ICs as well as the Companys ongoing product development efforts including activity related to the expansion of
+consumer products incorporating the Companys audio and voice technologies.  General and Administrative
+General and administrative expenses consist primarily of employee-related expenses, legal costs associated with the
+administration of intellectual property, professional fees and various other administrative costs. General and administrative expenses were $5,167,396 in Fiscal 2001 compared to $10,357,001 in Fiscal 2000, a decrease of $5,189,605 or 501%. The
+decrease is primarily due to elevated expenditures incurred during Fiscal 2000 resulting from severance costs incurred related to the resignation of an employee of Valence, the write-off of
+25 Table of Contents
+certain intellectual property incorporating obsolete or unpursued technologies, higher legal and employee related expenses associated with the launch of SRSWOWcast, expenses related to the
+terminated Valence initial public offering see below, plus higher salaries and benefits, legal, and other administrative expenses in the Companys core licensing business. The decrease was also attributable to a reduction in the level of
+amortization expense related to intangible assets both from prior year write-offs as well as certain categories of intangibles becoming fully amortized during the period. As a percentage of total revenues, general and administrative expenses
+decreased to 335% in Fiscal 2001 from 370% in Fiscal 2000.  On March 3, 2000, the Company filed an application to list the
+common shares of Valence on the GEM, in order to sell a minority interest in Valence to the public. The initial public offering was targeted for completion in the second quarter of 2000. However, due to negative market conditions affecting equity
+markets worldwide, including the GEM, the Company elected not to proceed with the offering. Offering costs incurred by the Company, comprised primarily of legal, accounting and underwriting fees, totaled $1,142,175 for Fiscal 2000. These costs are
+included in general and administrative expense in the accompanying financial statements.  Non-cash Stock Issuance Cost
+In March 2000, the Company entered into a technology and marketing alliance with Microsoft. In conjunction with this
+transaction, Microsoft purchased shares of common stock of the Company and was issued warrants to purchase additional shares of common stock of the Company and of its subsidiary, SRSWOWcast together referred to as the Microsoft
+Transaction. As a result of the Microsoft Transaction, the Company recognized a one-time, non-cash charge totaling $3,111,859. See Note 9 of the Notes to Consolidated Financial Statements for more information concerning the Microsoft
+Transaction.  Other Income, Net  Other income, net consists primarily of interest income, interest expense, realized gains and losses on the sale of investments and foreign currency transaction gains and losses at Valence. Net interest income was
+$782,235 in Fiscal 2001 compared to $1,059,009 in Fiscal 2000, a decrease of 261%. The decrease is primarily attributable to lower average cash and investment balances during the current year as compared to the prior year as well as lower interest
+rates earned on investment balances during Fiscal 2001.  Minority Interest  Minority interest represents the minority shareholders proportionate share of losses in SRSWOWcast. Losses in SRSWOWcast are expected to continue
+as a result of expenditures exceeding revenues in an effort to support the expansion and growth of SRSWOWcast business operations. Should losses continue in SRSWOWcast, the minority interest adjustment in the consolidated statement of operations
+will continue to reduce the Companys net losses by the minority shareholders proportionate share of SRSWOWcasts net losses to the extent of their investment.  Provision for Income Taxes  The income tax provision for
+Fiscal 2001 was $377,519 compared to $324,981 for Fiscal 2000. The higher tax expense in Fiscal 2001 was primarily a result of higher levels of foreign tax on higher licensing revenues sourced from countries requiring foreign tax withholdings. The
+Company had federal and state net operating loss carryforwards at December 31, 2001 of approximately $16,500,000 and $11,600,000, respectively. These net operating loss carryforwards will begin to expire in 2019 and 2003, respectively. In addition,
+the Company has federal tax credit carryforwards of approximately $863,000. The portion related to the foreign tax credit is $178,000 which will begin to expire in 2003. The remainder of the tax credits will begin to expire in 2011. As of December
+31, 2001, a valuation allowance of approximately $6,899,000 has been provided based on the Companys assessment of the future realizability of certain deferred tax assets. Approximately $1,417,000 of the valuation allowance is attributable to
+the potential tax benefit of stock option transactions that will be credited directly to additional paid in capital, if realized. 
+26 Table of Contents
+Year Ended December 31, 2000 Compared to Year Ended December 31, 1999 
+Revenues  Total revenues for Fiscal 2000 were $27,972,694 compared to $35,795,583 in Fiscal 1999, a decrease of $7,822,889 or 219%. Semiconductor revenues were $10,168,525 in Fiscal 2000 compared to $15,246,572 in Fiscal 1999 a decrease of
+$5,078,047 or 333%. Licensing revenues were $2,929,717 in Fiscal 2000 compared to $3,377,649 in Fiscal 1999 a decrease of $447,932 or 133%. These decreases were due to a continued general weakness in the Asian markets leading to reduced demand for
+consumer electronics products in the region which negatively impacted the sales of semiconductor ICs that include the Companys audio technologies and the trend by consumer electronic manufacturers to initially adopt the Companys new
+technologies into higher end models resulting in limited volume potential for the short term. Component distribution revenues were $14,718,440 in Fiscal 2000 compared to $17,115,815 in Fiscal 1999 a decrease of $2,397,375 or 140%. This decrease was
+primarily due to the Companys decision to focus on higher margin semiconductor and licensing revenues and de-emphasize certain lower margin distribution activities. Product revenues and revenues generated by the Companys Internet and
+broadcast based business were $101,148 and $54,864, respectively in Fiscal 2000 and $55,547 and $0, respectively in Fiscal 1999.  Gross Margin  Gross margin for Fiscal 2000 increased to 406% as a percentage of total revenue from 385% for
+Fiscal 1999. The increase resulted primarily from the Companys decision to focus its revenue base towards higher margin semiconductor and licensing revenues and away from lower margin component distribution.  Sales and Marketing  Sales and marketing expenses were $6,355,742 in Fiscal 2000 compared to $5,148,458 in Fiscal 1999, an increase of $1,207,284 or 235%. This increase is attributable primarily to spending associated with the development and promotion of the
+SRSWOWcast website and creation of program content for the website. As a percentage of total revenues, sales and marketing expenses increased to 227% in Fiscal 2000 from 144% in Fiscal 1999. 
+Research and Development  Research and development
+expenses were $4,151,064 in Fiscal 2000 compared to $4,141,571 in Fiscal 1999, an increase of $9,493 or 02%. This increase is primarily attributable to expenses related to SRSWOWcast, offset partially by a reduction in staffing levels at Valence.
+As a percentage of total revenues, research and development expenses increased to 148% in Fiscal 2000 from 116% in Fiscal 1999.  General and Administrative  General and administrative expenses were $10,357,001 in Fiscal 2000 compared to
+$6,932,397 in Fiscal 1999, an increase of $3,424,604 or 494%. The increase is primarily due to severance costs incurred related to the resignation of an employee of Valence, the write-off of certain intellectual property incorporating obsolete or
+unpursued technologies, higher legal and employee related expenses associated with the launch of SRSWOWcast, expenses related to the terminated Valence initial public offering, plus higher salaries and benefits, legal, and other administrative
+expenses in the Companys core licensing business. As a percentage of total revenues, general and administrative expenses increased to 370% in Fiscal 2000 from 194% in Fiscal 1999.  Non-cash Stock Issuance Cost  See the discussion above
+concerning the non-cash stock issuance cost relating to the Microsoft Transaction. 
+27 Table of Contents
+Other Income, Net  Net interest income was $1,059,009 in Fiscal 2000 compared to $448,117 in Fiscal 1999, an increase of 1363%. The increase is primarily attributable to higher average cash and investment
+balances during the current year as compared to the prior year due partly to the $5,000,000 received in the Microsoft Transaction.  Minority Interest  On September 29, 2000, the Company sold an equity interest in SRSWOWcast through a private
+placement of SRSWOWcast Series A Convertible Preferred Stock See Note 9 of the Notes to Consolidated Financial Statements for more information concerning this transaction. Minority interest represents the minority shareholders proportionate
+share of losses in SRSWOWcast after September 29, 2000.  Provision for Income Taxes  The income tax provision for Fiscal 2000 was $324,981 compared to $49,662 for Fiscal 1999. The higher tax expense in Fiscal 2000 was primarily a result
+of Valence fully utilizing tax loss carryforwards during Fiscal 2000 resulting in higher income tax expense and the Company recognizing a tax benefit in Fiscal 1999 primarily due to a taxable loss recognized for U.S. federal income tax purposes
+related to domestic operations. In addition, the Company benefited from certain tax credits and statutory tax rates in the Asian countries where Valence has its principal business operations which are lower than United States statutory rates.
+28 Table of Contents
+Selected Quarterly Operating Results Unaudited  The following table sets forth certain quarterly summary financial data for the eight quarters in the period ended December 31, 2001. The quarterly information is based upon unaudited
+financial statements prepared by the Company on a basis consistent with the Companys audited consolidated financial statements and, in managements opinion, includes all adjustments, consisting only of normal recurring adjustments
+necessary for a fair presentation of the information for the periods presented. This information should be read in conjunction with the Companys audited Consolidated Financial Statements and Notes thereto appearing elsewhere in this Report.
+The Companys quarterly operating results have varied significantly in the past and are expected to vary significantly in the future.   
+Three Months Ended 
+Mar 31, 2001  Jun 30, 2001  Sep 30, 2001  Dec 31, 2001  Mar 31, 2000  Jun 30, 2000  Sep 30, 2000  Dec 31, 2000 
+In thousands except per share amounts 
+Revenues: 
+Semiconductor 
+$ 
+1,084 
+$ 
+1,500 
+$ 
+1,574 
+$ 
+1,489 
+$ 
+2,312 
+$ 
+2,394 
+$ 
+3,047 
+$ 
+2,415 
+Licensing 
+1,164 
+1,625 
+1,304 
+880 
+567 
+466 
+825 
+1,072 
+Component distribution 
+2,065 
+1,607 
+651 
+280 
+4,258 
+3,694 
+4,098 
+2,669 
+Product 
+14 
+102 
+20 
+54 
+22 
+28 
+32 
+19 
+Internet and broadcast 
+4 
+10 
+4 
+32 
+11 
+6 
+6 
+Total revenues 
+4,331 
+4,844 
+3,549 
+2,707 
+7,191 
+6,593 
+8,008 
+6,181 
+Gross margin 
+2,029 
+2,510 
+2,275 
+1,913 
+2,342 
+2,326 
+3,391 
+3,302 
+Operating expenses a b 
+3,831 
+3,620 
+3,227 
+2,540 
+6,755 
+6,603 
+4,723 
+5,895 
+Operating loss 
+1,802 
+1,110 
+952 
+627 
+4,413 
+4,277 
+1,332 
+2,593 
+Net loss 
+$ 
+1,566 
+$ 
+980 
+$ 
+802 
+$ 
+531 
+$ 
+4,341 
+$ 
+4,107 
+$ 
+1,222 
+$ 
+1,839 
+Net loss per Common share: 
+Basic and diluted 
+$ 
+012 
+$ 
+008 
+$ 
+006 
+$ 
+005 
+$ 
+036 
+$ 
+033 
+$ 
+010 
+$ 
+014 
+a
+Operating expenses for the three month period ended March 31, 2000 included $3,112 related to non-cash stock issuance cost.  b
+Operating expenses for the three month period ended June 30, 2000 included $1,142 related to offering costs incurred on the terminated Valence initial public offering.
+Liquidity and Capital Resources  The Company has primarily financed its operations from its inception through private sales of our equity securities, funds generated from operations, an initial public offering of 3,107,452 shares of Common Stock in
+August 1996 resulting in net proceeds of approximately $22 million and from short-term borrowings under revolving credit facilities.  As of December 31, 2001, cash, cash equivalents and investments were $19,593,723 compared to $30,425,210 as of December 31, 2000, a decrease of $10,831,487. The Companys principal source of liquidity to fund ongoing operations for the
+year ended December 31, 2001 was cash, cash equivalents and investments. The Company has adopted an investment guideline restricting the types and minimum quality of investments the Company is authorized to purchase. At December 31, 2001, the
+Company had cash and cash equivalents of $19,011,167 and investments of $582,556. Cash and cash equivalents generally consist of cash, money market funds and other money market instruments with original or remaining maturities of three months or
+less. Investments consist of municipal bonds rated a minimum of A1. Net cash used in operating activities during Fiscal 2001 was $2,205,497, attributable primarily to the net loss during the year as well as a net decrease in accounts payable and
+accrued liabilities, offset somewhat by a decrease in inventories as well as certain adjustments to reconcile net loss to cash used in operating activities including depreciation and amortization. Net
+29 Table of Contents
+cash provided by investing activities of $5,091,868 resulted from proceeds received from sales of the Companys investments offset by purchases of furniture, fixtures and equipment and
+expenditures related to intangible assets. Net cash used in financing activities of $8,003,684 was attributable to the repayment of the Companys line of credit and the purchase of treasury shares of the Company offset somewhat by the proceeds
+from sale of common stock pursuant to exercise of employee stock options.  Inventories in Fiscal 2001 decreased from $3,068,478
+at December 31, 2000 to $1,624,067 at December 31, 2001. This decrease was primarily related to the Companys decision to exit from the lower margin component distribution business in favor of the higher margin semiconductor and licensing
+business segments. Accounts payable and accrued liabilities decreased from $1,603,401 and $1,974,357, respectively at December 31, 2000 to $822,698 and $1,357,105, respectively at December 31, 2001 primarily due to reduced activity and staffing
+levels during the later stages of Fiscal 2001 compared to Fiscal 2000.  Net cash used in operating activities during Fiscal 2000
+was $4,848,803 reflecting the net loss during the year and a net decrease in accounts payable, offset by a decrease in accounts receivable as well as certain adjustments to reconcile net loss to cash used in operating activities including
+depreciation and amortization and non-cash stock issuance costs. Net cash provided by investing activities of $525,630 resulted from proceeds received from sales of the Companys investments offset by purchases of furniture, fixtures and
+equipment and intangible assets. Net cash provided by financing activities of $12,481,975 resulted from proceeds from the Microsoft Transaction, proceeds from sale of stock of a subsidiary and proceeds from sale of common stock pursuant to exercise
+of employee stock options.  In March 1998, the Company obtained a revolving line of credit and letter of credit facility with a
+bank which was secured by certain of the Companys cash, cash equivalents and investments. This line of credit expired on April 1, 2001 and was fully repaid on April 2, 2001. The total availability under the line of credit was the lesser of
+$10,000,000 or a percentage of the fair market value of the collateral. Interest on the line of credit was at the banks prime rate or LIBOR plus 075%. On April 1, 2001, the Company entered into a new revolving line of credit with the same
+bank on substantially the same terms and conditions as the previous revolving line of credit except the total availability under the new line of credit was reduced to the lesser of $5,000,000 or a percentage of the fair market value of the
+collateral. On October 11, 2001 the Company terminated the new revolving line of credit and letter of credit facility with the bank.  In November 1999, Valence obtained a credit facility with a bank that provided for availability under the line of credit aggregating approximately $5,000,000. In January 2001, the credit facility was renegotiated to reduce the amount of
+availability to borrow under the credit facility and to provide for a variety of import/export trade instruments up to $2,000,000 at interest rates ranging from 1% over the Hong Kong Dollar prime rate to 175% over LIBOR. The facility was
+collateralized by certain of Valences assets on deposit with the bank. The facility expired on October 31, 2001 and is currently being renegotiated. There can be no assurance that management will be successful in the renegotiation of a new
+credit facility on terms favorable to the Company, or at all. At December 31, 2001 and 2000, there were no obligations outstanding under this credit facility.  The Company anticipates that its primary uses of working capital in future periods will be to acquire new technologies and to fund increased costs for additional sales, marketing and engineering headcounts and other
+marketing activities associated with the introduction of new technologies and products into the market.  Based on current plans
+and business conditions, the Company expects that its cash, cash equivalents and investments together with any amounts generated from operations will be sufficient to meet the Companys cash requirements for at least the next 12 months.
+However, there can be no assurance that the Company will not be required to seek other financing sooner or that such financing, if required, will be available on terms satisfactory to the Company. 
+30 Table of Contents
+Recent Accounting Pronouncements  On January 1, 2001, the Company adopted Statement of Financial Accounting Standards SFAS No. 133, Accounting for Derivative Instruments and Hedging Activities
+as amended by SFAS No. 138, Accounting for Certain Derivative Instruments and Certain Hedging Activities an amendment of FASB Statement No. 133 which requires derivatives to be reported as assets or liabilities in the balance
+sheet at fair value. The amendment included expanding the normal purchase and sale exemption for supply contracts, permitting the offsetting of certain intercompany foreign currency derivatives and thus reducing the number of third party
+derivatives, permitting hedge accounting for foreign-currency denominated assets and liabilities and redefining interest rate risk to reduce sources of ineffectiveness. The adoption of SFAS No. 133, as amended by SFAS No. 138, did not have a
+material impact on the Companys consolidated results of operations, financial position or cash flows.  In July 2001, the
+Financial Accounting Standards Board FASB issued SFAS No. 141 Business Combinations, which, among other things, requires that the purchase method of accounting be used for all business combinations initiated after June 30,
+2001, no longer permits the use of the pooling-of-interests method of accounting for business combinations and broadens the criteria for recording intangible assets separate from goodwill. The adoption of SFAS No. 141 during the third quarter of
+2001 did not have a material impact on the Companys consolidated results of operations, financial position or cash flows.  In July 2001, FASB issued SFAS No. 142 Goodwill and Other Intangible Assets, which, among other things, establishes new standards for goodwill acquired in a business combination, eliminates the amortization of goodwill and
+requires the carrying value of goodwill and identifiable intangibles to be evaluated for impairment on an annual basis. Identifiable intangible assets with a determinable useful life will continue to be amortized over that period. SFAS No. 142 is
+effective for fiscal years beginning after December 15, 2001. Management does not believe the adoption of SFAS No. 142 will have a material impact on the Companys consolidated results of operations, financial position or cash flows.
+In August 2001, FASB issued SFAS No. 143 Accounting for Asset Retirement Obligations, which addresses financial
+accounting and reporting for obligations associated with the retirement of tangible long-lived assets and the associated retirement costs. SFAS No. 143 is effective for fiscal years beginning after June 15, 2002. Management does not believe the
+adoption of SFAS No. 143 will have a material impact on the Companys consolidated results of operations, financial position or cash flows.  In October 2001, FASB issued SFAS No. 144 Accounting for the Impairment or Disposal of Long-Lived Assets, which addresses financial accounting and reporting for the impairment of long-lived assets and for
+long-lived assets to be disposed of either by sale or other than by sale. SFAS No. 144 is effective for fiscal years beginning after December 15, 2001. Management does not believe the adoption of SFAS No. 144 will have a material impact on the
+Companys consolidated results of operations, financial position or cash flows.  Factors That May Affect Future Results 
+Quarterly Fluctuations  The Companys operating results may fluctuate from those in prior quarters and will continue to be subject to quarterly and other fluctuations due to a variety of factors, including the extent to which the
+Companys licensees incorporate the Companys technologies into their products; the timing of orders from, and the shipments to, major customers; the timing of new product introductions by the Company; the gain or loss of significant
+customers; competitive pressures on selling prices; the market acceptance of new or enhanced versions of the Companys technologies; the rate that the Companys semiconductor licensees manufacture and distribute semiconductors to product
+manufacturers; and fluctuations in general economic conditions, particularly those affecting the consumer electronics market. Due to the Companys dependence on the consumer electronics market, the substantial seasonality of sales in the market
+could impact the Companys revenues and net income. As a result, the Company believes that period-to-period comparisons of its results of operations are not
+31 Table of Contents
+necessarily meaningful and should not be relied upon as indications of future performance. The Company believes that there is seasonality relating to the Christmas season as well as the Chinese
+New Year within the Asia region, which fall into the fourth and first quarters, respectively.  Valences Business
+The Company derives a significant amount of its revenue from Valences ASIC and component distribution business.
+Valences engineering team focuses on the design of custom ASICs to meet specific customers requirements and outsources the production of the design to mask houses, foundries and packaging houses located primarily in Asia. The operations
+of Valence could be affected by a variety of factors, including the timing of customer orders, the timing of development revenue, changes in the mix of products distributed and the mix of distribution channels employed, the emergence of a new
+industry standard, product obsolescence and changes in pricing policies by the Company, its competitors or its suppliers.  Business revenue from ASICs is concentrated in a limited number of customers in the areas of consumer electronics, communications products, computers and computer peripherals. As such, the loss of any such customers or any bad debt arising
+from them may have a material adverse impact on the Companys financial condition and results of operation. Beginning in Fiscal 1999, Valence began to exit from certain lower margin product offerings in the distribution side of the business and
+has placed more emphasis on developing and distributing products that are related to or incorporate the Companys proprietary technologies. As a result, the immediate loss in revenue of the low margin distribution business will not be entirely
+offset by the new proprietary technology based products, which will take time to develop and be introduced into the marketplace. There can be no assurance that the Company will be able to quickly introduce new products to offset the loss in revenue
+or that the new products developed will receive a favorable market acceptance.  Valence adds significant diversity to the
+Companys overall business structure and the Companys opportunities. The Company recognizes that in the presence of such corporate diversity, and in particular with regard to the semiconductor industry, there will always exist a potential
+for a conflict among sales channels between the Company and certain of the Companys technology licensees. Although the operations of the Companys licensing business and those of Valence are generally complementary, there can be no
+assurances that sales channel conflicts will not arise. If such potential conflicts do materialize, the Company may or may not be able to mitigate the effect of such perceived conflicts, which, if not resolved, may impact the results of operations.
+Internet Business  In Fiscal 1999, the Company launched its Internet business with the formation of SRSWOWcast. In Fiscal 2000, SRSWOWcast commenced operations with a business plan which focused on developing and acquiring audio based
+content to attract visitor traffic to its website in order to sell advertising and e-commerce products. In 2001, the Company changed its Internet strategy to focus on the sale and licensing of software and hardware products incorporating the
+Companys audio and voice enhancement technology solutions to the broadcast and Internet markets. There can be no assurance that this new business model will develop a sufficient customer base to be able to generate meaningful revenue.
+Product Business  In Fiscal 1999, the Company developed and marketed on its e-commerce site, www.wowthing.com, its first consumer audio product, the WOW Thing Processor Box. The WOW Thing Processor Box enhances the sound quality of
+music downloaded over the Internet as well as audio performance of computer and home entertainment products and speakers. This was the Companys first entry into the consumer market in the United States which is both competitive and subject to
+products with short life cycles. 
+32 Table of Contents
+In Fiscal 2000, the Company packaged the hardware and began to market two models: WOW
+Thing for Computers and WOW Thing for Game Consoles to consumers and resellers. Although revenues from these products have not been significant, this product group helps elevate awareness of the technology as well as create brand
+awareness with the Companys customers and consumers.  The Company intends to continue to expand its offerings of high-end
+audio enhancement products. There can be no assurance that the Company will be able to develop an effective distribution channel and build acceptable brand recognition as a product manufacturer. As the business increases, it is anticipated that
+significant capital will be required to finance product inventory and accounts receivable. As a result, the Company is subject to risks of product obsolescence, bad debt and insufficient finance to grow the business.  The Company also recognizes that as new consumer audio products are developed and marketed by the Company, there will always exist a potential for
+conflict and competition between the Company and certain of the Companys technology licensees. Although the intended products of the Company and those of its licenses do not generally overlap, there can be no assurances that the Companys
+products will not compete with those of their licensees. If such conflicts do materialize, it is uncertain whether the Company will be able to mitigate the effect of such conflicts, which, if not resolved, may adversely impact its business and
+results of operations.  Economic Risks Associated with Doing Business in Asia  The Companys significant operations in Hong Kong, the PRC and other parts of Asia have required, and will continue to require, refinement to adapt
+to the changing market conditions in the region. The Companys operations in Asia, and international operations in general, are subject to risks of unexpected changes in, or impositions of, legislative or regulatory requirements. 
+Customers geographically located in the Asia Pacific markets accounted for approximately 90%, 94% and 94% of total Company sales in 2001,
+2000 and 1999, respectively and are expected to continue to account for a substantial percentage of sales in the future. The economic climate in Asia continues to be impacted by increases in unemployment, declines in consumer spending, currency
+devaluation and bank failures. Any of these factors, should they continue, could significantly reduce the demand for the end user goods in which the Companys products and technologies are used.  The PRC economy has experienced significant growth in the past decade, but such growth has been uneven across geographic and economic sectors. There can
+be no assurance that such growth will continue or that any potential currency devaluation in the region will not have a negative effect on the Companys business, including Valence. The PRC economy has also experienced deflation in the past
+which may continue in the future. The current economic situation may adversely affect the Companys profitability over time as expenditures for consumer electronics products and information technology may decrease due to the results of slowing
+domestic demand and deflation.  Hong Kong is a Special Administrative Region of the PRC with its own government and legislature.
+Hong Kong enjoys a high degree of autonomy from the PRC under the principle of one country, two systems. The Company can give no assurance that Hong Kong will continue to enjoy autonomy from the PRC.  The Hong Kong dollar has remained relatively constant due to the U.S. dollar peg and currency board system that has been in effect in Hong Kong since
+1983. Since mid-1997, interest rates in Hong Kong have fluctuated significantly and real estate and retail sales have declined. The Company can give no assurance that the Hong Kong economy will not worsen or that the historical currency peg of the
+Hong Kong dollar to the U.S. dollar will be maintained. Continued declining consumer spending in Hong Kong, deflation or the discontinuation of the currency peg could adversely affect the Companys business. 
+33 Table of Contents
+Currency Risk/Stability of Asian Markets  The Company expects that international sales will continue to represent a significant portion of total revenues. To date, all of the Companys
+licensing revenues have been denominated in U.S. dollars and most costs have been incurred in U.S. dollars. It is the Companys expectation that licensing revenues will continue to be denominated in U.S. dollars for the foreseeable future.
+Because Valence and its subsidiaries business is primarily focused in Asia and because of the Companys anticipated expansion of its business in the PRC and other parts of Asia, the Companys consolidated results of operations and
+financial position could be significantly affected by risks associated with international activities, including economic and labor conditions, political instability, tax laws including U.S. taxes on foreign subsidiaries and changes in the value of
+the U.S. dollar versus the local currency in which the products are sold. In addition, the Companys valuation of assets recorded as a result of the Valence acquisition may also be adversely impacted by the currency fluctuations relative to the
+U.S. dollar. The Company intends to actively monitor its foreign exchange exposure and to implement strategies to reduce its foreign exchange risk at such time that the Company determines the benefits of such strategies outweigh the associated
+costs. However, there is no guarantee that the Company will take steps to insure against such risks, and should such risks occur, there is no guarantee that the Company will not be significantly impacted. Countries in the Asia Pacific region have
+experienced weakness in their currency, banking and equity markets. These weaknesses could adversely affect consumer demand for Valences products, the U.S. dollar value of the Companys and its subsidiaries foreign currency
+denominated sales, the availability and supply of product components to Valence and ultimately, the Companys consolidated results of operations.  Competitive Pressures  The Companys existing and potential competitors include both
+large and emerging domestic and international companies that have substantially greater financial, manufacturing, technical, marketing, distribution and other resources. The Companys present or future competitors may be able to develop
+products and technologies comparable or superior to those offered by the Company, and to adapt more quickly than the Company to new technologies or evolving market needs. The Company believes that the competitive factors affecting the market for the
+Companys products and technologies include product performance, price and quality; product functionality and features; the ease of integration; and implementation of the products and technologies with other hardware and software components in
+the OEMs products. In addition, the markets in which the Company competes are intensely competitive and are characterized by rapid technological changes, declining average sales prices and rapid product obsolescence. Accordingly, there can be
+no assurance that the Company will be able to continue to compete effectively in its respective markets, that competition will not intensify or that future competition will not have a material adverse effect on the Companys business, operating
+results, cash flows and financial condition.  Importance of Intellectual Property  The Companys ability to compete may be affected by its ability to protect its proprietary information. The Company has filed several U.S. and
+foreign patent applications and to date has a number of issued U.S. and foreign patents covering various aspects of its technologies. There can be no assurance that the steps taken by the Company to protect its intellectual property will be adequate
+to prevent misappropriation of its technology or that the Companys competitors will not independently develop technologies that are substantially equivalent or superior to the Companys technology. In addition, the laws of certain foreign
+countries may not protect the Companys intellectual property rights to the same extent as do the laws of the U.S. The semiconductor industry is characterized by frequent claims and litigation regarding patent and other property rights. The
+Company is not currently a party to any claims of this nature. There can be no assurances that third parties will not assert claims or initiate litigation against the Company or its customers with respect to existing or future products. In addition,
+the Company may initiate claims or litigation against third parties for infringement of the Companys proprietary rights or to determine the scope and validity of the proprietary rights of the Company or others. 
+34 Table of Contents
+Dependence on Key Personnel  The Companys future success depends in part on the continued service of its key engineering, sales, marketing and executive personnel, including highly skilled semiconductor design
+personnel. The Company anticipates that any future growth will require it to recruit and hire a number of new personnel in engineering, operations, finance, sales and marketing. Competition for such personnel during times of economic growth is
+intense, and there can be no assurance that the Company can recruit and retain necessary personnel to operate its business and support future growth.  Marketability and Volatility of Stock Price  The trading price of the Common Stock has
+been, and will likely continue to be, subject to wide fluctuations in response to quarterly variations in the Companys operating results, announcements of new products or technological innovations by the Company or its competitors, strategic
+alliances between the Company and third parties, general market fluctuations and other events and factors. Changes in earnings estimates made by brokerage firms and industry analysts relating to the markets in which the Company does business, or
+relating to the Company specifically, have in the past resulted in, and could in the future result in, an immediate and adverse effect on the market price of the Common Stock. Even though our stock is quoted on the Nasdaq Stock Market, our stock has
+had and may continue to have low trading volume and high volatility. The historically low trading volume of our stock makes it more likely that a severe fluctuation in volume, either up or down, will significantly impact the stock price. Since our
+shares are thinly traded, our shareholders may have difficulty selling our common stock.  Acquisitions 
+From time-to-time, the Company expects to make acquisitions of businesses or technologies that are complementary to its business strategy.
+Such future acquisitions would expose the Company to risks commonly encountered in acquisitions of businesses. Such risks include, among others, difficulty of assimilating the operations, information systems and personnel of the acquired
+businesses, the potential disruption of the Companys ongoing business; and the inability of management to maximize the financial and strategic position of the Company through successful incorporation of the acquired technologies, employees
+and customers. There can be no assurance that any potential acquisition will be consummated or, if consummated, that it will not have a material adverse effect on the Companys business, financial condition and results of operations.
+35 Table of Contents
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk  The
+Company is exposed to a variety of risks, including foreign currency fluctuations and changes in interest rates affecting investment earnings.  Foreign Currency  The Company has subsidiary operations in Hong Kong and customers in the PRC, and, accordingly,
+the Company is exposed to transaction gains and losses that could result from changes in foreign currency exchange rates. The Company uses the local currency Hong Kong dollars as the functional currency for its Valence subsidiaries. Translation
+adjustments resulting from the process of translating foreign currency financial statements into U.S. dollars were not significant in Fiscal 2001, 2000 and 1999 due to the fact that the value of the Hong Kong dollar is currently pegged to the U.S.
+dollar, and the exchange rate remained relatively constant throughout such fiscal years. Cash balances maintained by Valence in excess of normal operating requirements are invested in U.S. denominated bank accounts further reducing balance sheet
+exposure to changes in foreign currency exchange rates. Under the current circumstances, the Company believes that the foreign currency market risk is not material. The Company actively monitors its foreign exchange exposure and, should
+circumstances change, intends to implement strategies to reduce its risk at such time that it determines that the benefits of such strategies outweigh the associated costs. There can be no assurance that managements efforts to reduce foreign
+exchange exposure will be successful.  Interest Rates  The Companys exposure to market risk for changes in interest rates, relates primarily to our invested balances of cash, cash equivalents and investments. The Companys investment policy specifies excess
+funds are to be invested in a manner that preserves capital, provides liquidity and generates the highest available after-tax return. To limit exposure to market risk, the Company places its cash in banks, cash equivalents in high quality,
+short-term commercial paper and money market funds and investments consist of short-term municipal bonds. The Company does not invest in any derivative instruments. The fair value of the Companys cash, cash equivalents and investments or
+related income would not be significantly impacted by either a 100 basis point increase or decrease in interest rates as most investments are at fixed rates and are relatively short term. All cash, cash equivalents and investments are carried at
+fair value, which approximates cost. 
+36 Table of Contents
+Item 8.
+Financial Statements and Supplementary Data   
+Page 
+CONSOLIDATED FINANCIAL STATEMENTS: 
+Independent Auditors Report 
+38 
+Consolidated Balance Sheets as of December 31, 2001 and 2000 
+39 
+Consolidated Statements of Operations for the years ended December 31, 2001, 2000 and 1999 
+40 
+Consolidated Statements of Stockholders Equity and Comprehensive Loss for the years ended December 31, 2001, 2000 and
+1999 
+41 
+Consolidated Statements of Cash Flows for the years ended December 31, 2001, 2000 and 1999 
+42 
+Notes to Consolidated Financial Statements 
+43 
+FINANCIAL STATEMENT SCHEDULE: 
+Schedule IIValuation and Qualifying Accounts and Reserves for the years ended December 31, 2001, 2000 and 1999 
+59 
+The Quarterly Financial Information required by this Item 8 is set forth in Item
+7 of this Annual Report on Form 10-K and is hereby incorporated into this Item 8. 
+37 Table of Contents
+INDEPENDENT AUDITORS REPORT  To the Board of Directors and Stockholders of SRS Labs, Inc.:  We have audited the accompanying consolidated balance sheets of SRS Labs, Inc. and subsidiaries the Company as of December 31, 2001 and
+2000, and the related consolidated statements of operations, stockholders equity and comprehensive loss and cash flows for each of the three years in the period ended December 31, 2001. Our audits also included the financial statement schedule
+listed in the Index to Financial Statements at 

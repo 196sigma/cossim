@@ -1,0 +1,2696 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA REPORT OF MANAGEMENT To the Board of Directors and Stockholders of
+RSA Security Inc. and Subsidiaries Management is responsible for preparing the RSA Security Inc. financial
+statements and the other information that appears in this annual report.
+Management believes that the financial statements fairly reflect the form and
+substance of transactions and reasonably present the Companys financial
+condition and results of operations in conformity with accounting principles
+generally accepted in the United States. Management has included in the
+Companys financial statements amounts that are based on estimates and
+judgments, which it believes are reasonable under the circumstances.
+The Company maintains a system of internal accounting policies, procedures,
+and controls intended to provide reasonable assurance, at appropriate cost,
+that transactions are executed in accordance with Company authorization and
+are properly recorded and reported in the financial statements, and that
+assets are adequately safeguarded.
+Deloitte Touche LLP, the independent auditing firm, is retained to audit
+the Companys consolidated financial statements. Their accompanying report is
+based on an audit conducted in accordance with auditing standards generally
+accepted in the United States of America.
+The RSA Security Inc. Board of Directors has an Audit Committee composed of
+independent Directors. The Committee meets with financial management and the
+independent auditors to review internal accounting controls and accounting,
+auditing, and financial reporting matters. s/ Arthur W. Coviello, Jr.
+Arthur W. Coviello, Jr.
+Chief Executive Officer and President s/ Jeffrey D. Glidden
+Jeffrey D. Glidden
+Senior Vice President, Finance and Operations,
+and Chief Financial Officer and Treasurer
+March4, 2004 41 Table of Contents
+INDEPENDENT AUDITORS REPORT To the Board of Directors and Stockholders of
+RSA Security Inc. and Subsidiaries We have audited the accompanying consolidated balance sheets of RSA Security
+Inc. and subsidiaries as of December31, 2003 and 2002, and the related
+consolidated statements of operations, stockholders equity, and cash flows for
+each of the three years in the period ended December31, 2003. Our audits also
+included the financial statement schedule listed in  a 2. These
+financial statements and financial statement schedule are the responsibility of
+the Companys management. Our responsibility is to express an opinion on the
+financial statements and financial statement schedule based on our audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of RSA Security Inc. and subsidiaries
+as of December31, 2003 and 2002, and the results of their operations and their
+cash flows for each of the three years in the period ended December31, 2003 in
+conformity with accounting principles generally accepted in the United States
+of America. Also, in our opinion, such financial statement schedule, when
+considered in relation to the basic consolidated financial statements taken as
+a whole, presents fairly in all material respects the information set forth
+therein.
+As discussed in Notes 1 and 2 of the Notes to Consolidated Financial
+Statements, in 2002 the Company adopted the provisions of Statement of
+Financial Accounting Standards No142, Goodwill and Other Intangible Assets. s/ DELOITTE TOUCHE LLP Boston, Massachusetts
+March4, 2004
+42 Table of Contents RSA SECURITY INC. AND SUBSIDIARIES
+Consolidated Balance Sheets
+In thousands, except share data   
+December 31   
+2003
+2002   
+ASSETS
+Current assets
+Cash and cash equivalents
+$
+207,323
+$
+103,030
+Accounts receivable less allowance for doubtful accounts
+of $1,849 in 2003 and $2,494 in 2002
+33,310
+35,666
+Inventory
+4,011
+2,334
+Prepaid expenses and other assets
+6,641
+5,567
+Refundable income taxes
+11,062
+57,643
+Deferred taxes
+2,942
+3,829
+Total current assets
+265,289
+208,069
+Property and equipment, net
+68,149
+73,376
+Other assets
+Goodwill, net
+189,260
+192,629
+Investments
+1,400
+Other
+6,879
+7,374
+Total other assets
+196,139
+201,403
+$
+529,577
+$
+482,848
+LIABILITIES AND STOCKHOLDERS EQUITY
+Current liabilities
+Convertible debentures
+$
+78,877
+Accounts payable
+8,021
+$
+6,966
+Accrued payroll and related benefits
+16,246
+11,256
+Accrued expenses and other liabilities
+18,955
+17,543
+Current portion of accrued restructurings
+9,043
+11,601
+Income taxes accrued and payable
+29,128
+33,484
+Deferred revenue
+34,625
+33,170
+Total current liabilities
+194,895
+114,020
+Deferred taxes, long-term
+7,046
+1,592
+Accrued restructurings, long-term
+18,861
+26,325
+Convertible debentures
+77,477
+Total liabilities
+220,802
+219,414
+Commitments and Contingencies
+Stockholders equity
+Common stock, $001 par value; authorized, 300,000,000 shares; issued, 62,144,158
+shares;
+outstanding, 60,870,590 and 57,066,695 shares in 2003 and 2002, respectively
+621
+621
+Additional paid-in capital
+100,824
+Retained earnings
+359,730
+354,496
+Treasury stock, at cost; 1,273,568 and 5,077,463 shares in 2003 and 2002, respectively
+53,852
+190,554
+Accumulated other comprehensive income loss
+2,276
+1,953
+Total stockholders equity
+308,775
+263,434
+$
+529,577
+$
+482,848
+See accompanying notes to consolidated financial statements. 43 Table of Contents RSA SECURITY INC. AND SUBSIDIARIES
+Consolidated Statements of Operations
+In thousands, except per share data   
+Years Ended December 31   
+2003
+2002
+2001   
+Revenue
+Products
+$
+193,664
+$
+168,954
+$
+222,382
+Maintenance and professional services
+66,202
+63,130
+60,338
+Total revenue
+259,866
+232,084
+282,720
+Cost of revenue
+Products
+32,336
+35,772
+38,226
+Maintenance and professional services
+20,877
+22,207
+28,456
+Impairment of technology related intangible assets
+14,333
+Amortization of technology related intangible assets
+6,587
+3,281
+Total cost of revenue
+53,213
+78,899
+69,963
+Gross profit
+206,653
+153,185
+212,757
+Costs and expenses
+Research and development
+53,629
+55,061
+58,345
+Marketing and selling
+94,298
+100,673
+122,915
+General and administrative
+33,776
+30,256
+39,127
+Restructurings
+56,036
+19,956
+Impairment of intangible assets
+4,807
+Amortization of intangible assets
+3,337
+11,171
+In process research and development
+7,891
+Total
+181,703
+250,170
+259,405
+Income lossfrom operations
+24,950
+96,985
+46,648
+Interest expenseincome and other
+7,962
+8,778
+5,860
+Income lossfrom investing activities
+1,568
+30,937
+40,836
+Income lossbefore provision benefitfor income taxes
+18,556
+136,700
+48
+Provision benefitfor income taxes
+3,720
+39,876
+2,555
+Net income loss
+$
+14,836
+$
+96,824
+$
+2,507
+Basic earnings lossper share
+Per share amount
+$
+025
+$
+171
+$
+004
+Weighted average shares
+58,758
+56,621
+56,259
+Diluted earnings lossper share
+Per share amount
+$
+024
+$
+171
+$
+004
+Weighted average shares
+58,758
+56,621
+56,259
+Effect of dilutive equity instruments
+3,546
+Adjusted weighted average shares
+62,304
+56,621
+56,259
+See accompanying notes to consolidated financial statements. 44 Table of Contents RSA SECURITY INC. AND SUBSIDIARIES
+Consolidated Statements of Stockholders Equity
+In thousands, except share data   
+Accumulated
+Other
+Additional
+Comprehensive
+Total   
+Common Stock
+Paid-in-
+Retained
+Treasury Stock
+Income
+Stockholders   
+Shares
+Amount
+Capital
+Earnings
+Shares
+Amount
+Loss
+Equity   
+Balance, January1, 2001
+62,144,158
+$
+621
+$
+213,826
+$
+453,827
+5,977,806
+$
+218,962
+$
+31,692
+$
+481,004
+Issuance of common stock
+from exercise of stock
+options and purchase plans
+57,261
+2,457,030
+90,855
+33,594
+Tax benefit on the exercise
+of stock options
+15,828
+15,828
+Assumption of Xcert
+International Inc. stock
+options
+3,730
+3,730
+Issuance of warrants in
+connection with convertible
+debt issuance
+4,149
+4,149
+Share repurchase program
+2,213,500
+89,974
+89,974
+Put option premiums
+7,565
+7,565
+Put option settlements
+63,815
+63,815
+Comprehensive loss:
+Translation adjustment
+2,188
+2,188
+Unrealized loss on
+marketable securities, net
+33,973
+33,973
+Net loss
+2,507
+2,507
+Total comprehensive loss
+38,668
+Balance, December31, 2001
+62,144,158
+621
+124,022
+451,320
+5,734,276
+218,081
+4,469
+353,413
+Issuance of common stock
+from exercise of stock
+options and purchase plans
+23,566
+656,813
+27,527
+3,961
+Tax benefit on the exercise
+of stock options
+328
+328
+Stock compensation
+40
+40
+Comprehensive loss:
+Translation adjustment
+2,938
+2,938
+Unrealized loss on
+marketable securities, net
+422
+422
+Net loss
+96,824
+96,824
+Total comprehensive loss
+94,308
+Balance, December31, 2002
+62,144,158
+621
+100,824
+354,496
+5,077,463
+190,554
+1,953
+263,434
+Issuance of common stock
+from exercise of stock
+options and purchase plans
+$
+106,309
+9,602
+3,803,895
+136,702
+20,791
+Tax benefit on the exercise
+of stock options
+5,485
+5,485
+Comprehensive income:
+Translation adjustment
+4,229
+4,229
+Net income
+14,836
+14,836
+Total comprehensive income
+19,065
+Balance, December31, 2003
+62,144,158
+$
+621
+$
+359,730
+1,273,568
+$
+53,852
+$
+2,276
+$
+308,775
+See accompanying notes to consolidated financial statements. 45 Table of Contents RSA SECURITY INC. AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+in thousands   
+Years Ended December 31   
+2003
+2002
+2001   
+Cash flows from operating activities
+Net income loss
+$
+14,836
+$
+96,824
+$
+2,507
+Adjustments to reconcile net income lossto net cash provided by used for operating
+activities:
+Depreciation
+13,223
+16,612
+15,184
+Amortization of goodwill and intangible assets
+9,924
+14,452
+Tax benefit from exercise of stock options
+5,485
+328
+15,828
+In process research and development
+7,891
+Non cash restructuring
+9,242
+4,350
+Non cash stock option compensation
+751
+Amortization of convertible debentures deferred financing costs
+1,605
+1,611
+329
+Non cash warrant accretion
+1,400
+1,375
+251
+Income loss from investing activities
+1,542
+2,249
+48,008
+Investment valuation impairment
+26
+28,689
+7,172
+Impairment of intangible assets
+19,140
+Deferred taxes
+11,825
+2,204
+6,665
+Increase decreasein cash from changes in, net of the effect of acquisitions:
+Accounts receivable
+2,857
+22,782
+1,657
+Inventory
+1,676
+6,923
+5,221
+Prepaid expenses and other assets
+846
+5,482
+12,600
+Accounts payable
+916
+198
+3,206
+Accrued payroll and related benefits
+4,201
+472
+7,328
+Accrued expenses and other liabilities
+1,170
+3,037
+4,656
+Accrued restructurings
+9,781
+27,566
+6,389
+Refundable income taxes and income taxes accrued and payable
+36,657
+21,459
+33,451
+Deferred revenue
+1,202
+3,825
+3,173
+Net cash provided by used for operating activities
+81,506
+42,036
+7,685
+Cash flows from investing activities
+Purchases of marketable securities
+36,411
+Sales and maturities of marketable securities
+1,150
+75,593
+Purchases of property and equipment
+4,247
+4,665
+36,173
+Proceeds from Crosby Finance, LLC
+53,460
+Investments
+3,041
+317
+23,231
+Acquisitions, net of cash acquired
+3,370
+997
+226,146
+Other
+1,377
+117
+515
+Net cash provided by used for investing activities
+787
+4,312
+192,393
+Cash flows from financing activities
+Proceeds from exercise of stock options and purchase plans
+20,791
+3,961
+33,594
+Share repurchase program
+89,974
+Issuance of convertible debentures, net
+75,235
+Settlement of put option contracts
+63,815
+Sale of put options
+7,565
+Other
+18
+Net cash provided by used for financing activities
+20,791
+3,943
+37,395
+Effect of exchange rate changes on cash and cash equivalents
+1,209
+583
+2,478
+Net increase decreasein cash and cash equivalents
+104,293
+41,084
+239,951
+Cash and cash equivalents, beginning of year
+103,030
+61,946
+301,897
+Cash and cash equivalents, end of year
+$
+207,323
+$
+103,030
+$
+61,946
+Cash payments for interest expense
+were $5,724, $3,947 and zero in 2003, 2002 and 2001,
+respectively.
+Cash payments for income taxes were approximately $1,749, $1,791 and $11,357 in 2003, 2002 and 2001, respectively.
+See accompanying notes to consolidated financial statements 46 Table of Contents RSA SECURITY INC. AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+In thousands, except share and per share data 1.Nature of Business and Summary of Significant Accounting Policies
+Nature of Business RSA Security Inc. and its subsidiaries the Company
+provide interoperable solutions for establishing online identities, access
+rights and privileges for people, applications and devices. Built to work
+seamlessly in the complex environments of its customers, the Companys
+portfolio of e-security solutions includes identity and access management,
+secure mobile and remote access, secure enterprise access and secure
+transactions. The Company sells to Enterprise customers seeking turnkey
+security solutions, and to Developers seeking software development components
+for embedding security in software applications or hardware devices.
+Principles of Consolidation The consolidated financial statements include
+the accounts of the Company and its wholly owned subsidiaries. All significant
+intercompany accounts and transactions have been eliminated.
+Use of Estimates The preparation of the Companys consolidated financial
+statements in conformity with accounting principles generally accepted in the
+United States of America requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenue and expenses during the reporting periods. On
+an ongoing basis, the Company evaluates its estimates. The Company bases its
+estimates on historical experience and on various other assumptions that the
+Company believes are reasonable under the circumstances. Actual results could
+differ from those estimates.
+Revenue Recognition Revenue is recognized when earned. The Companys revenue
+recognition policies are in compliance with all applicable accounting
+principles generally accepted in the United States of America, including the
+American Institute of Certified Public Accountants Statement of Position
+SOP 97-2, Software Revenue Recognition, and SOP 98-9, Modification of
+SOP 97-2 With Respect to Certain Transactions. The Company recognizes revenue
+from the sale of products when persuasive evidence of an arrangement exists,
+delivery has occurred, the fee is fixed or determinable, and collection is
+considered probable. The Company recognizes revenue from licensing other
+intellectual property when evidence of an arrangement exists, the fee is fixed
+or determinable and collection is considered probable. The Company reduces
+revenue by provisions for estimated returns. When arrangements contain multiple
+elements and vendor specific objective evidence of fair value exists for all
+undelivered elements, the Company recognizes revenue for the delivered elements
+using the residual method. For arrangements containing multiple elements where
+vendor specific objective evidence of fair value does not exist for all
+undelivered elements, the Company defers revenue for the delivered and
+undelivered elements until vendor specific objective evidence of fair value
+exists or all elements have been delivered. In accordance with Statement of
+Financial Accounting Standards SFAS No48, Revenue Recognition when Right
+of Return Exists, the Company recognizes revenue upon shipment of product to
+its stocking distributors, net of estimated returns. The Company defers
+maintenance services revenue, whether sold separately or as part of a multiple
+element arrangement, and recognizes it ratably over the term of the maintenance
+contract, generally twelve months.
+For arrangements which contain an initial prepaid license fee with the payment
+of ongoing royalties, the Company recognizes revenue on the initial prepaid
+license fee when persuasive evidence of an arrangement exists, delivery has
+occurred, the fee is fixed or determinable and collection is considered
+probable. The ongoing royalties are recognized at the time a reliable estimate
+can be made of the actual usage that has occurred, provided collection is
+probable. Annual license fees or onetime license fee arrangements typically
+contain non-refundable terms, therefore the Company recognizes revenue when
+persuasive evidence of an arrangement exists, delivery has occurred, the fee is
+fixed or determinable and collection is considered probable.
+The Company recognizes revenue allocated to professional service elements as
+the services are performed. When the customization is essential to the
+functionality of the licensed software, then both the software license and
+professional services revenue are recognized under the percentage of completion
+method, which requires revenue to be recognized as a percentage of the project
+completed. The Company recognizes revenue and gross profit using labor hours as
+an input measure of progress to completion on these arrangements.
+Allowance for Sales Returns Allowances for estimated sales returns and
+allowances on products and maintenance and professional service revenue are
+recorded in the same period as the related revenue is recorded. The Company
+bases these estimates on historical sales returns, analysis of credit memo
+data, current economic trends, product line and customer industry and other
+known factors.
+Allowance for Doubtful Accounts The Company maintains allowances for doubtful
+accounts for estimated losses resulting from the inability of the Companys
+customers to make required payments. The Company analyzes accounts receivable
+and the composition of
+the accounts receivable aging, historical bad debts, customer creditworthiness,
+current economic trends, and changes in customer
+47 Table of Contents
+payment terms when evaluating
+the adequacy of the allowance for doubtful accounts. Bad debt expense is
+included in marketing and selling expenses in the consolidated statements of
+operations.
+Allowance for Warranty Obligations The Companys standard practice is to
+provide a warranty on all RSA SecurID hardware authenticators for the customer
+selected programmed life of the authenticator generally two to five years and
+to replace any defective authenticators other than authenticators damaged by a
+users abuse or alteration free of charge. The Company sells its other
+products to customers with a warranty for product defects for a specified
+period, generally ninety days. The Company provides reserves for warranty
+obligations based on historical failure and defective return rates and includes
+these costs as a component of product cost of revenue. The Company reevaluates
+the estimate of warranty and defective return obligations, including the
+assumptions about estimated failure and return rates, each quarter.
+During 2002 and 2003, the Companys quarterly analysis of historical failure
+and defective return rates indicated that certain authenticators produced
+between 2000 and 2002 were subject to higher defect and failure rates. The
+Company has increased its provisions for warranty expense accordingly. The
+Company will continue to monitor warranty claims and reevaluate its estimate of
+warranty and defective return obligations in future periods, which may result
+in the Company recording additional warranty expense.
+The Company monitors warranty claims and addresses defects through its quality
+and design processes, which are managed by its product engineering, quality
+control and technical support organizations. During the last several years,
+the Company has increased resources and initiated new programs to build an
+expanded family of high performance authentication solutions. These programs
+have resulted in the redesign and re-engineering of authenticator products to
+improve performance and reliability by incorporating new microprocessors,
+electronics, firmware and batteries with longer life.
+Accrued warranty reserve is included in accrued expenses and other liabilities
+in the condensed consolidated balance sheets and was as follows   
+Years Ended December 31   
+2003
+2002
+2001   
+Balance, beginning of period
+$
+1,566
+$
+124
+$
+105
+Provision for warranty expense
+4,614
+2,752
+490
+Deductions
+2,302
+1,310
+471
+Balance, end of period
+$
+3,878
+$
+1,566
+$
+124
+Cash Equivalents All highly liquid investments purchased with a remaining
+maturity of three months or less are considered cash equivalents.
+Inventory Inventory consists primarily of RSA SecurID authenticators and is
+stated at the lower of cost first-in, first-out method or market.
+Property and Equipment Property and equipment are stated at cost and
+revalued for effects of foreign currency translation. Furniture and equipment
+are depreciated by the straight-line method over the estimated useful lives of
+the assets, generally two to ten years. Leasehold improvements are depreciated
+by the straight-line method over the lease term or estimated useful live of the
+related asset, whichever is shorter. Buildings are depreciated over fifty
+years, the estimated useful life. Property and equipment sold or retired is
+eliminated from the accounts in the year of disposition and the resulting gain
+or loss is reflected in earnings.
+Goodwill and Intangible Assets Goodwill and other acquisition related
+identifiable intangible assets are stated at fair value as of the date acquired
+in a business acquisition accounted for as a purchase, net of accumulated
+amortization. Effective January1, 2002 the adoption of SFAS No142, Goodwill
+and Other Intangible Assets, required that the amortization of goodwill and
+indefinite lived intangible assets be discontinued, and instead be evaluated at
+least annually for impairment. Accordingly, the Company discontinued amortizing
+goodwill and indefinite lived intangible assets as of January1, 2002. The
+Company evaluates goodwill for impairment on November30 of each year and at an
+interim date if events or circumstances occur that would more likely than not
+reduce the fair value of the goodwill below its carrying amount. The Company
+evaluates the carrying value of goodwill and other intangible assets against
+the estimated fair value of its assets and will record an impairment charge in
+the amount by which the carrying value of the assets exceed their estimated
+fair value. Estimated fair value is determined based on estimated discounted
+future cash flows or a market multiple valuation method.
+Impairment of Long-Lived Assets Other Than Goodwill The Company tests
+long-lived assets for recoverability whenever events or
+changes in circumstances indicate that their carrying amount may not be
+recoverable. The recoverability of long-lived assets is assessed by comparing
+the undiscounted cash flows expected to be generated to the carrying value of
+the assets. If the sum of the undiscounted cash flows is less than the
+carrying value of the assets, an impairment charge is recognized. The amount of
+an
+48 Table of Contents
+impairment charge is determined by comparing the carrying amount of the
+long-lived asset to its fair value. Fair value is determined based on
+estimated discounted cash flows.
+Deferred Financing Costs Deferred financing costs include investment bank
+fees, legal fees and other financing costs paid in connection with the issuance
+of convertible debentures and are included on the consolidated balance sheets
+in other assets. Deferred financing costs are amortized over the period the
+convertible debentures are outstanding using the straight line method, which is
+not materially different from the effective interest rate method.
+Financial Instruments The carrying amounts of cash and cash equivalents,
+marketable securities, accounts receivable and accounts payable approximate
+fair value due to the short-term nature of these instruments. The carrying
+value of the convertible debentures is the principal balance of the debentures
+outstanding less the fair value of the warrants outstanding, net of accumulated
+accretion of the warrants fair value. The Company believes the carrying value
+of the convertible debentures approximates the fair value.
+The Company accounts for its investment in Crosby Finance, LLC Crosby under
+Emerging Issues Task Force EITF Issue No96-12, Recognition of Interest
+Income and Balance Sheet Classification of Structured Notes. The Company is
+carrying its interest in Crosby at fair value with all changes in fair value
+included in income from investing activities in the consolidated statements of
+operations. The Company determines the fair value based on the fair value of
+Crosbys right to potentially receive additional cash proceeds under a variable
+delivery forward contract that Crosby holds.
+Investments where ownership is less than 20% and the Company does not have
+significant influence on the operating or financial decisions of the investee
+are accounted for using the cost method. The carrying value of investments is
+equal to cost less investment valuation impairment charges. The Company
+regularly considers available evidence in evaluating its investments for
+potential impairment. Certain events, such as an initial public offering, could
+result in the reclassification of an investment to an available for sale
+marketable security.
+Research and Development Research and development costs are expensed as
+incurred. SFAS No86, Accounting for the Costs of Computer Software to be
+Sold, Leased or Otherwise Marketed, does not materially affect the Company.
+Advertising Advertising costs are expensed as incurred and were
+approximately $869, $2,950, and $4,496 in 2003, 2002 and 2001, respectively.
+Income Taxes Deferred income taxes are recognized based on temporary
+differences between the financial statement and tax bases of assets and
+liabilities. Deferred tax assets and liabilities are measured using the
+statutory tax rates and laws expected to apply to taxable income in the years
+in which the temporary differences are expected to reverse. Valuation
+allowances are provided against net deferred tax assets if, based upon the
+available evidence, it is more likely than not that some or all of the deferred
+tax assets will not be realized. The ultimate realization of deferred tax
+assets is dependent upon the generation of future taxable income and the timing
+of the temporary differences becoming deductible. Management considers, among
+other available information, scheduled reversals of deferred tax liabilities,
+projected future taxable income, and other matters in making this assessment.
+Income taxes are provided on undistributed earnings of foreign subsidiaries
+where such earnings are expected to be remitted to the U.S. parent company.
+The Company determines annually the amount of unremitted earnings of foreign
+subsidiaries to invest indefinitely in its non-U.S. operations. Unrecognized
+provisions for taxes on undistributed earnings of foreign subsidiaries, which
+are considered permanently invested, are not material to the Companys
+consolidated financial position or results of operations.
+Foreign Currency The financial statements of the Companys foreign
+subsidiary in Ireland are measured using the U.S. dollar as its functional
+currency. The financial statements of all other of the Companys foreign
+branches and subsidiaries are measured using the local currencies as the
+functional currencies. Assets and liabilities of these branches and
+subsidiaries are translated to their U.S. dollar equivalents at balance sheet
+date exchange rates and translation adjustments are recorded in accumulated
+other comprehensive income. Statements of operations of foreign branches and
+subsidiaries are translated from functional currencies to U.S. dollar
+equivalents at average exchange rates in effect during the year and any gain or
+loss from these translations are also included in accumulated other
+comprehensive income. Foreign currency transaction gains and losses are
+included in interest expense, income and other in the consolidated statements
+of operations.
+Earnings Loss Per Share The Company computes basic earnings lossper
+share using the weighted average number of common shares outstanding. The
+Company computes diluted earnings per share using the weighted average number
+of shares outstanding plus
+the effect of potential outstanding shares, including options and warrants,
+using the treasury stock method. Diluted loss per share excludes the effect
+of equity instruments including convertible debentures, options and warrants,
+as such instruments are antidilutive.
+49 Table of Contents
+Common Stock Split On February1, 2001, the Companys Board of Directors
+declared a three-for-two stock split, which was effected in the form of a
+common stock dividend. Shares were distributed on March26, 2001 to
+stockholders of record on March9, 2001. All references to common stock and
+per share amounts in this Annual Report on Form10-K have been adjusted to
+reflect the three-for-two common stock split on a retroactive basis.
+Common Stock Warrants Warrants to purchase shares of the Companys common
+stock are recorded at fair value. The Company estimated the fair value of
+warrants using the Black-Scholes model at the time of issuance. The fair value
+of the warrants is amortized over the expected life of the related 7%
+convertible debentures using the straight-line method, which is not materially
+different than the effective interest rate method.
+Treasury Stock Shares of the Companys common stock that are repurchased are
+recorded in treasury stock at cost and included as a component of stockholders
+equity. The Company relieves the costs associated with the reissuance of
+shares of common stock out of treasury using the first-in first-out method.
+Concentration of Credit Risk The Company provides e-security solutions to
+various customers in diverse industries. The Company performs ongoing credit
+evaluations of its customers and maintains allowances for potential credit
+losses. The Company has a non-recourse arrangement with a major financial
+institution, under which certain of the Companys qualified customers can
+obtain financing directly from the financial institution at their own
+discretion.
+Stock-Based Compensation Plans Stock-based compensation cost is accounted
+for using the intrinsic value method in accordance with Accounting Principles
+Board Opinion No25, Accounting for Stock Issued to Employees. Under this
+intrinsic value method, compensation expense, if any, is recognized based on
+the difference between the fair value of the underlying stock and the price of
+the option at the measurement date. Measurement date is defined as that time
+when both the number of shares and the exercise price become known.
+Pro Forma Disclosure Had the Company recognized compensation costs for its
+stock option and purchase plans based on the fair value for awards under those
+plans, in accordance with SFAS No123 Accounting for Stock Based
+Compensation, pro forma net income lossand pro forma net income lossper
+share would have been as follows   
+Years Ended December 31   
+2003
+2002
+2001   
+Net income lossas reported
+$
+14,836
+$
+96,824
+$
+2,507
+Add: stock based compensation expense included in reported net loss,
+net of related tax effects
+488
+Less: stock based compensation expense determined under fair value
+method for all awards, net of related tax effects
+36,178
+37,676
+25,711
+Pro forma net loss
+$
+21,342
+$
+134,500
+$
+27,730
+Net income lossper share:
+Basic earnings lossper share as reported
+$
+025
+$
+171
+$
+004
+Basic loss per share pro forma
+$
+036
+$
+238
+$
+049
+Diluted earnings lossper share as reported
+$
+024
+$
+171
+$
+004
+Diluted loss per share pro forma
+$
+036
+$
+238
+$
+049
+The fair values used to compute pro forma net lossincome and pro forma net
+lossincome per share were estimated fair value at grant date using the
+Black-Scholes option-pricing model with the following weighted average
+assumptions   
+Years Ended December 31   
+2003
+2002
+2001   
+Stock Option Plans:
+Risk-free interest rate
+28
+%
+38
+%
+46
+Expected life of option grants years
+43
+44
+41
+Expected volatility of underlying stock
+870
+%
+900
+%
+830
+Expected dividend payment rate
+00
+%
+00
+%
+00
+Expected forfeiture rate
+75
+%
+75
+%
+75
+Weighted average fair value of stock options granted
+$
+657
+$
+311
+$
+1893
+50 Table of Contents   
+Years Ended December 31   
+2003
+2002
+2001   
+Employee Stock Purchase Plan:
+Risk-free interest rate
+11
+%
+17
+%
+57
+Expected life of option grants years
+05
+05
+05
+Expected volatility of underlying stock
+770
+%
+1120
+%
+830
+Expected dividend payment rate
+00
+%
+00
+%
+00
+Weighted average fair value of purchase rights granted
+$
+268
+$
+214
+$
+1491
+Reclassification Certain previously disclosed and prior year amounts have
+been reclassified to conform to the 2003 presentation, including amortization
+of technology related intangible assets of $6,587 and $3,281 for the years
+ended December31, 2002 and 2001, respectively, and impairments of technology
+related intangible assets of $14,333 for the year ended December31, 2002, have
+been reclassified from operating expenses to cost of revenue.
+New Accounting Pronouncements Interpretation No46 In January 2003, the
+Financial Accounting Standards Board FASB issued Interpretation No46,
+Consolidation of Variable Interest Entities, which was revised by FIN 46R
+issued in December 2003 FIN46. This interpretation of Accounting Research
+Bulletin No51, Consolidated Financial Statements, addresses consolidation
+by business enterprises of variable interest entities VIE that either: do
+not have sufficient equity investment at risk to permit the entity to finance
+its activities without additional subordinated financial support, or for which
+the equity investors lack an essential characteristic of a controlling
+financial interest. FIN 46 also sets forth certain disclosure requirements
+regarding interests in VIE that are deemed significant, even if consolidation
+is not required. FIN 46 applies to interim periods ending after March15,
+2004. The Company believes the adoption of FIN 46 will not require the
+consolidation of the Companys investment in Crosby and therefore will not have
+a significant impact on its consolidated financial position or results of
+operations.
+2.Acquisitions
+During 2001, the Company completed four acquisitions, which were accounted for
+as purchases. Accordingly, the results of operations of the acquired companies
+have been included in the consolidated statements of operations since their
+respective dates of acquisition. Costs related to these acquisitions are for
+investment banking, professional fees and other direct costs, including
+employee severance and facilities closure. These costs were recorded on the
+dates of acquisition and have been included in the allocation of the purchase
+prices.
+On September4, 2001, the Company completed its acquisition of all of the
+capital stock of Securant Technologies, Inc., Securant a privately held
+company that developed the ClearTrust Web access management solution; on May
+16, 2001, the Company completed its acquisition of all of the capital stock of
+3-G International, Inc., 3GI a privately held company that developed smart
+card and biometric authentication products; on May22, 2001, the Company
+completed its acquisition of substantially all the assets of Transindigo Inc
+Transindigo, a privately held company that developed real time Web access
+management software products; and on February12, 2001, the Company completed
+its acquisition of all of the capital stock of Xcert International, Inc.,
+XCert a privately held company that developed digital certificate-based
+products for securing e-business transactions.
+The adjusted purchase prices and costs of the Securant, 3GI, Transindigo and
+Xcert acquisitions were as follows   
+3GI and
+Securant
+Xcert
+Transindigo
+Total   
+Cash paid to sellers or shareholders
+$
+131,203
+$
+64,366
+$
+19,752
+$
+215,321
+Stock options assumed
+3,095
+3,095
+Acquisition costs
+7,924
+5,357
+1,421
+14,702
+Litigation costs
+2,525
+2,525
+Total purchase price
+$
+139,127
+$
+72,818
+$
+23,698
+$
+235,643
+Pursuant to two separate escrow agreements entered into in connection with the
+Securant acquisition, $21,000 of the cash purchase price otherwise payable to
+Securants shareholders was placed in escrow, pending settlement of any claims
+for breach of representations, warranties or covenants in the merger agreement.
+One escrow agreement put $20,000 of the purchase price into an escrow fund. The
+Company received $3,300 from this Securant escrow fund during the year ended
+December31, 2003 in final settlement of outstanding escrow fund claims, which
+resulted in a decrease to goodwill of $3,300. The remainder of the escrow fund
+was released to the selling shareholders during March 2003. The second escrow
+agreement put $1,000 of the Securant purchase price
+into an escrow fund. The remaining unclaimed balance of the $1,000 Securant
+escrow fund not subject to a pending claim is scheduled to be released to the
+selling shareholders during 2005.
+Pursuant to an escrow agreement, $3,000 of the cash purchase price otherwise
+payable to 3GIs stockholders was placed in escrow, pending settlement of any
+claims for breaches of representations, warranties or covenants in the merger
+agreement. The Company submitted claims against the 3GI escrow totaling
+approximately $3,000 and received an aggregate of $2,637 from the 3GI escrow
+fund 51 Table of Contents
+in settlement of these claims, of which $70 was received during 2003,
+resulting in a decrease to goodwill of $70 during 2003. The remainder of the
+escrow fund was released to the selling stockholders during March 2003.
+Pursuant to an escrow agreement, $10,500 of the cash purchase price otherwise
+payable to Xcerts stockholders was placed in escrow, pending settlement of any
+claims for breaches of representations, warranties or covenants in the merger
+agreement. The Company released all but $500 of the Xcert escrow fund to the
+selling stockholders in August 2002. The Company received approximately $64
+from the escrow fund in settlement of certain tax issues during 2002, and the
+balance of the $500 was released to the selling stockholders during 2003.
+As a result of the Companys adoption of SFAS No142, Goodwill and Other
+Intangible Assets, on January1, 2002 the Company reclassified in-place
+workforce related intangible assets of $5,689, $2,021 and $569 arising from the
+acquisitions of Xcert, 3GI and Transindigo, respectively, into goodwill,
+resulting in an increase to goodwill and a decrease to the carrying value of
+intangible assets of $8,279. In addition, upon reclassification of in-place
+workforce related intangible assets to goodwill and the determination of
+indefinite lived assets, the Company reversed the deferred tax liabilities
+related to these intangible assets. The reversal of deferred tax liabilities of
+$2,269 and $852 relating to the Xcert and 3GI acquisitions, respectively,
+resulted in a decrease to goodwill and deferred tax liabilities of $3,121 for
+the year ended December31, 2002.
+In 2002, the Company paid $591 to Xcert stockholders upon finalization of the
+working capital calculation. The cost of the working capital adjustment has
+been added to the purchase price of Xcert and resulted in an increase to
+goodwill of $591 during the year ended December31, 2002.
+The Company incurred litigation expenses in connection with a patent litigation
+relating to the products acquired in the May 2001 acquisition of 3GI and
+recorded these expenses as related costs of acquisition. The costs to defend
+the 3GI lawsuit were covered by the escrow fund set aside from the 3GI purchase
+price. The costs of litigation and disbursements from the 3GI escrow resulted
+in a net increase to goodwill of $39 during the year ended December31, 2002.
+Allocation of the purchase prices for all four acquisitions completed during
+2001 was based on estimates of the fair value of the assets acquired and
+liabilities assumed based on independent appraisals. These allocations were as
+follows at December31, 2003   
+Estimated Fair Values
+3GI and
+Estimated   
+Securant
+Xcert
+Transindigo
+Total
+Life   
+Assets and liabilities, including cash
+$
+584
+$
+4,756
+$
+6,791
+$
+10,963
+Goodwill
+123,597
+57,783
+13,595
+194,975
+Intangible assets 1
+19,650
+12,856
+2,851
+35,357
+1 to 7 years   Deferred tax liabilities, net 1
+7,286
+5,148
+1,109
+13,543
+In process research and development
+3,750
+2,571
+1,570
+7,891
+Total purchase price
+139,127
+72,818
+23,698
+235,643
+Less: assumption of stock options
+3,095
+3,095
+Less: cash acquired
+2,136
+377
+6,883
+9,396
+Net cash paid
+$
+136,991
+$
+69,346
+$
+16,815
+$
+223,152
+1
+The Company recorded an impairment charge of $19,140 during
+2002, which reduced the carrying value of these intangible assets to
+zero at December31, 2002. Accordingly, the Company did not record
+any amortization expense related to these intangible assets after
+December31, 2002. As a result of this impairment charge, the
+Company reduced the related deferred tax liabilities to zero at
+December31, 2002. As a result of its adoption of SFAS No142, the Company discontinued
+amortizing all existing goodwill and indefinite lived intangible assets and did
+not record any related amortization expense after January1, 2002. Had the
+provisions of SFAS No141, Business Combinations and No142 been applied,
+the Companys net income lossand earnings lossper share would have been
+as follows 52 Table of Contents   
+Years Ended December 31   
+2003
+2002
+2001   
+Reported net income loss
+$
+14,836
+$
+96,824
+$
+2,507
+Add: Goodwill amortization
+7,667
+In-place workforce amortization
+1,575
+Trademark amortization
+100
+Less: Tax effect
+3,737
+Adjusted net income loss
+$
+14,836
+$
+96,824
+$
+3,098
+Per share amounts
+Reported basic earnings lossper share
+$
+025
+$
+171
+$
+004
+Effect of SFAS No141 and No142
+010
+Adjusted basic earnings lossper share
+$
+025
+$
+171
+$
+006
+Reported diluted earnings lossper share
+$
+024
+$
+171
+$
+004
+Effect of SFAS No141 and No142
+009
+Adjusted diluted earnings lossper share
+$
+024
+$
+171
+$
+005
+At December31, 2002, the Company applied the provisions of SFAS No144,
+Accounting for the Impairment or Disposal of Long-Lived Assets, to its
+acquired technologies, customer list, trademark and non-compete agreements
+intangible assets due to circumstances that indicated the carrying value of
+these intangible assets may not be recoverable. The circumstances that led the
+Company to believe that the carrying value of its intangible assets may not be
+recoverable primarily include lower than expected sales from the Companys
+products and higher than anticipated selling and marketing costs associated
+with the Companys products that contained or incorporated the acquired
+technology or products, and estimates of higher than initially anticipated
+resources needed to continue to be competitive in the selling environment of
+these products and technologies. During 2002, the Company prepared forecasts of
+estimated future cash flows for each of the product lines that incorporated the
+acquired technologies, customer list and non-compete agreements intangible
+assets and determined that the estimated undiscounted cash flows expected to be
+generated from the use of these intangible assets were less than the carrying
+value of the corresponding assets. These estimated undiscounted cash flows
+were based upon internal and external data, including an analysis of the
+current competitive selling environment, historical sales data, known
+operational resources and industry trends. The Company determined the amount of
+the impairment loss related to these intangible assets by comparing the
+carrying amount of these assets to their fair value at December31, 2002. The
+Company determined the fair value based on estimated discounted cash flows
+expected to be generated from the use of these assets. The fair value of the
+intangible assets was determined to be zero at December31, 2002, and
+accordingly, the Company recorded a $19,140 impairment charge for the year
+ended December31, 2002 to reduce the carrying amount of its intangible assets
+to their fair value.
+Intangible assets other than goodwill consisted of the following at December
+31, 2003 and 2002   
+Net Carrying
+Net Carrying   
+Gross
+Amount Before
+Amount After   
+Carrying
+Accumulated
+Impairment
+Impairment
+Impairment   
+Amount
+Amortization
+Charge
+Charge
+Charge   
+Amortized intangible assets:
+Technology
+$
+24,200
+$
+9,867
+$
+14,333
+$
+14,333
+Customer lists
+5,002
+2,271
+2,731
+2,731
+Trademarks
+1,506
+447
+1,059
+1,059
+Non compete agreements
+2,750
+2,446
+304
+304
+Other
+1,575
+1,575
+Intangible assets not subject to
+amortization other than goodwill:
+Trademarks
+882
+169
+713
+713
+Total intangible assets
+$
+35,915
+$
+16,775
+$
+19,140
+$
+19,140
+The amounts allocated to in process research and development IPRD projects
+were expensed in the quarter that the related acquisition was consummated if
+technological feasibility of the IPRD projects had not been achieved and no
+alternate future uses had been established. Research and development costs to
+bring the acquired products to technological feasibility are not expected to
+have a material impact on the Companys future results of operations or cash
+flows. IPRD expense of $7,891 for the year ended December31, 2001 represents
+the write off of IPRD in connection with the acquisitions of Securant, Xcert,
+3GI and Transindigo.
+53 Table of Contents
+3. Investments and Financial Instruments The Companys investments were as follows at   
+December 31   
+2003
+2002   
+Equity securities recorded at cost
+$
+1,000
+$
+26,220
+Impairment of equity securities recorded at cost
+1,000
+24,820
+Total equity securities recorded at cost
+1,400
+Investment in Crosby Finance, LLC
+208
+186
+Total investments
+$
+208
+$
+1,586
+Equity securities recorded at cost include preferred stock and common stock
+which is not publicly traded or whose sale is prohibited by contractual or
+statutory restrictions.
+Income lossfrom investing activities includes the following gains losses   
+Years Ended December 31   
+2003
+2002
+2001   
+Gain on sale of marketable securities, net
+$
+834
+$
+6,165
+Income losson sale of investments
+$
+1,542
+3,082
+Increase declinein fair value of Crosby Finance, LLC
+26
+6,823
+Settlement of forward contracts held by Crosby Finance, LLC
+41,843
+Investment impairment charges
+21,866
+7,172
+Total income lossfrom investing activities
+$
+1,568
+$
+30,937
+$
+40,836
+During 2002, the Company recognized total investment impairment charges
+totaling $21,866 related to its investments in privately held companies.
+Included in total investment impairment charges in 2002 and as a result of its
+initiation of a process to sell its equity investments the Company recorded an
+impairment charge of $11,966 to reflect the investments at their estimated
+realizable value, less costs of disposal. Also during 2002, and included in
+total investment impairment charges the Company recorded an impairment charge
+of $9,900 based upon valuations and anticipated cash proceeds to reduce the
+carrying amount of three investment to their estimated fair value for three
+companies in which the Company had invested that were in the process of
+obtaining additional financing or being sold. The Company considered offers to
+buy, recent valuations and current financial positions of the investments in
+estimating realizable value. Estimated realizable value of these investments
+less costs of disposal was $1,400 and was included in investments on the
+consolidated balance sheet at December31, 2002. The Company completed the sale
+of these investments during 2003 and recognized income of $1,542 from the sale
+of investments.
+In November 2000, the Company transferred 2,636,916 shares of VeriSign, Inc.
+VeriSign common stock, which were covered by three forward contracts
+Forwards and one variable delivery forward VDF, to Crosby, of which the
+Company is a 99% member. Crosby is a bankruptcy-remote qualified special
+purpose entity, established specifically to securitize the shares of VeriSign
+common stock. The contribution and the transfer have been accounted for as a
+sale under SFAS No125, Accounting for Transfers and Servicing of Financial
+Assets and Extinguishments of Liabilities. Accordingly, the Company does not
+consolidate Crosby for accounting purposes. The counterparty to the VDF
+contract holds the remaining 1% interest in Crosby.
+At December31, 2003, Crosby held 2,027,325 shares of VeriSign common stock and
+the VDF contract. The VDF contract entitles Crosby to receive cash proceeds of
+up to $35,336 depending on the market price of VeriSign common stock on January
+3, 2006. The closing price of VeriSigns common stock on The NASDAQ National
+Market on December31, 2003 was $1630 per share. Unless the value of the
+VeriSign stock appreciates to at least $8716 per share in January 2006, Crosby
+will not be entitled to any cash proceeds. Crosby has no liability or
+obligation to its members or to the counterparty to the VDF contract other than
+to deliver the shares of VeriSign common stock to the counterparty upon
+maturity of the VDF contract and to distribute the cash proceeds, if any, to
+its members. After settlement of the VDF in January 2006, Crosby will
+dissolve.
+The carrying amount of the Companys 99% interest in Crosby was $208 and $186
+at December31, 2002 and 2001, respectively, and is included in other assets on
+the consolidated balance sheets. The Company accounts for its investment in
+Crosby under the guidelines of EITF No96-12, Recognition of Interest Income
+and Balance Sheet Classification of Structured Notes. Before the settlement
+of the Forwards, the Company used the retrospective interest method to account
+for the Companys interest in Crosby as the Company believed it would recover a
+substantial amount of its interest. Any increases in the cost basis of the Companys interest
+in Crosby, determined by applying the retrospective interest method, were
+recorded in interest income. Any changes in the fair value
+54 Table of Contents
+of the Companys
+interest in Crosby were recorded in other comprehensive income in stockholders
+equity. In the fourth quarter of 2001, after the settlement of the last
+Forward, it became reasonably possible that the Company could lose all or
+substantially all of the value of its remaining interest, and therefore could
+no longer apply the retrospective interest method to its interest in Crosby.
+Accordingly, the Company is carrying its interest at fair value with all
+changes in fair value reported in income from investing activities in the
+statement of operations. The Company determines the fair value of its interest
+in Crosby is being determined based on the fair value of Crosbys right to
+potentially receive additional cash proceeds upon maturity of the VDF. The
+increase in the fair value of the Companys interest in Crosby was $26 for the
+year ended December31, 2003.
+The gain recorded for financial reporting purposes upon contribution of the VDF
+contract to Crosby in 2000 has not been recognized for tax purposes, and
+accordingly, the Company recorded a $26,619 deferred tax liability. This
+deferred tax liability will reverse upon maturity of the VDF contract in 2006,
+and the gain will be included in the calculation of the Companys taxable
+income for 2006. The recognition of that gain will result in a tax liability
+to the Company and may require the payment of cash to settle the tax liability.
+The Company has the right to appoint the members of the Board of Directors of
+Crosby, one of whom is required to be an independent director who is not an
+employee, director or stockholder of the Company or otherwise affiliated with
+the Company and who does not receive any direct or indirect benefit from the
+Company. The other members of the Crosby Board of Directors are two of the
+Companys officers. None of the Crosby directors has any ownership or interest
+in Crosby or its profits or assets, and with the exception of the independent
+director, none of the directors is compensated for serving as a director of
+Crosby. The Crosby Board of Directors manages the operations of Crosby, but
+neither the Crosby Board nor either of the members of Crosby has the power to
+cause Crosby to engage in any business other than holding shares of VeriSign
+common stock, the Forwards and the VDF and performing its obligations under the
+Forwards and the VDF contracts.
+4. Property and Equipment Property and equipment were as follows at   
+December 31   
+2003
+2002   
+Land
+$
+7,068
+$
+6,371
+Building
+20,707
+18,664
+Furniture and equipment
+83,356
+80,358
+Leasehold improvements
+32,435
+31,778
+Total
+143,566
+137,171
+Less: Accumulated depreciation and amortization
+75,417
+63,795
+Property and equipment, net
+$
+68,149
+$
+73,376
+5. Convertible Debentures In October and November 2001, the Company issued 7% convertible subordinated
+debentures due October17, 2004 with an aggregate principal amount of $80,000,
+which generated proceeds of $75,204, net of financing issuance costs. The
+debentures mature on October17, 2004, unless redeemed earlier by the Company
+as described below or converted into shares of the Companys common stock at
+the holders option.
+Interest is payable in cash semi-annually in arrears on January 1 and July 1 of
+each year at a fixed rate of 7% per annum. At any time and at their option,
+each holder may convert any outstanding debentures it holds into shares of the
+Companys common stock at a conversion price of $13745 per share, which upon
+conversion of all of the outstanding debentures would result in the issuance of
+approximately 5,820,298 shares of the Companys common stock. The conversion
+price of the debentures may be adjusted under certain circumstances, such as
+events that would cause dilution of the debenture holders interest. The
+Company may redeem all or a portion of the debentures for cash at any time
+after October17, 2002 as long as the arithmetic average of the weighted
+average price of the Companys common stock on each trading day during the
+fifteen trading day period immediately before the election to redeem is at
+least 150% of the conversion price. The redemption feature was not exercisable
+at December31, 2003. The debentures are unsecured and are subordinated to all
+existing and future senior indebtedness. The agreements governing the
+convertible debentures contain covenants including restrictions on the
+Companys ability to incur and guarantee additional debt. The covenants limit
+the amount of additional debt the Company may incur to the lesser of 30% of the
+Companys consolidated stockholders equity, which was $92,633 at December31,
+2003, or a total of $180,000 including the balance of the 7% convertible
+debentures outstanding.
+In connection with the issuance of the convertible debentures, and as described
+in Note 7, the Company issued warrants on its
+common stock to the holders of the convertible debentures. The Company recorded
+the fair market value of the warrants as additional paid-in capital during the
+year ended December31, 2001 and is amortizing the fair market value through
+October 2004. This charge is included in interest expense in the consolidated
+statement of operations. In addition, in connection with the issuance of the 7 55 Table of Contents
+convertible debentures, the Company paid investment bank fees, legal fees and
+other financing costs of $4,796 which are being amortized through October 2004
+using the straight-line method, which is not materially different from the
+effective interest rate method. Unamortized deferred financing costs of $1,271
+are included in other assets on the consolidated balance sheets at December31,
+2003 and 2002. The carrying value of the 7% convertible debentures is as
+follows at December31, 2003   
+Principal amount of 7% convertible debentures
+$
+80,000
+Less: value of warrants
+4,149
+Add: accumulated accretion
+3,026
+Carrying value, December31, 2003
+$
+78,877
+6. Line of Credit The Company had a $10,000 line of credit agreement with a major financial
+institution that was canceled by the Company in November 2003.
+7. Stockholders Equity Common Stock Warrants In connection with the issuance of the 7% convertible
+debentures in October and November 2001, the Company issued warrants to
+purchase shares of its common stock to the holders of the convertible
+debentures. The holders may exercise the warrants for an aggregate of 873,045
+shares of the Companys common stock at an exercise price of $13745 per share.
+The exercise price of the warrants may be adjusted under certain circumstances,
+such as events that would cause dilution of the holders interest. The
+warrants were immediately exercisable upon issuance and expire on October17,
+2006. The fair value of the warrants of $4,149 was estimated using the
+Black-Scholes model with the following assumptions: risk free interest rate of
+25%, expected life of 25years, dividend yield of 0%, and expected volatility
+of 83%. The Company recorded the fair market value of the warrants as
+additional paid-in capital. As of December31, 2003, none of the warrants had
+been exercised.
+Stockholder Rights Plan On July20, 1999, the Companys Board of Directors
+adopted a Stockholder Rights Plan, and a Rights Agreement to govern the Plan,
+under which common stock purchase rights each, a Right were distributed to
+the Companys stockholders at the rate of one Right for each share of the
+Companys common stock. Each Right entitles the stockholder that owns the
+Right to purchase one share of the Companys common stock at a purchase price
+of $8333 per share, subject to adjustment the Purchase Price. The
+Companys stockholders may exercise the Rights 1if another party acquires,
+or obtains the right to acquire, beneficial ownership of 15% or more of the
+Companys common stock, or 2upon the commencement of a tender or exchange
+offer that, if consummated, would result in another party acquiring 15% or more
+of the Companys common stock. In the event of such an acquisition or similar
+event, each Right, other than those owned by the acquiring party, will enable
+the stockholder that owns the Right to purchase the number of shares of the
+Companys common stock that equals the Purchase Price divided by one-half of
+the current market price as defined in the Rights Agreement of the common
+stock.
+In addition, if the Company is involved in a merger or other transaction with
+another company in which the Company is not the surviving corporation, or if
+the Company sells or transfers 50% or more of its assets or earning power to
+another company, each Right will entitle the stockholder that owns it to
+purchase the number of shares of common stock of the acquiring company that
+equals the Purchase Price divided by one-half of the current market price of
+the acquiring companys common stock. The Company is generally entitled to
+redeem the Rights at $0001 per Right at any time until the tenth business day
+after the later of 1a public announcement that an acquiring party has
+acquired, or obtained the right to acquire, 15% or more of the Companys common
+stock or 2the actual knowledge by an executive officer of the Company of
+such an acquisition. Unless the Rights are redeemed or exchanged earlier, they
+will expire on July20, 2009.
+Share Repurchase Program The Company had a common stock repurchase program
+from October 1998 to October 2001. Repurchased shares are used for stock
+option and employee stock purchase plans, and for general corporate purposes.
+Under the repurchase program, the Company repurchased, in total, 15,817,000
+shares of its common stock for an aggregate amount of $422,156, or an average
+cost of $2669 per share.
+At December31, 2003, 2002 and 2001, the Company had zero shares of its
+common stock covered by outstanding put options. The Company received $7,565
+from the sale of put options on its common stock during the year ended December
+31, 2001. During 2001 and upon maturity of one of the Companys put options
+contracts covering 375,000 shares of its common stock, the Company
+repurchased 375,000 shares of its common stock for $13,943 or $3718 per share.
+During 2000, the Company entered into forward equity contracts for 1,500,000
+shares of its common stock in order to set purchase prices for its future
+repurchase of shares under its share repurchase program. Upon maturity of the
+forward equity contracts in
+56 Table of Contents
+May 2001, the Company chose to settle the contracts
+by repurchasing 1,500,000 shares of its common stock for $65,020 or $4335 per
+share.
+During September and October 2001, the Company received notices terminating put
+options covering an aggregate of 3,000,000 shares of the Companys stock from
+counterparties to the put options. The cost to the Company to settle the
+terminated put options was $57,647. In addition, during August 2001 the
+Company net settled one of its put options contracts covering 375,000 shares of
+its common stock and paid $6,168. The Company did not repurchase any shares of
+its common stock in connection with these settlements.
+8. Stock Option and Purchase Plans Stock Option Exchange Programs In November 2001, the Company offered to all
+of its employees and directors the opportunity to request that the Company
+exchange the employees and directors outstanding stock options in return for
+new stock options to be granted by the Company no sooner than six months and
+one day from November12 and December17, 2001, the dates on which each
+exchange offer terminated. In exchange for existing options, each option
+holder received a commitment for new options to be issued for shares of common
+stock equal to three fifths 3/5 of the total number of shares subject to the
+options tendered by the option holder and accepted for exchange. Options
+covering a total of 8,871,919 shares were accepted for exchange under the
+exchange offers and, accordingly, were canceled on November12 and December17,
+2001. The Company granted the new options, covering a total of 5,021,321
+shares, on May13 and June18, 2002. On May13, 2002, the Company granted new
+options to its non-employee directors with an exercise price of $615 per
+share, the closing price of the Companys common stock on the NASDAQ National
+Market on that date. The new non-employee director options are exercisable in
+full on the date of grant. On June18, 2002, the Company granted new options
+to its employees with an exercise price of $442 share, the closing price of
+the Companys common stock on the NASDAQ National Market on that date. The new
+employee options became exercisable as to 25% of the shares represented by the
+options on the date of grant and in equal quarterly amounts thereafter for
+three years.
+The 1994 Stock Option Plan, as amended 1998 Restatement, as amended 1994
+Plan, allows the Company to grant to its employees, officers, directors and
+consultants options to purchase common stock intended to qualify as incentive
+stock options, options that do not qualify as incentive stock options
+non-statutory options, restricted stock awards and other stock-based awards.
+Option exercise prices for incentive stock options granted under the 1994 Plan
+may not be less than 100% of the fair market value of the shares. In general,
+1994 Plan option grants become exercisable as to 25% on the first anniversary
+of the grant date, and in equal quarterly amounts thereafter for three years.
+In general, no installment is exercisable after the fourth anniversary of the
+date on which such installment first becomes exercisable, and options generally
+expire eight years from the grant date.
+The 1994 Director Stock Option Plan, as amended Director Plan, allowed the
+Company to grant non-statutory stock options to purchase common stock to
+non-employee members of the Board of Directors. During 2003, the Company
+terminated the Director Plan except with respect to options already granted.
+The Company will no longer grant options under this plan.
+The Amended and Restated 1998 Non-Officer Employee Stock Incentive Plan, as
+amended 1998 Plan, allows the Company to grant non-statutory stock options,
+restricted stock awards, and other stock-based awards to its employees,
+consultants and advisors, other than those who are also officers within the
+meaning of Section16 of the Securities Exchange Act of 1934, as amended. In
+general, stock options granted under the 1998 Plan become exercisable as to 25%
+on the first anniversary of the grant date and in equal quarterly installments
+thereafter for three years. In general, no installment is exercisable after
+the fourth anniversary of the date on which such installment first becomes
+exercisable, and options generally expire eight years from the grant date.
+At December31, 2003, there were 17,355,000 shares of the Companys common
+stock authorized and 783,293 shares available for grant under the 1994 Plan,
+and 21,062,764 shares authorized and 7,131,028 shares available for grant under
+the 1998 Plan.
+A summary of stock option activity under all plans follows   
+Weighted Average   
+Exercise   
+Shares
+Price Per Share   
+Outstanding at January1, 2001
+19,973,011
+$
+2410
+Granted
+6,547,363
+2880
+Exercised
+2,325,828
+1286
+Canceled and expired
+12,246,527
+3199
+Outstanding at December31, 2001
+11,948,019
+2107
+Granted
+8,516,721
+461
+Exercised
+218,399
+695
+57 Table of Contents   
+Weighted Average   
+Exercise   
+Shares
+Price Per Share   
+Canceled and expired
+3,718,092
+2154
+Outstanding at December31, 2002
+16,528,249
+1248
+Granted
+4,955,700
+996
+Exercised
+3,033,433
+590
+Canceled and expired
+1,557,309
+1448
+Outstanding at December31, 2003
+16,893,207
+$
+1270
+Exercisable at December31, 2001
+4,982,928
+$
+1706
+Exercisable at December31, 2002
+8,648,763
+$
+1445
+Exercisable at December31, 2003
+8,450,301
+$
+1599
+The following table sets forth information regarding stock options outstanding
+at December31, 2003 under all plans   
+Weighted Average
+Weighted Average   
+Weighted
+Remaining
+Number
+Exercise Price for   Range of
+Number of
+Average
+Contractual Life
+Currently
+Currently   Exercise Prices
+Shares
+Exercise Price
+Years
+Exercisable
+Exercisable   
+$293 404
+2,215,471
+$
+385
+65
+348,490
+$
+368
+$442 630
+4,479,785
+$
+488
+64
+1,694,618
+$
+503
+$665 935
+1,475,005
+$
+787
+50
+1,212,248
+$
+803
+$999 1467
+3,399,414
+$
+1274
+72
+769,664
+$
+1231
+$1500 1988
+2,372,184
+$
+1796
+38
+2,133,584
+$
+1810
+$2269 3296
+2,556,632
+$
+2815
+48
+1,970,108
+$
+2814
+$3403 4938
+394,716
+$
+3731
+46
+321,589
+$
+3740
+$293 4938
+16,893,207
+$
+1270
+58
+8,450,301
+$
+1599
+The Company cancelled certain stock options assumed in connection with the
+acquisition of Xcert in February 2001 and recognized compensation expense of
+$751 in 2001.
+The 1994 Employee Stock Purchase Plan, as amended Purchase Plan, provides
+for sales of common stock to participating employees at prices of not less than
+85% of the closing price on either the first day or the last day of the
+offering period, whichever is lower. At December31, 2003, 3,100,000 shares
+were authorized under the Purchase Plan, and 946,983 shares were available for
+purchase. The cumulative total shares purchased under the plan through 2003,
+2002 and 2001 were 2,153,016, 1,382,835, and 962,230, respectively.
+9. Comprehensive Income Loss Comprehensive income losswas as follows   
+Years Ended December 31   
+2003
+2002
+2001   
+Net income loss
+$
+14,836
+$
+96,824
+$
+2,507
+Comprehensive income loss, net of tax:
+Holding losses arising during period
+6,250
+Less: reclassification adjustment for gains included in net income
+422
+27,723
+Decrease in net unrealized gains on marketable securities
+422
+33,973
+Foreign currency translation adjustments
+4,229
+2,938
+2,188
+Comprehensive income loss
+$
+19,065
+$
+94,308
+$
+38,668
+The tax benefit of holding losses on marketable securities was $4,166 for 2001.
+10. Earnings Loss Per Share Equity instruments that were considered antidilutive and therefore were not
+included in the computation of diluted earnings or loss per share include the
+following shares of the Companys common stock 58 Table of Contents   
+Years Ended December 31   
+2003
+2002
+2001   
+Employee stock options
+8,497,066
+16,528,249
+11,948,019
+Convertible debentures
+5,820,298
+5,820,298
+1,240,003
+Common stock warrants
+873,045
+873,045
+873,045
+11. Income Taxes Components of income lossbefore provision benefitfor income taxes   
+Years Ended December 31   
+2003
+2002
+2001   
+Domestic
+$
+5,834
+$
+143,808
+$
+1,440
+Foreign
+12,722
+7,108
+1,488
+Income lossbefore provision benefitfor income taxes
+$
+18,556
+$
+136,700
+$
+48
+The provision benefitfor income taxes consisted of the following   
+Years Ended December 31   
+2003
+2002
+2001   
+Current:
+Federal
+$
+9,335
+$
+43,315
+$
+4,276
+Foreign
+1,230
+1,235
+166
+Total
+8,105
+42,080
+4,110
+Deferred:
+Federal
+11,825
+2,246
+6,954
+Foreign
+42
+289
+Total
+11,825
+2,204
+6,665
+Total
+$
+3,720
+$
+39,876
+$
+2,555
+Significant components of the Companys deferred tax assets and liabilities
+were as follows at   
+December 31   
+2003
+2002   
+Deferred tax assets current:
+Revenue related items and other
+$
+2,942
+$
+3,829
+Net deferred tax assets current
+$
+2,942
+$
+3,829
+Deferred tax assets liabilities non current:
+Net operating loss carryforwards
+$
+34,317
+$
+25,430
+Deferred gain Investment in Crosby Finance, LLC
+26,298
+26,289
+Acquired intangible assets
+1,789
+862
+Investment valuation reserve
+350
+6,808
+Compensation
+263
+4,413
+Restructurings
+12,504
+15,176
+Merger expenses
+3,946
+3,946
+Other
+966
+928
+Purchased research and development
+2,017
+2,180
+Less: valuation allowance
+25,430
+25,430
+Net deferred tax liabilities non current
+7,046
+$
+1,592
+Tax benefits arising from the exercise of stock options were $5,485, $328 and
+$15,828 in 2003, 2002 and 2001, respectively. The tax benefits are allocated
+directly to additional paid-in capital in stockholders equity when realized.
+Cash payments for income taxes were approximately $1,749, $1,791 and $11,357 in
+2003, 2002 and 2001, respectively.
+The Company has net operating loss carryforwards of approximately $98,048
+expiring on various dates through 2023. The Company acquired $72,655 of these
+operating loss carryforwards as a result of the acquisitions that it completed
+during 2001. Internal Revenue Code Section382 may limit the utilization of
+the net operating losses attributable to the pre acquisition periods of
+acquired
+59 Table of Contents
+subsidiaries. Furthermore, pre acquisition net operating losses may
+not be utilizable in future years in the event of a substantial discontinuation
+of the acquired business. The remainder of the net operating loss
+carryforwards were generated during the year ended December31, 2003.
+The valuation allowance applies to deferred tax assets relating to acquisition
+related net operating loss carryforwards, where management believes that based
+on the weight of available evidence, it is more likely than not that these
+assets will not be realized. Management periodically reviews the available
+evidence and the valuation allowance. Tax benefits relating to the acquisition
+related net operating loss carryforwards valuation allowance realized in the
+future will reduce the carrying value of the goodwill and other intangible
+assets which arose from the acquisitions that the Company completed during
+2001.
+The reconciliation between the statutory and effective income tax rates for the
+years ended December31, 2003 and 2002 is as follows   
+2003
+2002   
+Statutory tax rate
+350
+%
+350
+Change in estimated deferred tax rate
+32
+Foreign tax rate differentials
+162
+09
+Other
+12
+17
+Effective income tax rate
+200
+%
+292
+For the year ended December31, 2001, the Companys effective income tax rate
+is in excess of the statutory tax rate primarily due to certain expenses which
+are not deductible for tax purposes, including non deductible goodwill
+amortization expense and non deductible in process research and development.
+12. Restructurings During 2002 and 2001, the Company evaluated and initiated restructuring actions
+in order to consolidate some of its operations, enhance operational efficiency
+and reduce expenses. These actions resulted in the Company recording six
+separate restructuring charges based upon separate and distinct plans, the
+total of which resulted in total restructuring charges of zero, $56,036 and
+$19,956
+for the years ended December31, 2003, 2002 and 2001, respectively. The Company
+continues to monitor and assess its facility obligations, the real estate
+market and its operating expenses.
+The Company continues to monitor and assess its facility obligations, real
+estate markets and operating expenses. As a result of these ongoing
+assessments, during 2003 the Company revised estimates used in previously
+recorded restructuring charges. These revisions resulted in no net change to
+the Companys restructuring liability at December31, 2003. The Company
+revised estimates of facility exit costs based upon the terms of finalized
+subleases obtained during 2003, due to lower than anticipated operating costs
+and other direct costs associated with certain exited facilities and due to
+revisions in anticipated headcount growth. These revised estimates of facility
+exit costs resulted in a net increase to facility exit costs of $774 at
+December31, 2003. In addition, the Company reduced its severance
+restructuring reserve by $566 at December31, 2003 when it determined its
+remaining severance and other outplacement costs were lower than originally
+estimated. The Company also reduced its restructuring reserve of costs
+associated with the liquidation of the Companys Swedish development operations
+and the sale of certain Swedish assets by $208 at December31, 2003 when it
+determined the Company had no legal and consulting costs remaining in
+connection with this transaction.
+Restructuring charges recorded during 2002 and 2001 consist of facility exit
+costs, including impairment of leasehold improvements and furniture and
+fixtures, costs associated with the sale and liquidation of the Companys
+Swedish development operations, and severance and other costs associated with
+the reduction of employee headcount.
+During the year ended December31, 2002, the Company recorded restructuring
+charges of $56,036, consisting of facility exit costs, costs associated with
+the liquidation of the Companys Swedish development operations and the sale of
+certain Swedish assets and the business related to the asset to TFS Technology
+AB TFS, and severance and other costs associated with the reduction of
+employee headcount. The 2002 restructuring charges include costs of $37,656
+incurred due to the revision of previously recorded restructuring charges.
+Included in the 2002 restructuring charges are costs of $44,014 consisting of
+facility exit costs and related impairment of leasehold improvements and
+furniture and fixtures. Facility exit costs consist of estimated shortfalls of
+sublease rental income compared to obligations due under certain exited
+facilities leases which are payable through 2009. The remaining unreserved
+lease obligations related to certain exited facilities amount to $8,170, which
+represents the Companys estimated sublease income from these facilities from
+the end of the reserve period to the end of the lease term. Impairment of
+leasehold improvements and furniture and fixtures included in facility exit
+costs are for unamortized leasehold improvements and furniture and fixtures
+that the Company believes will not be recoverable upon sublease of exited
+facilities. Total facility exit costs for 2002 include costs of $35,718 that
+the Company
+60 Table of Contents
+incurred when it revised estimates used in previously recorded
+restructuring charges. The Company revised the estimates included in facility
+exit costs due to the extension of the period of time estimated to obtain
+sublease tenants for certain exited facilities, based on the terms of finalized
+subleases obtained during 2002, due to higher than anticipated operating costs
+associated with certain exited facilities, and due to the continued uncertainty
+and deterioration in the commercial real estate and sublet markets in the
+Boston metropolitan area.
+The Company recorded restructuring charges of $6,318 during 2002 associated
+with the liquidation of the Companys Swedish development operations and the
+sale of certain Swedish assets and the business related to the assets to TFS.
+The Company sold these assets and related business to TFS in exchange in part
+for TFSs assumption of the liabilities related to the assets and associated
+business, including the related support obligations and certain employees. The
+total number of employees included in this transaction was 76, of which 67 were
+employed in research and development and 9 were employed in general and
+administrative functions. The total Sweden liquidation costs include costs of
+$1,938 the Company incurred upon revision of estimates used in previously
+recorded restructuring charges.
+Also included in restructuring charges for 2002 are severance and other costs
+associated with the reduction of employee headcount of $5,704 for 121
+employees, of which 15 were employed in manufacturing, customer operations and
+technical services, 37 were employed in research and development, 48 were
+employed in sales and marketing, and 21 employed in general and administrative
+functions.
+During the year ended December31, 2001, the Company recorded restructuring
+charges of $19,956, consisting of facility exit costs, prepaid license fees,
+severance and other costs associated with the reduction of employee headcount,
+and other direct costs.
+Included in the 2001 restructuring
+charges are costs of $9,731 consisting of
+facility exit costs, related impairment of leasehold improvements and other
+direct costs. Facility exit costs primarily consist of up to 18months of
+minimum lease payments due under certain exited facilities lease agreements.
+Impairment of leasehold improvements included in facility exit costs is for
+unamortized leasehold improvements that the Company believes will not be
+recoverable upon sublease of exited facilities.
+Prepaid license fees of $4,350 included in 2001 restructuring charges were
+expensed when it was determined that they did not have future realizable value
+as a result of the Companys exiting a planned service offering.
+Also included in restructuring charges for 2001 are severance and other costs
+associated with the reduction of employee headcount of $5,875 for 320
+employees, of which 33 were employed in manufacturing, customer operations and
+technical services, 110 were employed in research and development, 110 were
+employed in sales and marketing, 60 were employed in general and administrative
+functions, and 7 were employed in the RSA Capital segment.
+Restructuring charges accrued and unpaid at December31, 2003 were as follows   
+Facility Exit
+Liquidation
+Costs Related
+of Sweden
+Asset
+Severance
+Development
+Purchased
+Impairments
+Costs
+Operations
+Technology
+Total   
+Balance at January1, 2001
+$
+347
+$
+347
+Total restructuring charges 2001
+9,731
+$
+5,875
+$
+4,350
+19,956
+Payments 2001
+276
+4,592
+4,868
+Write offs 2001
+4,350
+4,350
+Total payments and write offs 2001
+276
+4,592
+$
+4,350
+9,218
+Balance at December31, 2001
+9,802
+1,283
+11,085
+Restructuring charges 2002
+8,296
+5,704
+$
+4,380
+18,380
+Revision of previously recorded
+restructuring charges 2002
+35,718
+1,938
+37,656
+Total restructuring charges 2002
+44,014
+5,704
+6,318
+56,036
+Payments 2002
+5,791
+5,590
+5,700
+17,081
+Write offs 2002
+12,114
+12,114
+Total payments and Write offs 2002
+17,905
+5,590
+5,700
+29,195
+Balance at December31, 2002
+35,911
+1,397
+618
+37,926
+61 Table of Contents   
+Facility Exit
+Liquidation
+Costs Related
+of Sweden
+Asset
+Severance
+Development
+Purchased
+Impairments
+Costs
+Operations
+Technology
+Total   
+Revision of previously recorded
+restructuring charges 2003
+774
+566
+208
+Payments 2003
+8,789
+581
+410
+9,780
+Write offs 2003
+242
+242
+Total payments and Write offs 2003
+9,031
+581
+$
+410
+10,022
+Balance at December31, 2003
+$
+27,654
+$
+250
+$
+27,904
+In 1999, the Company commenced and substantially completed consolidation of
+certain operations in order to enhance operational efficiency. The Company
+recorded facility exit costs consisting primarily of estimated shortfalls of
+sublease rental income compared to minimum lease payments due under a lease
+agreement. During the year ended December31, 2003 the Company revised its
+estimates of these facility exit costs and reduced the reserve for these
+facility exit costs to zero.
+The Company expects to pay the remaining restructuring costs accrued at
+December31, 2003 as follows   
+Year ending December31, 2004
+$
+9,043
+Year ending December31, 2005
+7,362
+Year ending December31, 2006
+6,647
+Year ending December31, 2007
+2,854
+Year ending December31, 2008
+1,347
+Year ending December31, 2009 and thereafter
+651
+13. Segment Information The Company has one reportable segment, e-Security Solutions. The operations of
+the e-Security Solutions segment consist of the sale of software licenses,
+hardware, maintenance and professional services through two product groups,
+Enterprise solutions and Developer solutions. Enterprise solutions include
+sales of RSA SecurID authenticators, RSA ACE/Server software, RSA Keon
+software, RSA ClearTrust software, and maintenance and professional services
+associated with these products. Developer solutions include sales of RSA BSAFE
+encryption software and protocol products, RSA Keon components, and maintenance
+and professional services associated with these products. The segment was
+determined primarily based on how management views and evaluates the Companys
+operations.
+Prior to January1, 2003, the Company reported two segments, e-Security
+Solutions and RSA Capital. The Company has modified its segment disclosure to
+reflect the divestiture of substantially all of its investments held in RSA
+Capital and the reduction of resources allocated to RSA Capital. Accordingly,
+the Company began reporting one segment, the e-Security Solutions segment,
+after January1, 2003. The Company has revised its segment disclosure to
+conform to the current period presentation.
+The Companys operations are conducted throughout the world. Operations in the
+United States represent more than 10% of revenue and income lossfrom
+operations. The Companys operations in other countries have been grouped by
+regional area below. The following tables present information about e-Security
+Solutions revenue   
+Years Ended December 31   
+Product and service groups
+2003
+2002
+2001   
+Enterprise
+solutions
+$
+235,739
+$
+204,671
+$
+229,170
+Developer
+solutions
+24,127
+27,413
+53,550
+$
+259,866
+$
+232,084
+$
+282,720
+Years Ended December 31   
+Geographic areas
+2003
+2002
+2001   
+United States of
+America
+$
+155,021
+$
+138,539
+$
+162,799
+Europe and
+other
+80,163
+70,224
+91,553
+Asia
+Pacific
+24,682
+23,321
+28,368
+$
+259,866
+$
+232,084
+$
+282,720
+During 2003, two of the Companys distributors merged in a business
+combination. The combined revenue from the two distributors accounted for 10%
+of total revenue for the year ended December31, 2003. 62 Table of Contents
+The tables below present information about the Companys long lived assets by
+regional area   
+At December 31, 2003   
+Total
+United States
+Europe
+Asia Pacific   
+Property and equipment, net
+$
+68,149
+$
+35,104
+$
+29,852
+$
+3,193
+Goodwill, net
+189,260
+189,260
+Other assets
+6,879
+5,278
+67
+1,534
+At December 31, 2002   
+Total
+United States
+Europe
+Asia Pacific   
+Property and equipment, net
+$
+73,376
+$
+41,423
+$
+28,741
+$
+3,212
+Goodwill, net
+192,629
+192,629
+Other assets
+7,374
+5,505
+154
+1,715
+At December 31, 2001   
+Total
+United States
+Europe
+Asia Pacific   
+Property and equipment, net
+$
+94,840
+$
+59,881
+$
+31,285
+$
+3,674
+Goodwill, net
+186,561
+186,561
+Intangible assets, net
+37,346
+37,346
+Other assets
+7,117
+5,274
+165
+1,678
+Included in the Companys property and equipment in Europe is land and a
+building purchased during 2000 in the United Kingdom which had a net carrying
+value of $20,707 at December31, 2003.
+14. Retirement and Savings Plan The Company has a 401k retirement and savings plan that allows each
+participant to defer up to 20% of the participants annual earnings up to an
+annual statutory maximum amount. The Company may make, at its discretion,
+matching and profit-sharing contributions to the plan. Generally, matching and
+profit-sharing contributions made by the Company vest annually over four years.
+Matching contributions are paid in cash and were $1,412, $1,360 and $1,354 in
+2003, 2002 and 2001, respectively. No profit sharing contributions were made
+for 2003, 2002 and 2001.
+The Company also has a non-qualified deferred compensation program which
+permits key employees to annually elect to defer, for their personal income tax
+purposes, a portion of their compensation for not less than three years or
+until their retirement, termination, death or disability. To assist in the
+financing of the funding of the deferred compensation program, the Company
+invests the compensation that is withheld and deferred in Company-owned life
+insurance policies. Amounts withheld and deferred for key employees under the
+Companys deferred compensation program were $545, $868 and $2,445 in 2003,
+2002 and 2001, respectively, and are included in operating expenses.
+15. Commitments The Company leases office facilities and equipment under non-cancelable
+operating leases expiring through 2017. Future minimum rental payments net of
+existing sublease agreements and excluding facility exit costs included in
+restructuring charges are as follows   
+Facility Exit Costs
+Gross Lease
+included in
+Net Lease   Years Ending December 31,
+Commitments
+Restructurings
+Commitments   
+2004
+$
+21,651
+$
+9,043
+$
+12,608
+2005
+19,167
+7,112
+12,055
+2006
+16,446
+6,647
+9,799
+2007
+16,516
+2,854
+13,662
+2008
+14,514
+1,347
+13,167
+2009 and thereafter
+70,467
+651
+69,816
+Net rent expense was approximately $11,624, $13,764 and $12,603 in 2003, 2002
+and 2001, respectively. Rent collected from existing subleases and not included
+in restructuring charges was $9, $700, and $656 in 2003, 2002 and 2001,
+respectively.
+In November 2000, the Company entered into fifteen year non-cancelable
+operating leases for a new corporate headquarters facility located in Bedford,
+Massachusetts and moved into these facilities in February 2002. The Company is
+actively looking to sublease its
+63 Table of Contents
+former headquarters and other exited facilities. During 2002 and 2001, the
+Company recorded restructuring charges totaling $53,426, which represent lease
+obligations due through 2009 under certain excess facilities lease agreements,
+net of estimated sublease rental income, impaired leasehold improvements and
+furniture and fixtures for certain exited facilities, and other associated
+facilities expense.
+The Company is also required to pay royalties under various other licensing
+agreements. Total royalty expense under all agreements was $5,375, $5,978 and
+$5,538 in 2003, 2002 and 2001, respectively.
+16. Related Party Transactions Some of the Companys employees and directors have invested in the general
+partner limited partnership of RSA Ventures including Charles R. Stuckey, Jr.
+and James K. Sims, members of the Companys Board of Directors, and five former
+employees including the managing director of RSA Ventures. Mr.Stuckey
+invested approximately $11 in the partnership, Mr.Sims invested approximately
+$7, and the five employees invested a total of approximately $70. None of
+the investors has received any proceeds or been allocated any profits from this
+entity since its inception, and the Company is currently in the process of
+liquidating the entity. In December 2001, in connection with the Companys
+reduction of the investing activities of RSA Ventures, the interest in gains
+from the general partner that each of Messrs.Stuckey and Sims would be
+entitled to receive in the future following a return of their invested capital
+was reduced to less than one one thousandth of a percent.
+In 1997, the Company entered into a license agreement with VeriSign under
+which, among other things, the Company had the exclusive right to distribute
+some of VeriSigns certificate authority software. The agreement also gave the
+Company the right to terminate the agreement at any time if the Company paid
+specified termination fees to VeriSign. Unamortized prepaid license fees were
+$5,221 at December31, 2000. During the year ended December31, 2001 the
+Company expensed $5,221 in prepaid license fees to cost of product revenue when
+it was determined that they did not have future realizable value as a result of
+the Companys acquisition of Xcert in February 2001. A former director of the
+Company who is also a director of VeriSign provided consulting services to the
+Company and received $60 in 2001. This consulting agreement expired in
+February 2001, and the director resigned from the Companys Board of Directors
+in May 2002.
+17. Litigation On or about February2, 2001, Leon Stambler filed a complaint for patent
+infringement in U.S. District Court for the District of Delaware against the
+Company, VeriSign, Inc., First Data Corporation, Openwave Systems Inc., and
+Omnisky Corporation, Case Number 01-0065. In his complaint, Mr.Stambler
+alleged that certain products marketed by each of the defendants infringed
+various patents that he owns, and he sought unspecified damages as well as a
+preliminary and permanent injunction enjoining the defendants from infringing
+the claims asserted. The trial took place in March 2003, and the jury
+determined that the Companys products did not infringe Mr.Stamblers patents.
+On April17, 2003, the court entered final judgment in the Companys favor on
+all claims of non-infringement. In May 2003, Mr.Stambler filed a motion asking
+the court to set aside the jurys verdict, and in November 2003, the court
+denied Mr.Stamblers motion. On or about December8, 2003, Mr.Stambler filed
+a notice of appeal to the United States Court of Appeals. The Company plans to
+vigorously defend the appeal, and it believes that the final disposition of
+this matter will not have a material adverse effect its continuing operations
+and consolidated financial position.
+On or about December20, 2001, France Telecom and Telediffusion de France
+FT filed a Request for Arbitration with the International Court of
+Arbitration. FT claims that the Company breached a license agreement with FT
+and sought unspecified damages including a payment in excess of $110,000 plus
+the legal fees and other costs associated with the arbitration. The arbitration
+took place in June 2003, and the Company expects the arbitrator to make a
+final, binding decision in the first half of 2004. The Company believes that
+FTs claims are without merit. In a related matter, FT has also filed a patent
+infringement suit in Delaware against Novell, Inc., one of the Companys
+licensees. In August 2002, the Company signed a letter agreement with Novell
+agreeing that if a court requires Novell to pay FT damages, the Company will
+reimburse Novell for 50% of the damages, up to a maximum payment of $2,500 by
+it. If the damages payable by Novell exceed $5,000, then the indemnification
+provisions of the Companys license agreement with Novell will govern its
+indemnification obligations. Although the Company believes that FTs claims
+against Novell are without merit, it cannot predict the ultimate outcome of
+this matter. However, the Company believes that neither the disposition of its
+arbitration with FT nor the disposition of the litigation between Novell and FT
+will have a material adverse effect on its continuing operations and
+consolidated financial position.
+From time to time, the Company has been named as a defendant in other legal
+actions arising from our normal business activities, which it believes will not
+have a material adverse effect on it or its business.
+64 Table of Contents   Item 1. BUSINESS
+Item 2. PROPERTIES
+Item 3. LEGAL PROCEEDINGS
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+PART II
+Item 5. MARKET FOR OUR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+Item 6. CONTROLS AND PROCEDURES   
+a
+Our management, with the participation of our chief executive officer
+CEO and chief financial officer CFO, evaluated the effectiveness
+of our disclosure controls and procedures as defined in Rules13a-15e
+and 15d-15e under the Securities Exchange Act of 1934, as amended as
+of December31, 2003. Based on this evaluation, our CEO and CFO
+concluded that as of December31, 2003, our disclosure controls and
+procedures were 1designed to ensure that material information related
+to us, including our consolidated subsidiaries, is made known to our CEO
+and CFO by others within RSA and our subsidiaries, particularly during
+the period in which this report was being prepared and 2effective, in
+that they provide reasonable assurance that information required to be
+disclosed by us in the reports that we file or submit under the Exchange
+Act is recorded, processed, summarized and reported within the time
+periods specified in the SECs rules and forms; but also concluded that
+there are certain weaknesses in our foreign subsidiary translation
+process. We have dedicated resources to correcting these issues and
+have implemented the necessary corrections. These weaknesses did not
+have a material impact on the accuracy of our financial statements.     
+Other than the steps we have taken to correct certain weaknesses in the
+foreign subsidiary translation process, no change in our internal control
+over financial reporting as defined in Rules13a-15f and 15d-15f
+under the Exchange Act occurred during the year ended December31, 2003
+that has materially affected or is reasonably likely to materially affect,
+our internal control over financial reporting. 65 Table of Contents PART III 

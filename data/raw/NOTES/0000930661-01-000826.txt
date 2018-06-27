@@ -1,0 +1,999 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+a Consolidated Financial Statements: The following consolidated financial
+statements are included in this 10-K                                     Page
+Report of Independent Public Accountants             33
+Consolidated Balance Sheets at December 31, 2000 and 1999    34
+Consolidated Statements of Operations for the Years Ended
+December 31, 2000, 1999, and 1998               35
+Consolidated Statements of Stockholders' Equity for the
+Years Ended December 31, 2000, 1999, and 1998         36
+Consolidated Statements of Cash Flows for the Years Ended
+December 31, 2000, 1999, and 1998               37
+Notes to Consolidated Financial Statements            38  b Not Covered by Report of Independent Public Accountants:
+Supplementary Quarterly Financial Information          52
+32          REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+To the Stockholders of Edgewater Technology, Inc.   We have audited the accompanying consolidated balance sheets of Edgewater
+Technology, Inc. the Company, a Delaware corporation and subsidiaries as of
+December 31, 2000 and 1999, and the related consolidated statements of
+operations, stockholders' equity and cash flows for each of the three years
+ended December 31, 2000. These financial statements are the responsibility of
+the Company management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Edgewater Technology, Inc.
+and subsidiaries as of December 31, 2000 and 1999, and the results of their
+operations and their cash flows for each of the three years ended December 31,
+2000, in conformity with accounting principles generally accepted in the United
+States.
+ARTHUR ANDERSEN LLP Boston, Massachusetts
+March 14, 2001
+33              EDGEWATER TECHNOLOGY, INC.
+CONSOLIDATED BALANCE SHEETS
+In Thousands, Except Shares                                            December 31,
+2000      1999
+ASSETS
+Current assets:
+Cash and cash equivalents                           $145,581    $ 9,857
+Accounts receivable, net                             5,875     6,105
+Income tax receivable                              16,121     1,549
+Deferred income taxes                                900     5,987
+Prepaid expenses and other current assets                     6,842     4,204
+Total current assets                        175,319     27,702
+Property and equipment, net                             2,174     3,177
+Intangible assets, net                               36,530     39,342
+Other assets                                     118      237
+Deferred income taxes                               25,728       -
+Net assets from discontinued operations Note 4                  14,831    543,601
+$254,700    $614,059
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable and accrued liabilities                    $ 13,970    $ 12,597
+Payroll and related liabilities                          3,195     1,983
+Total current liabilities                      17,165     14,580
+Long-term debt                                     -    291,090
+Other long-term liabilities                              290     6,256
+Deferred income taxes                                  -     9,084
+Commitments and contingencies Notes 15 through 17
+Stockholders' equity:
+Preferred stock, $01 par value; no shares issued or outstanding           -       -
+Common stock, $01 par value; 28,692,766 and 29,401,022 shares issued
+and outstanding as of December 31, 2000 and 1999, respectively          296      294
+Paid-in capital                                 217,838    216,279
+Treasury stock, at cost                             6,158       -
+Retained earnings                                25,269     76,476
+Total stockholders' equity                     237,245    293,049
+$254,700    $614,059
+The accompanying notes are an integral part of these consolidated financial
+statements.
+34              EDGEWATER TECHNOLOGY, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+In Thousands, Except Per Share Data                                              Years Ended December 31,
+2000        1999     1998
+Service revenues                                 $ 31,542     $ 15,040   $    -
+Cost of services                                  15,577       6,912       -
+Gross profit                                    15,965       8,128        Operating expenses:
+Selling, general and administrative                       14,411       9,107       -
+Depreciation and amortization                            5,078        895       -
+Operating loss                                3,524      1,874       -
+Other income expense:
+Interest income expense                            2,260      1,099       -
+Other, net                                     817         -       -
+Loss before income taxes and extraordinary item                    447      2,973       -
+Income tax provision benefit                            1,234       875       -
+Net loss from continuing operations before extraordinary item            1,681      2,098       Discontinued operations Note 4:
+Loss income from operations of discontinued divisions              113,534      32,311     18,639
+Net gain on sale of divisions                            64,368         -       -
+Extraordinary item, net of applicable taxes Note 5                 360        -       -
+Net loss income                             $ 51,207     $ 30,213   $  18,639
+Basic earnings per share:
+Continuing operations                             $ 006     $ 007  $    -
+Discontinued operations                            $ 168     $  110   $   065
+Extraordinary item                               $ 001     $   -   $    -
+Net loss income                               $ 175     $  103   $   065
+Diluted earnings per share:
+Continuing operations                             $ 006     $ 007   $    -
+Discontinued operations                            $ 168     $  109   $  063
+Extraordinary item                               $ 001     $   -   $    -
+Net loss income                               $ 175     $  102   $  063
+The accompanying notes are an integral part of these consolidated financial
+statements.
+35              EDGEWATER TECHNOLOGY, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+In Thousands                          Common Stock
+Paid-in   Treasury   Retained
+Shares    Amount   Capital    Stock    Earnings     Total
+BALANCE, December 31, 1997             27,034 $  270    $194,432  $    -   $25,134    $ 219,836
+Dividends declared                  -    -       -      -     693      693
+Business combinations              1,770    18     17,978      -    3,183      21,179
+Repurchase of stock                68    -       -    1,374      -      1,374
+Issuances of shares related to
+employee stock plans              347    3     3,658     323      -      3,984
+Effect of compensatory stock options         -    -      746      -      -       746
+Net income                      -    -       -      -    18,639      18,639
+BALANCE, December 31, 1998             29,083   291    215,322    1,051   46,263     260,825
+Business combinations               171    2     2,284      -      -      2,286
+Repurchase of stock                195    -       -    1,856      -      1,856
+Issuances of shares related to
+employee stock plans              342    1     1,327    2,907      -      1,581
+Net income                      -    -       -      -    30,213      30,213
+BALANCE, December 31, 1999             29,401   294    216,279      -    76,476     293,049
+Issuances of common stock related to
+employee stock plans              235    2     1,559      -      -      1,561
+Repurchase of stock                943    -       -    6,158      -      6,158
+Net loss                       -    -       -      -   51,207     51,207
+BALANCE, December 31, 2000             28,693 $  296  $  217,838   $6,158   $25,269    $ 237,245
+The accompanying notes are an integral part
+of these consolidated financial statements.
+36              EDGEWATER TECHNOLOGY, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+In Thousands                                               Years Ended December 31,
+2000       1999       1998
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net loss income                              $ 51,207  $   30,213   $  18,639
+Extraordinary items, net of applicable taxes                    360        -        -
+Net loss income from discontinued operations                 113,534     32,311    18,639
+Net gain on sale of divisions                         64,368        -        -
+Net loss from continuing operations                     1,681     2,098       -
+Adjustments to reconcile net loss income to net cash
+provided by used in operating activities:
+Depreciation and amortization                       5,078       895        -
+Provision for bad debts                            54        -
+Deferred income taxes                             -      1,799        -
+Effect of compensatory stock options                     231        -        -
+Other, net                                  44        5       -
+Change in operating accounts,
+net of effects of acquisitions:
+Accounts receivable                         741     1,185       -
+Prepaid expenses and other current assets              912      744       -
+Other assets                              5       26       -
+Accounts payable and accrued liabilities              2,947      7,032        -
+Payroll and related liabilities                    794       792       -
+Payment of nonrecurring expenses                   70        -        -
+Income taxes payable                         597     3,730       -
+Other long-term liabilities                      346       107        -
+Net cash provided by operating activities                      5,488      1,253        -
+Net cash provided by discontinued operating activities               10,231      3,518      6,503
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Proceeds from sale of businesses                        446,778        -        -
+Purchases of businesses, net of cash acquired                   664     42,696       -
+Capital expenditures                              1,538      162       -
+Net cash provided by used in investing activities                444,576     42,858       -
+Net cash used in discontinued investing activities                 12,035     92,559    165,792
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from borrowings                            58,996     274,209        -
+Payments on borrowings                            350,235    159,832       -
+Proceeds from employee stock plans                         71      1,581        -
+Deferred financing costs                               -       585       -
+Repurchases of stock                              6,158     1,856       -
+Net cash used in provided by financing activities                297,326     113,517        -
+Net cash used in provided by discontinued financing activities          9,324      8,036     165,445
+Net increase decrease in cash and cash equivalents                141,610      9,093     6,156
+CASH AND CASH EQUIVALENTS, beginning of period                    3,718      12,811      6,655
+CASH AND CASH EQUIVALENTS, discontinued operations                   253      6,139     8,322
+CASH AND CASH EQUIVALENTS, end of period                    $  145,581   $   9,857   $  4,489
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+Interest paid                               $   9,439   $   17,413   $  5,647
+Income taxes paid                             $    948   $   17,108   $  28,269
+Non-cash transactions:
+Notes payable issued in business combination              $     -   $     -   $  16,117
+The accompanying notes are an integral part
+of these consolidated financial statements.
+37              EDGEWATER TECHNOLOGY, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1.   BASIS OF PRESENTATION AND NATURE OF BUSINESS:
+Edgewater Technology, Inc. Edgewater or the Company f/k/a StaffMark,
+Inc. provides human resource and business solutions through its eSolutions
+segment, Edgewater Technology Delaware, Inc. Edgewater Technology, which
+was acquired effective April 1, 1999. As discussed in Note 4, the Company sold
+its interests in their Commercial staffing segment, Robert Walters finance and
+accounting staffing services, Strategic Legal Resources legal staffing,
+IntelliMark information technology staffing and solutions and ClinForce
+clinical trials support services. Robert Walters, Strategic Legal Resources,
+IntelliMark and ClinForce were previously components of the Company
+Professional/Information Technology IT segment. As a result of these
+transactions, the operating results for these non-eSolutions divisions have been
+included in discontinued operations in the accompanying consolidated financial
+statements.
+Edgewater provides IT consulting services to businesses. These services
+primarily include the design, development and implementation of web-based
+applications as well as eCommerce software solutions and consulting services to
+clients throughout the United States. Edgewater Technology has approximately 250
+employees and offices in Massachusetts, New Hampshire, Arkansas, Minnesota,
+North Carolina and Alabama.
+2.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+Principles of Consolidation   The consolidated financial statements include the accounts of Edgewater and
+its wholly-owned subsidiaries. All significant intercompany transactions have
+been eliminated in consolidation.
+Cash and Cash Equivalents   The Company considers cash on deposit with financial institutions and all
+highly liquid investments with original maturities of three months or less to be
+cash equivalents.
+Property and Equipment   Property and equipment are stated at cost, which approximates fair value,
+net of accumulated depreciation and amortization. Property and equipment are
+depreciated on a straight-line basis over the estimated useful lives of the
+assets, which range from three to ten years. Equipment held under capital leases
+are amortized utilizing the straight-line method over the lessor of the
+estimated useful life of the asset or the remaining term of the lease. Additions
+that extend the lives of the assets are capitalized while repairs and
+maintenance costs are expensed as incurred. When property and equipment are
+retired, the related cost and accumulated depreciation or amortization are
+removed from the balance sheet and any resultant gain or loss is recorded.
+Intangible Assets   Intangible assets consist primarily of goodwill, which is amortized over 10
+years using the straight-line method. Intangibles associated with non-compete
+agreements are amortized using the straight-line method over the life of the
+respective agreements.
+In conjunction with management restructuring plan described more fully in
+Note 4, in January 2000, management decided to operate its eSolutions business
+unit as a distinct operating unit as opposed to an integrated component of the
+Professional/IT segment, as had been originally planned. As a result of this
+change in operating strategy, management reevaluated the estimated useful life
+for the intangibles associated with their acquisition of Edgewater Technology
+and reduced the estimated useful life to 10 years. Prior to the restructure and
+segmentation, these intangibles were amortized over 30 years since Edgewater
+Technology was operated as an integral component of the Professional/IT segment.
+The change in useful life was made effective January 1, 2000 and resulted in
+increased annual amortization expense of approximately $24 million. In
+addition, as a result of an independent appraisal obtained during the fall of
+2000, the Company reallocated the Edgewater Technology purchase price between
+goodwill and other acquired intangible assets see Note 8.
+38 Revenue Recognition   Revenues pursuant to time and materials contracts are generally recognized
+as services are provided. Revenues pursuant to fixed price contracts are
+generally recognized as services are rendered using the percentage-of-completion
+method of accounting. Revenues and earnings may fluctuate from quarter to
+quarter based on the number, size and scope of projects in which we are engaged,
+the contractual terms and degree of completion of such projects, any delays
+incurred in connection with a project, employee utilization rates, the adequacy
+of provisions for losses, the use of estimates of resources required to complete
+ongoing projects, general economic conditions and other factors. Certain
+significant estimates include percentage-of-completion estimates used for fixed
+price contracts and the allowance for doubtful accounts. These items are
+frequently monitored and analyzed by management for changes in facts and
+circumstances and material changes in these estimates could occur in the future.
+Income Taxes   Income taxes have been provided based upon the provisions of Statement of
+Financial Accounting Standards SFAS No. 109, Accounting for Income Taxes,
+which requires recognition of deferred income taxes using the liability method.
+Deferred income taxes result from the effect of transactions which are
+recognized in different periods for financial and tax reporting purposes.
+Deferred income taxes are recognized for the tax consequences of such temporary
+differences by applying currently enacted statutory tax rates to differences
+between the financial reporting and the tax bases of existing assets and
+liabilities. Valuation allowances are established when necessary to reduce
+deferred tax assets to the amounts ultimately expected to be realized.
+Fair Value of Financial Instruments   Edgewater financial instruments include cash and cash equivalents and its
+debt obligations. Management believes that these financial instruments bear
+interest at rates which approximate prevailing market rates for instruments with
+similar characteristics and, accordingly, that the carrying values for these
+instruments are reasonable estimates of fair value.
+Impairment of Long-Lived Assets   Edgewater regularly evaluates whether events and circumstances have occurred
+which may indicate that the carrying amount of intangible or other long-lived
+assets warrant revision or may not be recoverable. When factors indicate that an
+asset or assets should be evaluated for possible impairment, an evaluation is
+performed pursuant to the provisions of SFAS No. 121, Accounting for the
+Impairment of Long-Lived Assets and for Long-Lived Assets to Be Disposed Of. If
+an evaluation is required, the estimated future undiscounted cash flows
+associated with the asset are compared to the asset carrying amount to
+determine if a write-down to market value or discounted cash flow value is
+required. During 2000, the Company recognized an impairment in the goodwill
+associated with its Professional/IT segment as more fully described in Note 4.
+Stock Options   During 1995, the Financial Accounting Standards Board issued SFAS No. 123,
+Accounting for Stock-Based Compensation, which encourages all companies to
+recognize compensation expense based on the fair value, at grant date, of
+instruments issued pursuant to stock-based compensation plans. SFAS No. 123
+requires the fair value of the instruments granted, which is measured pursuant
+to the provisions of the statement, to be recognized as compensation expense
+over the vesting period of the instrument. However, the statement also allows
+companies to continue to measure compensation costs for these instruments using
+the method of accounting prescribed by Accounting Principles Board APB
+Opinion No. 25, Accounting for Stock Issued to Employees. Companies electing
+to account for stock-based compensation plans pursuant to the provisions of APB
+Opinion No. 25 must make pro forma disclosures of net income as if the fair
+value method defined in SFAS No. 123 had been applied. Edgewater has elected to
+account for stock options under the provisions of APB Opinion No. 25 and has
+included the disclosures required by SFAS No. 123 in Note 13.
+Use of Estimates   The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets, liabilities, revenues
+and expenses and disclosures of contingent assets and liabilities. The estimates
+and assumptions used in preparing the accompanying consolidated financial
+statements are based upon management evaluation of the relevant facts and
+circumstances as of the date of the financial statements. However, actual
+results may differ from the estimates and assumptions used in preparing these
+consolidated financial statements.
+39 Recent Accounting Pronouncements   In December 1999, the Securities and Exchange Commission SEC issued
+Staff Accounting Bulletin SAB No. 101, Revenue Recognition. This bulletin,
+as amended, established guidelines for revenue recognition and originally was
+effective for periods beginning after March 15, 2000. In June 2000, the SEC
+announced that the effective date of SAB 101 was being delayed until no later
+than the quarter ending December 31, 2000. The Company revenue recognition
+policy complies with the pronouncement and, accordingly, there was no impact of
+adopting this new guidance in 2000.
+In March 2000, the Financial Accounting Standards Board issued
+Interpretation No. 44, Accounting for Certain Transactions Involving Stock
+Compensation - An Interpretation of APB Opinion No. 25, FIN 44. FIN 44
+clarifies the application of APB Opinion 25 and, among other issues, clarifies
+the following: a the definition of an employee for purposes of applying APB
+Opinion 25, b the criteria for determining whether a stock ownership plan
+qualifies as noncompensatory, c the accounting implications of various
+modifications to the terms of a previously fixed stock option or award, and d
+the accounting for the exchange of stock compensation awards in a business
+combination. FIN 44 is effective July 1, 2000 and the effects of applying FIN 44
+are recognized on a prospective basis. The adoption of this interpretation did
+not have a material impact on the Company financial condition or results of
+operations.
+3.   BUSINESS COMBINATIONS:
+Effective April 1, 1999, the Company acquired Edgewater Technology, a
+full-service provider of eSolutions located in Boston Route 128 technology
+corridor. Edgewater Technology applies its eStrategy, eSolutions and Internet
+outsourcing services to vertical markets such as financial services, customer
+service centers, transportation and logistics, retail/e-tail and healthcare.
+Edgewater Technology brings mission-critical eSolutions to clients primarily in
+the middle market. As the acquisition was accounted for as a purchase business
+combination, the consolidated financial statements include the operating results
+of Edgewater Technology from the date of acquisition. The cost of this
+acquisition has been allocated based on estimated fair market value of the
+assets acquired and liabilities assumed with the excess costs over fair values
+of net assets acquired recorded as goodwill. Amounts allocated to goodwill are
+amortized on a straight-line basis over 10 years.
+The aggregate consideration paid with respect to acquisitions was $07
+million and $427 million for 2000 and 1999, respectively. The remaining earnout
+for the acquisition of Edgewater Technology was determined as $12 million and
+was paid in the first quarter of 2001. As this amount was fixed and
+determinable, it has been accrued and recorded as goodwill in the accompanying
+consolidated balance sheets.
+The unaudited consolidated results of operations for 1999 on a pro forma
+basis as though Edgewater Technology had been acquired as of the beginning of
+1999 are presented below.                                In Thousands, Except Per Share Data
+Revenues                                $ 19,830
+Net loss from continuing operations                  $ 1,201
+Net income                               $ 31,110
+Basic earnings per share:
+Continuing operations                        $  004
+Net income                              $  106
+Diluted earnings per share:
+Continuing operations                        $  004
+Net income                              $  105
+40 4.   DISCONTINUED OPERATIONS:
+On June 28, 2000, pursuant to a Purchase Agreement dated May 16, 2000 with
+Stephens Group, Inc., the Company sold all of its subsidiaries, and the assets
+and liabilities of its Commercial staffing segment to affiliate entities of
+Stephens Group, Inc. As consideration, the Company received gross proceeds of
+$1901 million in cash before fees, expenses and taxes. As part of the
+transaction, the Company sold the name StaffMark as that was the name used by
+the Commercial staffing segment.
+On July 13, 2000, the Company sold, through two indirect wholly-owned
+subsidiaries, all of its equity interests in Robert Walters through an initial
+public offering on the London Stock Exchange. Robert Walters had previously been
+the Company finance and accounting platform within its Professional/IT
+segment. The Company two subsidiaries sold 67,200,000 ordinary shares at a
+price of 170 pence per share or $257 at then current exchange rates. The
+shares began trading on a conditional basis on the London Stock Exchange on July
+6, 2000. On July 14, 2000, the underwriters exercised the over-allotment of
+10,400,000 ordinary shares. The Company share of offering gross proceeds,
+including the exercise of the over-allotment option, was $1992 million prior to
+offering commissions, fees and expenses.
+During the second quarter of 2000, in accordance with SFAS No. 121,
+Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to
+Be Disposed Of, the Company recorded a $150 million non-cash charge for the
+write-down of the goodwill in its IntelliMark and Strategic Legal Resources
+divisions to estimated realizable values. This write-down was largely due to a
+decline in the revenues, gross profit and cash flow of these divisions and the
+overall decrease in market values within these industries. Accordingly, the
+carrying values of these assets were written down to management estimates of
+fair value, which were based on market comparables for companies operating in
+similar industries.
+On September 22, 2000, the Company sold all of the outstanding stock of
+Strategic Legal Resources, the legal staffing platform within its
+Professional/IT segment, to a company owned by a group of investors including
+MidMark Capital II, L.P. and Edwardstone & Company for $1325 million, of which
+$425 million was represented by a promissory note. The balance of this note was
+collected in January 2001.
+On November 16, 2000, the Company sold all of the outstanding shares of
+stock of its subsidiaries that comprised IntelliMark, its IT staffing and
+solutions division, to IM Acquisition, Inc., an affiliate of Charlesbank Equity
+Fund V Limited Partnership, for approximately $427 million in cash, subject to
+potential upward or downward post-closing adjustments. In connection with this
+sale, the Company recorded a $539 million non-cash charge for the write-down of
+the goodwill in its IntelliMark division to estimated realizable values. The
+effect of this adjustment is included in net gain on sale of divisions in the
+accompanying consolidated statements of operations.
+On December 15, 2000, the Company entered into a Stock Purchase Agreement to
+sell all of its outstanding stock in ClinForce to Cross Country TravCorps, Inc.
+for approximately $31 million in cash, before fees and expenses and subject to
+potential upward or downward post-closing adjustment the Transaction. The
+Company held a Special Stockholders' Meeting on March 14, 2001 to approve the
+Transaction. After receiving approval from stockholders, the Transaction was
+closed on March 16, 2001. As a result of receiving this approval, the financial
+results for ClinForce are included in discontinued operations in the
+accompanying consolidated financial statements. The Company estimates that it
+will record a gain of approximately $144 million before taxes related to the
+Transaction during the first quarter of 2001.
+During the third and fourth quarter of 2000, as a result of the impending
+sale of the Company remaining two segments, the Company recorded nonrecurring
+expenses totaling approximately $38 million relating to the Company
+divestiture process and costs related to the closing of the Company former
+corporate headquarters in Fayetteville, Arkansas. The move of the corporate
+headquarters to Wakefield, Massachusetts, where the eSolutions segement is
+located, is expected to be completed during the second quarter of 2001. All of
+the remaining corporate employees approximately 25 have been or will be
+severed as a result of this restructuring. The restructuring expense includes
+future contractual obligations to certain employees, which extend through
+October 2001. As a result of the above, expenses of approximately $30 million
+for severance costs, $06 million for facility costs and $02 million for
+relocation costs were recorded in the third and fourth quarter of 2000 and have
+been included in discontinued operations.
+41   The following is a summary of the Company restructuring accrual, which has
+been included in accounts payable and other accrued liabilities in the
+accompanying consolidated balance sheets                            In Thousands
+Restructuring expenses:
+Severance                   $ 3,003
+Facility                      613
+Relocation                     160
+3,776
+Less cash outlays                   432
+Accrual at December 31, 2000           $ 3,344
+As a result of the completion of the transactions described above, the
+operating results for the Commercial staffing segment, Robert Walters, Strategic
+Legal, IntelliMark and ClinForce have been included in discontinued operations
+in the accompanying consolidated financial statements. Revenues from
+discontinued operations were $6675 million and $1,2058 million for 2000 and
+1999, respectively. Operating loss income from discontinued operations was
+$1455 million and $657 million for 2000 and 1999, respectively.
+Net assets from discontinued operations in the accompanying balance sheets
+represent the net assets of the discontinued operations for ClinForce as of
+December 31, 2000 and for the Commercial staffing segment, Robert Walters,
+Strategic Legal Resources, IntelliMark and ClinForce as of December 31, 1999.
+Components are as follows as of December 31                                          2000       1999
+In Thousands
+Accounts receivable, net                         $ 4,689     $178,948
+Prepaid expenses and other current assets                  857     12,831
+Property and equipment, net                          404      25,867
+Intangible assets, net                           11,779     396,044
+Other assets                                  30      2,546
+Accumulated translation adjustment                       -      2,572
+Accounts payable and accrued liabilities                   62     28,369
+Payroll and related liabilities                      1,147     24,156
+Reserve for workers' compensation claims                    -      9,607
+Income taxes payable                              5     3,751
+Long-term debt                                 -      9,324
+Net assets from discontinued operations                  $14,831     $543,601
+5.   EXTRAORDINARY ITEM - WAKEFIELD TRAGEDY:
+On December 26, 2000, a tragedy occurred at the Company Wakefield,
+Massachusetts office, where seven employees were murdered. As a result of this
+tragedy, the Wakefield office was closed during the last week of December 2000.
+The Company incurred expenses totaling approximately $05 million for items such
+as legal fees, foundation costs, family and employee counselors, and property
+and facility expenses. These costs are presented as an extraordinary expense,
+net of the applicable tax effect, in the accompanying consolidated statements of
+operations.
+6.   ACCOUNTS RECEIVABLE:
+Included in accounts receivable are unbilled amounts totaling approximately
+$21 million and $19 million at December 31, 2000 and 1999, respectively.
+Edgewater maintains allowances for potential losses which management believes
+are adequate to absorb losses to be incurred in realizing the amounts recorded
+in the accompanying consolidated financial statements.
+42 The following are the changes in the allowances for doubtful accounts                                     Years Ended December 31,
+2000    1999    1998
+In Thousands
+Balance at beginning of year                   $ 67   $  -   $   -
+Increases relating to acquisitions                 -     67      -
+Provision for bad debts                      54     -      -
+Charge-offs, net of recoveries                  86     -      -
+Balance at end of year                      $ 35   $ 67   $   -
+7.   PROPERTY AND EQUIPMENT:
+Components of property and equipment are as follows as of December 31                                           2000       1999
+In Thousands
+Furniture, fixtures and equipment                     $1,043      $2,280
+Computer equipment and software                       1,429       755
+Leasehold improvements                            623       475
+3,095      3,510
+Less accumulated depreciation and amortization                921       333
+$2,174      $3,177
+Depreciation expense related to property and equipment for the years ended
+December 31, 2000 and 1999 totaled approximately $06 million and $03 million,
+respectively.
+8.   INTANGIBLE ASSETS:
+Intangible assets consisted of the following as of December 31                                          2000       1999
+In Thousands
+Goodwill                                 $39,479     $38,325
+Other                                    2,088      1,564
+41,567      39,889
+Less accumulated amortization                        5,037       547
+$36,530     $39,342
+Amortization expense related to intangible assets for the years ended
+December 31, 2000 and 1999 totaled approximately $45 million and $05 million,
+respectively.
+9.   DEBT:
+The Company had a credit facility the Credit Facility with a consortium
+of banks which was used for working capital and other general corporate
+purposes, including acquisitions. As of December 31, 1999, maximum borrowings
+pursuant to the Credit Facility were limited to approximately $3250 million.
+Additionally, during December 1999, the Company obtained a commitment from two
+members of its Credit Facility to increase its borrowing capacity for an
+additional $100 million through January 2000. This increased borrowing capacity
+was not utilized by the Company. On March 31, 2000, the maximum amount of
+borrowings under the Credit Facility reverted back to $300 million. In April
+2000, the Company obtained a commitment from one member of the Credit Facility
+to increase its borrowing capacity for an additional $75 million through May
+2000 as a buffer for unexpected costs. This $75 million borrowing increase was
+never utilized by the Company. The $300 million portion of the Credit Facility
+was scheduled to mature in August 2003.
+In July 2000, using proceeds from the sale of its Commercial staffing
+segment and Robert Walters, the Company paid-off all of its outstanding
+borrowings under the Credit Facility and terminated the Credit Facility.
+43   Interest on borrowings was computed at the Company option, either the
+bank group prime rate or the London interbank offered rate, incrementally
+adjusted based on the Company operating leverage ratios. This rate averaged
+754% for the six months ended June 30, 2000 and 653% for the year ended
+December 31, 1999. As of December 31, 1999, the Company was required to pay a
+quarterly facility fee determined by multiplying the total amount of the Credit
+Facility by a percentage which varied based on the Company operating leverage
+ratios. As of December 31, 1999, this fee was 025% of the total amount of the
+Credit Facility.
+The Credit Facility required compliance with certain financial ratios and
+other operational covenants. The Company was in compliance with all covenants at
+December 31, 1999. The Credit Facility was secured by all of the issued and
+outstanding capital stock of the Company domestic subsidiaries and 65% of the
+issued and outstanding capital stock of the Company first tier foreign
+subsidiaries.
+10. FINANCIAL INSTRUMENTS:
+In 1998, the Company entered into fixed interest rate swap agreements with
+a notional amount of $600 million related to borrowings under the Credit
+Facility to hedge against increases in interest rates which would increase the
+cost of variable rate borrowings under the Credit Facility. In May 2000, the
+Company terminated the agreements and recognized the proceeds as an asset to be
+amortized over the original life of the contracts. These swaps did not have a
+material impact on recorded interest expense during the periods presented. In
+July 2000, in conjunction with the repayment and termination of the Credit
+Facility, the Company wrote off the unamortized balance and recognized a gain of
+approximately $10 million on these swaps in the accompanying consolidated
+financial statements.
+The Company involvement with derivative financial instruments was limited
+to the interest rate swap agreements discussed above. The Company entered into
+these agreements as hedges against increases in interest rates which would
+increase the cost of its variable rate borrowings under our Credit Facility.
+Conversely, the Company was exposed to the risk that the cost of those
+borrowings would be higher than the amount computed under our Credit Facility
+should interest rates decline. In addition, the Company was exposed to credit
+risk in the event of non-performance by the bank facilitating these agreements
+but had no off-balance-sheet risk of accounting loss related to these
+agreements. At December 31, 2000, the Company had no open foreign currency
+derivatives.
+11. INCOME TAXES:
+The provision for income taxes consisted of the following for the years
+ended December 31                                     2000      1999      1998
+In Thousands
+Current:
+Federal                           $ 1,864   $ 9,935    $ 13,168
+State                               63      934     1,839
+Foreign                             2,404     3,457     5,228
+477     14,326     20,235
+Deferred
+Federal                            52,815     1,392     4,228
+State                             1,796      131      590
+Foreign                              71      145       71
+54,682     1,668     4,889
+Income tax benefit provision                  54,205    15,994     25,124
+Amounts attributable to discontinued operations         55,439    15,119     25,124
+Income tax provision benefit from continuing operations    $ 1,234    $  875   $   -
+44   The components of deferred income tax assets and liabilities as of
+December 31, 2000 and 1999 were as follows                                            2000      1999
+In Thousands
+Deferred income tax assets:
+Net operating loss carryforward                     $  62,397   $    -
+Accrued vacation                                 477       -
+Allowance for doubtful accounts                         483     2,028
+Depreciation and amortization                           40       -
+Workers' compensation reserves                           -     3,782
+Non-compete and deferred compensation agreements                  -      184
+Other                                       -     1,604
+Total deferred income tax assets                     63,397     7,598
+Deferred income tax liabilities:
+Change in income tax accounting method from cash
+to accrual basis in conjunction with termination of
+S Corporation status                              -     1,427
+Depreciation and amortization                           -     9,268
+Intangibles from asset purchase acquisitions                   557       -
+Other                                       59       -
+Total deferred income tax liabilities                    616     10,695
+Valuation reserve                                36,153       -
+$  26,628   $ 3,097
+Components of the net deferred tax assets liabilities reported in the
+accompanying consolidated balance sheets were as follows as of December 31, 2000
+and 1999                   2000                   1999
+Current    Long-term       Current     Long-term
+In Thousands
+Assets          $  900   $ 25,728        $ 7,414   $   184
+Liabilities           -       -         1,427    9,268
+$  900   $ 25,728        $ 5,987   $ 9,084
+The Company has net operating losses for federal income tax purposes of
+approximately $177 million, which expire through 2020. The utilization of these
+losses in any given year may be limited in the event that a significant
+ownership change, as defined, has occurred. A valuation allowance for the
+deferred tax assets has been recorded in the accompanying consolidated balance
+sheets as management believes that some deferred tax assets are more likely than
+not to be remain unrecoverable. In assessing the realizability of deferred
+income tax assets, management has considered scheduled reversals of the deferred
+income tax liabilities, projected future taxable income and the amount and
+expiration of net operating loss carryforwards.
+The differences in income taxes determined by applying the statutory
+federal tax rate of 34% for 2000, 1999 and 1998, to income from continuing
+operations before income taxes and the amounts recorded in the accompanying
+consolidated statements of income for the years ended December 31, 2000, 1999
+and 1998 result from the following                             2000         1999          1998
+Amount   Rate    Amount   Rate    Amount   Rate
+In Thousands
+Tax at statutory rate          $  161 340%  $ 1,010  340%   $   -        Add deduct:
+State income taxes, net of
+federal tax benefit           75  158       -    -       -    -
+Non-deductible amortization        1,436  3033      170   57       -    -
+Other, net                 116 245     35  12       -    -
+$  1,234  2606 %  $  875  295%   $   -                                                              45 12. EMPLOYEE BENEFIT PLANS:
+The Company maintains several defined contribution employee benefit plans,
+some of which allow eligible employees to defer a portion of their income
+through contributions to the plans. Contributions by Edgewater to the various
+plans were approximately $18 million, $16 million and $12 million for the
+years ended December 31, 2000, 1999 and 1998, respectively.
+In May 1997 and May 2000, the Company stockholders approved an employee
+stock purchase plan the Stock Purchase Plan which grants employees the right
+to purchase shares of the Company common stock at a price equal to the lower
+of 85% of the market value on the date of purchase or the beginning of the
+calendar quarter of the purchase. Purchases under the Stock Purchase Plan are
+limited to 10% of the respective employees' compensation and do not impact the
+Company reported net loss.
+13. STOCKHOLDERS' EQUITY AND STOCK OPTIONS:
+Common Stock    The Company stockholders had authorized 200 million shares of common
+stock and 10 million shares of preferred stock for issuance as of December 31,
+2000 and 1999, respectively. In January 2001, the Company completed an issuer
+tender offer in which the Company repurchased 1625 million shares of its common
+stock at $800 per share for aggregate consideration of $130 million, and common
+stock subject to certain vested in-the-money stock options. This repurchase of
+options will result in a $02 million compensation charge in January 2001.
+Dividends    Edgewater has not historically paid any dividends on its common stock and
+intends to continue this practice for the foreseeable future with regard to cash
+generated through its normal operations. The Company 1998 dividend in the
+accompanying consolidated statements of stockholders' equity was paid by Robert
+Walters prior to their pooling-of-interests transaction with the Company.
+Stock Options    In October 1999, Edgewater Board of Directors amended Edgewater 1996
+Stock Option Plan the Plan to increase the maximum number of shares of
+Edgewater common stock that may be issued under the Plan from 12% to 15% of
+the total number of shares of common stock outstanding. Options granted under
+the Plan generally become 33% vested after one year and then vest 33% in each of
+the next two years or become 40% vested after two years and then vest 20% in
+each of the next three years. Under the Plan, the exercise price of the option
+equals the market value of Edgewater common stock on the date of the grant,
+and the maximum term for each option is 10 years.
+Robert Walters maintained three stock option plans for its employees, all
+of which required compensatory accounting treatment under APB Opinion No. 25.
+Total compensation income recognized related to Robert Walters stock option
+plans was $07 million for the year ended December 31, 1998. This amount is
+included in discontinued operations in the accompanying consolidated statements
+of operations and reflected as an adjustment to paid-in capital in the
+accompanying consolidated statements of stockholders' equity.
+In February 2000, the Company adopted a subsidiary stock option plan the
+Subsidiary Plan for employees and consultants of Edgewater Technology, its
+eSolutions segment. The purpose of the Subsidiary Plan was to aid Edgewater
+Technology in attracting and retaining employees and consultants. The total
+amount of Edgewater common stock for which stock options could be granted under
+the Subsidiary Plan could not exceed 50 million shares of Edgewater common
+stock. In August 2000, the Subsidiary Plan was terminated and the options for
+29 million shares of the Company subsidiary stock that had been granted under
+this Subsidiary Plan were exchanged into 18 million options under a newly
+created parent company stock option plan the Parent Plan and into 11
+million options under the Company Amended and Restated 1996 Stock Option Plan.
+The Parent Plan excludes grants for directors and officers and for which stock
+option grants may not exceed 40 million shares of the Company common stock.
+As a result of this exchange, the Company recorded a one-time compensation
+charge of $02 million.
+46   A summary of Edgewater stock option activity is as follows                                        Weighted
+Average
+Shares Under     Price Per
+Option        Share
+Outstanding, December 31, 1997           2,106,223       $ 1470
+Granted                     1,107,786        2123
+Exercised                     155,963        285
+Forfeited                     180,563       1458
+Outstanding, December 31, 1998           2,877,483        1786
+Granted                     1,588,335        819
+Exercised                     53,486        533
+Forfeited                     747,983       1684
+Outstanding, December 31, 1999           3,664,349        1406
+Granted                     3,446,495        618
+Exercised                     18,358        403
+Forfeited                    1,446,840       1521
+Outstanding, December 31, 2000           5,645,646       $ 889
+Options exercisable were approximately 15 million, 10 million and 08
+million as of December 31, 2000, 1999 and 1998, respectively. The following is a
+summary of stock options outstanding and exercisable as of December 31, 2000             Options Outstanding                     Options Exercisable
+Weighted                Weighted
+Weighted Average    Average                Average
+Options    Range of      Remaining    Exercise Price       Options  Exercise Price
+Outstanding  Exercise Prices   Life In Years    Per Share       Exercisable   Per Share
+268,133   $ 213 - $600       81      $ 488          61,133    $ 388
+2,961,971   601 - 625       96        611         247,054      623
+573,000   626 - 750       86        725         144,000      727
+593,250    751 - 1000       82        853         191,466      842
+773,700   1001 - 1500       60       1240         649,882     1238
+475,592   1501 - 4075       66       2521         296,392     2492
+5,645,646                85      $ 881        1,589,927    $ 1250
+Options outstanding under the Amended and Restated 1996 Edgewater Stock
+Option Plan vested 100% upon the closing of the Transaction as this constituted
+a change in control as defined in the plan, except for 11 million stock
+options granted under this plan to officers of the Company eSolutions business
+in August 2000. Employees of the Commercial segment and IntelliMark hold
+approximately 14 million of these outstanding options, which terminate on April
+16, 2001, which is 30 days following the change in control. Employees of
+ClinForce hold approximately 01 million of these outstanding options, which
+terminate on June 14, 2001, which is 90 days following the change in control.
+As discussed in Note 2, Edgewater has elected to account for its stock
+options under the provisions of APB Opinion No. 25. Accordingly, no compensation
+expense has been recognized in the accompanying consolidated statements of
+operations other than the compensation expense recognized related to the
+Subsidiary Plan stock option plans as discussed above. Pursuant to the
+requirements of SFAS No. 123, the following disclosures are presented to reflect
+Edgewater pro forma net loss income for the years ended December 31, 2000,
+1999 and 1998, as if the fair value method of accounting prescribed by SFAS No.
+123 had been used. In preparing the pro forma disclosures, the fair value was
+estimated on the grant date using the Black-Scholes option-pricing model. These
+fair value calculations were based on the following assumptions                              Years Ended December 31,
+2000     1999    1998
+Weighted average risk-free interest rate      481%    634%    455%
+Dividend yield                     0%      0%      0%
+Weighted average expected life          5 years   5 years   5 years
+Expected volatility                  78%     80%     58                    47   Using these assumptions, the fair value of the noncompensatory stock options
+granted during the years ended December 31, 2000, 1999 and 1998 was
+approximately $140 million, $87 million and $120 million, respectively. The
+weighted average fair value per share of noncompensatory options granted during
+2000, 1999 and 1998 was $410, $564 and $1460, respectively. Had compensation
+expense been determined consistent with SFAS No. 123, utilizing the assumptions
+above and the straight-line amortization method over the vesting period, net
+loss income would have been adjusted to the following pro forma amounts                                        Years Ended December 31,
+2000     1999     1998
+In Thousands, Except Per Share Data
+Net loss income:
+As reported                          $51,207   $30,213   $18,639
+Pro forma                           $55,104   $28,616   $17,103
+Basic earnings per share:
+As reported                          $ 175   $ 103   $ 065
+Pro forma                           $ 189   $ 098   $ 060
+Diluted earnings per share:
+As reported                          $ 175   $ 102   $ 063
+Pro forma                           $ 189   $ 097   $ 058
+14.   EARNINGS PER SHARE:
+A reconciliation of weighted average shares used in computing basic and
+diluted earnings per share is as follows                                       2000      1999      1998
+In Thousands
+Weighted average common shares outstanding            29,212     29,280     28,593
+Dilutive effect of stock options                   -      246     1,034
+Weighted average common shares, assuming
+dilutive effect of stock options               29,212     29,526     29,627
+Options to purchase 24 million shares of common stock at prices ranging
+from $672 to $4031 per share were outstanding during 2000 but were not
+included in the computation of diluted earnings per share because the options'
+exercise prices were greater than the average market price of the Company
+common shares. These options, which expire ten years from the date of issue,
+were still outstanding as of December 31, 2000. Options to purchase
+approximately 21 million shares of common stock at prices ranging from $1138
+to $4075 per share were outstanding during 1999 but were not included in the
+computation of diluted earnings per share because the options' exercise prices
+were greater than the average market price of the Company common shares.
+15.   RELATED PARTY TRANSACTIONS:
+Edgewater has entered into agreements with certain stockholders and officers
+of the Company to lease certain parcels of land and buildings used in the
+Company operations. Rent expense related to these facilities totaled
+approximately $04 million, $05 million and $06 million for the years ended
+December 31, 2000, 1999 and 1998, respectively. Future related party lease
+obligations relate to the Company current corporate headquarters in
+Fayetteville, Arkansas. As the Company corporate headquarters will be moving
+to Wakefield, Massachusetts during 2001, the Company is currently in the process
+of negotiating a sublease or assignment of the Fayetteville lease to a third
+party.
+48   Annual future minimum payments required under this lease are included in the
+table in Note 17 and are summarized as follows         Fiscal Years                Amount
+In Thousands
+2001                  $  223
+2002                    223
+2003                    223
+2004                    223
+2005                    234
+Thereafter                  861
+$ 1,987
+Included in other current assets as of December 31, 2000 and 1999 are advances
+to certain officers and employees totaling $01 million and $05 million,
+respectively.
+Synapse Group, Inc., one of our significant customers discussed in Note 19,
+is considered a related party as their President and Chief Executive Officer
+Michael Loeb is also a member of the Company Board of Directors. As of
+December 31, 2000, the Company maintained an accounts receivable balance of $22
+million from Synapse Group, Inc.
+16.   COMMITMENTS AND CONTINGENCIES:
+The Company has been subject to a number of stockholder lawsuits alleging
+that the Company and one of its officer/directors violated federal securities
+laws. Such actions were consolidated into one action in United States District
+Court for the Eastern District of Arkansas the Court. In June 2000, the
+Court issued a Memorandum Opinion and Order dismissing most of the allegations
+in the consolidated complaint. In November 2000, the Court granted the Company
+motion for partial reconsideration and dismissed all of the remaining
+allegations in the complaint. The plaintiffs filed a motion for reconsideration
+in December 2000 and, in January 2001, the Court rejected the plaintiffs'
+request for reconsideration resulting in the entire consolidated complaint being
+dismissed by the Court. In February 2001, the plaintiffs appealed the dismissal
+of the complaint to the Eight Circuit Court of Appeals in St. Louis, Missouri.
+Although the outcome is uncertain, the Company believes that this complaint is
+without merit and denies all of the allegations of wrongdoing and is vigorously
+defending the suit. Accordingly, no provisions have been made in the
+accompanying financial statements related to this matter.
+Edgewater is subject to certain claims and lawsuits arising in the normal
+course of business. Edgewater maintains various insurance coverages in order to
+minimize the financial risk associated with certain of these claims.
+Edgewater has employment agreements with certain executive officers and
+management personnel that provide for annual salaries, cost-of-living
+adjustments and additional compensation in the form of performance-based
+bonuses. Certain agreements include covenants against competition with
+Edgewater, which extend for a period of time after termination. These agreements
+generally continue until terminated by the employee or Edgewater.
+17.   NONCANCELABLE OPERATING LEASES:
+Edgewater leases office space and certain equipment under noncancelable
+operating leases through 2009. As discussed in Note 15, certain of these
+facilities are leased from related parties. Annual future minimum payments
+required under operating leases that have an initial or remaining noncancelable
+lease term in excess of one year are as follows         Fiscal Years                Amount
+In Thousands
+2001                  $1,120
+2002                    936
+2003                    822
+2004                    735
+2005                    574
+Thereafter                 1,007
+$5,194
+49   Rent expense, including amounts paid to related parties and for discontinued
+operations, was approximately $123 million, $136 million and $111 million for
+the years ended December 31, 2000, 1999 and 1998, respectively.
+18.   SEGMENT INFORMATION:
+As a result of the Company IT restructuring plan in late 1999, as
+discussed in Note 4, the Company determined that Edgewater Technology, its
+eSolutions business, was fundamentally different than the other components of
+its Professional/IT segment and the Company began managing the eSolutions
+segment as an autonomous business unit beginning in 2000. Accordingly, in
+January 2000, Edgewater began disaggregating the results of its eSolutions
+business unit and reviewing those results separately. These operations had
+previously been included in its Professional/IT segment.
+The Company eSolutions segment, provides eCommerce software solutions,
+consulting and development services. The corporate column below includes
+general corporate expenses, headquarters facilities and equipment, internal-use
+software, and other expenses not allocated to the segments. The corporate
+column includes general corporate expenses, headquarters facilities and
+equipment, internal-use software, and other expenses not allocated to the
+segment.
+The accounting policies used in measuring segment assets and operating
+results are the same as those described in Note 2. The Company evaluates
+performance of the segments based on segment operating income, excluding
+corporate overhead. The Company does not have any significant intersegment sales
+or transfers. Revenues and property and equipment for all periods presented are
+from operations in the United States.
+The results of the Company business segments as of and for the years
+ending December 31 are as follows                                Edgewater            Consolidated
+In Thousands                   Technology    Corporate     Totals
+2000
+Revenues                            $ 31,542    $    -     $ 31,542
+Selling, general and administrative expense            11,324      3,087       14,411
+Earnings before interest, taxes,
+depreciation and amortization                 4,718      3,164       1,554
+Depreciation and amortization                   5,062        16       5,078
+Operating loss                           344     3,180      3,524
+Capital expenditures                        1,420       118       1,538
+Total assets of continuing operations               45,257     194,612      239,869
+1999
+Revenues                            $ 15,040    $    -     $ 15,040
+Selling, general and administrative expense            4,083      5,024       9,107
+Earnings before interest, taxes,
+depreciation and amortization                 4,045      5,024       979
+Depreciation and amortization                    895        -        895
+Operating income loss                      3,150      5,024      1,874
+Capital expenditures                         157        5        162
+Total assets of continuing operations               45,856      24,602       70,458                    50 19.   SIGNIFICANT CUSTOMERS:
+The following table summarizes the revenue and accounts receivable from
+customers in excess of 10% of reported amounts for the periods presented.
+December 31,
+2000    1999
+Revenue
+Synapse Group, Inc.              270%   488%
+HomeRuns.com                  199%   130%
+American Student Assistance          180%   170                               December 31,
+2000    1999
+Accounts Receivable
+Synapse Group, Inc.              369%   339%
+HomeRuns.com                  165%           American Student Assistance          103%                         51 Supplementary Quarterly Financial Information In Thousands
+- 
+The net income and earnings per share amounts below include results from
+discontinued operations. Results for our eSolutions segment are included after
+April 1, 1999, the effective date of that acquisition.                              2000
+1st Quarter  2nd Quarter  3rd Quarter  4th Quarter     Total
+Service revenues        $7,087     $7,969    $ 8,360     $8,126    $31,542
+Gross profit          3,717     4,243     4,249     3,756     15,965
+Net income loss        1,931    106,776    61,578     7,940    51,207
+Basic earnings per
+share             $ 007     $362    $ 211     $028    $175
+Diluted earnings per
+share             $ 007     $361    $ 211     $028    $174                              1999
+1st Quarter  2nd Quarter  3rd Quarter  4th Quarter     Total
+Service revenues        $  -    $ 4,959     $5,072    $5,009     $15,040
+Gross profit                  2,748     2,835     2,545      8,128
+-
+Net income           6,407     10,759     7,822     5,225     30,213
+Basic earnings per
+share             $ 022    $ 037     $ 027    $ 018     $ 103
+Diluted earnings per
+share             $ 022    $ 037     $ 027    $ 018     $ 102                   First Quarter 2000             Second Quarter 2000
+Discontinued                 Discontinued
+Per Form 10-Q  Operations     Restated Per Form 10-Q  Operations     Restated
+Service revenues       $294,285   $287,198    $ 7,087    $65,040    $57,071     $7,969
+Gross profit          73,017    69,300     3,717     19,738    15,495      4,243
+Net loss - continuing      1,931    2,529      598   102,313    101,817       496
+Discontinued operations       -     2,529      2,529     1,712    101,817    100,105
+Loss on sale            -       -        -     6,175       -      6,175
+Net income loss        1,931       -      1,931    106,776       -     106,776
+Basic earnings per
+share            $  007       -     $ 007     $362       -      $362
+Diluted earnings per
+share            $  007       -     $ 007     $361       -      $361                  Third Quarter 2000             Fourth Quarter 2000
+Discontinued                 Discontinued
+Per Form 10-Q  Operations     Restated 4/th/ Quarter  Operations     Restated
+Service revenues       $15,547    $7,187    $ 8,360    $16,267    $8,141     $8,126
+Gross profit          6,544    2,295     4,249     6,240     2,484      3,756
+Net loss - continuing      430    1,170       740     2,154      828      1,326
+Discontinued operations    7,725    1,170     8,895    6,597     468     7,065
+Extraordinary item, net       -       -        -       -      360      360
+Gain on sale          69,733       -     69,733      811       -       811
+Net income loss       61,578       -     61,578     7,940       -      7,940
+Basic earnings per
+share             $ 211       -     $ 211     $028       -      $028
+Diluted earnings per
+share             $ 211       -     $ 211     $028       -      $028                    52                   First Quarter 1999             Second Quarter 1999
+Discontinued                 Discontinued
+Per Form 10-Q  Operations     Restated Per Form 10-Q  Operations     Restated
+Service revenues       $280,313   $280,313    $   -    $304,272   $299,313     $ 4,959
+Gross profit          68,945    68,945       -     78,255    75,507      2,748
+Net loss - continuing      6,407    6,937      530    10,759    10,854       95
+Discontinued operations       -     6,937      6,937       -     10,854      10,854
+Net income           6,407       -      6,407     10,759       -      10,759
+Basic earnings per
+share            $  022       -     $ 022    $  037       -     $ 037
+Diluted earnings per
+share            $  022       -     $ 022    $  037       -     $ 037                  Third Quarter 1999             Fourth Quarter 1999
+Discontinued                 Discontinued
+Per Form 10-Q  Operations     Restated 4/th/ Quarter  Operations     Restated
+Service revenues       $319,155   $314,083     $5,072   $317,113    $312,104     $5,009
+Gross profit          80,090    77,255     2,835    74,988     72,443      2,545
+Net loss - continuing      7,822    8,630      808    5,225     5,914      689
+Discontinued operations       -     8,630      8,630       -      5,914      5,914
+Net income           7,822       -      7,822     5,225        -      5,225
+Basic earnings per
+share            $  027       -     $ 027   $  018        -      $ 018
+Diluted earnings per
+share            $  027       -     $ 027   $  018        -      $ 018 Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+No matters were submitted to a vote of security holders during the fourth
+quarter of 2000.
+21                   PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+Information required by Part III of Form 10-K is omitted from this report
+because we will file a definitive proxy statement in accordance with Regulation
+14A of the SEC rules on or before April 30, 2001.
+a The information called for by Item 10 of Form 10-K for the
+identification of directors and executive officers of the Company is
+included in our proxy statement for our Annual Meeting of Stockholders
+to be held on June 6, 2001 is incorporated herein by reference to the
+material under the caption Election of Directors - Nominees for
+Election - Other Named Executive Officers.
+b The information called for by Item 10 of Form 10-K involving Item 405
+of Regulation S-K is incorporated by reference to the material under
+the caption Stock Ownership - Section 16 a Beneficial Ownership
+Reporting Compliance in our proxy statement for our Annual Meeting of
+Stockholders to be held on June 6, 2001.

@@ -1,0 +1,1591 @@
+ITEM 8. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA                 EXELIXIS, INC.
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+Page #
+Report of Ernst & Young LLP, Independent Auditors          39
+Report of PricewaterhouseCoopers LLP, Independent Accountants    40
+Consolidated Balance Sheets                     41
+Consolidated Statements of Operations                42
+Consolidated Statements of Stockholders' Equity Deficit      43
+Consolidated Statements of Cash Flows                44
+Notes to Consolidated Financial Statements             45         REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+To the Board of Directors and Stockholders of Exelixis, Inc.
+We have audited the accompanying consolidated balance sheets of Exelixis, Inc.
+as of December 31, 2002 and 2001, and the related consolidated statements of
+operations, stockholders' equity and cash flows for the years then ended. These
+financial statements are the responsibility of the Company management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Exelixis, Inc. at
+December 31, 2002 and 2001, and the consolidated results of its operations and
+its cash flows for the years then ended in conformity with accounting principles
+generally accepted in the United States.
+As discussed in Note 6 of the notes to consolidated financial statements, the
+Company changed its method of accounting for goodwill and other intangible
+assets.
+/s/ Ernst & Young LLP
+Palo Alto, California
+January 31, 2003      REPORT OF PRICEWATERHOUSECOOPERS LLP, INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Stockholders of Exelixis, Inc.
+In our opinion, the accompanying consolidated statements of operations, of
+stockholders' equity and of cash flows present fairly, in all material respects,
+the financial position of Exelixis, Inc. and its subsidiaries at December 31,
+2000, and the results of their operations and their cash flows for the year
+ended December 31, 2000, in conformity with accounting principles generally
+accepted in the United States of America. These financial statements are the
+responsibility of the Company management; our responsibility is to express an
+opinion on these financial statements based on our audit. We conducted our audit
+of these statements in accordance with auditing standards generally accepted in
+the United States of America, which require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements, assessing
+the accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audit provides a reasonable basis for our opinion. s/ PricewaterhouseCoopers LLP
+San Jose, California
+February 2, 2001                     EXELIXIS, INC.
+CONSOLIDATED BALANCE SHEETS
+in thousands, except share data
+December 31,
+2002     2001
+ASSETS
+Current assets:
+Cash and cash equivalents                    $   84,522  $ 35,584
+Short-term investments                         131,704   192,116
+Other receivables                            3,325    4,026
+Other current assets                           3,841    2,873
+Total current assets                         223,392   234,599
+Restricted cash                              5,761      -
+Property and equipment, net                        32,406   36,500
+Related-party receivables                          904     937
+Goodwill                                 67,364   62,357
+Other intangibles, net                           4,802    7,126
+Other assets                                4,484    5,095
+Total assets                          $   339,113  $ 346,614
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                         $    4,717  $  4,996
+Other accrued expenses                          7,167    4,744
+Accrued bonus                              2,504    2,366
+Accrued benefits                             2,556    3,731
+Obligation assumed to exit certain activities of Genomica         825    2,919
+Accrued merger and acquisition costs                     -    2,217
+Current portion of capital lease obligations               6,840    5,947
+Current portion of notes payable and bank obligations          1,840    1,200
+Deferred revenue                            23,790   12,237
+Total current liabilities                       50,239   40,357
+Capital lease obligations                         6,280   11,144
+Notes payable and bank obligations                     3,973     652
+Convertible promissory note and loan                   55,000   30,000
+Acquisition liability                             -    6,871
+Other long-term liabilities                         119      -
+Deferred revenue                             47,582   20,370
+Total liabilities                          163,193   109,394
+Commitments
+Stockholders' equity:
+Preferred stock, $0001 par value, 10,000,000 shares authorized
+and no shares issued                            -      -
+Common stock, $0001 par value; 100,000,000 shares authorized;
+issued and outstanding: 59,386,500 and 56,150,142 shares
+at December 31, 2002 and 2001, respectively                59     56
+Additional paid-in-capital                       463,764   444,229
+Notes receivable from stockholders                   1,210   2,205
+Deferred stock compensation, net                     977   4,137
+Accumulated other comprehensive income                  1,638     501
+Accumulated deficit                          287,354  201,224
+Total stockholders' equity                      175,920   237,220
+Total liabilities and stockholders' equity           $   339,113  $ 346,614
+The accompanying notes are an integral part of these consolidated financial statements.                   EXELIXIS, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+in thousands, except per share data                               Year Ended December 31,
+2002    2001    2000
+Revenues:
+Contract and government grants            $ 34,981  $ 33,518  $ 20,983
+License                         9,341   7,488   3,776
+Total revenues                    44,322   41,006   24,759
+Operating expenses:
+Research and development 1              112,014   82,700   51,685
+Selling, general and administrative 2         18,758   19,166   15,678
+Acquired in-process research and development         -   6,673   38,117
+Impairment of goodwill                    -   2,689     -
+Amortization of goodwill and intangibles          666   5,092    260
+Restructuring charge                    708     -     -
+Total operating expenses               132,146  116,320  105,740
+Loss from operations                   87,824  75,314  80,981
+Other income expense:
+Interest income                     5,916   6,316   6,225
+Interest expense                    2,885  2,186   679
+Other income expense, net                259     2    23
+Total other income expense              3,290   4,128   5,569
+Minority interest in consolidated subsidiary net loss     -     -    101
+Net loss from continuing operations before income tax  84,534  71,186  75,311
+Provision for income taxes                  345     -     -
+Net loss from continuing operations           84,879  71,186  75,311
+Loss from operations of discontinued segment-
+Genomica Corporation including loss on
+sale of $795                      1,251     -     -
+Net loss                        $86,130 $71,186 $75,311
+Loss per share from continuing operations        $ 150 $ 153 $ 243
+Loss per share from discontinued operations        002     -     -
+Net loss per share, basic and diluted          $ 152 $ 153 $ 243
+Shares used in computing basic and
+diluted net loss per share               56,615   46,485   31,031
+1 Includes stock compensation expense of $1,559, $5,004 and $9,433 in 2002, 2001 and
+2000, respectively.
+2 Includes stock compensation expense of $898, $2,360 and $4,589 in 2002, 2001 and
+2000, respectively.
+The accompanying notes are an integral part of these consolidated financial statements.                           EXELIXIS, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY DEFICIT
+in thousands, except share data
+Notes
+Additional   Receivable    Deferred
+Common Stock       Paid-in     From      Stock
+Shares   Amount  Capital   Stockholders  Compensation
+Balance at December 31, 1999              6,258,805  $   6 $  19,523  $    240 $   14,167
+Issuance of common stock under warrants and
+company stock plans, net of repurchases       4,928,299     5    3,782     1,862       -
+Repayment of notes from stockholders for
+the exercise of stock options                -     -      -       297        -
+Issuance of common stock, net of offering costs    10,465,000    10   124,514        -        -
+Issuance of common stock for acquisition        1,721,776     2    92,235        -        -
+Conversion of preferred stock             22,877,656    23    46,757        -        -
+Conversion of promissory note              480,769     1    7,499        -        -
+Deferred stock compensation                  -     -    10,029        -     10,029
+Amortization of deferred stock compensation          -     -      -        -     14,022
+Comprehensive loss:
+Net loss                           -     -      -        -        -
+Unrealized gain on available-for-sale securities       -     -      -        -        -
+Comprehensive loss
+Balance at December 31, 2000             46,732,305    47   304,339     1,805    10,174
+Issuance of common stock under warrants and
+company stock plans, net of repurchases        708,205     -    4,890        -        -
+Notes receivable from stockholders, net
+of repayments                        -     -      -      400       -
+Issuance of common stock, BMS collaboration       600,600     1    9,999        -        -
+Issuance of common stock for acquisition        8,109,032     8   123,672        -        -
+Variable compensation                     -     -    1,761        -        -
+Amortization of deferred stock compensation,
+net of terminations                     -     -     432       -      6,037
+Comprehensive loss:
+Net loss                           -     -      -        -        -
+Change in unrealized gain on available-
+for-sale securities                    -     -      -        -        -
+Cumulative translation adjustment              -     -      -        -        -
+Comprehensive loss
+Balance at December 31, 2001             56,150,142    56   444,229     2,205     4,137
+Issuance of common stock under company stock
+plans, net of repurchases               487,905     -    2,764        -        -
+Notes receivable from stockholders, net
+of repayments                        -     -      -       995        -
+Issuance of common stock, GSK collaboration      2,000,000     2    6,798        -        -
+Issuance of common stock for acquisition         748,453     1    10,676        -        -
+Amortization of deferred stock compensation,
+net of terminations                     -     -     703       -      3,160
+Comprehensive loss:
+Net loss                           -     -      -        -        -
+Change in unrealized gain on available-
+for-sale securities                    -     -      -        -        -
+Change in unrealized gain on derivative
+instruments                        -     -      -        -        -
+Cumulative translation adjustment              -     -      -        -        -
+Comprehensive loss
+Balance at December 31, 2002             59,386,500  $  59 $  463,764  $   1,210 $    977
+Accumulated
+Other       Total
+Accumulated  Comprehensive   Stockholders'
+Deficit     Income    Equity Deficit
+Balance at December 31, 1999            $  54,727 $      -  $    49,605
+Issuance of common stock under warrants and
+company stock plans, net of repurchases           -        -       1,925
+Repayment of notes from stockholders for
+the exercise of stock options                -        -        297
+Issuance of common stock, net of offering costs        -        -      124,524
+Issuance of common stock for acquisition            -        -       92,237
+Conversion of preferred stock                 -        -       46,780
+Conversion of promissory note                 -        -       7,500
+Deferred stock compensation                  -        -         -
+Amortization of deferred stock compensation          -        -       14,022
+Comprehensive loss:
+Net loss                        75,311        -      75,311
+Unrealized gain on available-for-sale securities       -       365        365
+Comprehensive loss                                     74,946
+Balance at December 31, 2000              130,038       365      162,734
+Issuance of common stock under warrants and
+company stock plans, net of repurchases           -        -       4,890
+Notes receivable from stockholders, net
+of repayments                        -        -        400
+Issuance of common stock, BMS collaboration          -        -       10,000
+Issuance of common stock for acquisition            -        -      123,680
+Variable compensation                     -        -       1,761
+Amortization of deferred stock compensation,
+net of terminations                     -        -       5,605
+Comprehensive loss:
+Net loss                        71,186        -      71,186
+Change in unrealized gain on available-
+for-sale securities                    -       236        236
+Cumulative translation adjustment              -       100       100
+Comprehensive loss                                     71,050
+Balance at December 31, 2001              201,224       501      237,220
+Issuance of common stock under company stock
+plans, net of repurchases                  -        -       2,764
+Notes receivable from stockholders, net
+of repayments                        -        -        995
+Issuance of common stock, GSK collaboration          -        -       6,800
+Issuance of common stock for acquisition            -        -       10,677
+Amortization of deferred stock compensation,
+net of terminations                     -        -       2,457
+Comprehensive loss:
+Net loss                        86,130        -      86,130
+Change in unrealized gain on available-
+for-sale securities                    -       305        305
+Change in unrealized gain on derivative
+instruments                        -       119        119
+Cumulative translation adjustment              -       713        713
+Comprehensive loss                                     84,993
+Balance at December 31, 2002            $  287,354 $    1,638  $    175,920
+The accompanying notes are an integral part of these consolidated financial statements.                         EXELIXIS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+in thousands
+Year Ended December 31,
+2002    2001    2000
+Cash flows from operating activities:
+Net loss                                  $ 86,130 $ 71,186 $ 75,311
+Adjustments to reconcile net loss to net cash
+used in operating activities:
+Loss from discontinued operations                      795      -      -
+Depreciation and amortization                       16,036   10,116    4,575
+Stock compensation expense                         2,457    7,364   14,022
+Amortization of goodwill and intangibles                   666    5,092     260
+Impairment of goodwill                             -    2,689      -
+Acquired in-process research and development                  -    6,673   38,117
+Other                                    409     23    101
+Changes in assets and liabilities:
+Other receivables                              604     75   1,043
+Other current assets                            734   1,689   2,206
+Related-party receivables                           33    454    125
+Other assets                                329   3,150   1,053
+Accounts payable and other accrued expenses                 643    2,816     240
+Obligation assumed to exit certain activities of Genomica Corporation   2,212     -      -
+Accrued merger and acquisition costs                   1,810     -      -
+Other long-term liabilities                         117     -    104
+Deferred revenue                             38,765   18,059    9,612
+Net cash used in operating activities                  30,924  23,768  12,867
+Cash flows provided by used in investing activities:
+Cash acquired in acquisition                            -    8,560     265
+Purchases of property and equipment                      5,851   9,094  15,386
+Change in restricted cash                           5,761     -      -
+Proceeds from sale-leaseback of equipment                     -     268    9,816
+Proceeds from maturities of short-term investments              174,424   147,143   44,689
+Proceeds from sale of investment before maturity               31,885    9,372      -
+Purchases of short-term investments                     147,889  150,844  135,821
+Net cash provided by used in investing activities            46,808    5,405   96,437
+Cash flows from financing activities:
+Proceeds from the issuance of common stock, net of offering costs       6,800   10,000   124,524
+Proceeds from exercise of stock options and warrants, net of repurchases     33     555     427
+Proceeds from convertible notes                        25,000   30,000      -
+Proceeds from employee stock purchase plan                   2,322    2,372     980
+Repayment of notes from stockholders                       995     296     297
+Principal payments on capital lease obligations                6,427   4,519   1,212
+Proceeds from bank obligations                         5,658      -      -
+Principal payments on notes payable and bank obligations           1,748   4,349   1,560
+Net cash provided by financing activities                 32,633   34,355   123,456
+Effect of foreign exchange rates on cash and cash equivalents           421     40      -
+Net increase in cash and cash equivalents                    48,938   16,032   14,152
+Cash and cash equivalents, at beginning of year                 35,584   19,552    5,400
+Cash and cash equivalents, at end of year                  $ 84,522  $ 35,584  $ 19,552
+Supplemental cash flow disclosure:
+Property and equipment acquired under capital leases            $  2,456  $ 11,175  $ 10,415
+Cash paid for interest                             2,798    1,041     679
+The accompanying notes are an integral part of these consolidated financial statements.                 EXELIXIS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1 THE COMPANY AND A SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The Company
+Exelixis, Inc. Exelixis or the Company is a biotechnology company whose
+primary mission is to develop proprietary human therapeutics by leveraging its
+integrated discovery platform to increase the speed, efficiency and quality of
+pharmaceutical product discovery and development. The Company uses comparative
+genomics and model system genetics to find new drug targets that Exelixis
+believes would be difficult or impossible to uncover using other experimental
+approaches. The Company research is designed to identify novel genes and
+proteins expressed by those genes, that, when changed, either decrease or
+increase the activity in a specific disease pathway in a therapeutically
+relevant manner. These genes and proteins represent either potential product
+targets or drugs that may treat disease or prevent disease initiation or
+progression. The Company most advanced proprietary pharmaceutical program
+focuses on drug discovery and development of small molecules in cancer. While
+the Company proprietary programs focus on drug discovery and development,
+Exelixis believes that its proprietary technologies are valuable to other
+industries whose products can be enhanced by an understanding of DNA or
+proteins, including the agrochemical, agricultural and diagnostic industries.
+Basis of Consolidation
+The consolidated financial statements include the accounts of the Company and
+its wholly-owned subsidiaries. All significant intercompany balances and
+transactions have been eliminated.
+The Company records its minority ownership interests in Genoptera LLC and
+Agrinomics LLC using the equity method of accounting.
+Use of Estimates
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosures of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ significantly from those
+estimates.
+Cash, Cash Equivalents, Short-Term Investments and Restricted Cash
+The Company considers all highly liquid investments purchased with an original
+maturity of three months or less to be cash equivalents. The Company invests its
+excess cash in high-grade, short-term commercial paper and money market funds,
+which invest in United States U.S. Treasury securities that are subject to
+minimal credit and market risk.
+All short-term investments are classified as available-for-sale and therefore
+carried at fair value. The Company views its available-for-sale portfolio as
+available for use in current operations. Accordingly, the Company has classified
+all investments as short-term, even though the stated maturity date may be one
+year or more beyond the current balance sheet date. Available-for-sale
+securities are stated at fair value based upon quoted market prices of the
+securities. Unrealized gains and losses on such securities, when material, are
+reported as a separate component of stockholders' equity. Realized gains and
+losses, net, on available-for-sale securities are included in interest income.
+The cost of securities sold is based on the specific identification method.
+Interest and dividends on securities classified as available-for-sale are
+included in interest income. The following summarizes available-for-sale securities included in cash and cash
+equivalents, short-term investments and restricted cash in thousands                              December 31,
+2002    2001
+Money market funds                   $ 45,724  $ 3,823
+Commercial paper                     42,112   27,306
+U.S. corporate bonds                   82,211  157,000
+Government debt                      21,938   13,016
+Market auction securities                 27,555   22,100
+Total                   $219,540  $223,245
+As reported:
+Cash equivalents                   $ 82,075  $ 31,129
+Short-term investments                 131,704  192,116
+Restricted cash                     5,761     -
+Total                   $219,540  $223,245
+The following is a reconciliation of cash and cash equivalents                              December 31,
+2002    2001
+Cash equivalents                    $82,075  $31,129
+Cash                           2,447   4,455
+$84,522  $35,584
+Net unrealized gains were $906,000 and $601,000 as of December 31, 2002 and
+2001, respectively. Gross unrealized gains and losses have not been shown
+separately as they were immaterial. Realized gains amounted to $65,000 in 2002 84,000 in 2001 and none in 2000.
+Property and Equipment
+Property and equipment are recorded at cost and depreciated using the
+straight-line method over their estimated useful lives, generally three to seven
+years. Leasehold improvements are amortized over the shorter of their estimated
+useful life or the remaining term of the lease. Equipment held under capital
+lease is stated at the lower of the cost of the related asset or the present
+value of the minimum lease payments and is amortized on a straight-line basis
+over the estimated useful life of the related asset. Repairs and maintenance
+costs are charged to expense as incurred.
+Intangible Assets
+Intangible assets have been amortized using the straight-line method over the
+following estimated useful lives  Developed technology              3 - 5 years
+Patents/core technology             15 years
+Assembled workforce 2001 and prior      3 years
+Goodwill 2001 and prior           15 years
+Beginning in 2002, the Company has applied the new rules of accounting for
+goodwill and other intangible assets in accordance with Statement of Financial
+Accounting Standards SFAS No. 142, Goodwill and Other Intangible Assets
+SFAS 142. Accordingly, goodwill and other intangible assets deemed to have
+indefinite lives are no longer amortized and are subject to annual impairment
+tests.
+Long-lived Assets
+The Company accounts for its long-lived assets under SFAS No. 144, Accounting
+for the Impairment or Disposal of Long-Lived Assets SFAS 144 adopted on
+January 1, 2002. SFAS 144 supersedes SFAS 121, Accounting for the Impairment
+of Long-Lived Assets and for Long-Lived Assets to Be Disposed Of SFAS 121.
+SFAS 144 retains the requirements of SFAS 121 to recognize an impairment loss
+only if the carrying amount of a long-lived asset is not recoverable from its
+undiscounted cash flows. During 2001, there was an impairment of goodwill under
+SFAS 121 related to the Genomica purchase as detailed in Note 2 of the Notes to
+Consolidated Financial Statements.
+Income Taxes
+The Company accounts for income taxes under the liability method. Under this
+method, deferred tax assets and liabilities are determined on the basis of the
+difference between the income tax bases of assets and liabilities and their
+respective financial reporting amounts at enacted tax rates in effect for the
+periods in which the differences are expected to reverse. A valuation allowance
+is established when necessary to reduce deferred tax assets to the amounts
+expected to be realized.
+Fair Value of Financial Instruments
+Carrying amounts of certain of the Company financial instruments, including
+cash and cash equivalents and short-term investments approximate fair value due
+to their short maturities. Based on borrowing rates currently available to the
+Company for loans and capital lease obligations with similar terms, the carrying
+value of the Company debt obligations approximates fair value.
+Concentration of Credit Risk
+Financial instruments that potentially subject the Company to concentrations of
+credit risk are primarily cash and cash equivalents, accounts receivable and
+investments in marketable securities. Cash equivalents and marketable
+securities consist of money market funds, taxable commercial paper, corporate
+bonds with high credit quality, U.S. government agency obligations and auction
+rate securities. All cash, cash equivalents and marketable securities are
+maintained with financial institutions that management believes are
+creditworthy. Accounts receivable are typically unsecured and are concentrated
+in the pharmaceutical and biotechnology industries. Accordingly, the Company
+may be exposed to credit risk generally associated with pharmaceutical and
+biotechnology companies. The Company has had no bad debt since inception.
+For the year ended December 31, 2002, revenue from two of the Company
+collaborators represented approximately 39% and 25% of total revenue,
+respectively. For the year ended December 31, 2001, revenue from three of the
+Company collaborators represented approximately 32%, 31% and 15% of total
+revenue, respectively. For the year ended December 31, 2000, revenue from two
+of the Company collaborators represented approximately 53% and 36% of total
+revenue, respectively.
+Revenue Recognition
+License, research commitment and other non-refundable payments received in
+connection with research collaboration agreements are deferred and recognized on
+a straight-line basis over the relevant periods specified in the agreements,
+generally the research term. Contract research revenues are recognized as
+services are performed pursuant to the terms of the agreements. Any amounts
+received in advance of performance are recorded as deferred revenue. Payments
+are not refundable if research is not successful.
+Milestone payments are non-refundable and recognized as revenue over the period
+of the research arrangement. This typically results in a portion of the
+milestone being recognized at the date the milestone is achieved, and the
+balance being recognized over the remaining research term of the agreement.
+Revenues from chemistry collaborations are generally recognized upon the
+delivery of accepted compounds.
+Research and Development Expenses
+Research and development costs are expensed as incurred and include costs
+associated with research performed pursuant to collaborative agreements.
+Research and development costs consist of direct and indirect internal costs
+related to specific projects as well as fees paid to other entities that conduct
+certain research activities on behalf of the Company.
+Derivative Financial Instruments
+The Company manages exposures to the changes in foreign currency exchange rates
+for its foreign operations through a program of risk management adopted in 2002
+that includes the use of derivative financial instruments. The Company utilizes
+derivative financial instruments solely to hedge identified exposures and by
+policy prohibits the use of derivative instruments for speculative or trading
+purposes. The Company derivative financial instruments are recorded at fair
+value and are included in other current assets or accrued expenses.
+The Company enters into foreign currency exchange combination option contracts
+denominated in European Union Euro Euro to minimize the effect of foreign
+exchange rate movements on the cash flows related to the Company payments to
+one of its German subsidiaries for services provided by the subsidiary. The
+Company has designated these derivatives as foreign currency cash flow hedges.
+The effective portion of the gain or loss on the derivative instrument is
+reported as a separate component of other comprehensive income and reclassified
+into earnings in the same period during which the hedged transaction impacts
+earnings. The remaining gain or loss on the derivative instrument in excess of
+the cumulative change in the present value of the future cash flows of the
+hedged item, if any, is recognized in other income or expense in current
+earnings in each reporting period.
+If a cash flow hedge were to be discontinued because it is probable that the
+original hedged transaction will not occur as anticipated, the unrealized gains
+or losses would be reclassified into earnings. Subsequent gains or losses on
+the related derivative instrument would be recognized in income in each period
+until the instrument matures, is terminated or is sold.
+During the year ended December 31, 2002, the Company did not recognize any gain
+or loss related to the ineffective portion of the hedging instruments and
+reclassified a gain of $227,000 from other comprehensive income into earnings
+under the caption, Research and development expense. As of December 31, 2002,
+the Company expects to reclassify $119,000 of net gains on derivative
+instruments from accumulated other comprehensive income to earnings over the
+next 12 months as a result of the payment of foreign currency to its German
+subsidiaries.
+Net Loss Per Share
+Basic and diluted net loss per share are computed by dividing the net loss for
+the period by the weighted average number of shares of common stock outstanding
+during the period adjusted for shares that are subject to repurchase. The
+calculation of diluted net loss per share excludes potential common stock
+because their effect is antidilutive. Potential common stock consists of common
+stock subject to repurchase, incremental common shares issuable upon the
+exercise of stock options and warrants and shares issuable upon conversion of
+the convertible promissory note.
+The following table sets forth potential shares of common stock that are not
+included in the computation of diluted net loss per share because to do so would
+be antidilutive for the periods indicated                      Year Ended December 31,
+2002    2001    2000
+Preferred stock               -     -  6,599,324
+Options to purchase common stock   9,005,171 5,198,676  2,187,836
+Common stock subject to repurchase   751,054 1,793,627  3,596,114
+Conversion of note and loan     6,740,464  783,504   588,942
+Warrants                257,053  485,218   524,397
+16,753,742 8,261,025 13,496,613
+Foreign Currency Translation
+Exelixis' subsidiaries located in Germany operate primarily using local
+functional currency. Accordingly, all assets and liabilities of these
+subsidiaries are translated using exchange rates in effect at the end of the
+period, and revenues and costs are translated using average exchange rates for
+the period. The resulting translation adjustments are presented as a separate
+component of accumulated other comprehensive income.
+Stock-based Compensation
+The Company has employee and director stock option plans that are more fully
+described in Note 10 of the Notes to Consolidated Financial Statements. The
+Company recognizes employee stock-based compensation under the intrinsic value
+method of accounting as prescribed by Accounting Principles Board Opinion 25
+APB 25, Accounting for Stock Issued to Employees and related
+interpretations. Accordingly, no compensation expense is recognized in the
+Company financial statements for the stock options granted to employees, which
+had an exercise price equal to the fair value of the underlying common stock on
+the date of grant. The following table illustrates the effect on net income and
+earnings per share if the Company had applied the fair value recognition
+provisions of SFAS No. 123, Accounting for Stock-Based Compensation SFAS
+123, as amended by SFAS No. 148, Accounting for Stock-Based Compensation -
+Transition and Disclosure - an amendment of FASB Statement No. 123 SFAS 148
+in thousands, except per share amounts                                      Year Ended December 31,
+2002    2001    2000
+Net loss:
+As reported                             $ 86,130 $71,186 $75,311
+Add: Stock-based employee compensation expense included
+in reported net loss                     2,076   5,857   11,023
+Deduct: Total stock-based employee compensation expense
+determined under fair value method for all awards   21,346  18,246  11,336
+Pro forma                              $105,400 $83,575 $75,624
+Net loss per share basic and diluted:
+As reported                             $  152 $ 153 $ 243
+Pro forma                              $  186 $ 180 $ 244
+Since options vest over several years and additional option grants are expected
+to be made in future years, the pro forma impact on the results of operations
+for the three years ended December 31, 2002 is not representative of the pro
+forma effects on the results of operations for future periods.
+For grants made in 2002 and 2001, the fair value of each option grant was
+determined using the Black-Scholes option pricing model with the following
+assumptions: volatility of 90% and 88%, respectively; 0% dividend yield;
+risk-free interest rate of 355% and 416%, respectively; and expected lives of
+four years. For grants made in 2000 prior to the initial public offering, the
+minimum value method was used with the following assumptions: 0% dividend yield;
+risk-free interest rate of 651%; and expected lives of five years. For grants
+made in 2000, subsequent to the initial public offering, the fair value of each
+option grant was determined using the Black-Scholes option pricing model with
+the following assumptions: volatility of 87%; 0% dividend yield; risk-free
+interest rate of 570%; and expected lives of four years. The fair value for
+shares purchased pursuant to the ESPP was determined using the Black-Scholes
+option pricing model with the following assumptions: volatility of 90%, 88% and
+87% for 2002, 2001 and 2000, respectively; 0% dividend yield; risk-free interest
+rate of 199%, 574% and 608% for 2002, 2001 and 2000, respectively; and
+expected lives of six months.
+The Company accounts for stock options issued to non-employees in accordance
+with the provisions of SFAS 123 and Emerging Issues Task Force 96-18,
+Accounting for Equity Instruments that are Issued to Other Than Employees for
+Acquiring, or in Conjunction with, Selling Goods or Services EITF 96-18.
+Compensation expense for stock options granted to non-employees has been
+determined as the fair value of the consideration received or the fair value of
+the equity instruments issued, whichever is more reliably measured and is
+periodically re-measured as the underlying options vest.
+Comprehensive Income
+Comprehensive income loss is comprised of net income loss and other
+comprehensive income loss. Other comprehensive income loss includes
+unrealized gains and losses on available-for-sale securities, unrealized gains
+and losses on cash flow hedges and cumulative translation adjustments.
+Comprehensive income loss for the years ended December 31, 2002, 2001 and 2000
+are as follows in thousands                                   Year Ended December 31,
+2002    2001    2000
+Net loss                             $86,130 $71,186 $75,311
+Less: Gains reazlied on available-for-sale securities        65    84     -
+Increase in unrealized gains on available-for-sale securities    370    320    365
+Increase in unrealized gains on cash flow hedges           119     -     -
+Increase decrease in cumulative translation adjustment       713    100     -
+Comprehensive loss                        $84,993 $71,050 $74,946
+The components of accumulated other comprehensive income are as follows in
+thousands                                  Year Ended December 31,
+2002     2001     2000
+Unrealized gains on available-for-sale securities     $    906 $    601  $    365
+Unrealized gains on cash flow hedges               119      -       -
+Cumulative translation adjustment                 613     100      -
+Accumulated other comprehensive income          $   1,638 $    501  $    365
+Reclassification
+Certain prior period amounts have been reclassified to conform to the current
+period presentation.
+NOTE 2 ACQUISITIONS
+Genomica Corporation
+On November 19, 2001, Exelixis and Genomica Corporation Genomica, a
+bio-informatics software company, announced a definitive agreement pursuant to
+which Exelixis would acquire Genomica in a stock-for-stock transaction valued at
+$1100 million. The transaction was structured as an offer for 100% of
+Genomica outstanding common stock to be followed by a merger of Genomica with
+a wholly-owned subsidiary of Exelixis. On December 28, 2001, Exelixis accepted
+for payment 22,911,969 shares of Genomica common stock, or 9394% of the total
+number of outstanding shares of common stock of Genomica. On January 8, 2002,
+the merger of Genomica was completed. Upon effectiveness of the merger,
+Genomica became a wholly-owned subsidiary of Exelixis. The transaction, which
+was accounted for under the purchase method of accounting in 2001, was effected
+through the exchange of 028309 of a share of Exelixis common stock for each
+outstanding share of Genomica common stock. A total of approximately 69
+million shares of Exelixis common stock were issued for all of the outstanding
+shares of Genomica common stock.
+The total consideration for the acquisition was approximately $1100 million,
+which consisted of Exelixis common stock valued at $1089 million and estimated
+Exelixis transaction costs of $11 million. As of December 31, 2001, Exelixis
+had issued only 9394% of the total consideration; accordingly, the Company
+recorded the value of the remaining 606%, or $69 million, as a long-term
+liability.
+The purchase price for Genomica was allocated to the assets acquired and the
+liabilities assumed based on their estimated fair values at the date of
+acquisition, as determined by management based on an independent valuation. As
+a result of this transaction, Exelixis recorded net tangible assets of $1062
+million including cash and investments of $1096 million, developed technology
+of $400,000, which would be amortized over three years, and goodwill of $34
+million. At the same time, Exelixis recorded goodwill impairment charge of $27
+million, which was expensed in 2001 to operations. The impairment of goodwill
+was calculated in accordance with SFAS 121 by estimating the present value of
+future cash flows for the ongoing Genomica licensing business using a risk
+adjusted discount rate. The goodwill impairment charge represented excess
+purchase price that Exelixis viewed as economically equivalent to financing
+costs for the acquired cash and investments. Information regarding goodwill is
+described in further detail in Note 6 of the Notes to Consolidated Financial
+Statements.
+The following table summarizes the fair values of the assets acquired and
+liabilities assumed at the date of the acquisition in thousands                           December 28,
+2001
+Cash, investments and interest receivable      $  111,302
+Other tangible assets liabilities, net          5,037
+Goodwill                          3,382
+Developed technologies                    400
+Net assets acquired                $  110,047
+Prior to the December 28, 2001 acquisition date, Exelixis adopted an exit plan
+for Genomica. Under this exit plan, the Company terminated Genomica entire
+workforce and abandoned its leased facilities in Boulder, Colorado and
+Sacramento, California. The estimated costs of the exit plan amounted to $29
+million and were included as part of the liabilities assumed in the acquisition.
+As of December 31, 2002, the remaining actions to be taken under the exit plan
+consisted primarily of residual payments related to the lease obligation for the
+facility in Boulder, Colorado, which are expected to continue until the
+termination of the lease in 2005, unless the facility is subleased earlier.
+The activity impacting the exit plan accrual during the year ended December 31,
+2002, including changes in estimates made by management based on available
+information, is summarized in the table below in thousands             Balance at        Change in  Assumed   Balance at
+December 31,   Cash   Reserve   by     December 31,
+2001    Payments  Estimate  Visualize    2002
+Severance and benefits $    1,216   1,493    277      -  $     -
+Lease abandonment        1,703    719    17    176      825
+Total exit costs   $    2,919   2,212    294    176 $     825
+In April 2002, Exelixis transferred the Genomica software business to Visualize,
+Inc. Visualize for future consideration of up to $24 million in license
+fees and royalty payments. Pursuant to the terms of the transaction, Visualize
+obtained a license with all rights and obligations to third parties currently
+licensing the Genomica software, including the sole right to further develop and
+license the software to other third parties. Royalties that Exelixis receives,
+if any, will be recorded in the period they are earned as a gain from
+discontinued operations. In addition, Visualize assumed the lease obligation
+for Genomica abandoned facility in Sacramento, California. Exelixis retains
+an internal use license for the software. As a result of this transaction, the
+Company reported the operating results of Genomica and the estimated loss on the
+sale of Genomica as discontinued operations. For the period beginning January
+1, 2002 to Genomica disposal in April 2002, Genomica operating results
+consisted of revenues of approximately $58,000 and an operating loss of
+approximately $456,000. The loss on the sale of Genomica includes the write-off
+of remaining goodwill of approximately $971,000, partially offset by the
+reversal of Genomica lease obligation for the Sacramento facility assumed by
+Visualize of approximately $176,000.
+Artemis Pharmaceuticals GmbH
+In May 2001, the Company acquired a majority of the outstanding capital stock of
+Artemis Pharmaceuticals GmbH Artemis, a privately held genetics and
+functional genomics company organized under the laws of Germany. The
+transaction, which was accounted for under the purchase method of accounting,
+was effected through the exchange of shares of Exelixis common stock for
+Deutschmark 100 of nominal value of Artemis capital stock, using an exchange
+ratio of 4064 to one. Approximately 16 million shares of Exelixis common stock
+were issued in exchange for 78% of the outstanding capital stock of Artemis held
+by Artemis stockholders. In addition, Exelixis received a call option the Call
+Option from, and issued a put option the Put Option to, certain
+stockholders of Artemis the Option Holders for the issuance of approximately
+460,000 shares of Exelixis common stock in exchange for the remaining 22% of the
+outstanding capital stock of Artemis held by the Option Holders. Exelixis could
+exercise the Call Option at any time from May 14, 2001 through January 31, 2002,
+and the Option Holders could exercise their rights under the Put Option at any
+time from April 1, 2002 through May 15, 2002. Exelixis exercised the Call
+Option for 131,674 shares and 329,591 shares in December 2001 and January 2002,
+respectively, which resulted in an increase to goodwill of approximately $19
+million and $40 million, respectively. In addition, Exelixis issued fully
+vested rights to purchase approximately 187,000 additional shares of Exelixis
+common stock to Artemis employees in exchange for such employees' vested options
+formerly representing the right to purchase shares of Artemis capital stock
+pursuant to the Artemis employee option program.
+As of December 31, 2002, the total consideration for the acquisition was
+approximately $282 million, which consisted of Exelixis common stock and
+options valued at $273 million and estimated Exelixis transaction costs of
+$900,000. Exelixis' transaction costs include financial advisory, legal,
+accounting and other fees.
+The total purchase price, which for financial accounting purposes was valued at
+$282 million, was allocated to the assets acquired and the liabilities assumed
+based on their estimated fair values at the date of acquisition, as determined
+by management based upon an independent valuation. As a result of this
+transaction, Exelixis recorded expense associated with the purchase of
+in-process research and development of $67 million, net tangible assets of $28
+million and intangible assets including goodwill of $187 million, the
+majority of which was being amortized over 15 years until December 31, 2001.
+The valuation of the purchased in-process research and development of $67
+million was based upon the results of an independent valuation using the income
+approach for each of the three significant in-process projects. The in-process
+projects relate primarily to the development of technologies that use vertebrate
+genetic model organisms, zebrafish and mice, to identify and functionally
+validate novel genes in vivo. These genes can be used as novel screening
+targets or as the basis for secreted proteins in clinically and commercially
+relevant diseases. The in-process projects have been abandoned or are expected
+to be completed over approximately the next two years. The income approach
+estimates the value of each acquired in-process project based on its expected
+future cash flows. The valuation analysis considered the contribution of the
+core technology as well as the percent complete of each in-process research and
+development project. The expected present value of the cash flows associated
+with the in-process research and development projects was computed using a risk
+adjusted rate of return of 30%, which is considered commensurate with the
+overall risk and percent complete of the in-process projects. The purchased
+in-process research and development was not considered to have reached
+technological feasibility, and it has no alternative future use, and
+accordingly, it was recorded as a component of operating expense.
+The revenues, expenses, cash flows and other assumptions underlying the
+estimated fair value of the acquired in-process research and development involve
+significant risks and uncertainties. The risks and uncertainties associated with
+completing the acquired in-process projects include the ability to reach future
+research milestones since the technologies being developed are unproven, the
+ability to retain key personal, the ability to obtain licenses to key technology
+and the ability to avoid infringing on patents and propriety rights of third
+parties.
+Agritope, Inc.
+In December 2000, Exelixis completed its acquisition of Agritope, Inc.
+Agritope. As a result of the acquisition, Agritope became a wholly-owned
+subsidiary of Exelixis, and was subsequently renamed Exelixis Plant Sciences,
+Inc. Exelixis Plant Sciences. The transaction, which was accounted for
+under the purchase method of accounting, was effected through the exchange of
+035 of a share of Exelixis common stock for each outstanding share of Agritope
+capital stock. Approximately 17 million shares of Exelixis common stock were
+issued in connection with the transaction. In addition, unexpired and
+unexercised options and warrants to purchase shares of Agritope capital stock
+were assumed by Exelixis pursuant to the transaction and converted into fully
+vested options and warrants to purchase approximately 880,000 shares of Exelixis
+common stock.
+The total consideration for the acquisition was approximately $935 million,
+which consists of Exelixis common stock, options and warrants valued at $922
+million and estimated Exelixis transaction costs of $13 million. Exelixis'
+transaction costs include financial advisory, legal, accounting and other fees.
+The purchase price for Agritope, which for financial accounting purposes was
+valued at $935 million, was allocated to the assets acquired and the
+liabilities assumed based on their estimated fair values at the date of
+acquisition, as determined by an independent valuation. As a result of this
+transaction, Exelixis recorded expense associated with the purchase of
+in-process research and development of $381 million, net tangible liabilities
+of $36 million and intangible assets including goodwill of $589 million, the
+majority of which was being amortized over 15 years until December 31, 2001.
+The valuation of the purchased in-process research and development of $381
+million was based upon the results of an independent valuation using the income
+approach for each of the ten projects in process. The in-process projects
+relate primarily to the development of disease and insect resistant fruits and
+vegetables and have been abandoned or are expected to be completed over
+approximately the next three and one-half years. The income approach estimates
+the value of each acquired in-process project based on its expected future cash
+flows. The valuation analysis considered the contribution of the core technology
+as well as the percent complete of each in-process research and development
+project. The expected present value of the cash flows associated with the
+in-process research and development projects was computed using a risk adjusted
+rate of return of 35%, which is considered commensurate with the overall risk
+and percent complete of the in-process projects. The purchased technology was
+not considered to have reached technological feasibility, and it has no
+alternative future use, and accordingly, it was recorded as a component
+operating expense.
+The revenues, expenses, cash flows and other assumptions underlying the
+estimated fair value of the acquired in-process research and development involve
+significant risks and uncertainties. The risks and uncertainties associated with
+completing the acquired in-process projects include obtaining the necessary
+regulatory approvals in a timely manner and being able to successfully and
+profitably produce, distribute and sell products.
+The Company acquired Vinifera, Inc. Vinifera in connection with the purchase
+of Agritope the parent company of Vinifera in 2000. Vinifera was organized as
+a majority-owned subsidiary and was engaged in the grape vine propagation
+business. On the date of acquisition, Exelixis committed to a plan to sell the
+Vinifera operations because this business did not fit with the strategic
+objectives of the Company. On March 31, 2001, the Company reduced its ownership
+interest in Vinifera from 57% to 19% by selling 30 million shares of Vinifera
+common stock back to Vinifera in consideration for $21 million in interest
+bearing promissory notes. As a result of the sale of Vinifera common stock back
+to Vinifera, Exelixis deconsolidated Vinifera, excluded its share of Vinifera
+operating losses for the first quarter of 2001 of $275,000 and recorded the
+following amounts as an adjustment to goodwill recorded in connection with the
+acquisition of Agritope: a write-down of the value of acquired developed
+technology attributable to Vinifera of $435,000, a gain on sale of Vinifera
+shares of $590,000 and a promissory note reserve of $1,700,000. The net
+adjustment was an increase to goodwill in the amount of $675,000. Beginning
+April 1, 2001, the Company accounted for its remaining investment in Vinifera
+using the cost method.
+As of December 31, 2001, the Company reserved for 100% of these promissory notes
+due to risks associated with collection. Due to a significant decline in the
+operating performance of Vinifera, in December 2001, the Company wrote down its
+remaining cost-basis investment in Vinifera to zero. Vinifera ceased operations
+in 2002.
+In connection with the Agritope acquisition, Exelixis also acquired interests in
+Agrinomics LLC Agrinomics, which is a 50% owned subsidiary that conducts a
+gene discovery program, and Superior Tomato Associates, LLC Superior Tomato,
+which was a 66-2/3% owned subsidiary formed to develop and market longer-lasting
+tomatoes. The Company dissolved Superior Tomato during 2001, which resulted in
+no material impact to its financial results. Agrinomics continues in existence.
+Pro Forma Results
+The Company audited historical statements of operations include the results of
+Genomica, Artemis and Agritope subsequent to the acquisition dates of December
+28, 2001, May 14, 2001 and December 8, 2000, respectively. The following pro
+forma financial information for the years ended December 31, 2001 and 2000
+presents the consolidated results of the Company as if the acquisition of
+Genomica, Artemis and Agritope had occurred at the beginning of 2000. The $43
+million restructuring charge that Genomica recorded in October 2001 is included
+in the following pro-forma information since this charge was not related to the
+acquisition. All other non-recurring charges relating to the acquisitions, such
+as acquired in-process research and development charge and impairment of
+goodwill charge, are not reflected in the following pro forma financial
+information. This pro forma information is not intended to be indicative of
+future operating results in thousands, except per share data                      Year Ended December 31,
+2001     2000
+Total revenues              $ 42,858   $ 31,207
+Net loss                  93,734   97,355
+Net loss per share, basic and diluted    174    204 NOTE 3 RESEARCH AND COLLABORATION AGREEMENTS
+Bayer
+In May 1998, the Company entered into a six-year research collaboration
+agreement with Bayer AG including its affiliates, Bayer to identify novel
+screening targets for the development of new pesticides for use in crop
+protection. The Company provided research services directed towards identifying
+and investigating molecular targets in insects and nematodes that may be useful
+in developing and commercializing pesticide products. The Company received a
+$12 million license fee upon execution of the agreement that was deferred and
+will be recognized as revenue over the term of the agreement.
+In December 1999, the Company significantly expanded its relationship with Bayer
+by forming a joint venture in the form of a new limited liability company,
+Genoptera LLC Genoptera. Under the terms of the Genoptera operating
+agreement, Bayer provides 100% of the capital necessary to fund the operations
+of Genoptera and has the ability to control the entity with a 60% ownership
+interest. The Company owns the other 40% interest in Genoptera without making
+any capital contribution and reports its investment in Genoptera using the
+equity method of accounting. Bayer initial capital contributions to Genoptera
+were $100 million in January 2000 and another $100 million in January 2001.
+Bayer is required to also contribute cash to Genoptera in amounts necessary to
+fund its ongoing operating expenses. Genoptera has incurred losses since
+inception. Since the carrying value of this investment is zero and there is no
+obligation to fund future losses, Exelixis has not recorded equity method losses
+to date for Genoptera.
+In January 2000, the Company, Bayer and Genoptera entered into an exclusive
+eight-year research collaboration agreement, which superceded the 1998 agreement
+discussed above. The Company is required to provide Genoptera with expanded
+research services focused on developing insecticides and nematicides for crop
+protection. Under the terms of the collaboration agreement, Genoptera paid the
+Company a $100 million license fee and a $100 million research commitment fee.
+One-half of these fees were received in January 2000, and the remaining amounts
+were received in January 2001. Additionally, Genoptera is required to pay the
+Company approximately $100 million in annual research funding. The Company can
+earn additional payments under the collaboration agreement upon the achievement
+of certain milestones. The Company can also earn royalties on the future sale by
+Bayer of pesticide products incorporating compounds developed against targets
+and assays under the agreement. The agreement also provides Bayer an exclusive
+royalty-free option to use certain technology developed under the agreement in
+the development of fungicides and herbicides. To the extent permitted under the
+collaboration agreement, if the Company were to develop and sell certain human
+health or agrochemical products that incorporate compounds developed under the
+agreement, it would be obligated to pay royalties to Genoptera. No such
+activities are expected for the foreseeable future.
+Bristol-Myers Squibb
+In September 1999, the Company entered into a three-year research and technology
+transfer agreement with Bristol-Myers Squibb Company Bristol-Myers Squibb or
+BMS to identify the mechanism of action MOA of compounds delivered to the
+Company by BMS. In July 2002, the agreement was extended for an additional two
+years. BMS agreed to pay the Company a $250,000 technology access fee, which is
+being recognized as revenue over the term of the agreement. Under the terms of
+the agreement, the Company is entitled to receive research funding ranging from
+$13 million in the first year up to as much as $25 million annually in future
+years. The Company can also earn additional amounts under the agreement upon
+the achievement of certain milestones as well as earn royalties on the future
+sale by BMS of human products incorporating compounds developed under the
+agreement. The agreement also includes technology transfer and licensing terms,
+which call for BMS and the Company to license and share certain core
+technologies in genomics and lead optimization.
+In July 2001, the Company and BMS entered into a collaboration involving three
+agreements: a a Stock Purchase Agreement; b a Cancer Collaboration
+Agreement; and c a License Agreement. Under the terms of the collaboration,
+BMS i purchased 600,600 shares of Exelixis common stock in a private placement
+at a purchase price of $3330 per share, for cash proceeds to Exelixis of
+approximately $200 million; ii agreed to pay Exelixis a $50 million upfront
+license fee and provide Exelixis with $30 million per year in research funding
+for a minimum of three years; and iii granted to Exelixis a worldwide,
+fully-paid, exclusive license to an analogue to Rebeccamycin developed by BMS,
+which is currently in Phase I and Phase II clinical trials for cancer. Due to
+risk and uncertainties with Rebeccamycin, and because the analogue had not
+reached technological feasibility and has no alternative use, the analogue was
+assigned no value for financial reporting purposes. Exelixis has agreed to
+provide BMS with exclusive rights to certain potential small molecule compound
+drug targets in cancer identified during the term of the research collaboration.
+The premium in excess of fair market value of $100 million paid for the common
+stock purchased by BMS is being accounted for similar to an upfront license fee
+and is being recognized ratably over the life of the contract.
+SmithKlineBeecham Corporation
+In October 2002, Exelixis and SmithKlineBeecham Corporation GSK established
+a collaboration to discover and develop novel therapeutics in the areas of
+vascular biology, inflammatory disease and oncology. The collaboration involved
+three agreements: a a Product Development and Commercialization Agreement; b
+a Stock Purchase and Stock Issuance Agreement; and c a Loan and Security
+Agreement. Under the terms of the Product Development and Commercialization
+Agreement, GSK has paid the Company $300 million in an upfront fee and $100
+million in annual research funding, and has agreed to pay a minimum of an
+additional $800 million in research and development funding over the first six
+years of the collaboration.
+Under the terms of the Stock Purchase and Stock Issuance Agreement, GSK
+purchased two million shares of Exelixis' common stock in a private placement at
+a purchase price of $700 per share, which represented a premium of
+approximately 100% to the stock price on the effective date of the agreements.
+The Company received cash proceeds of approximately $140 million for the
+purchase of these shares. Exelixis has the option to sell additional common
+shares to GSK in the future.
+Under the Loan and Security Agreement, GSK provided a loan facility of up to
+$850 million for use in the Company efforts under the collaboration, and the
+Company borrowed $250 million under that agreement in December 2002. All loan
+amounts bear interest at a rate of 4% per annum and are secured by the
+intellectual property, technology and equipment created or utilized pursuant to
+the collaboration. Principal and accrued interest become due in installments,
+beginning on or about the sixth anniversary of the collaboration, unless the
+collaboration is earlier terminated by GSK. Repayment of all or any of the
+amounts advanced to the Company under this agreement may, at the Company
+election, be in the form of Exelixis' common stock, subject to certain
+conditions.
+The upfront fee and the premium portion of the equity purchase have been
+deferred and will be recognized as revenue over the development term. Exelixis
+may also receive clinical and developmental payments based on the number and
+timing of compounds reaching specified milestones. Based on the continued
+successful development of these compounds, these payments could range from
+$2190 million to $3690 million, through the compounds' commercialization. Two
+years from the start of the collaboration, GSK and Exelixis may elect to expand
+the collaboration, and under this option, Exelixis' milestone payments could
+double, and the development funding and the loan facility would also be
+significantly expanded.
+Dow AgroSciences
+In July 2000, the Company entered into a three-year research collaboration with
+Dow AgroSciences LLC Dow AgroSciences to identify the MOA of herbicides and
+fungicides delivered to it under this agreement. The identity and function of
+these compounds are not known to the Company prior to their delivery.
+Under this agreement, the Company receives access to a collection of proprietary
+compounds from Dow AgroSciences that may be useful in the Company human
+therapeutic drug discovery programs.
+The Company is required to identify and validate targets and format assays to be
+used by Dow AgroSciences to develop new classes of fungicides and herbicides.
+Dow AgroSciences will pay the Company research support fees, milestone payments
+and royalties based on achievements in the research and commercialization of any
+resultant new products.
+Protein Design Labs
+On May 22, 2001, the Company and Protein Design Labs, Inc. PDL entered into
+a collaboration to discover and develop humanized antibodies for the diagnosis,
+prevention and treatment of cancer. The collaboration will utilize Exelixis'
+model organism genetics technology for the identification of new cancer drug
+targets and PDL antibody and clinical development expertise to create and
+develop new antibody drug candidates. PDL is required to provide Exelixis with
+$40 million in annual research funding until June 2003 and has purchased a
+$300 million convertible note. The note bears interest at 575%, and the
+interest thereon is payable annually. The note is convertible at PDL option
+any time after the first anniversary of the note issuance. The note is
+convertible into Exelixis common stock at a conversion price per share equal to
+the lower of i $28175 or ii 110% of the Fair Market Value as defined in
+the note of a share of Exelixis common stock at the time of conversion.
+Agrinomics
+In July 1999, Agritope and Aventis CropScience USA. LP Aventis CropScience,
+now Bayer CropScience LP, Bayer CropScience formed Agrinomics LLC to conduct
+a research, development and commercialization program in the field of
+agricultural functional genomics. As a result of the Company acquisition of
+Agritope, the Company owns a 50% interest in Agrinomics, while Bayer CropScience
+owns the remaining 50% interest. Bayer CropScience has agreed to make capital
+contributions to Agrinomics in cash totaling $200 million over a five-year
+period, of which $30 million and $40 million were contributed in 2002 and
+2000, respectively. There were no capital contributions made by Bayer
+CropScience to Agrinomics in 2001. Agritope contributed certain technology and
+a collection of seeds generated using such technology. In connection with the
+Company acquisition of Agritope, no portion of the purchase price was assigned
+to Agrinomics. Although the Company is required to account for its investment
+in Agrinomics under the equity method, the Company does not expect to include in
+its consolidated financial statements its proportionate share of the losses of
+Agrinomics until such time, if ever, that the Company makes a capital
+contribution to Agrinomics. There is no requirement for the Company to make
+capital contributions to Agrinomics.
+In December 2002, Agrinomics established an alliance to enhance seed oil content
+in commercially valuable crops with Renessen LLC. Renessen is a joint venture
+between Monsanto Company and Cargill, Inc. The collaboration combines
+Agrinomics' technological leadership in agricultural functional genomics,
+high-throughput gene screening and seed trait identification, developed at
+Exelixis Plant Sciences, with Renessen global expertise in quality trait crop
+development and commercialization, with the goal of accelerating the development
+of novel proprietary crops with improved seed composition traits. This
+collaboration leverages the unique capabilities of Agrinomics' powerful ACTTAG
+gene activation and selection platform to rapidly discover and validate genes
+that can optimize important seed traits in order to increase the commercial
+value of many of the world most significant agricultural crops. Under the
+terms of the collaboration, Renessen will provide Agrinomics with committed
+annual research funding ranging from $13 million in the first year up to as
+much as $20 million annually in future years, in addition to payments for the
+selection of genes and other product options. Agrinomics can also earn
+additional amounts under the agreement upon the achievement of certain
+milestones, as well as royalties on commercialized products that may emerge from
+the collaboration. In addition, Renessen will contribute research and product
+development capabilities in taking gene candidates identified by Agrinomics into
+crop products that include leading commercial germplasm.
+Pharmacia
+In February 1999, the Company entered into a research collaboration agreement
+with Pharmacia Corporation Pharmacia focused on the identification of novel
+targets that may be useful in the development of pharmaceutical products in the
+areas of Alzheimer disease and metabolic syndrome. Pharmacia agreed to pay the
+Company a $50 million non-refundable license fee, which was being recognized as
+revenue over the term of the agreement. Under the terms of the agreement, as
+expanded and amended in October 1999, the Company also received an obligation
+from Pharmacia to provide future research funding. In July 2001, the Company
+announced the reacquisition, effective February 2002, of future rights to the
+research programs. Pharmacia retained rights to targets under the existing
+agreement selected prior to the reacquisition date, subject to the payment of
+milestones for certain of those targets selected and royalties for future
+development of products against or using those targets. Pharmacia will have no
+other obligations to make payments to the Company, including approximately $90
+million in annual funding that would have otherwise been payable for an
+additional two years if the Company had not elected to reacquire rights to the
+research. As a result of this transaction, revenue recognition of upfront
+license fees and milestone payments was accelerated over the remaining term of
+the agreement.
+In connection with entering into the February 1999 agreement, Pharmacia also
+purchased 1,875,000 shares of Exelixis Series D preferred stock at $300 per
+share, resulting in net cash proceeds to the Company of $75 million. Further,
+Pharmacia loaned the Company $75 million in exchange for a non-interest bearing
+convertible promissory note. The convertible promissory note was converted into
+an aggregate of 480,769 shares of common stock of the Company in July 2000.
+Compound Collaborations
+The Company entered into collaboration agreements with Cytokinetics, Inc., Elan
+Pharmaceuticals, Inc., Schering-Plough Research Institute, Inc. and Scios Inc.
+in 2001 and Merck & Co., Inc. in 2002, to jointly design custom high-throughput
+screening compound libraries that Exelixis will synthesize and qualify. Each
+company is required to pay Exelixis a per-compound fee and has paid an upfront
+technology access fee that is creditable towards the future purchase of
+compounds. The upfront fees are initially deferred. Revenues under these
+collaboration agreements will generally be recognized upon delivery of the
+accepted compounds. Each party retains the rights to use the compounds in its
+own unique drug discovery programs and in its collaborative efforts with third
+parties.
+NOTE 4 RELATED PARTY TRANSACTIONS
+The Company had outstanding loans aggregating $904,000 and $937,000 to certain
+officers and employees at December 31, 2002 and 2001, respectively. The notes
+are general recourse or collateralized by certain real property assets, bear
+interest at rates ranging from 46% to 70% and have maturities through 2006.
+The principal plus accrued interest will be forgiven at various rates over three
+to four years from the employees' date of employment with Exelixis. If an
+employee leaves Exelixis, all unpaid and unforgiven principal and interest will
+be due and payable within 60 days.
+As of December 31, 2002, the Company also had outstanding loans aggregating $12
+million to its stockholders. The loans were issued to enable certain
+non-officer employees to purchase stock pursuant to their employee stock
+options. The loans bear interest at rates ranging from 613% to 650% and
+mature at various times through February 2004.
+For the years ended, December 31, 2002, 2001 and 2000, the Company recognized
+revenues of $136 million, $131 million and $132 million, respectively, under
+a collaboration agreement with Bayer through the Company joint venture with
+Genoptera.
+For the years ended, December 31, 2001 and 2000, the Company recognized revenues
+of $38 million and $237,000, respectively, under a collaboration agreement with
+Aventis CropScience through the Company joint venture with Agrinomics. During
+2002, Bayer completed the acquisition of Aventis S.A., including Aventis
+CropScience. As a result, Bayer assumed Aventis' 50% ownership of Agrinomics.
+The Company recognized revenues of $38 million under the Agrinomics joint
+venture for the year ended, December 31, 2002.
+NOTE 5 PROPERTY AND EQUIPMENT
+Property and equipment consists of the following in thousands                                   December 31,
+2002     2001
+Laboratory equipment                   $   31,998  $   24,884
+Computer equipment and software                 12,508     13,163
+Furniture and fixtures                      4,994     4,570
+Leasehold improvements                     15,810     15,410
+Construction-in-progress                      239      423
+65,549     58,450
+Less accumulated depreciation and amortization         33,143    21,950
+$   32,406  $   36,500
+Depreciation and amortization expense for the years ended December 31, 2002,
+2001 and 2000 included amortization of $65 million, $46 million and $11
+million, respectively, related to equipment under capital leases. Accumulated
+amortization for equipment under capital leases was $144 million, $79 million
+and $33 million at December 31, 2002, 2001 and 2000, respectively. The
+equipment under the capital leases collateralizes the related lease obligations.
+NOTE 6 GOODWILL AND OTHER ACQUIRED INTANGIBLES
+On January 1, 2002, the Company adopted SFAS No. 142, Goodwill and Other
+Intangible Assets SFAS 142, which addresses the financial accounting and
+reporting standards for goodwill and other intangible assets subsequent to their
+acquisition. This accounting standard requires that goodwill no longer be
+amortized, and instead, be tested for impairment on a periodic basis.
+In accordance with SFAS 142, the Company discontinued the amortization of
+goodwill effective January 1, 2002. In addition, the Company re-characterized
+any unamortized acquired assembled workforce as goodwill because it is no longer
+defined as an acquired intangible asset under SFAS No. 141, Business
+Combinations. Accordingly, no goodwill or acquired workforce amortization was
+recognized during the year ended December 31, 2002. The provisions of SFAS 142
+also required the completion of a transitional impairment test within 12 months
+of adoption, with any impairment treated as a cumulative effect of change in
+accounting principle. During the first quarter of 2002, the Company completed
+the transitional impairment test, which did not result in impairment of recorded
+goodwill.
+The Company adopted an annual goodwill impairment test date as of the beginning
+of the fourth quarter of 2002.  Following this approach, the Company will
+monitor asset-carrying values as of October 1, assess if there is a potential
+impairment and complete the measurement of impairment, if required. The Company
+will perform the impairment measurement procedures under SFAS 142 if it
+determines that a potential impairment of goodwill exists.
+The Company completed the annual impairment test as of October 1, 2002, which
+did not result in impairment of recorded goodwill.
+A reconciliation of previously reported net loss and net loss per share to the
+amounts adjusted for the exclusion of goodwill and assembled workforce
+amortization follows in thousands, except per share amounts                              Year Ended December 31,
+2002      2001     2000
+Reported net loss                $  86,130 $  71,186 $  75,311
+Add: Goodwill amortization                -     4,053      219
+Assembled workforce amortization           -      592       20
+Adjusted net loss                $  86,130 $  66,541 $  75,072
+Net loss per share, basic and diluted      $   152 $   153 $   243
+Add: Goodwill amortization                -      009      001
+Assembled workforce amortization           -      001      000
+Adjusted net loss per share, basic and diluted $   152 $   143 $   242
+Changes in the carrying amount of goodwill for the year ended December 31, 2002
+are as follows in thousands                             
+Balance as of December 31, 2001                $62,357
+Reclassification of intangible asset - assembled workforce    1,658
+Exercise of Artemis call option                 4,042
+Write-off of goodwill                       971
+Other                               278
+Balance as of December 31, 2002                $67,364
+The components of the Company other acquisition-related intangible assets are
+as follows in thousands                        December 31, 2002
+Gross
+Carrying   Accumulated
+Amount    Amortization    Net
+Developed technology      $    1,640 $    536 $    1,104
+Patents/core technology        4,269      571     3,698
+Total            $    5,909 $   1,107 $    4,802
+December 31, 2001
+Gross
+Carrying   Accumulated
+Amount    Amortization    Net
+Developed technology      $    1,640 $    156 $    1,484
+Patents/core technology        4,269      285     3,984
+Assembled workforce          2,270      612     1,658
+Total            $    8,179 $   1,053 $    7,126
+Amortization expense related to the other acquisition-related intangible assets
+was $666,000, $448,000 and $21,000 for the years ended December 31, 2002, 2001
+and 2000, respectively. The expected future annual amortization expense of the
+other acquisition-related intangible assets is as follows in thousands                      Amortization
+Year Ending December 31,          Expense
+-                     
+2003                        666
+2004                        666
+2005                        533
+2006                        377
+2007                        285
+Thereafter                    2,275
+Total expected future amortization  $     4,802
+NOTE 7 RESTRUCTURING CHARGE
+In November 2002, the Company implemented a restructuring plan. This
+restructuring plan was designed to facilitate the Company evolution into a
+fully integrated drug discovery company by reallocating resources to permit
+greater focus on building the Company expanding portfolio of development
+programs. The restructuring resulted in a reduction in workforce of 40
+employees, primarily from the Company U.S. research operations. Accordingly,
+the Company has recorded a restructuring charge in the fourth quarter of 2002 of
+$708,000, consisting primarily of involuntary termination benefits. As of
+December 31, 2002, substantially all amounts under the restructuring have been
+paid.
+NOTE 8 DEBT
+Under the Loan and Security Agreement executed in connection with the GSK
+collaboration, GSK provided a loan facility of up to $850 million for use in
+the Company efforts under the collaboration. The Company borrowed $250
+million under that agreement in December 2002. All loan amounts bear interest at
+a rate of 4% per annum and are secured by the intellectual property, technology
+and equipment created or utilized pursuant to the collaboration. Principal and
+accrued interest become due in installments, beginning on or about the sixth
+anniversary of the collaboration, unless the collaboration is earlier terminated
+by GSK. Repayment of all or any of the amounts advanced to the Company under
+this agreement may, at the Company election, be in the form of Exelixis'
+common stock, subject to certain conditions.
+In May 2002, the Company entered into a loan and security agreement with a bank
+for an equipment line of credit of up to $160 million with a drawdown period of
+one year. Each draw on the line of credit has a payment term of 48 months and
+bears interest at the bank published prime rate 425% at December 31, 2002.
+At December 31, 2002, approximately $51 million was outstanding under the line
+of credit, and $109 million remained available on the line of credit. Pursuant
+to the terms of the line of credit, the Company is required to maintain a first
+priority security interest in the form of a deposit or securities account at the
+bank equal to 110% of the outstanding obligation under the line of credit. This
+collateral account is managed in accordance with the Company investment policy
+and is restricted as to withdrawal. As of December 31, 2002, the collateral
+account had a cash balance of approximately $58 million, and the Company
+recorded this amount in the balance sheet as restricted cash.
+In connection with the acquisition of Artemis in May 2001, the Company assumed a
+loan agreement with the Federal Republic of Germany. The $254,000 loan, all of
+which is outstanding at December 31, 2002, requires the entire principal to be
+paid in one payment in January of 2004. The loan has an interest rate of 1% per
+annum to be paid quarterly.
+In May 2001, the Company issued a $300 million convertible promissory note to
+PDL in connection with a collaboration agreement see Note 3. The note bears
+interest at 575%, payable annually. The note, which matures in July 2006, is
+convertible at PDL option any time after the first anniversary of the note.
+The note is convertible into Exelixis common stock at a conversion price per
+share equal to the lower of i $28175 or ii 110% of the Fair Market Value
+as defined in the note of a share of Exelixis common stock at the time of
+conversion. The full amount of the note remained outstanding as of December 31,
+2002 and 2001.
+In connection with the acquisition of MetaXen in September 1999, the Company
+assumed a loan agreement that provided for the financing of equipment purchases.
+Borrowings under the agreement are collateralized by the assets financed and are
+subject to repayment over 36 to 48 months, depending on the type of asset
+financed. Borrowings under the agreement bear interest at the U.S. Treasury note
+rate plus a number of basis points determined by the type of asset financed. As
+of December 31, 2001, there was approximately $143,000 outstanding under this
+loan agreement, which was paid in full during the year ended December 31, 2002.
+In July 1998, the Company entered into a $50 million equipment and tenant
+improvements lending agreement of which the drawdown period expired in January
+2000. As of December 31, 2002 and 2001, there was approximately $426,000 and
+$15 million, respectively, outstanding under the lending agreement. Borrowings
+under the agreement have a payment term of 42 months, bear interest at 145% per
+year and are collateralized by the financed equipment.
+Aggregate future principal payments of the convertible promissory note, notes
+payable and bank obligations at December 31, 2002 are as follows in thousands Year Ending December 31                    
+2003                 $ 1,840
+2004                   1,682
+2005                   1,415
+2006                  30,876
+2007                     -
+Thereafter               25,000
+60,813
+Less current portion          1,840
+$ 58,973
+NOTE 9 COMMON STOCK AND WARRANTS
+Initial Public Offering
+On April 14, 2000, the Company completed an initial public offering in which it
+sold 9,100,000 shares of common stock at $1300 per share for net cash proceeds
+of approximately $1080 million, net of underwriting discounts, commissions and
+other offering costs. Upon the closing of the offering, all the Company
+mandatorily redeemable convertible preferred stock converted into 22,877,656
+shares of common stock. After the offering, the Company authorized capital
+consisted of 100,000,000 shares of common stock, $0001 par value, and
+10,000,000 shares of preferred stock, $0001 par value. On May 1, 2000, the
+underwriters exercised the over-allotment option to purchase an additional
+1,365,000 shares, resulting in net cash proceeds of approximately $165 million.
+Stock Repurchase Agreements
+Under the terms of the Company stock option plans, options are exercisable
+when granted, and, if exercised, the related shares are subject to repurchase
+upon termination of employment. Repurchase rights lapse over the vesting
+periods, which are generally four years. Should the employment of the holders of
+common stock subject to repurchase terminate prior to full vesting of the
+outstanding shares, the Company may repurchase all unvested shares at a price
+per share equal to the original exercise price. At December 31, 2002 and 2001,
+378,471 and 1,253,226 shares, respectively, were subject to such repurchase
+terms.
+Warrants
+Historically, the Company has granted warrants to purchase shares of capital
+stock to certain preferred stockholders and third parties in connection with
+financing and operating lease arrangements. In addition, in connection with the
+Agritope acquisition refer to Note 2, the Company assumed warrants to purchase
+239,167 shares of Company common stock. All of the Agritope warrants expired
+unexercised on December 31, 2001.
+At December 31, 2002, the following warrants to purchase common stock were
+outstanding and exercisable  Number  Exercise Price     Date      Expiration
+of Shares   per Share      Issued       Date
+-                          
+71,428 $     113   January 24, 1996 April 14, 2005
+106,875 $     400   May 1, 1999    April 14, 2005
+78,750 $     1300   April 1, 2000   April 14, 2005
+-  257,053 The Company determines the fair value of warrants issued using the Black-Scholes
+option pricing model. Prior to 1999, the fair value of warrants issued was not
+material, and accordingly, no value has been ascribed to them for financial
+reporting purposes.
+The Company determined the fair value of the warrants issued during 1999,
+related to a building lease, using the Black-Scholes option pricing model with
+the following assumptions: expected life of five years; a weighted average
+risk-free interest rate of 61%; expected dividend yield of zero; volatility of
+70%; and a deemed value of the common stock of $571 per share. The fair value
+of the warrants of $391,000 has been capitalized and is being amortized as rent
+expense over the term of the lease.
+The Company determined the fair value of the warrants issued during 2000,
+related to a building lease, using the Black-Scholes option pricing model using
+the following assumptions: expected life of five years; a weighted average
+risk-free interest rate of 638%; expected dividend yield of zero; volatility of
+70%; and a deemed value of the common stock of $1100 per share. The fair value
+of the warrants of $518,000 has been capitalized and is being amortized as rent
+expense over the term of the lease.
+Reserved Shares
+At December 31, 2002, the Company had approximately 191 million shares of
+common stock reserved for future issuance related to its stock plans, 401k
+plan, convertible note and loan and the exercise of outstanding warrants.
+NOTE 10 EMPLOYEE BENEFIT PLANS
+Stock Based Benefit Plans
+Stock Option Plans. In January 1995, the Company adopted the 1994 Employee,
+Director and Consultant Stock Option Plan 1994 Plan. The 1994 Plan provides
+for the issuance of incentive stock options, non-qualified stock options and
+stock purchase rights to key employees, directors, consultants and members of
+the Scientific Advisory Board SAB. In September 1997, the Company adopted
+the 1997 Equity Incentive Plan 1997 Plan. The 1997 Plan amends and
+supercedes the 1994 Plan. In January 2000, the Company adopted the 2000 Equity
+Incentive Plan 2000 Plan to replace the 1997 Plan. A total of 3,000,000
+shares of Exelixis common stock were initially authorized for issuance under the
+2000 Plan. On the last day of each year for ten years, starting in 2000, the
+share reserve will automatically be increased by a number of shares equal to the
+greater of: 5% of the Company outstanding shares on a fully-diluted basis; or
+that number of shares subject to stock awards granted under the 2000 Plan during
+the prior 12-month period.
+The Board of Directors or a designated Committee of the Board is responsible for
+administration of the Company employee stock option plans and determines the
+term, exercise price and vesting terms of each option. Incentive stock options
+may be granted at an exercise price per share at least equal to the estimated
+fair value per underlying common share on the date of grant not less than 110%
+of the estimated fair value in the case of holders of more than 10% of the
+Company voting stock. Options granted under the 1997 and 2000 Plans are
+exercisable when granted and generally expire ten years from the date of grant
+five years for incentive stock options granted to holders of more than 10% of
+the Company voting stock.
+In January 2000, the Company adopted the 2000 Non-Employees Directors' Stock
+Option Plan Director Plan. The Director Plan provides for the automatic
+grant of options to purchase shares of common stock to non-employee directors. A
+total of 500,000 shares of the Company common stock were initially authorized
+for issuance under the Director Plan. On the last day of each year for ten
+years, starting in 2000, the share reserve will automatically be increased by a
+number of shares equal to the greater of: 075% of the Company outstanding
+shares on a fully-diluted basis; or that number of shares subject to options
+granted under the Director Plan during the prior 12-month period. Each person
+who is a non-employee director will automatically receive an initial grant for
+25,000 shares. The initial grant is exercisable immediately but will vest at the
+rate of 25% of the shares on the first anniversary of the grant date and monthly
+thereafter over the next three years. In addition, on the day after each annual
+meeting of the Exelixis stockholders, each non-employee director will
+automatically receive an annual grant for 5,000 shares. This annual grant is
+exercisable immediately but will vest monthly over the following year.
+In connection with the acquisition of Agritope in December 2000, the Company
+assumed all the options granted and outstanding to consultants and employees
+under the Agritope, Inc. 1997 Stock Award Plan. Each outstanding Agritope stock
+option was converted into the right to purchase the number of shares of the
+Company common stock as determined using the applicable exchange ratio of 035
+refer to Note 2. All other terms and conditions of the Agritope stock options
+did not change and such options will operate in accordance with their terms.
+During April 2001, Exelixis granted approximately 545,000 supplemental stock
+options Supplemental Options under the 2000 Equity Incentive Plan to certain
+employees excluding officers and directors who had stock options with exercise
+prices greater than $1600 per share under the 2000 Equity Incentive Plan. The
+number of Supplemental Options granted was equal to 50% of the corresponding
+original grant held by each employee. The Supplemental Options have an exercise
+price of $1600, vest monthly over a two-year period beginning April 1, 2001 and
+have a 27-month term. The vesting on the corresponding original stock options
+was halted and will resume in April 2003 following the completion of vesting of
+the Supplemental Options. This new grant constitutes a synthetic repricing as
+defined in Financial Accounting Standards Board Interpretation Number FIN
+44, Accounting for Certain Transactions Involving Stock Compensation, and will
+result in certain options being reported using the variable plan method of
+accounting for stock compensation expense until they are exercised, forfeited or
+expire. For the years ended December 31, 2002 and 2001, the cumulative
+compensation expense recorded for the Supplemental Options was approximately
+$242,000 and $246,000, respectively.
+A summary of all option activity is presented below                               Weighted Average
+Shares     Exercise Price
+Options outstanding at December 31, 1999     4,466,527  $     029
+Granted                    4,992,725       1635
+Exercised                   4,683,309       053
+Cancelled                    283,108       362
+Options outstanding at December 31, 2000     4,492,835       1770
+Granted                    3,160,628       1447
+Exercised                    204,125       275
+Cancelled                    270,902      1992
+Options outstanding at December 31, 2001     7,178,436       1663
+Granted                    3,879,981       1125
+Exercised                    134,743       077
+Cancelled                    868,058      1848
+Options outstanding at December 31, 2002    10,055,616       1460
+At December 31, 2002, a total of 1,306,559 shares were available for grant under
+the Company stock option plans.
+The following table summarizes information about stock options outstanding and
+exercisable at December 31, 2002                       Options Outstanding and Exercisable
+Weighted Average   Weighted
+Remaining      Average
+Contractual Life   Exercise
+Exercise Price Range          Number      Years       Price
+-                                     
+001-$001                 1,125        38 $     001
+027-$040                371,821        56       028
+133-$133                 52,572        70       133
+335-$495                216,917        97       441
+505-$753                415,953        82       655
+775-$1147               2,335,764        89       916
+1194-$1699              4,826,752        75      1520
+1880-$2425              1,155,799        75      1976
+2975-$4050               633,413        76      3671
+4500-$4700                45,500        76      4654
+10,055,616        78      1460
+At December 31, 2002, a total of 378,471 shares of common stock purchased under
+the 1994, 1997 and 2000 Plans were subject to repurchase by the Company at a
+weighted average price of $092 per share. The weighted-average grant date fair
+value of options granted during the years ended December 31, 2002, 2001 and 2000
+was $738, $886 and $1001 per share, respectively.
+Deferred Stock Compensation. During the period from January 1, 1999 through
+December 31, 2002, the Company recorded $299 million of deferred stock
+compensation related to stock options granted to consultants and employees in
+accordance with APB 25, SFAS 123 and EITF 96-18. For options granted to
+consultants, the Company determined the fair value of the options using the
+Black-Scholes option pricing model with the following weighted-average
+assumptions: a no dividends; b expected volatility of 88%, 87% and 79% for
+2002, 2001 and 2000, respectively; c risk-free interest rate of 416% for
+2002, 570% for 2001 and 575% for 2000; and d expected lives of five and ten
+years for 2002, ten years for 2001 and four years for 2000. Stock compensation
+expense is being recognized in accordance with FIN 28, Accounting for Stock
+Appreciation Rights and Other Variable Stock Option or Award Plans, over the
+vesting periods of the related options, generally four years. The Company
+recognized stock compensation expense of $25 million, $74 million, $140
+million for the years ended December 31, 2002, 2001 and 2000, respectively.
+Stock Purchase Plan. In January 2000, the Company adopted the 2000 Employee
+Stock Purchase Plan the ESPP. The ESPP allows for qualified employees as
+defined in the ESPP to purchase shares of the Company common stock at a price
+equal to the lower of 85% of the closing price at the beginning of the offering
+period or 85% of the closing price at the end of each purchase period. The
+Company issued 388,770 shares, 224,780 shares and 88,683 shares of common stock
+during 2002, 2001 and 2000, respectively, pursuant to the ESPP at an average
+price per share of $597, $1056 and $1105, respectively. The weighted average
+per share fair value for shares purchased pursuant to the ESPP during 2002, 2001
+and 2000 was $445, $660 and $508, respectively. A total of 300,000 shares of
+common stock were initially authorized for issuance under the ESPP. On the last
+day of each year for ten years, starting in 2000, the share reserve will
+automatically be increased by a number of shares equal to the greater of: 075%
+of the Company outstanding shares on a fully-diluted basis; or that number of
+shares subject to stock awards granted under the plan during the prior 12-month
+period.
+401k Plan
+The Company sponsors a 401k Retirement Plan whereby eligible employees may
+elect to contribute up to the lesser of 20% of their annual compensation or the
+statutorily prescribed annual limit allowable under Internal Revenue Service
+regulations. The 401k Plan permits the Company to make matching contributions
+on behalf of all participants. Beginning in 2002, the Company matched 50% of
+the first 4% of participant contributions into the 401k Plan in the form of
+Company stock. The Company expensed approximately $521,000 related to the stock
+match for the year ended December 31, 2002.
+NOTE 11 INCOME TAXES
+The Company has incurred net losses since inception and, consequently, has not
+recorded any U.S. federal or state income taxes. The Company has recorded a tax
+provision of approximately $345,000 for the year ended December 31, 2002 related
+to income earned in its foreign operations.
+At December 31, 2002, the Company had federal and California net operating loss
+carryforwards of approximately $766 million and $367 million, respectively,
+which expire at various dates beginning in the year 2003. The Company also had
+federal and California research and development credit carryforwards of
+approximately $108 million in each jurisdiction, which expire at various dates
+beginning in the year 2010.
+Under the Internal Revenue Code, certain substantial changes in the Company
+ownership could result in an annual limitation on the amount of net operating
+loss carryforwards that can be utilized in future years to offset future taxable
+income. The annual limitation may result in the expiration of net operating
+losses and credits before utilization.
+Deferred tax assets and liabilities reflect the net tax effects of net operating
+loss and credit carryforwards and of temporary differences between the carrying
+amounts of assets and liabilities for financial reporting and the amounts used
+for income tax purposes.
+The Company deferred tax assets and liabilities consist of the following in
+thousands                                   December 31,
+2002    2001
+Deferred tax assets:
+Net operating loss carryforwards               $ 76,600  $ 36,700
+Capitalized start-up and organizational costs, net         200    787
+Tax credit carryforwards                    10,770   5,070
+Capitalized research and development costs            5,310   3,587
+Deferred revenue                        28,550   8,148
+Other                              2,640   1,562
+Total deferred tax assets                  124,070   55,854
+Valuation allowance                      122,150  53,004
+Net deferred tax assets                  $  1,920  $ 2,850
+Deferred tax liabilities:
+Purchased intangibles                      1,920  2,850
+Net deferred taxes                    $    -  $   -
+Realization of deferred tax assets is dependent upon future earnings, if any,
+the timing and amount of which are uncertain. Accordingly, the net deferred tax
+assets have been fully offset by a valuation allowance. The valuation allowance
+increased by $691 million, $89 million and $278 million during 2002, 2001 and
+2000, respectively.
+NOTE 12 COMMITMENTS
+Leases
+The Company leases office and research space and certain equipment under
+operating and capital leases that expire at various dates through the year 2017.
+Certain operating leases contain renewal provisions and require the Company to
+pay other expenses. Aggregate future minimum lease payments under operating and
+capital leases are as follows in thousands                             Operating   Capital
+Year Ending December 31,                 Leases     Leases
+-                                                  
+2003                         $   11,408   $ 7,321
+2004                             12,221    4,899
+2005                             11,547    1,817
+2006                             10,548      66
+2007                             10,403      -
+Thereafter                          97,772      -
+$   153,899    14,103
+Less amount representing interest                      983
+Present value of minimum lease payments                  13,120
+Less current portion                           6,840
+Long-term portion                            $ 6,280
+Rent expense under noncancellable operating leases was approximately $76
+million, $58 million and $39 million for the years ended December 31, 2002,
+2001 and 2000, respectively.
+In September 2000, the Company entered into a master lease agreement the
+Master Lease with a third-party lessor for a secured equipment lease line of
+up to $131 million. The Master Lease provided for quarterly borrowings and
+expired in June 2001. Each quarterly borrowing has a 35 year repayment term.
+At December 31, 2002, $55 million was outstanding under the Master Lease.
+Under the Master Lease, the Company is subject to certain financial covenants.
+As of December 31, 2002, the Company was in compliance with these covenants.
+During 2000, the Company entered into an equipment sale-leaseback agreement
+under the Master Lease resulting in proceeds to the Company of approximately
+$98 million.
+During April 2001, the Company entered into a master lease agreement with a
+third-party lessor for a secured equipment lease line of credit of up to $120
+million, which expired on March 31, 2002. The master lease agreement provides
+for a periodic delivery structure. Each delivery has a payment term of 36 or 48
+months depending on the type of the equipment purchased under the lease. At
+December 31, 2002, $74 million was outstanding under the equipment lease line
+of credit. Under the master lease agreement, the Company is subject to certain
+financial covenants. As of December 31, 2002, the Company was in compliance with
+all such covenants.
+Licensing Agreements
+The Company has entered into several licensing agreements with various
+universities and institutions under which it obtained exclusive rights to
+certain patent, patent applications and other technology. Aggregate future
+payments pursuant to these agreements are as follows in thousands Year Ending December 31                  
+2003                   $ 1,505
+2004                     1,016
+2005                     1,015
+2006                     1,015
+2007                     1,015
+Thereafter                  1,015
+$ 6,581
+In addition to the payments summarized above, the Company is required to make
+royalty payments based upon a percentage of net sales of any products or
+services developed from certain of the licensed technologies and milestone
+payments upon the occurrence of certain events as defined by the related
+agreements. No such royalties or milestones have been paid through December 31,
+2002.
+Minimum Purchase Obligation
+During November 2002, the Company entered into a manufacturing and supply
+agreement with BMS. BMS will manufacture bulk supply of the rebeccamycin analog
+for Exelixis. The Company placed an initial order totaling $12 million. This
+initial order may not be cancelled and the Company is obligated to pay the
+purchase price for that order. The parties agreed that the purchase price for
+the initial order would be paid in two equal installments on April 1, 2003 and
+July 1, 2003.
+Indemnification Agreements
+The Company has certain collaboration licensing agreements, which contain
+standard indemnification clauses. Such clauses typically indemnify the customer
+or vendor for an adverse judgment in a lawsuit in the event of the Company
+misuse or negligence. The Company considers the likelihood of an adverse
+judgment related to an indemnification agreement to be remote. Furthermore, in
+the event of an adverse judgment, any losses under such an adverse judgment may
+be substantially offset by corporate insurance.
+NOTE 13 QUARTERLY FINANCIAL DATA UNAUDITED
+The following tables summarize the unaudited quarterly financial data for the
+last two fiscal years in thousands, except per share data                              Fiscal 2002 Quarter End
+March 31,1    June 30,   September 30,  December 31,
+Total revenues            $    11,541  $    9,897  $    10,430  $    12,454
+Loss from operations             19,491     24,416     22,976     20,941
+Net loss                   18,421     23,904     22,943     20,862
+Basic and diluted net loss per share $    033 $    043 $    041 $    036
+Fiscal 2001 Quarter End
+March 31,    June 30,2   September 30,  December 31,3
+Total revenues            $    7,734  $    8,551  $    11,928  $    12,793
+Loss from operations             14,391     24,879     17,296     18,748
+Net loss                   12,719     23,708     16,490     18,269
+Basic and diluted net loss per share $    029 $    052 $    035 $    038 1 Amounts have been adjusted to reflect discontinued operations of Genomica.
+2 Includes a charge of $67 million relating to acquired in-process research
+and development recorded in connection with the acquisition of Artemis.
+3 Includes a charge of $28 million relating to impairment of goodwill
+recorded in connection with the acquisition of Genomica.

@@ -1,0 +1,992 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+INDEX TO FINANCIAL STATEMENTS
+AMISYS Managed Care Systems, Inc.                                      Page
+Report of Independent  20
+Balance  21
+Statements of  22
+Statements of Stockholders' Equity  23
+Statements of Cash  24
+Notes to Financial  25                INDEX TO SCHEDULES
+Schedule II - Valuation and Qualifying Accounts
+All other schedules are omitted because they are not applicable or the required
+information is included in the financial statements or notes thereto.
+19
+REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors of
+AMISYS Managed Care Systems, Inc.
+We have audited the accompanying balance sheets of AMISYS Managed Care
+Systems, Inc. the Company as of December 31, 1996 and 1995, and the related
+statements of operations, stockholders' equity deficit and cash flows for the
+years then ended and the period from May 27, 1994 to December 31, 1994, 
+respectively. We have also audited the accompanying statements of operations, 
+stockholder equity deficit and cash flows of American International 
+Healthcare, Inc. AIHI, a wholly owned subsidiary of American International
+Group, Inc. for the period from January 1, 1994 to May 26, 1994 see Note 1.
+These financial statements are the responsibility of the Company and AIHI
+management. Our responsibility is to express an opinion on these financial
+statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of the Company and AIHI for the
+periods described above and the results of operations and cash flows of the
+Company and AIHI for the periods described above, in conformity with generally
+accepted accounting principles.
+COOPERS & LYBRAND L.L.P.
+Washington, D.C.
+February 11, 1997
+20
+AMISYS Managed Care Systems, Inc.
+Balance Sheets
+dollars in thousands, except share data
+ASSETS
+December 31,       
+1996       1995      
+Current assets                                                    
+Cash and cash       $24,087      $ 5,354        
+Short-term        2,389      20,400        
+Accounts receivable,       14,781       6,362        
+Deferred income         501        251        
+Prepaid expenses and         209        453        
+Total current       41,967      32,820        
+Property and equipment,        2,313        970        
+Purchased software,         122        255        
+Total       $44,402      $34,045        
+LIABILITIES AND STOCKHOLDERS' EQUITY                   
+Current liabilities                                                 
+Accounts       $ 3,900      $ 2,164        
+Accrued salaries and wages                              920        495        
+Accrued        3,744       1,745        
+Income taxes         772        118        
+Deferred revenue,        1,282       2,206        
+Total current       10,618       6,728        
+Commitments and                      
+Stockholders'                      
+Common stock, $001 par value; 25,000,000 shares authorized,                          
+7,754,700 and 7,565,000 shares issued and outstanding as of December                      
+31, 1996 and 1995          8         8   
+Additional paid-in       33,832      32,062   
+Accumulated         56      4,753   
+Total stockholders'       33,784      27,317   
+Total liabilities and stockholders' equity.      $44,402      $34,045   
+The accompanying notes are an integral part of these financial statements
+21
+AMISYS Managed Care Systems, Inc.
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+Statements of Operations
+dollars in thousands, except share data
+AMISYS Managed Care Systems, Inc.          AIHI 
+For the      For the      May 27,    |  January 1
+Year Ended    Year Ended     1994 to    |   1994 to 
+December 31,   December 31,   December 31,  |   May 26,
+1996       1995       1994    |    1994 
+|                                                   |     
+Revenues                                                   |       
+System      $38,476      $26,753     $11,642   |   $6,318 
+Support and       7,962       5,034      2,745   |    1,730 
+|    
+Total       46,438       31,787      14,387   |    8,048 
+|       
+Cost of       24,264       17,278      7,714   |    4,402 
+|    
+|       
+Gross       22,174       14,509      6,673   |    3,646 
+|       
+Operating expenses                                              |       
+Sales and       3,935       2,961       738   |     592 
+Research and       7,715       5,502      3,270   |    1,708 
+General and       5,039       3,871      1,738   |     800 
+Write-off of purchased research and                                  |       
+--         --      6,516   |     -- 
+|    
+Total operating expenses.      16,689       12,334      12,262   |    3,100 
+|    
+|       
+Operating income       5,485       2,175      5,589   |     546 
+Other income                               |       
+Interest        38       622      387   |     23
+Interest       1,329        101        24   |     15 
+27         21        --   |     14 
+|    
+Total other income expenses.      1,318        500      363   |      6 
+|    
+|       
+Income loss before income tax provision..      6,803       1,675      5,952   |     552 
+Income tax       2,106         --       476   |     219 
+|    
+|       
+Net income      $ 4,697      $ 1,675     $6,428   |   $ 333 
+|    
+|       
+Net income loss per common share and common                                |       
+share      $ 057      $ 028     $ 109   |       
+|       
+|       
+Weighted average number of common shares                                   |       
+8,274,566     5,949,128    5,899,950   |       
+|       
+The accompanying notes are an integral part of these financial statements
+22
+AMISYS Managed Care Systems, Inc.
+For the period May 27, 1994 to December 31, 1994
+and for the years ended December 31, 1995 and 1996
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the the period January 1, 1994 to May 26, 1994
+Statements of Stockholders' Equity Deficit
+dollars and shares in thousands
+Class B           
+Common Stock        common stock     Additional        
+paid-in  Accumulated 
+Shares    Amount    Shares    Amount    Capital   Deficit    Total
+Balance, January 1, 1994.    2     $20                  $ 3,763    $908  $ 2,875
+Forgiveness of amounts due to affiliate    --     --                   1,300      --    1,300
+Net     --     --                     --     333     333
+Balance, May 26, 1994.    2     $20                  $ 5,063   $ 575  $ 4,508
+Balance, May 27, 1994.    --     --       --      --      --      --      Issuance of Class B common stock.    --     --      525      $1      $32      --     $33
+Net     --     --       --      --      --   $6,428   6,428
+Balance, December 31, 1994.    --     --      525       1      32    6,428   6,395
+Redesignation of Class B common stock
+to Common Stock.   525      1      525      1      --      --      Cancellation of restricted stock award.   24     --       --      --      --      --      Conversion of Class A common stock to
+Common   4,800      5       --      --     2,395      --    2,400
+Issuance of Common Stock, net of
+2,264      2       --      --    29,631      --   29,633
+Deferred stock compensation.    --     --       --      --       4      --      4
+Net     --     --       --      --      --    1,675    1,675
+Balance at December 31, 1995.  7,565      8       --      --    32,062    4,753   27,317 Exercise of options             114     --       --      --      124      --     124
+Issuance of Common Stock, net of
+76     --       --      --     1,094      --    1,094
+Tax benefit associated with stock options   --     --       --      --      502      --     502
+Deferred stock compensation..    --     --       --      --      50      --     50
+Net income..    --     --       --      --      --    4,697    4,697
+Balance at December 31, 1996..  7,755     $8       --      --    $33,832    $ 56  $33,784
+The accompanying notes are an integral part of these financial statements
+23
+AMISYS Managed Care Systems, Inc.
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+Statements of Cash Flows
+dollars in thousands
+AMISYS Managed Care          
+Systems, Inc.          AIHI
+|   
+For the  For the     May 27, | January 1,
+Year Ended Year Ended     to   |   to
+December  December    December |  May 26,
+31, 1996  31, 1995    31, 1994 |   1994
+|                                                        |  
+Cash flows from operating activities:                                        |
+Net income    $ 4,697  $  1,675   $6,428 |   $  333
+Adjustment to reconcile net income loss to net cash provided by                          |
+used in operating activities, net of                      |
+Provision for doubtful      111     183     114  |      5
+Deferred tax      250    648     --  |       Depreciation and      883     830     585  |     596
+Write-off of purchased research and       --      --    6,516  |       Tax benefit associated with stock      502      --      --  |       Deferred stock       50      4      --  |       Decrease increase in cash resulting from changes in assets                           |
+and                      |
+Accounts     8,530    327   1,711 |     362
+Income tax       --     171     --  |         Deferred income       --     397      --  |    234
+Prepaid expenses and      244     55     62  |    293
+Accounts payable and accrued     4,160    1,073     191  |   1,186
+Income taxes      654      98      20  |         Deferred      924    1,495     247  |     24
+|    
+Net cash provided by used in operating activities.    1,597    4,554     404 |    393
+|    
+Cash flows from investing activities:                                        |
+Purchase of property and     2,093   1,060    134 |     46
+Redemptions purchases of available-for-sale securities.    18,011   20,400     --  |       Capitalized software development       --      --      --  |    100
+Purchase of AIHI, net of cash acquired of       --      --    8,768 |                                                       |    
+Net cash provided by used in investing activities.    15,918   21,460   8,902 |    146
+|    
+Cash flows from financing activities:                                        |
+Advances received from       --      --      --  |     918
+Issuance of common stock, net of     1,218    29,633    2,433  |       Issuance of subordinated       --      --    9,600  |       Repayment of subordinated       --   10,100     --  |                                                       |    
+Net cash provided by financing     1,218    19,533    12,033  |     918
+|    
+Net increase in cash and cash     18,733    2,627    2,727  |     379
+Cash and cash equivalents at beginning of     5,354    2,727      --  |    1,136
+|    
+Cash and cash equivalents at end of    $24,087   $ 5,354   $ 2,727  |   $ 1,515
+|   Supplemental disclosure of cash flow information:                                  |
+Cash paid for    $  38   $  622   $  387  |   $  24
+|     Cash paid for income    $ 1,403   $  63   $  621  |   $  193
+|     Noncash investing and financing activities:                                    |   
+Conversion of Class A common    $  --   $ 2,400   $  --  |   $                                                    |      Subordinated notes issued to    $  --   $  --   $  500  |   $                                                    |      Forgiveness of amounts due to    $  --   $  --   $  --  |   $ 1,300  The accompanying notes are an integral part of these financial statements
+24
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+1. Description of Business and Summary of Significant Accounting Policies
+Description of Business
+AMISYS Managed Care Systems, Inc. the Company is a health care
+information systems company that develops, sells and supports the AMISYS system,
+a comprehensive managed health care administration and risk management
+information system. The principal markets for the AMISYS system are U.S. based
+companies within the managed health care industry.
+Basis of Presentation
+The accompanying financial statements represent the accounts of the
+Company, formerly American International Healthcare, Inc. AIHI, the
+surviving corporation of a merger between AIHI and AIH Systems, Inc. AIH
+which was incorporated on May 23, 1994 for the purpose of acquiring AIHI. On May
+27, 1994, AIH purchased 100% of the issued and outstanding shares of AIHI from
+American International Group, Inc. AIG, parent company of AIHI. The
+financial statements reflect the segregation of the operating activities for the
+periods related to the different owners. The post acquisition financial
+statements reflect the purchase accounting adjustments as described in Note 2.
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+judgments that affect the reported amounts of assets and liabilities and
+disclosures of contingencies at the date of the financial statements and
+revenues and expenses recognized during the reporting period. Actual results
+could differ from those estimates.
+Financial Statement Presentation
+On November 1, 1995, the Board of Directors authorized and the stockholders
+approved: i a two-for-one stock split of the outstanding shares of the
+Company common stock. Accordingly, all references to common stock, options,
+and per share data have been restated to give effect to the stock split.
+Revenue Recognition
+Revenues are derived primarily from the sale of information systems
+which include software, hardware, installation labor and consulting services.
+Contracts for the installation of AMISYS information systems are
+negotiated individually and are non-cancelable. The Company recognizes revenues
+from the sale of information systems using the percentage-of-completion method
+as the work is performed, measured primarily by the ratio of labor hours
+incurred to total estimated labor hours for each specific contract. When the
+total estimated cost of a contract is expected to exceed the contract price, the
+total estimated loss is charged to expense in the period when the information
+becomes known.
+25
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+Revenues from the sale of additional hardware subsequent to the initial
+AMISYS software license are recognized upon shipment in satisfaction of 
+non-cancelable agreements and upon determination that collectibility is
+probable. Revenues from software support and maintenance contracts are
+recognized ratably as the services are rendered.
+Amounts billed in advance of satisfying revenue recognition criteria are
+classified as deferred revenue in the accompanying balance sheet. Costs incurred
+in excess of the contract percent complete are classified as costs incurred on
+deferred revenue. Deferred revenue is presented net of costs incurred on
+deferred revenue.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with original
+maturities of 3 months or less to be cash equivalents. Cash and cash equivalents
+include time deposits with commercial banks used for temporary cash management
+purposes.
+Short-Term Investments
+At December 31, 1996 and 1995 short-term investments which mature
+within one year have been categorized as available-for-sale and are recorded at
+fair value. Fair values for available-for-sale securities are based on quoted
+market prices. The estimated fair value of each investment approximates the
+cost, and therefore there are no unrealized gains or losses as of December 31,
+1996 and 1995. Under Statement of Financial Accounting Standards No. 115,
+Accounting for Certain Investments in Debt and Equity Securities, unrealized
+gains and losses for available-for-sale securities are reported, net of any
+related income tax effect, as a separate component of stockholders' equity.
+Realized gains and losses on the sale of available-for-sale securities are
+included in the determination of net income in the period of disposition using
+the specific identification cost method. If the decline in fair value of an
+available-for-sale security is considered other than temporary, the cost basis
+of that security is written down to fair value as a new cost basis and the
+amount of the write-down is accounted for as a realized loss.
+Available-for-sale securities are summarized as follows 
+December 31, 1996         December 31, 1995
+Fair Value     Cost      Fair Value     Cost
+Federal agency securities       $1,853      $1,853        --           Commercial paper             536       536        --           Tax-exempt municipal bonds        --        --      $15,800     $15,800
+Tax-exempt municipal bond funds      --        --       4,600      4,600
+$2,389      $2,389      $20,400     $20,400
+26
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+Concentration of Credit Risk
+Financial instruments which potentially expose the Company to concentration
+of credit risk consist primarily of cash, short term investments and trade
+accounts receivable. The Company places its temporary cash and short-term
+investments in one or more financial institutions. The Company has not
+experienced any losses on these investments to date.
+The Company has not experienced significant losses related to receivables
+from individual customers or groups of customers in the health care industry.
+Due to these factors, no additional credit risk beyond amounts provided for
+collection losses is believed by management to be inherent in the Company
+accounts receivable. The largest customer at December 31, 1996 and 1995,
+represents 16% and 24%, respectively, of the total accounts receivable balance.
+Revenues from one customer represent 10% and 18% of total revenues for the years
+ended December 31, 1996 and 1995, respectively.
+Property and Equipment
+Computer equipment, office furniture and fixtures, and leasehold
+improvements are recorded at cost. Depreciation and amortization of furniture
+and equipment is recorded using the straight-line method over a useful life of
+three to five years. Leasehold improvements are amortized over the lesser of
+their estimated useful life or the lease term. Repairs and maintenance costs are
+charged to expense as incurred. Upon sale or retirement of property and
+equipment, the costs and related accumulated depreciation are eliminated from
+the accounts and any resulting gain or loss on such disposition is included in
+the determination of net income.
+Software Development Costs
+Software development costs, which are primarily comprised of salaries and
+related costs, are expensed until technological feasibility is established and
+then capitalized until a marketable product is completed. Technological
+feasibility is established upon completion of a working model. Amortization of
+capitalized software costs begins when the related product is available for
+general release to customers and is provided for each product based on the
+greater of the amount computed using i the ratio of current gross revenues to
+total current and anticipated future gross revenues for the related software or
+ii the straight-line method over a five-year life or the product estimated
+economic life, if shorter.
+The Company has not capitalized software development costs for the years
+ended December 31, 1996 and 1995 or the period ended December 31, 1994, as no
+product development activities were considered to have reached technological
+feasibility during these periods.
+27
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+As of May 27, 1994, all unamortized capitalized software development costs
+were written off as a result of the determination of the fair value of assets at
+the date of acquisition. Refer to Note 2 Acquisition for further discussion.
+Amortization of software development costs was $448 for the period January 1,
+1994 to May 26, 1994.
+Purchased Software
+Purchased software represents the fair market value of all rights to the
+AMISYS software product that were acquired when the Company was purchased from
+AIG. Purchased software costs are amortized on a straight line basis over their
+estimated useful life. The Company assesses the net realizable value and useful
+life of purchased software at each balance sheet date. Effective July 1, 1995,
+the Company changed its estimate of the useful life of purchased software to
+increase it from 18 to 42 months. The effect of this change in estimate was to
+decrease amortization expense and increase net income by $160 or $03 per common
+share for the year ended December 31, 1995.
+Purchased software consists of the following 
+December 31,
+1996    1995
+Capitalized cost.   $1,157   $1,157
+Accumulated amortization.    1,035     902
+Purchased software, net.   $ 122   $ 255
+The amount amortized during the years ended December 31, 1996 and 1995 was
+$133 and $452, respectively.
+Significant Supplier
+The Company purchases substantially all of its hardware for resale from a
+major hardware manufacturer. Purchases from this manufacturer were approximately
+$9,727, $10,751, $2,875, and $1,788, for the years ended December 31, 1996 and
+1995, and the periods May 27, 1994 to December 31, 1994 and January 1, 1994 to
+May 26, 1994, respectively.
+Research and Development
+Research and development costs are charged to expenses as incurred.
+28
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+Income Taxes
+The Company accounts for income taxes under Statement of Financial
+Accounting Standards No. 109, Accounting for Income Taxes, SFAS 109. Under
+SFAS 109, deferred tax assets and liabilities are recognized for the future tax
+consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured by applying enacted
+statutory tax rates, that are applicable to the future years in which deferred
+tax assets or liabilities are expected to be settled or realized, to the
+differences between the financial statement carrying amount and the tax bases of
+existing assets and liabilities. Under SFAS 109, the effect of a change in tax
+rates on deferred tax assets and liabilities is recognized in net income in the
+period in which the tax rate change is enacted. The statement also requires a
+valuation allowance against net deferred tax assets if, based upon the available
+evidence, it is more likely than not that some or all of the deferred tax assets
+may not be realized.
+Net Income Per Common Share
+Net income per common share is computed on a primary and fully diluted
+basis using the weighted average number of shares of common stock, assuming
+conversion of dilutive common stock equivalent shares from common stock options.
+Primary and fully diluted net income per common share were equivalent for all
+periods presented. Pursuant to the Securities Exchange Commission Staff
+Accounting Bulletin No. 83, common stock and common stock equivalent shares
+issued by the Company at prices below the public offering price during the
+twelve month period prior to the offering date of December 20, 1995 using the
+treasury stock method and the public offering price of $1450 per share have
+been included in the calculation of common and common equivalent shares as if
+they were outstanding for all periods presented.
+Net income per common share subsequent to the Company initial public
+offering is calculated in accordance with Accounting Principles Board Opinion
+No. 15 Earnings per Share.
+Reclassifications
+Certain reclassifications have been made to the prior years' financial
+statements to conform to the classifications used in the current period.
+29
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+2. Acquisition
+On May 27, 1994, 100% of the stock of AIHI was purchased from AIG. This
+transaction was accounted for using the purchase method of accounting. The total
+purchase price of $15,730, including assumed liabilities of $4,947 and
+acquisition costs of $283, has been allocated to the Company assets and
+liabilities based upon their estimated fair values as of the date of purchase.
+Adjustments necessary to reflect the fair value and purchase price
+allocations have been reflected in the post-acquisition financial statements.
+Approximately $1,200 of the purchase price was allocated to AIHI existing
+AMISYS software technology and is being amortized over its projected remaining
+useful life. Approximately $6,500 was allocated to in-process product
+development of a client/server version of the same software based on the
+determination of the future product net present value. The Company used a
+discounted cash flow model to determine the valuation of both products. At the
+time of the purchase, management determined that the purchased research and
+development had not reached technological feasibility and there was no
+alternative future use for this technology. Accordingly, this in-process product
+development was written-off as of May 27, 1994.
+3. Accounts Receivable
+The components of accounts receivable are as follows 
+December 31,
+1996    1995
+Trade accounts    $12,356   $5,792
+Unbilled     2,933    967
+Total accounts     15,289   6,759
+Allowance for doubtful accounts.     508   397
+Accounts receivable, net.   $14,781   $6,362
+While the Company negotiates its agreements with customers on an individual
+basis, most agreements call for a substantial initial payment and subsequent
+payments as set forth in the contract. Unbilled receivables represent amounts
+recognized as revenues under generally accepted accounting principles in excess
+of amounts billed under the individual contract.
+30
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+4. Property and Equipment
+Property and equipment consists of the following 
+December 31,
+1996    1995
+Computer equipment and software.   $3,038   $1,056
+Office furniture and      463     361
+Leasehold      --     66
+3,501    1,483
+Less: accumulated     1,188     513
+Property and equipment, net.   $2,313   $ 970
+Depreciation and amortization expenses were $750, $378, $135, and $148 for
+the years ended December 31, 1996 and 1995, and the periods May 27, 1994 to
+December 31, 1994 and January 1, 1994 to May 26, 1994, respectively. During the
+year ended December 31, 1996 the Company disposed of $75 of fully depreciated
+leasehold improvements.
+Refer to Note 2 Acquisition regarding adjustment of property and
+equipment to their estimated fair value.
+5. Deferred Revenue
+Costs and billings to date on uncompleted contracts are as follows 
+December 31,
+1996    1995
+Deferred    $3,223   $5,532
+Costs incurred on deferred revenue.    1,941    3,192
+Deferred revenue,    $1,282   $2,340
+6. Notes Payable                 
+Credit Agreement               
+The Company has a $4 million credit agreement with a bank commencing August
+18, 1995 and amended September 30, 1996. The credit agreement consists of up to
+a $3 million revolving loan, of which $1 million may be used for the issuance of
+a letter of credit, and up to a $35 million equipment line of credit. Total
+combined borrowings under the credit agreement may not exceed $4 million.
+Borrowings under the revolving line of credit bear interest at the Federal Funds
+Rate plus 20% and are collateralized by the underlying asset base of the
+Company. The terms of the credit agreement prohibit payment of dividends without
+the prior consent of the bank and contain other restrictive covenants, the most
+significant of which requires the Company to maintain a minimum ratio of
+liabilities to tangible net worth. Any issued letter of credit bears interest at
+an annual rate of 1%. This agreement is secured by certain assets of the Company
+and expires in September 1997.
+31
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+The Company has borrowings of $391 under the equipment line of credit
+arrangement which bears interest at a weighted average fixed annual rate of
+769%. These borrowings have been classified as accrued expenses in the balance
+sheet. The Company has not made any borrowings under the revolving loan of the
+line of credit arrangement since its inception.
+Subordinated Notes Payable
+In connection with the purchase of AIHI, the Company issued a class of 
+subordinated notes dated May 27, 1994, of which $500 was due and payable on
+May 27, 1999 and $9,600 was due and payable May 27, 2001. These notes, which
+were issued primarily to the Company stockholders, had an annual interest rate
+of 625% per year with interest payable monthly. The Company repaid these notes
+on December 26, 1995 with the proceeds of the initial public offering of the
+Company Common Stock.
+7.  Income taxes
+The provision for income taxes consists of the following:
+Year Ended    Year Ended     May 27 to    January 1,
+December 31,   December 31,    December 31,    to May 26,
+1996        1995        1994       1994
+|   
+|     
+Current provision                                        |
+$2,011       $ 318      $ 421   |   $ 325
+345         86        55   |     17
+|                              2,356        404       476   |     342
+|     Deferred benefit                                        |
+|
+221       318       --   |    123
+29        86       --   |                                                |                              250       404       --   |    123
+|     Provision for income taxes.   $2,106      $  --      $ 476   |    $ 219
+|     
+32
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+The provision for income taxes varies from the amount of income tax 
+expense computed by applying the applicable U.S. federal income tax rate of 34%
+to pretax income as follows 
+Year Ended    Year Ended     May 27 to    January 1,
+December 31,   December 31,    December 31,    to May 26,
+1996       1995        1994        1994
+|  
+Statutory U.S. tax        34%        34%      34%    |     34%
+State income        4%         5%       5%    |     4%
+Valuation allowance for net deferred tax assets.      11%       39%      45%    |     Other                                  4%                2%    |     2%
+|                                        31%                8%    |     40%
+|         Deferred income taxes arise from temporary differences between the tax 
+bases of assets and liabilities and their reported amounts in the financial
+statements. The tax effects of the primary temporary differences giving rise to
+the Company net deferred tax asset is comprised of the following 
+December 31,
+1996        1995
+Deferred Tax Asset
+Write-off of purchased research and        $1,877       $2,343
+Accounts receivable, due to allowance for doubtful accounts.        162        135
+Accrued          43         Accrued liabilities not currently          59        180
+Property and equipment, due to differences in
+depreciation          78         37
+Intangible assets, due to differences in          --         97
+2,219       2,792
+Deferred Tax Liability
+Unbilled revenue, deferred for         924       349
+5        98
+Total deferred tax        1,290       2,345
+Less: valuation         789      2,094
+Net deferred tax        $ 501      $  251
+33
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+As of December 31, 1996 and 1995, the deferred tax asset is comprised
+primarily of the write-off of purchased research and development costs, which
+are not allowable for tax purposes, but instead represent purchase price
+associated with the acquisition of AIHI, which for tax purposes is allocable to
+a purchased intangible asset under Internal Revenue Code Section 197, and is
+amortized over 15 years.
+8.  Commitments
+Operating Leases
+The Company occupies its office space and uses certain of its equipment 
+under terms of non-cancelable operating leases expiring at various dates through
+2001 and thereafter. Future minimum lease payments under non-cancelable
+operating leases at December 31, 1996 are as follows           $ 1,166
+1,353
+1,552
+1,583
+1,615
+Thereafter                     8,226
+$15,495
+Rent expense under non-cancelable operating leases amounted to $646, $510 388, and $237, net of sublease rental income of $0, $110, $95, and $64, for
+the years ended December 31, 1996 and 1995, the periods May 27, 1994 to December
+31, 1994 and January 1, 1994 to May 26, 1994, respectively.    Royalties
+The Company has agreements under which it has agreed to pay royalties
+to certain customers who financed the development of optional modules which may
+be included in the AMISYS software product. These agreements provide for royalty
+payments to these customers of up to 50% of the product revenue or a fixed
+amount per module sold. The royalty expense recognized related to these modules
+for the years ended December 31, 1996 and 1995, and the periods May 27 to
+December 31, 1994 and January 1, 1994 to May 26, 1994, was $366, $405, $273, and
+$151, respectively.
+9.  Class A Common Stock
+In May 1994, the Company issued 4,800,000 shares of mandatorily
+redeemable Class A common stock at $050 per share and received total cash
+proceeds of $2,400,000. At December 31, 1994 Class A common stock consisted of
+4,800,000 shares authorized, issued, and outstanding.
+34
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands    Each share of Class A common stock was automatically converted into
+one share of Common Stock upon the closing of the underwritten public offering
+pursuant to an effective registration statement dated December 20, 1995 under
+the Securities Act of 1933.
+10.  Stockholders' Equity
+Common Stock
+On November 21, 1995, the Company certificate of incorporation was
+amended to redesignate the Class B common stock into Common Stock, without
+classification. On December 20, 1995, the Company completed its initial public
+offering of 2,264,000 shares of Common Stock with proceeds to the Company after
+underwriting discounts and offering expenses of $29,633. The offering closed on
+December 26, 1995. In addition, upon closing of the offering, the Company
+certificate of incorporation was amended and restated to eliminate Class A
+common stock and to authorize the Company to issue 25,000,000 shares of Common
+Stock, $001 par value, and 5,000,000 shares of Preferred Stock, $01 par value.
+Prior to May 27, 1994, the AIHI stock consisted of one class of Common
+Stock of which 2,000 shares were authorized, issued, and outstanding.
+Split of Common Stock
+On November 1, 1995, the Board of Directors authorized and the
+stockholders approved: i a two-for-one stock split of the outstanding shares
+of the Company Class A and Class B common stock, and ii a change in the
+number of authorized shares of Class A common stock and Class B common stock to
+4,800,000 shares and 10,000,000 shares, respectively. All references to common
+stock, options, and per share data have been restated to give effect to the
+stock split.
+11.  Stock-Based Compensation Plans
+The Company has stock-based compensation plans which are described below.
+In October 1995 the FASB issued Statement of Financial Accounting Standards No.
+123, Accounting for Stock-Based Compensation, SFAS 123. SFAS 123 is
+effective for periods beginning after December 15, 1995. SFAS 123 requires that
+companies either recognize compensation expense for grants of stock, stock
+options, and other equity instruments based on fair value, or provide pro forma
+disclosure of net income and earnings per share in the notes to the financial
+statements. The Company adopted the disclosure provisions of SFAS 123 in 1996
+and has applied Accounting Principles Board Opinion No. 25 and related
+Interpretations in accounting for its plans. Accordingly, no compensation cost
+has been recognized for its stock option plans. Had compensation cost for the
+Company stock-based compensation plans been determined based on the fair value
+at the grant dates as calculated in accordance with SFAS 123, the Company net
+income and earnings per share for the year ended December 31, 1996 would have
+been reduced to the pro forma amounts indicated below.                    35
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995 
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+The weighted average fair value of options issued during the years ended
+December 31, 1996 and 1995 was equal to $1266 and $152 per share, 
+respectively. The total value of options issued below fair market value for the 
+year ended December 31, 1995 was equal to $121 per share. There were no grants 
+issued below fair market value during the year ended December 31, 1996.
+The fair value of each stock option is estimated on the date of grant
+using the Black-Scholes option-pricing model with the following weighted-average
+assumptions: an expected life of 76 years, expected volatility of 65%, a
+dividend yield of 0% and a risk-free interest rate of 61%.
+1996                   1995
+Net Income    Earnings Per Share     Net Income     Earnings Per Share
+As Reported      $4,697        $057         $1,675         $028
+Proforma        3,539         043         1,423         024
+1994 Equity Incentive Plan
+The Board of Directors has adopted the 1994 Equity Incentive Plan the 
+Plan. Under the Plan, 1,800,000 shares of Common Stock were reserved for
+issuance at the discretion of the Board of Directors in the form of stock
+options, restricted and unrestricted stock awards, and performance awards.
+Option exercise prices shall be at no less than 100% of the fair market value at
+date of grant options vest annually over a five year period and may be exercised
+for a period of up to ten years from the date of grant.
+As of December 31, 1996 awards for 1,663,934 shares have been granted
+under the Plan. No stock awards or performance share awards were initially
+granted under the Plan for the years ended December 31, 1996 and 1995.
+Shares available               Option Price  Weighted Average
+for grant      Plan Activity      per share   Exercise Price
+Balances at May 27, 1994.    1,200,000          --           --             Restricted stock award..    450,000       450,000      $   0625   $     0625
+Restricted stock award.     75,000        75,000         0625        0625 
+--          --           --                                                    
+Balances at December 31, 1994.     675,000        525,000           --                  664,200       664,200      0625-1250        1757
+Plan      600,000          --           --             Restricted stock award forfeit.     24,000        24,000         0625        0625
+10,000        10,000         1525        1525
+Balances at December 31, 1995.     644,800       1,155,200           --             Granted                    474,734       474,734      1400-2200        15383
+Exercised                      --       114,200      0625-250        1125
+Canceled                     21,350        21,350          --        8086
+Balances at December 31, 1996             191,416       1,494,384      $0625-2200
+At December 31, 1996 and 1995 options to purchase approximately
+74,760 and 63,000 shares of Common Stock were exercisable, respectively,
+pursuant to the Plan at prices ranging from $0625 to $1525. The fair value of
+options granted during the years ended December 31, 1996 and 1995 was equal to
+$7,303 and $1,167, respectively.
+During the year ended December 31, 1996 and in the fourth quarter of
+1995, the Company recognized compensation expense with respect to certain vested
+options in the amount of $50 and $4, respectively, an amount determined to be
+the difference between the option price and the fair market value of the option
+at the date of the grant. The Company intends to recognize compensation expense
+of approximately $50, on an annual basis for a period of 5 years, related to
+certain other vested options.
+36
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+The following table summarizes information about stock options
+outstanding at December 31, 1996 
+Options Outstanding                 Options Exercisable
+Weighted-                 Weighted-
+Range of      Number      Remaining       Average       Number        Average     
+Exercise Prices    Outstanding   Contractual Life   Exercise Price    Excecisable     Excercise Price
+$ 00625       96,000        80       $ 00625        0         $ 00625
+120-1525     349,400        85        142       61,400          1525
+250        46,800        87        250       8,600          250
+900-1250     32,800        89        1077       4,260          900
+1400-1450     350,000        99        1409         0          000
+1525         4,000        98        1525        500         1525
+1550-15625     16,784        100        1551         0          000
+19375        82,550        93        19375         0          000
+2150         4,500        95        2150         0          000
+2200        10,550        97        2200         0          000
+993,384                          74,760
+Directors' Stock Option Plan
+On May 28, 1996 the shareholders of the Company approved the
+Directors' Stock Option Plan Directors' Plan. The Directors' Plan provides
+for the award of stock options to non-employee directors. Under the Directors'
+Plan 300,000 shares of Common Stock were reserved for issuance to participants.
+37
+AMISYS Managed Care Systems, Inc.
+For the years ended December 31, 1996 and 1995
+and for the period May 27, 1994 to December 31, 1994
+and
+American International Healthcare, Inc.
+A Wholly Owned Subsidiary of American International Group, Inc.
+For the period January 1, 1994 to May 26, 1994
+NOTES TO FINANCIAL STATEMENTS
+dollars in thousands
+The option exercise price shall be at no less than 100% of the fair market value
+on the date of the grant. Options granted under the Plan become vested in the
+optionholder immediately and may be exercised six months after the option is
+granted and for a period of up to ten years from the date of the grant.
+As of December 31, 1996 awards for 18,000 shares at an exercise price
+of $2300 per share have been made under the Directors' Plan. The fair value
+of these awards is equal to $414. The remaining contractual life of these 
+options is equal to 941 years. As of December 31, 1996 no options awarded
+under the Directors' Plan had been exercised although all shares awarded were
+exercisable in accordance with the provisions of the Directors' Plan.
+12.  Retirement Plans
+The Company has a 401k Retirement Savings Plan in which all
+full-time employees of the Company are eligible to participate. In addition,
+AIHI employees were eligible to participate in a 401k Retirement Savings Plan
+administered by AIG. Eligibility requirements were substantially the same as
+under the Company plan. Participants become eligible to participate in the
+plan on the first day of employment with the Company and are eligible for
+employer matching upon joining the plan. The Company matches 33% of participant
+contributions, up to 6% of each participant wages. Expenses recognized related
+to these plans were $159, $90, $21, and $64 for the years ended December 31,
+1996 and 1995, and the periods May 27, 1994 to December 31, 1994 and January 1,
+1994 to May 26, 1994, respectively.
+13.  Related Party Transactions
+During the year ended December 31, 1996, the Board of Directors of the 
+Company paid the Boston Consulting Group $235 for marketing consulting services.
+A member of the Board of Directors of the Company also serves as a senior
+advisor to the Boston Consulting Group.
+On December 26, 1995, the Company repaid $10,100 of subordinated notes 
+issued to certain of the Company stockholders in connection with the
+acquisition of AIHI from AIG. The notes were repaid from the proceeds of the
+Common Stock offering in accordance with the terms of the note agreement.
+14.  Subsequent Events
+On February 11, 1997, the Company and HBO & Company HBOC, a software 
+solutions company in the patient care, clinical and financial management
+markets, announced the signing of a merger agreement. The agreement, which is
+subject to Company shareholder and regulatory approval, calls for an exchange of
+35 of an HBOC share for each share of Company stock outstanding. The merger is
+expected to be accounted for as a pooling of interests.
+38
+Item 3. LEGAL PROCEEDINGS.
+None to report.
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+None to report.
+8
+PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+Executive Officers and Directors
+The executive officers and Directors of the Company are as follows Name               Age   Title
+-                                      
+Kevin R. Brown..   49   Chairman, President and Chief Executive Officer
+Michael L. Carlay.   53   Vice President, Sales and Marketing
+Homer Fiuzat.   39   Vice President, Development
+Earle Kirkland.   40   Vice President, Technologies
+Kathy Hall Lyons.   36   Vice President, Human Resources
+Hugh McElderry.   52   Senior Vice President, Operations
+Robert J. Sullivan.   48   Vice President, Chief Financial Officer, Secretary and Treasurer
+Mark A. Walters.   37   Vice President, Client Services
+Peter J. Barris1.   45   Director
+Howard E. Cox, Jr1.   52   Director
+Gary Greenfield.   41   Director
+Donald B. Hebb, Jr12.   54   Director
+Arthur J. Marks12.   52   Director
+Thomas O. Pyle.   56   Director
+- 1 Member of Compensation Committee
+2 Member of Audit Committee
+Mr. Brown joined the Company in 1989 as Senior Vice Presidents of Systems
+Product and Services and was named President and Chief Executive Officer in
+1992. He was named Chairman of the Board of Directors in June 1995. Before
+joining the Company, Mr. Brown was the Vice President of HMO System Product for
+The Compucare Company, a health care software provider, from 1986 to 1989 and
+from 1982 to 1986 he served as Compucare Facilities Management Site Director
+for Kaiser-Permante Mid-Atlantic Region.
+Mr. Carlay joined the company as Vice President, Sales and Marketing in
+January 1995. Prior to joining the Company, he served as Vice President of IBAX
+Healthcare Systems, a developer of hospital information systems software from
+1991 to 1994. Priorto joining IBAX, he was a sales and marketing executive at
+IBM Corp.
+Mr. Fiuzat joined the Company in June 1990 and has served as Vice
+President, Development since April 1994. From 1990 to 1994, he was the Company
+Director of Software Sales Support. Prior to joining the Company, Mr. Fiuzat
+spent six years with the Compucare Company in various positions including four
+years as Director of Development for HMO Systems.
+Mr. Kirkland has been Vice President, New Technologies for the Company
+since April 1995. From 1993 to 1995, he was Director of Systems for Health
+Systems Design Corp., a health care software provider, where he assisted in the
+development of a client/server software product. For the five years prior to
+that date, he was Manager of System Development for Norrell Corporation, a home
+health care company.
+40
+Ms. Hall Lyons joined the Company as Vice President, Human Resources in May
+1995. For approximately two years prior to joining the Company, Ms. Hall Lyons
+was an independent consultant advising corporations on human resources and
+organization development issues. For the ten years prior to that date, she was
+employed with Vitro Corporation, a systems engineering corporation, in various
+capacities. From 1991 to 1993, Ms. Hall Lyons was Vice President of Human
+Resources of Vitro Corporation and was responsible for all personnel decisions.
+Mr. McElderry joined the Company as Senior Vice President, Operations in
+December 1996. Mr. McElderry served as Executive Vice President of Health
+Systems Architects, Inc. from 1992 to 1996 where he was responsible for key
+operating areas of the Company. He was with Blue Cross and Blue Shield of South
+Carolina from 1972 to 1992 where he served in various positions including ten
+years as a Senior Vice President.
+Mr. Sullivan joined the Company as Vice President, Chief Financial Officer
+in October 1994 and was named Secretary and Treasurer in June 1995. From 1991
+until 1994, Mr. Sullivan was Executive Vice President and the Chief Financial
+Officer of Option Care, Inc., a homecare company. From 1990 to 1991, he was a
+Vice President and the Chief Financial Officer of E.J. Financial Enterprises.
+Mr. Walters joined the Company in May 1995 as Vice President, Client
+Services. Prior to joining the Company, Mr. Walters spent fifteen years with
+EDS, Inc. a systems developer, the last five years of which he directed a
+managed care system product group.
+Directors
+Mr. Barris has been a Director of the Company since May 1994. He has been a
+General Partner of New Enterprise Associates, a venture capital firm, since
+1992. From 1988 to 1990, Mr. Barris was the President and Chief Operating
+Officer of Legent Corporation, a software utilities company. Mr. Barris is a
+Director of Datalogix International, Inc.
+Mr. Cox has been a Director of the Company since May 1994. He is General
+Partner of Greylock Limited Partnership, a venture capital firm, and has been
+associated with Greylock and partnerships affiliated with Greylock for the past
+24 years. Mr.Cox is a Director of Stryker Corporation, HPR Inc., Arbor
+Healthcare and The Vincam Group, Inc.
+Mr. Greenfield has been a Director of the Company since June 1995. He is
+the President, Chief Operating Officer and Director of INTERSOLV Inc., a
+provider of desktop development tools. Mr. Greenfield is also a Director of
+Hyperion Software, Inc.
+Mr. Hebb has been a Director of the Company since May 1994. Since December
+1993, he has been principally employed as Managing General Partner of ABS
+Partners, L.P., the general partner of ABS Capital Partners L.P., a private
+equity fund. Prior to that date, he was principally employed as a Managing
+Director of Alex. Brown & Sons Incorporated investing private equity funds, and
+prior thereto served as President and Chief Executive Officer of Alex. Brown
+Incorporated, the parent of Alex. Brown & Sons Incorporated. Mr. Hebb is a
+Director of American Radio Systems, Inc. and PowerCerv Corporation.
+Mr. Marks has been a Director of the Company since May 1994. He has been a
+General Partner of New Enterprise Associates, a venture capital firm, since
+1984. He is a Director of Platinum Software Corp., NETRIX Corporation,
+Progress Software Corporation and Object Design, Inc.
+Mr. Pyle has been a Director of the Company since April 1995. He is the
+Senior Advisor to the Boston Consulting Group. Mr. Pyle was the Chief Executive
+Officer of Harvard Community Health Plan from 1978 to 1991. He was Chief
+Executive Officer of MetLife Healthcare Management Company from 1993 to 1994.
+Mr. Pyle is a Director of Millipore Corp., Unilab Corp. and Lincare Holdings,
+Inc.
+41
+Directors' Fees
+All of the Directors are reimbursed for expenses incurred in connection
+with their attendance at Board and Committee meetings. Directors receive $2,000
+for attendance at each Board meeting. Mr. Brown receives no other compensation
+for serving as a Director. In May 1996 all Directors, excluding Mr. Brown, were
+awarded options under the Directors Stock Option Plan to purchase 3,000 shares
+of Common Stock at an exercise price of $2300. These options were fully vested
+in November 1996. Previously, Mssrs. Greenfield and Pyle each were awarded
+options under the 1994 Equity Incentive Plan to purchase 22,000 shares of Common
+Stock. These options, which have a weighted average exercise price of $250 per
+share the fair market value thereof as of the date of grant, are currently 20%
+vested and will continue to vest at a rate of 20% per year.
+Compensation Committee Interlocks and Insider Transactions
+During the fiscal year ended December 31, 1996, Messrs. Barris, Cox, Hebb
+and Marks served on the Company Compensation Committee. Messrs. Marks and
+Barris are general partners of the general partner of New Enterprise Associates
+VI Limited Partnership NEA. Mr. Cox is a general partner of the general
+partner of Greylock Equity Limited Partnership Greylock and Mr. Hebb is a
+general partner of the general partner of ABS Capital Partners, L.P. ABS. In
+May 1996 NEA, Greylock and ABS sold 569,837, 569,837 and 227,826 shares of
+AMISYS Common Stock, respectively, in a registered public offering resulting in
+net proceeds of approximately $132 million, $132 million and $53 million to
+each of NEA, Greylock and ABS, respectively.
+Messrs. Barris, Cox, Hebb and Marks as Directors of the Company each
+received $2,000 for attendance at each Board meeting and were reimbursed for
+expenses incurred with their attendance at Board and Committee meetings. In May,
+1996 each of these Directors was awarded options under the Directors Stock
+Option Plan to purchase 3,000 shares of Common Stock at an exercise price of
+$2300. These options were fully vested in November 1996.

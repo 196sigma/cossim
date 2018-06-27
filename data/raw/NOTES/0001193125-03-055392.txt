@@ -1,0 +1,496 @@
+Item 8.
+Financial Statements and Supplementary Data  PageNumber Index to Financial Statements and Supplementary Data 
+Managements Report 
+44 
+Auditors Report by KPMG LLP Chartered Accountants 
+45 
+Consolidated Balance Sheets at June 30, 2003 and 2002 
+46 
+Consolidated Statements of Income for the years ended June 30, 2003, 2002, and 2001 
+47 
+Consolidated Statements of Shareholders Equity for the years ended June 30, 2003, 2002, and 2001 
+48 
+Consolidated Statements of Cash Flows for the years ended June 30, 2003, 2002, and 2001 
+49 
+Notes to Consolidated Financial Statements 
+50
+43 Table of Contents
+Managements Report  Management is
+responsible for all the information and representations contained in the consolidated financial statements and other sections of this Form 10-K. Management believes that the consolidated financial statements have been prepared in conformity with
+accounting principles generally accepted in the United States of America and appropriate in the circumstances to reflect in all material respects the substance of events and transactions that should be included, and that the other information in
+this Form 10-K is consistent with those statements. In preparing the consolidated financial statements, management makes informed judgments and estimates of the expected effects of events and transactions that are currently being accounted for.
+In meeting its responsibility for the reliability of the consolidated
+financial statements, management depends on the Companys system of internal controls. This system is designed to provide reasonable assurance that assets are safeguarded and transactions are executed in accordance with managements
+authorization, and are recorded properly to permit the preparation of consolidated financial statements in accordance with accounting principles generally accepted in the United States of America. In designing control procedures, management
+recognizes that errors or irregularities may nevertheless occur. Also, estimates and judgments are required to assess and balance the relative cost and expected benefits of the controls. Management believes that the Companys accounting
+controls provide reasonable assurance that errors or irregularities that could be material to the consolidated financial statements are prevented or would be detected within a timely period by employees in the normal course of performing their
+assigned functions.  The Board of Directors pursues its oversight role for
+these consolidated financial statements through the Audit Committee, which is comprised solely of Directors who are not officers or employees of the Company. The Audit Committee meets with management periodically to review their work and to monitor
+the discharge of each of their responsibilities. The Audit Committee also meets periodically with KPMG LLP, the independent auditors, who have free access to the Audit Committee of the Board of Directors, without management present, to discuss
+internal controls, auditing, and financial reporting matters.  KPMG LLP is
+engaged to express an opinion on our consolidated financial statements. Their opinion is based on procedures believed by them to be sufficient to provide reasonable assurance that the consolidated financial statements are in conformity with
+accounting principles generally accepted in the United States of America.  /s/P. Thomas Jenkins s/Alan Hoverd P. Thomas Jenkins Chief Executive Officer Alan Hoverd Chief Financial
+Officer August 8, 2003 except as to Note 16 which is as of September 19, 2003 
+44 Table of Contents
+KPMG LLP
+Telephone
+416228-7000 Chartered Accountants
+Telefax
+416 228-7123 Yonge Corporate Centre www.kpmg.ca 4120 Yonge Street Suite 500 North York ON M2P 2B8 Canada  INDEPENDENT AUDITORS REPORT
+To the Shareholders of Open Text Corporation  We have audited the accompanying consolidated balance sheets of Open Text Corporation as of June 30, 2003 and 2002 and the related consolidated statements of income,
+shareholders equity and cash flows for each of the years in the three-year period ended June 30, 2003. These consolidated financial statements are the responsibility of the companys management. Our responsibility is to express an opinion
+on these financial statements based on our audits.  We conducted our audits in
+accordance with auditing standards generally accepted in the United States of America. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as
+well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion.  In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the company as at June 30,
+2003 and 2002 and the results of its operations and its cash flows for each of the years in the three-year period ended June 30, 2003, in conformity with accounting principles generally accepted in the United States of America.  As discussed in Note 2 to the consolidated financial statements, effective July 1, 2001, the
+Company adopted the provisions of Statement of Financial Accounting Standards SFAS No. 141, Business Combinations, and certain provisions of SFAS No. 142, Goodwill and Other Intangible Assets, as required for
+goodwill and intangible assets resulting from business combinations consummated after June 30, 2001.  On August 8, 2003, except as to Note 16, which is as of September 19, 2003, we reported separately to the shareholders of the company on the consolidated financial statements for the same period, prepared in
+accordance with Canadian generally accepted accounting principles.  /s/ KPMG
+LLP  Chartered Accountants  Toronto, Canada August 8, 2003 except as to Note 16, which is as of September 19, 2003 
+45 Table of Contents
+OPEN TEXT CORPORATION CONSOLIDATED BALANCE SHEETS In thousands of US Dollars, except share data  June 30 2003 2002 ASSETS Current assets Cash and cash equivalents 116,554 109,895 Accounts receivable trade, net of allowance for doubtful accounts of $1,933 as at June 30, 2003 and $1,458 as at June 30,
+2002 35,855 33,094 Income taxes recoverable 484 1,194 Prepaid expenses and other current assets 3,541 2,530 Deferred tax asset note 11 7,688 Total current assets 164,122 146,713 Capital assets note 3 10,011 8,401 Goodwill, net of accumulated amortization of $12,807 at June 30, 2003 and 2002 32,301 24,587 Deferred tax asset note 11 8,674 Other assets note 4 23,579 7,146 Total assets 238,687 186,847 LIABILITIES AND SHAREHOLDERS EQUITY Current liabilities Accounts payabletrade and accrued liabilities note 6 31,596 18,889 Deferred revenues 38,086 23,927 Total current liabilities 69,682 42,816 Long-term liabilities Deferred revenues 1,696 Accrued liabilities 4,912 Total long-term liabilities 6,608 Shareholders equity Share capital note 7 19,568,259 and 19,875,872 Common Shares issued and outstanding at June 30, 2003 and June 30, 2002
+respectively 204,343 204,815 Accumulated other comprehensive income Cumulative translation adjustment 119 780 Accumulated deficit 41,827 60,004 Total shareholders equity 162,397 144,031 Commitments and contingencies note 9 Subsequent Event note 16 238,687 186,847  See accompanying notes
+to consolidated financial statements 
+46 Table of Contents
+OPEN TEXT CORPORATION CONSOLIDATED STATEMENTS OF INCOME In thousands of US Dollars, except share and per share data  2003 2002 2001 Revenues License networking 75,991 65,984 73,752 Customer support 63,091 48,707 40,316 Service 38,643 39,681 35,709 Total revenues 177,725 154,372 149,777 Cost of revenues License networking 6,550 5,341 5,878 Customer support 10,406 8,364 7,632 Service 28,241 27,411 27,043 Total cost of revenues 45,197 41,116 40,553 132,528 113,256 109,224 Operating expenses Research and development 29,324 24,071 24,311 Sales and marketing 54,532 51,084 51,317 General and administrative 13,509 12,498 13,191 Depreciation 5,009 5,587 5,178 Amortization of acquired intangible assets 3,236 6,506 5,460 Total operating expenses 105,610 99,746 99,457 Income from operations 26,918 13,510 9,767 Other income loss note 10 2,788 1,613 2,417 Interest income 1,283 1,853 4,736 Interest expense 55 16 61 Income before income taxes 30,934 16,960 12,025 Provision for income taxes note 11 3,177 289 1,229 Net income for the year 27,757 16,671 10,796 Net income per sharebasic note 15 142 083 054 Net income per sharediluted note 15 134 078 050 Weighted average number of Common Shares outstandingbasic 19,525,278 19,978,719 20,032,092 Weighted average number of Common Shares outstandingdiluted 20,696,554 21,238,965 21,465,645  See accompanying notes
+to consolidated financial statements  
+47 Table of Contents
+OPEN TEXT CORPORATION CONSOLIDATED STATEMENTS OF SHAREHOLDERS EQUITY In thousands  Common Shares AccumulatedDeficit  loss Total Shares Amount Balance as of June 30, 2000
+20,230 206,667 67,796 888 137,983 Issuance of Common Shares Under employee stock option plans
+462 3,785 3,785 Under employee stock purchase plans
+132 2,237 2,237 Repurchase and cancellation of shares
+886 9,053 12,213 21,266 Comprehensive income Realized gain on available for sale securities 130 130 Foreign currency translation adjustment 378 378 Net income for the year 10,796 10,796 Total comprehensive income loss 10,288 Balance as of June 30, 2001
+19,938 203,636 69,213 1,396 133,027 Issuance of Common Shares Under employee stock option plans
+419 2,600 2,600 Under employee stock purchase plans
+139 4,917 4,917 Repurchase and cancellation of shares
+620 6,338 7,462 13,800 Comprehensive income Foreign currency translation adjustment 616 616 Net income for the year 16,671 16,671 Total comprehensive income loss 17,287 Balance as of June 30, 2002
+19,876 204,815 60,004 780 144,031 Issuance of Common Shares Under employee stock option plans
+291 4,445 4,445 Under employee stock purchase plans
+157 2,562 2,562 Repurchase and cancellation of shares
+756 7,722 9,580 17,302 Income tax effect related to stock options 243 243 Comprehensive income Foreign currency translation adjustment 661 661 Net income for the year 27,757 27,757 Total comprehensive income loss 28,418 Balance as of June 30, 2003
+19,568 204,343 41,827 119 162,397  See accompanying notes
+to consolidated financial statements 
+48 Table of Contents
+OPEN TEXT CORPORATION CONSOLIDATED STATEMENTS OF CASH FLOWS In thousands of US Dollars  Year ended June 30 2003 2002 2001 Cash flows from operating activities Net income for the year 27,757 16,671 10,796 Adjustments to reconcile net income to net cash used in operating activities Depreciation and amortization 8,245 12,093 10,638 Deferred taxes 2,146 Gain loss on sale of other investments 152 1,012 2,237 Unrealized foreign exchange gain loss 3,883 389 2,172 Other 772 Changes in operating assets and liabilities Accounts receivable 2,286 4,462 13 Prepaid expenses and other current assets 543 439 459 Income taxes payable 177 1,934 8,481 Income taxes recoverable 428 949 Accounts payable and deferred revenues 4,855 783 3,499 Other 117 1,147 Net cash provided by operating activities 40,019 28,498 11,762 Cash flows from investing activities Acquisitions of capital assets 3,615 2,248 5,781 Purchase of Centrinity Inc., net of cash acquired 11,369 Purchase of Corechange Inc., net of cash acquired 2,695 Purchase of Eloquent Inc., net of cash acquired 2,674 Purchase of patent 1,246 Purchase of other investments 709 938 Proceeds from sale of other investments 2,702 Acquisitions of companies 15,621 Payments against acquisition accruals 1,455 212 Proceeds from available for sale securities 287 Other 1,171 Net cash used in investment activities 23,938 467 22,340 Cash flow from financing activities Payment of obligations under capital leases 12 55 Proceeds from issuance of Common Shares 7,007 7,517 6,022 Repurchase of Common Shares 17,302 13,800 21,266 Other 243 Net cash used in financing activities 10,052 6,295 15,299 Foreign exchange gain loss on cash held in foreign currency 630 633 515 Increase decrease in cash and cash equivalents during the year 6,659 22,369 26,392 Cash and cash equivalents at beginning of the year 109,895 87,526 113,918 Cash and cash equivalents at end of the year 116,554 109,895 87,526  Supplementary cash flow information note 13  See
+accompanying notes to consolidated financial statements 
+49 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+NOTE 1NATURE OF OPERATIONS  Open Text develops, markets, licenses and supports collaboration and knowledge management software for use on intranets, extranets and the
+Internet. The Companys principal product line is Livelink, a leading collaboration and knowledge management software product for global enterprises. The software enables users to capture as well as find electronically stored information, work together in creative and
+collaborative processes, perform group calendaring and scheduling, and distribute or make available to users across networks or the Internet the resulting work product and other information. This collaborative environment enables ad hoc teams to
+form quickly across functional and organizational boundaries, which enables information to be accessed by employees using any standard Web browser. Fully Web-based with open architecture, Livelink provides rapid out-of-the-box deployment,
+accelerated adoption, and low cost of ownership. Open Text provides integrated solutions that enable people to use information and technology more effectively at departmental levels and across enterprises. The Company offers its solutions both as
+end-user stand-alone products and as fully integrated modules, which together provide a complete solution that is easily incorporated into existing enterprise business systems. Although most of the Companys technology is proprietary in nature,
+the Company does include certain third party software in its products. The Companys shares trade publicly on the NASDAQ Stock MarketNational market NASDAQ, under the symbol OTEX and on the Toronto Stock Exchange, under the
+symbol OTC.  NOTE 2SIGNIFICANT ACCOUNTING POLICIES  Basis of presentation  These consolidated financial statements are expressed in US dollars and are prepared in accordance with accounting principles generally
+accepted the United States US GAAP. Certain prior year amounts have been reclassified to conform to current year presentation.  Basis of consolidation  The consolidated financial statements include the accounts of Open Text Corporation and its subsidiaries, all of which are wholly-owned. All material intercompany balances and transactions have been eliminated.
+Use of estimates  The Companys Consolidated Financial Statements are prepared in accordance with US
+GAAP. The preparation of the Consolidated Financial Statements in accordance with US GAAP necessarily requires the Company to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related
+disclosure of contingent assets and liabilities. On an on-going basis, the Company evaluates its estimates, including those related to revenues, bad debts, investments, goodwill and other intangible assets, income taxes, contingencies and
+litigation. The Company bases its estimates on historical experience and on various other assumptions that are believed at the time to be reasonable under the circumstances. Under different assumptions or conditions, the actual results will differ,
+potentially materially, from those previously estimated. Many of the conditions impacting these assumptions and estimates are outside of the Companys control.  Cash and cash equivalents  All highly liquid investments with an original maturity of three months or less at the date of acquisition are classified as cash equivalents.  Capital assets  Capital assets are stated at cost and are depreciated on a straight-line basis over the estimated useful lives of the related assets,
+generally three to five years. Gains and losses upon asset disposals are taken into income in the year of disposition. 
+50 Table of Contents OPEN TEXT CORPORATION  
+Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+Impairment of long-lived capital and intangible assets  In August 2001, the Financial Accounting Standards Board FASB issued Statement
+of Financial Accounting Standards No. 144 SFAS 144, Accounting for the Impairment or Disposal of Long-Lived Assets. This Statement addresses financial accounting and reporting for the impairment or disposal of long-lived
+assets and supercedes SFAS No. 121, Accounting for the Impairment of Long-Lived Assets to be Disposed Of, and the accounting and reporting requirements of Accounting Principles Board Opinion No. 30, Reporting the Results of
+Operations for a Disposal of a Segment of a Business. The Company adopted SFAS 144 beginning July 1, 2002. The Company considers factors such as significant changes in the business climate and projected discounted cash flows from the
+respective asset. Impairment losses are measured as the amount by which the carrying amount of the asset exceeds its fair market value. Adopting the provisions of SFAS 144 did not have a material impact on the Companys financial condition or
+results of operations.  In July 2001, the FASB issued Statement of Financial
+Accounting Standards No. 142 SFAS 142, Goodwill and Other Intangible Assets. SFAS 142 requires goodwill to be tested for impairment at least annually, and written off when impaired, rather than being amortized as previous
+standards required. The Company adopted SFAS 142 beginning July 1, 2002. The Company has assessed the impact of SFAS 142 on its operating results and financial condition, and has determined that there currently exists no impairment in its goodwill.
+Adjusted net income and per share amounts presented as if the principles in
+SFAS 142 had been applied in all periods would be as follows:  Year ended June 30 2003
+2002
+2001
+Net income for the period 27,757 16,671 10,796
+Add back: goodwill amortization 4,711 3,686 Adjusted net income for the period 27,757 21,382 14,482 Adjusted net income per share Basic 142 107 072
+Diluted 134 101 067
+Revenue recognition 
+a License revenues  The Company recognizes revenue in accordance with Statement of Position SOP 97-2, Software Revenue
+Recognition, issued by the American Institute of Certified Public Accountants AICPA in October 1997 as amended by SOP 98-9 issued in December 1998.  The Company records product revenue from software licenses and products when persuasive evidence of an arrangement exists,
+the software product has been shipped, there are no significant uncertainties surrounding product acceptance, the fees are fixed and determinable and collection is considered probable. The Company uses the residual method to recognize revenue on
+delivered elements when a license agreement includes one or more elements to be delivered at a future date if evidence of the fair value of all undelivered elements exists. If an undelivered element for the arrangement exists under the license
+arrangement, revenue related to the undelivered element is deferred based on vendor-specific objective evidence VSOE of the fair value of the undelivered element.  The Companys multiple-element sales arrangements include arrangements where software licenses and the associated post
+contract customer support PCS are sold together. The Company has established VSOE of the fair 
+51 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+value of the undelivered PCS element based on the contracted price for renewal PCS included in the
+original multiple element sales arrangement, as substantiated by contractual terms and the Companys significant PCS renewal experience, from its large installed base of over 5 million users worldwide. The Companys multiple element sales
+arrangements generally include rights for the customer to renew PCS after the bundled term ends. These rights are irrevocable to the customers benefit, are for specified prices and the customer is not subject to any economic or other penalty
+for failure to renew. Further, the renewal PCS options are for services comparable to the bundled PCS and cover similar terms.  It is the Companys experience that customers generally exercise their renewal PCS option. In the renewal transaction, PCS is sold on a stand-alone
+basis to the licensees one year or more after the original multiple element sales arrangement. The renewal PCS price is consistent with the renewal price in the original multiple element sales arrangement although an adjustment to reflect consumer
+price changes is not uncommon.  If VSOE of fair value does not
+exist for all undelivered elements, all revenue is deferred until sufficient evidence exists or all elements have been delivered.  The Company assesses whether payment terms are customary or extended in accordance with normal practice relative to the market in which the sale is
+occurring. The Companys sales arrangements generally include standard payment terms. These terms effectively relate to all customers, products, and arrangements regardless of customer type, product mix or arrangement size. The only time
+exceptions are made to these standard terms is on certain sales in parts of the world where local practice differs. In these jurisdictions, the Companys customary payment terms are in line with local practice.  b Service revenues  Service revenues consist of revenues from consulting contracts, customer support agreements, and training and integration
+services contracts. Contract revenues are derived from contracts to develop applications and to provide consulting services. Contract revenues are recognized under the percentage of completion method, using a methodology that accounts for costs
+incurred under the contract in relation to the total estimated costs under the contract, after providing for any anticipated losses under the contract. Revenues from training and integration services are recognized in the period in which the
+services are performed.  c Customer support revenues  Customer support revenues consist of revenue derived from contracts to
+provide post contract support to license holders. These revenues are recognized ratably over the term of the contract.  d Network revenues  Network revenues consist of revenues earned from customers under an application service provider ASP model. Under this model, customers pay
+a monthly fee that entitles them to use the Companys software on a secure, hosted, third-party server. These revenues are recognized as the services are provided on a monthly basis over the term of the customers contract. With respect to
+these revenues, the Companys customers pay exclusively for the right to use the software. The Companys customers do not receive the right to take possession of the Companys software. Further, it is not possible for customers to
+either run the software on their own hardware or for them to contract with another party unrelated to the Company to host the software.  Deferred revenue  Deferred revenue primarily relates to support agreements which have been paid for by customers prior to the performance of those services. Generally, the services will be provided in the next twelve months.
+52 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+Research and development costs  Costs related to research, design and development of products are charged to research and development expense as incurred. Software
+development costs are capitalized beginning at the time when a products technological feasibility has been established, and ending when a product is available for general release to customers. To date, completing a working model of the
+Companys products, and general release of such products have substantially coincided. As a result, to date the Company has not capitalized any software development costs since such costs have not been significant.  Income taxes  The Company accounts for income taxes under the asset and liability method that requires the recognition of deferred tax assets and
+liabilities for the expected future tax consequences of temporary differences between the carrying amounts and tax basis of assets and liabilities. Effects of changes in tax rates are recognized in the period that includes the enactment date. The
+Company provides a valuation allowance on net deferred tax assets when it is not more likely than not that such assets will be realized.  Concentrations of credit risk  The Company maintains the majority of its cash and cash equivalents in US dollar denominated Canadian federal government securities or short-term, interest-bearing,
+investment-grade securities and demand accounts of a major Canadian chartered bank or commercial paper.  The Company performs ongoing credit evaluations of its customers financial condition and generally does not require collateral. The Company maintains allowances for potential losses, and to date, such actual
+losses have been within managements expectations. No single customer accounted for more than 10% of the accounts receivable balance at June 30, 2003 and June 30, 2002.  Fair value of financial instruments  Carrying amounts of certain of the Companys financial instruments including cash and cash equivalents, accounts receivable, accounts payable-trade and accrued
+liabilities and income taxes payable approximate fair value due to their short maturities. Available-for-sale securities are valued at fair market value of the securities on the balance sheet date.  Foreign currency translation  Assets and liabilities of certain foreign subsidiaries, whose functional currency is the
+local currency, are translated from their respective functional currencies to US dollars at year-end exchange rates. Income and expense items are translated at the average rates of exchange prevailing during the year. Realized foreign exchange gains
+and losses are included in income or loss in the year in which they occur. Unrealized foreign currency translation gains and losses are included in other comprehensive income or loss in the year in which they occur. The adjustment resulting
+from translating the financial statements of such foreign subsidiaries is reflected as a separate component of shareholders equity.  Employee stock option plans  The Company has elected to continue to follow Accounting Principles Board Opinion No. 25, Accounting for Stock Issued to Employees APB 25, and
+to present the pro forma information see note 8 that is required by SFAS No. 123Accounting for Stock-Based Compensation SFAS 123. APB 25 requires compensation cost for stock-based employee compensation plans to be
+recognized over the vesting period based on the difference, if any, on the grant date between the quoted market price of the Companys stock and the amount an employee must pay to acquire the stock.  The Company applies the intrinsic value method prescribed in APB No 25, Accounting for Stock
+Issued to Employees in accounting for its stock-based compensation plans. Had compensation cost for the Companys stock- 
+53 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+based compensation plans and the employee stock purchase plan have been determined using the fair value approach set
+forth in SFAS No. 123, Accounting for Stock-Based Compensation, the Companys net income for the year and net income per share would have been in accordance with the pro forma amounts indicated below:  2003
+2002
+2001 
+Net income for the year As reported 27,757 16,671 10,796
+Pro forma 19,397 7,663 5,801
+Net income per sharebasic As reported 142 083 054
+Pro forma 099 038 029
+Net income per sharediluted As reported 134 078 050
+Pro forma 094 036 027
+The fair value of each stock option
+grant on the date of grant was estimated using the Black-Scholes option-pricing model with the following weighted average assumptions for the stock-based compensation plans:  Year ended June 30 2003 2002 2001 Volatility 80 80 71 Risk-free interest rate 6 6 6 Dividend yield Expected lives in years 55 55 55 Weighted average fair value in dollars 1778 1263 1297
+Earnings per share 
+Basic earnings per share are computed using the weighted average number of common shares
+outstanding including contingently issuable shares where the contingency has been resolved. Diluted earnings per share are computed using the weighted average number of common shares and stock options using the treasury stock method outstanding
+during the year.  Recently Issued Accounting Pronouncements
+Accounting for Asset Retirement Obligations  In August 2001, the FASB issued SFAS No. 143 SFAS 143, Accounting for
+Asset Retirement Obligations. SFAS 143 requires entities to record the fair value of a liability for an asset retirement obligation in the period in which it is incurred. The Company adopted SFAS No. 143 on July 1, 2002. Adopting the
+provisions of SFAS 143 did not have a material impact on the Companys financial condition or results of operations.  Rescission of SFAS Nos. 4, 44, and 64, Amendment of SFAS No. 13, and Technical Corrections  In May 2002, the FASB issued SFAS No. 145 SFAS 145, Rescission of SFAS Nos. 4, 44, and 64, Amendment of SFAS No. 13, and
+Technical Corrections. Among other things, SFAS 145 rescinds various pronouncements regarding early extinguishment of debt and allows extraordinary accounting treatment for early extinguishment only when the provisions of Accounting Principles
+Board Opinion No. 30, Reporting the Results of Operations-Reporting the Effects of Disposal of a Segment of a Business, and Extraordinary, Unusual and Infrequently 
+54 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+Occurring Events and Transaction, are met. The Company adopted the provisions of SFAS 145 regarding early
+extinguishment of debt during the second fiscal quarter of 2003, the provisions of which did not have a material impact on its financial condition or results of operations.  Accounting for Costs Associated with Exit or Disposal Activities  In July 2002, the FASB issued SFAS No. 146 SFAS 146, Accounting for Costs Associated with Exit or Disposal
+Activities, which addresses financial accounting and reporting for costs associated with exit or disposal activities and supersedes EITF Issue 94-3, Liability Recognition for Certain Employee Termination Benefits and Other Costs to Exit
+an Activity including Certain Costs Incurred in a Restructuring. SFAS 146 requires that costs associated with exit or disposal activities be recognized when they are incurred rather than at the date of a commitment to an exit or disposal
+plan. SFAS 146 also establishes that the liability should initially be measured and recorded at fair value. Adopting the provisions of SFAS 146 during the year ended June 30, 2003 did not have a material impact on the Companys financial
+condition as of June 30, 2003 or its results of operations for the fiscal year ended June 30, 2003.  Guarantors Accounting and Disclosure Requirements for Guarantees, Including Indirect Guarantees of Indebtedness of Others  In November 2002, the FASB issued Interpretation No. 45, Guarantors Accounting and Disclosure Requirements for Guarantees,
+Including Indirect Guarantees of Indebtedness of Others FIN 45, which requires certain disclosures of obligations under guarantees. The disclosure requirements of FIN 45 were effective for the Companys interim period ended
+December 31, 2002. Effective for 2003, FIN 45 also requires the recognition of a liability by a guarantor at the inception of certain guarantees entered into or modified after December 31, 2002, based on the fair value of the guarantee. The Company
+has adopted the disclosure requirements, and has determined that arrangements that have been entered subsequent to December 31, 2002 have been accounted for in accordance with the measurement requirements of FIN 45.  Consolidation of Variable Interest Entities  In January 2003, the FASB issued Interpretation No. 46, Consolidation of Variable
+Interest Entities FIN 46. The consolidation provisions of FIN 46 are effective for all newly created entities created after January 31, 2003, and are applicable to existing entities as of the quarter beginning July 1, 2003. The
+Company has determined that the impact of the requirements of FIN 46 will not have a material impact on its financial condition or results of operations.  Stock-Based Compensation  In December 2002, the FASB issued Statement of Financial Accounting Standards No. 148, Accounting for Stock-Based CompensationTransition and Disclosure, an
+amendment of FASB Statement No. 123 SFAS 148. SFAS 148 amends SFAS 123 to provide alternative methods of transition for a voluntary change to the fair value method of accounting for stock-based employee compensation. In addition, SFAS
+148 amends the disclosure requirements of SFAS 123 to require prominent disclosures in both annual and interim financial statements. Certain of the disclosure modifications are required for fiscal years ending after December 15, 2002 and are
+included in the notes to these consolidated financial statements. 
+55 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+NOTE 3CAPITAL ASSETS  June 30, 2003 Cost
+AccumulatedDepreciation
+Net
+Furniture and fixtures 5,821 4,638 1,183
+Office equipment 1,650 1,000 650
+Computer hardware 31,143 25,579 5,564
+Computer software 6,556 5,071 1,485
+Leasehold improvements 2,970 1,841 1,129 48,140 38,129 10,011  June 30, 2002 Cost
+AccumulatedDepreciation
+Net
+Furniture and fixtures 5,478 4,223 1,255
+Office equipment 1,077 815 262
+Computer hardware 27,784 22,885 4,899
+Computer software 5,579 4,489 1,090
+Leasehold improvements 2,418 1,523 895 42,336 33,935 8,401  NOTE 4OTHER
+ASSETS  June 30 2003
+2002
+Available for sale securities  134
+Purchased software net of accumulated amortization of $4,909; 2002 - $3,925 2,114 3,098
+Acquired technology net of accumulated amortization of $3,111; 2002 - $1,726 12,343 2,282
+Acquired customer assets net of accumulated amortization of $468; 2002 - nil 4,925 Patent net of accumulated amortization of $111; 2002 nil 1,135 Other 3,062 1,632 23,579 7,146  NOTE 5BANK INDEBTEDNESS
+The Company has a CDN $100 million USD $74 million line of credit
+with a Canadian chartered bank, under which no borrowings were outstanding at June 30, 2003 and 2002. The line of credit bears interest at the lenders prime rate plus 05%. The Company has provided all of its assets including an assignment of
+accounts receivable as collateral for this line of credit. During 2003, 2002, and 2001 borrowings and interest cost on bank indebtedness were insignificant. 
+56 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+NOTE 6ACCOUNTS PAYABLETRADE AND ACCRUED LIABILITIES  June 30 2003
+2002
+Accounts payabletrade 4,035 2,288
+Accrued trade liabilities 12,693 8,300
+Accrued liabilities related to acquisitions 3,443 871
+Accrued salaries and commissions 10,403 7,376
+Other liabilities 1,022 54 31,596 18,889  NOTE 7SHARE CAPITAL
+The authorized share capital of the Company includes an unlimited number
+of Common Shares and an unlimited number of first preference shares. No preference shares are issued.  During fiscal 2003, the Company repurchased for cancellation 755,700 common shares at a cost of $173 million, of which $77 million has been charged to share capital and $96 million has been charged to accumulated
+deficit.  During fiscal 2002, the Company repurchased for cancellation 620,200
+common shares at a cost of $138 million, of which $63 million has been charged to share capital and $75 million has been charged to accumulated deficit.  During fiscal 2001, the Company repurchased for cancellation 886,000 common shares at a cost of $213 million, of which $91 million has been charged to share capital and
+$122 million has been charged to accumulated deficit. 
+57 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+NOTE 8OPTION PLANS  A summary of the Companys various Stock Option Plans is set forth below:  1995RestatedFlexible StockIncentive Plan 1995ReplacementStock OptionPlan 1995 SupplementaryStock Option Plan 1995 DirectorsStockOptionPlan 1998 Stock Option Plan Centrinity Stock OptionPlan Date of Inception
+June-95 October-95 October-95 October-95 June-98 January-03 Eligibility
+consultants ofOdesta
+Formeremployeesanddirectorsof Odesta Eligible non-employeedirectors 1 Eligibleemployees anddirectors, asdetermined bythe Board ofDirectors  directors,as determinedby the Boardof Directors Shares granted to date
+6,389,375 548,249 357,500 524,000 3,472,745 207,484 Shares cancelled to date
+1,917,699 1,209 88,875 143,000 1,009,805 1,000 Shares exercised to date
+3,606,303 547,040 214,825 242,000 500,699 Options outstanding
+865,373 53,800 139,000 1,962,241 206,484 Termination grace periods
+Immediatelyfor cause;90 days forany otherreason Immediatelyfor cause;90 days forany otherreason 1 year due todeath; 90days for anyother reason Immediatelyfor cause; 3months for anyother reason Immediatelyfor cause; 90days for anyother reason Immediatelyfor cause;90 days forany otherreason; 180days due todeath Vesting schedule
+Over a 4 or 5year period;optionsexercisable upto 7 yearsfrom grantdate Exercisableup to 10 yearsfrom grantdate Vest over a2  to 10years fromgrant date   Over a 4 yearperiod, unlessotherwisespecified Exercise price range average 015-$2025$ 806 N/A 425 1118-$1481$ 1392 1219-$4000$2082 $2417-2700 $2481
+Expiration dates
+6/30/2005 to3/6/2008 N/A 9/17/2006 9/17/2007 to3/5/2008 7/13/2008 to4/28/2013 11/1/2012 to 1/28/2013
+1
+The Plan Administrator determined the non-employee directors of the Company to whom options are granted, the number of Common Shares subject to each option, the exercise price
+and vesting schedule of each option. 2
+Representing the board of directors of the Company or, if established and duly authorized to act, the Executive Committee of the board of directors of the Company.
+Option Exchange Program  On September 10, 1996, the Board of Directors authorized an option exchange
+program the Program whereby employees who have been granted options to acquire Common Shares of the Company under the 1995 Flexible Stock Incentive Plan the Flexible Plan and the 1995 Supplementary Stock Option Plan the
+58 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+Supplementary Plan were permitted to exchange those options on a one-for-one basis, for an option to
+acquire Common Shares of the Company with an exercise price of $425 the Exchange Options. This was subsequently approved by the shareholders. The Exchange Options vest and become exercisable, as to 10% of the Common Shares subject to
+option, the later of six months after the date of grant or the date the original option was scheduled to first vest the initial vesting date, as to the next 10% of the Common Shares subject to option, six months after the initial
+vesting date, and as to the remainder of the Common Shares subject to option, 5% at the end of each quarter following one year after the initial vesting date. 
+A total of 510,452 options to acquire Common Shares of the Company from the Flexible and Supplementary plans were eligible for exchange under the Program with an
+average exercise price of $1289. A total of 140,830 options under the Flexible Plan with a weighted average exercise price of $1090 were exchanged for 140,830 Exchange Options and 335,000 options under the Supplementary Plan with an exercise price
+of $1400 were exchanged for 335,000 Exchange Options.  Summary of
+Outstanding Stock Options  As of June 30, 2003, options to purchase an
+aggregate of 3,226,898 Common Shares were outstanding under all of the Companys stock option plans out of an allowable pool of options totaling 10,307,424. There were exercisable options outstanding to purchase 2,301,228 shares at an average
+price of $1451. At June 30, 2002, there were exercisable options outstanding to purchase 2,082,164 shares at an average price of $1308. At June 30, 2001, exercisable options to purchase 1,806,840 shares had an average price of $1119. 
+59 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+A summary of option activity since June 30, 2000 is set forth below:  Options Outstanding Number WeightedAverageExercisePrice
+Options outstanding at June 30, 2000
+3,368,800 1286 Granted during fiscal 2001
+184,750 1971
+Cancelled
+210,122 1991
+Exercised
+462,314 819 Options outstanding at June 30, 2001
+2,881,114 1354 Granted during fiscal 2002
+1,019,750 2323
+Cancelled
+308,411 2138
+Exercised
+419,048 1173 Options outstanding at June 30, 2002
+3,173,405 1615
+Granted during fiscal 2003
+428,345 2373
+Cancelled
+83,675 2249
+Exercised
+291,177 1525 Options outstanding at June 30, 2003
+3,226,898 1708  The following table summarizes
+information regarding stock options outstanding at June 30, 2003:  Options Outstanding
+Options Exercisable
+Range of Exercise Prices
+Number OutstandingatJune30,2003
+Weighted Average Remaining Contractual Life years
+Weighted Average Exercise Price
+Number OutstandingatJune30,2003
+Weighted Average Exercise Price
+$015 - $800
+471,973
+342 604
+471,973 604
+925 - 1290
+528,262
+429
+1010
+516,138
+1006
+1325 - 1819
+674,224
+542
+1416
+639,599
+1399
+1831 - 2150
+595,875
+753
+2061
+272,125
+2024
+2151 - 2794
+594,359
+828
+2399
+174,938
+2287
+2820 - 4000
+362,205
+734
+2989
+226,455
+3040 $015 - $4000
+3,226,898
+607 1708
+2,301,228 1451  Employee Stock Purchase Plan
+On March 5, 1998, the shareholders of the Company approved an Employee
+Stock Purchase Plan ESPP whereby employees of the Company can subscribe to purchase Common Shares through payroll withholdings from the treasury of the Company at 85% of the lessor of: 1 the average of the last five days of the last
+ESPP period or 2 the average price of the last five days of the current ESPP period. An aggregate 1,000,000 Common Shares have been reserved for purchase under the ESPP, subject to adjustments in the event of stock dividends, stock splits,
+60 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+combinations of shares, or other similar changes in capitalization of the Company. During fiscal 2003, a total of
+157,000 Common Shares were issued under the ESPP. During fiscal 2002, a total of 139,056 Common Shares were issued under the ESPP, and during fiscal 2001, a total of 131,732 Common Shares were issued under the ESPP.  NOTE 9COMMITMENTS AND CONTINGENCIES  The Company has entered into operating leases for premises and vehicles with minimum
+annual payments as follows:  2004 6,819
+2005 5,684
+2006 4,539
+2007 4,356
+Thereafter 20,497 41,895  Rent expense amounted to $72 million
+in 2003, $59 million in 2002, and $51 million in 2001.  The Company is
+subject to legal proceedings and claims, either asserted or unasserted, that arise in the ordinary course of business. While the outcome of these proceedings and claims cannot be predicted with certainty, management does not believe that the outcome
+of any of these legal matters will have a material adverse effect on its consolidated financial position, results of operations or cash flows.  NOTE 10OTHER INCOME LOSS  Year ended June 30 2003
+2002
+2001 Gain loss on sale of investments, net of disposal costs 152 1,012 2,971 Recovery of acquisition accrual 734 Gain loss on sale of investments 152 1,012 2,237 Balance of other income expense 2,636 601 180 Other income loss 2,788 1,613 2,417  During fiscal 2001, the Company sold
+8,900 shares of its investment in Primedia, completing its disposition of its entire interest in this investment.  During fiscal 2002, the Company realized a gain of $10 million related to the Companys attempted acquisition of Accelio Corporation Accelio, a
+software company located in Ottawa, Ontario. The gain that the Company realized on this attempted acquisition arose from the sale of shares of Accelio common stock owned by the Company, and gains realized in connection with certain lock-up
+agreements in connection with the attempted acquisition, partially offset by the costs incurred.  During fiscal 2003, the Company realized a gain of $152,000 relating to a small equity investment it disposed of during the year. The majority of the balance of other income during fiscal 2003 relates to realized
+foreign exchange gains recorded during the year. The strong appreciation of the Euro as compared to the U.S. dollar accounted for the majority of this amount. 
+61 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+NOTE 11INCOME TAXES  The Company operates in several tax jurisdictions. Its income is subject to varying rates of tax and losses incurred in one jurisdiction
+cannot be used to offset income taxes payable in another.  The income loss
+before income taxes consisted of the following:  Year Ended June 30 2003
+2002
+2001 Domestic income loss 7,549 3,931 1,297 Foreign income 23,385 13,029 13,322 Income before income taxes 30,934 16,960 12,025  A reconciliation of the combined
+Canadian federal and provincial income tax rate with the Companys effective income tax rate is as follows:  Year Ended June 30 2003 2002 2001 Expected statutory rate 376 400 430 Expected provision for income taxes 11,631 6,784 5,171 Effect of permanent differences 1,316 2,694 1,435 Effect of foreign tax rate differences 234 453 1,035 Non-taxable portion of capital gain 202 Tax incentive for research and development 1,854 368 Benefit of losses 3,633 6,300 Future benefit of losses acquired on acquisitions 3,400 Change in valuation allowance 3,548 7,850 4,800 Other items 501 316 558 3,177 289 1,229 The operating tax loss carryforwards net of valuation allowance acquired on the purchases of Centrinity, Eloquent, and Corechange do not affect the income statement as amounts are
+allocated to these operating tax loss carryforwards in the purchase price allocation. 
+62 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+The provision recovery for income taxes consisted of the following:  Year Ended June 30 2003 2002
+2001 Domestic Current income taxes 460 600 Deferred income taxes 272 450 188 150 Foreign Current income taxes 3,493 289 371 Deferred income taxes 504 1,750 2,989 289 1,379 Provision for income taxes 3,177 289 1,229  The Company has approximately $356
+million of domestic non-capital loss carryforwards which expire between 2004 and 2008. In addition, the Company has $255 million of foreign non-capital loss carry forwards of which $163 million have no expiry date. $92 million of these foreign
+losses are restricted and can only be used against the profits of a previously acquired company in accordance with a statutory formula. The remainder of the foreign losses expire between 2008 and 2022. The Company also has $18 million of foreign
+capital loss carryforwards that have no expiry date.  The primary temporary
+differences which gave rise to net deferred tax assets at June 30, 2003 and 2002 are:  Year Ended June 30 2003 2002 Deferred tax assets Non-capital loss carryforwards 19,668 5,447 Capital loss carryforwards 710 770 Employee stock options 113 Scientific research and development tax credits 684 600 Depreciation and amortization 1,062 2,410 Share issue costs 167 50 Total deferred tax asset 22,291 9,390 Less, valuation allowance 5,669 9,250 16,622 140 Deferred tax liabilities Scientific research and development tax credits 260 140 Net deferred tax asset 16,362  Comprised of Current asset 7,688  Long-term asset 8,674 16,362   The Company believes that sufficient
+uncertainty exists regarding the realization of certain deferred tax assets that a valuation allowance is required. The Company continues to evaluate its taxable position quarterly and considers 
+63 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+factors by taxing jurisdiction such as estimated taxable income, the history of losses for tax purposes and the
+growth of the Company, among others.  NOTE 12SEGMENT INFORMATION
+SFAS No. 131, Disclosures about Segments of an Enterprise and
+Related Information. establishes standards for the reporting by public business enterprises of information about operating segments, products and services, geographic areas, and major customers. The method of determining what information to
+report is based on the way that management organizes the operating segments within the Company for making operational decisions and assessments of financial performance.  The Company has two reportable segments: North America and Europe. The Company evaluates operating segment performance based on total
+revenues and operating costs of the segment. The accounting policies of the operating segments are the same as those described in the summary of accounting policies. No segments have been aggregated.  Information about reported segments is as follows:  NorthAmerica
+Europe
+Other
+Total
+2003 Total revenues 102,221 70,805 4,699 177,725
+Operating costs 77,595 60,403 4,564 142,562 Contribution margin 24,626 10,402 135 35,163 Segment assets 98,769 38,618 2,106 139,493 2002 Total revenues 92,410 56,467 5,495 154,372
+Operating costs 70,454 52,880 5,435 128,769 Contribution margin 21,956 3,587 60 25,603 Segment assets 52,577 31,428 2,235 86,240 2001 Total revenues 86,471 54,778 6,450 147,699
+Operating costs 73,483 50,127 3,684 127,294 Contribution margin 12,988 4,651 2,766 20,405 Segment assets 63,276 30,244 1,787 95,307  Included in the above operating
+results are allocations of certain operating costs which are incurred in one reporting segment but which relate to all reporting segments. The allocations of these common operating costs are consistent with the manner in which they are allocated for
+presentation to, and analysis by, the chief operating decision maker of the Company. For the year ended June 30, 2003, 2002 and 2001, the Other category consists of geographic regions other than North America and Europe.  
+64 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+A reconciliation of the totals reported for the operating segments to the applicable line items in the consolidated
+financial statements for the years ended June 30, 2003, 2002, and 2001 is as follows:  Year Ended June 30 2003 2002 2001 Total contribution margin from operating segments above 35,163 25,603 20,405 Amortization and depreciation 8,245 12,093 10,638 Total operating income loss 26,918 13,510 9,767 Interest, other income loss and income taxes 839 3,161 1,029 Net income for the year 27,757 16,671 10,796  As of June 30 2003
+2002
+Segment assets 139,493 86,240
+Investments 134
+Cash and cash equivalents corporate 99,194 100,473 Total corporate assets 238,687 186,847  Contribution margin from
+operating segments does not include amortization of intangible assets, acquired in-process research and development and restructuring costs. Goodwill and intangibles have been assigned in segment assets based on the location of the acquired business
+operations to which they relate. These allocations have been made on a consistent basis.  The distribution of net revenues determined by location of customer, and identifiable assets greater than 10%, by geographic areas for the years ended June 30, 2003, 2002 and 2001 are as follows:  Year Ended June 30 2003
+2002
+2001
+Total revenues Canada 13,500 12,190 11,650
+United States 88,721 80,220 80,106
+United Kingdom 22,042 20,320 20,328
+Other 53,462 41,642 37,393 Total revenues 177,725 154,372 149,477  
+65 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data  As of June 30 2003
+2002
+Segment assets Canada 43,725 16,472
+United States 55,044 36,105
+United Kingdom 13,733 9,556
+Other 26,991 24,107 Total segment assets 139,493 86,240  NOTE 13SUPPLEMENTAL CASH FLOW
+DISCLOSURES  Year Ended June 30 2003
+2002
+2001
+Supplemental disclosure of cash flow information Cash paid during the period for interest 55 19 56
+Cash paid during the period for taxes 590 495 7,626
+NOTE 14ACQUISITIONS
+Fiscal 2003  Corechange Inc.  On February 25, 2003, Open Text Inc. OTI a wholly-owned subsidiary of the Company, acquired all of the issued and outstanding
+shares of Corechange Inc. Corechange. Consideration for this acquisition was comprised of 1 cash consideration of $36 million paid on closing; 2 additional cash consideration of $650,000 to be held in escrow in order to satisfy
+potential breaches of representations and warranties as provided for in the share purchase agreement; and 3 additional cash consideration to be payable over the one-year period following closing, calculated as a fixed percentage of certain
+revenues of Corechange. The results of operations of Corechange have been consolidated with those of Open Text beginning February 25, 2003. Boston-based Corechange delivers infrastructure software to develop, deploy and manage enterprise portals on
+a global scale.  The following table summarizes the purchase price allocation:
+Current assets 2,968 Capital assets 753 Deferred tax assets 596 Technology assets 4,600 Customer assets 2,000 Goodwill 1,989 Total assets acquired 12,906 Current liabilities 8,656 Net assets acquired 4,250 
+66 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+The total purchase price allocated to goodwill of $20 million was assigned entirely to the Companys North
+American geographic segment. In accordance with SFAS 142, the goodwill will not be amortized but will be reviewed for impairment on an annual basis.  The customer assets of $20 million were assigned a useful life of 7 years. The technology assets of $46 million have also been assigned a useful life of 7 years.
+As part of the purchase price allocation, the Company recognized liabilities
+in connection with the acquisition of Corechange totaling $41 million. The liabilities recognized include severance and related charges in connection with a worldwide reduction in the Corechange workforce, in addition to transaction costs, costs
+relating to provisioning for excessive facilities, and certain pre-acquisition contingencies. Of the total liabilities recognized in connection with the acquisition, $21 million remains accrued at June 30, 2003. The Company expects that the
+majority of these remaining costs will be paid in fiscal 2004; however, certain amounts such as the provision for excessive facilities and pre-acquisition contingencies may take longer.  Eloquent, Inc.  On March 20, 2003, Open Text completed an acquisition of all of the issued and outstanding shares of Eloquent Inc. Eloquent for cash consideration of $67
+million, of which $10 million is being held in escrow to secure certain representations, warranties and covenants of Eloquent in the acquisition agreement. The results of operations of Eloquent have been consolidated with those of Open Text
+beginning March 20, 2003. San Mateo-based Eloquents closed-loop sales readiness solution, LaunchForceTM, is built on a scaleable technology platform designed to deploy corporate knowledge to front-line employees and partners.
+The following table summarizes the current purchase price allocation:
+Current assets 4,229 Other assets 132 Deferred tax assets 1,020 Technology assets 2,300 Customer assets 800 Goodwill 582 Total assets acquired 9,063 Current liabilities 2,350 Net assets acquired 6,713  The total purchase price allocated to
+goodwill of $06 million was assigned entirely to the Companys North American geographic segment. In accordance with SFAS 142, the goodwill will not be amortized but will be reviewed for impairment on an annual basis.  The customer assets of $08 million were assigned a useful life of 7 years. The technology
+assets of $23 million have also been assigned a useful life of 7 years.  As
+part of the purchase price allocation, the Company recognized liabilities in connection with the acquisition of Eloquent totaling $12 million. The liabilities recognized include severance and related charges in connection with a reduction in the
+Eloquent workforce, in addition to transaction costs and pre-acquisition contingencies. Of the total liabilities recognized in connection with the acquisition, $07 million remains accrued at June 30, 2003. The majority of this remaining accrual
+relates to pre-acquisition contingencies which the Company anticipates will be resolved during fiscal 2004. 
+67 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+Centrinity, Inc.  On November 1, 2002, the Company completed the acquisition of all of the issued and outstanding shares of Centrinity Inc. Centrinity for cash consideration
+of $203 million. The results of operations of Centrinity have been consolidated with those of Open Text beginning November 1, 2002. Toronto-based Centrinity, which has developed a communications and messaging platform, has over 8 million users
+worldwide. Open Text intends on further developing this technology, and plans for it to be integrated into its flagship product, Livelink.  The following table summarizes the purchase price allocation:  Net working capital items 552 Capital assets 1,655 Deferred tax assets 12,413 Customer assets 2,400 Technology assets 4,000 Goodwill 5,311 Liabilities recognized in connection with the business combination 6,031 Net assets acquired 20,300  The total purchase price allocated to
+goodwill of $53 million was assigned to the Companys reportable geographic segments as follows:  North America 2,921
+Europe 2,390 5,311  In accordance with SFAS 142, the
+goodwill will not be amortized but will be reviewed for impairment on an annual basis.  The customer contracts of $10 million were assigned a useful life of 3 years, while the customer relationships of $14 million were assigned a useful life of 7 years. The purchased technology of $40 million has been separated into
+subcomponents, whose useful lives have been assigned as either 5 or 7 years.  As part of the purchase price allocation, the Company recognized liabilities in connection with the acquisition of Centrinity totaling $60 million. The liabilities recognized include severance and related charges in connection with a
+worldwide reduction in the Centrinity workforce, in addition to transaction costs, costs relating to provisioning for excessive facilities, and pre-acquisition contingencies. Of the total liabilities recognized in connection with the acquisition 36 million remains accrued at June 30, 2003. The majority of the remaining accrual relates to provisioning for excessive facilities and pre-acquisition contingencies. The Company anticipates that with the exception of those components, the
+majority of these acquisition accruals will be paid during fiscal 2004.  The
+following pro forma results of operations reflect the combined results of Open Text, Centrinity and Corechange for the years ended June 30, 2003 and 2002, as if the business combination occurred as of the beginning of Open Texts fiscal year.
+The information used for this pro forma disclosure was obtained from unaudited financial statements filed with either the Ontario Securities Commission or the Securities and Exchange Commission, as well as internal unaudited financial statements
+prepared by the respective companies. 
+68 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data  Year ended June 30,2003 June 30,2002 Revenue 191,560 184,590 Net loss 3,115 27,759 Basic net loss per share 016 139 Shares used in computing basic net loss per share in thousands 19,525 19,979 Diluted net loss per share 016 139 Shares used in computing diluted net loss per share in thousands 19,525 19,979
+Fiscal 2001  Bluebird Systems  In October 2000, Open Text acquired all of the issued and outstanding share capital of Bluebird Systems Bluebird, of Carlsbad,
+California. Consideration for this acquisition was comprised of 1 cash of $8 million paid on closing; and 2 additional cash consideration to be earned over the eight subsequent three-month periods following the closing, contingent upon Bluebird
+meeting certain revenue and net income targets.  The Company allocated the
+total purchase price to the assets and liabilities acquired as follows:  Tangible net liabilities 114 Current software products 2,346 Core technology 1,156 Goodwill 4,612 8,000  Included in tangible net liabilities
+is an amount of $646 representing direct acquisition costs, involuntary terminations, and office closure costs. The liabilities included $504 of direct acquisition costs, $75 for involuntary terminations, and $67 for office closures. An acquisition
+accrual of $11 remains on the balance sheet at June 30, 2003. It is the Companys expectation that this accrual will be substantially utilized in the coming fiscal year.  The acquired software technology was valued using a stage of completion model. Projected revenue net of operating expenses and income taxes
+were discounted to a present value using a risk-adjusted rate of return. Software technology was divided into two categories:  current software products  core technology  Current software products include products currently in the marketplace as of the acquisition
+date. The fair market value of the purchased current software products was determined to be $23 million. This amount was recorded as an asset and is being amortized on a straight-line basis over four years. The fair market value of core technology
+was determined to be $12 million. This amount was recorded as an asset and is being amortized on a straight-line basis over seven years.  The excess of the purchase price over the fair market value of the acquired identifiable assets and liabilities assumed has been recorded as goodwill in the amount of
+$46 million. Any additional consideration earned by the former shareholders of Bluebird will be accounted for as part of the purchase price, and consequently will be recorded as additional goodwill. As of June 30, 2003, no additional consideration
+has been earned under the stock purchase agreement. 
+69 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+LeadingSide  In November 2000, Open Text acquired the product business of LeadingSide Inc. LeadingSide of Cambridge, Massachusetts, for cash consideration of $3 million.
+LeadingSide is an e-business solution provider that designs, develops and deploys knowledge driven solutions to Global 2000 companies.  The Company allocated the total purchase price to the assets acquired as follows:  Tangible net liabilities 1,869 Current software products 2,654 Goodwill 2,215 3,000  Included in tangible net liabilities
+is an amount of $18 million representing direct acquisition costs, office closure costs, and certain contingencies. The liabilities included $543 of direct acquisition costs, $80 for office closures, and $12 million for potential legal disputes.
+As of June 30, 2003, there are amounts remained accrued in respect of direct acquisition costs.  The acquired software products were valued using a stage of completion model. Projected revenue net of operating expenses and income taxes were discounted to a present value using a risk-adjusted rate of return.
+Current software products include products currently in the marketplace as of
+the acquisition date. The fair market value of the purchased current software products was determined to be $27 million. This amount was recorded as an asset and is being amortized on a straight-line basis over four years. The excess of the
+purchase price over the fair market value of the acquired identifiable assets and liabilities assumed has been recorded as goodwill in the amount of $22 million.  Open Image  In November 2000, Open Text acquired all of the outstanding shares of Open Image Systems Inc. Open Image of Toronto, Ontario for cash consideration of $21
+million.  The Company allocated the total purchase price to the net assets
+acquired as follows:  Tangible net liabilities 239 Current products 302 Goodwill 1,992 2,055  Included in tangible net liabilities
+is an amount of $204 representing direct acquisition costs, office closure costs, and certain contingencies. The liabilities included $68 of direct acquisition costs, $38 for office closures, and $98 for potential legal disputes. An acquisition
+accrual of $96 remains on the balance sheet at June 30, 2003. It is the Companys expectation that this accrual will be utilized in the coming fiscal year. 
+The acquired software products were valued using a stage of completion model. Projected revenue net of operating expenses and income taxes were discounted to a present
+value using a risk-adjusted rate of return.  Current software products include
+products currently in the marketplace as of the acquisition date. The fair market value of the purchased current software products was determined to be $302. This amount was recorded as an asset and is being amortized on a straight-line basis over
+four years. The excess of the purchase price over the fair market value of the acquired identifiable assets and liabilities assumed has been recorded as goodwill in the amount of $2 million. 
+70 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data 
+Base 4  In January 2001, Open Text acquired all of the outstanding shares of Base 4 Inc. Base 4 of Toronto, Ontario for cash consideration of $529. Base
+4s PharMatrix product is designed to facilitate the capture, storage and dissemination of knowledge generated during the complete project lifecycle of the pharmaceutical discovery process.  The Company allocated the total purchase price to the net assets acquired as follows:
+Tangible net liabilities 701 Goodwill 1,240 539  Included in tangible net liabilities
+is an amount of $335 representing direct acquisition costs, office closure costs, involuntary termination costs and acquired commitments. The liabilities included $70 of direct acquisition costs, $75 for office closures, $100 for involuntary
+terminations and $90 for certain contingencies.  The excess of the purchase
+price over the fair market value of the acquired identifiable assets and liabilities assumed has been recorded as goodwill in the amount of $12 million. 
+71 Table of Contents OPEN TEXT CORPORATION  Notes to Consolidated Financial Statements  Tabular amounts in thousands, except per share data  
+NOTE 15NET INCOME PER SHARE  Year Ended June 30 2003
+2002
+2001 
+Basic income per share Net income 27,757 16,671 10,796 Weighted average number of shares outstanding 19,525 19,979 20,032 Basic income per share 142 083 054 Diluted income per share Net income 27,757 16,671 10,796 Weighted average number of shares outstanding 19,525 19,979 20,032
+Dilutive effect of stock options 1,172 1,260 1,434 Adjusted weighted average number of shares outstanding 20,697 21,239 21,466 Diluted income per share 134 078 050 anti-dilutive options of 453,904 have been excluded for fiscal 2003 fiscal 2002 - 423,283; fiscal 2001 - 322,529  NOTE 16SUBSEQUENT EVENT  On August 27, 2003, the Company announced that it intended to acquire the common shares of
+Gauss Interprise Deutsch Bourse: GSOGa.de for cash by way of agreement with certain of the shareholders, who will hold 73 percent of the shares at closing after conversion of indebtedness. In addition, on September 19, 2003 a tender offer was made
+for the balance of the shares. Total cash consideration for the shares is expected to be approximately US $11 million. Open Text expects that the transaction will close, subject to certain conditions, in the second quarter of Fiscal Year 2004 the
+quarter ending December 31, 2003. 
+72 Table of Contents
+Item 1
+Business 
+3
+Item 2
+Properties 
+15
+Item 3
+Legal Proceedings
+15
+Item 4
+Submission of Matters to a Vote of Security Holders 
+16 PartII Item 5. Controls and Procedures  As of June 30, 2003, our Chief Executive Office and Chief Financial Officer performed an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures pursuant to the Exchange Act Rule 13a-15b and
+15d-15b. Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of the Evaluation Date our disclosure controls and procedures are effective in ensuring the reporting of material information required
+to be included in our periodic filings with the Securities and Exchange Commission. There were no changes in our internal controls over financial reporting during the fourth fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, our internal control over financial reporting.  PART III  

@@ -1,0 +1,886 @@
+Item 8.  Financial Statements and Supplementary Data                   INDEX Consolidated Financial Statements of Aehr Test Systems
+Report of Independent    29
+Consolidated Balance Sheets at May 31, 2003 and 2002.   30
+Consolidated Statements of Operations for the years
+ended May 31, 2003, 2002 and    31
+Consolidated Statements of Shareholders' Equity and
+Accumulated Other Comprehensive Income for the years
+ended May 31, 2003, 2002 and    32
+Consolidated Statements of Cash Flows for the years ended
+May 31, 2003, 2002 and    33
+Notes to Consolidated Financial    34
+Selected Quarterly Consolidated Financial Data Unaudited.   46
+Financial Statement Schedule
+Schedule for the years ended May 31, 2003, 2002, 2001
+Schedule II Valuation and Qualifying    47
+Financial statement schedules not listed above are either omitted because
+they are not applicable or the required information is shown in the
+Consolidated Financial Statements or in the Notes thereto.
+28             REPORT OF INDEPENDENT AUDITORS To the Board of Directors and Shareholders
+of Aehr Test Systems   In our opinion, the consolidated financial statements listed in the
+accompanying index present fairly, in all material respects, the financial
+position of Aehr Test Systems and its subsidiaries at May 31, 2003 and 2002,
+and the results of their operations and their cash flows for each of the
+three years in the period ended May 31, 2003 in conformity with accounting
+principles generally accepted in the United States of America. In addition,
+in our opinion, the financial statement schedule listed in the accompanying
+index presents fairly, in all material respects, the information set forth
+therein when read in conjunction with the related consolidated financial
+statements. These financial statements and financial statement schedule are
+the responsibility of the Company management; our responsibility is to
+express an opinion on these financial statements and financial statement
+schedule based on our audits. We conducted our audits of these statements in
+accordance with auditing standards generally accepted in the United States of
+America, which require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements,
+assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for our opinion. s/ PricewaterhouseCoopers LLP
+San Jose, California
+July 1, 2003                    29            AEHR TEST SYSTEMS AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS, EXCEPT PER SHARE DATA                                   May 31,
+2003      2002
+ASSETS
+Current assets:
+Cash and cash equivalents..     $ 8,362    $ 7,485
+Short-term investments..      2,429     8,003
+Accounts receivable, net of allowance for doubtful
+accounts of $87 and $71 at May 31, 2003 and
+2002, respectively       2,889     3,132
+Inventories       9,247     8,633
+Refundable income       1,248     1,809
+Prepaid expenses and other..       392      564
+Total current assets..     24,567     29,626
+Property and equipment, net..      1,515     2,356
+Long-term investments        607       Other assets, net       1,558     1,836
+Total assets      $28,247    $33,818
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts payable      $  748    $  874
+Accrued expenses       1,739     2,260
+Deferred revenue        106      540
+Total current liabilities..      2,593     3,674
+Deferred revenue        30       35
+Accrued lease commitment..       279      224
+Total liabilities       2,902     3,933
+Commitments and contingencies Note 7.
+Shareholders' equity:
+Preferred stock, $01 par value:
+Authorized: 10,000 shares;
+Issued and outstanding: none..       --        Common stock, $01 par value:
+Authorized: 75,000 shares;
+Issued and outstanding: 7,157 shares and 7,184
+shares at May 31, 2003 and 2002, respectively..       72       72
+Additional paid-in capital..     36,364     36,387
+Accumulated other comprehensive income..       1,521     1,494
+Accumulated deficit      12,612    8,068
+Total shareholders' equity..     25,345     29,885
+Total liabilities and shareholders' equity..     $28,247    $33,818
+The accompanying notes are an integral part of these consolidated
+financial statements.
+30            AEHR TEST SYSTEMS AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+IN THOUSANDS, EXCEPT PER SHARE DATA                              Year Ended May 31,
+2003    2002    2001
+Net     $15,092  $12,568  $31,039
+Cost of      9,354   6,488   17,923
+Gross      5,738   6,080   13,116
+Operating expenses:
+Selling, general and administrative.     5,919   6,547   7,262
+Research and      4,543   4,036   4,982
+Research and development cost
+reimbursement--DARPA..       --     --    600
+Total operating expenses.     10,462   10,583   11,644
+Income loss from operations.     4,724  4,503   1,472
+Interest       252    520    971
+Interest        --     --     7
+Other income expense, net.      146    43    98
+Income loss before income taxes..     4,618  4,026   2,534
+Income tax expense benefit.      74   1,241   1,046
+Income loss before cumulative effect
+of change in accounting principle.     4,544  5,267   1,488
+Cumulative effect of change in accounting
+principle - net of tax.       --     --   1,629
+Net      4,544  5,267   141
+Other comprehensive income loss, net of tax:
+Foreign currency translation
+income        27     24    109
+Unrealized holding gains losses arising
+during the        --    17    32
+Comprehensive     $4,517  $5,260  $ 218
+Income loss per share before cumulative effect
+of change in accounting principle:
+$ 063  $ 074  $ 021
+$ 063  $ 074  $ 021
+Net loss per share
+$ 063  $ 074  $ 002
+$ 063  $ 074  $ 002
+Shares used in per share calculation
+7,161   7,151   7,074
+7,161   7,151   7,179 The accompanying notes are an integral part of these consolidated
+financial statements.
+31                    AEHR TEST SYSTEMS AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+AND ACCUMULATED OTHER COMPREHENSIVE INCOME
+IN THOUSANDS                                       Accumulated Other
+Comprehensive Income
+Notes                    Common Stock  Additional  Receivable Unrealized Cumulative
+Paid-in    From   Investment Translation Accumulated
+Shares  Amount  Capital  Shareholders GainLoss Adjustment   Deficit  Total
+Balances, May 31, 2000      6,906   $69  $35,332    --    $13   $1,577   $ 2,660 $34,305
+Issuance of common stock
+under employee plans.   308    2   1,270    --     --     --      --   1,272
+Repurchase of common stock.   98   --    468    --     --     --      --   468
+Note receivable from
+shareholders.    --    --     --   $84     --     --      --    84
+Net loss.    --    --     --    --     --     --     141   141
+Net unrealized gain on
+investments.    --    --     --    --     32     --      --    32
+Foreign currency
+translation adjustment.    --    --     --    --     --    109      --   109
+Comprehensive loss.                                          218
+Balances, May 31, 2001      7,116    71   36,134    84     19    1,468    2,801  34,807
+Issuance of common stock
+under employee plans.   104    1    394    --     --     --      --    395
+Repurchase of common stock.   36   --    141    --     --     --      --   141
+Note receivable from
+shareholders.    --    --     --    84     --     --      --    84
+Net loss.    --    --     --    --     --     --    5,267  5,267
+Net unrealized loss on
+investments.    --    --     --    --     17     --      --    17
+Foreign currency
+translation adjustment.    --    --     --    --     --     24      --    24
+Comprehensive loss.                                         5,260
+Balances, May 31, 2002      7,184    72   36,387    --      2    1,492    8,068  29,885
+Issuance of common stock
+under employee plans.    51    --    159    --     --     --      --    159
+Repurchase of common stock.   78   --    182    --     --     --      --   182
+Net loss.    --    --     --    --     --     --    4,544  4,544
+Foreign currency
+translation adjustment.    --    --     --    --     --     27      --    27
+Comprehensive loss.                                         4,517
+Balances, May 31, 2003      7,157   $72  $36,364   $ --    $ 2   $1,519   $12,612 $25,345
+The accompanying notes are an integral part of these consolidated financial
+statements.                    32            AEHR TEST SYSTEMS AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS                              Year Ended May 31,
+2003    2002    2001
+Cash flows from operating activities:
+Net    $4,544  $5,267  $ 141
+Adjustments to reconcile net loss to net
+cash provided by used in operating
+activities:
+Cumulative effect of change in
+accounting      --     --    1,629
+Loss on impairment of an investment.     365     --        Provision for doubtful accounts.     15     64    23
+Loss on disposition of
+property and equipment.     --     79     34
+Depreciation and amortization.     582     662     651
+Deferred income taxes.     --    1,613        Changes in operating assets and liabilities:
+Accounts      268    2,687   2,098
+64   1,497    1,090
+Accounts     246    289   1,514
+Accrued expenses and deferred revenue.    985    559   1,409
+Accrued lease commitment.     55     78     100
+Other current assets.     739    663    126
+Net cash used in provided by
+operating activities.   3,815    226   1,011
+Cash flows from investing activities:
+Increase decrease in short-
+term     5,574   4,239    3,601
+Increase decrease in long-
+term     607   2,250   1,655
+Additions to property and equipment.    261    954    122
+Increase in other assets.     87    19    787
+Net cash provided by used in
+investing activities.    4,619   2,962   1,037
+Cash flows from financing activities:
+Long-term debt and capital lease
+principal      --     --    419
+Proceeds from issuance of common stock
+and exercise of stock options.     159     395    1,272
+Repayment Issuance of notes
+from to      --     84     84
+Repurchase of common stock.    182    141    468
+Net cash used in provided by
+financing activities.     23    338     301
+Effect of exchange rates on cash.     96     56    281
+Net increase decrease in cash and
+cash      877   2,906   2,068
+Cash and cash equivalents, beginning of year.    7,485   10,391    8,323
+Cash and cash equivalents, end of year.   $ 8,362   $ 7,485   $10,391
+Supplemental cash flow information:
+Cash paid during the year for:
+Interest                $ 4
+Income taxes..     $40     $43     $28 The accompanying notes are an integral part of these consolidated
+financial statements.
+33            AEHR TEST SYSTEMS AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES BUSINESS   Aehr Test Systems Company was incorporated in California in June 1977
+and primarily designs, engineers and manufactures test and burn-in equipment
+used in the semiconductor industry. The Company principal products are the
+MTX massively parallel test system, the MAX and ATX burn-in systems, the FOX
+full wafer contact system, test fixtures and the DiePak carrier.
+CONSOLIDATION   The financial statements include the accounts of the Company, its wholly
+owned foreign sales corporation FSC and both its wholly owned and
+majority owned foreign subsidiaries. Intercompany accounts and transactions
+have been eliminated. The Company 25% interest in ESA Electronics PTE Ltd.
+ESA, a Singapore company, is accounted for under the equity method.
+Equity income related to ESA totaled $85,000, $46,000 and $275,000 in fiscal
+years 2003, 2002 and 2001, respectively, and is recorded in other income
+expense, net.
+FOREIGN CURRENCY TRANSLATION AND TRANSACTIONS   Assets and liabilities of the Company foreign subsidiaries are
+translated into U.S. Dollars from Japanese Yen, Euros and New Taiwan Dollars
+using the exchange rate in effect at the balance sheet date. Additionally,
+their revenues and expenses are translated using exchange rates approximating
+average rates prevailing during the fiscal year. Translation adjustments
+that arise from translating their financial statements from their local
+currencies to U.S. Dollars are accumulated and reflected as a separate
+component of shareholders' equity and comprehensive income loss.
+Transaction gains and losses that arise from exchange rate changes
+denominated in currencies other than the local currency are included in the
+statements of operations as incurred.
+USE OF ESTIMATES   The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities, and
+disclosure of contingent assets and liabilities at the date of the financial
+statements, and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+CASH EQUIVALENTS AND INVESTMENTS   Cash equivalents consist of money market instruments, commercial paper
+and other highly liquid investments purchased with an original maturity of
+three months or less. All investments are classified as available-for-sale.
+Investments in available-for-sale securities are reported at fair value with
+unrealized gains and losses, net of tax, if any, included as a component of
+shareholders' equity.
+CONCENTRATION OF CREDIT RISK   The Company sells its products primarily to semiconductor manufacturers
+in North America, the Far East, and Europe. As of May 31, 2003,
+approximately 16%, 81% and 3% of accounts receivable are from customers
+located in the United States, the Far East and Europe, respectively. As of
+May 31, 2002, approximately 23%, 65% and 12% of accounts receivable are from
+customers located in the United States, the Far East and Europe,
+respectively. Three customers accounted for 38%, 35% and 14% of accounts
+receivable at May 31, 2003, and two customers accounted for 38% and 16% of
+accounts receivable at May 31, 2002. Two customers accounted for 45% and 11%
+of net sales in fiscal 2003, respectively and three customers accounted for
+22%, 17% and 11% of net sales in fiscal 2002, respectively. Two customers
+accounted for 25% and 13% of net sales in fiscal 2001, respectively. The
+Company performs ongoing credit evaluations of its customers and generally
+does not require collateral. The Company also maintains allowances for
+potential credit losses and such losses have been within management
+expectations. The Company uses letter of credit terms for some of its
+international customers.
+34   Primarily all of the Company cash, cash equivalents, short-term cash
+deposits and long-term investments are deposited with major financial
+institutions in the United States, Japan, Germany and Taiwan. The Company
+invests its excess cash in money market funds and short-term cash deposits.
+The money market funds and short-term cash deposits bear the risk associated
+with each fund. The money market funds have variable interest rates, and the
+short-term cash deposits have fixed rates. The Company long-term
+investments consist of interest bearing securities with maturities of 18
+months or less. The Company has not experienced any losses on its money
+market funds, short-term cash deposits, or long-term investments.
+STRATEGIC INVESTMENTS   The Company invests in debt and equity of private companies as part of
+its business strategy. These investments are carried at cost and are
+included in Other Assets in the consolidated balance sheets. If the
+Company determines that an other-than-temporary decline exists in the fair
+value of an investment, the Company writes down the investment to its fair
+value and records the related write-down as an investment loss in Other
+Income Expense in its consolidated statement of operations. For the year
+ended May 31, 2003, the Company wrote-down one of its strategic investments
+by $365,000. At May 31, 2003 and 2002, the carrying value of the strategic
+investments was $11 million and $14 million, respectively.
+INVENTORIES   Inventories are stated at the lower of standard cost which approximates
+cost on a first-in, first-out basis or market.
+PROPERTY AND EQUIPMENT   Property and equipment are stated at cost less accumulated depreciation
+and amortization. Leasehold improvements are amortized over the lesser of
+their estimated useful lives or the term of the related lease. Furniture,
+fixtures, machinery and equipment are depreciated on a straight-line basis
+over their estimated useful lives. The ranges of estimated useful lives for
+furniture, fixtures, machinery and equipment are as follows Leasehold  life of the lease
+Furniture and  2 to 15 years
+Machinery and  4 to 11 years
+Test  4 to 11 years
+GOODWILL   The Company has adopted the provisions of Statement of Financial
+Accounting Standards No. 142 SFAS 142, Goodwill and Other Intangible
+Assets, effective June 1, 2002. In accordance with SFAS 142, the Company
+ceased the amortization of goodwill as of June 1, 2002. Net goodwill
+included in Other Assets in the consolidated balance sheets at May 31, 2003
+and May 31, 2002 was $274,000. In accordance with the provisions of SFAS
+142, the Company performed an initial test of goodwill impairment. The test
+showed no impairment of the Company goodwill as of June 1, 2002, the
+initial date of adopting SFAS 142. In accordance with the provisions of SFAS
+142, the Company performed an annual goodwill impairment test on May 31, 2003
+and it showed no impairment of the Company goodwill as of that date.
+REVENUE RECOGNITION   The Company selling arrangements may include contractual customer
+acceptance provisions and installation of the product occurs after shipment
+and transfer of title. As a result, effective June 1, 2000, to comply with
+the provisions of SAB 101, the Company recognizes revenue upon shipment and
+defers recognition of revenue for any amounts subject to acceptance until
+such acceptance occurs. The amount of revenue deferred is the greater of the
+fair value of the undelivered element or the contractually agreed to amounts.
+Royalty revenue related to Performance Test Boards licensing income is
+recognized when paid by the licensee. This income is recorded in net sales.
+Provisions for the estimated future cost of warranty is recorded at the time
+the products are shipped. Prior to June 1, 2000, revenue for all products
+except royalties was recognized upon shipment of product provided no
+significant obligations remained and collectibility was assured.
+35 PRODUCT DEVELOPMENT COSTS AND CAPITALIZED SOFTWARE   Costs incurred in the research and development of new products or systems
+are charged to operations as incurred.
+Costs incurred in the development of software programs for the Company
+products are charged to operations as incurred until technological
+feasibility of the software has been established. Generally, technological
+feasibility is established when the software module performs its primary
+functions described in its original specifications, contains features
+required for it to be usable in a production environment, is completely
+documented and the related hardware portion of the product is complete.
+After technological feasibility is established, any additional costs are
+capitalized. Capitalized costs are amortized over the estimated life of the
+related software product using the greater of the units of sales or straight-
+line methods over ten years. No system software development costs were
+capitalized or amortized in fiscal 2003, 2002 and 2001.
+During 1994, the Company entered into a cost-sharing research agreement
+with the Defense Advanced Research Projects Agency DARPA, a U.S.
+government agency, under which DARPA provided co-funding up to a maximum
+amount of $65 million during fiscal 1994 through September 2000 for the
+development of a new product that would allow for burn-in and test at the
+wafer level. Payments from DARPA were received upon DARPA approval of the
+achievement by the Company of milestones as outlined in the contract. The
+Company recognized such reimbursements as a reduction to research and
+development expenses in an amount equal to actual reimbursable project costs
+incurred. In January 2001, the Company completed this $65 million multi-
+year research and development agreement with DARPA. At May 31, 2003 and May
+31, 2002, no outstanding payments were due from DARPA.
+FAIR VALUE OF FINANCIAL INSTRUMENTS   Carrying amounts of certain of the Company financial instruments
+including cash and cash equivalents, short-term investments, long-term
+investments, accounts receivable, accounts payable and accrued expenses
+approximate fair value due to their short maturities.
+The Company investments are composed primarily of government and
+corporate fixed income securities, certificates of deposit and commercial
+paper. Long-term investments mature after one year but less than two years.
+While it is the Company general intent to hold such securities until
+maturity, management will occasionally sell certain securities for cash flow
+purposes. Therefore, the Company investments are classified as available-
+for-sale and are carried at fair value. Through May 31, 2003, no material
+losses had been experienced on such investments.
+Unrealized gains and losses on available-for-sale investments, net of
+tax, are computed on the basis of specific identification and are reported as
+other comprehensive income loss and included in shareholders' equity.
+Realized gains, realized losses, and declines in value, judged to be other-
+than-temporary, are included in other income expense, net. The cost of
+securities sold is based on the specific identification method and interest
+earned is included in other income expense, net.
+IMPAIRMENT OF LONG-LIVED ASSETS   In the event that facts and circumstances indicate that the carrying
+value of assets may be impaired, an evaluation of recoverability would be
+performed. If an evaluation is required, the estimated future undiscounted
+cash flows associated with the asset would be compared to the asset
+carrying value to determine if a write-down is required.
+INCOME TAXES   Deferred tax assets and liabilities are determined based on differences
+between financial reporting and tax bases of assets and liabilities and are
+measured using the enacted tax rates and laws that will be in effect when the
+differences are expected to reverse. Valuation allowances are established
+when necessary to reduce deferred tax assets to amounts expected to be
+realized.
+STOCK-BASED COMPENSATION   The Company accounts for stock-based employee compensation arrangements
+in accordance with provisions of Accounting Principles Board Opinion No. 25,
+Accounting for Stock Issued to Employees, APB 25 and related
+interpretations and complies with the disclosure provisions of Statement of
+Financial Accounting Standards No. 123, Accounting for Stock-Based
+Compensation SFAS 123, as amended by Statement of Financial Accounting
+Standards No. 148, Accounting for Stock-Based Compensation - Transition and
+Disclosure SFAS 148. Under APB 25, compensation expense is based on the
+difference, if any, on the date of the grant, between the fair value of the
+36 Company shares and the exercise price of the option. Stock-based
+compensation for consultants or other third parties is accounted for in
+accordance with SFAS 123 and Emerging Issues Task Force No. 96-18,
+Accounting for Equity Instruments That Are Issued to Other Than Employees
+for Acquiring, or in Conjunction with Selling, Goods or Services.
+The following information concerning the Company stock option and
+employee stock purchase plans is provided in accordance with SFAS No. 123,
+Accounting for Stock-Based Compensation. The Company accounts for such
+plans in accordance with APB No. 25 and related interpretations.                              Year Ended May 31,
+2003    2002    2001
+in thousands, except per share data
+Net loss -- as   $4,544  $5,267  $ 141
+Add: Stock-based employee compensation
+expense included in reported net loss,
+net of related tax effects.     --     --      Deduct: Total stock-based employee
+compensation expense determined
+under fair value based method for
+all awards, net of related tax effects.    816   1,244   1,222
+Net loss -- pro   $5,360  $6,511  $1,363
+Net loss per share -- as reported:
+$ 063  $ 074  $ 002
+$ 063  $ 074  $ 002
+Net loss per share -- pro forma:
+$ 075  $ 091  $ 019
+$ 075  $ 091  $ 019
+The above pro forma effects on loss may not be representative of the
+effects on net income loss for future years as option grants typically vest
+over several years and additional options are generally granted each year.
+The fair value of each option grant has been estimated on the date of
+grant using the Black-Scholes option pricing model and the following weighted
+average assumptions                         Year Ended May 31,
+2003    2002    2001
+Risk-free Interest Rates.  312%    440%    456%
+Expected Life.  5 years   5 years   5 years
+81%     84%     102%
+Dividend Yield.   --     --        The pro forma weighted average expected life was calculated based on the
+exercise behavior. The pro forma weighted average fair value of those
+options granted in 2003, 2002 and 2001 was $245, $255 and $430,
+respectively.
+EARNINGS PER SHARE EPS DISCLOSURES   The Company has adopted the provisions of Statement of Financial
+Accounting Standards No. 128 SFAS 128, Earnings Per Share. Basic EPS
+is computed by dividing income available to common shareholders by the
+weighted average number of common shares outstanding for the period. Diluted
+EPS is computed giving effect to all dilutive potential common shares that
+were outstanding during the period. Dilutive potential common shares consist
+of the incremental common shares issuable upon exercise of stock options for
+all periods.
+37   In accordance with the disclosure requirements of SFAS 128, a
+reconciliation of the numerator and denominator of basic and diluted EPS is
+provided as follows in thousands, except per share amounts                           Year Ended May 31,
+2003    2002    2001
+Income loss available to common
+shareholders before cumulative effect
+of change in accounting principle Numerator: Income loss before
+cumulative effect of change in
+accounting   $4,544  $5,267  $ 1,488
+Denominator for basic income loss per share:
+Weighted-average shares outstanding..   7,161   7,151   7,074
+Effect of dilutive securities:
+Employee stock options.    --     --    105
+Denominator for diluted income loss
+per    7,161   7,151   7,179
+Basic income loss per share before
+cumulative effect of change in
+accounting   $063  $074  $ 021
+Diluted income loss per share before
+cumulative effect of change in
+accounting   $063  $074  $ 021
+Net loss available to common shareholders Numerator: Net loss.  $4,544  $5,267  $ 141
+Denominator for basic loss per share:
+Weighted-average shares outstanding..   7,161   7,151   7,074
+Effect of dilutive securities:
+Employee stock options.    --     --                              Denominator for diluted loss per share.   7,161   7,151   7,074
+Basic loss per share.  $063  $074  $002
+Diluted loss per share.  $063  $074  $002
+Stock options to purchase 1,214,000, 1,154,000 and 1,104,000 shares of
+common stock were outstanding in fiscal 2003, 2002 and 2001, respectively,
+but were not included in the computation of diluted loss per share because
+the inclusion of such shares would be anti-dilutive.
+COMPREHENSIVE LOSS   The Company has adopted Statement of Accounting Standards No. 130 SFAS
+130, Reporting Comprehensive Income, which establishes standards for
+reporting comprehensive income and its components in the financial
+statements. Unrealized gains losses on available-for-sale securities and
+foreign currency translation adjustments are included in the Company
+components of comprehensive income loss, which are excluded from net income
+loss.
+38 RECENT ACCOUNTING PRONOUNCEMENTS   In November 2002, the Financial Accounting Standards Board FASB
+issued FASB Interpretation No. 45 FIN 45, Guarantor Accounting and
+Disclosure Requirements for Guarantees, Including Indirect Guarantees of
+Indebtedness of Others. FIN 45 requires that a liability be recorded in the
+guarantor balance sheet upon issuance of a guarantee. In addition, FIN 45
+requires disclosures about the guarantees that an entity has issued,
+including a reconciliation of changes in the entity product warranty
+liabilities. The initial recognition and initial measurement provisions of
+FIN 45 are applicable on a prospective basis to guarantees issued or modified
+after December 31, 2002, irrespective of the guarantor fiscal year-end.
+The disclosure requirements of FIN 45 are effective for financial statements
+of interim or annual periods ending after December 15, 2002. The Company has
+adopted the disclosure provisions of FIN 45 relating to product warranty
+effective the quarter ended February 28, 2003 see Note 5 of the Notes to
+Consolidated Financial Statements.
+In November 2002, the Emerging Issues Task Force EITF reached a
+consensus on Issue No. 00-21, Revenue Arrangements with Multiple
+Deliverables. EITF Issue No. 00-21 provides guidance on how to account for
+arrangements that involve the delivery or performance of multiple products,
+services and/or rights to use assets. The provisions of EITF Issue No. 00-21
+will apply to revenue arrangements entered into in fiscal periods beginning
+after June 15, 2003. Management does not expect the adoption of EITF Issue
+No. 00-21 to have a material impact on the Company financial position or
+results of operations.
+In December 2002, the FASB issued Statement of Financial Accounting
+Standards No. 148 SFAS 148, Accounting for Stock-Based Compensation,
+Transition and Disclosure. SFAS 148 provides alternative methods of
+transition for a voluntary change to the fair value based method of
+accounting for stock-based employee compensation. SFAS 148 also requires
+that disclosures of the pro forma effect of using the fair value method of
+accounting for stock-based employee compensation be displayed more
+prominently and in a tabular format. Additionally, SFAS 148 requires
+disclosure of the pro forma effect in interim financial statements. The
+transition and annual disclosure requirements of SFAS 148 are effective for
+fiscal years ended after December 15, 2002. The interim disclosure
+requirements are effective for interim periods ending after December 15,
+2002. The Company has adopted the disclosure requirements of SFAS 148 as of
+February 28, 2003 see Note 1 of the Notes to Consolidated Financial
+Statements.
+In January 2003, the FASB issued FASB Interpretation No. 46 FIN 46,
+Consolidation of Variable Interest Entities, an Interpretation of Accounting
+Research Bulletin No. 51. FIN 46 requires certain variable interest
+entities to be consolidated by the primary beneficiary of the entity if the
+equity investors in the entity do not have the characteristics of a
+controlling financial interest or do not have sufficient equity at risk for
+the entity to finance its activities without additional subordinated
+financial support from other parties. FIN 46 is effective immediately for
+all new variable interest entities created or acquired after January 31,
+2003. For variable interest entities created or acquired prior to February
+1, 2003, the provisions of FIN 46 must be applied for the first interim or
+annual period beginning after June 15, 2003. The Company does not expect the
+adoption of FIN 46 to have a material impact on its historical financial
+position or results of operations.
+In May 2003, the FASB issued Statement of Financial Accounting Standards
+No150 SFAS 150, Accounting for Certain Financial Instruments with
+Characteristics of both Liabilities and Equity. SFAS 150 establishes
+standards for classification and measurement of certain financial instruments
+with characteristics of both liabilities and equity. SFAS 150 requires
+financial instruments within its scope be classified as a liability or an
+asset in some circumstances. Many of those financial instruments were
+previously classified as equity. SFAS 150 is effective for financial
+instruments entered into or modified after May 31, 2003. For financial
+instruments created before and still existing as of the issuance of this
+statement, a cumulative effect of change in accounting principle shall be
+reported upon implementation in the first interim period beginning after June
+15, 2003. The Company does not expect the adoption of SFAS 150 to have a
+material impact on its historical financial position or results of
+operations.
+39 2. INVENTORIES   Inventories are comprised of the following in thousands                          May 31,
+2003     2002
+Raw materials and subassemblies.   $3,845    $4,825
+Work in     4,694    3,698
+Finished      708     110
+$9,247    $8,633
+3. PROPERTY AND EQUIPMENT   Property and equipment comprise in thousands                          May 31,
+2003     2002
+Leasehold     $1,094    $1,227
+Furniture and fixtures.    2,633    2,659
+Machinery and equipment.    2,381    3,113
+Test     1,890    1,888
+7,998    8,887
+Less: Accumulated depreciation
+and     6,483   6,531
+$1,515    $2,356
+4. GOODWILL   The Company has adopted the provisions of Statement of Financial
+Accounting Standards No. 142 SFAS 142, Goodwill and Other Intangible
+Assets, effective June 1, 2002. In accordance with SFAS 142, the Company
+ceased the amortization of goodwill as of June 1, 2002. Net goodwill at May
+31, 2003 and May 31, 2002 was $274,000.
+The following table summarizes the impact of adopting SFAS 142 on the net
+loss and net loss per share as adjusted to exclude amortization of goodwill
+for the fiscal years ended May 31, 2003, May 31, 2002 and May 31, 2001 as
+reported in the accompanying Consolidated Financial Statements in thousands,
+except per share amounts                            Year Ended
+May 31,
+2003    2002    2001
+Reported net loss.   $4,544  $5,267   $ 141
+Goodwill       --     48     48
+Adjusted net loss.   $4,544  $5,219   $ 93
+Basic and diluted net loss per share:
+Reported net loss per share.   $ 063  $ 074   $002
+Goodwill       --    001    001
+Adjusted net loss per share.   $ 063  $ 073   $001
+In accordance with the provisions of SFAS 142, the Company performed an
+initial test of goodwill impairment. The test showed no impairment of the
+Company goodwill as of June 1, 2002, the initial date of adopting SFAS 142.
+In
+40 accordance with the provisions of SFAS 142, the Company performed an annual
+goodwill impairment test on May 31, 2003 and it showed no impairment of the
+Company goodwill as of that date.
+5. PRODUCT WARRANTIES   The Company provides for the estimated cost of product warranties at the
+time the products are shipped. While the Company engages in extensive
+product quality programs and processes, including actively monitoring and
+evaluating the quality of its component suppliers, the Company warranty
+obligation is affected by product failure rates, material usage and service
+delivery costs incurred in correcting a product failure. Should actual
+product failure rates, material usage or service delivery costs differ from
+the Company estimates, revisions to the estimated warranty liability would
+be required.                               Year ended
+May 31,
+2003
+in thousands
+Balance at the beginning of the year.        $141
+Accruals for warranties issued during the year.         153
+Accruals related to pre-existing warranties
+including changes in estimates.          Settlements made during the year
+in cash or in         183
+Balance at the end of the year.        $111
+6. ACCRUED EXPENSES   Accrued expenses comprise in thousands                          May 31,
+2003     2002
+Commissions and bonuses.    $ 444    $ 455
+Taxes      443     443
+Payroll      404     523
+111     141
+337     698
+$1,739    $2,260
+7. COMMITMENTS AND CONTINGENCIES   The Company leases most of its manufacturing and office space under
+operating leases. The Company entered into a non-cancelable operating lease
+agreement for its United States manufacturing and office facilities, which
+commenced in December 1999 and expires in December 2009. Under the lease
+agreement, the Company is responsible for payments of utilities, taxes and
+insurance.
+Minimum annual rentals payments under operating leases in each of the
+next five fiscal years and thereafter are as follows in thousands     $871
+794
+773
+791
+819
+1,351
+41   Rental expense for the years ended May 31, 2003, 2002 and 2001 was
+approximately $887,000, $943,000 and $977,000, respectively.
+At May 31, 2003, the Company had a $50,000 certificate of deposit held by
+a financial institution representing a security deposit for its United States
+manufacturing and office space lease.
+8. CAPITAL STOCK PREFERRED STOCK   The Board of Directors is authorized to determine the rights of the
+preferred shareholders.
+STOCK OPTIONS   The Company has reserved 1,502,167 shares of common stock for issuance to
+employees and consultants under its 1996 stock option plan. The plan
+provides that qualified options be granted at an exercise price equal to the
+fair market value at the date of grant, as determined by the Board of
+Directors 85% of fair market value in the case of non-statutory options and
+purchase rights and 110% of fair market value in certain circumstances.
+Options generally expire within seven years from date of grant. Most options
+become exercisable in increments over a four-year period from the date of
+grant. Options to purchase approximately 805,883, 601,083 and 376,857 shares
+were exercisable at May 31, 2003, May 31, 2002 and May 31, 2001,
+respectively.
+Activity under the Company stock option plans was as follows in
+thousands, except per share data                           Outstanding Options
+Weighted
+Number    Average
+Available    of     Exercise
+Shares    Shares     Price
+Balances, May 31, 2000.     285      979     $523
+Additional shares reserved.     300        Options granted.    652     652     $554
+Options terminated.     275     275     $586
+Options exercised.     --     252     $413
+1986 Plan expiration.     96                              Balances, May 31, 2001.     112     1,104     $551
+Additional shares reserved.     300        Options granted.    177     177     $446
+Options terminated.     113     113     $603
+Options exercised.     --      14     $388
+Balances, May 31, 2002.     348     1,154     $532
+Additional shares reserved.     --        Options granted.    198     198     $386
+Options terminated.     138     138     $556
+Options exercised.     --      --                               Balances, May 31, 2003.     288     1,214     $505
+42   The following table summarizes information with respect to stock options
+at May 31, 2003               Options Outstanding      Options Exercisable
+Weighted
+Number   Average  Weighted   Number   Weighted
+Outstanding  Remaining  Average  Exercisable  Average
+Range of      at   Contractual Exercise    at    Exercise
+Exercise Prices  May 31, 2003 Life Years Price   May 31, 2003  Price
+-                                   
+$24900 - $27000    41,000   641   $268     14,411   $270
+$38500 - $42625    358,901   390   $381     220,435   $400
+$44000 - $49500    193,116   529   $456     81,548   $457
+$50000 - $60000    350,417   222   $562     283,668   $560
+$61250 - $67500    270,345   238   $639     205,821   $640
+$24900 - $67500   1,213,779   338   $505     805,883   $521
+9. EMPLOYEE BENEFIT PLANS EMPLOYEE STOCK BONUS PLAN   The Company has a noncontributory, trusteed employee stock bonus plan for
+full-time employees who have completed three consecutive months of service
+and for part-time employees who have completed one year of service and have
+attained an age of 21. The Company can contribute either shares of the
+Company stock or cash to the plan. The contribution is determined annually
+by the Company and cannot exceed 15% of the annual aggregate salaries of
+those employees eligible for participation in the plan. Individuals' account
+balances vest at a rate of 25% per year commencing upon completion of three
+years of service. Non-vested balances, which are forfeited, are allocated to
+the remaining employees in the plan. Contributions made to the plan during
+fiscal 2003, 2002 and 2001 were $60,000, $60,000 and $225,000, respectively.
+401K PLAN   The Company maintains a defined contribution savings plan the 401k
+Plan to provide retirement income to all qualified employees of the
+Company. The 401k Plan is intended to be qualified under Section 401k of
+the Internal Revenue Code of 1986, as amended. The 401k Plan is funded by
+voluntary pre-tax contributions from employees. Contributions are invested,
+as directed by the participant, in investment funds available under the
+401k Plan. The Company is not required to make, and did not make during
+fiscal 2003, 2002 and 2001, any contributions to the Plan.
+EMPLOYEE STOCK PURCHASE PLAN   The Company Board of Directors adopted the 1997 Employee Stock Purchase
+Plan in June 1997. A total of 300,000 shares of Common Stock have been
+reserved for issuance under the plan. The plan has consecutive, overlapping,
+twenty-four month offering periods. Each twenty-four month offering period
+includes four six month purchase periods. The offering periods generally
+begin on the first trading day on or after April 1 and October 1 each year,
+except that the first such offering period commenced with the effectiveness
+of the Company initial public offering and ended on the last trading day on
+or before March 31, 1999. Shares are purchased through employee payroll
+deductions at exercise prices equal to 85% of the lesser of the fair market
+value of the Company Common Stock at either the first day of an offering
+period or the last day of the purchase period. If a participant rights to
+purchase stock under all employee stock purchase plans of the Company accrue
+at a rate which exceeds $25,000 worth of stock for a calendar year, such
+participant may not be granted an option to purchase stock under the 1997
+Employee Stock Purchase Plan. The maximum number of shares a participant may
+purchase during a single purchase period is determined by dividing $12,500 by
+the fair market value of a share of the Company Common Stock on the first
+day of the then current offering period. To date, 231,021 shares have been
+issued under the plan.
+10. STOCKHOLDER RIGHTS PLAN   The Company Board of Directors adopted a Stockholder Rights Plan on
+March 5, 2001, under which a dividend of one right to purchase one one-
+thousandth of a share of the Company Series A Participating Preferred Stock
+was distributed for each outstanding share of the Company Common Stock.
+The plan entitles each Right holders to purchase 1/1000th of a share of the
+Company Series A Participating Preferred Stock at an exercise price of
+$3500, subject to adjustment, in certain events, such as a tender offer to
+acquire 20% or more of the Company outstanding
+43 common stock. Under some circumstances, such as if a person or group
+acquires 20% or more of the Company common stock prior to redemption of the
+Rights, the plan entitles such holders other than an acquiring party to
+purchase the Company common stock having a market value at that time of
+twice the Right exercise price. The Rights expire on April 3, 2010.
+11. INCOME TAXES   Domestic and foreign components of pretax income loss are as follows
+in thousands                       Year Ended May 31,
+2003     2002     2001
+$4,257   $2,763   $3,145
+361   1,263    611
+$4,618   $4,026   $2,534
+The provision for benefit from income taxes consists of the following
+in thousands                       Year Ended May 31,
+2003     2002     2001
+Federal income taxes:
+$  --    $ 418   $ 983
+--    1,331      State income taxes:
+20      20      49
+--     282      Foreign income taxes:
+94     26      14
+$ 74   $1,241    $1,046
+The Company effective tax rate differs from the U.S. federal statutory
+tax rate, as follows                       Year Ended May 31,
+2003     2002     2001
+U.S. Federal statutory tax rate.   340%   340%    340%
+State taxes, net of federal tax
+03     03      13
+14    03     22
+Foreign losses not currently
+34     70      82
+Change in beginning deferred
+tax assets.     --     401       Net operating losses not
+301     177                           Effective tax rate.    16%    308 %    413%
+44   The components of the net deferred tax asset liability are as follows
+in thousands                              May 31,
+2003     2002
+Net operating losses.     $2,325    $3,085
+Credit       1,091     902
+Inventory       1,903    1,641
+Reserves and accruals.      2,533     268
+1,113     941
+8,965    6,837
+Less: Valuation allowance.     8,965   6,837
+Net deferred tax asset.     $  --    $                              The Company has established a full valuation allowance against its
+deferred tax asset due to the uncertainty surrounding the realization of such
+assets. Management evaluates on a periodic basis the recoverability of the
+deferred tax assets and the level of the valuation allowance. At such time
+as it is determined that it is more likely than not that the deferred tax
+asset is realizable, the valuation allowance will be reduced.
+At May 31, 2003, the Company has federal and state net operating loss
+carryforwards of approximately $6,531,000 and $1,086,000, respectively. At
+May 31, 2003, the Company also has federal and state tax credit carryforwards
+of approximately $509,000 and $895,000, respectively. These carryforwards
+will expire commencing in 2012. These carryforwards may be subject to
+certain limitations on annual utilization in case of a change in ownership,
+as defined by tax law.
+Foreign net operating loss carryforwards of approximately $51 million
+are available to reduce future foreign taxable income and expire through 2007
+if not utilized.
+12. OTHER INCOME EXPENSE, NET   Other income expense, net comprises the following in thousands                       Year Ended May 31,
+2003     2002     2001
+Foreign exchange gain loss.    $ 70     $23    $238
+Loss on impairment of
+an investment..     365     --      Income from equity investment.      85      46     275
+Other, net.      64     66     61
+$146    $43    $ 98
+13. SEGMENT INFORMATION   The Company operates in one industry segment. The Company is engaged in
+the design, manufacture, marketing and servicing of test and burn-in
+equipment used in the semiconductor manufacturing industry.
+45   The Company develops, manufactures and sells systems to semiconductor
+manufacturers and operates in one operating segment. The following presents
+information about the Company operations in different geographic areas in
+thousands                   United            Adjust-
+States   Asia   Europe   ments   Total
+2003:
+Net sales.  $13,977  $ 661  $1,365 $  911 $15,092
+Portion of U.S. net sales
+from export sales.   9,885    --    --    --   9,885
+Income loss from operations.  4,445   478    57    142  4,724
+Identifiable assets.  36,903    959    773  10,388  28,247
+Long-lived assets.   1,239    259    17    --   1,515
+2002:
+Net sales.  $11,458  $ 659  $ 930 $  479 $12,568
+Portion of U.S. net sales
+from export sales.   6,775    --    --    --   6,775
+Income loss from operations.  3,974   737    49    159  4,503
+Identifiable assets.  41,286   1,324    485  9,277  33,818
+Long-lived assets.   2,062    275    19    --   2,356
+2001:
+Net sales.  $28,176  $4,048  $1,730 $ 2,915 $31,039
+Portion of U.S. net sales
+from export sales.  15,934    --    --    --   15,934
+Income loss from operations.   1,864   410   33    51   1,472
+Identifiable assets.  46,397   2,206    863  9,874  39,592
+Long-lived assets.   1,740    328    35    --   2,103
+The Company foreign operations are primarily those of its Japanese and
+German subsidiaries and Taiwanese branch office. Substantially all of the
+sales of the subsidiaries are made to unaffiliated Japanese or European
+customers. Net sales and income loss from operations from outside the
+United States include the operating results of Aehr Test Systems Japan K.K.
+and Aehr Test Systems GmbH. Adjustments consist of intercompany
+eliminations. Identifiable assets are all assets identified with operations
+in each geographic area.
+SELECTED QUARTERLY CONSOLIDATED FINANCIAL DATA UNAUDITED
+The following table presented in thousands, except per share data sets
+forth selected unaudited consolidated statements of operations data for each
+of the four quarters of the fiscal years ended May 31, 2003 and May 31, 2002.
+The unaudited quarterly information has been prepared on the same basis as
+the annual information presented elsewhere herein and, in the Company
+opinion, includes all adjustments consisting only of normal recurring
+entries necessary for a fair presentation of the information for the
+quarters presented. The operating results for any quarter are not
+necessarily indicative of results for any future period and should be read in
+conjunction with the audited consolidated financial statements of the
+Company and the notes thereto included elsewhere herein.                            Three Months Ended
+Aug. 31,  Nov. 30,  Feb. 28,  May 31,
+2002    2002    2003    2003
+Net   $3,508   $ 2,928  $4,028   $4,628
+Gross   $1,559   $ 1,020  $1,516   $1,643
+Net   $ 887  $1,992  $ 988  $ 677
+Net loss per share basic.  $012  $ 028  $014  $009
+Net loss per share diluted.  $012  $ 028  $014  $ 009                    46                            Three Months Ended
+Aug. 31,  Nov. 30,  Feb. 28,  May 31,
+2001    2001    2002    2002
+Net   $2,805   $2,822   $3,419  $ 3,522
+Gross   $1,395   $1,421   $1,618  $ 1,646
+Net   $ 634  $ 774  $ 737  $3,122
+Net loss per share basic.  $009  $011  $010  $ 043
+Net loss per share diluted.  $009  $011  $010  $ 043            AEHR TEST SYSTEMS AND SUBSIDIARIES
+SCHEDULE II VALUATION AND QUALIFYING ACCOUNTS
+For the Years Ended May 31, 2003, 2002 and 2001
+IN THOUSANDS                    Additions
+Balance at Charged to        Balance
+beginning  costs and         at end
+of year   expenses  Deductions* of year
+Allowance for doubtful
+accounts receivable:
+May 31, 2003        $ 71    $104    $ 88    $ 87
+May 31, 2002        $135    $109    $173    $ 71
+May 31, 2001        $150    $ --    $ 15    $135
+Deductions include write-offs of uncollectible accounts and collections of
+amounts previously reserved.
+Item 1.   Business    3
+Item 2.   Properties    11
+Item 3.   Legal Proceedings    11
+Item 4.   Submission of Matters to a Vote of Security Holders..   11                   PART II
+Item 5.  Directors and Executive Officers of the Registrant
+The information required by this item relating to directors is
+incorporated by reference to the information under the caption Proposal 1 Election of Directors in the Proxy Statement. The information required by
+this item relating to executive officers is incorporated by reference to the
+information under the caption Management -- Executive Officers and
+Directors at the end of Part I of this report on Form 10-K.
+Item 1.   Business    3
+Item 2.   Properties    11
+Item 3.   Legal Proceedings    11
+Item 4.   Submission of Matters to a Vote of Security Holders..   11                   PART II
+Item 5.  Security Ownership of Certain Beneficial Owners and Management
+The information required by this item is incorporated by reference to the
+section entitled Security Ownership of Certain Beneficial Owners, Directors
+and Management of the Proxy Statement.
+47 

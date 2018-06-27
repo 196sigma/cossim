@@ -1,0 +1,893 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+The following Consolidated Financial Statements of the Company and its
+subsidiaries and independent auditors' report thereon are included as pages F-1
+through F-22 of this Annual Report on Form 10-K                                                Page
+Independent Auditors'   F-1
+Consolidated Balance Sheets - December 31, 1996 and   F-2
+Consolidated Statements of Operations - Years Ended
+December 31, 1996 and 1995 and for the period
+from June 15, 1994 to December 31,   F-3
+Consolidated Statements of Shareholders' Equity -
+Years Ended December 31, 1996 and 1995 and for
+the period from June 15, 1994 to December 31,   F-4
+Consolidated Statements of Cash Flows - Years Ended December 31, 1996 and 1995
+and for the period from June 15, 1994 to December 31,   F-5 Notes to Consolidated Financial   F-7                    32  33              INDEPENDENT AUDITORS' REPORT The Board of Directors and Shareholders
+Healthdyne Information Enterprises, Inc. We have audited the accompanying consolidated balance sheets of Healthdyne
+Information Enterprises, Inc. and subsidiaries as of December 31, 1996 and
+1995, and the related consolidated statements of operations, shareholders'
+equity, and cash flows for the years ended December 31, 1996 and 1995 and for
+the period from June 15, 1994 date of incorporation to December 31, 1994.
+These consolidated financial statements are the responsibility of the Company
+management. Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits. We did not audit the 1994 financial
+statements of Healthcare Communications, Inc. 44% owned investee company
+during 1994. The Company equity in earnings in Healthcare Communications,
+Inc. was $154,000 for the period ended December 31, 1994. The 1994 financial
+statements of Healthcare Communications, Inc. were audited by other auditors
+whose report has been furnished to us, and our opinion, insofar as it relates
+to the amounts included for this company for 1994, is based solely on the
+report of the other auditors.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits and the report of the other
+auditors provide a reasonable basis for our opinion.
+In our opinion, based on our audits and the report of the other auditors, the
+consolidated financial statements referred to above present fairly, in all
+material respects, the financial position of Healthdyne Information
+Enterprises, Inc. and subsidiaries at December 31, 1996 and 1995 and the
+results of their operations and their cash flows for the years ended December
+31, 1996 and 1995 and for the period from June 15, 1994 to December 31, 1994 in
+conformity with generally accepted accounting principles.                              KPMG PEAT MARWICK LLP
+Atlanta, Georgia
+January 28, 1997                    F-1
+34           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Consolidated Balance Sheets
+In thousands, except per share amounts                                         December 31,
+Assets                 1996       1995
+Current assets:
+Cash and cash equivalents note 10                  $ 10,743   $  4,013
+Trade accounts receivable, less allowances of $165 and $85
+at December 31, 1996 and 1995, respectively               5,260     2,966
+Other current assets                            963     1,020
+Total current assets                         16,966     7,999
+Notes receivable note 11                           333      417
+Purchased software, net of accumulated amortization of $770
+and $150 at December 31, 1996 and 1995, respectively           3,587     2,494
+Capitalized software development costs, net of accumulated
+amortization of $39 at December 31, 1996                  750      Property and equipment, net note 4                     1,221     1,136
+Excess of cost over net assets of businesses acquired, less accumulated
+amortization of $1,267 and $758 at December 31,
+1996 and 1995, respectively note 3                   8,836     9,614
+Other assets                                  109       74
+$ 31,802   $ 21,734
+Liabilities and Shareholders' Equity
+Current liabilities:
+Current installments of long-term debt and obligations
+under capital leases notes 6, 10, and 11             $   163   $  2,652
+Accounts payable, principally trade                    1,019      547
+Accrued liabilities note 5                        981      760
+Deferred service revenue                         2,418     1,297
+Total current liabilities                       4,581     5,256
+Long-term debt and obligations under capital leases, excluding
+current installments notes 6, 10, and 11                4,265     5,382
+Other liabilities                               --       167
+Total liabilities                           8,846     10,805
+Shareholders' equity notes 6, 8, and 11:
+Preferred stock, without par value. Authorized 20,000
+shares; designated Series A cumulative preferred stock
+500 shares; issued none                         --         Common stock, $ 01 par value. Authorized 50,000 shares;
+issued and outstanding 20,172 and 16,503 shares at
+December 31, 1996 and 1995, respectively                 202      165
+Additional paid-in capital                        32,819     22,012
+Accumulated deficit                           10,065    11,248
+Total shareholders' equity                      22,956     10,929
+Commitments notes 9 and 11
+$ 31,802   $ 21,734
+See accompanying notes to consolidated financial statements.                    F-2
+35           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Consolidated Statements of Operations
+In thousands, except per share amounts                                          For the Period from
+Years ended       June 15, 1994 date
+December 31,      of incorporation to
+1996     1995   December 31, 1994
+Revenue note 12:
+Software                        $  7,169   $  5,136    $   153
+Services                          8,982     3,564                                                Total revenue                     16,151     8,700       153
+Cost of revenue note 2:
+Software                           907      536       65
+Services                          4,765     2,082                                                Total cost of revenue                 5,672     2,618       65
+Gross profit                     10,479     6,082       88
+Operating expenses note 2:
+Sales and marketing                    3,505     3,435       186
+Research and development                  1,576     1,928       192
+General and administrative including related
+party expenses of $51, $325, and $164
+for the respective periods               3,912     4,337       980
+Purchased in-process research and development
+note 3                         --      3,605         Goodwill impairment and investment option                       
+reserve note 3                     --      1,730                                                Operating earnings loss               1,486    8,953     1,270
+Losses of affiliate note 11                  --     1,144      156
+Minority interest in net loss of subsidiary           --       142       Interest expense                        552     303      Interest income                         249      135        7
+Equity in earnings of affiliate note 3            --      --        154
+Earnings loss before income taxes          1,183    10,123     1,265
+Income tax benefit note 7                   --       140                                                Net earnings loss                $  1,183   $ 9,983   $ 1,265
+Net earnings loss per common share and
+common share equivalent                $   06   $  64   $  08
+Weighted average number of common shares
+and common share equivalents outstanding         18,876    15,653     15,500
+See accompanying notes to consolidated financial statements.                    F-3
+36           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Consolidated Statements of Shareholders' Equity
+In thousands                         Common Stock     Additional             Total
+paid-in   Accumulated   shareholders'
+Shares    Amount    capital   deficit      equity
+Balance, June 15, 1994           --     $  --    $  --      $  --    $   -- 
+Issuance of common stock note 8     15,500       155     --        --       155
+Capital contribution            --       --     10,847       --      10,847
+Net loss                  --       --      --       1,265    1,265
+Balance, December 31, 1994        15,500       155    10,847      1,265     9,737
+Issuance of common stock           615        6      6       --       Stock options exercised           388        4      130       --       134
+Capital contribution            --       --     11,041       --      11,041
+Net loss                  --       --      --       9,983    9,983
+Balance, December 31, 1995        16,503       165    22,012      11,248    10,929
+Issuance of common stock
+in public offering, net of
+offering expenses of $634       2,750       28    10,297       --      10,325
+Stock options exercised           905        9      452       --       461
+Employee stock plan purchases         14      --       58       --        58
+Net earnings                --       --      --        1,183     1,183
+Balance, December 31, 1996        20,172    $   202   $ 32,819     $ 10,065   $ 22,956
+See accompanying notes to consolidated financial statements.                    F-4
+37           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+In thousands                                           For the Period from
+Years ended    June 15, 1994 date
+December 31,    of incorporation to
+1996    1995   December 31, 1994
+Cash flows from operating activities:                                 
+Net earnings loss                  $  1,183   $ 9,983   $ 1,265  
+Adjustments to reconcile net earnings loss                            
+to net cash provided by used in operating                           
+activities:                                           
+Purchased in-process research and                               
+development note 3                 --      3,605      --    
+Goodwill impairment note 3              --      1,430      --    
+Investment option reserve note 3           --       300      --    
+Losses of affiliate                   --      1,144       156   
+Provision for doubtful accounts              92      43      --    
+Depreciation and amortization             1,623     1,080       80   
+Minority interest in net loss of subsidiary       --      142      --    
+Equity in earnings of affiliate             --      --       154  
+Increase in trade accounts receivable         2,419    1,454      88  
+Increase in other assets                212     477      28  
+Increase in trade accounts payable            531      204       53   
+Increase decrease in accrued liabilities        687      223       10  
+Increase in deferred service revenue          1,121      480      --    
+Net cash provided by used in                              
+operating activities             2,606    3,547     1,256  
+Cash flows from investing activities:                                 
+Purchased software                    1,713    1,643      44  
+Capitalized software development costs           789     --       --    
+Capital expenditures                    427     672      148  
+Investment in equity of affiliate              --      --      6,750  
+Acquisition of businesses, net of cash acquired       --      565     1,186  
+Purchase of option to acquire business           --      --       300  
+Decrease increase in notes receivable           112     820      746  
+Net cash used in investing activities      2,817    3,700     9,174  
+Cash flows before financing activities             211    7,247    10,430  
+Cash flows from financing activities:                                 
+Proceeds from issuance of long-term debt           67      559      --    
+Principal payments on long-term debt           3,970     410      531  
+Proceeds from capital contributions             --     10,936     10,847   
+Proceeds from issuances of common stock          10,844      134       155   
+Net cash provided by financing activities    6,941    11,219     10,471   
+Net increase in cash and cash                              
+equivalents                  6,730     3,972       41   
+Cash and cash equivalents at beginning of period        4,013      41      --    
+Cash and cash equivalents at end of period         $ 10,743   $  4,013    $   41   
+Continued
+F-5
+38           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+In thousands                                             For the Period from
+Years ended      June 15, 1994 date
+December 31,     of incorporation to
+1996     1995    December 31, 1994
+Supplemental disclosures of cash paid for:                               
+Interest                        $   199   $   289     $  --   
+Income taxes                      $  --    $   140     $  --   
+Supplemental disclosure of noncash investing                              
+and financing activities:                                      
+Equipment acquired under capital lease                              
+obligations                    $   67   $   160     $  --   
+Equipment contribution received from                               
+Healthdyne                     $  --    $   105     $  --   
+Deferred service revenue financed by a                              
+note receivable                  $  --    $   417     $  --   
+Obligations incurred in connection with                       
+acquisition of minority interest of
+subsidiary note 3                $  --    $  6,162     $                                         See accompanying notes to consolidated financial statements.                    F-6
+39
+HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements
+December 31, 1996, 1995, and 1994
+In thousands, except per share amounts 1  Summary of Significant Accounting Policies
+a Business
+Healthdyne Information Enterprises, Inc. HIE or the Company
+was incorporated on June 15, 1994 in the State of Georgia and is
+headquartered in Marietta, Georgia. HIE was a wholly owned
+subsidiary of Healthdyne, Inc. Healthdyne until November 6, 1995
+at which time Healthdyne distributed all of the outstanding shares
+of HIE to the Healthdyne shareholders the Spin-off. The Company
+and its subsidiaries provide clinical information software tools and
+products and related services to integrated healthcare delivery
+networks and other healthcare providers and payors.
+The consolidated financial statements include the financial
+position, results of operations, and cash flows as of the dates and
+for the periods indicated for HIE and the following subsidiaries                         HIE
+ownership                         State of
+Subsidiary          percentage          Nature of business     incorporation
+Healthcare,        44% from October 27,      Systems and network        Texas
+Communications,      1994 to December 31,      integration tools and
+Inc. Dallas, Texas    1994; 57% from January 1,   services
+1995 to December 31,
+1995; 100% effective
+December 31, 1995
+DataView Imaging      61% from July 22, 1994     Image management products,     Georgia
+International, Inc.    to March 31, 1996; 19%     tools and services
+Norcross,         Georgia effective April 1,     
+1996 see note 3
+Integrated Healthcare   100% from May 30, 1995     Tools, products and services    Georgia
+Solutions, Inc.      the date of incorporation  for object, and work flow
+formerly Clinical                    management; patient
+Assessment Support                    indexing; clinical assessment,
+System, Inc.                       measurement and analysis;
+Marietta, Georgia                    and network design and
+management                    F-7
+40           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements      HIE owns less than a 1% equity ownership interest in Criterion
+Health Strategies, Inc. CHS of Nashville, Tennessee, a provider
+of healthcare enterprise management software tools and services.
+However, HIE holds a promissory note convertible into a 32% equity
+ownership interest in CHS; holds an option to acquire from Massey
+Burch Capital Corp. another promissory note convertible into an
+additional 32% equity ownership interest in CHS; and has entered
+into an agreement in principle for an option to acquire the
+remaining 36% equity ownership interest in CHS. HIE funded the
+operations of CHS through November 30, 1995; therefore, HIE recorded
+100% of the losses of CHS through that date see note 11.
+During 1995, Healthcare Communications, Inc. HCI made certain
+convertible loans totaling $301 to Perceptive Systems, Inc. PSI,
+a software distributor, thereby making HCI the beneficial owner of
+PSI. Accordingly, PSI is consolidated with HCI.
+b Basis of Financial Statement Presentation
+The consolidated financial statements have been prepared in
+conformity with generally accepted accounting principles. In
+preparing the consolidated financial statements, management is
+required to make estimates and assumptions that affect the reported
+amounts of assets and liabilities as of the dates of the
+consolidated balance sheets and income and expenses for the periods.
+Actual results could differ from those estimates.
+All significant intercompany balances and transactions have been
+eliminated in consolidation.
+c Cash and Cash Equivalents
+Cash and cash equivalents consist of cash and short-term investments
+with original maturities of three months or less.
+d Revenue
+Revenue is derived from the sale of clinical information software
+tools and products, and from providing related implementation,
+support, training, and consulting services. Revenue from software
+licensing and support fees is recognized in accordance with Statement
+of Position 91-1, Software Revenue Recognition. Software revenue is
+recognized upon shipment since i collectibility of the related
+accounts receivable is typically probable, ii there are generally
+no obligations remaining under the related software license agreement
+after shipment, and iii customer acceptance is generally not
+contractually required. All service revenue is recognized as the work
+is performed or, in the case of a fixed fee contract, on the
+percentage-of-completion basis, even though some services are
+prepaid.                   F-8  41           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements    e Property and Equipment
+Property and equipment are stated at cost less accumulated
+depreciation. Depreciation is provided on the straight-line method
+over an estimated useful life of five years. Amortization of
+leasehold improvements is recorded over the shorter of the lives of
+the related assets or the lease terms and is included in
+depreciation expense.
+f Excess of Cost Over Net Assets of Businesses Acquired
+The excess of cost over net assets of businesses acquired goodwill
+is being amortized using the straight-line method over 15 years.
+Amortization expense related to acquired businesses amounted to $682
+and $708 for 1996 and 1995, respectively, and $50 for the period
+from June 15, 1994 to December 31, 1994. At each balance sheet date,
+the Company assesses the recoverability of this intangible asset by
+determining whether the amortization of the goodwill balance over
+its remaining life can be recovered through undiscounted future
+operating cash flows of the acquired operation. The amount of
+goodwill impairment, if any, is measured based on projected
+discounted future operating cash flows using a discount rate
+reflecting the Company average cost of funds see note 3.
+g Purchased Software
+Purchased software includes the cost of purchased software tools and
+products developed by a third party for the Company to exclusively
+market and sell and the cost of software acquired in connection with
+business combinations. It also includes the cost of licenses to use,
+embed, and sell software tools and products developed by others.
+These costs are being amortized ratably based on the projected
+revenue associated with these purchased or licensed tools and
+products or the straight-line method over five years, whichever
+method results in a higher level of amortization. Amortization
+expense related to purchased software amounted to $620 and $150 for
+1996 and 1995, respectively, and $-0- for the period from June 15,
+1994 to December 31, 1994.
+h Research and Development and Capitalized Software Development Costs
+Prior to the determination of technological feasibility for software
+products and tools, research and development costs are expensed as
+incurred. After determination of technological feasibility and
+before the release of the software tools and products for general
+availability, the development costs related to such tools and
+products are capitalized. These costs are being amortized ratably
+based on the projected revenue associated with these tools and
+products or the straight-line method over five years, whichever
+method results in a higher level of amortization. The Company
+capitalized $789 of software development costs during 1996. There
+were no capitalized software costs during any prior period.
+Amortization expense related to capitalized software development
+costs was $39 in 1996.
+F-9  42           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements    i Income Taxes
+Prior to the Spin-off, the Company and Integrated Healthcare
+Solutions, Inc. results of operations were included in the
+consolidated Federal income tax returns filed by Healthdyne. Under
+the tax sharing agreement between the Company and Healthdyne, income
+taxes were recorded by the Company as if it filed separate income
+tax returns.
+The Company accounts for income taxes using an asset and liability
+approach in accordance with Statement of Financial Accounting
+Standards No. 109 SFAS 109. Under SFAS 109, deferred income taxes
+are recognized for the tax consequences of temporary differences
+by applying enacted statutory tax rates applicable to future years
+to differences between the financial statement carrying amounts and
+the tax bases of existing assets and liabilities. Additionally, the
+effect on deferred taxes of a change in tax rates is recognized in
+earnings in the period that includes the enactment date. Income tax
+benefits are not recognized unless ultimate realization of such
+benefits is reasonably certain.
+j Impairment of Long-Lived Assets and Long-Lived Assets to be Disposed
+of
+The Company adopted the provisions of SFAS No. 121, Accounting for
+the Impairment of Long-Lived Assets and for Long-Lived Assets to be
+Disposed of, on January 1, 1996. This statement requires that
+long-lived assets and certain identifiable intangibles be reviewed
+for impairment whenever events or changes in circumstances indicate
+that the carrying amount of an asset may not be recoverable.
+Recoverability of assets to be held and used is measured by a
+comparison of the carrying amount of an asset to future net cash
+flows expected to be generated by the asset. If such assets are
+considered to be impaired, the impairment to be recognized is
+measured by the amount by which the carrying amount of the assets
+exceed the fair value of the assets. Assets to be disposed of are
+reported at the lower of the carrying amount or fair value less
+costs to sell. Adoption of this statement did not have a material
+impact on the Company financial position, results of operations,
+or liquidity.
+k Stock Option Plans
+Prior to January 1, 1996, the Company accounted for its stock option
+plans in accordance with the provisions of Accounting Principles
+Board APB Opinion No. 25, Accounting for Stock Issued to
+Employees, and related interpretations. As such, compensation
+expense to be recognized over the related vesting period would
+generally be determined on the date of grant only if the current
+market price of the underlying stock exceeded the exercise price. On
+January 1, 1996, the Company adopted Statement of Financial
+Accounting Standards No. 123, Accounting for Stock-Based Compensation
+SFAS 123, which permits entities to recognize as expense over the
+vesting period the fair value of all stock-based awards on the date
+of grant. Alternatively, SFAS 123 also allows entities to continue to
+apply the provisions of APB Opinion No. 25 and provide pro forma net
+earnings loss and pro forma earnings loss per share disclosures
+for employee stock option grants made in 1995 and future years as if
+the fair-value-based method defined in SFAS 123 had been applied. The
+Company has elected to continue to apply the provisions of APB
+Opinion No. 25 and provide the pro forma disclosure requirements of
+SFAS 123 see note 8.                   F-10  43           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements    l Net Earnings Loss Per Share of Common Stock
+Primary earnings loss per common share and common share equivalent
+are based on the weighted average number of shares outstanding and
+common share equivalents derived from dilutive stock options. Fully
+diluted earnings per share are not significantly different from
+primary earnings per share.
+2  Related Party Transactions
+Matria Healthcare, Inc. Matria, which was formed in a merger
+involving Healthdyne in March 1996, provides certain legal, tax, data
+processing, personnel and accounting services to the Company. Amounts
+charged to the Company related to such services, which have been
+reflected as general and administrative expenses in the accompanying
+consolidated statements of operations for the years ended December 31,
+1996 and 1995 and for the period from June 15, 1994 to December 31, 1994
+were $51, $325, and $164, respectively. Charges for services provided by
+Matria to the Company are generally determined based on estimates of
+actual time in providing such services to the Company using actual costs
+without markup. To the extent that charges for such services and for
+costs incurred by Matria on the Company behalf are allocations of
+common expenses, such allocations are based on one or more criteria such
+as asset or revenue size, relative transaction volume, employee
+headcounts, facility size, and other relevant criteria. The Company
+believes that such allocation methods result in reasonable approximations
+of the common expenses related to the Company.
+Prior to March 8, 1996, Matria also paid group health and property and
+casualty insurance on the Company behalf. Amounts allocated to the
+Company for these premiums and included in cost of revenue and operating
+expenses in the accompanying consolidated statements of operations for
+the years ended December 31, 1996 and 1995 and for the period from June
+15, 1994 to December 31, 1994 were $10, $57, and $9, respectively.
+3  Acquisitions
+On October 27, 1994, the Company acquired a 44% interest in HCI of
+Dallas, Texas for approximately $6,750 in cash. HCI is a provider of
+integration engine software. The investment was accounted for using the
+equity method of accounting and $154, representing HIE share of HCI
+net earnings, is included in equity in earnings of affiliate in the
+accompanying consolidated statement of operations for the period from
+June 15, 1994 to December 31, 1994.                   F-11
+44           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements    On May 9, 1995, the Company purchased an additional 13% interest in HCI
+for approximately $3,061 in cash bringing the Company total ownership
+interest to 57%. The acquisition was accounted for using the purchase
+method of accounting with the results of operations of the business
+acquired included retroactively from January 1, 1995. The acquisition
+resulted in cost over net assets acquired of approximately $8,834.
+Effective December 31, 1995, HIE increased its ownership interest in HCI
+from 57% to 100% for approximately $6,162 in deferred payments financed
+by two promissory notes. The first promissory note for approximately
+$1,100 bore interest at 8% per annum, was secured by HCI accounts
+receivable and was paid in full by the Company in April 1996. The second
+promissory note is an approximately $5,062 convertible debenture,
+bearing interest at 64% per annum, secured by a portion of HCI common
+stock, and is due January 2, 1998. Principal and accrued interest
+totaling $1,007 under this debenture were prepaid at a discount on
+November 15, 1996. The remaining principal and accrued interest under
+this debenture is convertible at the holders' option into shares of HIE
+common stock at $350 per share on January 2, 1998 see note 6. The
+acquisition was accounted for using the purchase method of accounting.
+The acquisition resulted in purchased in-process research and
+development of approximately $3,605, which was expensed in 1995,
+purchased software of approximately $807, and additional cost over net
+assets acquired of approximately $1,169.
+On July 22, 1994, the Company acquired a 61% interest in DataView for
+approximately $1,250 in cash. DataView produces a system that captures
+and transmits radiology and other clinical images. The acquisition was
+accounted for using the purchase method of accounting with the results of
+operations of the business acquired included from the effective date of
+acquisition. The pro forma effect on earnings for the period prior to the
+acquisition is not significant. The acquisition resulted in cost over net
+assets acquired goodwill of approximately $1,799, which was reduced at
+the end of 1995 by $1,430 to reflect the impairment of such goodwill
+resulting from a change in HIE strategic direction with respect to
+DataView. Further, in connection with the acquisition, the Company
+purchased an option for $300 to acquire the remaining 39% interest in
+DataView. In conjunction with the goodwill impairment charge referred to
+above, HIE also fully reserved the cost of this option at the end of
+1995. On June 12, 1996, HIE and DataView entered into an agreement the
+Agreement providing for a restructuring of the relationship between
+the parties effective as of April 1, 1996. The Agreement provides, among
+other things, for i a modification of the existing funding agreement
+between the parties to limit the Company lending commitment to DataView
+to a maximum of $2,042 the balance due under such funding agreement as
+of March 31, 1996; ii the repayment by DataView of certain advances
+totaling at least $93 made by HIE subsequent to December 31, 1995; iii
+a reduction in HIE equity interest in DataView from the current 615%
+to 195% through a stock repurchase by DataView financed by HIE under a
+$1,061 fully reserved promissory note; iv certain rights for HIE to use
+DataView clinical image management technology in HIE service business
+as well as nonexclusive product distribution rights; and v a reduction
+in HIE representation on the DataView Board of Directors and a
+termination of HIE executive management responsibilities with respect
+to DataView. Subsequent to March 31, 1996, DataView financial position,
+results of operations, and cash flows are no longer consolidated with
+HIE due to the immateriality of DataView current financial position
+and results of operations.                   F-12
+45           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements 4  Property and Equipment
+Property and equipment are summarized as follows                                         December 31,
+1996     1995
+Machinery and equipment                     $  1,198   $  1,088
+Furniture and fixtures                         214      219
+Equipment under capital leases                     227      160
+Leasehold improvements                         38       23
+1,677     1,490
+Less accumulated depreciation and amortization             456      354
+Net property and equipment              $  1,221   $  1,136
+5  Accrued Liabilities
+Accrued liabilities are summarized as follows                                         December 31,
+1996     1995
+Benefits and compensation                    $   807   $   355
+Other                                 174      405
+$   981   $   760
+F-13
+46           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements 6  Long-Term Debt
+Long-term debt consists of the following                                              December 31,
+1996     1995
+Convertible debenture, interest at 64% payable at maturity; secured
+by a portion of HCI stock; convertible at the holders' option into
+the Company common stock at $350 per share at maturity on
+January 2, 1998 see note 3                      $ 4,051   $ 5,062 
+Note payable, interest at 80%; secured by HCI accounts                      
+receivable; paid in full during April 1996                  --     1,100 
+Amount due under financing agreement, as amended,                          
+imputed interest of 259% through December 31, 1995                       
+and 122% thereafter; paid in full during November 1996           --     1,037 
+Amount payable to bank under revolving credit agreement                       
+see description following                         --      375 
+Note payable to former shareholder of HCI, principal                        
+payable quarterly in amounts ranging from a minimum $25 to a                  
+maximum of 20% of HCI gross revenue from its Europe/Middle East                
+sales territory, until paid in full                     200      300 
+Obligations under capital leases - equipment leases; interest                    
+ranging from 113% to 163% with various monthly                        
+payments and maturing at various dates through                         
+May 1, 2001                                 177      160 
+Total long-term debt                   4,428     8,034 
+Less current installments                            163     2,652 
+Long-term debt, excluding current installments     $ 4,265   $ 5,382 
+In May 1995, HCI entered into an unsecured revolving credit agreement
+with a bank totaling $1,000, which expired in May 1996, but was renewed
+on similar terms and conditions through August 1997. Amounts outstanding
+under this agreement bear interest at the bank prime rate plus 1%
+925% at December 31, 1996 and are payable on demand.
+Approximate aggregate minimum annual payments due on long-term debt and
+capital leases for the five years subsequent to December 31, 1996 are as
+follows: 1997, $163; 1998, $4,222; 1999, $18; 2000, $16; and 2001, $9.                   F-14
+47           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements 7  Income Taxes
+The components of income tax expense benefit are as follows                              For the period from
+Years ended     June 15, 1994 date
+December 31,     of incorporation to
+1996    1995    December 31, 1994
+Current:
+Federal                $ --  $ 163      $ --    
+State                  --   --       --    
+Foreign                 --   23       --    
+Total income tax benefit      $ --  $ 140      $ --    
+A reconciliation of the expected income tax expense benefit based on
+the U.S. Federal statutory rate to the actual income tax expense
+benefit is as follows                                          For the period from
+Years ended     June 15, 1994 date
+December 31,     of incorporation to
+1996   1995    December 31, 1994
+Computed expected income tax                                     
+expense benefit                   $414  $ 3,543       $ 443    
+Goodwill amortization and other                                   
+nondeductible expenses                 213  2,003       18    
+Losses utilized by Healthdyne                --    700       248    
+Losses in excess of allowable carrybacks           53   372       182    
+Utilization of prior year financial statement                            
+losses                          680     --        --    
+Losses of affiliate                      --    400        --    
+Other                             --     72         5    
+$ --  $  140       $ --    
+F-15
+48           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements    The tax effects of temporary differences that give rise to significant
+portions of the deferred tax asset are as follows                                        December 31,
+1996     1995
+Deferred tax assets:
+Allowance for doubtful accounts                   $   58   $   30
+Accruals and reserves not deducted for tax purposes            9      78
+Net operating loss carryforwards                    1,869      935
+Tax credit carryforwards                         157      107
+Total gross deferred tax asset                  2,093     1,150
+Less valuation allowance                          2,093     1,150
+Net deferred tax asset                     $  --    $                                              At December 31, 1996, the Company had the following estimated credits
+and net operating loss carryforwards available for Federal income tax
+reporting purposes to be applied against future taxable income and tax
+liabilities                                Net      
+Foreign    R     operating    
+Year of expiration    tax credit   credit     loss      
+1999        $    4   $  --   $  --   
+2000            23     --      --   
+2009           --       38     694  
+2010           --       42     719  
+2011           --       50    3,927  
+$   27   $   130  $  5,340  
+The net operating loss carryforward of $5,340 includes deductions of
+approximately $3,447 related to the exercise of stock options which will
+be credited to additional paid-in capital when recognized. The
+alternative minimum tax net operating loss carryforward approximates the
+regular net operating loss carryforward.                   F-16
+49           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements 8  Shareholders' Equity
+Capitalization
+The Company was incorporated on June 15, 1994 and its articles of
+incorporation authorized 20,000 shares of common stock and 10,000 shares
+of preferred stock. The Company was initially capitalized on June 24,
+1994, with the issuance of 8,000 shares of common stock to Healthdyne.
+On December 12, 1994, the Company declared a 19375-for-one stock split
+effected in the form of a stock dividend. Shareholders' equity and all
+share and per share information in the accompanying consolidated
+financial statements and related notes have been restated to reflect
+this split. On August 10, 1995, the Company Board of Directors
+approved an amendment to the Company articles of incorporation which
+increased the number of authorized shares of common stock from 20,000 to
+50,000 and increased the number of authorized shares of preferred stock
+from 10,000 to 20,000. On November 6, 1995, Healthdyne distributed all
+of the 16,115 then-outstanding shares of the Company common stock to
+the Healthdyne shareholders.
+Public Offering
+On November 4, 1996, the Company sold 2,750 shares of its common
+stock and received approximately $10,325, net of offering expenses of
+$634.
+Stock Option Plans
+The Company maintains five stock option plans for the benefit of key
+employees, nonemployee directors, and certain directors and employees of
+Healthdyne with such Healthdyne-related plan being established pursuant
+to the Spin-off. A total of 5,268 shares of the Company common stock
+have been authorized for issuance under these plans. Most of the stock
+options granted under these plans are exercisable in equal amounts over
+three years and expire in six years. Other terms of options granted
+under the plans are determined by the Stock Option Committee of the
+Company Board of Directors, subject to the terms of the respective
+plans.
+The per share weighted-average fair value of stock options granted
+during 1996 and 1995 was $197 and $061, respectively, on the date of
+grant using the Black Scholes option-pricing model with the following
+assumptions                        1996        1995     
+Expected volatility              41%       46%    
+Expected dividend yield           none       none    
+Risk-free interest rate           625%       60%    
+Expected life of stock options      5 years     5 years                       F-17
+50           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements    The Company applies APB Opinion No. 25 in accounting for its stock
+option plans and, accordingly, no compensation cost has been recognized
+for its stock options in the financial statements. Had the Company
+determined compensation cost based on the fair value at the grant date
+for its stock options under SFAS 123, the Company net earnings loss
+and related per share amounts would have been reduced increased to the
+pro forma amounts indicated below                        1996     1995
+Net earnings loss:
+As reported               $ 1,183   $ 9,983
+Pro forma                   385    10,265
+Net earnings loss per share:
+As reported               $  06   $  64
+Pro forma                   02     66    Pro forma net earnings loss reflects only options granted in 1996 and
+1995. Therefore, the full effect of calculating compensation cost for
+stock options under SFAS 123 is not reflected in the pro forma net
+earnings loss and related per share amounts presented above because
+compensation cost is reflected over the vesting period of the options
+and compensation cost for options granted prior to January 1, 1995 is
+not considered.
+There was no stock option activity for the period from June 15, 1994 to
+December 31, 1994. A summary of stock option transactions under these
+plans during 1995 and 1996 is shown below                                       Option price per share
+Number           Weighted
+of shares    Range     average
+Options outstanding at December 31, 1994            -      -       -
+Granted at fair market value on the dates
+of original grant                   3,242   $023 - $150   $090  
+Exercised                         388  $023 - $088   $035  
+Canceled or expired                     -- 
+Options outstanding at December 31, 1995           2,854   $023 - $150   $098  
+Granted at fair market value on the dates                           
+of original grant                   1,048   $237 - $588   $434  
+Exercised                         905  $023 - $150   $050  
+Canceled or expired                    169  $023 - $481   $377  
+Options outstanding at December 31, 1996           2,828   $023 - $588   $221  
+Options exercisable at December 31, 1995           1,820   $023 - $150   $068  
+Options exercisable at December 31, 1996           1,300   $023 - $150   $106  
+F-18
+51           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements    The following table summarizes information about stock options
+outstanding and exercisable at December 31, 1996                          Options outstanding         Options exercisable
+Weighted
+average   Weighted           Weighted
+Number    remaining   average    Number    average
+outstanding  contractual  exercise   exercisable  exercise
+Classification             at 12/31/96   life     price    at 12/31/96   price
+Healthdyne-related            529      44      $041      529     $041
+Directors                154      45      $190      35     $150
+Others                 2,145      58      $268      736     $150
+2,828      54      $221     1,300     $106
+Non-Employee Directors Stock Plan
+On October 20, 1995, the Company established a stock plan for
+non-employee directors whereby such directors may elect to receive all
+or a portion of their annual retainer fee in unrestricted shares of the
+Company common stock. As of December 31, 1996, none of the 250 shares
+reserved for this plan have been issued.
+Stock Purchase Plan
+On July 1, 1996, the Company commenced an employee stock purchase plan
+for all eligible employees of HIE and designated subsidiaries.
+Participants may use up to 10% of their compensation to purchase the
+Company common stock through payroll deductions for 85% of the lower of
+the beginning or ending stock price on a quarterly basis. Of the 200
+shares of the Company common stock reserved for issuance under this
+plan, 14 were issued during 1996. Compensation cost related to this plan
+determined under SFAS 123 had an insignificant effect on the pro forma
+net earnings and pro forma net earnings per share for 1996 disclosed
+above.                   F-19
+52           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements    Shareholder Rights Plan
+On October 20, 1995, the Company Board of Directors declared a
+dividend distribution of one purchase right for each share of the
+Company common stock outstanding as of October 30, 1995. If a person
+or group acquires beneficial ownership of 15% or more of the Company
+outstanding common stock or announces a tender offer or exchange that
+would result in the acquisition of a beneficial ownership right of 20%
+or more of the Company outstanding common stock, the rights detach
+from the common stock and are distributed to shareholders as separate
+securities. Each right entitles its holder to purchase one one-hundredth
+of a share a unit of Series A Cumulative Preferred Stock, at a
+purchase price of $50 per unit. The rights, which do not have voting
+power, expire on October 23, 2005 unless previously distributed and may
+be redeemed by the Company in whole at a price of $01 per right at any
+time before and within 10 days after their distribution. If the Company
+is acquired in a merger or other business combination transaction, or
+50% of its assets or earnings power are sold at any time after the
+rights become exercisable, the rights entitle a holder to buy a number
+of common shares of the acquiring company having a market value of twice
+the exercise price of the right. If a person acquires 20% of the
+Company common stock or if a 15% or larger holder merges with the
+Company and the common stock is not changed or exchanged in such merger,
+or engages in self-dealing transactions with the Company, each right not
+owned by such holder becomes exercisable for the number of common shares
+of the Company having a market value of twice the exercise price of the
+right.
+9  Employee Benefit Plans
+The Company and HCI each maintain a 401k defined contribution plan for
+the benefit of their employees. Prior to June 1, 1996, the Company
+obligation for contributions under its 401k plan is limited to the
+lesser of i one-half of each participant contribution but not more
+than 25% of the participant base salary or ii 20% of the Company
+pretax earnings before consideration of this contribution. Subsequent to
+June 1, 1996, Company contributions are discretionary. The HCI plan
+provides for HCI contributions equal to one-half of each participant
+contributions up to 3% of the participant base salary. Contributions
+to the plans included in the consolidated statements of operations for
+the years ended December 31, 1996 and 1995 and for the period from June
+15, 1994 to December 31, 1994 were approximately $79, $81, and $-0    respectively.
+10  Fair Value of Financial Instruments
+Statement of Financial Accounting Standards No. 107, Disclosure about
+Fair Value of Financial Instruments, requires that the Company
+disclose estimated fair values for its financial instruments. Fair
+value estimates, methods, and assumptions are set forth below for the
+Company financial instruments.
+a  Cash and Cash Equivalents
+The carrying amount approximates fair value because of the
+short maturity of these instruments.                   F-20  53           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements      b Long-Term Debt
+The Company estimates that the carrying amount of the Company
+long-term debt approximates the fair value based on the current
+rates offered to the Company for debt of the same remaining
+maturities.
+11  Commitments
+The Company is committed under noncancelable operating lease and capital
+lease agreements for facilities and equipment. The future minimum annual
+lease payments under these leases are summarized as follows                           Operating    Capital
+Year ending December 31,            leases     leases
+1997                  $  465   $   82
+1998                    396      81
+1999                    288      21
+2000                    191      18
+Thereafter                  9      10
+$ 1,349      212
+Less interest                       35
+Present value of future minimum
+capital lease payments                 $  177
+Rental expense for operating leases except those with lease terms of a
+month or less that were not renewed for the years ended December 31,
+1996 and 1995 and for the period from June 15, 1994 to December 31, 1994
+was $600, $362, and $37, respectively.
+HIE had committed to make loans up to $4,000 to CHS with such loans
+being convertible into a 64% ownership interest in CHS between October
+21, 1996 and December 31, 2005. On December 4, 1995, Massey Burch
+Capital Corp. Massey Burch agreed to invest in CHS by acquiring
+one-half of HIE rights and obligations under HIE commitment. Under
+this agreement, Massey Burch committed to make loans to CHS until the
+later of December 31, 1996 or such time as Massey Burch had loaned
+$1,300 to CHS. At that point, HIE and Massey Burch will make loans to
+CHS until HIE and Massey Burch have each loaned a total of $2,000 to
+CHS, each loan convertible into a 32% ownership interest in CHS between
+October 21, 1996 and June 30, 2004. As of December 31, 1996 and 1995,
+loans by HIE to CHS totaled $1,300. The loans bear interest at 8    payable annually, and are secured by CHS' accounts receivable, contract
+rights, equipment, inventory and intellectual property rights, and a
+pledge by the CHS shareholders of their shares of CHS common stock. The
+losses of CHS are netted against the notes receivable from CHS in the
+accompanying consolidated balance sheets and are shown as losses of
+affiliate in the accompanying consolidated statements of operations.                    F-21
+54           HEALTHDYNE INFORMATION ENTERPRISES, INC.
+AND SUBSIDIARIES
+Notes to Consolidated Financial Statements    On December 18, 1996, the Company and Massey Burch entered into an
+agreement whereby the Company acquired an option to acquire Massey
+Burch investment in CHS. Prior to this agreement, the Company and
+Massey Burch each held less than 1% of the common stock of CHS and an 8%
+convertible debenture which is convertible into 32% of the CHS common
+stock on a fully diluted basis. The option is exercisable at any time
+during the period from December 31, 1996 through June 30, 1997, with the
+option exercise price to be payable through the issuance of the greater
+of 417 shares of the Company common stock or the equivalent number of
+shares having a fair market value of $2,000 at the time the option is
+exercised. As consideration for the grant of this option, the Company
+issued to Massey Burch a warrant to purchase 50 shares of the Company
+common stock at fair market value as of the date of grant. The agreement
+granted registration rights to Massey Burch with respect to both the
+shares of common stock underlying the warrant and the shares issuable
+upon the Company exercise of the option. Massey Burch continued to be
+subject to its commitment to fund CHS up to a maximum of $2,000. Massey
+Burch has loaned $2,000 to CHS as of December 31, 1996.
+On November 13, 1996, HIE and the two CHS executive officers entered
+into an agreement in principle which contemplates the granting of an
+option, at no cost to HIE: a to acquire the 26% equity ownership
+interest in CHS held by the two CHS executive officers for 240,000
+shares of HIE common stock and b to convert the 10% equity ownership
+interest reserved for CHS stock options to a HIE tandem stock option
+program. This proposed option, if exercised, must be exercised
+simultaneously with HIE option to acquire from Massey Burch Capital
+Corp. Massey Burch a promissory note convertible into 32% equity
+ownership interest in CHS. The Massey Burch option is exercisable
+between December 31, 1996 and June 30, 1997. The agreement in principle
+further contemplates that the two CHS executive officers will
+periodically vest through June 30, 1999 in an increasing ownership
+interest percentage of the HIE shares issuable to them upon the
+Company exercise of the proposed option. Finally, the agreement in
+principle contemplates that the two CHS executive officers will be
+granted certain registration rights with respect to those HIE shares.
+The transaction contemplated by the agreement in principle is subject to
+negotiation and execution of a definitive agreement and other customary
+conditions. There can be no assurance that a definitive agreement will
+be entered into or, even if entered into, that the transaction will be
+consummated as described above or that the Company would exercise an
+option to acquire Massey Burch interest in CHS.
+During July 1994, HIE committed to make loans to DataView up to a
+maximum of $2,450. As described in note 3, on June 12, 1996, HIE and
+DataView entered into an agreement which limited the Company lending
+commitment to DataView to a maximum of $2,042 the balance due under
+such funding agreement as of March 31, 1996.
+12  Major Customers
+One customer accounted for approximately 25% of the Company revenue in
+1996. No single customer accounted for more than 10% of the Company
+revenue for the year ended December 31, 1995 or for the period from June
+15, 1994 to December 31, 1994. In addition, one distributor provided
+customers to the Company that accounted for approximately 18% of the
+Company revenue in 1995. No single distributor provided customers to
+the Company that accounted for more than 10% of the Company revenue
+for the year ended December 31, 1996 or for the period from June 15,
+1994 to December 31, 1994.
+F-22
+55 Item 3. LEGAL PROCEEDINGS
+As of the date hereof, there are no material legal proceedings pending
+against the Company.
+Item 4. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The section of the Company Proxy Statement for the 1997 Annual
+Meeting of Stockholders the 1997 Proxy Statement captioned Certain
+Nominees for Board of Directors under Proposal 1. Election of Directors
+identifies members of the Board of Directors of the Company and nominees, and
+is incorporated in this Item 10 by reference.
+See also Executive Officers of the Company appearing in Part I
+hereof. ITEM 11. EXECUTIVE COMPENSATION
+The information in the section of the 1997 Proxy Statement captioned
+Executive Compensation and Other Information under Proposal 1. Election of
+Directors is incorporated in this Item 11 by reference. 

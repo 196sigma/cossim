@@ -1,0 +1,595 @@
+Item8.Financial Statements and Supplementary Data.    
+Report of Independent Registered Public Accounting Firm    
+To
+the Board of Directors and Shareholders of
+Datalink Corporation 
+We
+have audited the accompanying balance sheets of Datalink Corporation as of December31, 2009 and 2008, and the related statements of operations, stockholders' equity and cash flows for each
+of the three years in the period ended December31, 2009. These financial statements are the responsibility of the Company management. Our responsibility is to express an opinion on these
+financial statements based on our audits. 
+We
+conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board United States. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion. 
+In
+our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of Datalink Corporation as of December31, 2009 and 2008, and the
+results of its operations and its cash flows for each of the three years in the period ended December31, 2009, in conformity with U.S. generally accepted accounting principles. 
+As
+discussed in Note1 to the consolidated financial statements, in 2009 the Company changed its method of accounting for business combinations. 
+We
+were not engaged to examine management assessment of the effectiveness of Datalink Corporation internal control over financial reporting as of December31, 2009, included in this annual
+report on Form10-K, under the caption Management Report on Internal Control over Financial Reporting, and accordingly, we do not express an opinion thereon. s/
+McGLADREY PULLEN, LLP 
+Minneapolis,
+Minnesota
+March31, 2010 
+32   
+DATALINK CORPORATION      BALANCE SHEETS      In thousands, except share data    
+December31, 2009 
+2008  Assets Current assets Cash and cash equivalents 12,901 26,257 Short term investments 2,730 1,473 Accounts receivable, net 45,612 28,366 Inventories 1,669 1,230 Current deferred customer support contract costs 38,050 33,087 Inventories shipped but not installed 8,973 10,235 Current deferred income taxes 1,417 Income tax receivable 1,073 14 Other current assets 288 219 Total current assets 111,296 102,298 Property and equipment, net 1,808 2,088 Goodwill 23,701 17,748 Finite-lived intangibles, net 7,810 2,900 Deferred customer support contract costs non-current 11,186 10,587 Other assets 394 271 Total assets 156,195 135,892 Liabilities and Stockholders' Equity Current liabilities Accounts payable 33,062 23,377 Note payable due to seller of acquired business 3,000 Accrued commissions 2,860 1,328 Accrued sales and use taxes 1,228 403 Accrued expenses, other 3,092 3,451 Current deferred tax liability 814 Sublease reserve current 288 311 Customer deposits 3,994 6,073 Current deferred revenue from customer support contracts 48,765 43,620 Other current liabilities 14 Total current liabilities 97,117 78,563 Deferred income tax liability 1,357 723 Deferred revenue from customer support contracts non-current 13,850 13,295 Sublease reserve non-current 348 635 Other liabilities non-current 108 157 Total liabilities 112,780 93,373 Commitments and contingencies Notes5, 6, and 8 Stockholders' equity Common stock, $0001 par value, 50,000,000 shares authorized, 13,260,788 and 12,930,264 shares issued and outstanding as of December31, 2009 and 2008,
+respectively 13 13 Additional paid-in capital 41,595 40,144 Retained earnings 1,807 2,362 Total stockholders' equity 43,415 42,519 Total liabilities and stockholders' equity 156,195 135,892 
+The accompanying notes are an integral part of these financial statements. 
+33   
+DATALINK CORPORATION      STATEMENTS OF OPERATIONS      In thousands, except per share data    
+Year Ended December31, 2009 
+2008 
+2007  Net sales Product sales 94,788 113,493 111,201 Service sales 83,294 82,104 66,571 Total net sales 178,082 195,597 177,772 Cost of sales Cost of product sales 71,303 84,980 84,369 Cost of services 60,343 57,966 48,111 Total cost of sales 131,646 142,946 132,480 Gross profit 46,436 52,651 45,292 Operating expenses Sales and marketing 21,408 23,368 22,067 General and administrative 11,943 11,902 11,720 Engineering 11,650 11,590 9,181 Integration and transaction costs 1,043 442 Amortization of intangibles 843 711 727 Total operating expenses 46,887 47,571 44,137 Earnings loss from operations 451 5,080 1,155 Interest income 94 589 983 Other expense 1 37 75 Net earnings loss before income taxes 358 5,632 2,063 Income tax expense 197 2,236 864 Net earnings loss 555 3,396 1,199 Net earnings loss per common share Basic 004 027 010 Diluted 004 027 010 Weighted average common shares outstanding Basic 12,550 12,370 12,156 Diluted 12,550 12,495 12,392 
+The
+accompanying notes are an integral part of these financial statements. 
+34   
+DATALINK CORPORATION      STATEMENTS OF STOCKHOLDERS' EQUITY      In thousands    
+Common Stock Additional
+Paid-in Capital 
+Retained
+Earnings
+Deficit Shares 
+Amount 
+Total  Balances, December31, 2006 11,229 11 29,544 2,233 27,322 Net earnings 1,199 1,199 Issuance of common stock for MCSI acquisition 1,164 1 8,952 8,953 Stock option and restricted stock expense 11 516 516 Redemption of restricted shares for tax withholding payments 140 140 Tax benefit from stock based compensation 104 104 Common shares issued under exercise of stock options 72 290 290 Balances, December31, 2007 12,476 12 39,266 1,034 38,244 Net earnings 3,396 3,396 Stock option and restricted stock expense 486 1 959 960 Redemption of restricted shares for tax withholding payments 52 128 128 Tax expense from stock based compensation 13 13 Common shares issued under exercise of stock options 20 60 60 Balances, December31, 2008 12,930 13 40,144 2,362 42,519 Net loss 555 555 Stock option and restricted stock expense 345 1,485 1,485 Redemption of restricted shares for tax withholding payments 64 208 208 Common shares issued under exercise of stock options 50 174 174 Balances, December31, 2009 13,261 13 41,595 1,807 43,415 
+The
+accompanying notes are an integral part of these financial statements. 
+35   
+DATALINK CORPORATION      STATEMENTS OF CASH FLOWS      In thousands    
+Year Ended December31, 2009 
+2008 
+2007  Cash flows from operating activities Net earnings loss 555 3,396 1,199 Adjustments to reconcile net earnings to net cash provided by operating activities Provision for bad debts 57 88 36 Depreciation 838 966 1,101 Amortization of finite lived intangibles 843 711 727 Amortization of discount on short term investments 15 1 31 Deferred income taxes 2,866 182 421 Amortization of sublease reserve 310 335 360 Stock based compensation expense 1,485 959 516 Loss on disposal of assets 17 60 Changes in operating assets and liabilities, net of effects of acquisition Accounts receivable, net 8,226 3,775 2,950 Inventories 1,098 3,617 6,186 Deferred customer support contract costs/revenues, net 567 934 4,313 Accounts payable 2,606 10,014 5,334 Accrued expenses 460 594 804 Other 106 109 70 Net cash provided by operating activities 686 3,446 5,054 Cash flows from investing activities Sale purchases of investments 1,257 1,004 2,446 Purchases of property and equipment 391 800 1,234 Payment for acquisitions, net of cash acquired 12,360 1,841 Net cash provided by used in investing activities 14,008 204 5,521 Cash flows from financing activities Tax benefit expense from stock based compensation 13 104 Tax withholding payments reimbursed by restricted stock 208 128 140 Proceeds from issuance of common stock from option exercise 174 60 290 Net cash provided by used in financing activities 34 80 254 Increase decrease in cash and cash equivalents 13,356 3,570 213 Cash and cash equivalents, beginning of year 26,257 22,687 22,900 Cash and cash equivalents, end of year 12,901 26,257 22,687 Supplementary cash flow information Cash paid for income taxes 278 2,727 71 Cash received for income tax refunds 1,888 13 Supplementary non-cash investing and financing activities See Note2 for non-cash information on our acquisitions 
+The
+accompanying notes are an integral part of these financial statements. 
+36   
+DATALINK CORPORATION      NOTES TO FINANCIAL STATEMENTS    
+1.Summary of Significant Accounting Policies:  Description of Business:  Datalink Corporation provides solutions and services that help make data centers more efficient, manageable and responsive to changing
+business needs. Focused on mid and large-size companies, Datalink helps companies migrate from physical to virtual data centers, ensure data protection and optimize enterprise networks. We
+derive our revenues principally from designing, installing and supporting data center solutions. Our solutions and services span three practices: consolidation and virtualization of data center
+infrastructures; enhanced data protection; and advanced network infrastructures. We are frequently engaged to provide assistance in the installation of
+data center solutions and to provide support services subsequent to the installation. Occasionally, we are engaged for consulting services.  Reclassifications:  Based on internal reviews of our accounting policies and financial presentation, we have reclassified certain prior-year
+amounts in our 2008 balance sheet to conform to the 2009 balance sheet presentation. 
+We
+have made a classification change relating to customer prepayments for orders that we have shipped but not installed. At December31, 2009 and 2008, respectively, we had
+customer prepayments for orders that we have shipped but not installed of $40million and $61million. In the past, we had included customer prepayments in accounts receivable. Our new
+policy is to classify customer prepayments as its own current liability. Accordingly, we have changed our previously reported December31, 2008 balance sheet to reflect this reclassification.
+This reclassification increased both current assets and current liabilities proportionally and therefore did not change our previously reported working capital. 
+We
+reclassified on our balance sheet the portion of deferred costs and revenues of customer support contracts greater than twelve months in duration as non-current assets and
+liabilities, respectively. We previously reported all of our customer support contracts and related costs in current liabilities and current assets, respectively. Accordingly, we have changed our
+previously reported December31, 2008 balance sheet to reflect this reclassification. At December31, 2008, deferred costs and revenues of customer support contracts greater than twelve
+months in duration were $106million and $133million, respectively. This reclassification had no effect on previously reported total assets or total liabilities, operating income, net
+earnings or net cash flows from operating activities.  Recently Issued and Adopted Accounting Standards:  In December 2007, the FASB issued new accounting guidance which changes how we account for business acquisitions occurring after
+January1, 2009. The guidance requires the acquiring entity in a business combination to recognize all the assets acquired and liabilities assumed in the transaction and establishes the
+acquisition date fair value as the measurement objective for all assets acquired and liabilities assumed in a business combination. Certain provisions of this guidance have, among other things,
+impacted the determination of acquisition date fair value of consideration paid in a business combination including contingent consideration; required us to exclude transaction costs from
+acquisition accounting for acquisitions occurring after January1, 2009; and changed accounting practices for acquired contingencies, acquisition related restructuring costs,
+in-process research and 
+37 
+development,
+indemnification assets and tax benefits. This guidance was effective for us beginning January1, 2009. In
+April 2009, the FASB issued accounting guidance regarding disclosures about the fair value of financial instruments including the methods and significant assumptions used to estimate
+fair value. This guidance increases the frequency of certain fair value disclosures from annual to quarterly. This guidance was effective in 2009. 
+In
+May 2009, the FASB updated its accounting guidance regarding subsequent events, establishing principles and requirements for disclosures concerning subsequent events. In particular,
+it sets for the period after the balance sheet date during which management is required to evaluate events or transactions that have or may occur for potential recognition or disclosure in the
+financial statements; the circumstances under which we must recognize events or transactions occurring after the balance sheet date in its financial statements and the disclosures that we must make
+about events or transactions that occurred after the balance sheet date. This updated guidance was effective for the current reporting period. 
+In
+October 2009, the FASB issued guidance now codified as FASB ASC Topic605 Revenue  Revenue Arrangements. This update addresses the
+accounting for multiple-deliverable arrangements to enable vendors to account for products or services deliverables separately rather than as a combined unit. This guidance establishes a selling
+price hierarchy for determining the selling price of a deliverable, which is based on: avendor-specific objective evidence; bthird-party evidence; or cestimates. This
+guidance also eliminates the residual method of allocation and requires allocation of arrangement consideration at the inception of the arrangement to all deliverables using the relative selling price
+method. In addition, this guidance significantly expands required disclosures for a vendor multiple-deliverable revenue arrangements. This guidance is effective prospectively for revenue
+arrangements entered into or materially modified in
+fiscal years beginning on or after June15, 2010 and early adoption is permitted. A company may elect, but is not required, to adopt this guidance retrospectively for all prior periods. We are
+currently evaluating the impact that adoption of this update will have, if any, on our financial statements. 
+In
+October 2009, the FASB issued guidance now codified as FASB ASC Topic985 SoftwareCertain Revenue Arrangements that Include Software Elements. This update
+excludes from its scope tangible products that contain both software and non-software components that function together to deliver a product essential functionality. This guidance is
+effective for us on January1, 2011. We are currently evaluating the impact that adoption of this update will have, if any, on our financial statements.  Cash and Cash Equivalents:  Cash equivalents consist principally of money market funds with original maturities of three months or less, are readily convertible to
+cash and are stated at cost, which approximates fair value. We maintain our cash in bank deposit and money market accounts which, at times, may exceed federally insured limits. We have not experienced
+any losses in such accounts.  Short-Term Investments:  Our short term investments consist principally of certificates of deposits. We categorize these investments as not
+available-for-sale securities and record them at fair market value. We classify investments with maturities of 90days or less from the date of purchase as cash
+equivalents; investments with maturities of greater than 90days from the date of purchase but less than one year generally as short-term investments; and investments with
+maturities of greater than one year from the date of purchase generally as long-term investments. 
+38  Accounts Receivable, net:  We carry trade receivables at original invoice amount less an estimate made for doubtful receivables based on a review of all
+outstanding amounts on a monthly basis. Management determines the allowance for doubtful accounts by regularly evaluating individual customer receivables and considering a customer financial
+condition and credit history and current economic conditions. We write off trade receivables when deemed uncollectible. We record recoveries of trade receivables previously written off when received. We
+recorded accounts receivable net of the reserve for doubtful accounts of $629,000 and $199,000 at December31, 2009 and 2008, respectively.  Concentration of Credit Risk:  We had no customers that comprised more than 10% of our sales in 2009, 2008 or 2007.  Inventories:  Inventories, including inventories shipped but not installed, principally consist of data storage products and components, valued at
+the lower of cost or market with cost determined on a first-in, first-out FIFO method. We reduced inventories for obsolete and slow moving reserves by $122,000 and $100,000
+at December31, 2009 and 2008, respectively.  Property and Equipment:  We state property and equipment, including purchased software, at cost. We provide for depreciation and amortization by charges to
+operations using the straight-line method over the estimated useful lives of the assets ranging from 2 to
+10years. We amortize leasehold improvements on a straight-line basis over the shorter of their estimated useful lives or the underlying lease term. We remove the costs and related
+accumulated depreciation and amortization on asset disposals from the accounts and include any gain or loss in operating expenses. We capitalize major renewals and betterments, but charge maintenance
+and repairs to current operations when incurred. 
+December31, 2009 
+2008 In thousands Property and equipment Construction in process 39 87 Leasehold improvements 1,487 1,473 Furniture and fixtures 2,067 2,016 Equipment 4,202 3,684 Computers and software 2,297 2,273  10,092 9,533 Less accumulated depreciation and amortization 8,284 7,445  1,808 2,088 
+Goodwill:  We assess the carrying amount of our goodwill for potential impairment annually or more frequently if events or a change in
+circumstances indicate that impairment may have occurred. We have only one operating and reporting unit that earns revenues, incurs expenses and makes available discrete financial information for
+review by our chief operations decision maker. Accordingly, we complete our 
+39 
+goodwill
+impairment testing on this single reporting unit. Our measurement date was December31, 2009. 
+Testing
+for goodwill impairment is a two step process. The first step screens for potential impairment. If there is an indication of possible impairment, we must complete the second step
+to measure the amount of impairment loss, if any. The first step of the goodwill impairment test, used to identify potential impairment, compares the fair value of our market capitalization with the
+carrying value of our net assets. If our total market capitalization is at or below the carrying value of our net assets, we perform the second step of the goodwill impairment test to measure the
+amount of impairment loss we record, if any. We consider goodwill impairment test estimates critical due to the amount of goodwill recorded on our balance sheet and the judgment required in
+determining fair value amounts.  Valuation of Long-Lived Assets:  We perform an impairment test for finite-lived assets and other long-lived assets, such as fixed assets, whenever events or
+changes in circumstances indicate that we may not recover the carrying value of such assets. We recognize impairment based on the difference between the fair value of the asset and its carrying value.
+We generally measure fair value based on discounted cash flow analyses. For 2009, 2008 and 2007, we identified no triggering events that required us to evaluate the impairment of our
+long-lived assets.  Stock Compensation Plans:  We utilize the fair value method of accounting to account for share-based compensation awards. This requires us to measure and
+recognize in our statements of operations the expense associated with all share-based payment awards made to employees and directors based on estimated fair values. We use the Black-Scholes model to
+determine the fair value of share-based payment awards. Stock-based compensation expense was $15million, $959,000 and $516,000 for 2009, 2008 and 2007, respectively.  Income Taxes:  We calculate income taxes using the asset and liability method of accounting for income taxes. Under the liability method, we record
+deferred income taxes to reflect the tax consequences in future years of temporary differences between the tax bases of assets and liabilities and their financial reporting amounts using enacted tax
+rates for the years in which we expect these items to affect taxable income. We establish valuation allowances when necessary to reduce deferred tax assets to the amount we expect more likely than not
+to realize. Income tax expense benefit is the tax payable receivable for the period and the change during the period in deferred tax assets and liabilities.  Uncertain Tax Positions:  We utilize a two-step approach to recognizing and measuring uncertain tax positions tax contingencies. The first step
+evaluates the tax position for recognition by determining if the weight of available evidence indicates it is more likely than not that we will sustain the position on audit, including resolution of
+related appeals or litigation processes. The second step measures the tax benefit as the largest amount more than 50% likely of being realized upon ultimate settlement. We include interest and
+penalties for our tax contingencies in income tax expense. At December31, 2009 and 2008, we had no unrecognized tax benefits which would affect our effective tax rate if recognized.  Use of Estimates:  The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America
+requires our management to make estimates and assumptions that 
+40 
+affect
+the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses
+during the reporting period. Significant items subject to estimates and assumptions include the reserve for doubtful accounts, reserve for obsolete and slow moving excess inventory and impairment
+analysis of goodwill and long-lived assets. Actual results could differ from those estimates.  Revenue Recognition:  Revenue Recognition.We realize revenue from the design, installation and support of data center solutions, which may include hardware,
+software and
+services. We recognize revenue when we have met our obligations for installation or other services and collectability is reasonably assured. 
+Product Sales.We sell software and hardware products on both a free-standing basis without any services and as data center solutions
+bundled with its installation and configuration services bundled arrangements. Product Sales Without Service.If we sell a software or hardware product and do not provide any installation or configuration services
+with it, we
+recognize the product revenues upon shipment. 
+Product Sales With Service.If we sell a bundled arrangement, then we defer recognizing any revenue on it until we finish its
+installation and/or
+configuration work. We account for the hardware, software and service elements of our bundled arrangements by applying the completed contract method. Factors we have considered in applying the
+completed contract method of accounting include ithe relatively short duration of our contracts, iithe difficulty of estimating our revenues on a
+percentage-of-completion method and iiiour use of acceptance provisions on larger bundled arrangements. 
+Service Sales.In addition to installation and configuration services that are part of our bundled arrangements described above, our
+service sales
+include customer support contracts and consulting services. On our balance sheet, deferred revenue relates to service sales for which our customer has paid us or has been invoiced but for which we
+have not yet performed the applicable services. 
+Customer Support Contracts.When we sell hardware and/or software products to our customers, we enter into service contracts with them.
+These
+contracts are support service agreements. A majority of the time, our internal support desk first assists the customer by performing an initial technical triage to determine the source of the problem
+and whether we can direct the customer on how to fix the problem. If we cannot solve the problem, we transfer the customer to the manufacturer or its designated service organization. 
+When
+we do not provide first call assistance, usually because the manufacturer has not authorized us to do so, our customers call the manufacturer or its designated service
+organization directly for both the initial technical triage and any follow-up assistance. If the customer calls us first, we transfer the customer to the third party. 
+In
+both scenarios above, we purchase third party support contracts from the manufacturers for their services. In accordance with our agreements, and consistent with standard industry
+practice, we prepay the third party based on its list price for maintenance on the specific hardware or software products we have sold, less our negotiated discounts with the third party. Terms are
+generally net 30days. If we provide the initial first call services our discounts off of list price are more substantial. In all cases, we are the primary obligor in the transaction. The
+customer ultimately holds us responsible for fulfillment of the third party support contracts and we bear credit risk in the event of nonpayment by the customer. 
+We
+report customer support contract revenue on a gross basis as there are sufficient indicators in accumulation that we should be reporting these revenues on a gross basis in accordance
+with ASC 
+41  Topic605-45,
+Reporting Revenue Gross as a Principle versus Net as an Agent formerly EITF No99-19. We usually
+present quotations for maintenance arrangements to our customers without differentiating as to whether we, or a third party, are providing the service. Accordingly, we are, from our customers'
+perspectives, the primary obligor on our maintenance arrangements. We directly enter into the agreements with our customers to provide maintenance services. In all cases, we set the price to our
+customer for the maintenance arrangements, whether or not we provide our first call services, and bill our customers for the maintenance arrangement. We owe various third parties regardless of whether
+we collect from our customer. We are also contractually obligated to provide or arrange to provide these underlying support services to our customers in the unlikely event that the manufacturer or its
+designated service organization, fails to perform according to the terms of our contract. When
+we sell a service contract as part of a bundled arrangement, we use vendor specific objective evidence to allocate revenue to the service contract element. In all cases, we defer
+revenues and direct costs resulting from our service contracts and amortize them into operations over the term of the contracts, which are generally twelve months. We defer customer support costs
+under FTB 90-1 ASC 310 and the FAQs under SAB101 and SAB104. The deferred costs we capitalize consist of direct and incremental costs we prepay to third parties for
+direct support to our customers under our contract terms. We defer our customer support contract revenues and their related costs because significant obligations remain after contract execution. For
+example, we provide routine help desk assistance to our customers and assist them in contacting our vendors for additional support services. 
+Consulting Services.Some of our customers engage us to analyze their existing data center architectures and offer our recommendations.
+Other
+customers engage us to assist them on-site with extended data center infrastructure projects, to support their data center environments and to help with long-term data center
+design challenges. For these types of consulting services that do not include the sale of hardware or software products, we recognize revenues as we perform these services.  Net Earnings Per Share:  We compute basic net earnings per share using the weighted average number of shares outstanding. Diluted net earnings per share include
+the effect of common stock equivalents, if any, for each period. Diluted per share amounts assume the conversion, exercise or issuance of all potential 
+42 
+common
+stock instruments unless their effect is anti-dilutive. The following table computes basic and diluted net earnings per share: 
+Years Ended December31, 2009 
+2008 
+2007 in thousands, except per share data Net earnings loss 555 3,396 1,199 Basic Weighted average common shares outstanding 13,261 12,930 12,998 Weighted average common shares of non-vested stock 711 560 842 Shares used in the computation of basic net earnings per share 12,550 12,370 12,156 Net earnings loss per sharebasic 004 027 010 Diluted Shares used in the computation of basic net earnings loss per share 12,550 12,370 12,156 Employee and non-employee director stock options 80 236 Non-vested stock 45 Shares used in the computation of diluted net earnings loss per share 12,550 12,495 12,392 Net earnings loss per sharediluted 004 027 010 
+We
+excluded the following non-vested common stock and options to purchase shares of common stock from the computation of diluted earnings per share as their effect would have
+been anti-dilutive: 
+Years Ended December31, 2009 
+2008 
+2007  Non-vested common stock 507,924 302,008 206,000 Options to purchase shares of common stock 327,687 549,107 561,255 
+Fair Value of Financial Instruments:  At December31, 2009 and 2008, the carrying values of current financial instruments such as cash and cash equivalents, short
+term investments, accounts receivable, accounts payable, other current assets, accrued liabilities, other current liabilities and notes due to seller of acquired business approximated their market
+values, based on the short-term maturities of these instruments.  Fair Value Measurement:  We adopted the new guidance related to fair value measurements on January1, 2008. Fair value is the price a party would receive
+to sell an asset or pay to transfer a liability an exit price in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the
+measurement date. We use a three-tier valuation hierarchy based upon observable and non-observable inputs: Level1Unadjusted quoted prices available in active markets for the identical assets or liabilities at
+the measurement date.  
+Level2Significant other observable inputs available at the measurement date, other than quoted prices
+included in Level1, either directly or indirectly. 
+43   Level3Significant unobservable inputs that we cannot corroborate by observable market data and thus
+reflect the use of significant management judgment. We generally determine these values using pricing models based on assumptions our management believes other market participants would make. The
+fair value hierarchy requires the use of observable market data when available. In instances in which the inputs used to measure fair value fall into different levels of the fair
+value hierarchy, we determine the fair value measurement based on the lowest level input that is significant to the fair value measurement in its entirety. Our assessment of the significance of a
+particular item to the fair value measurement in its entirety requires judgment, including the consideration of inputs specific to the asset or liability. The following table sets forth, by level
+within the fair value hierarchy, the accounting of our financial assets and/or liabilities at fair value on a recurring basis as of December31, 2009 according to the valuation techniques we
+used to determine their fair values. 
+Fair Value Measurements as of December31, 2009
+$000 in thousands 12/31/2009 
+Quoted Prices in
+Active Markets for
+Identical Assets
+Level1 
+Significant Other
+Observable Inputs
+Level2 
+Significant
+Unobservable
+Inputs
+Level3  Short-term investments 2,730 2,730 
+2.Acquisitions  Networking Solutions Division of Cross Telecom  On October1, 2009, we acquired the networking solutions division of Minneapolis-based Cross Telecom Cross, which
+qualified as a business combination. We completed an asset purchase of $20million paid in cash. Simultaneously, Cross entered into a services agreement with us to purchase at least
+$18million of networking products and services from us over the next three years. Cross has agreed to pay any shortfall between customer purchases and the guaranteed annual purchase amount.
+We believe that the revenue targets will be met and accordingly the reverse earnout was determined to have no fair value at the date of this business combination. 
+In
+connection with this acquisition, we allocated the total purchase consideration to the net assets acquired, including finite lived intangible assets, based on their respective fair
+values at the acquisition date. 
+We
+paid a premium for the net tangible and identified intangible assets i.e.goodwill acquired in the acquisition over their fair value because we believe this acquisition will
+add to our expertise in designing, implementing and managing sophisticated storage, backup and recovery infrastructures. 
+The
+following table summarizes the allocation of the purchase price to the fair value of the assets acquired: 
+in thousands  Assets acquired and their fair values Property, plant equipment 47 Finite-lived intangibles 534 Goodwill 1,419 Net purchase price 2,000 
+We
+allocated the purchase price for the Cross acquisition primarily by comparing our estimated cost to build the assets acquired against purchasing them. This enabled us to determine the
+allocation between finite lived intangibles and goodwill. The finite lived intangibles, which consisted of the 
+44  services
+agreement and certifications have estimated lives of four and two years, respectively, and we are amortizing them using the straight line method see Note3. The goodwill we may
+deduct for tax purposes over a 15year period.  Reseller Business of Incentra,LLC  On December17, 2009, we acquired the reseller business of Incentra, which designs, procures, implements and supports data
+center solutions composed of technologies including storage, networking, security and servers from leading manufacturers. We did not acquire Incentra managed services portfolio and related
+operations. We accomplished the acquisition through the purchase of substantially all of the assets of Incentra reseller business pursuant to an Asset Purchase Agreement. 
+Under
+the Asset Purchase Agreement, we paid Incentra $138million. We paid $88million at closing in cash, of which we held back $440,000 as security for certain
+indemnification obligations of Incentra. In addition, we paid Incentra $50million for the working capital associated with Incentra reseller business through the delivery of
+$20million in cash and a $30million secured promissory note due by
+March31, 2010. The $50million working capital payment is subject to post-closing adjustments, either upward or downward, in connection with the amount, if any, that
+Incentra actual working capital at the closing date was greater or less than $50million. We will make any downward adjustments on a dollar-for-dollar basis. We will
+make any upward adjustments in the amount of $050 for each dollar by which actual working capital at closing, after taking into account the collection of accounts receivable and the payment of
+accounts payable through June30, 2010, exceeded $50million. The promissory note is secured by the assets we purchased under the Asset Purchase Agreement. 
+We
+allocated of the purchase price for Incentra primarily using a discounted cash flow approach with respect to identified intangible assets and goodwill. We based this approach upon our
+estimates of future cash flows from the acquired assets and liabilities and utilized a discount rate consistent with the inherent risk associated with the acquired assets and liabilities assumed. 
+In
+connection with this acquisition, we allocated the total purchase consideration to the net assets acquired, including finite lived intangible assets, based on their respective fair
+values at the acquisition date, resulting in goodwill of approximately $42million which will be deductible for tax purposes over a 15year period. We paid a premium over the fair value
+of the net tangible and identified intangible assets acquired i.e.goodwill because we believe this acquisition expands our regional presence and customer portfolio and enables us to provide
+our customers with complete data center solutions. We anticipate operational synergies and efficiencies through combined general and administrative and corporate functions. 
+45 
+The
+following table summarizes the preliminary allocation of the purchase price pending completion of the determination of the income tax basis of assets acquired and liabilities
+assumed: 
+in thousands  Assets acquired at their fair value Accounts receivable, net 12,202 Inventory 275 Fixed assets 119 Finite-lived intangibles 5,219 Goodwill 4,535 Other assets 333 Total assets acquired 22,683 Liabilities assumed at their fair value Accounts payable 6,640 Deferred maintenance contracts, net 705 Accrued liabilities 1,538 Total liabilities assumed 8,883 Net purchase price 13,800 
+The
+finite lived intangibles which consisted of trademarks, order backlog and customer relationships have estimated lives of three years, one year and eight years, respectively, and we
+are amortizing them using the straight line method see Note3. 
+Integration
+costs for 2009 include salaries, benefits, retention bonuses and severances of exiting employees, some of whom assisted with the initial integration of Incentra. In addition,
+transaction costs for 2009 include legal, audit and other outside service fees necessary to complete our acquisition of Incentra, which were expensed. Total integration and transaction costs were
+$10million during 2009.  Midrange Computer SystemsInc.  On January31, 2007, we acquired MCSI, a storage consulting, solutions and service provider based in Chicago, Illinois. We
+believe the acquisition strengthened our presence in the existing regional markets and expanded our reach into a number of then key new regional markets. We paid a purchase price of approximately
+$143million for MCSI, consisting of $50million cash and 1,163,384 shares of our common stock. In
+connection with this acquisition, we allocated the total purchase consideration to the net assets and liabilities acquired, including identifiable intangible assets, based on their
+respective fair values at the acquisition date, resulting in goodwill of approximately $122million which is non-deductible for 
+46  income
+tax purposes. The following table summarizes the allocation of the purchase price to the fair value of the assets and liabilities acquired: 
+in thousands  Assets acquired Cash 3,466 Accounts receivable 1,047 Inventory inventory shipped but not installed 3,800 Property, plant equipment 255 Finite-lived intangibles 4,338 Goodwill 12,248 Other assets 94 Total assets acquired 25,248 Liabilities assumed Accounts payable 8,304 Deferred maintenance contracts, net 398 Accrued liabilities 462 Deferred tax liability obligations 1,824 Total liabilities assumed 10,988 Net purchase price 14,260 
+The
+following table provides a reconciliation of the net purchase price for MCSI as compared to the cash payment for purchase: 
+in thousands  Net purchase price 14,260 Less value of shares issued 8,953 Less cash acquired in acquisition 3,466 Payment for purchase 1,841 
+The
+finite lived intangibles which consisted of customer relationships and backlog have estimated lives of six years and two months, respectively and we are amortizing them using the
+straight line method see Note3. 
+Integration
+expenses, including the salaries, benefits, retention bonuses and severances of MCSI employees, some of whom assisted with the initial integration but were ultimately not
+retained by us, were $442,000 for 2007. 
+The
+pro forma unaudited results of operations assuming consummation of our Incentra acquisition as of January1, 2008 and our MCSI acquisition as of January1, 2007, and
+excluding any pro forma information for the Cross acquisition as that pro forma impact was not significant, are as follows: 
+Years Ended December31, 2009 
+2008 
+2007 in thousands, except per share data Net sales 268,470 397,253 181,927 Net earnings loss 6,942 2,414 351 Per share data Basic earnings loss 055 020 003 Diluted earnings loss 055 019 003 
+47 
+The
+pro forma unaudited results do not purport to be indicative of the results which we would have obtained had we completed the acquisition as of the pro forma date. 3.Intangibles: 
+We had goodwill assets with a recorded value of $237million and $177million as of December31, 2009 and 2008, respectively. Goodwill
+activity is summarized as follows: 
+in thousands  January1, 2008 17,748 Adjustments Additions December31, 2008 17,748 Adjustments Additions 5,953 December31, 2009 23,701 
+We
+had finite-lived intangible assets with a net book value of $78million and $29million as of December31, 2009 and 2008, respectively. The change in the net
+carrying amount of intangibles during 2009 and 2008 is as follows: 
+Years Ended
+December31, 2009 
+2008 in thousands Beginning Balance 2,900 3,611 Recognized in connection with acquisitions 5,753 Amortization 843 711 Impairment charges Ending Balance 7,810 2,900 
+Identified
+finite-lived intangible asset balances are summarized as follows: 
+As of December31, 2009 
+As of December31, 2008 Amortizable
+Period
+years 
+Gross
+Assets 
+Accumulated
+Amortization 
+Net
+Assets 
+Gross
+Assets 
+Accumulated
+Amortization 
+Net
+Assets  Customer relationships
+6-8 8,110 2,092 6,018 4,262 1,362 2,900 Services agreement
+4 67 4 63 Certification
+2 467 59 408 Trademarks
+3 263 4 259 Order backlog
+1 1,108 46 1,062 Total identified intangible assets 10,015 2,205 7,810 4,262 1,362 2,900 
+Amortization
+expense related to finite-lived intangible assets for 2009, 2008 and 2007 was $843,000, $711,000 and $727,000, respectively. Amortization expense in 2009 relates primarily
+to our acquisitions of MCSI in January 2007, the networking solutions division of Cross in October 2009 and the reseller business of Incentra in December 2009. Amortization expense in 2008 and 2007
+relates primarily to our acquisition of MCSI in January 2007. The finite lived intangibles we acquired related to the reseller business of Incentra consisted of trademarks, order backlog and customer
+relationships and have estimated lives of three years, one year and 8years, respectively. The finite lived intangibles we acquired related to the networking solutions division of Cross
+consisted of the services agreement and 
+48  certifications
+and have estimated lives of four years and 2years, respectively. The finite lived intangibles we acquired related to our acquisition of MCSI consisted of customer relationships
+and backlog and have estimated lives of six years and two months, respectively. We are amortizing all finite lived intangibles using the straight line method. Expected amortization in each of the next
+five years is as follows: 
+in thousands  2010 2,591 2011 1,471 2012 1,292 2013 553 2014 481  6,388 
+4.Income Taxes: 
+The reconciliation of the U.S. federal statutory tax rate to our effective income tax rate is as follows: 
+2009 
+2008 
+2007  Tax expense benefit at U.S. statutory rates 340 340 340 State tax expense, net of federal tax effect 119 37 46 Nondeductible expenses and other 229 20 78 Incentive stock options 541 Unrecorded minimum tax credit utilized 45 Effective tax rate 549 397 419 
+49 
+Significant
+components of our deferred tax assets and liabilities are as follows: 
+Year Ended
+December31, 2009 
+2008 in thousands Current deferred tax assets Allowance for doubtful accounts 257 96 Compensation accrual 235 359 Inventories 54 44 Deferred revenue 6,533 918 Deferred prepaids 8,323 Net operating loss carryovers 1,560 Change in accounting method 1,202 Other 72 Total current deferred tax assets liabilities 814 1,417 Long-term deferred tax liabilities Net operating loss carryovers 417 40 Intangibles 837 1,110 Property and equipment 37 13 Sublease reserve 242 360 Section481a adjustment non-current 1,202 Other 14 Total long-term deferred tax liabilities 1,357 723 Net deferred tax assets liabilities 2,171 694 
+The
+tax expense for the years ended December31, 2009 and 2008 consists of the following: 
+2009 
+2008 in thousands Current income tax expense 109 2,366 Deferred tax expense benefit 88 130 Income tax expense 197 2,236 
+In
+assessing the recoverability of deferred tax assets, management considers whether it is more likely than not that we will realize some portion or all of the deferred tax assets. The
+ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. As of
+December31, 2009, we have federal net operating carryforwards of approximately $46million which will expire in 2028. As of December31, 2009, we have state net operating loss
+carryforwards of approximately $71million, which are available to offset future state taxable income. If not used, the state net operating loss carryforwards will expire between 2013 and
+2028. For 2009 and 2007, respectively, we recorded approximately $1,300 and $104,000 to equity for tax benefits associated with the exercise of stock options. For 2008, we recorded approximately
+$13,000 to equity for tax expenses associated with the exercise of stock options. In future periods of taxable earnings, we expect to report an income tax provision using an effective tax rate of
+approximately 38% to 40%. 
+50    5.Lease Commitments: 
+Our corporate headquarters including our principal technical and support services operations, are located in an office and warehouse facility in Chanhassen,
+Minnesota. As of December31, 2009, our other 24 locations, housing sales and technical staff, are small to medium sized offices. We have regional hubs located in the Northeast, South, Mid
+Central, North Central and West. 
+As
+of December31, 2009, future minimum lease payments due under non-cancelable operating leases are as follows: 
+Lease
+Obligations 
+Sublease
+Agreements 
+Net Lease
+Obligations in thousands 2010 2,578 752 1,826 2011 2,240 719 1,521 2012 1,064 239 825 2013 428 428 2014 383 383  6,693 1,710 4,983 
+In
+December 2004, we agreed to sublease approximately 55,000 of the 104,000 square feet we then occupied as our corporate headquarters in Chanhassen, Minnesota. The initial sublease term
+is co-terminal with the original lease ending in April 2012. The sublessee pays us rent ranging from approximately $55,000 per month at the beginning of the term to approximately $60,000
+per month by the end of the term. The rent includes the costs of common area management, common systems repairs, real estate taxes and standard utilities. Total
+rent expense, net of sublease income of $663,000, $663,000 and $663,000 in 2009, 2008 and 2007, respectively, is as follows: 
+Year Ended December31, 2009 
+2008 
+2007 In thousands Rent expense 1,354 1,235 1,802 
+6.Employee Benefit Plan: 
+We have a defined contribution retirement plan for eligible employees. Employees may contribute up to 15% of their pretax compensation to the 401k portion of
+the plan. Since April 2006, we have matched 50% of an employee contribution up to the first 6% of an employee eligible compensation. The cost of our contributions to the 401k portion of the plan
+for 2009, 2008 and 2007 was $640,000, $568,000 and $554,000, respectively. 
+7.Stockholders' Equity:  Stock Compensation Plans:  In May 2009, our shareholders approved the Datalink 2009 Incentive Compensation Plan 2009 Plan. The 2009 Plan replaced our existing
+1999 Incentive Compensation Plan 1999 Plan, which terminated according to its terms on June11, 2009. We reserved up to 1,000,000 initial shares of our common stock for possible issuance
+under the 2009 Plan. Awards under the 2009 Plan may consist of options non-qualified and incentive stock options, stock appreciation rights, or SARs, restricted stock units, performance
+units, dividend equivalents, annual incentive awards and other share-based awards as determined by our Compensation Committee. The terms and conditions of each award are set in an 
+51 
+award
+agreement as determined by the Compensation Committee. As of December31, 2009, there were 293,750 shares available for grant under the 2009 Plan. In
+May 2001, we reserved an aggregate of 3,000,000 shares of common stock for issuance pursuant to our 1999 Plan. The terms of the 1999 Plan allowed for a variety of awards including
+incentive stock options, nonqualified stock options, stock appreciation rights, non-vested stock, performance shares, performance units, cash-based awards, phantom shares and
+other share based awards, as determined by the Compensation Committee. As of June11, 2009, this plan terminated according to its terms. As of December31, 2009, there were no shares
+available for grant under the 1999 Plan. 
+In
+August 2000, we adopted our 2000 Director Stock Option Plan the Director Plan. The terms of the Director Plan as most recently amended in May 2007, allow for stock option grants
+to non-employee members of the Board of Directors. We have reserved 550,000 shares of common stock for issuance pursuant to the Director Plan, 198,064 of which were available for grant as
+of December31, 2009.  Non-Vested Stock Plans:  On December14, 2009, we awarded 201,250 shares of non-vested stock to senior management and managers. The grants
+vest upon the achievement of our predetermined earnings from operations objective for 2010 as approved by our Board of Directors. In addition, the individual employee must remain employed by us
+through December31, 2011. We will amortize the $767,000 fair value of the non-vested shares
+over a two-year period beginning on January1, 2010 if we reasonably believe that we will meet our earnings from operations objective for 2010. 
+On
+December17, 2009, we awarded 127,500 shares of non-vested stock to senior management and managers that we hired in conjunction with our acquisition of the Incentra
+reseller business. The grant vests over four years with one-fourth vesting each year if the individual is still employed by us. During the vesting period, the individual has voting rights
+and the right to receive dividends. However, we will retain the dividends until the shares have vested. The shares may not be sold, assigned, transferred, pledged or otherwise encumbered until they
+have vested. We are amortizing the $501,000 fair value of the non-vested shares on the date of grant ratably over the four-year vesting period. Unrecognized compensation
+expense related to the non-vested stock grants was $496,000 as of December31, 2009. For 2009, compensation expense related to these non-vested stock grants was $5,000. 
+On
+December17, 2009, we awarded 30,000 shares on non-vested stock to certain employees. The grant vests over three years with one-third vesting each year
+if the individual is still employed by us. During the vesting period, the individual has voting rights and the right to receive dividends. However, we will retain the dividends until the shares have
+vested. The shares may not be sold, assigned, transferred, pledged or otherwise encumbered until they have vested. We are amortizing the $118,000 fair value of the non-vested shares on the
+date of grant ratably over the three-year vesting period. Unrecognized compensation expense related to the non-vested stock grants was $116,000 as of December31, 2009.
+For 2009, compensation expense related to these non-vested stock grants was $2,000. 
+In
+February 2007, we awarded 75,000 shares of non-vested stock to an executive. The grant vests over four years, with 50percent after year two, 25percent
+after year three and 25percent after year four if the executive is still employed by us. During the vesting period, the executive has voting rights and the right to receive dividends. However,
+we will retain the dividends until the shares have vested. The shares may not be sold, assigned, transferred, pledged or otherwise encumbered until they vest. We are amortizing the $665,000 value of
+the restricted shares on the date of grant ratably over the four year vesting period. Unrecognized compensation expense related to the restricted stock grant was $187,000, $353,000 and $520,000 at
+December31, 2009, 2008 and 2007, respectively. For the years 
+52  ended
+December31, 2009, 2008 and 2007, compensation expense related to this non-vested stock grant was $166,000, $166,000 and $146,000, respectively. 
+In
+March and April 2007, respectively, we awarded 120,000 and 86,000 shares of non-vested stock to senior management and managers and gave our CEO the authority to grant an
+additional 7,750 restricted shares of our common stock to yet to be named key employees. Partial vesting of these restricted stock awards was based upon the achievement of our predetermined earnings
+from operations objective for 2007 as approved by our Board of Directors the 2007
+Objective. We did not meet the 2007 Objective. Based on the award grant conditions, one-third of the awards expired on February6, 2008, the date we publicly announced our 2007
+financial results. In addition, we did not exceed our earnings from operations objectives for 2008 and 2009 to make up the difference for the shortfall in 2007. Therefore, based on the award grant
+conditions, the remaining two-thirds of the awards expired on March10, 2010, the date we publicly announced our 2009 financial results. Accordingly, we did not recognize any
+compensation expense related to these canceled, non-vested stock grants except for those shares awarded to our former president and chief executive officer. In accordance with the
+severance agreement for our former president and chief executive officer, we vested the 30,000 shares he was awarded with related compensation expense in 2009 of $240,000. 
+In
+December 2007, we awarded 250,000 shares of non-vested stock to certain employees. The non-vested stock vests over three years with one-third
+vesting each year if the individual is still employed by us. During the vesting period, the individual has voting rights and the right to receive dividends. However, we will retain the dividends until
+the shares have vested. The shares may not be sold, assigned, transferred, pledged or otherwise encumbered until they have vested. We are amortizing the $902,000 fair value of the
+non-vested shares on the date of grant ratably over the three-year vesting period. Unrecognized compensation expense related to the non-vested stock grants was
+$250,000, $667,000 and $893,000 at December31, 2009, 2008 and 2007, respectively. For 2009, 2008 and 2007, respectively, compensation expense related to these non-vested stock
+grants was $345,000, $226,000 and $10,000. 
+In
+March and April 2006, we awarded 60,000 and 163,000 shares of non-vested stock, respectively, to executive and senior management. The non-vested stock vests
+over four years with one-fourth vesting each year if the individual is still employed by us. During the vesting period, the individual has voting rights and the right to receive dividends.
+However, we will retain the dividends until the shares have vested. The shares may not be sold, assigned, transferred, pledged or otherwise encumbered until they have vested. We are amortizing the
+$926,000 fair value of the non-vested shares on the date of grant ratably over the four year vesting period. Unrecognized compensation expense related to the non-vested stock
+grants was $23,000, $266,000 and $509,000 at December31, 2009, 2008 and 2007, respectively. For 2009, 2008 and 2007, respectively, compensation expense related to these non-vested
+stock grants was $243,000, $217,000 and $233,000. 
+In
+2007, we issued 24,942 shares of common stock to members of the Board of Directors which were fully vested upon grant. For 2007, total compensation expense for these awards was
+approximately $127,000. In 2008, we issued 26,609 shares of common stock to members of the Board of Directors which were fully vested upon grant. For 2008, total compensation expense for these awards
+was approximately $107,000. In 2009, we issued 41,922 shares of common stock to members of the Board of Directors which were fully vested upon grant. For 2009, total compensation expense for these
+awards was approximately $155,000. 
+53 
+The
+following table summarizes our non-vested stock activity as of December31, 2009: 
+Number of Shares 
+Weighted Average
+Grant-Date Fair Value  Non-vested stock at January1, 2007 223,000 435 Granted 531,000 581 Shares vested 54,500 435 Shares cancelled 9,875 435 Non-vested stock at January1, 2008 689,625 548 Granted Shares vested 134,951 389 Shares cancelled 76,916 711 Non-vested stock at January1, 2009 477,758 566 Granted 358,750 386 Shares vested 206,625 420 Shares cancelled 54,084 495 Non-vested stock at December31, 2009 575,799 465 
+Stock Options:  In December 2009, we awarded 25,000 stock options to one of our managers. The stock options vest over three years with
+one-third vesting each year if the individual is still employed by us. We use the Black-Scholes option pricing model to estimate the fair value of stock options. The weighted-average fair
+value per option at the date of grant was $235. We estimated the fair value for the stock option grant with the following average assumptions: 
+2009  Risk-free interest rates 27 Expected dividend yield 0 Expected volatility factor 67 Expected option holding period 6years 
+In
+July 2009, we awarded 450,000 stock options to our new president and chief executive officer. The stock options vest 25% per year over a term of four years, provided he continues
+employment with us through each relevant vesting date. Unvested stock options will immediately vest upon a change of control of us as defined in his employment agreement but only if he iis
+continuously employed to the date of the change of control, iithe change of control price as defined in the employment agreement exceeds $350 per share, iiiour compensation
+committee authorizes the acceleration and vesting of the options and ivsuch acceleration and vesting will not cause the option to be subject to the adverse consequences described in
+Section409A of the Internal Revenue Code. We use the Black-Scholes option pricing model to estimate the fair value of stock options. The weighted-average fair value per option at the date of
+grant was $215. We estimated the fair value for the stock option grant with the following weighted average assumptions: 
+2009  Risk-free interest rates 28 Expected dividend yield 0 Expected volatility factor 66 Expected option holding period 6years 
+54 
+In
+February 2008, we awarded 200,000 and 115,000 stock options to executive officers and managers, respectively. The stock options vest over three years with one-third
+vesting each year if the individual is still employed by us. We use the Black-Scholes option pricing model to estimate the fair value of stock options. The weighted-average fair values per option at
+the date of grant were $252. We estimated the fair value for the stock option grants with the following weighted average assumptions: 
+2008  Risk-free interest rates 29 Expected dividend yield 0 Expected volatility factor 71 Expected option holding period 6years 
+We
+had no stock option grants in 2007. 
+The
+risk-free rate is based on a treasury instrument whose term is consistent with the expected life of our stock options. Expected volatility is based on the historical
+volatility of our share price for the period prior to the option grant equivalent to the expected holding period of the options. The expected holding period and dividend yield are based on historical
+experience. Total stock-based compensation expense related to stock options was $328,000 at December31, 2009. Unrecognized stock-based compensation expense related to stock options was
+$10million at December31, 2009. 
+The
+following table summarizes activity under our stock option plans: 
+Outstanding Options Number of Shares 
+Range of Exercise Prices 
+Weighted Average Exercise Price  Balance, December31, 2006 1,250,428 144-$1813 583 Options granted Options exercised 74,489 144-$771 403 Options cancelled 53,351 332-$1813 1201 Balance, December31, 2007 1,122,588 144-$1813 566 Options granted 315,000 391 391 Options exercised 19,773 180-$436 304 Options cancelled 26,022 332-$1813 616 Balance, December31, 2008 1,391,793 144-$1813 529 Options granted 475,000 350 350 Options exercised 57,475 332-401 348 Options cancelled 569,398 316-1813 557 Balance, December31, 2009 1,239,920 144-$1813 457 Options exercisable as of December31, 2007 1,122,588 144-$1813 566 Options exercisable as of December31, 2008 1,076,793 144-$1813 569 Options exercisable as of December31, 2009 641,587 144-$1813 511 
+55 
+The
+following is a summary of options outstanding at December31, 2009: 
+Stock
+Options 
+Range of Exercise
+Price Per Share 
+Weighted Average
+Exercise Price
+Per Share 
+Weighted Average
+Remaining Contractual
+Life Years 1,042,810 144-$600 359 71 144,743 601-$981 833 12 42,750 982-$1525 1290 07 9,617 1526-$1813 1781 02 1,239,920 144-$1813 457 61 
+At
+December31, 2009, 2008 and 2007, respectively, the aggregate intrinsic value of options outstanding and exercisable was $361,178, $40,150 and $159,250. Total intrinsic value
+of options exercised was $199,768, $60,019 and $299,841 for 2009, 2008 and 2007, respectively. 
+As
+of December31, 2007 we had no unrecognized compensation costs related to non-vested stock option awards. We recorded no stock option compensation expense for 2007. 
+8.Commitments and Contingencies 
+We have change of control severance agreements and employment agreements in place with certain executive employees. Under the agreements, an executive is entitled
+to a severance payment in the event the executive ais terminated without cause by us in anticipation of, in connection with, at the time of or within two years after a change of control, or
+bresigns for good reasons arising in anticipation of, in connection with, at the time of or within two years after a change of control. 
+9.Quarterly Financial Information unaudited 
+March31 
+June30 
+Sept30 
+Dec31a in thousands, except per share data 2009 Net sales 39,868 43,697 42,711 51,806 Gross profit 10,573 11,640 10,959 13,264 Operating earnings 856 383 386 408 Net earnings loss 596 283 84 158 Net earnings loss per sharebasic 005 002 001 001 Net earnings loss per sharediluted 005 002 001 001 
+March31 
+June30 
+Sept30 
+Dec31 in thousands, except per share data 2008 Net sales 47,725 49,707 49,980 48,185 Gross profit 13,006 13,332 13,757 12,556 Operating earnings 660 1,524 1709 1,187 Net earnings 505 979 1,068 843 Net earnings per sharebasic 004 008 009 007 Net earnings per sharediluted 004 008 009 007 
+aIncludes
+our acquisitions of the networking business of Cross Telecom in October 2009 and the reseller business of Incentra,LLC in December 2009. 
+56    
+Item1B.Unresolved Staff Comments.    
+None. 
+Item2.Controls and Procedures     aEvaluation of Disclosure Controls and Procedures Under
+the supervision and with the participation of our management, including our Chief Executive Officer principal executive officer and our Chief Financial Officer principal
+financial officer, we have evaluated the effectiveness of the design and operation of our disclosure controls and procedures pursuant to Rule13a-15b under the Securities
+Exchange Act of 1934. Based on their review of our disclosure controls and procedures, the Chief Executive Officer and the Chief Financial Officer have concluded that our disclosure controls and
+procedures were effective at December31, 2009
+to ensure that information we are required to disclose in reports that we file or submit is accumulated and communicated to our management, including our principal executive and principal financial
+officer, as appropriate to allow timely decisions regarding required disclosures, and that such information is recorded, processed, summarized and reported within the time periods specific in the
+Securities and Exchange Commission rules and forms.  bManagement Report on Internal Control over Financial Reporting Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting. Our internal controls are designed to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Because of its inherent
+limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that
+controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+Under
+the supervision and with the participation of our management, including our Chief Executive Officer and our Chief Financial Officer, we assessed the effectiveness of our internal
+control over financial reporting as of December31, 2009. In making this assessment, our management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway
+Commission COSO in Internal ControlIntegrated Framework. Based
+on our evaluation under the framework in Internal ControlIntegrated Framework, our management concluded that our
+internal control over financial reporting was effective as of December31, 2009. 
+This
+Annual Report on Form10-K does not include an attestation report of our independent registered public accounting firm regarding internal control over financial
+reporting. Our independent registered public accounting firm is not required to attest to management report pursuant to temporary rules of the SEC that permit us to provide only management report
+in this report.  cChanges in Internal Control There
+has been no change in our internal controls over financial reporting during our most recent fiscal quarter that has materially affected, or is reasonably likely to materially
+affect, our internal controls over financial reporting. 
+Item1B.Unresolved Staff Comments.    
+None. 
+Item2.Directors and Executive Officers of the Registrant.     Information contained under Election of Directors, Executive CompensationExecutive Officers and Section16a
+Beneficial Ownership Reporting Compliance in our Proxy Statement for our 2010 Annual Meeting of Stockholders the 2010 Proxy Statement is incorporated herein by reference. 
+We
+have adopted a Code of Ethics that applies to our officers, including our principal executive, financial and accounting officers, and our directors and employees. We intend to make
+all required disclosures concerning any amendments to, or waivers from, our Code of Ethics by the filing of Current Reports under the cover of Form8-K.  
+Item1B.Unresolved Staff Comments.    
+None. 
+Item2.Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.     We incorporate the information set forth under Outstanding Voting Securities and Voting Rights in our 2010 Proxy Statement herein by
+reference. 
+The
+following table provides certain information as of December31, 2009 with respect to our equity compensation plans. 
+Equity Compensation Plan Information Plan Category 
+Number of securities
+to be issued upon
+exercise of
+outstanding options,
+warrants and rights 
+Weighted-average
+exercise of outstanding
+options, warrants and
+rights 
+Number of securities
+remaining available for
+future issuance under
+equity compensation
+plans excluding
+securities reflected in
+the first column  Equity compensation plans approved by security holders1 1,239,920 457 491,814 Equity compensation plans not approved by security holders Totals 1,239,920 457 491,814 
+1These
+equity compensation plans consist of our 1999 and 2009 Incentive Compensation Plans and our 2000 Director Stock Option Plan, each as amended. 

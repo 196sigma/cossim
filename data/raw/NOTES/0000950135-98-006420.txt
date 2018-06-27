@@ -1,0 +1,429 @@
+item                 8,857       5,319       6,287       5,626       5,114
+Extraordinary item Loss on early extinguishment of
+debt                   --        --       2,149        --         Net income               8,857       5,319       4,138       5,626       5,114
+Series A non-voting preferred
+stock dividends             --        --        593        --         Net income allocable to common
+stockholders            $ 8,857      $ 5,319      $ 3,545      $ 5,626      $ 5,114
+Total assets             $99,864      $89,819      $74,284      $27,737      $20,274
+Working capital            73,548      63,568      55,672      14,207       8,207
+Long-term debt               --        --        21        --         Stockholders' equity         $84,272      $73,519      $60,633      $16,192      $10,566 1 The Company has never declared or paid cash dividends on the Common Stock.  17
+ITEM 7
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+This discussion and analysis contains certain forward-looking statements.
+These forward-looking statements represent TSI beliefs, expectations and
+intentions concerning future events, including, without limitation, financial
+matters, plans and objectives of management for future operations, products and
+services, the future economic performance of TSI, and the assumptions underlying
+such beliefs, expectations and intentions. Such statements are not guaranties of
+future performance, and involve certain risks and uncertainties that could cause
+TSI future results to differ materially from those expressed in any forward-
+looking statements made by or on behalf of TSI. Many of such factors are beyond
+TSI ability to control or predict. Readers are accordingly cautioned not to
+place undue reliance on forward-looking statements. TSI disclaims any intent or
+obligation to update publicly any forward-looking statements, whether in
+response to new information, future events or otherwise. These forward-looking
+statements are further qualified by important factors that could cause actual
+results to differ materially from those in the forward-looking statements,
+including, without limitation, those discussed above under the heading Risk
+Factors at page 2.
+OVERVIEW
+TSI provides management information technology to hospitals, integrated
+delivery networks, physician groups and other health care organizations. Using
+TSI products, these organizations are able to increase efficiency, improve
+quality of care and lower the cost of care delivery. TSI product lines span the
+health care organization information technology needs, providing data
+integration services, master person identifier solutions, disease management
+products and a clinical data repository as well as enterprise-wide financial,
+operational and clinical decision support. TSI was founded in 1985 and has been
+profitable in each fiscal year since 1987.
+TSI revenues are derived from sales of software licenses and related
+implementation services and of software maintenance. The software and
+implementation revenues associated with the licensing and installation of TSI
+products at an individual customer site typically range from $01 million to
+$12 million. Software maintenance contracts are sold separately at the time of
+the initial software license sale and are generally renewable annually. Annual
+software maintenance fees range from 15% to 18% of the initial software license
+fee for the product and provide a source of recurring revenue for TSI.
+Software and implementation revenues are accounted for using the percentage
+of completion method, and revenue is recognized as contract milestones are
+reached. The implementation process generally takes from three to twelve months.
+The length of time required to complete an implementation depends on many
+factors outside the control of TSI, including the state of the customer
+existing information systems and the customer ability to commit the personnel
+and other resources necessary to complete elements of the implementation process
+for which the customer is responsible. Revenue attributable to a contract
+milestone is recognized upon certification by the customer that the milestone
+has been met. As a result, TSI may be unable to predict accurately the amount of
+revenue it will recognize in any period in connection with the sale of its
+products. The payment terms of a contract may provide that the amount of the
+contract price that TSI is entitled to bill upon achievement of a milestone is
+less than the revenue recognized by TSI in connection with the achievement of
+that milestone. In such cases, the excess of the revenue recognized over the
+amount billed is included in accounts receivable as an unbilled account
+receivable. Software maintenance fees, which are generally received annually in
+advance, are recorded as deferred revenue on TSI balance sheet and are
+recognized as revenue ratably over the life of the contract. See Notes 2 and 3
+of Notes to Consolidated Financial Statements of TSI.
+Cost of software and implementation revenue consists primarily of the cost
+of third-party software that is resold by TSI or included in TSI products,
+personnel costs, the cost of related benefits, travel and living
+18
+expenses, costs of materials and other costs related to the installation and
+implementation of TSI products, and amortization of capitalized software
+development costs. Cost of maintenance revenue consists primarily of maintenance
+fees payable by TSI associated with the third-party software included in TSI
+products and personnel costs incurred in providing maintenance and technical
+support services to TSI customers.
+TSI research and development expenses consist primarily of
+personnel-related costs, including employee salaries and benefits and payments
+to consultants. TSI capitalizes certain software development costs in accordance
+with Statement of Financial Accounting Standards SFAS No. 86, Accounting
+for the Costs of Computer Software to be Sold, Leased or Otherwise Marketed.
+Capitalized software costs are amortized over the life of the product generally
+three years and amounts amortized are included in cost of software and
+implementation revenue. Capitalized software as a percentage of total research
+and development expense has declined from 172% in fiscal 1996 to 153% in
+fiscal 1997 and 106% in fiscal 1998. In each of fiscal 1996, 1997 and 1998, TSI
+capitalized $07 million of software development costs, while amortization of
+capitalized software development costs in such years amounted to $08 million 07 million and $07 million, respectively.
+In January 1996, TSI repurchased from New England Medical Center and the
+other stockholders of TSI 874% of the shares of common stock then issued and
+outstanding on a fully diluted basis for an aggregate purchase price of
+approximately $1114 million the Recapitalization. The principal purpose of
+this transaction was to provide liquidity for the existing stockholders of TSI
+while permitting them to retain an ownership interest in TSI. The transaction
+has been accounted for by TSI as a leveraged recapitalization. To finance the
+repurchase of these shares, TSI issued to Warburg, Pincus Ventures, L.P. and
+NationsBank Investment Corporation NIC shares of preferred stock for an
+aggregate of $550 million. TSI also issued to NIC Senior Subordinated Notes in
+the aggregate principal amount of $100 million and a related warrant and made
+borrowings of $400 million under a term loan and a revolving credit facility.
+In April 1996, TSI completed an initial public offering of 6,900,000 shares of
+its common stock, which generated net proceeds of $1144 million. The
+outstanding balance of these borrowings was repaid in full and all outstanding
+Series A non-voting preferred stock was redeemed upon the closing of the initial
+public offering.
+In July 1996, TSI acquired substantially all of the outstanding stock and a
+note held by a selling principal of Enterprising HealthCare, Inc. Enterprising
+HealthCare, based in Tucson, Arizona, for a total purchase price of
+approximately $18 million in cash. Enterprising HealthCare provides system
+integration products and services for the health care market. The acquisition
+was accounted for under the purchase method with the results of Enterprising
+HealthCare included from the date of acquisition. Purchased technology costs of
+$16 million are being amortized on a straight-line basis over seven years. Pro
+forma results of operations have not been presented, as the effect of this
+acquisition on the financial statements was not material.
+In January 1997, TSI acquired a 195% ownership interest in HealthVISION
+for $60 million in cash. HealthVISION is a Santa Rosa, California provider of
+electronic medical record software. Its products include CareVISION, a
+patient-centered clinical data repository and lifetime patient record system,
+which is expected to constitute an integral component of TSI Transition IV
+product. On December 3, 1998, TSI completed its acquisition of the remaining
+capital stock of HealthVISION not already owned by TSI. See -- Subsequent
+Events below.
+In September 1997, TSI acquired all the outstanding shares of Vital
+Software Inc. Vital, a privately held developer of products that automate
+the clinical processes unique to medical oncology. The purchase price was
+approximately $63 million, which was comprised of $27 million in cash and
+252,003 shares of TSI common stock with a value of $36 million. The purchase
+price was allocated entirely to purchased research and development. See Note 16
+of Notes to Consolidated Financial Statements of TSI.
+19
+RESULTS OF OPERATIONS
+The following table sets forth certain revenue and expense data as a
+percentage of TSI total revenues for each period presented:
+FISCAL YEAR ENDED
+SEPTEMBER 30,
+1996  1997  1998
+Revenues:
+Software and   725%  741%  688%
+275  259  312
+Total  1000  1000  1000
+Cost of revenues:
+Software and   214  232  281
+92   64   67
+Research and   97   87  135
+Sales and   132  155  180
+General and   69   87   74
+Compensation   88   --    Acquired in-process research and development.   --  141                                       Total operating   692  766  737
+Income from   308  234  263
+Net interest   02   56   73
+Income before income taxes and extraordinary item.  310  290  336
+Provision for income   126  171  134
+Net income before extraordinary item.  184  119  202
+Extraordinary item:
+Loss on early extinguishment of debt, net of taxes.  63   --                                       Net   121  119  202
+Series A non-voting preferred stock dividends.  17   --                                       Net income allocable to common stockholders.  104%  119%  202%
+FISCAL YEARS ENDED SEPTEMBER 30, 1998 AND SEPTEMBER 30, 1997
+REVENUES. TSI total revenues decreased 14%, to $440 million in 1998
+from $446 million in 1997. Software and implementation revenues decreased 85%
+to $302 million in 1998, compared to $330 million in 1997. The decrease in
+software and implementation revenue is primarily due to TSI failure to achieve
+planned levels of new system bookings. New system bookings were adversely
+impacted by an overall lengthening of the sales cycle. TSI believes the sales
+cycle was adversely affected by Year 2000 problems in healthcare legacy systems,
+which caused delays in the acquisition of new systems due to resource
+constraints. In addition, consolidation among healthcare providers has caused a
+lengthening of the purchasing cycle of most healthcare organizations due to
+management shifts and more complex approval processes. Maintenance revenue grew
+189% to $137 million in 1998, compared to $116 million in 1997, due to
+continued growth in TSI installed base of customers.
+COST OF REVENUES. Cost of software and implementation revenue increased
+200% to $124 million or 409% of software and implementation revenue in
+1998, from $103 million or 312% of software and implementation revenue in
+1997. The increase is primarily due to costs associated with additional
+implementation staff and professional consultants as well as increased royalty
+costs for third-party software. Cost of maintenance revenue increased 34% to
+$29 million or 214% of maintenance revenue in 1998 from $28 million or
+246% of maintenance revenue in 1997. The increase in cost of maintenance
+revenue is
+20
+primarily due to the increase in the number of technical support staff necessary
+to support the growth in TSI installed base.
+RESEARCH AND DEVELOPMENT. Research and development expenses increased
+530% to $59 million in 1998 from $39 million in 1997. Research and
+development expenses as a percent of total revenue also increased to 135% in
+1998, compared to 87% in 1997. The increase is primarily due to an increase in
+staff and increased professional consulting expense to support new product
+development, including Transition IV and Vital Oncology, without a corresponding
+increase in revenue.
+SALES AND MARKETING. Sales and marketing expenses increased 142% to $79
+million in 1998, from $69 million in 1997. Sales and marketing expenses as a
+percent of total revenue also increased to 180% in 1998 from 155% in 1997. The
+increase in spending is primarily associated with the growth of the sales
+organization and marketing programs to support the expanding product lines.
+GENERAL AND ADMINISTRATIVE. General and administrative expenses decreased
+165% to $32 million in 1998, from $39 million in 1997. General and
+administrative expenses as a percent of total revenue also decreased to 74% in
+1998 from 87% in 1997. The decrease in spending is primarily due to a reduction
+in performance related compensation expenses during the year as a result of the
+decrease in revenue.
+ACQUIRED IN-PROCESS RESEARCH AND DEVELOPMENT. Acquired in-process research
+and development expense for 1997 includes a charge for purchased research and
+development of $63 million relating to the acquisition of Vital.
+NET INTEREST INCOME. Net interest income increased to $32 million in 1998
+from $25 million in 1997. The increase in net interest income is attributable
+to the interest generated on higher cash balances during fiscal 1998.
+PROVISION FOR INCOME TAXES. TSI effective income tax rate decreased to
+400% in 1998 from 589% in 1997. The decrease was primarily due to the effect
+of the charge for in-process research and development associated with the
+acquisition of Vital, which was not deductible for tax purposes in fiscal year
+1997. No such charge occurred in 1998.
+FISCAL YEARS ENDED SEPTEMBER 30, 1997 AND SEPTEMBER 30, 1996
+REVENUES. TSI total revenues increased 300% to $446 million in 1997,
+from $343 million in 1996. Software and implementation revenues grew 328% to
+$330 million in 1997, compared to $249 million in 1996. The growth in software
+and implementation revenue is primarily due to sales to new TSI customers,
+increased consolidation among existing customers which resulted in the sale of
+additional site licenses, and the expansion of TSI product line which resulted
+in increased product sales to existing customers. Maintenance revenue grew 227%
+to $115 million in 1997, compared to $94 million in 1996, due to continued
+growth in TSI installed base of customers.
+COST OF REVENUES. Cost of software and implementation revenue increased
+405% to $103 million or 312% of software and implementation revenue in
+1997, from $73 million or 295% of software and implementation revenue in
+1996. The dollar increase is primarily due to costs associated with additional
+implementation staff and professional consultants as well as increased royalty
+costs for third-party software. Cost of maintenance revenue decreased 104% to
+$28 million or 246% of maintenance revenue in 1997 from $32 million or
+336% of maintenance revenue in 1996. The decrease in cost of maintenance
+revenue is primarily due to the reduced technical support necessary on mature
+products.
+RESEARCH AND DEVELOPMENT. Research and development expenses increased
+170% to $39 million in 1997 from $33 million in 1996. The increase in
+spending is primarily a result of organizational changes which resulted in a net
+increase in the number of staff assigned to research and development roles.
+Research and development expenses as a percent of total revenue decreased
+slightly to 87% in 1997, compared to 97% in 1996. The decrease is primarily
+due to increased productivity from investments in technologies made in prior
+years and maturing of the core product lines. TSI expects that research and
+development expenses will increase as a percentage of revenue in future periods
+as new development projects are undertaken.
+21
+SALES AND MARKETING. Sales and marketing expenses increased 536% to $69
+million in 1997, from $45 million in 1996. Sales and marketing expenses as a
+percent of total revenue also increased to 155% in 1997 from 132% in 1996. The
+increase in spending is primarily due to additional staff and marketing programs
+as well as increased commission expense directly related to the growth in
+revenue.
+GENERAL AND ADMINISTRATIVE. General and administrative expenses increased
+642% to $39 million in 1997, from $24 million in 1996. General and
+administrative expenses as a percent of total revenue also increased to 87% in
+1997 from 69% in 1996. The increase in spending is primarily due to
+professional services and other costs associated with becoming a publicly traded
+company as well as additional administrative expenses related to Enterprising
+HealthCare, which was acquired in July 1996.
+COMPENSATION CHARGE. In fiscal 1996 TSI incurred a compensation charge of
+$30 million arising from its acquisition, in connection with the January 1996
+Recapitalization, of shares of common stock issued to certain executive officers
+pursuant to the exercise of options.
+ACQUIRED IN-PROCESS RESEARCH AND DEVELOPMENT. Acquired in-process research
+and development expense includes a charge for purchased research and development
+of $63 million relating to the acquisition of Vital in September 1997.
+NET INTEREST INCOME. Net interest income increased to $25 million in 1997
+from $01 million in 1996. The increase in net interest income is primarily due
+to the repayment out of the proceeds of TSI initial public offering in April
+1996 of debt incurred in the January 1996 Recapitalization and interest earned
+on cash balances generated from operations and the balance of the proceeds of
+TSI initial public offering.
+PROVISION FOR INCOME TAXES. TSI effective income tax rate increased to
+589% in 1997 from 406% in 1996, primarily due to the effect of the charge for
+in-process research and development associated with the acquisition of Vital,
+which is not deductible for tax purposes. The tax rate for 1997 without the
+effect of the charge for in-process research and development was 397%.
+LIQUIDITY AND CAPITAL RESOURCES
+At September 30, 1998, TSI had cash and cash equivalents of $387 million
+and short term investments of $273 million, an increase of $75 million from
+the amount at September 30, 1997. The increase in cash and cash equivalents and
+short term investments was comprised primarily of net cash provided by operating
+activities of $100 million. Net cash provided by operating activities in fiscal
+1998 was generated primarily from net income.
+TSI has an unsecured revolving line of credit in the amount of $15 million.
+The credit facility contains covenants setting minimum net worth, maximum
+leverage ratio and minimum net income requirements for TSI. There have been no
+amounts drawn on this line. Advances under the revolving line of credit bear
+interest, at TSI election, either at a base rate or at a eurodollar rate.
+The base rate is a floating rate equal to the greater of a the prime rate or
+b the federal funds effective rate plus one-half of one percent 50%. The
+eurodollar rate is equal to the sum of x a rate determined by reference to the
+then-current interbank offered rate for dollar-denominated eurodollar deposits,
+with certain adjustments, plus y one percent 10%.
+TSI believes available funds, cash generated from operations and its unused
+line of credit of $15 million will be sufficient to finance TSI operations and
+planned capital expenditures for at least the next twelve months. There can be
+no assurance, however, that TSI will not require additional financing during
+that time or thereafter.
+YEAR 2000 ISSUES
+TSI software license agreements generally contain warranties concerning
+the Year 2000 compliance of the licensed product. TSI has tested the products it
+has developed internally and believes that, with the exception of its Transition
+for Quality product for which TSI expects to release a fully Year 2000
+compliant version in early 1999, the current release of each of its internally
+developed products is Year 2000 compliant. TSI includes in its products certain
+software licensed from third-party vendors. TSI has not yet completed its
+22
+evaluation of Year 2000 compliance of all such third-party software. For
+example, TSI has not yet verified that Uniface, licensed from Compuware
+Corporation, is Year 2000 compliant. In order to use TSI products customers
+must themselves license software, including certain operating system and
+database management system software, from third-party vendors such as Microsoft
+Corporation and Oracle Corporation. Not all such third-party software may be
+fully Year 2000 compliant. For example, Microsoft Corporation has not certified
+that its Windows NT operating system is Year 2000 compliant. TSI has also
+evaluated the Year 2000 compliance of its critical internal software systems,
+including its financial, payroll and human resources systems and its telephone
+switch, and believes, based in part on certification from the vendors of such
+systems, that such systems are Year 2000 compliant. TSI does not expect to incur
+material costs in completing its Year 2000 assessment and remediation program.
+However, the discovery of previously undetected Year 2000 defects in TSI
+products including those licensed from third-party vendors, in third-party
+software required for customers to use TSI products or in its internal
+software systems could damage TSI business. Also, apprehension in the
+marketplace over Year 2000 compliance issues has led and may in the future lead
+businesses, including customers of TSI, to defer significant capital investments
+in information technology programs and software. They could elect to defer those
+investments either because they decide to focus their capital budgets on the
+expenditures necessary to bring their own existing systems into compliance or
+because they wish to purchase only software with a proven ability to process
+data after 1999.
+SUBSEQUENT EVENTS
+On October 29, 1998, TSI entered into the Merger Agreement pursuant to
+which a wholly-owned subsidiary of Eclipsys will be merged into TSI, with TSI
+becoming a wholly-owned subsidiary of Eclipsys.
+On December 3, 1998, TSI completed its acquisition of HealthVISION by
+acquiring the approximately 805% of the outstanding capital stock of
+HealthVISION not already owned by TSI for cash in the amount of $256 million
+plus assumed liabilities of $93 million, net of cash acquired, plus an earn-out
+of up to $108 million if specified financial milestones are met. The
+acquisition will be accounted for as a purchase. HealthVISION total revenues
+for the year ended December 31, 1997 and for the nine-month period ended
+September 30, 1998, were approximately $92 million and $94 million,
+respectively. HealthVISION incurred net losses of $111 million and $60 million
+for such periods, respectively. At September 30, 1998, HealthVISION employed
+approximately 150 persons in seven offices in the United States, Canada and
+Australia.
+NEW ACCOUNTING PRONOUNCEMENTS
+In June 1997, the Financial Accounting Standards Board FASB issued
+Statement of Financial Accounting Standard No. 130, Reporting Comprehensive
+Income SFAS 130, which establishes standards for reporting and display of
+comprehensive income and its components revenue, expenses, gains and losses in
+a full set of general purpose financial statements. TSI will be required to
+adopt the standard in the first quarter of its 1999 fiscal year, and does not
+believe this statement will have a material effect on TSI financial position
+or results of operations.
+In June 1997, the FASB issued Statement of Financial Accounting Standard
+No. 131 SFAS 131, Disclosure about Segments of an Enterprise and Related
+Information. Based on the management approach to segment reporting, SFAS No.
+131 establishes requirements to report selected segment information quarterly
+and to report entity-wide disclosures about products and services, major
+customers and the countries in which the entity holds material assets and
+reports material revenue. TSI will be required to adopt the standard in the
+first quarter of its 1999 fiscal year, and does not believe this statement will
+have a material effect on TSI financial disclosures.
+In June 1998, the FASB issued Statement of Financial Accounting Standards
+No. 133 SFAS 133 Accounting for Derivative Instruments and Hedging
+Activities, which establishes accounting and reporting standards for such
+instruments. SFAS 133 is effective for fiscal years beginning after June 15,
+1999. Currently, TSI has no such derivative holdings.
+23
+On October 27, 1997, the AICPA Accounting Standards Executive Committee
+issued Statement of Position 97-2 SOP 97-2, Software Revenue Recognition.
+SOP 97-2 supersedes Statement of Position 91-1, Software Revenue Recognition,
+and provides guidance on when and in what amounts revenue should be recognized
+for the licensing, selling, leasing, or marketing of computer software. SOP 97-2
+is effective for transactions beginning in the first quarter of TSI 1999
+fiscal year. TSI is analyzing the impact of the SOP which may cause a deferral
+of revenue.
+24
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+CONSOLIDATED FINANCIAL STATEMENTS
+The Company Consolidated Financial Statements and Notes thereto as of
+September 30, 1998 and 1997 and for each of the three years in the period ended
+September 30, 1998 are listed in the Index to Financial Statements in Items
+14a1 and 14a2 of this Form 10-K and appear at pages F-1 to F-17.
+QUARTERLY RESULTS
+The following table presents selected quarterly statement of operations data for
+each of the eight quarters in the period ended September 30, 1998. This data is
+unaudited but, in the opinion of the Company management, reflect all
+adjustments that the Company considers necessary for a fair presentation of
+these data in accordance with generally accepted accounting principles. The
+quarterly results presented below are not necessarily indicative of future
+results of operations.
+SELECTED QUARTERLY FINANCIAL DATA
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS
+UNAUDITED                                 THREE MONTHS ENDED
+DECEMBER 31,  MARCH 31,  JUNE 30,  SEPTEMBER 30,
+STATEMENT OF OPERATIONS DATA               1997    1998    1998      1998
+-            
+Revenue                        $10,915   $12,575  $10,455    $10,005
+Income before income taxes               4,133    4,802   2,962     2,866
+Provision for income taxes               1,653    1,921   1,185     1,146
+Net income loss                    2,480    2,881   1,777     1,720
+Basic earnings per share               $  14   $ 016  $ 010    $  09
+Diluted earnings per share              $  12   $ 014  $ 009    $  09                                 THREE MONTHS ENDED         
+DECEMBER 31,  MARCH 31,  JUNE 30,  SEPTEMBER 30,
+STATEMENT OF OPERATIONS DATA               1996    1997    1997      1997
+-            
+Revenue                        $8,486   $9,819  $12,570     $13,690
+Income before income taxes               2,965    3,645   5,936       402
+Provision for income taxes               1,186    1,458   2,374      2,611
+Net income loss                    1,779    2,187   3,562     2,209
+Basic earnings loss per share            $ 10   $ 013  $ 020     $ 012
+Diluted earnings loss per share           $ 09   $ 011  $ 018     $ 011 Item 3. LEGAL PROCEEDINGS
+TSI is not a party to any material litigation, and is not aware of any
+pending or threatened litigation that would have a material adverse effect on
+TSI or its business.
+Item 4.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The information set forth under the captions Directors and Executive
+Officers and Section 16a Beneficial Ownership Reporting Compliance in the
+Company definitive Proxy Statement for the 1999 Annual Meeting of Stockholders
+the Definitive Proxy Statement, is incorporated herein by reference.
+Item 3. LEGAL PROCEEDINGS
+TSI is not a party to any material litigation, and is not aware of any
+pending or threatened litigation that would have a material adverse effect on
+TSI or its business.
+Item 4.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The information set forth under the caption Security Ownership of Certain
+Beneficial Owners and Management in the Company Definitive Proxy Statement is
+incorporated herein by reference.

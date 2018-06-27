@@ -1,0 +1,1607 @@
+Item 8, Financial Statements and Supplementary Data. Business Strategy
+Powerwave strategy is to become the leading supplier of advanced RF power
+amplifier solutions to the wireless communications industry and includes the
+following key elements. provide leading technology to the RF power amplifier industry through
+research and development that continues to improve our product technical
+performance and establishes new levels of technical performance. utilize our research and development efforts to raise our productivity and to
+lower costs. leverage our position as a leading supplier of both single carrier and multi-
+carrier RF power amplifiers to increase our market share and expand our
+relationships with our existing customers. continue to expand our customer base of wireless network OEMs and leading
+wireless network operators; and. maintain our focus on the quality, reliability and manufacturability of our
+RF power amplifier products.
+Our focus on RF power amplifier technology and the experience we have gained
+through the implementation of our products in both analog and digital wireless
+networks throughout the world has enabled us to develop substantial expertise in
+both multi-carrier and single carrier RF power amplifier technology. We intend
+to continue to research and develop new methods to improve RF power amplifier
+performance, including efforts to support third generation transmission
+standards known as 3G. We believe that both our existing products and new
+products in development will enable us to continue to expand our customer base
+by offering a broad range of products to meet the diverse requirements of
+wireless OEMs and network operators. We also intend to leverage our product
+lines in an attempt to expand our relationships with our existing customers and
+to add new customers. Powerwave has developed the ability to manufacture both
+multi-carrier and single carrier RF power amplifiers in a standard, repeatable
+manner, which allows for increased production levels. We believe that we are
+able to respond quickly and cost-effectively to new transmission protocols and
+design specifications by obtaining components from numerous leading technology
+companies. We also believe that our focus on the manufacturability of our RF
+power amplifier designs should help us to increase our manufacturing
+productivity while reducing our product costs. We believe that this ability to
+offer a broad range of products represents a competitive advantage over other
+third-party manufacturers of RF power amplifiers.
+If we are unsuccessful in designing new products or improving and reducing the
+costs of our products, such inability to fulfill these objectives would have a
+negative effect on our gross profit margins, business, results of operations and
+financial condition. In addition, if our outstanding customer orders were to be
+significantly reduced, the resulting loss of volume purchasing could also
+adversely effect our cost competitive advantage, which would negatively affect
+our gross profit margins, business, results of operations and financial
+condition. See Additional Factors That May Affect Future Results--Our Average
+Sales Prices are Declining; and --We May Fail to Develop Products that are
+Sufficiently Manufacturable or of Adequate Quality and Reliability under Item
+7, Management Discussion and Analysis of Financial Condition and Results of
+Operations. Markets
+We sell our RF power amplifier products into various segments of the wireless
+communications market. We have defined these segments based upon the RF
+frequency in which the product is utilized. The majority of our
+3 sales are to the 800-1000 MHz and the 1800-2000 MHz markets. We have also begun
+to sell products for use in the 2000+ MHz markets.
+Wireless networks typically utilize a number of base stations with high power
+antennas to serve a geographical region. Each region is broken down into a
+number of smaller geographical areas, or cells. Each cell has its own base
+station which uses wireless technology to receive and transmit calls via base
+stations BTS and the wireline public switched telephone network PSTN.
+Cellular networks typically operate within the 800 and 900 MHz bandwidths of the
+radio spectrum and utilize either analog or digital protocols. PCS networks
+operate in a substantially similar manner as cellular networks, except that PCS
+networks typically operate at 1800 and 1900 MHz bandwidths and utilize only
+digital transmission protocols. Third generation 3G networks are expected to
+primarily operate in the 2100 MHz range. Transmissions at the higher frequencies
+utilized by PCS and 3G networks have shorter transmission waves as compared to
+cellular frequency transmissions, which tends to limit the distances
+transmissions can travel without significant degradation. Lower frequency
+signals penetrate into buildings and other obstacles better than higher
+frequency signals. Therefore, wireless networks operating at high frequency
+ranges may require smaller operating cells and more base stations than existing
+cellular networks to cover the same total geographic area.
+In analog cellular networks, each base station is allocated a certain number
+of frequency channels, each of which can carry only one call at a time.
+Originally, cellular base stations in analog networks used single carrier RF
+power amplifiers for each frequency channel allocated to the cell. With the use
+of MCPA technology, transmission signals can now be amplified simultaneously
+through a single multi-carrier RF power amplifier which allows for the
+simultaneous amplification of all channels within a base station. Multi-carrier
+RF power amplifiers require significantly higher linearity than do single
+carrier designs, but do not require separate, high-maintenance, tunable cavity
+filters. By eliminating the need for cavity filters for each channel, multi-
+carrier RF power amplifiers reduce overall deployment and maintenance costs
+associated with base stations. Many service providers still require additional
+capacity to serve the increased flow of transmissions through their networks.
+This has led many service providers to move from analog networks to digital
+networks.
+In digital networks, calls are segmented into time slots or codes and
+transmitted across the entire bandwidth of allocated spectrum, rather than in
+single channels of that spectrum. The calls are then reassembled when received
+at the base station or cellular phone. While using the entire bandwidth of
+allocated spectrum results in greater system capacity, there is a greater
+likelihood that even minimal background noise will result in interrupted or
+dropped calls. Accordingly, ultra-linear amplification is even more critical in
+digital networks than in their analog counterparts.
+Powerwave provides ultra-linear multi-carrier RF power amplifiers which are
+located in base stations and work to increase the signal strength of outgoing
+transmissions. Our single carrier and multi-carrier RF power amplifiers work in
+base stations with a variety of other sophisticated electronic equipment,
+including receivers, radios and oscillators. Products
+Powerwave offers both single and multi-carrier RF power amplifiers for use in
+cellular networks, including ultra-linear multi-carrier RF power amplifiers for
+CDMA, cdma2000, TDMA and GSM digital cellular systems as well as analog systems
+utilizing AMPS and TACS protocols. We also offer both single and multi-carrier
+RF power amplifiers for use in PCS networks that operate in the international
+DCS-1800 frequency 1800 MHz and the United States PCS band at 1900 MHz.
+Typical system applications include CDMA, TDMA, and GSM protocols with output
+power ranging from 5W to 100W.
+Our ultra-linear multi-carrier RF power amplifiers utilize feedforward
+technology, and typically pre-distortion. Our multi-carrier designs also
+utilize an actively switched output combiner 3 or 4 way, which allows any
+number of RF power amplifiers to be hot-swapped, or interchanged, without a
+significant loss of power. This design also allows for true cold standby
+switching of a standby RF power amplifier, thereby providing network operators
+with a backup redundancy solution for even greater reliability. These RF power
+amplifiers are designed to be installed in racks of three or four RF power
+amplifiers. Smart combiner paralleling units allow for both higher power as
+well as
+4 system redundancy, which is the ability of the system to remain operational in
+the event of the failure of one or more of the paralleled RF power amplifiers.
+We offer various versions of our multi-carrier RF power amplifiers providing
+from 25 to 140 Watts W or more of average power with maximum distortion of up
+to -65dBc or better. Up to 4 units can be combined in parallel utilizing our
+fully redundant smart combiner racks for various effective average power
+ratings.
+We also offer single carrier RF power amplifiers for GSM, CDMA and TDMA
+operating systems. Products are available in a wide range of RF output levels.
+These products are available in versions ranging from complete stand-alone units
+to highly integrated RF power amplifiers for tower-top applications.
+3G UMTS networks which will initially operate in the 2100 MHz spectrum will
+generally utilize the W-CDMA 3G transmission protocol. The buildout of these
+networks is expected to begin in different parts of the world, primarily in Asia
+and Europe. OEMs have or are in the process of developing base stations to
+support these 3G networks. We have developed and are continuing to develop RF
+power amplifiers for use in 3G base stations. We have produced and sold a
+limited number of these 3G RF power amplifiers to certain of our OEM customers.
+Our multi-carrier RF power amplifiers range in price from $3,500 to over
+$15,000 per RF power amplifier, based upon the specification requirements. Our
+single carrier RF power amplifiers range in price from $500 to $4,500 per RF
+power amplifier depending upon product type and specifications. We also sells
+racks, cabinets and combiners for multiple RF power amplifiers, ranging in price
+from $1,000 to over $7,500, depending upon specifications. Customers
+We sell our products to customers worldwide, including a variety of wireless
+OEMs, such as Ericsson, LG Electronics LG formerly LG Information &
+Communications, Ltd., Lucent Technologies, Inc. Lucent, Metawave
+Communications Corporation Metawave, Nokia Telecommunications Inc.
+Nokia, Nortel and Samsung Electronics Co. Ltd. Samsung. We also sell
+our products to operators of wireless networks, such as AT Wireless Services
+AT Wireless, Cingular Wireless and Verizon Wireless.
+For the fiscal year ended December 31, 2000, our largest customer was Nortel,
+which accounted for approximately 47% of our net sales. Also, for fiscal year
+2000, our next three largest customers in alphabetical order, Cingular
+Wireless, Ericsson and Verizon Wireless each accounted for more than 5% of our
+net sales. The loss of any one of these customers, or a significant loss,
+reduction or rescheduling of orders from any of our customers, would have a
+material adverse effect on our business, results of operations and financial
+condition. See Additional Factors That May Affect Future Results--A
+Significant Amount of Our Revenues Comes from a Few Customers; --Our Success is
+Tied to the Growth of the Wireless Service Market; and --There are Many Risks
+Associated With International Operations under Item 7, Management Discussion
+and Analysis of Financial Condition and Results of Operations. Marketing and Distribution, International Sales
+We sell our products through a highly technical direct sales force and through
+independent sales representatives. Direct sales personnel are assigned to
+geographic territories and, in addition to sales responsibilities, manage
+networks of independent sales representatives. We also utilize a network of
+independent sales representatives selected for their familiarity with our
+potential customers and their knowledge of the wireless infrastructure equipment
+market. Both the direct sales personnel and independent sales representatives
+generate product sales, provide product and customer service, and provide
+customer feedback for product development. In addition, the sales personnel and
+independent sales representatives receive support from our marketing, product
+support and customer service departments.
+5  Our marketing efforts are focused on establishing and developing long-term
+relationships with potential customers. Sales cycles for certain of our
+products, particularly our base station RF power amplifiers, are lengthy,
+typically ranging from six to eighteen months. Our customers typically conduct
+significant technical evaluations of our products before making purchase
+commitments. In addition, as is customary in the industry, sales are made
+through standard purchase orders which can be subject to cancellation,
+postponement or other types of delays. While certain customers provide us with
+forecasted needs, they are typically not bound by such forecasts.
+International sales excluding North American sales of our products amounted
+to approximately 21%, 33%, and 41% of net sales for the years ended December 31,
+2000, January 2, 2000, and January 3, 1999, respectively. Foreign sales of some
+of our products may be subject to national security and export regulations and
+may require us to obtain a permit or license. In recent years, we have not
+experienced any material difficulty in obtaining required permits or licenses.
+Foreign sales also subject us to risks related to political upheaval and
+economic downturns in foreign nations and regions, such as the economic downturn
+in the South Korean and Asian markets in fiscal 1998 and the Brazilian market
+during 1999. In addition, historically our foreign customers typically pay for
+our products with U.S. Dollars. As such, a strengthening of the U.S. Dollar as
+compared to a foreign customer local currency effectively increases the cost
+of our products for that customer, thereby making our products less attractive
+to such customers. See Additional Factors That May Affect Future Results There are Many Risks Associated With International Operations under Item 7,
+Management Discussion and Analysis of Financial Condition and Results of
+Operations. Service and Warranty
+Our warranties vary by customer and product type and typically cover defects
+in materials and workmanship. We perform warranty obligations and other
+maintenance services for our products at our facilities in Southern California
+and Seoul, South Korea. We currently have service employees located in South
+Korea and utilize our South Korean sales representative location to provide
+service and support for the Asian region. Product Development
+We invest significant resources in the research and development of new methods
+to improve amplifier performance, including reduced noise and increased power in
+the RF amplification process. We also invest significant resources in the
+development of new amplifier products to support new transmission protocols,
+including EDGE and third generation protocols such as W-CDMA and cdma2000. Our
+development efforts also seek to reduce the cost and increase the manufacturing
+efficiency of both new and existing products. Our research and development
+staff consisted of 204 people as of December 31, 2000. Expenditures for
+research and development amounted to approximately $411 million in 2000, $263
+million in 1999 and $135 million in 1998. See Additional Factors That May
+Affect Future Results--We Must Develop and Sell New Products in Order to Keep Up
+With Rapid Technological Change under Item 7, Management Discussion and
+Analysis of Financial Condition and Results of Operations. Competition
+The wireless communications infrastructure equipment industry is extremely
+competitive and is characterized by rapid technological change, new product
+development and rapid product obsolescence, evolving industry standards and
+significant price erosion over the life of a product. Our products compete on
+the basis of the following key characteristics: performance, functionality,
+reliability, pricing, quality, designs that can be efficiently manufactured in
+large volumes, time-to-market delivery capabilities and compliance with industry
+standards. While we believe that we compete favorably with respect to the
+foregoing characteristics, there can be no assurance that we will be able to
+continue to do so.
+Our current domestic competitors include AML Communications, Inc. and
+Spectrian Corporation. We also compete with a number of foreign and privately
+held companies throughout the world, the subsidiaries of certain
+6 multinational corporations and the amplifier manufacturing operations captive
+within certain of the leading wireless infrastructure OEMs such as Ericsson,
+Lucent, Motorola Corporation Motorola, Nokia and Samsung. Some competitors
+have significantly greater financial, technical, manufacturing, sales, marketing
+and other resources than Powerwave and have achieved greater name recognition
+for their existing products and technologies than we have. We cannot guarantee
+that we will be able to successfully increase our market penetration or our
+overall share of the RF amplifier marketplace. Our results of operations could
+be adversely impacted if we are unable to effectively increase our share of the
+RF amplifier marketplace.
+Powerwave success depends in large part upon the rate at which wireless
+infrastructure OEMs incorporate our products into their systems. We believe
+that a substantial portion of the present worldwide production of RF power
+amplifiers is captive within the internal manufacturing operations of a small
+number of leading wireless infrastructure manufacturers such as Ericsson,
+Lucent, Motorola, Nokia and Samsung. Some of these companies regularly evaluate
+whether to manufacture their own RF power amplifiers rather than purchase them
+from third-party vendors such as Powerwave. Recently, Ericsson purchased
+Microwave Power Devices, Inc., one of our competitors. We cannot predict the
+ultimate impact this purchase will have on our business with Ericsson. Any
+potential reduction in business from Ericsson could have a negative impact on
+our business, financial condition and results of operations. In addition,
+various companies could also directly compete with Powerwave by selling their RF
+power amplifiers to other manufacturers and operators, including our customers.
+If we are not successful in increasing the use of our products by the leading
+wireless infrastructure OEMs, there will be a material adverse effect on our
+business, financial condition and results of operations. See Additional
+Factors That May Affect Future Results--Many Wireless Infrastructure
+Manufacturers have Internal RF Power Amplifier Production Capabilities; and
+- --The Market in Which We Operate is Highly Competitive under Item 7,
+Management Discussion and Analysis of Financial Condition and Results of
+Operations.
+We have experienced significant price competition and we expect price
+competition in the sale of RF power amplifiers to increase. No assurance can be
+given that our competitors will not develop new technologies or enhancements to
+existing products or introduce new products that will offer superior price or
+performance features. We expect our competitors to offer new and existing
+products at prices necessary to gain or retain market share. Certain of our
+competitors have substantial financial resources, which may enable them to
+withstand sustained price competition or a market downturn better than us.
+There can be no assurance that we will be able to compete successfully in the
+pricing of our products, or otherwise, in the future. See Additional Factors
+That May Affect Future Results--Our Average Sales Prices are Declining under
+Item 7, Management Discussion and Analysis of Financial Condition and Results
+of Operations. Backlog
+Our backlog of orders was approximately $845 million on December 31, 2000,
+compared to approximately $982 million on January 2, 2000. We include in our
+reported backlog only the accepted product purchase orders with respect to which
+a delivery schedule has been specified for product shipment within six months.
+Product orders in our backlog are frequently subject to changes in delivery
+schedules or to cancellation at the option of the purchaser without significant
+penalty. We regularly review our backlog of orders to ensure that it adequately
+reflects product orders expected to be shipped within a six-month period. We
+make adjustments as customer delivery schedules change and in response to
+changes in our production schedule. Accordingly, we stress that although useful
+for scheduling production, backlog as of any particular date may not be a
+reliable indicator of sales for any future period. Manufacturing and Suppliers
+Our headquarters and our manufacturing facility are located in Irvine,
+California. We have purchased a facility in Santa Ana, California and expect to
+complete the relocation of our operations to this facility during the first
+quarter of 2001. Our manufacturing process involves the assembly of numerous
+individual components and precise fine-tuning by production technicians. The
+parts and materials used by us consist primarily of printed circuit
+7 boards, specialized subassemblies, fabricated housings, relays, and small
+electric circuit components, such as integrated circuits, semiconductors,
+resistors and capacitors.
+We currently procure, and expect to continue to procure, certain components
+from single source manufacturers due to unique component designs as well as
+certain quality and performance requirements. In addition, in order to take
+advantage of volume pricing discounts, we purchase certain customized components
+from single sources. We have experienced, and may in the future experience,
+shortages of single-source components. In such event, we may have to make
+adjustments to both product designs and production schedules which could result
+in delays in production and delivery of products. Such delays could have an
+adverse effect on our operating results and financial condition. See
+Additional Factors That May Affect Future Results--We Depend on Single Sources
+for Key Components under Item 7, Management Discussion and Analysis of
+Financial Condition and Results of Operations.
+We have been ISO 9001 certified since 1996. Numerous customers and potential
+customers throughout the world, particularly in Europe, require that their
+suppliers be ISO certified. In addition, many such customers require that their
+suppliers purchase components only from subcontractors that are ISO certified. Intellectual Property
+We rely upon trade secrets and patents to protect our intellectual property.
+We execute confidentiality and non-disclosure agreements with our employees and
+suppliers and limit access to and distribution of our proprietary information.
+In 1998, we were granted our first U.S. patent for an aspect of our multi-
+carrier technology. We have an on-going program to identify and file
+applications for both U.S. and international patents for various aspects of our
+technology. We have been granted a total of 10 U.S. patents, and as of December
+31, 2000 we have 15 separate U.S. patent applications filed, with multiple
+additional international patents filed. All of these efforts along with the
+knowledge and experience of our management and technical personnel strengthen
+our ability to market our existing products and to develop new products. The
+departure of any of our management and technical personnel, the breach of their
+confidentiality and non-disclosure obligations to Powerwave or the failure to
+achieve our intellectual property objectives may have a material adverse effect
+on our business, financial condition and results of operations.
+We believe that our success depends upon the knowledge and experience of our
+management and technical personnel and our ability to market our existing
+products and to develop new products.  We do not have non-compete agreements
+with our employees who are employed on an at-will basis. Therefore, employees
+may leave us and go to work for a competitor. We have had employees leave us
+and go to work for competitors. While we believe that we have adequately
+protected our proprietary technology, and we will take all legal measures to
+protect it, the use of our processes by a competitor could have a material
+adverse effect on our business, financial condition and results of operations.
+Our ability to compete successfully and achieve future revenue growth will
+depend, in part, on our ability to protect our proprietary technology and
+operate without infringing upon the rights of others. We may not be able to
+successfully protect our intellectual property, or our intellectual property or
+proprietary technology may otherwise become known or be independently developed
+by competitors. In addition, the laws of certain countries in which our
+products are or may be sold may not protect our products and intellectual
+property rights to the same extent as the laws of the United States.
+The inability to protect our intellectual property and proprietary technology
+could have a material adverse effect on our business, financial condition and
+results of operations. As the number of patents, copyrights and other
+intellectual property rights in our industry increases, and as the coverage of
+these rights and the functionality of the products in the market further
+overlap, we believe that companies in our industry may face more frequent
+infringement claims. We may in the future be notified that we are infringing
+upon certain patent or other intellectual property rights of others. Although
+we are not aware of any pending or threatened intellectual property lawsuits
+against us, we cannot guarantee that such litigation or infringement claims will
+not occur in the future. Such litigation or claims could result in substantial
+costs and diversion of resources and could have a material adverse effect on our
+business, results of operations and financial condition. A third party claiming
+infringement
+8 may also be able to obtain an injunction or other equitable relief, which could
+effectively block our ability or our customers' ability to distribute, sell or
+import allegedly infringing products. If it appears necessary or desirable, we
+may seek licenses from third parties covering intellectual property that we are
+allegedly infringing. No assurance can be given, however, that any such licenses
+could be obtained on terms acceptable to us, if at all. The failure to obtain
+the necessary licenses or other rights could have a material adverse effect on
+our business, financial condition and results of operations. Employees
+As of December 31, 2000, Powerwave had 1,295 full and part-time employees,
+including 960 in manufacturing, 204 in research and development, 50 in sales and
+marketing and 81 in general and administration. None of our employees are
+represented by a union. We believe that our relations with our employees are
+good. Contract Personnel
+Powerwave also utilizes contract personnel hired from third party agencies.
+As of December 31, 2000, Powerwave was utilizing approximately 510 contract
+personnel, primarily in our manufacturing operations. ITEM 2. PROPERTIES
+Our Irvine, California headquarters and manufacturing facility occupy a
+105,000 square foot building under a lease expiring in July 2006. Our sales and
+research and development departments occupy a 34,000 square foot building
+adjacent to our headquarters and manufacturing facility under a lease also
+expiring in July 2006. We have entered into an agreement to terminate the
+leases of these two facilities as of June 30, 2001. We lease a 61,300 square
+foot warehouse space in Irvine, California under a lease expiring in March 2002.
+We plan to vacate this facility during the first quarter of 2001.
+In May 2000, we purchased our new Southern California headquarters and
+manufacturing facility located in Santa Ana, California. This new facility has
+approximately 360,000 square feet, of which 275,000 will be available to us.
+The remaining 85,000 square feet is being sublet to an unrelated third party.
+We have also entered into an agreement to lease a 115,000 square foot warehouse
+facility in Santa Ana, California. The lease on this warehouse facility
+commences on April 15, 2001 and has a expiration date of March 31, 2007.
+We lease 20,000 square feet in El Dorado Hills, California under a lease
+expiring in January 2005 for our Northern California research and development
+staff and we have entered into an agreement to lease an additional 11,500 square
+feet in another facility, also in El Dorado Hills.
+We believe that our new headquarters and manufacturing facility as well as our
+remaining leased facilities provide adequate space for our operations. ITEM 3. LEGAL PROCEEDINGS
+We are subject to various legal proceedings from time to time as part of our
+business. In September 1999, a former customer filed a lawsuit against us. The
+lawsuit alleged, among other things, that we sold defective LMR products to this
+customer from 1994 to 1998. We denied these allegations of wrongdoing. In
+December 2000, the parties settled this lawsuit. The settlement did not have a
+material adverse effect on the Company.
+Powerwave is not currently party to any other legal proceedings, the adverse
+outcome of which, individually or in the aggregate, we believe would have a
+material adverse effect on our business, financial condition and results of
+operations. However, any potential future litigation, regardless of its merits,
+could result in substantial costs to us and divert management attention from
+our operations.
+9 Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+No matters were submitted to a vote of security holders during the fourth
+quarter of 2000.                   PART II
+Item 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+a Powerwave Common Stock is quoted on the Nasdaq National Market System
+under the symbol PWAV. Set forth below are the high and low sales prices as
+reported by Nasdaq for Powerwave Common Stock for the periods indicated.                           High      Low
+Fiscal Year 2000
+First Quarter Ended April 2, 2000. $683333    $152917
+Second Quarter Ended July 2, 2000. $740000    $271667
+Third Quarter Ended October 1, 2000. $520000    $271875
+Fourth Quarter Ended December 31, 2000. $753750    $303750
+Fiscal Year 1999
+First Quarter Ended April 4, 1999. $103958    $ 56042
+Second Quarter Ended July 4, 1999. $122917    $ 72083
+Third Quarter Ended October 3, 1999. $165833    $101250
+Fourth Quarter Ended January 2, 2000. $266875    $159375  There were approximately 90 stockholders of record as of February 28, 2001.
+We believe there are approximately 32,000 stockholders of Powerwave Common
+Stock held in street name. We have not paid any dividends to date and do not
+anticipate paying any dividends on the Common Stock in the foreseeable future.
+We anticipate that all future earnings will be retained to finance future
+growth.
+During fiscal 2000, Powerwave issued an aggregate total of 2,913,100
+nonqualified stock options to purchase Common Stock pursuant to Powerwave 1995
+Plan, 1996 Plan, 2000 Plan and Director Plan to officers, directors and
+employees of Powerwave at prices ranging from $1542 to $7356 per share. Of
+this total, 3,450 options were granted pursuant to the 1995 Plan, 2,162,150
+options were granted pursuant to the 1996 Plan, 537,500 options were granted
+pursuant to the 2000 Plan and 210,000 options were granted pursuant to the 1996
+Director Plan. Exemption from the registration provisions of the Securities Act
+of 1933 the Act is claimed, among other exemptions, with respect to the
+grant of options referred to above, on the basis that the grant of options did
+not involve a sale of securities and, therefore, registration thereof was not
+required and, with respect to the exercise of options referred to above, on the
+basis that such transactions met the requirements of Rule 701 as promulgated
+under Section 3b of the Act.
+On August 23, 2000 we sold a total of 15 million shares of our Common Stock
+at a price per share of $411875 to Deutsche Banc Alex.Brown pursuant to a
+previously filed shelf registration. Total net proceeds after expenses were
+approximately $617 million.
+10 ITEM 6. SELECTED FINANCIAL DATA
+The following selected financial data have been derived from Powerwave
+consolidated statements of operations for the fiscal years ended December 31,
+2000, January 2, 2000 and January 3, 1999, and consolidated balance sheets as of
+December 31, 2000, and January 2, 2000, and have been audited by Deloitte &
+Touche LLP, independent auditors. Powerwave consolidated statements of
+operations for the fiscal years ended December 28, 1997 and December 29, 1996
+and consolidated balance sheets as of January 3, 1999, December 28, 1997 and
+December 29, 1996 which are not included herein, have also been audited by
+Deloitte & Touche LLP, independent auditors. The information set forth below is
+not necessarily indicative of the expectations of results for future operations
+and should be read in conjunction with the consolidated financial statements and
+notes thereto appearing elsewhere in this Annual Report on Form 10-K.                                     Fiscal Years Ended
+December 31,  January 2,  January 3,  December 28 December 29,
+2000     2000     1999     1997    1996
+in thousands, except per share data
+Consolidated Statements of Operations Data:
+Net sales   $447,422   $292,547   $100,231   $119,709   $60,331
+Operating income loss.  $ 64,717   $ 28,725   $ 7,001   $ 23,257   $12,435
+Net income   $ 45,653   $ 20,265   $ 2,966   $ 16,191   $ 7,622
+Basic earnings loss per share 1.  $  075   $  034   $ 006   $  032   $ 022
+Diluted earnings loss per share 2.  $  071   $  033   $ 006   $  031   $ 017
+Basic weighted average common shares 1.   61,953    58,480    51,534    50,874   34,380
+Diluted weighted average common shares 2.   65,313    60,671    51,534    52,308   43,818
+Consolidated Balance Sheet Data:
+Cash and cash   $128,733   $ 76,671   $ 13,307   $ 67,433   $32,386
+Working   $196,733   $118,566   $ 35,210   $ 67,512   $33,243
+Total   $393,797   $223,038   $131,985   $101,683   $46,932
+Long-term   $   42      --   $ 17,621   $  659   $  520
+Total shareholders' equity.  $316,272   $169,779   $ 71,070   $ 75,480   $36,843 1 The 1996 shares outstanding for basic earnings per share includes the
+weighted average common shares outstanding for the year and the conversion
+of 3,375,900 shares of Series A Convertible Preferred Stock into 15,191,550
+shares of Common Stock for the period from December 6, 1996 to December 29,
+1996. Giving effect to our initial public offering in December 1996,
+conversion of Series A Convertible Preferred Stock into shares of Common
+Stock for all of 1996 would have resulted in basic earnings per share of
+$018 and weighted average shares outstanding of 42,543,537.
+2 1996 shares outstanding give effect to the conversion of 3,375,900 shares
+of Series A Convertible Preferred Stock into 15,191,550 shares of Common
+Stock and the reversal of accrued dividends payable thereon which occurred
+upon the completion of our initial public offering of Common Stock on
+December 6, 1996.
+11 ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+The following discussion should be read in conjunction with the consolidated
+financial statements and notes thereto. Results of Operations
+The following table summarizes Powerwave results of operations as a
+percentage of net sales for the fiscal years ended December 31, 2000, January 2,
+2000 and January 3, 1999.                          As a Percentage of Net Sales
+Fiscal Years Ended
+December 31,   January 2,   January 3,
+2000      2000      1999
+Net     1000%      1000%     1000%
+Cost of     682       719      659
+Gross     318       281      341
+Operating expenses:
+Sales and marketing.     47       52      95
+Research and development.     92       90      134
+General and administrative.     34       41      58
+In-process research and development.     --        --      124
+Total operating expenses.    173       183      411
+Operating income loss.    145       98      70
+Other income, net.     13       10      23
+Income loss before income taxes.    158       108      47
+Provision benefit for income taxes.     56       39      17
+Net income loss.    102%       69%     30%
+Years ended December 31, 2000 and January 2, 2000
+Net Sales
+Our net sales are derived primarily from the sale of RF power amplifiers for
+use in wireless communications networks. Sales increased by 53% to $4474
+million for the year ended December 31, 2000 from $2925 million for the year
+ended January 2, 2000. The increase in revenue was primarily attributable to
+increased demand for our products. For the year ended December 31, 2000, total
+sales of products for networks in the 800-1000 MHz range including both single
+and multi-carrier RF power amplifiers and associated equipment accounted for
+approximately 78% of revenues or $3483 million, compared to approximately 74%
+or $2150 million for the year ended January 2, 2000. Sales of RF power
+amplifiers and associated products for networks in the 1800-2000 MHz range
+consisting mainly of single carrier RF power amplifiers accounted for
+approximately 21% of revenues or $961 million for the year ended December 31,
+2000, compared to approximately 26% or $768 million for the year ended January
+2, 2000. Sales of amplifiers for use in networks over 2100 MHz accounted for
+approximately 1% of sales or $30 million for the year ended December 31, 2000
+and no revenue for the prior year. We currently expect that sales of amplifiers
+for use in networks over 2100 MHz will account for a significantly larger
+percentage of sales in the future.
+We track the geographic location of our sales based upon the location to which
+we ship products. Since many of our customers receive products from us at
+central locations and then reship the product with other base station equipment
+to locations throughout the world, we are not able to identify the final
+installation location of our products. Based upon the location to which we ship
+our products, North America has accounted for the majority of
+12 our sales. Sales to customers in North America accounted for approximately 79%
+of revenue or $3527 million for the year ended December 31, 2000 compared with
+approximately 67% of revenue or $1953 million for the year ended January 2,
+2000. Our total international sales excluding North American sales accounted
+for approximately 21% of revenues or $947 million for the year ended December
+31, 2000, compared with approximately 33% or $973 million for the year ended
+January 2, 2000. Total Asian sales accounted for approximately 10% of revenues
+or $446 million for the year ended December 31, 2000 compared to approximately
+21% of revenues or $622 million for the year ended January 2, 2000. See
+Additional Factors That May Affect Future Results--A Significant Amount of Our
+Revenues Comes from a Few Customers; --Our Success is tied to the Growth of the
+Wireless Service Market: and --There are Many Risks Associated With
+International Operations.
+For fiscal 2000, total sales to Nortel accounted for approximately 47% of
+revenues and sales to the following customers in alphabetical order, Cingular
+Wireless, Ericsson and Verizon Wireless each accounted for over 5% of revenues
+for the year. We cannot guarantee that we will continue to be successful in
+attracting new customers or retaining or increasing business with our existing
+customers. In addition, we believe that a significant portion of our business
+with OEMs, such as Ericsson, Lucent, Nokia and Nortel, is dependent upon the
+deployment schedules of wireless network operators who are purchasing
+infrastructure equipment from such OEMs and on such OEMs' strategy concerning
+the outsourcing of RF power amplifiers. A number of factors may cause delays in
+wireless infrastructure deployment schedules for both North American and
+international deployments, including deployments in Europe, Brazil, Asia, South
+America and other areas. Such factors include economic or political problems in
+the wireless operator operating region, delays in government approvals
+required for system deployment, delays in the development of new network
+architecture, reduced subscriber demand for wireless services and high costs of
+wireless spectrum licenses and network infrastructure.  In addition, a number
+of factors may cause OEMs to alter their outsourcing strategy concerning RF
+power amplifiers, which could cause such OEMs to reduce or eliminate their
+demand for external supplies of RF power amplifiers.  Such factors include
+lower perceived internal manufacturing costs and competitive reasons to remain
+vertically integrated. Some OEMs such as Ericsson, have acquired our
+competitors to strengthen their vertical integration. Due to the possible
+uncertainties associated with wireless infrastructure deployments and OEM
+demand, we have experienced and expect to continue to experience significant
+fluctuations in demand from our OEM customers. Such fluctuations can cause a
+significant reduction in revenues or reduction in operating income which could
+have a material adverse effect on our business, financial condition and results
+of operations. See Additional Factors That May Affect Future Results --A
+Significant Amount of Our Revenues Comes from a Few Customers; --There are Many
+Risks Associated With International Operations; and --Our Quarterly Results
+Fluctuate Significantly.
+Gross Profit
+Cost of sales consists primarily of raw materials, assembly and test labor,
+overhead and warranty costs. Gross profit margins for fiscal 2000 and 1999 were
+318% and 281%, respectively. The increase in gross margins during fiscal
+2000 as compared to fiscal 1999 was primarily due to the final closure of the
+acquired Folsom manufacturing facility in the fourth quarter of 1999 and the
+resulting improvements in manufacturing operating costs in fiscal 2000 as
+compared to fiscal 1999. Also during fiscal 2000, sales of multi-carrier RF
+power amplifier products accounted for a greater percentage of product sales
+when compared to fiscal 1999. Our multi-carrier RF power amplifier products
+have traditionally carried higher margins than our single carrier RF power
+amplifier products. While we continue to strive for manufacturing and
+engineering cost reductions to offset pricing pressures on our products, we
+currently expect that our next generation multi-carrier products will not obtain
+the level of gross margins that our multi-carrier products have historically
+obtained. There can be no assurance that our cost reduction or redesign efforts
+will keep pace with price declines and cost increases. If we are unable to
+obtain cost reductions through our manufacturing and or engineering efforts, our
+gross margins and profitability will continue to be adversely affected. See
+Additional Factors That May Affect Future Results--Our Average Sales Prices are
+Declining.
+As part of our acquisition in October 1998 of Hewlett-Packard Company HP
+RF power amplifier business for approximately $659 million the HP
+Acquisition we completed an allocation of the purchase price of the
+acquisition to both the tangible and intangible assets and liabilities acquired
+in the acquisition. The purchase price allocation is included in our financial
+statements for the year ended January 3, 1999, and includes an allocation of
+$115 million to developed technology acquired and $02 million to workforce.
+These amounts were capitalized and are being amortized on a straight-line basis
+over five and ten years, respectively, and such amortization is included
+13 in cost of sales. For both fiscal 2000 and 1999, approximately $23 million was
+amortized and included in cost of sales. See Note 17 of the Notes to
+Consolidated Financial Statements for more information concerning the purchase
+price allocation associated with the HP Acquisition. As an additional part of
+the HP Acquisition, we assumed certain specific liabilities from HP related to
+the acquired business, including certain warranty obligations. During fiscal
+2000 and 1999, we incurred warranty expenses of approximately $04 million and
+$07 million respectively, which were offset against specific liabilities
+assumed in the acquisition.
+The wireless communications infrastructure equipment industry is extremely
+competitive and is characterized by rapid technological change, new product
+development and product obsolescence, evolving industry standards and
+significant price erosion over the life of a product. Due to these competitive
+pressures, we expect that average sales prices of our products will continue to
+decrease. We have introduced new products at lower sales prices. These lower
+sales prices have impacted the average sales prices of our products. Future
+pricing actions by us and our competitors may also adversely impact our gross
+profit margins and profitability, which could also result in decreased liquidity
+and adversely affect our business, financial condition and results of
+operations. See Additional Factors That May Affect Future Results--We Must
+Develop and Sell New Products in Order to Keep Up With Rapid Technological
+Change.
+Operating Expenses
+Sales and marketing expenses consist primarily of sales commissions, salaries,
+other expenses for sales and marketing personnel, travel expenses, charges for
+customer demonstration units, reserves for credit losses and trade show
+expenses. Sales and marketing expenses increased by 40% to $212 million for
+the year ended December 31, 2000 from $152 million for the year ended January
+2, 2000. As a percentage of sales, sales and marketing expenses were 47% and
+52% for the years ended December 31, 2000 and January 2, 2000, respectively.
+The increase in sales and marketing expenses in absolute dollars was primarily
+attributable to increases in sales commission costs and increased staffing
+levels associated with our increased revenues. For both fiscal 2000 and fiscal
+1999, a total of approximately $08 million related to the customer list and
+non-compete agreement acquired in the HP Acquisition has been amortized and
+included in sales and marketing expenses.  See Note 17 of the Notes to
+Consolidated Financial Statements for more information concerning the purchase
+price allocation associated with the HP Acquisition.
+Research and development expenses include ongoing RF power amplifier design
+and development expenses, as well as those design expenses associated with
+reducing the cost and improving the manufacturability of existing RF power
+amplifiers. Current programs include PCS, cellular and third generation 3G
+products. Research and development expenses increased by 56% to $411 million
+for the year ended December 31, 2000 from $263 million for the year ended
+January 2, 2000. Research and development expenses as a percentage of sales for
+the years ended December 31, 2000 and January 2, 2000 were 92% and 90 respectively. The increase in actual research and development expenses was
+primarily due to increased staffing and associated engineering costs related to
+continued new product development and existing product enhancement efforts.
+General and administrative expenses consist primarily of salaries and other
+expenses for management, finance, information systems, facilities maintenance
+and human resources. General and administrative expenses increased by 27% to
+$153 million for the year ended December 31, 2000 from $121 million for the
+year ended January 2, 2000. General and administrative expenses as a percentage
+of sales for the years ended December 31, 2000 and January 2, 2000 were 34% and
+41%, respectively. The increase in general and administrative expenses in
+absolute dollars is primarily attributable to increased staffing costs
+associated with supporting our increased revenues and personnel.
+As part of the purchase price allocation of the HP Acquisition, an allocation
+of approximately $46 million, reflecting the value of goodwill acquired was
+capitalized on our balance sheet. This amount is being amortized over ten years
+and is included in general and administrative expenses. For both the year ended
+December 31, 2000 and the year ended January 2, 2000, approximately $05 million
+was amortized and included in general and administrative expenses. For more
+information concerning the purchase price allocation associated with the HP
+Acquisition, see Note 17 of the Notes to Consolidated Financial Statements.
+14 Other Income
+The Company earned other income, net, of $61 million in fiscal 2000 compared
+to $28 million for fiscal 1999. Other income consists primarily of interest
+income, net of any interest expense and net tenant rental income from a tenant
+in the building we purchased in May 2000.  The increase in other income is
+primarily due to increased net interest income as a result of higher average
+cash balances during fiscal 2000 as compared to fiscal 1999 as well as the
+addition of net tenant rental income of approximately $05 million.
+Provision Benefit for Income Taxes
+Our effective tax rate was 355% and 358% for the years ended December 31,
+2000 and January 2, 2000, respectively. The slight decrease in our effective
+tax rate was due to tax benefits from international sales and research and
+development tax credits. Years ended January 2, 2000 and January 3, 1999
+Net Sales
+Sales increased by 192% to $2925 million for the year ended January 2, 2000
+from $1002 million for the year ended January 3, 1999. The increase in revenue
+was primarily attributable to increased demand for our products. Fiscal 1999
+includes revenues from the sales of products acquired in the HP Acquisition,
+which are only included in the results for the fourth quarter of fiscal 1998.
+For the year ended January 2, 2000, total sales of products for networks on the
+800-1000 MHz range including both single and multi-carrier RF power amplifiers
+and associated equipment accounted for approximately 74% of revenues or $2150
+million, compared to approximately 77% or $773 million for the year ended
+January 3, 1999. Sales of RF power amplifiers and associated products for
+networks in the 1800-2000 MHz range consisting mainly of single carrier RF
+power amplifiers accounted for approximately 26% of revenues or $768 million
+for the year ended January 2, 2000, compared to approximately 20% or $196
+million for the year ended January 2, 1999. Sales of RF power amplifiers for
+use in 400-450 MHz networks accounted for less than 1% of revenues or $07
+million for the year ended January 2, 2000, compared to approximately 3% of
+revenues or $31 million for the year ended January 3, 1999.  The reduction of
+sales of these products is due to both our divestiture of certain of these
+products and our strategic decision to no longer focus resources on this area.
+Total North American sales accounted for approximately 67% of revenues or
+$1953 million for the year ended January 2, 2000 compared with approximately
+59% of revenue or $590 million for the year ended January 3, 1999. Total
+international sales excluding North American sales, accounted for
+approximately 33% of revenues or $973 million for the year ended January 2,
+2000, compared with approximately 41% or $412 million for the year ended
+January 3, 1999. Total Asian sales accounted for approximately 21% of revenues
+or $622 million for the year ended January 2, 2000 compared to approximately
+30% of revenues or $302 million for the year ended January 3, 1999. For fiscal
+1999, total sales to Nortel accounted for approximately 41% of our revenues. In
+addition, sales to the following customers in alphabetical order, Ericsson,
+LG, Lucent and Samsung, each accounted for over 5% of revenues for fiscal 1999.
+For fiscal 1998 four customers in alphabetical order, Cingular Wireless, LG,
+Nortel and Samsung each accounted for more than 10% of our sales.
+Gross Profit
+Gross profit margins for fiscal 1999 and 1998 were 281% and 341 respectively. The decrease in gross margins compared to the prior year period
+was a result of several factors, including increased labor and overhead costs
+associated with the significant ramp-up of production personnel and facilities
+at our Southern California manufacturing facility due to increased demand for
+our products and the transition of the acquired Folsom manufacturing activities
+to Southern California during fiscal 1999. The final transition of the Folsom
+manufacturing activities was completed in the fourth quarter of fiscal 1999. In
+addition, our sales during fiscal 1999 as compared to fiscal 1998 also included
+a larger percentage of single carrier RF power amplifiers, which traditionally
+carry lower gross margins than multi-carrier RF power amplifiers.
+15  For fiscal 1999 and 1998, approximately $23 million and $07 million,
+respectively, related to developed technology and workforce assets acquired in
+the HP Acquisition were amortized and included in cost of sales. During fiscal
+1999 and 1998, we incurred warranty expenses of approximately $07 million and
+$02 million respectively, which were offset against specific liabilities
+assumed in the HP Acquisition. See Note 17 of the Notes to the Consolidated
+Financial Statements for more information concerning the purchase price
+allocation associated with the HP Acquisition.
+Operating Expenses
+Sales and marketing expenses increased by 59% to $152 million for the year
+ended January 2, 2000 from $95 million for the year ended January 3, 1999. As
+a percentage of sales, sales and marketing expenses were 52% and 95% for the
+years ended January 2, 2000 and January 3, 1999, respectively. The increase in
+sales and marketing expenses in absolute dollars was primarily attributable to
+increases in sales commission costs and increased staffing levels associated
+with our increased revenues. For fiscal 1999 and 1998, approximately $08
+million and $02 million, respectively, related to a customer list and a non-
+compete agreement acquired in the HP Acquisition were amortized and included in
+sales and marketing expenses.  See Note 17 of the Notes to Consolidated
+Financial Statements for more information concerning the purchase price
+allocation associated with the HP Acquisition.
+Research and development programs included PCS, cellular and wireless local
+loop products and 3G products. Research and development expenses increased by
+95% to $263 million for the year ended January 2, 2000 from $135 million for
+the year ended January 3, 1999. Research and development expenses as a
+percentage of sales for the years ended January 2, 2000 and January 3, 1999 were
+90% and 134%, respectively. The increase in actual research and development
+expenses was primarily due to increased staffing and associated engineering
+costs related to continued new product development and existing product
+enhancement efforts.
+General and administrative expenses increased by 109% to $121 million for the
+year ended January 2, 2000 from $58 million for the year ended January 3, 1999.
+General and administrative expenses as a percentage of sales for the years ended
+January 2, 2000 and January 3, 1999 were 41% and 58%, respectively. The
+increase in general and administrative expenses in absolute dollars is primarily
+attributable to increased staffing costs associated with supporting our
+increased revenues and personnel. In addition, as part of the purchase price
+allocation of the HP Acquisition, an allocation of approximately $46 million,
+reflecting the value of goodwill acquired, was capitalized on our balance sheet.
+This amount is amortized over ten years and included in general and
+administrative expenses.
+As part of the purchase price allocation of the HP Acquisition, our financial
+statements for the year ended January 3, 1999 include the one-time charge of
+$124 million for the write-off of acquired in-process research and development
+expenses associated with the HP Acquisition. The in-process research and
+development expenses arose from new product projects that were under development
+at the date of the acquisition and expected to eventually lead to new products
+but had not yet established technological feasibility and for which no future
+alternative use was identified. The valuation of the in-process research and
+development projects was based upon the discounted expected future net cash
+flows of the products over the products expected life, reflecting the estimated
+stage of completion of the projects and the estimate of the costs to complete
+the projects.
+Other Income
+The Company earned other income, net, of $28 million in fiscal 1999 compared
+to $23 million for fiscal 1998. Other income consists primarily of interest
+income, net of any interest expense.  To fund a portion of the HP Acquisition,
+we borrowed $250 million under a secured bank credit facility in October 1998.
+We repaid this facility in full in March 1999. We had total interest expense of
+approximately $06 million for fiscal 1999 and fiscal 1998.
+16 Provision Benefit for Income Taxes
+Our effective tax rate was 358% and 365% for the years ended January 2, 2000
+and January 3, 1999, respectively. The decrease in our effective tax rate was
+due to tax benefits from international sales and research and development tax
+credits. Liquidity and Capital Resources
+We have historically financed our operations primarily through a combination
+of cash on hand, cash provided from operations, equipment lease financings,
+available borrowings under bank lines of credit and both private and public
+equity offerings. As of December 31, 2000, we had working capital of $1967
+million, including $1287 million in cash and cash equivalents as compared with
+working capital of $1186 million at January 2, 2000, which included $767
+million in cash and cash equivalents.
+Our net accounts receivable increased to $800 million at December 31, 2000
+from $475 million at January 2, 2000, consistent with the significant increase
+in our revenues during fiscal 2000 as compared to fiscal 1999. Net inventory
+increased to $513 million at December 31, 2000, from $317 million at January
+2, 2000. Cash provided by operations was approximately $576 million in fiscal
+2000, compared with cash provided by operations of $396 million in fiscal 1999
+and cash used in operations of $87 million in fiscal 1998.  The increase in
+cash provided by operations in fiscal 2000 as compared to fiscal 1999 is
+primarily due to increased net income, as well as increased depreciation and
+amortization, offset by cash flow effects due to changes in operating assets and
+liabilities.
+On May 31, 2000, we paid $353 million for a 360,000 square foot facility
+located on approximately 22 acres of land in Santa Ana, California, which we
+plan to use as our Southern California headquarters and manufacturing facility.
+We have begun the process of consolidating our Southern California manufacturing
+operations, engineering, sales and headquarters facility to this facility and we
+anticipate completing this process by the end of the first quarter of fiscal
+2001. As of December 31, 2000 we had spent approximately $80 million on capital
+improvements to this facility. The majority of the remaining amount of capital
+spending during fiscal 2000 represents spending on electronic test equipment
+utilized in our manufacturing and research and development areas. Total capital
+spending for fiscal 2000 was approximately $841 million. The majority of
+spending during fiscal 1999 represented spending on electronic test equipment
+utilized in our manufacturing and research and development areas.  In addition,
+capital spending for fiscal 1999 included a total of $35 million in leasehold
+improvement costs. These leasehold improvements related to the expansion of our
+manufacturing facility in Irvine, California, the relocation of our engineering
+and sales departments to an adjacent leased building in Irvine, California, and
+the relocation of our Northern California based engineering staff to a leased
+facility in El Dorado Hills, California.
+As part of the HP Acquisition, we acquired HP manufacturing and research and
+development facility in Folsom, California. We transferred production from the
+Folsom manufacturing facility to our Irvine facility. On July 15, 1999, we sold
+the Folsom facility for approximately $84 million. We received a consideration
+of approximately $0925 million in cash before expenses and an interest-free
+note for $7475 million due December 31, 1999. The note was secured by the
+land, land improvements and building. In exchange for the interest-free note,
+we entered into a rent-free lease with the buyer of the Folsom facility through
+December 31, 1999. In December 1999, the note receivable on the Folsom facility
+was amended to extend the maturity date to January 27, 2000 and to apply an
+annual interest rate of 8% beginning December 31, 1999. The buyer of the Folsom
+facility made an additional principal payment of $500,000 on December 30, 1999.
+The remaining balance of $6975 million was paid on January 27, 2000 along with
+all accrued interest.
+On April 28, 1998 we purchased $25 million of 1375% Senior Secured Bridge
+Notes due April 28, 2000 the Notes from Metawave Communications Corporation
+Metawave, a supplier of smart antennas to the wireless communications
+market and a customer, in a private offering. The total amount raised in this
+private offering was $290 million. The Notes initially accrued interest at a
+rate of 1375% per annum and interest was payable semi-annually. The Notes
+contained provisions to increase the rate of interest during the life of the
+Notes if the Notes were not repaid prior to maturity. The Notes were secured by
+certain assets of Metawave and were redeemed in full on April 28, 1999. Upon the
+issuance of the Notes, we received related warrants to purchase
+17 53,576 shares of Metawave Series D Preferred Stock at a price of $01 per share.
+We exercised these warrants in April 1999. These shares of Series D Preferred
+Stock were converted into 51,420 shares of Metawave Common Stock upon Metawave
+initial public offering in May 2000. The market value of these securities is
+approximately $05 million at December 31, 2000, and is included in prepaid
+expenses and other current assets in the accompanying consolidated balance
+sheets.
+Net cash provided by financing activities was $715 million for fiscal 2000,
+compared with $399 million for fiscal 1999. On August 23, 2000 we sold 15
+million shares of our Common Stock at a price per share of $411875 to Deutsche
+Banc Alex.Brown pursuant to a previously filed shelf registration. Total net
+proceeds after expenses were approximately $617 million. During the first
+quarter of 1999 we received net proceeds of approximately $578 million from a
+public offering of 69 million shares adjusted to reflect a three-for-one stock
+split on May 15, 2000 of our Common Stock. In addition, in March 1999 we
+utilized approximately $228 million of the 1999 proceeds to retire all
+outstanding bank debt associated with the HP Acquisition.
+On June 16, 2000 we entered into a revolving credit agreement with Comerica
+Bank-California, dated as of May 26, 2000. The credit facility provides for a
+revolving line of credit up to a maximum principal amount outstanding at any one
+time of $20 million the Revolving Commitment Amount. We are required to pay
+a commitment fee of 025% per annum on the unused portion of the Revolving
+Commitment Amount. The commitment fee is payable quarterly in arrears. The
+revolving credit facility allows for borrowings based either upon the bank
+prime rate 95% at December 31, 2000 or the bank LIBOR rate plus an
+applicable LIBOR Margin of 125% or 150%, based upon our debt leverage ratio.
+There were no amounts outstanding as of December 31, 2000. The revolving credit
+facility terminates on May 31, 2001. The revolving credit facility contains
+certain standard affirmative and negative covenants, including limitations on
+future indebtedness, restricted payments, transactions with affiliates, liens,
+dividends, mergers, transfers of assets and leverage ratios. We were in
+compliance with all covenants contained in the revolving credit facility at
+December 31, 2000. The full $20 million of the Revolving Commitment Amount was
+available to us at December 31, 2000.
+We had cash and cash equivalents of $1287 million at December 31, 2000,
+compared with $767 million at January 2, 2000. We regularly review our cash
+funding requirements and attempt to meet those requirements through a
+combination of cash on hand, cash provided by operations, available borrowings
+under any credit facilities, financing through equipment lease transactions, and
+possible future public or private debt and/or equity offerings. We invest our
+excess cash in short-term, investment-grade money market instruments.
+We currently believe that our existing cash balances and funds expected to be
+generated from operations will provide us with sufficient funds to finance our
+operations for at least the next 12 months.  For fiscal 2001, we currently
+anticipate capital spending on equipment to be in the range of $30 million to
+$45 million. In addition to property and equipment purchases, during the first
+quarter of 2001 we plan to spend approximately $10 million to make capital
+improvements to our new Southern California manufacturing and headquarters
+facility. Currently, we plan to fund these expenditures from our existing cash
+balances. However, in the past, we have utilized both operating and capital
+lease financing for certain equipment purchases used in our manufacturing and
+research and development operations and expect to continue to selectively do so
+in the future. We may in the future require additional funds to support our
+working capital requirements or for other purposes, and may seek to raise such
+additional funds through the sale of public or private equity and/or debt
+financings or from other sources. No assurance can be given that additional
+financing will be available in the future or that if available, such financing
+will be obtainable on terms favorable to us or our stockholders when we may
+require it. Disclosure About Foreign Currency Risk
+A significant portion of our revenues have been derived from international
+sources, with our international customers accounting for approximately 21% of
+fiscal 2000 net sales, 33% of our fiscal 1999 net sales and 41% of our fiscal
+1998 net sales. We regularly pursue new customers in various domestic and
+international locations where new deployments or upgrades to existing wireless
+communication networks are planned. Such international locations include Europe
+and South America, where there has been instability in several of the region
+currencies, including the Brazilian Real. Although we currently invoice all of
+our customers in U.S. Dollars, changes in the
+18 value of the U.S. Dollar versus the local currency in which our products are
+sold, along with the economic and political conditions of such foreign
+countries, could adversely affect our business, financial condition and results
+of operations. In addition, the weakening of an international customer local
+currency and banking market may negatively impact such customer ability to
+meet their payment obligations to us. Although we currently believe that our
+international customers have the ability to meet all of their obligations to us,
+there can be no assurance that they will continue to be able meet such
+obligations. We regularly monitor the credit worthiness of our international
+customers and make credit decisions based on both prior sales experience with
+such customers as well as current financial performance and overall economic
+conditions. We may decide in the future to offer certain foreign customers
+extended payment terms and/or sell certain products or services in the local
+currency of such customers. If we sell products or services in a foreign
+currency, our results of operations and gross margins may be affected by changes
+in currency exchange rates.
+Several of the international markets in which we sell our products have
+experienced significant weaknesses in their currencies, banking systems and
+equity markets in the last few years.  Such weaknesses could negatively impact
+demand for wireless services and thereby reduce demand for our products. Such a
+reduction in demand for our products could have a negative impact on our future
+sales and gross margins. Our foreign customers currently pay for our products
+with U.S. Dollars. The past strengthening of the U.S. Dollar as compared to the
+Brazilian Real or the South Korean Won, effectively increased the cost of our
+products by as much as 100% or more for our Brazilian and South Korean
+customers.  Such a significant increase in the local currency based cost of
+such products makes them less attractive to such customers.  Accordingly,
+changes in exchange rates, and in particular a strengthening of the U.S. Dollar,
+may negatively impact our future sales and gross margins. For further
+discussion of the risks associated with our international sales, see Additional
+Factors That May Affect Future Results--There are Many Risks Associated With
+International Operations. European Monetary Union
+Within Europe, the European Economic and Monetary Union the EMU introduced
+a new currency, the euro, on January 1, 1999. The new currency is in response
+to the EMU policy of economic convergence to harmonize trade policy, eliminate
+business costs associated with currency exchange and to promote the free flow of
+capital, goods and services.
+On January 1, 1999, the participating countries adopted the euro as their
+local currency, initially available for currency trading on currency exchanges
+and non-cash transactions such as banking. The existing local currencies, or
+legacy currencies, will remain legal tender through January 1, 2002. Beginning
+on January 1, 2002, euro-denominated bills and coins will be issued for cash
+transactions. For a period of up to six months from this date, both legacy
+currencies and the euro will be legal tender. On or before July 1, 2002, the
+participating countries will withdraw all legacy currencies and exclusively use
+the euro.
+Currently all of our transactions are recorded in U.S. Dollars and we do not
+currently anticipate future sales transactions being recorded in the euro.
+Based on the lack of transactions recorded in the euro, we do not believe that
+the euro will have a material effect on our financial position, results of
+operations or cash flows.  In addition, we have not incurred and do not expect
+to incur any significant costs from the continued implementation of the
+19 euro, including any currency risk, which could materially affect our business,
+financial condition and results of operations.
+We have not experienced any significant operational disruptions to date due to
+the euro and do not currently expect the continued implementation of the euro to
+cause any significant operational disruptions. New Accounting Pronouncements
+Statement of Financial Accounting Standards SFAS No. 133, Accounting for
+Derivative Instruments and Hedging Activities is effective for all fiscal years
+beginning after June 15, 2000. SFAS No. 133 as amended, establishes accounting
+and reporting standards for derivative instruments including certain derivative
+instruments embedded in other contracts and for hedging activities. Under SFAS
+No. 133, certain contracts that were not previously considered derivatives may
+now meet the definition of a derivative. We will adopt SFAS No. 133 effective
+January 1, 2001 and we believe that such adoption will not have a material
+impact on our consolidated financial statements.
+In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin SAB No. 101, Revenue Recognition in Financial
+Statements, which we adopted in the fourth fiscal quarter of 2000. Adoption of
+SAB No. 101 did not have a material impact on the our consolidated financial
+statements.
+In March 2000, the FASB issued FASB Interpretation No. 44, Accounting for
+Certain Transactions Involving Stock Compensation, an Interpretation of
+Accounting Principles Board APB Opinion No. 25, Accounting for Stock Issued
+to Employees FIN 44. FIN 44 clarifies the application of APB No. 25 for the
+following: the definition of employee for purposes of applying APB No. 25; the
+criteria for determining whether a plan qualifies as a non-compensatory plan;
+the accounting consequence for various modifications to the terms of a
+previously fixed stock option or award; and the accounting for an exchange of
+stock compensation awards in a business combination. We adopted FIN 44 effective
+July 1, 2000 and such adoption did not have a material impact on our
+consolidated financial statements. Additional Factors That May Affect Our Future Results
+Our future operating results may be impacted by a number of factors that could
+cause our actual results to differ materially from those stated herein, which
+reflect our current expectations. These factors include the following. the ability to add new customers to reduce our dependence on any one
+customer while maintaining our existing customers;. the ability to increase demand for our products from major wireless
+infrastructure OEMs;. the ability to produce both new and existing products which meet the quality
+standards of both our existing and potential new customers;. the ability to ramp-up production of new products in both a timely and cost
+effective manner;. industry specific factors, including slowdown in demand for wireless
+communications and RF power amplifiers;. the impact of any reduction in demand for our products;. the ability to timely develop and produce commercially viable products at
+competitive prices;. the ability to maintain a stable and reliable source of electricity to
+support our operations at a reasonable cost;. the ability to manage rapid change in demand for our products;. the availability and cost of components;. the ability to finance our activities and maintain our financial liquidity;. the ability of our products to operate and be compatible with various OEMs'
+base station equipment;. worldwide and regional economic downturns and unfavorable political
+conditions                    20. the ability to manage expense levels;. the ability to manage future product repairs; and. the ability to accurately anticipate customer demand. A Significant Amount of Our Revenues Comes from a Few Customers
+We sell most of our products to a small number of customers, and we expect
+that this will continue. We believe that our future success depends upon our
+ability to broaden our customer base and maintain relationships with major
+wireless original equipment manufacturers, or OEMs, such as Ericsson, LG,
+Lucent, Motorola, Nokia, Nortel and Samsung as well as major operators of
+wireless networks, such as AT Wireless, Cingular Wireless and Verizon
+Wireless.
+Our dependence on a small number of major customers exposes us to numerous
+risks, including. slowdowns or delays in deployment of wireless networks that reduce customer
+demand for our products;. changes in customer forecasts and demand;. customers leveraging their buying power to change the terms of pricing,
+payment and product delivery schedules; and. direct competition should a customer decide to manufacture RF power
+amplifiers internally.
+For fiscal 2000, our largest customer was Nortel, which accounted for
+approximately 47% of our net sales. Also, for fiscal 2000, our next three
+largest customers in alphabetical order, Cingular Wireless, Ericsson and
+Verizon Wireless, each accounted for more than 5% of our net sales. The loss of
+any one of these customers, or a significant loss, reduction or rescheduling of
+orders from any of our customers, would have a material adverse effect on our
+business, results of operations and financial condition. In February 2001,
+Nortel announced that it was lowering its expectations for wireless
+infrastructure demand for the year 2001. Any significant reduction in demand by
+Nortel will have an adverse effect on our business, results of operations and
+financial condition.
+The risks related to our customer concentration were magnified in 1998 due
+certain of our customer geographic concentration in South Korea which
+experienced an economic and financial crisis during 1998. For fiscal 1998, our
+South Korean customers accounted for $302 million, or approximately 30% of
+total net sales. This was a significant drop from 1997, when our South Korean
+customers accounted for $993 million, or approximately 83% of our total net
+sales. During fiscal 2000 our South Korean customers accounted for
+approximately 8% of total sales or $341 million and in fiscal 1999 they
+accounted for approximately 21% of our total net sales or $622 million.
+We believe that continued purchases of our products by OEMs is dependent upon
+many factors, including the OEMs' view of utilizing third party suppliers of RF
+power amplifiers. During fiscal 2000, Ericsson purchased Microwave Power
+Devices, one of our competitors. Any shift in demand by an OEM away from
+utilizing third party suppliers of RF amplifiers could have a negative impact on
+our business, results of operations and financial condition. Additionally, OEM
+purchases are impacted by their current view of wireless infrastructure
+deployments and could be significantly reduced due to any delays of such
+deployments. A number of factors may cause delays in wireless infrastructure
+deployments, including the following factors. economic or political problems in the wireless operator operating region;. delays in government approvals required for system deployment;. higher than anticipated network infrastructure costs;. technical delays in the development of new wireless protocols, such as 3G,
+and;. reduced subscriber demand for wireless services.
+In addition, from time to time OEMs may purchase products from us on a large
+quantity basis over a short period of time which may cause demand for our
+products to change rapidly. Due to these and other possible
+21 uncertainties associated with wireless infrastructure deployments and OEMs'
+purchasing strategies, we may experience significant fluctuations in demand from
+our OEM customers. Such fluctuations could cause a significant increase in
+demand which could exceed our production capacity and could negatively impact
+our ability to meet customers' demands as well as could potentially impact
+product quality. Alternatively, such fluctuations could cause a significant
+reduction in revenues which could have a material adverse effect on our
+business, results of operations and financial condition. We cannot guarantee
+that a major customer will not reduce, delay or eliminate purchases from us,
+which could have a material adverse effect on our business, results of
+operations and financial condition.
+Our Quarterly Results Fluctuate Significantly
+We have experienced, and will continue to experience, significant fluctuations
+in sales and operating results from quarter to quarter. Our quarterly results
+fluctuate due to a number of factors, any of which could have a material adverse
+effect on our business, results of operations and financial condition. Factors
+that could cause our results of operations to vary include the following. variations in the timing, cancellation, or rescheduling of customer orders
+and shipments;. variations in manufacturing costs, capacities and efficiencies;. capacity and production constraints, including constraints associated with
+single-source component suppliers;. delays in qualification by customers of new products or redesigns or delays
+in qualification of new production facilities;. product failures and associated in-field service support costs;. cancellations or reductions of customer orders and shipments due to economic
+slowdowns in the customers' operating regions;. cancellations or rescheduling of customer orders and shipments due to excess
+inventory levels caused by changes in demand or deployment schedules at the
+customer;. competitive factors, including pricing, availability and demand for
+competing amplification products;. warranty expenses;. the availability and cost of components;. the timing, availability and sale of new products by us or our competitors;. changes in the mix of products having differing gross margins;. changes in average sales prices;. long sales cycles associated with our products;. variations in product development and other operating expenses;. discounts given to certain customers for large volume purchases;. interruptions in the supply of electricity and significant increases in the
+cost of electricity; and. high fixed expenses that increase operating expenses, especially during a
+quarter with a sales shortfall.
+In addition, while we periodically receive order forecasts from our major
+customers, such customers generally have no binding obligation to purchase the
+forecasted amounts. See --A Significant Amount of Our Revenues Comes From a
+Few Customers. Order deferrals and cancellations by our customers, declining
+average sales prices, changes in the mix of products sold, delays in the
+introduction of new products and longer than anticipated sales cycles for our
+products have in the past adversely affected our quarterly results of
+operations. We cannot guarantee that our quarterly results of operations will
+not be similarly adversely affected in the future.
+Our sales to customers are usually made under purchase orders with short
+delivery requirements. While we receive periodic order forecasts, customers
+generally have no obligation to purchase the forecasted amounts and may cancel
+orders, change delivery schedules or change the mix of products ordered with
+minimal notice. In spite of these limitations, we maintain significant work-in-
+progress and raw materials inventory as well as increased levels of technical
+production staff to meet estimated order forecasts. If customers purchase less
+than the forecasted amounts or cancel or delay existing purchase orders, we will
+have higher levels of inventory that face a greater risk
+22 of obsolescence and excess production staff. If our customers desire to purchase
+products in excess of the forecasted amounts or in a different product mix, we
+may lack the inventory or manufacturing capacity to fill their orders. Either
+situation could have a material adverse effect upon our business, financial
+condition and results of operations and future business with such customers.
+Due to these factors, our past results are not reliable indicators of our
+future performance. Current operating profitability may fall, and future
+revenues and operating results may not meet the expectations of public market
+analysts and investors. In either case, the price of our Common Stock could be
+materially adversely affected. See --Our Stock Price Has Been and May Continue
+to Be Volatile.
+Our Average Sales Prices are Declining
+Our average sales prices have declined, and we anticipate that the average
+sales prices for our products will continue to decline and negatively impact our
+gross profit margins. Wireless service providers are placing increasing price
+pressure on wireless infrastructure manufacturers, which in turn has resulted in
+downward pricing pressure on our products. Competition among third-party
+suppliers also has increased the downward price pressure on our products. Since
+wireless infrastructure manufacturers frequently negotiate supply arrangements
+far in advance of delivery dates, we must often commit to price reductions for
+our products before we know how, or if, we can obtain such cost reductions. In
+addition, average sales prices are affected by price discounts negotiated for
+large volume purchases by certain customers. To offset declining average sales
+prices, we must reduce manufacturing costs and ultimately develop new products
+with lower costs or higher average sales prices. If we cannot achieve such cost
+reductions or product improvements, our gross margins will continue to decline.
+Sales of single carrier RF power amplifiers have been subject to intense price
+competition and historically have carried lower gross profit margins than our
+multi-carrier RF power amplifier products. If we cannot reduce manufacturing
+costs on our single carrier RF power amplifiers and such RF power amplifiers
+continue to account for a significant percentage of our net sales, our overall
+gross profit margins will fall. In addition, we currently expect that 3G multi-
+carrier RF power amplifiers will have lower gross margins than our 2G multi-
+carrier products. If we are unable to continue to reduce our manufacturing
+costs on all of our products, our gross margins will decline.
+Our Failure to Manage Future Growth Could Have Adverse Effects
+Our ability to compete effectively and manage future growth depends on our
+ability to. effectively expand, train and manage our work force, particularly in
+response to fluctuations in demand for various products;. manage production and inventory levels to meet product demand and new
+product introductions;. manage and improve production quality;. expand both the range of customers and the geographic scope of our customer
+base;. reduce product costs; and. improve financial and management controls, reporting systems and procedures.
+Any failure to manage growth effectively could have a material adverse effect
+on our business, financial condition and results of operations.
+Our Facilities are Located in the State of California Which is Experiencing an
+Electricity Shortage
+The two largest investor owned electric utility companies in California,
+Pacific Gas & Electric and Southern California Edison, have been experiencing
+electricity generation shortages due to the collapse of California
+deregulation strategy. The inability of these companies to continue purchasing
+electricity has resulted in rolling blackouts in certain parts of the state.
+Our Southern California operation is wholly dependent on Southern California
+Edison and our Northern California engineering center is wholly dependent upon
+Pacific Gas and Electric. As of February 28, 2001 we have not experienced any
+interruption in electrical service to our facilities.
+23 We currently do not have backup power generators or alternate sources of power
+in the extent of a blackout and our current insurance does not provide coverage
+for any damages we or our customers may suffer as a result of interruptions of
+power supply. We are not able to guarantee that we will not experience any
+interruptions in electrical service to our facilities in the future. The loss of
+electrical service would cause a temporary shutdown of our operations resulting
+in lost production and may cause us to re-calibrate our production equipment,
+resulting in potentially significant unanticipated costs. In addition, many of
+our suppliers are located in California and could be similarly affected.
+Frequent and continuing shutdowns of our operations and those of our suppliers
+could cause us to be unable to manufacture the products required by our
+customers in a timely manner. Shipments to our customers could be delayed,
+resulting in the delay or loss of product revenues. Such delay or loss of
+product revenues could have a material adverse effect on our business, financial
+condition and results of operations.
+Furthermore, the deregulation of the energy industry instituted in 1996 by the
+California government has caused power prices to increase. Under deregulation,
+utilities were encouraged to sell their plants, which traditionally had produced
+most of California power, to independent energy companies that were expected
+to compete aggressively on price.  Instead, due in part to a shortage of
+supply, wholesale prices have skyrocketed over the past year. If wholesale
+prices continue to increase and these increases are passed on to end users, the
+operating expenses associated with our facilities will likely increase, which
+could harm our results of operations.
+We Recently Acquired a New Facility and are Currently Consolidating our
+Manufacturing Operations, Engineering, Sales and Headquarters Facility to This
+New Location
+On May 31, 2000 we acquired a 360,000 square foot facility located in Santa
+Ana, California. Approximately 85,000 square feet are being sublet to an
+unrelated third party, with the remaining 275,000 square feet available for us.
+This facility has required substantial re-design and building improvements
+before we can relocate our operations to it. We began the capital improvements
+to this facility and the initial transition of certain manufacturing operations
+to this new facility in fiscal 2000, and we currently expect to have our
+operations relocated to this facility by the end of the first quarter of 2001.
+Moving our manufacturing operations to a new facility entails numerous risks to
+our business operations, including the risk that. we will not complete the moves on schedule;. we will not obtain requalification of our production lines in a timely
+manner from our customers who require production line qualifications;. the costs to re-design and improve the facility will escalate and exceed
+our current expectations;. the new facility will not function properly and that we will not achieve
+the desired benefits from consolidating our operations at one facility; and. the move will result in manufacturing downtime, resulting in the inability
+to produce products in the time frame demanded by our customers.
+If any of these or other risks occur, they could have a material adverse
+affect on our business, financial condition and results of operations.
+Our Success is Tied to the Growth of the Wireless Services Market
+Almost all of our revenues come from the sale of RF power amplifiers for
+wireless communications networks. Our future success depends to a considerable
+extent upon the continued growth and increased availability of wireless
+communications services. Wireless communications services may not continue to
+grow and create demand for our products. We believe that continued growth in
+the use of wireless communications services depends, in part, on lowering the
+cost per subscriber by reducing the costs of the infrastructure capital
+equipment and thereby enabling reductions in wireless service pricing.
+Although FCC regulations require local phone companies to reduce the rates
+charged to wireless carriers for connection to their wireline networks, wireless
+service rates will probably remain higher than rates charged by traditional
+wireline companies.
+24  The expansion of wireless communications services depends on developed
+countries, such as the United States, continuing to allow deployment of new
+networks and upgrades to existing networks, and on less developed countries
+deploying wireless communications networks.
+Our performance could be adversely affected by any of the following risks. failure of local governments or foreign countries to allow construction of
+new wireless communications systems;. lack of demand for new wireless services;. termination or delays by local governments or foreign countries of existing
+construction of wireless communications systems;. imposition of moratoriums by local governments or foreign countries on
+building new base stations for existing wireless communications systems; and. foreign authorities may disfavor wireless communications systems because of
+environmental concerns, political unrest, economic downturns, favorable
+prices for other communications services or delays in implementing wireless
+communications systems.
+We Depend on Single Sources for Key Components
+A number of the parts used in our products are available from only one or a
+limited number of outside suppliers due to unique component designs as well as
+certain quality and performance requirements. To take advantage of volume
+pricing discounts, we also purchase certain customized components from single
+sources. We have experienced, and expect to continue to experience, shortages
+of single-sourced components. Shortages have compelled us to adjust our product
+designs and production schedules. If single-sourced components become
+unavailable in sufficient quantities or available only on unsatisfactory terms,
+we would be required to purchase comparable components from other sources and
+retune our products to function with the replacement components, or we may be
+required to redesign our products to use other components, either of which could
+delay production and delivery of our products. In addition, our reliance on
+certain single-sourced components exposes us to quality control issues if such
+suppliers experience a failure in their production process. A failure in a
+single-sourced component could force us to repair or replace a product utilizing
+replacement components. Such a requirement could have a material adverse effect
+on our business, results of operations and financial condition. In addition, if
+we can not obtain comparable replacements or effectively retune or redesign our
+products, there could be a material adverse effect on our business, results of
+operations and financial condition.
+Due to our reliance on certain single-sourced customized components, if we
+experience an abrupt reduction in customer demand, we may end up with excess
+inventories of such components due to the nature of the volume purchasing
+agreements that we enter to obtain component cost reductions. If we are unable
+to utilize such components in a timely manner and are unable to sell such
+components due to their customized nature, the resulting negative impact on our
+liquidity and resulting increased inventory levels could have a material adverse
+effect on our business, results of operations and financial condition.
+The Market in Which We Operate is Highly Competitive
+The wireless communications infrastructure equipment industry is extremely
+competitive and is characterized by rapid technological change, frequent new
+product development, rapid product obsolescence, evolving industry standards and
+significant price erosion over the life of a product. Our products compete on
+the basis of the following key characteristics. performance;. functionality;. reliability;. pricing;. quality;. designs that can be efficiently manufactured in large volumes                    25. time-to-market delivery capabilities; and. compliance with industry standards.
+While we believe that we compete favorably with respect to these
+characteristics at present, this may change. If we fail to address our
+competitive challenges, there could be a material adverse effect on our
+business, financial condition and results of operations.
+Our current competitors include AML Communications, Inc., and Spectrian
+Corporation, in addition to a number of privately held companies throughout the
+world, subsidiaries of certain multinational corporations and the RF power
+amplifier manufacturing operations of the leading wireless infrastructure
+manufacturers such as Ericsson, Lucent, Motorola, Nokia and Samsung. Some
+competitors have significantly greater financial, technical, manufacturing,
+sales, marketing and other resources than we do and have achieved greater name
+recognition for their products and technologies than we have. We may not be
+able to successfully increase our market penetration or our overall share of the
+RF power amplifier market. Our results of operations could be adversely
+impacted if we are unable to effectively increase our share of the RF power
+amplifier market.
+Our future success depends largely upon the rate at which wireless
+infrastructure manufacturers incorporate our products into their systems. A
+substantial portion of the present worldwide production of RF power amplifiers
+is captive within the internal manufacturing operations of leading wireless
+infrastructure manufacturers such as Ericsson, Lucent, Motorola, Nokia and
+Samsung. These companies regularly evaluate whether to manufacture their own RF
+power amplifiers rather than purchase them from us. During 2000, Ericsson
+purchased Microwave Power Devices, one of our competitors. We cannot predict
+the ultimate impact this purchase will have on our business with Ericsson. Any
+potential reduction in our business with Ericsson could have a negative impact
+on our business, financial condition and results of operations. In addition,
+various companies could also directly compete with us by selling their RF power
+amplifiers to other manufacturers and operators, including our customers. If we
+are not successful in increasing the use of our products by the leading wireless
+infrastructure manufacturers, there would be a material adverse effect on our
+business, financial condition and results of operations.
+We Must Develop and Sell New Products in Order to Keep Up With Rapid
+Technological Change
+The markets in which we compete are characterized by. rapidly changing technology;. constant pricing pressure;. evolving industry standards and communications protocols; and. frequent improvements in products and services.
+To succeed, we must improve current products and develop and introduce new
+products that are competitive in terms of price, performance and quality. These
+products must adequately address the requirements of wireless infrastructure
+manufacturing customers and end-users.
+To develop new products, we invest in the research and development of RF power
+amplifiers for wireless communications networks. We target our research and
+development efforts on major wireless network deployments worldwide, which cover
+a broad range of frequency and transmission protocols. In addition, we are
+currently working on products for third generation networks as well as
+development projects for products requested by our customers. In spite of our
+efforts, the deployment of a wireless network may be delayed which could cause a
+particular research or development effort to not generate a revenue producing
+product. Additionally, the new products we develop may not achieve market
+acceptance or may not be manufacturable at competitive prices in sufficient
+volumes. We cannot guarantee the success of our research and development
+efforts.
+We also continue efforts to improve our existing cellular and PCS lines of RF
+power amplifier products. Any delays in the shipment of these products may
+cause customer dissatisfaction and delay or loss of product revenues. In
+addition, it is possible that a significant number of development projects will
+not result in manufacturable new products or product improvements.
+26  If we fail to develop new products or improve existing products in a timely
+manner, there will be a material adverse effect on our business, financial
+condition and results of operations.
+We May Fail to Develop Products that are Sufficiently Manufacturable or of
+Adequate Quality and Reliability
+Manufacturing our products is a complex process and requires significant time
+and expertise to meet customers' specifications. Successful manufacturing is
+substantially dependent upon our ability to tune these products to meet
+specifications in an efficient manner. In this regard, we depend on our staff
+of trained technicians. If we cannot design our products to minimize the manual
+tuning process or if we are unable to attract additional trained technicians, or
+we lose a number of our trained technicians, it would have a material adverse
+effect on our business, financial condition and results of operations.
+We have had quality problems with our products in the past and may have
+similar problems in the future. We have replaced components in some products in
+accordance with our product warranties. We believe that our overall
+relationship with our customers is good and that they consider our products to
+be of good quality. We also believe that our customers will demand increasingly
+stringent product performance and reliability. We cannot provide any assurance
+that our product designs will remain successful or that they will keep pace with
+technological developments, evolving industry standards and new communications
+protocols. We may fail to adequately improve product quality and meet the
+quality standards of our customers, which could cause us to lose such customers.
+Design problems could damage relationships with existing and prospective
+customers and could limit our ability to market our products to large wireless
+infrastructure manufacturers, many of which build their own, high quality RF
+power amplifiers and have stringent quality control standards. See --Many
+Wireless Infrastructure Manufacturers have Internal RF Power Amplifier
+Production Capabilities.
+We Must Retain Key Executives and Personnel
+We need to hire and retain highly qualified technical, marketing and
+managerial personnel. Competition for personnel, particularly qualified
+engineers, is intense, and the loss of a significant number of such persons, as
+well as the failure to recruit and train additional technical personnel in a
+timely manner, could have a material adverse effect on our business, results of
+operations and financial condition. The departure of any of our management and
+technical personnel, the breach of their confidentiality and non-disclosure
+obligations to Powerwave or the failure to achieve our intellectual property
+objectives may have a material adverse effect on our business, financial
+condition and results of operations.
+We believe that our success depends upon the knowledge and experience of our
+management and technical personnel and our ability to market our existing
+products and to develop new products. We do not have non-compete agreements
+with our employees who are employed on an at-will-basis. Therefore, employees
+may leave us and go to work for a competitor. We have had employees leave us
+and go to work for competitors. While we believe that we have adequately
+protected our proprietary technology, and we will take all legal measures to
+protect it, the use of our processes by a competitor could have a material
+adverse effect on our business, financial condition and results of operations.
+There are Many Risks Associated With International Operations
+For fiscal years 2000, 1999 and 1998, international revenues excluding North
+American sales accounted for approximately 21%, 33% and 41% respectively, of
+our net sales. We currently expect that international revenues will continue to
+account for a significant percentage of our revenues for the foreseeable future.
+Therefore, the following risks associated with international operations could
+have a material adverse effect on our performance. compliance with multiple and potentially conflicting regulations, including
+export requirements, tariffs, import duties and other barriers, and health
+and safety requirements;. differences in intellectual property protections;. difficulties in staffing and managing foreign operations                    27. longer accounts receivable collection cycles;. currency fluctuations;. economic instability, including inflation and interest rate fluctuations,
+such as those previously seen in South Korea and Brazil;. competition from foreign based suppliers;. restrictions against the repatriation of earnings from a foreign country;. overlapping or differing tax structures; and. political or civil turmoil.
+We have traditionally invoiced all of our foreign sales in U.S. Dollars.
+Accordingly, we do not currently engage in foreign currency hedging
+transactions. However, as we continue to expand our international operations,
+we may be paid in foreign currencies and, therefore, would become exposed to
+possible losses in foreign currency transactions. Since we sell our products in
+many countries, when the U.S. Dollar becomes more expensive relative to the
+currency of our foreign customers, the price of our products in those countries
+rises and our sales into those countries may fall. This happened to us in South
+Korea during 1998. In addition, as we sell our products into foreign countries,
+our products can become subject to tariffs and import duties which raise the
+overall price of our products to such a level that our products are no longer
+competitive in price to locally based suppliers. If any of the above risks
+actually occurs, there may be a material adverse effect on our business,
+financial condition and results of operations.
+The Sales Cycle for Our Products is Lengthy
+The sales cycle associated with our products is typically lengthy, often
+lasting from six to eighteen months. Our customers normally conduct significant
+technical evaluations of our products and our competitors' products before
+making purchase commitments. Our OEM customers typically require extensive
+technical qualification of our products before they are integrated into each
+OEM products. This qualification process involves a significant investment of
+time and resources from us and the OEMs to ensure that our product designs are
+fully qualified to perform with each OEM equipment. Also, individual wireless
+network operators can subject our products to field and evaluation trials, which
+can last anywhere from one to nine months, before making a purchase. The
+qualification and evaluation process and the customer field trials may delay the
+shipment of sales forecasted for a specific customer for a particular quarter
+and our operating results for that quarter could be materially adversely
+affected.
+Many Wireless Infrastructure Manufacturers have Internal RF Power Amplifier
+Production Capabilities
+Many of the leading wireless infrastructure equipment manufacturers internally
+manufacture their own RF power amplifiers. We believe that our existing
+customers continuously evaluate whether to manufacture their own RF power
+amplifiers. Certain of our customers regularly produce RF power amplifiers in
+an attempt to replace products manufactured by us. We believe that this
+practice will continue. Recently, Ericsson, one of our OEM customers, purchased
+Microwave Power Devices, Inc., one of our competitors. In the event that our
+customers manufacture their own RF power amplifiers, such customers could reduce
+or eliminate their purchases of our products. We cannot guarantee that our
+current customers will continue to rely, or expand their reliance, on us as an
+external source of supply for their RF power amplifiers.
+Wireless infrastructure equipment manufacturers with internal manufacturing
+capabilities could also sell RF power amplifiers externally to other
+manufacturers, thereby competing directly with us. In addition, even if we are
+successful in selling our products to these customers, we believe that such
+customers will demand price and other concessions based on their ability to
+manufacture RF power amplifiers internally. If, for any reason, our major
+customers decide to produce their RF power amplifiers internally or through
+joint ventures with other competitors, or require us to participate in joint
+venture manufacturing with them, our business, results of operations and
+financial condition could be materially adversely affected.
+28 Protection of Our Intellectual Property is Limited; Risk of Third-Party Claims
+of Infringement
+We rely upon trade secrets and patents to protect our intellectual property.
+We execute confidentiality and non-disclosure agreements with our employees and
+suppliers and limit access to and distribution of our proprietary information.
+We have an on-going program to identify and file applications for both U.S. and
+international patents for various aspects of our technology. We have been
+granted a total of 10 U.S. patents, and we currently have 15 separate U.S.
+patent applications filed. All of these efforts along with the knowledge and
+experience of our management and technical personnel strengthen our ability to
+market our existing products and to develop new products. The departure of any
+of our management and technical personnel, the breach of their confidentiality
+and non-disclosure obligations to us or the failure to achieve our intellectual
+property objectives may have a material adverse effect on our business,
+financial condition and results of operations.
+We do not have non-compete agreements with our employees who are employed on
+an at-will basis. Therefore, employees may leave us and go to work for a
+competitor. We have had employees leave us and go to work for competitors.
+While we believe that we have adequately protected our proprietary technology,
+and we will take all legal measures to protect it, the use of our processes by a
+competitor could have a material adverse effect on our business, financial
+condition and results of operations.
+Our ability to compete successfully and achieve future revenue growth will
+depend, in part, on our ability to protect our proprietary technology and
+operate without infringing the rights of others. We may fail to do so. In
+addition, the laws of certain countries in which our products are or may be sold
+may not protect our products and intellectual property rights to the same extent
+as the laws of the United States.
+As the number of patents, copyrights and other intellectual property rights in
+our industry increases, and as the coverage of these rights and the
+functionality of the products in the market further overlap, we believe that
+companies in our industry may face more frequent infringement claims. Although
+there are no pending or threatened intellectual property lawsuits against us, we
+may face litigation or infringement claims in the future. Such claims could
+result in substantial costs and diversion of our resources.
+A third party claiming infringement may also obtain an injunction or other
+equitable relief, which could effectively block the distribution or sale of
+allegedly infringing products. Although we may seek licenses from third parties
+covering intellectual property that we are allegedly infringing, we cannot
+guarantee that any such licenses could be obtained on acceptable terms, if at
+all.
+Certain of our customers and other wireless communications infrastructure
+equipment manufacturers may decide to protect their intellectual property by
+deciding not to purchase RF power amplifiers from external sources. The
+appearance of a close working relationship with a particular customer may
+adversely affect our ability to establish or maintain a relationship with, or
+sell products to, competitors of that particular customer. The failure of our
+major customers to purchase products from us due to our relationship with other
+customers could have a material adverse effect on our business, financial
+condition and results of operations.
+Actual or Alleged Defects in Our Products May Create Liability to Those
+Claiming Injury
+Any of the following could have a material adverse effect on our business,
+financial condition and results of operations. if systems or devices relying on or incorporating our products are
+determined or alleged to create a health risk, causing us to be named as a
+defendant, and held liable, in a product liability lawsuit;. delays or prohibitions on the installation of wireless communications
+networks due to alleged health or environmental risks; and. our inability to maintain insurance at an acceptable cost or to otherwise
+protect against potential product liability lawsuits.
+29 Government Regulation of the Communications Industry
+The products that we manufacture are regulated. We must obtain regulatory
+approvals to manufacture and sell our products and our customers must obtain
+approvals to operate our products. The FCC has adopted regulations that impose
+stringent RF emissions standards on the communications industry. These
+regulations may require that we alter the manner in which radio signals are
+transmitted or otherwise alter the equipment transmitting such signals. We are
+also subject to regulatory requirements in international markets where prominent
+local competitors may have the ability to influence regulations in situations
+where we do not.
+The enactment by governments of new laws or regulations or a change in the
+interpretation of existing regulations could adversely affect the market for our
+products. Deregulation of international communications industries along with RF
+spectrum allocations made by the FCC have increased the potential demand for our
+products. We cannot guarantee that the trend toward deregulation and current
+regulatory developments favorable to the promotion of new and expanded wireless
+services will continue or that other future regulatory changes will have a
+positive impact on us. The increasing demand for wireless communications has
+exerted pressure on regulatory bodies worldwide to adopt new standards for such
+products, generally following extensive investigation and deliberation over
+competing technologies. In the past, the delays inherent in this governmental
+approval process have caused, and may in the future cause, the cancellation,
+postponement or rescheduling of the installation of communications systems by
+our customers. These delays could have a material adverse effect on our
+business, results of operations and financial condition.
+Our Stock Price Has Been and May Continue to Be Volatile
+The price of our Common Stock has exhibited high levels of volatility with
+significant volume and price fluctuations, which makes our Common Stock not
+suitable for all investors. In addition, the stock market has from time to time
+experienced significant price and volume fluctuations. The fluctuations in the
+stock market are often unrelated to the operating performance of particular
+companies, and the market prices for securities of technology companies have
+been especially volatile. These broad market fluctuations may adversely affect
+the market price of our Common Stock. Our stock price may be affected by the
+factors discussed above as well as. fluctuations in our results of operations or the operations of our
+competitors;. failure of such results of operations to meet the expectations of stock
+market analysts and investors;. reductions in demand or expectations of future demand by our customers;. delays or postponement of wireless infrastructure deployments, including new
+3G deployments;. changes in the political or economic outlook of the markets into which we
+sell our products;. changes in stock market analyst recommendations regarding us, our
+competitors or our customers;. the timing and announcements of technological innovations or new products by
+us or our competitors;. changes in the wireless communications industry; and. general market conditions.
+Risk of Litigation
+We are subject to various legal proceedings from time to time as part of our
+business. In September 1999, a former customer filed a lawsuit against us. The
+lawsuit alleged, among other things, that we sold defective LMR products to this
+customer from 1994 to 1998. We denied these allegations of wrongdoing. In
+December 2000, the parties settled this lawsuit. The settlement did not have a
+material adverse effect on the Company.
+Powerwave is not currently party to any other legal proceedings, the adverse
+outcome of which, individually or in the aggregate, we believe would have a
+material adverse effect on our business, financial condition and results of
+operations. In addition, any potential litigation, regardless of its merits,
+could result in substantial costs to us and divert management attention from
+our operations. Such diversion could have an adverse impact on our business,
+results of operations and financial condition.
+30 ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Our financial instruments include cash and cash equivalents and long-term
+debt. At December 31, 2000, the carrying values of our financial instruments
+approximated their fair values based on current market prices and rates.
+It is our current policy to not enter into derivative financial instruments.
+We do not currently have any significant direct foreign currency exposure since
+aside from operating costs of our South Korean repair operation, we do not
+transact business in foreign currencies. Due to this, we do not have any
+significant direct foreign currency exposure at December 31, 2000.
+We are exposed to a number of market risks in the ordinary course of
+business. These risks, which include interest rate risk, foreign currency
+exchange risk and commodity price risk, arise in the normal course of business
+rather than from trading. We have examined our exposures to these risks and
+concluded that none of our exposures in these areas is material to fair values,
+cash flows or earnings. We regularly review these risks to determine if we
+should enter into active strategies, such as hedging, to help manage the risks.
+At the present time, we do not have any hedging programs in place and we are not
+trading in any financial or derivative instruments.
+We currently do not have any material debt outstanding, so we do not have
+interest rate risk from a liability perspective. We do have a significant
+amount of cash and short-term investments with maturities less than three
+months. This cash portfolio exposes us to interest rate risk as short-term
+investment rates can be volatile. Given the short-term maturity structure of
+our investment portfolio, and the high-grade investment quality of our
+portfolio, we believe that we are not subject to principal fluctuations and the
+effective interest rate of our portfolio tracks closely to various short-term
+money market interest rate benchmarks.
+Our international sales expose us to foreign currency risk in the ordinary
+course of our business. Please review our Disclosure About Foreign Currency
+Risk in this Form 10-K for a more detailed description of the various risks
+involved in our international sales.
+We require significant quantities of RF transistors or semiconductors, and
+various metals for use in the manufacture of our products. We therefore are
+exposed to certain commodity price risk associated with variations in the market
+prices for these electronic components. We attempt to manage this risk by
+entering into supply agreements with various suppliers of these components.
+These supply agreements are not long-term supply agreements so if we become
+subject to a significant increase in the price of one of these components, we
+would likely be forced to pay such higher prices and we may not be able to pass
+such costs onto our customers. In such an event, our business, results of
+operations and financial condition could be adversely affected.  In addition,
+we require specialized electronic test equipment, which is utilized in both the
+design and manufacture of our products. Such electronic test equipment is
+available from limited sources and may not be available in the time periods
+required for us to meet our customers' demand. If required, we may be forced to
+pay higher prices for such equipment and or we may not be able to obtain the
+equipment in the time periods required, which would then delay our development
+or production of new products. Such delays and any potential additional costs
+could adversely effect our business, results of operations and financial
+condition.
+31 ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Index to Financial Statements/Schedule Consolidated Financial Statements                                 Page
+-                                                                                  
+Independent Auditors'  33
+Consolidated Balance Sheets--December 31, 2000 and January 2,  34
+Consolidated Statements of Operations--Three years ended December 31, 2000. 35
+Consolidated Statements of Comprehensive Operations--Three years ended December 31, 2000. 36
+Consolidated Statements of Shareholders' Equity--Three years ended December 31, 2000. 37
+Consolidated Statements of Cash Flows--Three years ended December 31, 2000. 38
+Notes to Consolidated Financial  40
+Financial Statement Schedule
+Schedule II--Valuation and Qualifying Accounts--Three years ended December 31, 2000. 63 

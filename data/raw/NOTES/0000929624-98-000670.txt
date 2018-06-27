@@ -1,0 +1,711 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA
+REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Stockholders
+of Pacific Gateway Exchange, Inc.
+We have audited the accompanying consolidated balance sheets of Pacific
+Gateway Exchange, Inc. and subsidiaries as of December 31, 1997 and 1996, and
+the related statements of operations, cash flows and changes in stockholders'
+equity for each of the three years in the period ended December 31, 1997. We
+have also audited the financial statement schedule listed in Item 14a of the
+Form 10-K. These financial statements and financial schedule are the
+responsibility of the Company management. Our responsibility is to express
+an opinion on these financial statements and financial statement schedule
+based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated financial position of Pacific
+Gateway Exchange, Inc. and subsidiaries as of December 31, 1997 and 1996, and
+the consolidated results of their operations and their cash flows for each of
+the three years in the period ended December 31, 1997, in conformity with
+generally accepted accounting principles. In addition, in our opinion, the
+financial statement schedule referred to above, when considered in relation to
+the basic financial statements taken as a whole, present fairly, in all
+material respects, the information required to be included therein.
+/s/ COOPERS & LYBRAND L.L.P.
+San Francisco, California
+February 16, 1998
+31
+PACIFIC GATEWAY EXCHANGE, INC.
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS
+DECEMBER 31,
+1997   1996
+ASSETS
+CURRENT ASSETS:
+Cash and cash  $ 43,850 $ 45,563
+Accounts receivable, net of allowance for doubtful accounts
+of $2,230 in 1997 and $1,679 in 1996.  62,313  25,145
+Accounts receivable, related     --   3,066
+511    729
+Deferred income    1,096   1,184
+Other current     673                                       Total current   108,443  75,687
+PROPERTY AND EQUIPMENT:
+Undersea fiber optic   31,144  13,393
+Long distance communications   30,535  13,744
+Computers and office    6,343   1,317
+Leasehold     702    45
+Construction in    1,849   2,837
+70,573  31,336
+Less accumulated depreciation                  9,140   3,700
+Total property and equipment, net.  61,433  27,636
+Deposits and other    1,741    493
+Total  $171,617 $103,816
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+Accounts  $ 87,949 $ 36,472
+Accrued    3,733   1,304
+Income taxes    1,491   2,493
+Current portion of capitalized lease obligations.    216    Other     513    367
+Total current   93,902  40,636
+Long-term portion of capitalized lease obligations.    185    Deferred income     957    708
+Total   95,044  41,344
+Commitments and contingencies Note 7.
+STOCKHOLDERS' EQUITY:
+Preferred stock, $0001 par value, authorized 5,000,000
+shares, no shares     --     Common stock, $0001 par value, authorized 50,000,000,
+issued 19,216,710, outstanding 19,073,150 shares in 1997;
+and issued 19,040,050, outstanding 18,896,490 shares in
+2     2
+Additional paid in   60,849  55,113
+Deferred compensation--restricted stock.  4,134    Foreign currency      2    Retained   20,254   7,757
+Cost of common stock held in treasury, 143,560 shares in
+1997 and    400   400
+Total stockholders'   76,573  62,472
+Total liabilities and stockholders' equity         $171,617 $103,816
+See Accompanying Notes to Consolidated Financial Statements.
+32
+PACIFIC GATEWAY EXCHANGE, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+IN THOUSANDS, EXCEPT PER SHARE DATA
+YEAR ENDED DECEMBER 31,
+1997   1996   1995
+$298,609 $141,912 $59,250
+Revenues--related    --   20,514  17,166
+Total  298,609  162,426  76,416
+Cost of long distance services. 254,076  140,340  66,346
+Gross   44,533  22,086  10,070
+Selling, general and administrative expenses.  21,416  11,113  5,467
+5,417   2,044  1,124
+Total operating   26,833  13,157  6,591
+Operating   17,700   8,929  3,479
+Interest income expense, net.  2,009   885   538
+Other income expense, net.   126   129                                  Income before income taxes.  19,835   9,685  2,941
+Provision for income   7,338   3,877  1,155
+Net  $ 12,497 $ 5,808 $ 1,786
+Net income per  $  066 $  036 $ 013
+Net income per  $  064 $  034 $ 012
+Weighted average number of common shares
+18,960  16,234  14,100
+Weighted average number of common shares
+19,497  16,872  14,535
+See Accompanying Notes to Consolidated Financial Statements.
+33
+PACIFIC GATEWAY EXCHANGE, INC.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+IN THOUSANDS
+YEAR ENDED DECEMBER 31,
+1997   1996   1995
+OPERATING ACTIVITIES:
+Net  $ 12,497 $ 5,808 $ 1,786
+Adjustments to net income:
+5,417   2,044  1,124
+Loss on sale of    --    129    Stock compensation    146    85    Bad debts   2,173    855   687
+Changes in operating assets and liabilities:
+Accounts  38,681 13,421 9,436
+Accounts receivable, related party.  3,066    196  1,059
+Notes and advances receivable.   --    175   175
+Prepaid    306   729    Deferred tax     88   816  314
+Deposits and other assets.  1,430   107  243
+Accounts   48,309  17,053  12,782
+Accrued   2,429    532   700
+Federal income taxes payable recoverable.   462  1,758   790
+Other    150   152   519
+Deferred tax    249    488   220
+Net cash provided by operating activities.  34,257  13,898  7,381
+INVESTING ACTIVITIES:
+Purchase of property and equipment. 36,725 18,669 7,233
+Other investing    222    274   702
+Net cash used in investing activities. 36,503 18,395 6,531
+FINANCING ACTIVITIES:
+Proceeds from issuance of common stock.   --   55,130    Payment of issuance    --   1,042   Payment to acquire treasury stock.   --    400   Borrowings on revolving lines of credit.   --   3,200  4,000
+Repayments on revolving lines of credit.   --   6,200 3,067
+Borrowings on revolving lines of credit, related
+--   3,000    Repayments on revolving lines of credit, related
+--   5,420   Exercise of stock    742    --    Repayments on capital lease obligations.   209   --                                 Net cash provided by financing activities.   533  48,268   933
+Net increase in cash and cash equivalents.  1,713  43,771  1,783
+Cash and cash equivalents at beginning of the pe-
+45,563   1,792    10
+Cash and cash equivalents at end of the period. $ 43,850 $ 45,563 $ 1,792
+SUPPLEMENTARY INFORMATION:
+Interest paid during period. $  --  $  276 $  576
+Income taxes paid during period. $ 7,841 $ 2,447 $  683
+See Accompanying Notes to Consolidated Financial Statements.
+34
+PACIFIC GATEWAY EXCHANGE, INC.
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+IN THOUSANDS
+TREASURY
+COMMON STOCK ADDITIONAL   DEFERRED    FOREIGN        STOCK
+PAID-IN  COMPENSATION-  CURRENCY  RETAINED              SHARES AMOUNT CAPITAL  RESTRICTED STOCK TRANSLATION EARNINGS SHARES AMOUNT  TOTAL
+BALANCE DECEMBER 31,
+1994.   15    $  942    $  --        $  163  --  $ --  $ 1,105
+940 to 1 stock split. 14,085   1    1      --     --     --   --   --     Net income.   --  --    --       --     --    1,786  --   --   1,786
+BALANCE DECEMBER 31,
+1995. 14,100   1    941      --     --    1,949  --   --   2,891
+Repurchase of common
+stock.   --  --    --       --     --     --  144 400   400
+Issuance of common
+stock, net of $1,042
+issuance costs.  4,940   1  54,087      --     --     --   --   --   54,088
+Stock option
+compensation expense.   --  --     85      --     --     --   --   --     85
+Net income.   --  --    --       --     --    5,808  --   --   5,808
+BALANCE DECEMBER 31,
+1996. 19,040   2  55,113                 7,757  144 400  62,472
+Stock options exercised.   102  --    742      --     --     --   --   --    742
+Stock option
+compensation expense.   --  --    146      --     --     --   --   --    146
+Tax effect on stock
+option exercise.   --  --    714      --     --     --   --   --    714
+Restricted stock
+compensation expense.   --  --   4,134      --     --     --   --   --   4,134
+Deferred compensation -
+restricted stock.   75  --    --     4,134    --     --   --   --   4,134
+Foreign currency
+translation.   --  --            --      2     --   --   --     2
+Net income.   --  --    --       --     --    12,497  --   --   12,497
+BALANCE DECEMBER 31,
+1997. 19,217 $ 2  $60,849    $ 4,134    $ 2   $20,254  144 $400 $76,573
+See Accompanying Notes to Consolidated Financial Statements.
+35
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1 THE COMPANY AND SIGNIFICANT ACCOUNTING POLICIES
+Description of Business and Organization:
+Pacific Gateway Exchange, Inc. Pacific Gateway or the Company, a
+Delaware corporation, owns and operates an international switched and domestic
+switched telecommunications network. The operations of Pacific Gateway have
+grown significantly as the result of entering into additional operating
+agreements with foreign partners and marketing to certain long distance
+companies in the United States which do not have their own international
+network.
+The Company is subject to various risks in connection with the operation of
+its business. These risks include, but are not limited to, government
+regulations, dependence on transmission facilities-based carriers and
+suppliers, price competition and competition from larger industry
+participants.
+Principles of Consolidation:
+Consolidated Financial Statements include the accounts of Pacific Gateway
+and majority-owned and controlled subsidiaries principally in the United
+Kingdom, Russia, New Zealand, Bermuda and Cyprus. Investments in 20% to 50 owned or affiliated are accounted for on the equity method. Intercompany
+transactions have been eliminated.
+Foreign Currency Translation:
+Assets and liabilities of operations outside the United States, except for
+operations in highly inflationary economies principally in Russia are
+translated into U.S. dollars using the exchange rate in effect at each period
+end. Revenues and expenses are translated at the average exchange rate
+prevailing during the period. The effects of foreign currency translation
+adjustments arising from differences in exchange rates from period to period
+are deferred and included as a component of Stockholders' Equity. The
+effects of foreign currency transactions, and of remeasuring the financial
+position and results of operations in the functional currency, are included in
+Selling general and administrative expenses. Operations in highly
+inflationary economies are maintained in the reporting currency, U.S. dollars.
+Estimates:
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosures of contingent assets and liabilities at the dates of the financial
+statements and reported amounts of revenues and expenses during the reported
+periods. Actual results could differ from those estimates.
+Cash and Cash Equivalents:
+Cash equivalents consist primarily of money market accounts and called bonds
+with maturities of three months or less. The carrying amount reported in the
+accompanying balance sheet approximates fair market value.
+Property and Equipment:
+Property and equipment are stated at cost. Depreciation is provided for
+financial reporting purposes using the straight-line method over the following
+estimated useful lives:
+Undersea fiber optic    20 years
+Long distance communications    5-7 years
+Computers and office    4-7 years
+Leasehold  term of lease
+36
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Maintenance and repairs are expensed as incurred. Replacements and
+betterments are capitalized. The cost and related accumulated depreciation of
+assets sold or retired are removed from the account balance, and any resulting
+gain or loss is reflected in results of operations.
+Income Taxes:
+The Company accounts for income taxes in accordance with Statement of
+Financial Accounting Standards SFAS No. 109, Accounting for Income
+Taxes. SFAS No. 109 has as its basic objective the recognition of current and
+deferred income tax assets and liabilities based upon all events that have
+been recognized in the financial statements as measured by the provisions of
+the enacted tax laws.
+Valuation allowances are established when necessary to reduce deferred tax
+assets to the estimated amount to be realized. Income tax expense represents
+the tax payable for the current period and the change during the period in the
+deferred tax assets and liabilities.
+Revenue Recognition:
+Revenues for telecommunications services provided to customers are
+recognized as services are rendered. Revenues for return traffic received
+according to the terms of the Company operating agreements with its foreign
+partners are recognized as revenue as the return traffic is received.
+Earnings Per Share:
+The Company adopted SFAS No. 128 Earnings Per Share effective December 31,
+1997. In accordance with SFAS No. 128, basic earnings per share is calculated
+by dividing net income by the weighted-average number of shares outstanding
+for the period. Diluted earnings per share is calculated by dividing net
+income by the weighted average number of shares outstanding during the period
+plus the dilutive effect of stock options determined using the treasury stock
+method. The earnings per share calculation has been adjusted for all periods
+presented to reflect the 940 to 1 stock split effected October 20, 1995.
+There were no adjustments to net income in the calculation of basic and
+diluted earnings per share for the years ended December 31, 1997, 1996 and
+1995, respectively. The reconciliation of the weighted average shares
+outstanding used in calculating basic and diluted earnings per share is as
+follows:
+INCOME    SHARES   PER-SHARE
+NUMERATOR DENOMINATOR AMOUNT
+1997
+BASIC EPS:
+Income available to common stockhold-
+$12,497,000 18,960,000   $066
+Effect of dilutive stock options.         537,000
+DILUTED  $12,497,000 19,497,000   $064
+1996
+BASIC EPS:
+Income available to common stockhold-
+$ 5,808,000 16,234,000   $036
+Effect of dilutive stock options.         638,000
+DILUTED  $ 5,808,000 16,872,000   $034
+1995
+BASIC EPS:
+Income available to common stockhold-
+$ 1,786,000 14,100,000   $013
+Effect of dilutive stock options.         435,000
+DILUTED  $ 1,786,000 14,535,000   $012
+37
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Fair Value of Financial Instruments:
+The carrying amounts for accounts receivable and accounts payable
+approximate their fair value.
+Concentration of Credit Risk:
+Financial instruments that potentially subject the Company to concentration
+of credit risk consist of cash and cash equivalents, and accounts receivable.
+At December 31, 1997 and 1996, the Company had bank deposits in excess of
+federally insured limits of $43,650,000 and $45,381,000, respectively. Seven
+of the Company customers accounted for approximately 40% and 52% of gross
+accounts receivable as of December 31, 1997 and 1996, respectively. The
+Company performs ongoing credit evaluations of its customers but generally
+does not require collateral to support customer receivables. The Company
+allowance for doubtful accounts is based on current market conditions. Losses
+on uncollectible accounts have consistently been within management
+expectations.
+Financial Statement Classifications:
+Certain prior-year amounts have been reclassified to conform to the 1997
+financial statement presentation. Such reclassifications have no effect on net
+income as previously reported.
+2 ACCOUNTING FOR INTERNATIONAL LONG DISTANCE TRAFFIC
+The Company has entered into operating agreements with 43 telecommunications
+carriers in 28 countries under which international long distance traffic is
+both delivered and received. Under these agreements, the foreign carriers are
+contractually obligated to adhere to the policy of the Federal Communications
+Commission the FCC, whereby traffic from the foreign country is routed to
+international carriers, such as the Company, in the same proportion as traffic
+carried into the country. Mutually exchanged traffic between the Company and
+foreign carriers is settled through a formal settlement policy that generally
+extends over a six-month period at an agreed upon rate. The Company records
+the amount due to the foreign partner as an expense in the period the traffic
+is delivered. Of the 43 agreements the Company had at December 31, 1997, 18
+agreements provided that the Company generally must wait up to six months
+before it actually receives the proportional return traffic. Under these
+agreements, the Company recognizes a loss in the period in which it originates
+a call from a customer because the amount due to the foreign partner generally
+exceeds the amount the Company charges its customers. As a result, a
+significant increase in traffic with one or more of the carriers with which
+the Company must wait up to six months to receive return traffic may cause the
+Company to report a net loss in the accounting period in which such increase
+occurred. Historically, when the return traffic is received in the future
+period, the Company generally realizes a gross margin on the return traffic
+that, when combined with the prior period loss on the outbound traffic,
+results in a gross profit on the total transaction. In circumstances where the
+Company does not receive the return traffic due from the foreign partner at
+the end of the agreed-upon delayed return period, the Company and the foreign
+partner may agree to a settlement which compensates the Company for the return
+traffic not received, through greater return traffic in future periods, or a
+reduction to the Company current accounts payable balance. Although the
+Company can reasonably estimate the revenue it will receive under the FCC
+proportional share policy, there is no guarantee that there will be traffic
+delivered back to the United States or what impact changes in future
+settlement rates will have on net payments made and revenue received.
+38
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+3 INCOME TAXES
+The provision for income taxes is comprised of the following:
+YEAR ENDED DECEMBER 31,
+1997    1996    1995
+CURRENT TAX EXPENSE:
+$5,736,898 $3,364,342 $ 999,950
+State and local.  985,411  841,085   249,988
+279,392     --                                   Total  $7,001,701 $4,205,427 $1,249,938
+DEFERRED TAX EXPENSE:
+$ 265,217 $ 262,558 $ 75,950
+State and local.   71,113  65,640  18,988
+--     --                                   Total  $ 336,330 $ 328,198 $ 94,938
+TOTAL  $7,338,031 $3,877,229 $1,155,000
+The Company has not recognized income taxes on undistributed earnings in
+operations outside the United States of approximately $1,417,000 at December
+31, 1997. These earnings are intended to be reinvested indefinitely.
+The provision for income taxes differs from the amount computed by applying
+the statutory federal income tax rates as follows:
+YEAR ENDED DECEMBER 31,
+1997   1996   1995
+Expected statutory amount.  350%   340%   340%
+State income taxes, net of federal benefit.   38%   53%   53%
+Tax exempt   05%  04%      Undistributed earnings of certain
+25%             12%   11%                                                             370%   400%   393%
+Deferred income taxes reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and amounts used for income tax purposes and the impact of available
+net operating loss carryforwards.
+39
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+The tax effect of significant temporary differences, which comprise the
+deferred tax assets and liabilities, are as follows                           YEAR ENDED DECEMBER 31,
+1997    1996   1995
+Deferred tax assets:
+Allowance for doubtful accounts. $ 696,831 $ 861,768 $325,613
+State   316,574  210,647          83,088  111,548  42,185
+Total gross deferred tax assets. $1,096,492 $1,183,963 $367,798
+Deferred liabilities:
+$ 870,566 $ 707,518 $219,551
+85,811     --                                   Total gross deferred tax liabilities. $ 956,377 $ 707,518 $219,551
+Net deferred tax assets. $ 140,115 $ 476,445 $148,247
+4 ACQUISITION OF RUSTELNET
+In 1997, the Company acquired a majority interest in Rustelnet, a provider
+of enhanced telecommunications services to the Russian market. The acquisition
+was accounted for by the purchase method and accordingly the results of
+operations of the acquired business have been included in the accompanying
+consolidated financial statements from the date of acquisition. The price was
+$36,000 with Rustelnet having cash balances of $257,000 at the time. The fair
+value of net liabilities acquired in the acquisition was $158,000. The excess
+of purchase price over the estimated fair market value of $627,000 has been
+allocated to goodwill. Goodwill is being amortized on a straight-line basis
+over a 10-year period.
+5 RELATED PARTY TRANSACTIONS
+The Company provides certain domestic and international switched
+telecommunications services to Matrix Telecom, Inc. Matrix, which is a
+switchless reseller. In 1996 and 1995, a significant greater than 10%
+shareholder in the Company also owned a controlling interest in Matrix. See
+Note 6 for the amount of revenues recorded from providing these services for
+the years ended December 31, 1996 and 1995. In 1997, the shareholder sold
+shares of the Company common stock and currently owns less than 10%.
+Accordingly, ongoing transactions with Matrix are no longer disclosed as
+related party transactions.
+In February 1995, the Company accepted certain shares of common stock, with
+a fair market value of approximately $702,000, of a customer as payment for
+accounts receivable totaling $702,000. The Company then sold this stock to a
+significant shareholder for $702,000. The shareholder subsequently sold the
+stock over a period of several months for a total of $730,000.
+In connection with the acquisition of Rustelnet see Note 4, the Company
+purchased Rustelnet shares from individual shareholders who are members of
+Pacific Gateway management. A total of 690 Rustelnet shares were sold by
+management to the Company for $13,000.
+40
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+6 SEGMENT DATA
+The Company classifies its operations into one industry segment,
+telecommunications services. Export sales were $83,875,000, $46,522,000, and
+$17,619,000 for the years ended December 31, 1997, 1996 and 1995 respectively.
+Export sales by geographic area were as follows:
+YEAR ENDED DECEMBER 31,
+1997    1996    1995
+Pacific  $22,577,000 $20,653,000 $10,066,000
+44,292,000 17,134,000  4,798,000
+11,015,000  6,449,000  2,418,000
+5,991,000  2,286,000   337,000
+Total export sales. $83,875,000 $46,522,000 $17,619,000
+The Company domestic and foreign operations are as follows:
+CORPORATE &
+UNITED STATES  OTHER  ELIMINATIONS CONSOLIDATED
+1997
+Sales to unaffiliated cus-
+tomers. $280,870,000 $17,739,000 $     -- $298,609,000
+Sales and transfers be-
+tween geographic areas.  12,066,000  12,005,000 24,071,000                         Total sales. $292,936,000 $29,744,000 $24,071,000 $298,609,000
+Operating income. $ 15,720,000 $ 1,193,000 $  42,000 $ 16,871,000
+Identifiable assets. $183,312,000 $32,542,000 $36,869,000 $178,985,000
+1996
+Sales to unaffiliated cus-
+tomers. $141,912,000 $    -- $     -- $141,912,000
+Sales and transfers be-
+tween geographic areas.      --      --      --                         Total sales. $141,912,000 $    -- $     -- $141,912,000
+Operating income. $ 8,929,000 $    -- $     -- $ 8,929,000
+Identifiable assets. $103,816,000 $    -- $     -- $103,816,000
+1995
+Sales to unaffiliated cus-
+tomers. $ 59,250,000 $    -- $     -- $ 59,250,000
+Sales and transfers be-
+tween geographic areas.      --      --      --                         Total sales. $ 59,250,000 $    -- $     -- $ 59,250,000
+Operating income. $ 3,479,000 $    -- $     -- $ 3,479,000
+Identifiable assets. $ 29,976,000 $    -- $     -- $ 29,976,000
+Other includes operating subsidiaries located in the United Kingdom, Russia,
+New Zealand and Cyprus. United States includes all remaining operations of the
+Company. Transfers between geographic areas are accounted for at cost plus a
+reasonable profit. Identifiable assets are those assets identified in the
+operations in each area or segment, including goodwill.
+41
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+The Company sells to long distance international telecommunications
+companies, to foreign partners and to retail customers. At December 31, 1997,
+the Company had 43 operating agreements and approximately 125 worldwide
+customers. Ten percent or more of the Company revenues have been derived
+from the following customers.
+YEAR ENDED DECEMBER 31,
+1997    1996    1995
+Frontier Communications, Inc.   $30,996,068   A     A
+Matrix Telecom, Inc. See Note 5   A   $20,514,040 $17,165,995  A Sales were less than 10% of total sales.
+6 COMMITMENTS AND CONTINGENCIES
+Litigation
+The Company is not currently subject to any legal proceedings that will have
+a material impact on the Company financial position or results of
+operations.
+Leases
+The Company leases office space and equipment under noncancelable operating
+leases. Rental expenses for 1997, 1996 and 1995 were $965,000, $255,000 and
+$142,000, respectively. The Company leases certain computer equipment under an
+agreement that is classified as a capital lease. The lease has a term of three
+years with a minimum purchase price at the end of the lease. Leased capital
+assets included in property and equipment at December 31, 1997 were $610,000.
+Future minimum lease payments under operating and capital leases as of
+December 31, 1997 are as follows:
+OPERATING CAPITAL
+LEASES  LEASES
+$1,040,000 $216,000
+603,000 216,000
+507,000  8,000
+467,000         437,000        2,200,000                                      Total minimum lease  $5,254,000 $440,000
+Amount representing        39,000
+Present value of net minimum payments.      $401,000
+Current       $216,000
+Employment Agreements
+The Company has entered into employment agreements with certain employees
+which provide that in the event of a change in control each of such employees
+would be entitled to severance following their resignation from the Company.
+Should such an event occur, the Company aggregate obligation for severance
+would be $1,173,000. Upon any such change in control, each individual would
+also receive full vesting of any outstanding stock options. In 1998, the
+Company entered into new agreements with certain employees which would
+increase the Company aggregate obligation for severance by approximately
+$1,603,000.
+Commitments
+At December 31, 1997 the Company had outstanding commitments of $11,800,000
+for the acquisition of additional ownership interests in digital undersea
+fiber optic cables and the expansion of existing switch sites.
+42
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+8 EMPLOYEE BENEFIT PLANS
+In September 1995, the Company established an Employee Stock Purchase Plan
+the Purchase Plan which is meant to qualify under section 423 of the
+Internal Revenue Code. It is intended for the Purchase Plan to become
+effective during 1998. Under the Purchase Plan, the Company reserved up to
+400,000 shares of common stock for purchase by employees who meet certain
+eligibility requirements. Eligible employees may contribute up to 10% of their
+compensation to the Purchase Plan to purchase shares at 85% of the fair market
+value of the stock on the first or last day of each six-month offering period
+as defined in the Purchase Plan.
+In 1996, the Company adopted a 401k plan pursuant to which eligible
+employees may accumulate savings on a tax-deferred basis. Each year the
+Company may make a discretionary profit sharing contribution to the 401k
+plan which will be allocated to the accounts of eligible employees who are
+employed on the last day of the year. The profit sharing allocation is made on
+a pro rata basis in proportion to the compensation of the eligible employees.
+The Company did not make a contribution in 1997 or 1996.
+9 STOCK OPTION PLAN
+On September 30, 1995, the Company adopted the 1995 Stock Option Plan the
+1995 Plan. The 1995 Plan provides for the granting of nonqualified and
+incentive stock options to purchase up to 1,200,000 shares of common stock.
+Options granted under the 1995 Plan generally vest over four years and must be
+exercised within five years. The maximum term of options granted is ten years.
+The Company granted options to purchase 883,411 shares of common stock under
+the 1995 Plan.
+On February 17, 1997, the Company adopted the 1997 Long-Term Incentive Plan
+the 1997 Plan, replacing the 1995 Plan. The 1997 Plan provides for the
+granting of awards of nonqualified and incentive stock options, stock
+appreciation rights, stock grants or stock-based performance units. Awards may
+be made under the 1997 Plan with respect to 4,000,000 shares of common stock
+and with respect to stock option and stock appreciation right awards, no more
+than 500,000 shares may be awarded to any one individual in any one-year
+period. The remaining terms of the 1997 Plan are similar to those described in
+the 1995 Plan. The Company granted options to purchase 1,610,000 shares of
+common stock in 1997 under the 1997 plan.
+The Company applies Accounting Principles Board Opinion No. 25, Accounting
+for Stock Issued to Employees, and related interpretations in accounting for
+its stock-based compensation plans. Accordingly, no compensation expense has
+been recognized for its plans. Had compensation cost for the Company stock
+option plans been determined based upon the fair value at the grant date for
+awards under these plans consistent with the methodology prescribed under SFAS
+No. 123, Accounting for Stock-Based Compensation, the Company earnings per
+share would have been reduced to the pro forma amounts indicated below:
+YEAR ENDED DECEMBER 31,
+1997    1996    1995
+Net income--as reported. $12,497,000 $5,808,000 $1,786,000
+Net income--pro forma. $11,469,000 $5,244,000 $1,636,000
+Earnings per share--basic as reported. $   066 $   036 $   013
+Earnings per share--basic pro forma. $   060 $   032 $   012
+Earnings per share--diluted as reported. $   064 $   034 $   012
+Earnings per share--diluted pro forma. $   059 $   031 $   011
+43
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+The fair value of the options granted by the Company is estimated at $307
+million on the date of the grant using the Black-Scholes Model for those
+options issued after the Company initial public offering and the Minimum
+Value methodology for those options granted prior to the offering. The
+assumptions used in the Black Scholes model are: dividend yield 0%, volatility
+409%, risk free interest rate of 58%, assumed forfeiture rate of 0% and an
+expected life of 5 years.
+During 1997, 75,000 shares of restricted stock were granted under the 1997
+Plan. The fair value of $4,134,375 will be recognized as compensation expense
+over the 10-year vesting period. For the year ended December 31,1997, $146,000
+was recognized as compensation expense for restricted stock and stock options
+granted to non-employees.
+Stock Option Awards were:
+YEAR ENDED DECEMBER 31,
+1997         1996        1995
+WEIGHTED-      WEIGHTED-      WEIGHTED-
+AVERAGE       AVERAGE       AVERAGE
+OPTION  EXERCISE  OPTION  EXERCISE  OPTION  EXERCISE
+SHARES   PRICE  SHARES   PRICE  SHARES   PRICE
+Options outstanding,
+Beginning of year.  883,411  $ 977   509,170 $ 823     --  $  Options granted. 1,610,000  4160   374,241  1258   509,170  823
+Options exercised. 101,660  730     --   --     --    Options forfeited.  95,686  1108     --   --     --                          Options outstanding,
+End of year. 2,296,065  $3214   883,411 $ 977   509,170  $823
+Option price range at  $8500 to      $4400 to      $4400 to
+End of year. $ 50188      $ 29500      $  9000
+Option shares available
+for grant
+at end of year. 2,405,000       316,589       690,830
+The following table summarizes information concerning currently outstanding
+and exercisable options:
+OPTIONS OUTSTANDING    OPTIONS EXERCISABLE
+WEIGHTED
+AVERAGE  WEIGHTED       WEIGHTED
+REMAINING AVERAGE       AVERAGE
+NUMBER  CONTRACTUAL EXERCISE  NUMBER  EXERCISE
+OUTSTANDING  LIFE   PRICE  EXERCISABLE PRICE
+RANGE OF EXERCISE PRICES                                     
+$ 8500 14000.   671,065   199   $ 918  323,785  $ 902
+$ 24750 29500.   170,500   323    2627   10,000   2950
+$ 38500 50188.  1,454,500   392    4342     --                                    $ 8500 50188.  2,296,065   331   $3214  333,785  $ 963
+44
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+10 CAPITAL STOCK
+On September 30, 1995, the Company Board of Directors authorized
+management to file a registration statement with the Securities and Exchange
+Commission to permit the Company to sell shares of its common stock to the
+public. On September 30, 1995, the Company Board of Directors authorized an
+amendment to the Certificate of Incorporation which was approved by the
+shareholders on the same date. The amendment effected a 940 to 1 split of the
+Company Common Stock and adjusted the authorized shares to 25,000,000 shares
+of common stock, $0001 par value per share, and 1,000,000 shares of Preferred
+Stock, $0001 par value per share. The 940 to 1 split was effective October
+20, 1995. The rights, preferences and limitations of the Preferred Stock may
+be designated by the Company Board of Directors at any time.
+On July 19, 1996, the Company completed an initial public offering of
+6,057,050 shares of common stock of which 4,940,050 were offered by the
+Company and 1,116,550 shares were offered by certain selling shareholders. The
+net proceeds to the Company after deducting underwriting discounts and
+estimated offering expenses from the sale of the shares was approximately
+$541 million.
+11 STOCKHOLDERS' RIGHTS PLAN
+On November 17, 1997, the Board of Directors of the Company declared a
+dividend of one preferred share purchase right a Right for each
+outstanding share of Common Stock. Subject to certain exceptions, each Right,
+when exercisable, entitles the registered holder to purchase from the Company
+one one-thousandth of a share of Series A Junior Participating Preferred
+Stock, par value $00001 per share the Preferred Stock, of the Company at
+a price of $200, subject to adjustment the Purchase Price.
+The Rights generally will only be exercisable i ten days following a
+public announcement that a person or group of affiliated or associated persons
+an Acquiring Person has acquired, or obtained the right to acquire, 15% or
+more of the outstanding shares of the Company Common Stock or ii 15
+business days following commencement of or an announcement of an intention to
+make a tender or exchange offer for 15% or more of the outstanding shares of
+the Common Stock. The Rights will expire, if not previously exercised,
+exchanged or redeemed, on December 1, 2007.
+If any person or group generally acquires 15% or more of the Company
+outstanding Common Stock, each Right, except those held by such an Acquiring
+Person, would entitle each holder of a Right to acquire, upon exercise at the
+then current exercise price of the Right, Common Stock having a value equal to
+two times the exercise price of the Right.
+At anytime after a person or group generally acquires more than 15% of the
+outstanding Common Stock and prior to their acquisition of 50% or more of the
+outstanding Common Stock, each Right, except those held by such an Acquiring
+Person, may be exchanged by the Board of Directors for one share of Common
+Stock.
+If the Company is acquired in a merger or other business combination
+transaction or 50% or more of the Company assets or earnings power is sold,
+each Right will entitle the holder thereof except for the Acquiring Person
+to receive, upon exercise at the then current exercise price of the Right,
+common stock of the acquiring or surviving company having a value equal to two
+times the exercise price of the Right.
+At any time prior to the time an Acquiring Person becomes such, the Board of
+Directors may redeem the Rights in whole, but not in part, at a price of $01
+per Right the Redemption Price.
+45
+PACIFIC GATEWAY EXCHANGE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+12 NEW ACCOUNTING PRONOUNCEMENTS
+In June 1997, the FASB issued SFAS No. 130, Reporting Comprehensive
+Income. SFAS No. 130 establishes standards for reporting and display of
+comprehensive income and its components in a financial statement that is
+displayed with the same prominence as other financial statements.
+Comprehensive income as defined includes all changes in equity net assets
+during a period from nonowner sources. Examples of items to be included in
+comprehensive income, which are excluded from net income, include foreign
+currency translation adjustments. Management is currently evaluating the
+financial statement and disclosure impact of the adoption of SFAS No. 130. The
+disclosures prescribed by SFAS No. 130 must be made beginning with the quarter
+ended March 31, 1998
+In June 1997, the FASB issued SFAS No. 131, Disclosures about Segments of
+an Enterprises and Related Information. This statement establishes standards
+for the way companies report information about operating segments in annual
+financial statements. It also establishes standards for related disclosures
+about products and services, geographic areas, and major customers. The
+Company is in the process of evaluating the disclosure impact of adopting this
+new standard. The disclosures prescribed by SFAS No. 131 must be made for the
+year ended December 31, 1998.
+13 SUBSEQUENT EVENT
+On February 13, 1998, the Company purchased of 166% of Ekonom S.A. de C.V.,
+a Mexican multimedia company existing under the laws of the United Mexican
+States, for $3,600,000 in cash and $1,800,000 in Pacific Gateway stock. The
+Company investment in Ekonom will be accounted for the under the cost method
+in 1998.
+46
+Item 3. LEGAL PROCEEDINGS
+The Company is not currently subject to any material legal proceedings.
+Item 4. DIRECTORS AND EXECUTIVE OFFICERS
+The information concerning directors required by this item is incorporated
+by reference to the information contained under the captions Election of
+Directors, Meetings and Committees of the Board and Section 16a
+Beneficial Ownership Reporting Compliance in the Company Proxy Statement
+for the 1998 Annual Meeting of Stockholders.

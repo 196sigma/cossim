@@ -1,0 +1,848 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS, EXCEPT FOR SHARE RELATED DATA
+DECEMBER 31
+1996   1995
+ASSETS
+Current assets:
+Cash and cash  $ 12,327 $ 33,262
+Securities   82,227  46,514
+Accounts receivable, less allowance of $685 in 1996 and
+$525 in 1995 for doubtful   39,092  28,013
+Prepaid   1,203    928
+Other current   1,785   1,153
+Deferred tax   2,233   1,535
+Total current  138,867  111,405
+Property and equipment:
+Equipment and leasehold improvements, net of accumulated
+depreciation and   13,033  12,026
+Real estate, net of accumulated depreciation.  4,155   4,195
+17,188  16,221
+Other:
+Other    285    284
+Deferred tax   2,235    501
+2,520    785
+Total  $158,575 $128,411
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts  $ 8,789 $ 5,421
+Accrued   7,831   7,233
+Federal and state taxes    735   1,267
+Deferred   8,951   7,766
+Current portion of long-term debt.   200    203
+Total current   26,506  21,890
+Long-term debt related to real estate, less current
+2,600   2,907
+Minority   2,079   1,182
+Stockholders' equity:
+Preferred stock, par value $001 per share, 5,000,000
+shares authorized, none 
+Common stock, par value $001 per share authorized
+50,000,000 shares; issued and outstanding 20,988,595 and
+20,337,196 in 1996 and 1995, respectively.   210    203
+Additional paid-in   91,505  81,364
+Retained   35,698  20,816
+127,413  102,383
+Less cumulative unrealized gains losses on securities
+23    49
+Total stockholders'  127,390  102,432
+Total liabilities and stockholders' equity. $158,575 $128,411
+See accompanying notes.
+24
+CONSOLIDATED STATEMENTS OF INCOME
+IN THOUSANDS, EXCEPT FOR PER SHARE DATA
+YEAR ENDED DECEMBER 31
+1996   1995   1994
+Revenues:
+Software license  $ 52,464 $ 40,445 $ 26,857
+Maintenance and service fees.  74,232  63,194  51,621
+Hardware   30,883  24,481  26,228
+Total  157,579  128,120  104,706
+Operating expenses:
+Cost of license, maintenance and service fees.  55,485  50,007  37,178
+Cost of hardware   24,060  18,743  21,125
+Selling, general and administrative.  33,422  25,539  21,859
+Research and   23,974  19,529  17,616
+136,941  113,818  97,778
+Operating   20,638  14,302   6,928
+Other income expense:
+Interest   4,752  2,401   964
+Interest    157    227    442
+Minority    430    369    933
+Loss on impairment of investment.            1,500
+4,165  1,805  1,911
+Income before income taxes.  24,803  16,107   5,017
+Income tax provision benefit:
+Current year   9,921   1,778    325
+Change in tax        2,036
+9,921   258   325
+Net  $ 14,882 $ 16,365 $ 4,692
+Net income per  $  070
+Weighted average shares outstanding.  21,403
+Pro forma information unaudited:
+Historical income before income taxes.      $ 16,107 $ 5,017
+Pro forma income        6,500   2,700
+Pro forma net       $ 9,607 $ 2,317
+Pro forma net income per share.      $  055 $  013
+Pro forma weighted average shares outstanding.       17,544  17,465
+See accompanying notes.
+25
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+IN THOUSANDS
+COMMON STOCK           TREASURY STOCK
+UNREALIZED
+GAIN LOSS ON
+ADDITIONAL                SECURITIES    TOTAL
+PAR  PAID-IN  RETAINED           AVAILABLE  STOCKHOLDERS'
+SHARES VALUE CAPITAL  EARNINGS SHARES  COST    FOR SALE    EQUITY
+Balances at December 31,
+1993. 13,200 $132  $  454  $51,325    615 $ 393         $ 51,518
+S Corporation
+distribution.             12,774                   12,774
+Capital contribution.           65                           65
+Stock issued upon
+exercise of
+nonqualified stock
+options.  1,318  13    462                           475
+Tax benefit related to
+exercise of
+nonqualified stock
+options.          240                           240
+Change in unrealized
+gain loss on
+securities available-
+for-sale                                    $264      264
+Net income.              4,692                     4,692
+Balances at December 31,
+1994. 14,518 145   1,221  43,243    615   393   264     43,952
+S Corporation
+distribution.             38,792                   38,792
+Stock issued upon
+exercise of
+nonqualified stock
+options.  1,021  10   2,963        615   393           3,366
+Tax benefit related to
+exercise of
+nonqualified stock
+options.          187                           187
+Stock issued upon
+exercise of incentive
+stock options.   193  2    875                           877
+Stock issued upon
+initial public
+offering, net of
+offering costs of
+$6,717.  4,605  46  76,118                         76,164
+Change in unrealized
+gain loss on
+securities available-
+for-sale                                     313       313
+Net income.              16,365                    16,365
+Balances at December 31,
+1995. 20,337 203  81,364  20,816              49     102,432
+Stock issued upon
+exercise of
+nonqualified stock
+options.    8       56                           56
+Tax benefit related to
+exercise of
+nonqualified stock
+options.         4,648                          4,648
+Stock issued upon
+exercise of incentive
+stock options.   483  5   2,529                          2,534
+Stock issued in
+connection with
+employee stock
+purchase plan.   160  2   2,908                          2,910
+Change in unrealized
+gain loss on
+securities available-
+for-sale                                     72      72
+Net income.              14,882                    14,882
+Balances at December 31,
+1996. 20,988 $210  $91,505  $35,698             $ 23    $127,390
+See accompanying notes.
+26
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS
+YEAR ENDED DECEMBER 31
+1996   1995   1994
+OPERATING ACTIVITIES
+Net  $ 14,882 $ 16,365 $ 4,692
+Adjustments to reconcile net income to net cash
+provided by operating activities:
+Depreciation and   4,687   3,920  3,696
+Deferred tax   2,432  2,036
+Increase in allowance for doubtful accounts.   298    387   161
+Minority    430    369   933
+Loss on impairment of investment.            1,500
+Changes in operating assets and liabilities:
+Accounts  11,377 10,137  1,132
+Prepaid expenses and other assets.   908   919   275
+Accounts   3,368   1,809  2,330
+Accrued    598   3,180  2,182
+Federal and state taxes payable.   532  1,264
+Deferred   1,185   1,577  1,334
+Net cash provided by operating activities.  10,199  17,617  15,567
+INVESTING ACTIVITIES
+Purchase of property and equipment, net.  5,654  5,322 3,303
+Investment in preferred stock.           1,000
+Purchase of securities available-for-sale. 128,597 41,474 1,931
+Proceeds from sale of securities available-for-
+sale,   92,812    959  7,030
+Net cash provided by used in investing
+41,439 45,837   796
+FINANCING ACTIVITIES
+Proceeds from sale of common stock.  5,500   4,243   475
+Tax benefit related to exercise of non qualified
+stock   4,648
+Proceeds from initial public offering, net.       76,164
+S Corporation       38,792 12,774
+Contributions to distributions from
+467   225  320
+Capital              65
+Repayment issuance of notes receivable from
+related        12,477  7,210
+Proceeds from advances to related party.       1,161  2,361
+Payments on long-term debt related to real
+310   376  666
+Net cash provided by used in financing
+10,305  54,652 22,791
+Increase decrease in cash and cash
+20,935  26,432  6,428
+Cash and cash equivalents at beginning of year.  33,262   6,830  13,258
+Cash and cash equivalents at end of year. $ 12,327 $ 33,262 $ 6,830
+SUPPLEMENTAL CASH FLOW INFORMATION
+Cash paid for  $  127 $  218 $  453
+Cash paid for income taxes. $ 8,237 $  259 $  101
+See accompanying notes.
+27
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+DECEMBER 31, 1996
+1. SIGNIFICANT ACCOUNTING POLICIES
+NATURE OF BUSINESS
+IDX Systems Corporation the Company operates in one principal industry
+segment providing health care information systems and services throughout the
+United States. Revenues are derived from the licensing of software,
+maintenance and installation of software systems, and sale of computer
+hardware.
+BASIS OF PRESENTATION AND PRINCIPLES OF CONSOLIDATION
+The Company leases a substantial portion of its space, including its
+corporate headquarters and certain sales and support offices, from real estate
+partnerships and trusts owned by stockholders and certain key employees of the
+Company. These real estate partnerships and trusts include 116 Huntington
+Avenue Limited Partnership HLP, BDP Realty Associates BDP and other
+real estate partnerships and trusts REPs. Under generally accepted
+accounting principles and rules and regulations of the Securities and Exchange
+Commission the Commission, the Company consolidated financial statements
+are required to include the accounts of the Company and those real estate
+partnership and trusts Affiliates whose real estate is leased exclusively
+by the Company and for which the Company is subject to substantially all the
+risks of ownership. Accordingly, for the year ended December 31, 1994, the
+accompanying consolidated statements of income include the operations of the
+Company, BDP and the REPs. Real estate owned by HLP is leased to the Company
+under an operating lease. As a result of the termination of leases for
+substantially all the space leased from the REPs in 1995, the accompanying
+consolidated financial statements at December 31, 1996 and 1995 and for the
+years then ended, include only the accounts of the Company and BDP. All
+transactions between the Company and Affiliates are eliminated. Minority
+interest represents net income and equity of the Affiliates.
+RECLASSIFICATION
+Certain amounts in 1995 and 1994 have been reclassified to permit
+comparison.
+REVENUE RECOGNITION
+Software License Fees
+The Company recognizes revenue in accordance with the provisions of AICPA
+Statement of Position No. 91-1 Software Revenue Recognition SOP 91-1.
+Software license fees represent revenues derived from the license of the
+Company proprietary systems software. License revenue is deferred and
+recognized upon fulfillment of contractual obligations based upon achievement
+of specified milestones including delivery, installation, live processing of
+customer transactions and final acceptance. During 1997, the AICPA is expected
+to issue an SOP revising certain aspects of SOP 91-1. Based upon the current
+version of the proposed SOP, the Company does not expect adoption will
+materially affect its revenue recognition policies with respect to software
+license fees which are principally recognized in connection with the
+fulfillment of contractual obligations based upon achievements of milestones.
+The expected issue date is currently not known.
+Hardware Sales
+Sale of computer equipment is recognized upon shipment, provided post-sale
+vendor obligations are insignificant. If significant, revenue is deferred
+until the obligations are fulfilled.
+28
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Maintenance and Services
+Installation service revenue related to systems sales is recognized upon
+fulfillment of contractual obligations based upon achievement of specified
+milestones. Professional service revenue is recognized as the services are
+performed. Maintenance is recognized ratably over the term of the agreement.
+RESEARCH AND DEVELOPMENT COSTS
+Research and development costs are expensed as incurred. Software
+development costs incurred after the establishment of technological
+feasibility and until the product is available for general release are
+capitalized, provided recoverability is reasonably assured. Technological
+feasibility is established upon the completion of a working model which has
+been approved for beta site testing. Software development costs, when
+material, are amortized over the expected life of the product which, due to
+the frequency of product revision releases, generally does not exceed two
+years. In 1996, 1995 and 1994, software development costs eligible for
+capitalization were not material and have been expensed.
+CASH EQUIVALENTS
+The Company considers highly liquid investments generally with a maturity of
+three months or less when purchased, to be cash equivalents. Cash equivalents
+are stated at cost, which approximates market value.
+RISKS AND UNCERTAINTIES
+Concentration of Credit Risk
+Financial instruments which potentially subject the Company to a
+concentration of credit risk principally consist of cash and cash equivalents,
+securities available-for-sale, and trade receivables.
+The Company invests excess cash primarily in money market mutual funds with
+high credit ratings, equity securities with highly rated issuers and treasury
+notes and bonds issued by the United States Government and the State of
+Vermont.
+The Company sells its systems and services to health care providers
+throughout the United States. To reduce credit risk, the Company performs
+ongoing credit evaluations of the financial condition of its customers.
+Although the Company is directly affected by the overall financial condition
+of the health care industry, management does not believe significant credit
+risk exists at December 31, 1996. The Company losses, which have
+consistently been within management expectations, related to collection of
+trade accounts receivable were approximately $138,000, $242,000 and $181,000,
+in 1996, 1995 and 1994, respectively.
+Significant Estimates and Assumptions
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make significant
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the reporting period. Significant estimates and assumptions by
+management affect the Company allowance for doubtful accounts, revenue
+recognition and certain accrued expenses. Actual results could differ from
+those estimates.
+INVESTMENT SECURITIES
+The Company accounts for investment securities based on Statement of
+Financial Accounting Standards No115, Accounting for Certain Investments in
+Debt and Equity Securities SFAS No. 115. SFAS
+29
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+No. 115 provides the accounting and reporting requirements for investments in
+equity securities that have readily determinable fair values and for all
+investments in debt securities. All of the Company investments have been
+classified as available-for-sale securities at December 31, 1996 and 1995.
+Available-for-sale securities are carried at fair value with unrealized gains
+and losses reported as a component of stockholders' equity.
+PROPERTY AND EQUIPMENT
+Real estate, which includes land, buildings and related improvements owned
+by an Affiliate, is stated at cost. Buildings and related improvements are
+depreciated using the straight-line method over their estimated useful lives
+of 30 to 40 years.
+Equipment is stated at cost and is depreciated over its estimated useful
+life by using the straight-line method. Depreciation is generally computed
+based on useful lives of three to five years for computer equipment and
+software and five to ten years for furniture and fixtures. Leasehold
+improvements are amortized using the straight-line method over the lesser of
+the term of the respective lease or the estimated useful life of the asset.
+ACCOUNTING FOR THE IMPAIRMENT OF LONG-LIVED ASSETS
+Effective January 1, 1996, the Company adopted SFAS No. 121, Accounting for
+the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed
+Of, which requires impairment losses to be recognized for long-lived assets
+used in operations when indicators of impairment are present and the
+undiscounted cash flows are not sufficient to recover the assets' carrying
+amount. The impairment loss is measured by comparing the fair value of the
+asset to its carrying amount. The adoption of SFAS No. 121 did not have any
+effect on the carrying value of long-lived assets.
+INCOME TAXES
+On November 1, 1995, the Company terminated its status as an S Corporation
+under Section 1362 of the Internal Revenue Code, and thereafter has become
+subject to federal and state corporate income taxes. Prior to November 1,
+1995, the Company was not liable for federal income taxes as income was taxed
+directly to the Company stockholders. The Company had provided for income
+taxes in states in which it operated that did not recognize S Corporation
+status. This change in tax status resulted in the Company recording a
+$2,036,000 tax benefit in 1995.
+The Company accounts for income taxes using the liability method as required
+by SFAS No. 109, Accounting for Income Taxes. Under this method, deferred
+income taxes are recognized for the future tax consequences of differences
+between the tax and financial accounting of assets and liabilities at each
+year end. Deferred income taxes are based on enacted tax laws and statutory
+tax rates applicable to the periods in which the differences are expected to
+affect taxable income. A valuation allowance is established when necessary to
+reduce deferred tax assets to the amounts expected to be realized. Income tax
+expense is the tax payable for the period and the change during the period in
+deferred tax assets and liabilities.
+STOCK OPTION PLANS
+The Company grants stock options for a fixed number of shares to employees
+with an exercise price equal to the fair value of the shares at the date of
+the grant. The Company has elected to follow Accounting Principles Board
+Opinion No. 25, Accounting for Stock Issued to Employees APB 25 and
+related Interpretations in accounting for its employee stock options because,
+as discussed below, the alternative fair value accounting provided for under
+SFAS No. 123, Accounting for Stock-Based Compensation, requires use of
+option valuation models that were not developed for use in valuing employee
+stock options. Under APB 25, because
+30
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+the exercise price of the Company employee stock options equals the market
+price of the underlying stock on the date of grant, no compensation expense is
+recognized.
+NET INCOME PER SHARE
+Net income per share is computed using the weighted average number of shares
+of common stock and dilutive common equivalent shares outstanding during the
+period. Common equivalent shares consist of the incremental common shares
+issuable upon the exercise of stock options using the treasury stock method.
+Primary and fully diluted net income per share amounts were the same in 1996.
+PRO FORMA INFORMATION UNAUDITED
+Pro Forma Consolidated Statement of Income
+On November 1, 1995, the Company terminated its status as an S Corporation
+and thereafter became subject to federal and state corporate income taxes.
+Accordingly, for informational purposes, the accompanying consolidated
+statements of income for the years ended December 31, 1995 and 1994 includes
+an unaudited pro forma adjustment for income taxes, based on the tax laws in
+effect at the time, which would have been recorded if the Company had not been
+an S Corporation.
+Total pro forma income tax expense is different from the amount which would
+be provided by applying the statutory federal rate to income before income
+taxes principally due to the effect of state income taxes, non-deductible
+permanent items and capital losses for which a valuation allowance has been
+provided due to the uncertainty of realization during the carryforward period.
+Pro Forma Net Income Per Share
+Pro forma net income per share is computed using pro forma net income and
+the weighted average number of common and dilutive common stock equivalent
+shares. Common Stock equivalents are attributable to stock options using the
+treasury stock method and, for the nine-month period ended September 30, 1995
+and the year ended December 31, 1994, include the weighted average estimated
+number of shares which was necessary to fund the payment of undistributed S
+Corporation earnings in excess of the previous twelve months net income.
+Common Stock and Common Stock equivalent shares issued during the twelve-month
+period prior to the effective date of the initial public offering have been
+included in the calculation as if they were outstanding for the nine-month
+period ended September 30, 1995 and the year ended December 31, 1994 using the
+treasury stock method. The initial public offering price was used in the
+determination of Common Stock equivalents for all periods presented up to the
+effective date of the initial public offering. After that date, the market
+prices of Common Stock were used for computing Common Stock equivalents.
+Primary and fully diluted pro forma net income per share are the same for each
+period presented.
+31
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+2. SECURITIES AVAILABLE-FOR-SALE
+The following is a summary of securities available-for-sale at December 31,
+1996 and 1995:
+GROSS   GROSS  ESTIMATED
+UNREALIZED UNREALIZED  FAIR
+COST   GAINS   LOSSES   VALUE
+IN THOUSANDS
+DECEMBER 31, 1996
+U.S. government securities. $38,065  $43    $56  $38,052
+Other debt securities.  1,563   1     11   1,553
+Total debt securities. 39,628   44     67   39,605
+Equity   8,500             8,500
+Tax-free investment fund. 34,122             34,122
+$82,250  $44    $67  $82,227
+DECEMBER 31, 1995
+U.S. government securities. $ 3,178  $50    $16  $ 3,212
+Other debt securities.   500         4    496
+Total debt securities.  3,678   50     20   3,708
+Equity   2,242   19          2,261
+Tax-free investment fund. 40,545             40,545
+$46,465  $69    $20  $46,514
+The net unrealized gain loss on securities available-for-sale included as
+a separate component of stockholders' equity totaled $23,000 and $49,000 at
+December 31, 1996 and 1995, respectively.
+Marketable equity securities and the amortized cost and estimated fair value
+of debt securities at December 31, 1996, by contractual maturity, are shown
+below.
+ESTIMATED FAIR
+COST    VALUE
+IN THOUSANDS
+Due in one year or  $32,054  $32,029
+Due after one year through three years.  5,939   5,940
+Due after three   1,635   1,636
+39,628   39,605
+Equity   8,500   8,500
+Tax-free investment  34,122   34,122
+$82,250  $82,227
+3. ADVANCES TO RELATED PARTIES
+During 1995 and 1994, the Company advanced $309,000 and $2,361,000,
+respectively, to HLP which was used in connection with the construction of
+leasehold improvements to be owned by the Company. At December 31, 1995,
+leasehold improvements of $1,509,000 were capitalized by the Company and the
+balance of the advance of $1,161,000 was remitted to the Company.
+32
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+4. EQUIPMENT AND LEASEHOLD IMPROVEMENTS
+Equipment and leasehold improvements consists of the following:
+DECEMBER 31
+1996  1995
+IN THOUSANDS
+Computer equipment and  $19,288 $17,480
+Furniture and   3,951  3,071
+Leasehold   6,810  4,940
+30,049 25,491
+Less accumulated depreciation and amortization. 17,016 13,465
+$13,033 $12,026
+5. INVESTMENT IN PREFERRED STOCK
+In December 1993, the Company entered into a Preferred Stock Purchase
+Agreement Stock Agreement with a development stage company Investee
+engaged in the development and sale of software systems for clinical care
+applications. The Stock Agreement provided that the Investee issue 15,000
+shares of $100 par value preferred stock in exchange for $1,500,000 payable in
+installments from December 1993 to November 1994. During 1994 the Investee
+incurred a substantial operating loss and deficiency in revenues compared to
+the Investee business plan upon which the Company had placed significant
+reliance at the date of its investment. Based on this information, the Company
+believes that its investment has been substantially impaired on an other than
+temporary basis and, as of December 31, 1994, recognized a loss of $1,500,000.
+6. ACCRUED EXPENSES
+Accrued expenses consist of the following:
+DECEMBER 31
+1996  1995
+IN
+THOUSANDS
+Employee compensation and  $5,777 $4,217
+2,054 3,016
+$7,831 $7,233
+7. CREDIT ARRANGEMENTS
+Under a line of credit arrangement with a bank, the Company may borrow up to
+$2,000,000 on a demand basis subject to terms and conditions upon which the
+Company and the bank may mutually agree. The line of credit arrangement
+expires on May 31, 1997. At December 31, 1996 and for each of the three years
+in the period then ended, there were no borrowings under this arrangement.
+8. REAL ESTATE
+OWNED BY AFFILIATES
+Real estate as of December 31, 1996 and 1995 includes land and buildings
+owned by BDP whose real estate was leased almost exclusively by the Company
+and for which the Company is subject to substantially all the risks of
+ownership. BDP is owned and controlled by stockholders and certain key
+employees of the Company
+33
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+and is required to be consolidated under generally accepted accounting
+principles and rules and regulations of the Commission. At December 31, 1996
+and 1995, this real estate consisted of the following:
+DECEMBER 31
+1996  1995
+IN
+THOUSANDS
+Corporate  $5,438 $5,351
+Accumulated  1,283 1,156
+$4,155 $4,195
+Long-term debt related to certain of the real estate described above is as
+follows:
+DECEMBER 31
+1996  1995
+IN
+THOUSANDS
+Obligation under industrial revenue bond, principal
+installments of $200 in 1997 and $2,600 in 2009, interest at
+a floating variable rate 46% at December 31, 1996, secured
+by real estate owned by  $2,800 $3,000
+110
+2,800 3,110
+Less current   200  203
+Long-term  $2,600 $2,907
+The industrial revenue bond and related mortgage notes payable are
+collateralized by land and buildings consisting of the Company corporate
+headquarters and certain sales and support offices. These obligations require
+the Affiliates and the Company to maintain certain financial ratios and comply
+with certain covenants. Interest expense related to this debt amounted to
+$155,000, $204,000 and $279,000 in 1996, 1995, and 1994, respectively.
+OPERATING LEASES
+During 1994, the Company entered into a long-term lease agreement for
+approximately 40% of the office space in a commercial office building in
+Boston owned by HLP see Note 3. HLP is owned and controlled by stockholders
+and certain key employees of the Company. In connection with entering into
+this lease, the Company terminated existing leases for substantially all the
+space at the sales and support offices owned by the REP. At December 31,
+1996, future obligations due under the operating lease with HLP, REP and
+unrelated parties for sales and support offices are as follows:
+HLP  REPS SUB TOTAL OTHERS  TOTAL
+IN THOUSANDS
+Year ending December 31:
+$ 2,106 $ 309 $ 2,415 $ 1,366 $ 3,781
+2,106  265  2,371  1,260  3,631
+2,106  221  2,327  1,080  3,407
+2,317  221  2,538   642  3,180
+2,317  221  2,538   362  2,900
+35,382  110  35,492   181 35,673
+$46,334 $1,347 $47,681 $ 4,891 $52,572
+34
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Total rent expense amounted to $4,146,000, $4,302,000 and $1,608,000, during
+1996, 1995 and 1994, respectively. Total rent expense includes $2,621,000 2,571,000 and $975,000 in 1996, 1995 and 1994, respectively, related to the
+lease with HLP. Total rent expense includes $381,000 and $915,000 in 1996 and
+1995, respectively, related to the leases with the REPs.
+9. INCOME TAXES
+The provision benefit for income taxes consists of the following:
+1996   1995  1994
+IN THOUSANDS
+Currently payable:
+$10,142 $ 1,556
+2,211   222 $325
+12,353  1,778  325
+Deferred, principally  2,432 2,036
+$ 9,921 $ 258 $325
+A reconciliation of the federal statutory rate to the effective income tax
+rate during 1996 is as follows:
+Tax at federal statutory  340%
+State taxes, net of federal  55
+Other,   5
+400%
+Significant components of the Company deferred tax asset are as follows:
+DECEMBER 31
+1996  1995
+IN
+THOUSANDS
+Deferred  $ 937 $ 646
+2,235  501
+Allowances and  1,296  889
+Capital loss   600  600
+5,068 2,636
+Less valuation   600  600
+$4,468 $2,036
+10. RECAPITALIZATION AND INITIAL PUBLIC OFFERING
+In September 1995, the Company Board of Directors and stockholders
+approved a four-for-one stock split of its Common Stock, effective September
+27, 1995. All shares and option information in the accompanying consolidated
+financial statements have been retroactively adjusted to reflect the stock
+split.
+In September 1995, the Company Board of Directors and stockholders
+approved an amendment to its charter to authorize 5,000,000 shares of
+undesignated preferred stock, and increase the number of authorized shares of
+Common Stock to 50,000,000. These amendments became effective on November 17,
+1995.
+35
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+In November 1995, the Company completed its initial public offering in which
+4,604,500 shares of Common Stock were sold at a per share price of $18. Net
+proceeds, after deduction of $6,717,000 for underwriters' fees and other
+offering costs, amounted to $76,164,000.
+11. BENEFIT PLANS
+PROFIT SHARING RETIREMENT PLAN
+The Company maintains a profit sharing retirement plan for all employees
+meeting age and service requirements. The contributions to the plan are
+discretionary, as determined by the Board of Directors. The Company expects to
+continue the plan indefinitely; however, the Company has reserved the right to
+modify, amend or terminate the plan. For the years ended December 31, 1996,
+1995 and 1994, the Company has expensed $2,840,000, $2,400,000 and $2,046,000,
+respectively.
+STOCK PURCHASE PLAN
+In September 1995, the Company Board of Directors and stockholders
+approved the 1995 Employee Stock Purchase Plan the ESPP under which
+eligible employees may purchase Common Stock at a price per share equal to 85%
+of the lower of the fair market value of the Common Stock at the beginning or
+end of each offering period. Participation in the offering is limited to 10%
+of an employee compensation not to exceed amounts allowed under Section 423
+of the Internal Revenue Code, may be terminated at any time by the employee
+and automatically ends on termination of employment with the Company. A total
+of 500,000 shares of Common Stock have been reserved for issuance under this
+plan. During the year ended December 31, 1996, approximately 160,000 shares
+were purchased under this plan. At December 31, 1995, $351,000 had been
+withheld from employees' salaries for 1996 purchases under the plan and were
+included in accrued expenses.
+NONQUALIFIED STOCK OPTIONS
+Nonqualified stock options are granted at a minimum of the fair market value
+at the date of grant, and generally vest over five years or immediately in the
+event of a public stock offering or the merger of the Company when the Company
+is not the surviving entity. The options have no expiration date. As of
+December 31, 1996, nonqualified options to acquire 3,516,596 shares of Common
+Stock have been granted at exercise prices ranging from $31 to $3188 per
+share. During 1996, 1995 and 1994, options to acquire 8,000, 1,636,020 and
+1,318,000 shares, respectively, were exercised at prices ranging from $31 to
+$782 per share.
+In September 1995, the Company Board of Directors approved the 1995
+Director Stock Option Plan the Director Plan, which provides that each
+non-employee director of the Company be granted an option to acquire 2,000
+shares of Common Stock on the date that person becomes a director but, in any
+event, not earlier than the effective date of the Director Plan. Options are
+granted at a price equal to the fair market value on the date of grant. The
+option becomes exercisable on the first anniversary of the date of grant, and
+the term of the option is ten years from the date of grant. The Company has
+reserved 30,000 shares of Common Stock for issuance under the Director Plan.
+As of December 31, 1996, options to acquire 12,000 shares of Common Stock have
+been granted under the Director Plan at exercise prices ranging from $1800 to
+$3675 per share, 6,000 of which are exercisable.
+INCENTIVE STOCK OPTION PLANS
+During 1985 and 1994, the Company established incentive stock option plans
+providing for the grant of options for the issuance of 959,640 and 696,460
+shares, respectively, of Common Stock. Options are granted at fair market
+value at the time of grant and became immediately exercisable at the time of
+the initial public
+36
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+offering. The 1994 Plan also provides for the grant of stock appreciation
+rights SAR. The options expire on the tenth anniversary of the date of
+the grant or upon termination of employment. No SAR have been granted under
+the 1994 Plan which terminated upon the completion of the initial public
+offering. The 1985 Plan was terminated in March 1995.
+In September 1995, the Company stockholders approved the 1995 Stock Option
+Plan the 1995 Option Plan. The 1995 Option Plan provides for the grant of
+stock options to employees, officers and directors of, and consultants and
+advisors to, the Company. Under the 1995 Option Plan, the Company may grant
+options that are intended to qualify as incentive stock options under
+provisions of the Internal Revenue Code or options not intended to qualify as
+incentive stock options. The option grants, exercise price, vesting and
+expiration will be authorized by a compensation committee comprised of the
+Company nonmanagement directors. A total of 1,470,000 shares of Common Stock
+may be issued upon the exercise of options granted under the 1995 Option Plan.
+In 1994, the Board of Directors voted to distribute $424,000 to certain key
+employees who are not stockholders. These distributions, which were charged to
+selling, general and administrative expense in the year distributed, were made
+to compensate key employees in connection with the expiration of certain
+incentive stock options. These distributions were discretionary and the Board
+is not obligated to approve similar distributions in future years.
+STOCK BASED COMPENSATION
+Pro forma information regarding net income and earnings per share is
+required by SFAS No. 123, and has been determined as if the Company had
+accounted for its employee stock options and shares issued pursuant to the
+ESPP under the fair value method of that Statement. The fair value for these
+options and shares issued pursuant to the ESPP were estimated at the date of
+grant using the Black-Scholes option pricing model with the following weighted
+average assumptions:
+OPTIONS   ESPP
+1996 1995 1996 1995
+Expected life  69  31  57    Interest  65% 59% 64%    390% 240% 390%   Dividend  00% 00% 00%  
+The Black-Scholes option valuation model was developed for use in estimating
+the fair value of traded options which have no vesting restrictions and are
+fully transferable. In addition, option valuation models require the input of
+highly subjective assumptions including the expected stock price volatility.
+Because the Company employee stock options have characteristics
+significantly different from those of traded options, and because changes in
+the subjective input assumptions can materially affect the fair value
+estimate, in management opinion, the existing models do not necessarily
+provide a reliable single measure of the fair value of its employee stock
+options.
+For purposes of pro forma disclosures, the estimated fair value of the
+options is amortized to expense over the options' vesting period. The
+Company pro forma information follows in thousands, except for earnings per
+share information:
+1996  1995
+Pro forma net  $13,372 $9,523
+Pro forma net income per  $  63 $ 55
+37
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+The effects on 1996 and 1995 pro forma net income and net income per share
+of expensing the estimated fair value of stock options and shares issued
+pursuant to the ESPP are not necessarily representative of the effects on
+reporting the results of operations for future years as the periods presented
+include only one and two years of option grants under the Company plans.
+A summary of the Company stock option activity, and related information
+for the years ended December 31 follows:
+WEIGHTED-AVERAGE
+OPTIONS   EXERCISE PRICE
+Outstanding at December 31, 1993.  3,429,764    $ 198
+446,996    $ 458
+1,322,000   $ 36
+Outstanding at December 31, 1994.  2,554,760    $ 326
+533,752    $1226
+1,829,416   $ 232
+Outstanding at December 31, 1995.  1,259,096    $ 845
+712,576    $3048
+493,720   $ 530
+34,386   $2365
+Outstanding at December 31, 1996.  1,443,566    $2004
+Exercisable at December 31, 1996.   537,562    $ 730
+Available for Future Grants.   512,058
+Weighted-average fair value of options granted
+during           $1603
+The following table presents weighted-average price and life information
+about significant option groups outstanding at December 31, 1996:
+OPTIONS OUTSTANDING       OPTIONS EXERCISABLE
+WEIGHTED
+RANGE OF              WEIGHTED AVERAGE AVERAGE         WEIGHTED
+EXERCISE         NUMBER    REMAINING   EXERCISE  NUMBER    AVERAGE
+PRICES         OUTSTANDING CONTRACTUAL LIFE PRICE  EXERCISABLE EXERCISE PRICE
+$ 295-$ 514.  225,600   699 years   $ 462  225,600    $ 462
+$ 518-$ 782.  239,024   443 years    656  239,024     656
+$1800.  281,752   887 years   1800   72,938    1800
+$2425-$3000.  124,492   932 years   2873     0        $3063-$3675.  572,698   969 years   3086     0                                                   1,443,566               537,562
+38
+IDX SYSTEMS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+12. QUARTERLY INFORMATION UNAUDITED
+A summary of operating results and pro forma net income per share for the
+quarterly periods in the two years ended December 31, 1996 is set forth below:
+QUARTER ENDED
+MARCH 31 JUNE 30 SEPTEMBER 30 DECEMBER 31 TOTAL
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS
+Year ended December 31, 1996
+Total revenues. $37,345 $39,082  $38,588   $42,564  $157,579
+Gross profit.  17,954  19,732  19,238    21,110   78,034
+Net income.  3,353  3,856   3,429    4,244   14,882
+Net income per share. $ 016 $ 018  $ 016   $ 020  $  070
+Year ended December 31, 1995
+Total revenues. $29,245 $33,444  $32,104   $33,327  $128,120
+Gross profit.  12,749  16,070  14,490    16,061   59,370
+Net income.  3,419  4,128   3,347    5,471   16,365
+Pro forma net income.  2,167  2,616   2,116    2,708   9,607
+Pro forma net income per
+share. $ 013 $ 015  $ 012   $ 015  $  055
+13. SUBSEQUENT EVENTS
+On February 26, 1997, the Company acquired certain data model technology
+from Medaphis Healthcare Information Technology Company for a cash price
+between $25 and $35 million. The acquisition will be accounted for under the
+purchase method. A substantial portion of the purchase price is expected to be
+expensed as in-process research and development in connection with the
+Company development of a healthcare data model.
+On March 25, 1997, the Company entered into an Agreement and Plan of Merger
+Agreement with PHAMIS, Inc. PHAMIS, a provider of acute care clinical
+and hospital-based information solutions. The merger, which has been approved
+by the Boards of Directors of each company, is subject to regulatory and
+shareholder approval. The Agreement provides for the stockholders of PHAMIS to
+receive 73 shares of the Company Common Stock for each share of PHAMIS
+Common Stock, subject to adjustment within a range of 68 to 80 shares of IDX
+Common Stock, based on an average market price per share of IDX. Approximately
+61 million shares of Common Stock of PHAMIS are outstanding and subject to
+the exchange. Management expects that the merger, if consummated, will be
+accounted for under the pooling of interests method.
+39
+REPORT OF INDEPENDENT AUDITORS
+Board of Directors
+IDX Systems Corporation
+We have audited the accompanying consolidated balance sheets of IDX Systems
+Corporation and Affiliates as of December 31, 1996 and 1995, and the related
+consolidated statements of income, stockholders' equity, and cash flows for
+each of the three years in the period ended December 31, 1996. These financial
+statements are the responsibility of the Company management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated financial position of IDX Systems
+Corporation and Affiliates at December 31, 1996 and 1995, and the results of
+their operations and their cash flows for each of the three years in the
+period ended December 31, 1996, in conformity with generally accepted
+accounting principles.
+Ernst & Young LLP
+Boston, Massachusetts
+February 5, 1997, except for
+Note 13, as to which
+the date is March 25, 1997
+40
+Item 3. LEGAL PROCEEDINGS
+None.
+Item 4. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The response to this item is contained in part under the caption Executive
+Officers of the Registrant in Part I hereof, and the remainder is contained
+in the Company 1997 Proxy Statement under the caption Election of
+Directors and is incorporated herein by reference.

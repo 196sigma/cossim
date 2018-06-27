@@ -1,0 +1,889 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Independent Auditors Report
+The Board of Directors, 
+CNET, Inc.
+We have audited the accompanying consolidated balance sheets of CNET, 
+Inc. and subsidiaries as of December 31, 1998 and 1997 and the 
+related consolidated statements of operations, stockholders' equity, 
+and cash flows for each of the years in the three-year period ended 
+December 31, 1998. These consolidated financial statements are the 
+responsibility of the Company management. Our reponsibility is to 
+express an opinion on these consolidated financial statements based on
+our audits.
+We conducted our audits in accordance with generally accepted 
+auditing standards. Those standards require that we plan and perform 
+the audit to obtain reasonable assurance about whether the financial 
+statements are free of material misstatements. An audit includes 
+examining, on a test basis, evidence supporting the amounts and 
+disclosures in the financial statements. An audit also includes 
+assessing the accounting principles used and significant estimates 
+made by management, as well as evaluating the overall financial 
+statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to 
+above present fairly, in all material respects, the consolidated 
+financial position of CNET, Inc. and subsidiaries as of December 31, 
+1998 and 1997, and the results of their operations and their cash 
+flows for each of the years in the three-year period ended December 
+31, 1998, in conformity with generally accepted accounting 
+principles.
+KPMG LLP
+San Francisco, California
+February 9, 1999, except
+as to paragraph 5 of 
+footnote 5 and footnote 10,
+which are as of March 22, 1999                CNET, INC.
+CONSOLIDATED BALANCE SHEETS                              December 31,
+1998     1997
+ASSETS
+Current assets:
+Cash and cash equivalents            $51,533,655  $22,553,988
+Accounts receivable, net of allowance for
+doubtful accounts of $1,721,625 and $461,000
+in 1998 and 1997, respectively         15,074,639   9,149,762
+Accounts receivable, related party        1,710,745       Other current assets               1,704,765   1,134,957
+Restricted cash                   945,330   1,599,113
+Total current assets              70,969,134  34,437,820
+Property and equipment, net            15,325,512  19,553,537
+Other assets                    2,059,806   4,270,321
+Total assets                  $88,354,452  $58,261,678
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                 $3,476,654  $3,567,783
+Accrued liabilities                6,592,819  10,080,504
+Current portion of long-term debt         1,112,512   1,358,772
+Total current liabilities           11,181,985  15,007,059
+Long-term debt                    569,245   2,611,815
+Total liabilities               11,751,230  17,618,874
+Commitments and contingencies
+Stockholders' equity:
+Common stock; $00001 par value;
+50,000,000 shares authorized; 34,119,948
+and 29,324,370 shares issued and
+outstanding in 1998 and 1997,
+respectively                    3,412     2,936
+Additional paid-in capital           127,770,245  94,696,127
+Accumulated deficit               51,170,435 54,056,259
+Total stockholders' equity          76,603,222  40,642,804
+Total liabilities and stockholders' equity  $88,354,452  $58,261,678
+See accompanying notes to consolidated financial statements.                   CNET, INC.
+CONDOLIDATED STATEMENTS OF OPERATIONS
+Year Ended December 31,
+1998      1997      1996
+Revenues:
+Internet              $49,374,195  $26,717,280  $10,133,684
+Television              7,057,885   6,922,309   4,696,664
+Total revenues          56,432,080   33,639,589  14,830,348
+Cost of revenues:
+Internet              23,291,215   19,812,604   9,120,545
+Television              6,741,133   6,904,471   6,212,959
+Total cost of revenues      30,032,348   26,717,075  15,333,504
+Gross profit deficit      26,399,732   6,922,514   503,156
+Operating expenses:
+Sales and marketing         14,530,355   11,602,746   7,821,454
+Development             3,454,387   13,608,846   3,438,333
+General and administrative      6,806,886   6,848,793   3,772,368
+Unusual items             921,839   9,000,000                              Total operating expenses     23,869,789   41,060,385  15,032,155
+Operating incomeloss       2,529,943  34,137,871 15,535,311
+Other incomeexpense:
+Equity losses           11,795,944  2,228,430  1,865,299
+Gain on sale of equity investments 10,450,342   11,026,736       Interest income expense, net    1,415,616    611,473    451,948
+Total other income expense     70,014   9,409,779  1,413,351
+Net income loss         $2,599,957  $24,728,092 $16,948,662
+Basic net income loss per share      $008     $091    $106
+Diluted net income loss per share     $007     $091    $106
+Shares used in calculating       31,932,530   27,223,642  15,927,794
+basic per share data           Shares used in calculating
+diluted per share data        34,852,938   27,223,642  15,927,794
+See accompanying notes to consolidated financial statements.                  CNET, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY                 Convertible
+Preffered Stock    Common Stock   Additional         Total
+Paid-in  Accumulated Stockholders'
+Shares   Amount  Shares  Amount  Capital   Deficit    Equity
+Balances as of
+December 31, 1995      3,439,202  34,392  5,400,000   540  15,143,363 12,379,505  2,798,790
+Issuance of Series B
+convertible preferred
+stock             366,144  3,661    --    --   362,483     --    366,144
+Issuance of Series D
+convertible preferred
+stock              2,588    26    --    --    33,307     --     33,333
+Issuance of Series E
+convertible preferred
+stock             453,169  4,532    --    --  8,364,102     --   8,368,634
+Issuance of warrants       --     --     --    --   164,000     --    164,000
+Public stock offering,
+net of $3,151,406
+issuance costs         --     --  5,200,000   520  37,776,074     --   37,776,594
+Conversion of preferred
+stock into common stock  4,261,103 42,611 15,633,346  1564    41,047     --      Exercise of stock options    --     --   306,000   30   369,530     --    369,560
+Employee stock purchase
+plan              --     --    23,578    2   169,759     --    169,761
+Net loss             --     --     --    --     --  16,948,662 16,948,662
+Balances as of
+December 31, 1996        --     --  26,562,924  2,656  62,423,665 29,328,167 33,098,154
+Exercise of stock options    --     --   822,914   86  1,175,494     --   1,175,580
+Employee stock purchase
+plan              --     --    70,026    8   705,403     --    705,411
+Issuances of common stock    --     --  1,868,506   186  23,391,565     --   23,391,751
+Warrant compensation       --     --     --    --  7,000,000     --   7,000,000
+Net loss             --     --     --    --     --  24,728,092 24,728,092
+Balances as of
+December 31, 1997        --     --  29,324,370  2,936  94,696,127 54,056,259 40,642,804
+Exercise of stock options
+and warrants          --     --  2,027,662   202  6,246,092     --   6,246,294
+Employee stock purchase
+plan              --     --    56,386    4   723,553     --    723,557
+Issuances of common stock    --     --  1,625,600   162  26,212,556     --   26,212,718
+Issuance of common stock in
+relation to the UVision
+acquisition           --     --  1,089,930   108   108,083   285,867   177,892
+Net income            --     --    --     --    --    2,599,957  2,599,957
+Balances as of
+December 31, 1998        --     --  34,119,948  3,412 127,770,245 51,170,435 76,603,222
+See accompanying notes to consolidated financial statements.                   CNET, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS                          Year Ended December 31,
+1998     1997     1996
+Cash flows from operating activities:
+Net incomeloss            $2,599,957 $24,728,092$16,948,662
+Adjustments to reconcile net loss
+to net cash provided used in 
+operating activities:
+Depreciation and amortization     6,341,217   5,054,980  1,928,496
+Amortization of program costs     5,802,074   6,548,937  4,673,201
+Interest expense converted into 
+preferred stock              --      --    222,141
+Allowance for doubtful accounts    1,260,625    361,214    75,000
+Reserve for joint venture          --   1,248,799  1,865,299
+Warrant compensation expense         --   7,000,000        Changes in operating assets and
+liabilities:
+Accounts receivable         9,730,143  4,218,799 4,165,939
+Other current assets          455,340   916,690   29,750
+Other assets             4,933,084  1,515,407 1,237,499
+Accounts payable            328,540    228,931  2,807,549
+Accrued liabilities         2,833,799  7,534,213  1,839,558
+Net cash provided used in 
+operating activities       9,156,895  5,899,512 8,911,106
+Cash flows from investing activities:
+Purchases of equipment, excluding
+capital leases             4,879,353 12,213,050 10,739,354
+Purchases of programming assets     6,083,639  5,826,476 5,438,092
+Loan to joint venture             --   1,639,139 1,776,588
+Investment in Vignette Corporation       --      --   511,500
+Net cash used in investing
+activities           10,962,992 19,678,665 18,465,534
+Cash flows from financing activities:
+Net proceeds from issuance of
+convertible preferred stock          --      --   4,543,826
+Net proceeds from inital public
+offering                   --      --  37,776,594
+Net proceeds from issuance of
+common stock              26,212,718  23,391,751       Net proceeds from the issuance of common
+stock in relation to the UVision 
+acquisition               107,975
+Allocated proceeds from issuance 
+warrants                   --      --    164,000
+Proceeds from stockholder reveivable      --      --    594,654
+Proceeds from employee stock
+purchase plan               723,557    705,411   169,761
+Proceeds from debt               --   3,280,806  3,636,000
+Proceeds from exercise of stock
+and warrants               6,246,294   1,175,580   141,050
+Principal payments on capital leases   416,377   238,688  104,542
+Principal payments on equipment note  1,872,453   338,630   91,851
+Net cash provided by
+financing activities      30,785,764  27,976,230  46,829,492
+Net increase decrease in cash and
+cash equivalents             28,979,667   2,398,053  19,452,852
+Cash and cash equivalents at
+beginning of period           22,553,988  20,155,935   703,083
+Cash and cash equivalents at end
+of period                $51,533,655  $22,553,988 $20,155,935
+Supplemental disclosure of cash flow
+information:
+Interest paid               $324,762   $254,790   $88,792 Supplemental disclosure of noncash
+transactions:
+Non cash portion of Investment     $3,066,449     --    $105,000  Capital lease obligations incurred      --    $408,408   $297,436  Note issued in exchange for
+equipment                  --      --    $137,551
+Exercise of stock options through
+issuance of note receivable from
+stockholder                 --      --    $594,654
+Conversion of preferred stock into
+common stock                --      --    $42,611
+Conversion of debt and interest
+into 0,0, and 208,548
+shares of convertible preferred
+stock, respectively             --      --   $3,858,141   See accompanying notes to consolidated financial statements.                 CNET, INC.
+NOTES TO FINANCIAL STATEMENTS 1  DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+DESCRIPTION OF BUSINESS
+CNET, Inc. the Company was incorporated in the state of 
+Delaware in December 1992 and is a media company integrating television 
+programming with a network of channels on the World Wide Web. The Company 
+produces five television programs and operates an Internet network
+focused on computers and technologies. Revenues for television are
+derived primarily from licensing fees for the distribution of the 
+television programming. Internet revenues are primarily derived from
+the sale of advertising. PRINCIPLES OF CONSOLIDATION
+The consolidated financial statements include the accounts of 
+CNET,Inc., and its majority owned controlled subsidiaries. All significant 
+intercompany balances and transactions have been eliminated in 
+consolidation.
+CASH AND CASH EQUIVALENTS 
+The Company considers all highly liquid investments with original 
+maturities of three months or less to be cash equivalents.
+PROPERTY AND EQUIPMENT
+Property and equipment are stated at cost less accumulated 
+depreciation and amortization. Depreciation is computed using the 
+straight-line method over the estimated useful lives of the assets which 
+range from three to seven years. Property and equipment recorded under 
+capital leases and leasehold improvements are amortized on a straight-
+line basis over the shorter of the lease terms or their estimated useful 
+lives. 
+CONCENTRATION OF CREDIT RISK
+Financial instruments potentially subjecting the Company to 
+concentrations of credit risk consist primarily of periodic 
+investments of excess cash and trade accounts receivable.
+Substantially all of the Company accounts receivable are derived from
+domestic sales. Historically, the Company has not incurred material
+credit related losses. The Company invests excess cash in low risk,
+liquid instruments. No losses have been experienced on such investments.
+DEVELOPMENT
+Development expenses include expenses which were incurred in the 
+development of new Internet channels and in research and development of 
+new or improved technologies that enhance the performance of the 
+Company Internet channels. Costs for development are expensed as 
+incurred. Costs are no longer recognized as development expenses when a 
+new Internet channel is launched and is generating revenue.
+INCOME TAXES
+The Company accounts for income taxes using the asset and liability 
+method. Deferred tax assets and liabilities are recognized for the 
+future tax consequences attributable to differences between the 
+financial statement carrying amounts of existing assets and liabilities 
+and their respective tax bases. Deferred tax assets and liabilities are 
+measured using enacted tax rates expected to apply to taxable income in 
+the years in which those temporary differences are expected to be 
+recovered or settled. The effect on deferred income tax assets and 
+liabilities of changes in tax rates is recognized in income in the 
+period that includes the enactment date. 
+REVENUE RECOGNITION
+Through June 30, 1996, television revenues were principally derived 
+from the sale of advertising during the Company CNET CENTRAL 
+television program and were recognized upon broadcast based on the 
+number of viewers of the program. Effective July 1, 1996, and subsequently
+renewed through June 30, 1999, the Company licensed a two hour programming
+block it produces for broadcast on a cable network for a license fee
+limited to the costs of production of the programming block and
+further limited to certain maximum amounts per the contract. In
+September 1996, the Company began producing TV.com which was exclusively
+exclusively distributed by Golden Gate Productions, L.P., GGP.
+The revenue from this program was used first to offset costs of
+distribution and production and thereafter was shared equally by the
+Company and GGP. In August 1997, the assets of GGP were acquired by a 
+third party who agreed to distribute the program through Trans World
+International, TWI, under the same terms. Beginning March 1, 1998,
+the Company assumed responsibility for the sale of advertisements on
+TV.com and pays a distribution fee to the third party.
+Internet revenues consist primarily of revenues derived from the
+sale of advertisements on pages delivered to users of our Internet
+network. Advertising programs are generally delivered on either an
+impression based program or a performance based program. An
+impression based program earns revenues when an advertisement is
+delivered to a user of our Internet network. A performance based
+program earns revenues when a user of our Internet network responds to
+an advertisement by linking to an advertisers Internet network.
+Advertising revenues are recognized in the period in which the 
+advertisements are delivered. In the fourth quarter of 1998, the
+Company began generating revenue from lead-based compensation from
+its shopping services.
+NET INCOME LOSS PER SHARE
+Basic net income per share is computed using the weighted average
+number of outstanding shares of common stock and diluted net income
+per share is computed using the weighted average number of 
+outstanding shares of common stock and common stock equivalents.
+Basic and diluted net loss per share are computed using the
+weighted average number of outstanding shares of common stock. Net
+loss per share for the years ended December 31, 1997 and 1996, does
+not include the effect of approximately 5,077,844 and 3,128,932
+stock options, with weighted average exercise prices of $1237 and
+$355, respectively, because their effects are anti-dilutive.
+The following table sets forth the computation of net income
+loss per share in thousands, except per share data                         Year Ended December 31,
+1998     1997    1996
+Net income loss              $2,600   $24,728  $16,949
+Basic and diluted:              Weighted average common shares
+outstanding used in computing basic    31,933    27,224   15,928 
+net incomeloss per share         Basic net incomeloss per share       $008    $091   $106
+Weighted average common shares
+and common stock equivalents 
+outstanding used in computing diluted
+net incomeloss per share         34,853    27,224   26,928 
+Diluted net incomeloss per share      $007    $091   $106
+STOCK-BASED COMPENSATION
+The Company accounts for its stock-based employee compensation plans 
+using the intrinsic value method. As such, compensation expense is recorded 
+on the date of grant if the current market price of the underlying stock 
+exceeded the exercise price.
+COMPREHENSIVE INCOMELOSS
+The Company has no significant comprehensive incomeloss and, 
+accordingly, the comprehensive incomeloss is the same as net income
+loss for all periods.
+ADVERTISING EXPENSE
+The cost of advertising is expensed as incurred. Such costs are
+included in selling and marketing expense and totalled approximately
+$5,081,308, $2,267,154 and $3,697,314 during the years ended December 31,
+1998, 1997 and 1996, repectively.
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+The carrying value of the Company cash and cash equivalents, 
+accounts receivable, accounts payable and long-term debt approximate 
+their respective fair values.
+IMPAIRMENT OF LONG-LIVED ASSETS AND LONG-LIVED ASSETS TO BE DISPOSED OF
+The Company reviews its long-lived assets and certain  
+identifiable intangibles whenever events or changes in circumstances
+indicate that the carrying amount of an asset may not be recoverable.
+Recoverability of assets to be held and used is measured by a 
+comparison of the carrying amount of an asset to future net cash
+flows expected to be generated by the asset. If such assets are
+considered to be impaired, the impairment to be recognized is 
+measured by the amount by which the carrying amount of the assets
+exceed the fair value of the assets. Assets to be disposed of are
+reported at the lower of the carrying amount or fair value less 
+costs to sell. 
+USE OF ESTIMATES
+The Company management has made a number of estimates and 
+assumptions relating to the reporting of assets and liabilities, 
+revenues and expenses, and the disclosure of contingent assets and 
+liabilities to prepare these financial statements in conformity with 
+generally accepted accounting principles. Actual results could differ 
+from those estimates. 
+BARTER TRANSACTIONS
+The Company trades advertisements on its Internet sites in exchange 
+for advertisements on the Internet channels of other companies. These 
+revenues and marketing expenses are recorded at the fair market value of 
+services provided or received, whichever is more determinable in the 
+circumstances. Revenue from barter transactions is recognized as income 
+when advertisements are delivered on the Company Internet channels and 
+expense from barter transactions is recognized when advertisements are 
+delivered on the other companies' Internet sites. Barter revenues were
+approximately $3,369,000, $905,000, and $760,000 for the years ended 
+December 31, 1998, 1997 and 1996, respectively. RECENT ACCOUNTING PRONOUNCEMENTS
+The FASB recently issued SFAS No. 133, Accounting for Derivative
+Instruments and Hedging Activities. SFAS No. 133 establishes 
+accounting and reporting standards for derivative instruments, including
+certain derivative instruments embedded in other contracts collectively
+referred to as derivatives, and for hedging activities. It requires
+that an entity recognize all derivatives as either assets or liabilities
+in the statement of financial position and measure those instruments at
+fair value. For a derivative not designated as a hedging instrument,
+changes in the fair value of the derivative are recognized in earnings
+in the period of change. The Company must adopt SFAS No. 133 by July 1,
+1999. Management does not believe the adoption of SFAS No. 133 will
+have a material effect on the financial position or operations of the
+Company. 2  BALANCE SHEET COMPONENTS CASH AND CASH EQUIVALENTS
+The carrying value of cash and cash equivalents consisted of: 
+December 31,
+1998     1997
+Commercial paper          $21,452,792  $2,004,131
+Money market mutual funds      23,447,941  17,034,006
+Cash                 6,632,922  3,515,851
+$51,533,655 $22,553,988
+All cash equivalents have been classified as available for sale
+securities as of December 31, 1998 and 1997. 
+RESTRICTED CASH
+Restricted cash balance relates to certain deposits in escrow for 
+leasehold improvements and as collateral for letters of credit relating  
+to security deposits. PROPERTY AND EQUIPMENT
+A summary of property and equipment follows: 
+December 31,
+1998     1997
+Computer equipment             $12,270,491 $11,769,291
+Production equipment             2,552,420  2,241,597
+Office equipment, furniture & fixtures    3,131,737  2,230,267
+Software                   1,845,777  1,745,660
+Leasehold improvements            7,644,246  7,193,769
+Assets in progress               620,165  1,533,198
+28,064,836  26,713,782
+Less accumulated depreciation
+and amortization             12,739,324  7,160,245
+$15,325,512 $19,553,537
+As of December 31, 1998 and 1997, the Company had equipment under
+capital lease agreements of $1,168,134 , and accumulated amortization of
+$1,084,125 and $694,747, respectively. 
+As of December 31, 1998, the Company had purchased equipment
+pursuant to loan agreements in the amount of $948,982. As of
+December 31, 1998 and 1997, the equipment had accumulated amortization of
+$702,408 and $512,612, respectively. ACCRUED LIABILITIES
+A summary of accrued liabilities follows                         December 31,
+1998     1997
+Compensation and related benefits   $4,007,614  $2,594,386
+Marketing and advertising         577,872   619,101
+Deferred Revenue             594,212  3,233,681
+Lease Abandonment               --  1,300,000
+Other                  1,413,121  2,333,336
+$6,592,819 $10,080,504
+DEBT
+During 1997, the Company secured a $100 million line of credit from
+a bank. The line of credit consisted of a $50 million operating line of 
+credit at an interest rate of prime 85% plus 05%, secured by all of the 
+Company tangible assets and a $50 million equipment line at an interest
+rate of prime 85% plus 1%, for up to 65% of capital equipment purchases. 
+The Company did not renew the $100 million line of credit upon its
+expiration in July 1998. As of December 31, 1997, the Company had not yet
+drawn any of the operating line of credit and had drawn $768,000 on the 
+capital equipment line which was paid off in July, 1998. In addition, the
+Company had proceeds of $25 million from an asset based loan bearing
+interest equal to the treasury rate plus 556% secured by certain 
+capital equipment. The $25 million asset based loan is subject to 
+certain financial covenants. At December 31, 1998 the Company was in 
+compliance with those covenants.
+During 1996 and 1995, the Company financed certain production equipment 
+in the amounts of $189,256 and $759,726, repectively, through notes at an
+an interest rate of 1225%. The notes are secured by the equipment 
+financed. The current and long-term portion of the notes are included
+in current portion of long-term debt and long-term debt, respectively, 
+in the accompanying balance sheet along with capital lease obligations,
+Note 4. The aggregate annual principal payments for notes payable
+outstanding as of December 31, 1998, are summarized as follows   YEAR ENDING DECEMBER 31,     
+1999                994,177
+2000                535,728
+2001                33,517
+$1,563,422
+3  INCOME TAXES
+The Company effective tax rate differs from the statutory federal income
+tax rate of 34% as shown in the following schedule: 
+Year Ended December 31,
+1998     1997      1996
+Income tax benefit at statutory rate     340%    340%    340%
+Operating losses with no current tax
+benefit                   340%   340%   340%
+Effective tax rate               --      --                            The tax effects of temporary differences that give rise to significant portions
+of deferred tax assets are presented below: 
+Year Ended December 31,
+1998     1997     1996
+Capitalized start-up expenses     $457,000    $818,000  $1,217,000
+Net operating losses         22,184,000   16,268,000  9,596,000
+Accruals, reserves and other      3,275,000   6,289,000  1,027,000
+25,916,000   23,375,000  11,840,000
+Less valuation allowance       25,916,000   23,375,000  11,840,000
+$    --  $    -- $                            The Company has a valuation allowance as of December 31, 1998, which fully 
+offsets its gross deferred tax assets due to the Company historical losses
+and the fact that there is no guarantee the Company will generate sufficient
+taxable income in the future to be able to realize any or all of the deferred
+tax assets. The net change in the total valuation allowance for the year 
+ended December 31, 1998, was $2,541,000
+As of December 31, 1998, the Company has approximately $61,000,000 of net
+operating losses for federal income tax purposes, which expire between 2008 and
+2018. The Company also has approximately $24,000,000 of net operating loss
+carryforwards for state income tax purposes, which expire between 1999 and 2003.
+Included in the deferred tax assets above is approximately $5,500,000 related
+to stock option compensation for which the benefit, when realized, will be
+an adjustment to equity.
+The Company may have experienced an ownership change as defined by
+section 382 of the Internal Revenue Code. If an ownership change has occurred,
+the Company ability to utilize its net operating losses may be limited. 4  LEASES
+The Company has several non-cancelable leases primarily for general office,
+facilities, and equipment that expire over the next ten years. Future minimum
+lease payments under these leases are as follows: 
+Capital   Operating
+YEAR ENDING DECEMBER 31,       Leases    Leases
+1999                    $129,140  $4,548,163
+2000                      --   3,519,185
+2001                      --   2,396,254
+2002                      --   1,421,819
+2003                      --    981,674
+Thereafter                   --    598,910
+Total minimum lease payments        129,140 $13,466,005
+Less amount representing 
+interest                  10,805
+Capital lease obligation, all current   $118,335
+Rental expense from operating leases amounted to $3,226,310, $2,242,186, 
+and $789,678 for the years ended December 31, 1998, 1997 and 1996,
+respectively.
+5  STOCKHOLDERS' EQUITY
+ISSUANCE OF COMMON STOCK
+On July 2, 1996, the Company effected an initial public offering IPO of 
+4,000,000 shares of its common stock for $8 per share. Simultaneously with 
+the IPO, the Company sold 1,200,000 shares of common stock to Intel Corporation 
+at 93% of the IPO price. The net proceeds from these two offerings after 
+deducting underwriting discounts and commissions and offering expenses were 
+$378 million, and were received on July 8, 1996.
+On July 21, 1997, the Company sold 402,506 shares of common stock in
+a private placement to Intel for aggregate proceeds of approximately $53
+million. On December 18, 1997, the Company sold 1,466,000 shares of common
+stock in a private placement to three accredited investors as defined
+in Rule 501a under the Securities Act of 1933 for aggregate net proceeds
+of approximately $181 million.
+On May 12, 1998, the Company completed the acquisition of
+U.Vision, Inc., a California corporation U.Vision, through a merger
+between U.Vision and a wholly-owned acquisition subsidiary of the Company
+the merger, in which the Company issued 1,089,930 shares of common stock
+in exchange for all of the outstanding shares of U.Vision. U.Vision
+owned and operated ComputerEsp, a pricing and availability engine for
+buying computer products on the Internet. Subsequent to the merger, the 
+Company relaunched the service as Shopper.com. The Company recorded
+this transaction using the pooling-of-interests accounting method and
+recorded the financial results of U.Vision in its financial statements
+effective April, 1, 1998. The financial statements of the Company prior
+to April 1, 1998 have not been adjusted for the financial results of
+U.Vision as the impact was not material. The shares used in calculating
+the basic and diluted net loss per share data have been adjusted in
+prior periods to reflect the U.Vision transaction as outstanding
+for all periods.
+In June of 1998, the Company completed the sale of 1,625,600 shares
+of common stock to National Broadcasting Company, Inc., NBC. The
+aggregate purchase price for the shares sold was $262 million.
+STOCK SPLIT
+On March 8, 1999, the Company effected a two-for-one split of its
+common stock. The accompanying consolidated financial statements
+have been retroactively adjusted to reflect the stock split.
+In May 1996, the Company effected a three-for-two split of its common 
+stock in connection with the IPO. The accompanying consolidated financial 
+statements have been retroactively adjusted to reflect the stock split.
+STOCK OPTION PLAN
+In 1994, the Board of Directors adopted a Stock Option Plan the 1994 
+Plan pursuant to which the Company Board of Directors may grant stock
+options to officers and key employees. The 1994 Plan authorizes grants of 
+options to purchase up to 5,500,000 shares of authorized but unissued common 
+stock. In 1997, the stockholders approved the 1997 Stock Option Plan the
+1997 Plan. The 1997 Plan authorizes grants of options to purchase up to
+5,000,000 shares of authorized but unissued common stock. Stock options for
+both the 1994 and 1997 Plans are granted with an exercise price equal to the
+fair market value at the date of grant. All stock options have 10-year 
+terms and generally vest and become fully exercisable between three and
+four years from the date of grant.
+A summary of the status of the Company stock option plans as of December
+31, 1998, 1997 and 1996, and changes during each of the years then ended                             Weighted
+Number    Average
+of     Exercise
+Shares    Prices
+Balance as of December 31, 1995      2,952,500     080
+Granted                  1,728,400     572
+Exercised                1,393,934    052
+Cancelled                 158,034    273
+Balance as of December 31, 1996      3,128,932     355
+Granted                  2,647,046    1187
+Exercised                 889,392    144
+Cancelled                 243,504    704
+Balance as of December 31, 1997      4,643,082     842
+Granted                  2,472,900    1674
+Exercised                 920,638    512
+Cancelled                1,117,460    1160
+Balance as of December 31, 1998      5,077,884    $1237
+As of December 31, 1998, 1997 and 1996, the number of options
+exercisable was 1,050,016, 858,888 and 804,794, respectively, and the 
+weighted average of those options was $701, $306, and $111, respectively. 
+As of December 31, 1998, there were 2,218,152 additional shares available
+for grant under the Plans.   The Company applies APB Opinion No. 25 in accounting for the Plans and, 
+accordingly, no compensation cost has been recognized for the Plans in the 
+financial statements. Had the Company determined compensation cost based on 
+the fair value at the grant date for its stock options under SFAS 123, 
+the Company net incomeloss and net income loss per share would have 
+been increased to the pro forma amounts indicated below                         Year Ended December 31,
+1998   1997     1996
+Net incomeloss          
+As reported            $2,599,957 $24,728,092$16,948,662
+Pro forma            
+Basic net incomeloss per share
+As reported              $008    $091   $106
+Pro forma               $041   $110   $081
+Diluted net incomeloss per share
+As reported              $007    $091   $106
+Pro forma               $038   $110   $081   The effects of applying SFAS 123 in this pro forma disclosure is
+not indicative of the effects on reported results for future years. SFAS
+No. 123 does not apply to awards prior to 1995.
+The weighted-average fair value of options granted in 1998, 1997 and 1996,
+was $1674, $1187 and $572, respectively. 
+The fair value of each option grant is estimated on the date of grant
+using Black Scholes option-pricing model with the following
+weighted-average assumptions used for grants in 1998, 1997 and 1996,
+respectively: no dividend yield, expected volatility of 75%, risk-free
+interest rate of 6%, and an expected life of five years, five years
+and one year.
+The following table summarizes information about stock options 
+outstanding as of December 31, 1998              Options Oustanding        Options Exercisable
+Weighted
+Number   Average  Weighted    Number   Weighted
+Outstanding  Remaining  Average  Exercisable  Average
+Range of     As of   Contractual Exercise    As Of   Exercise
+Exercise Prices   12/31/98   Life    Price    12/31/98   Price
+- -                                  
+$06000  $42950  543,544    686   $25307    376,086   $19915
+$60000  $73150  551,624    756   $65059    253,860   $64988
+$77500  $100650   80,250    810   $89125    18,626   $84692
+$103750  $103750  638,298    892   $69167    154,700  $103750
+$106900  $120650  805,124    863  $117106    168,184  $116537
+$121250  $137500  173,736    853  $133392    36,138  $133415
+$139400  $139400  921,574    924  $139400     3,876  $139400
+$140000  $147500  121,086    865  $142317    20,320  $140931
+$161250  $161250  664,000    942  $161250     --      164400  $342500  578,648    963  $233122    18,226  $226535
+$06000  $342500 5,077,884    868  $123702   1,050,016   $70065
+401k PROFIT SHARING PLAN
+In 1996, the Company adopted a 401k Profit Sharing Plan the 401k 
+Plan that is intended to qualify under Section 401k of the Internal 
+Revenue Code of 1986, as amended. The 401k Plan covers substantially 
+all of the Company employees. Participants may elect to contribute a 
+percentage of their compensation to this plan, up to the statutory 
+maximum amount. The Company may make discretionary contributions to the 
+401k Plan, but has not done so to date. 
+EMPLOYEE STOCK PURCHASE PLAN
+In July 1996, the Company adopted an Employee Stock Purchase Plan 
+that covers substantially all employees. Participants may elect to 
+purchase the Company stock at a 10% discount of the lower of the
+closing price at the beginning or end of the quarter by contributing a. 
+percentage of their compensation. The maximum percentage allowed is 10%.
+6  MAJOR CUSTOMERS AND CONTRACTS
+CUSTOMERS
+For the year ended December 31, 1998, one customer, USA Networks,
+accounted for approximately 10% of the Company revenues. For the years
+ended December 31, 1997 and 1996, two customers accounted for over 10%
+of the Company revenues with USA Networks accounting for approximately 
+16% and 19%, and Microsoft Corporation accounting for approximately 10%
+and 12% of total revenues, respectively. CONTRACTS
+In February 1995, the Company entered into an agreement with USA 
+Networks to carry its television program, CNET CENTRAL. The contract 
+allowed the Company to sell the available advertising on the program. In 
+connection with this agreement, the Company issued 1,033,500 common stock 
+warrants at an exercise price of $121 per share to USA Networks. As of 
+December 31, 1998, all such warrants were exercised.
+Effective July 1, 1996, the agreement with USA Networks was amended
+to license to USA Networks the right to carry a two hour programming block
+produced by the Company, called Digital Domain for broadcast on the USA
+Network and The SciFi Channel for an initial term of one year. Under
+the amended agreement, USA Networks licensed the rights to Digital
+Domain for a fee equal to the cost of production of the programs
+up to a maximum of $5,250,000 for the first year with an option to extend
+the term for an additional year. In January 1997, USA Networks exercised
+this option. 
+In addition, pursuant to the amended agreement, the Company agreed 
+to pay USA Networks a fee of $10 million for the right to cross-market 
+the Company Internet channels on the television programs produced by the 
+Company for USA Networks. During the second year extension the Company 
+paid a fee of $750,000 for the right to continue such cross-
+marketing activities. These fees are reported by the Company as 
+marketing expenses.
+In January 1997, USA Networks exercised its option to extend its 
+agreement with the Company to carry Digital Domain through June 30,
+1998. In connection with this extension to the agreement, the 
+Company agreed that the warrants held by USA Networks would vest in
+full on December 31, 2006, to the extent they had not previously
+vested. As a result of this change, the Company incurred a one-time
+charge to earnings of approximately $70 million during the first
+quarter of 1997.
+In July 1998, the Company entered into an agreement with USA
+Networks to again license to USA Networks the right to carry Digital
+Domain for broadcast on the USA Network and The SciFi Channel for a
+one year period. The Company agreed to pay USA Networks a fee of
+$750,000 for the right to cross-market the Company Internet
+channels on the television programs produced by the Company for USA
+Networks.
+In January 1996, the Company entered into a joint venture agreement 
+with E! Entertainment Television, Inc. E! Entertainment that 
+launched an Internet site in August 1996, called E! ONLINE, focusing on 
+entertainment, news, gossip, movies and television. The Company agreed 
+to provide $3,000,000 in debt financing to the joint venture during its 
+first two years of operations, which amount was advanced pursuant to a 
+seven year note, bearing interest at 9% per annum. In addition, the 
+Company agreed to provide up to an additional $3,000,000 in equity 
+capital to the joint venture through January 1999. The Company 
+accounted for its financing and investments under the modified equity 
+method. Accordingly, the Company recorded all of the losses incurred by 
+the joint venture through June 30, 1997, in its consolidated statement 
+of operations. The joint venture, E! Online LLC, was owned 50% by the 
+Company and 50% by E! Entertainment.
+In June 1997, the Company sold its 50% equity position and certain 
+technology licenses and marketing and consulting services to its joint 
+venture partner for $100 million in cash and a $32 million note 
+receivable, which was included in other assets in the balance sheet and 
+certain additional payments for up to three years. The note receivable
+was paid in full in November, 1998.
+In August 1996, the Company entered into an agreement with GGP 
+whereby the Company produced a television program, TV.COM, which was 
+exclusively distributed by GGP. Any revenues from the distribution of 
+TV.COM were first used to offset costs of distribution and production 
+and thereafter were shared equally by CNET and GGP. In August 1997, the 
+assets of GGP were acquired by a third party who has agreed to 
+distribute the program through TWI under the same terms and conditions. 
+Beginning March 1, 1998, the Company assumed responsibility for the
+sale of advertisements on TV.com and pays a distribution fee to TWI. 7  UNUSUAL ITEMS
+In the fourth quarter of 1997, the Company recognized an expense 
+of $13 million related to lease abandonment costs and recognized an 
+expense of $700,000 relating to a write off of Internet domain names that
+the Company had determined that it would no longer use. Through the
+fourth quarter of 1998, the Company had incurred expenses of $379,000
+related to the abandonment of excess real estate and during the fourth 
+quarter the Company determined that it had completed the abandonment
+of excess real estate. Accordingly, the Company reversed approximately
+$922,000 of this expense in the fourth quarter of 1998.
+In the first quarter of 1997, the Company incurred a one-time, 
+non-cash expense of $70 million related to an amendment to the warrant 
+agreement with USA Networks whereby the Company agreed that the warrants 
+held by USA would vest in full on December 31, 2006, to the extent that 
+they had not previously vested. 
+8  RELATED PARTY TRANSACTIONS
+Included in other assets on the accompanying balance sheets is an 
+advance to an officer of the Company for $26,250. 
+An affiliate of an officer and stockholder of the Company
+loaned the Company $800,000 in 1996 at an interest rate 
+of 8% and was granted 9,800 warrants to purchase Series D Convertible 
+preferred stock at an exercise price of $1288 per share. This loan was 
+subsequently converted to Series E convertible preferred stock, which 
+were subsequently converted to 29,400 warrants to purchase common stock. 
+at an exercise price of $429 per share. As of December 31, 1997,
+all of these warrants were outstanding and exercisable and expire in
+January 2001. Such warrants were valued at estimated fair market value 
+at the date of issuance. 
+A stockholder loaned the Company $3,000,000 in 1996 at an interest rate
+of 8%. Interest expense related to the loan was $34,000 in 1996.
+This loan was subsequently converted to Series E convertible preferred
+stock. In connection with this loan agreement, the Company granted the 
+lender 36,750 warrants to purchase Series D convertible preferred 
+stock at an exercise price of $1288 per share, which were subsequently
+converted to 110,250 warrants to purchase common stock at an exercise
+price of $429 per share. As of December 31, 1998, all of these warrants
+were outstanding and exercisable and expire on dates from May 2000 to
+February 2001. Such warrants were valued at estimated fair market value
+at the date of issuance. 
+In April 1996, a stockholder exercised options to purchase 366,144 
+shares of Series B preferred stock and 273,000 shares of common stock 
+for an aggregate of $694,654. The consideration was paid by $100,000 in 
+cash and the issuance of a note for $594,654, which was repaid in July 
+1996. Such shares of Series B preferred stock were converted into 
+1,098,432 shares of common stock at the IPO.
+In December 1997, an officer of the Company purchased 16,000 shares 
+of common stock for $198,000 as a participant in a private placement.
+BUYDIRECT.COM BuyDirect was a wholly owned division of the Company
+that distributed electronic software. On March 31, 1998, the Company
+contributed its ownership in BuyDirect, and net assets related to
+BuyDirect of approximately $744,000, to a new venture that is separately
+owned and operated by BuyDirect existing management group. As part of
+the transaction, the Company received a 19% ownership interest in
+the new venture. The Company uses the cost method of accounting for its
+BuyDirect investment thus recorded an investment of approximately
+$744,000 on its balance sheet. Initially, the Company also entered
+into a multi-year arrangement with the new venture to provide marketing
+and promotion through April 30, 2000. Effective October 31, 1998, the
+Company terminated the inital contract and entered into a new agreement
+in exhange for approximately $75 million for marketing and promotion 
+through September 30, 2000. In conjunction with the new agreement, the
+Company received a promissory note maturing on October 31, 2002 in the
+amount of $56 million.
+For the year ended December 31, 1998, the Company recognized $2,510,422
+in revenues related to advertising purchased by BuyDirect and to the 
+licensing of technology. As of December 31, 1998, the Company had a
+$17 million receivable balance from BuyDirect related to 
+advertising purchased, licensing of technology and payments made by
+CNET on behalf of the venture. The balance is included on the 
+balance sheet as a related party accounts receivable.
+Pursuant to an agreement dated June 4, 1998 among the Company, NBC
+Multimedia, Inc. a Delaware corporation NBC Multimedia, and Snap
+LLC, a Delaware limited liability company the LLC, the Company and
+NBC Multimedia agreed to form the LLC to operate the Snap Internet 
+portal service, which was previously operated as a division of
+the Company. In connection with the formation and initial capitalization
+of the LLC, which was completed on June 30, 1998, the Company 
+contributed to the LLC substantially all of its assets used exclusively
+in the operation of the Snap service. Initially, the LLC will be owned
+81% by the Company and 19% by NBC Multimedia, however, NBC Multimedia 
+has an option to increase its ownership stake in the LLC to 60% and 
+currently shares control of the LLC with the Company. The
+accompanying financial statements present Snap financial results using
+the equity method of accounting effective January 1, 1998.  Included in
+equity losses on the accompanying 1998 statement of operations are losses 
+of $11,796,344 related to Snap. As of December 31, 1998 the Company 
+investment in Snap has been reduced to zero.
+9  SEGMENT INFORMATION
+The Company has adopted the provisions of SFAS No. 131, Disclosure 
+About Segments of an Enterprise and Related Information. SFAS No. 131
+establishes standards for the reporting by public business enterprises
+of information about operating segments, products and services, 
+geographic areas and major customers. The method for determining what
+information to report is based on the way that management organizes the
+operating segments within the Company for making operating decisions and
+assessing financial performance.
+The Company chief operating decision maker is considered to be the
+Company Chief Executive Officer CEO. The CEO reviews financial
+information presented on a consolidated basis accompanied by disaggregated
+information about revenue and cost of revenue by operating segment for 
+purposes of making operating decisions and assessing financial performance.
+The consolidated information reviewed by the CEO is identical to the
+information presented in the accompanying financial statement of 
+operations. The Company operates in two segments, television and CNET
+Online, the Company Internet operation.
+10  SUBSEQUENT EVENTS
+On February 9, 1999, the Company announced an agreement with America
+Online, Inc., AOL, whereby the Company will become the exclusive provider 
+of computer hardware and software buying guides on the AOL service and on
+AOL.com, as well as the primary provider of computer buying guides on
+CompuServe, Digital City, AOL Hometown and certain AOL international
+properties. Under the terms of the agreement, AOL will receive 
+guaranteed payments from the Company in the amount of $145 million over
+approximately 27 months.
+On February 16, 1999, the Company acquired NetVentures, Inc., in a stock
+NetVentures, in a stock-for-stock exhange valued at approximately $125
+million. NetVentures owns and operates ShopBuilder, an online store-creation 
+system.
+On February 19, 1999, the Company acquired AuctionGate Interactive, Inc.,
+AuctionGate,in a stock-for-stock exchange valued at approximately $65
+million. AuctionGate owns and operates AuctionGate.com, an auction site
+specializing in computer products.
+On February 26, 1999, the Company acquired the assets of Winfiles.com,
+a leading downloading service, from Jenesys, LLC, for a total purchase price
+of $115 million, payable in cash in two installments of $575 million 
+On March 8, 1999, the Company completed a private placement with 
+gross proceeds of $172,915,0000 of 5% converitble subordinated notes. The 
+placement will be subject to certain fees and expenses. The notes are
+convertible, at the option of the noteholder, into shares of common stock.
+On March 22, 1999, the Company acquired KillerApp Corporation in a
+stock-for-stock exchange valued at approximately $46 million. KillerApp
+owns and operates KillerApp.com, an online comparison shopping service
+for computer and consumer related products.
+In March 1999, BuyDirect entered into a merger agreement with 
+beyond.com. This merger will result in our owning approximately
+800,000 shares of beyond.com as a result of our ownership interest
+in BuyDirect.                 SCHEDULE II
+CNET, INC.
+VALUATION AND QUALIFYING ACCOUNTS
+YEARS ENDED DECEMBER 31, 1998, 1997 AND 1996
+Numbers presented in thousands                 Additions
+Balance at  Charged to Charged to         Balance
+Beginning  Costs and   Other   Deductions  at End
+of Period  Expenses  Accounts   Describe  of Period
+1998
+- - Allowance for 
+doubtful accounts   $461   $1,443    $6213  $743 1   $1,722
+$60 2
+1997
+- - Allowance for 
+doubtful accounts   $100    $578    --     $217 1    $461
+1996
+- - Allowance for 
+doubtful accounts   $25    $75     --      --     $100 1 Accounts written off.
+2 Part of sale of Buy Direct, Inc.
+3 Amounts charged to revenu to cover underdelivery of quaranteed impressions. S-2 Independent Auditors' Report on Schedule
+The Board of Directors
+CNET, Inc.
+Under date of February 9, 1999, except as to paragraph 5 of footnote 5
+and foonote 10, which are as of March 22, 1999, we reported on the
+consolidated balance sheets of CNET, Inc., and subsidiaries as of 
+December 31, 1998 and 1997, and the related consolidated statements
+of operations, stockholders' equity, and cash flows for each of the 
+years in the three-year period ended December 31, 1998, as contained
+in the annual report on Form 10-K for the year 1998. In connection 
+with our audits of the aforementioned consolidated financial 
+statements, we also audited the related consolidated financial 
+statements schedule in the annual report on Form 10-K for the year
+1998. This financial statement schedule is the responsibility of
+the Company management. Our responsibility is to express an 
+opinion on this financial statement schedule based on our audits.
+audits.
+In our opinion, such consolidated financial statement schedule, when 
+considered in relation to the basic consolidated financial statements 
+taken as a whole presents fairly, in all material respects, the 
+information set forth therein.
+KPMG LLP
+San Francisco, California
+March 22, 1999 Item 4. Submission of Matters to a Vote of Security Holders
+None. PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT     Incorporated by reference from the Registrant definitive Proxy 
+Statement for its 1999 annual meeting, which will be filed pursuant 
+to Regulation 14A the 1999 Proxy Statement, under the caption 
+Management. 

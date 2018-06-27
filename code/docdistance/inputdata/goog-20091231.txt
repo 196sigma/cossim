@@ -1,0 +1,427 @@
+Nature of
+OperationsWe were incorporated in
+California in September 1998. We were re-incorporated in the State
+of Delaware in August 2003. We provide highly targeted advertising
+and global internet search solutions as well as hosted
+applications.Basis of
+ConsolidationThe consolidated
+financial statements include the accounts of Google and our
+wholly-owned subsidiaries. All intercompany balances and
+transactions have been eliminated.Use of
+EstimatesThe preparation of
+consolidated financial statements in conformity with accounting
+principles generally accepted in the United States requires us to
+make estimates and assumptions that affect the amounts reported and
+disclosed in the financial statements and the accompanying notes.
+Actual results could differ materially from these estimates. On an
+ongoing basis, we evaluate our estimates, including those related
+to the accounts receivable and sales allowances, fair values of
+financial instruments, fair values of prepaid revenue share,
+intangible assets and goodwill, useful lives of intangible assets
+and property and equipment, fair values of stock-based awards, and
+income taxes, among others. We base our estimates on historical
+experience and on various other assumptions that are believed to be
+reasonable, the results of which form the basis for making
+judgments about the carrying values of assets and
+liabilities.Revenue
+RecognitionThe following table
+presents our revenues by revenue source (in thousands):&#xA0;Google AdWords is our
+automated online program that enables advertisers to place targeted
+text-based and display ads on our web sites and our Google Network
+members&#x2019; web sites. Display advertising includes static or
+animated images as well as interactive audio or video media, such
+as the banner ads on the tops or sides of many popular web sites.
+Most of our AdWords customers pay us on a cost-per-click basis,
+which means that an advertiser pays us only when a user clicks on
+one of its ads. We also offer AdWords on a cost-per-impression
+basis that enables advertisers to pay us based on the number of
+times their ads appear on our web sites and our Google Network
+members&#x2019; web sites as specified by the advertiser.Google AdSense refers to
+the online programs through which we distribute our
+advertisers&#x2019; AdWords ads for display on the web sites of our
+Google Network members as well as programs to deliver ads on
+television broadcasts.&#xA0;We recognize as revenues
+the fees charged advertisers each time a user clicks on one of the
+text-based ads that are displayed next to the search results pages
+on our site or on the search results pages or content pages of our
+Google Network members&#x2019; web sites and, for those advertisers
+who use our cost-per impression pricing, the fees charged
+advertisers each time an ad is displayed on our members&#x2019;
+sites. We report our Google AdSense revenues on a gross basis
+principally because we are the primary obligor to our
+advertisers.Google TV Ads enable
+advertisers, operators, and programmers to buy, schedule, deliver,
+and measure ads on television. We recognize as revenue the fees
+charged advertisers each time an ad is displayed on television in
+accordance with the terms of the related agreements.We also offer display
+advertising management services such as media planning, buying,
+implementation, and measurement tools for advertisers and agencies
+and forecasting and reporting tools for publishers. We recognize
+the related fees as licensing and other revenues in the period
+advertising impressions are delivered.Google Checkout is our
+online shopping payment processing system for both consumers and
+merchants. We recognize as revenues any fees charged to merchants
+on transactions processed through Google Checkout. Further, cash
+ultimately paid to merchants under Google Checkout promotions,
+including cash paid to merchants as a result of discounts provided
+to consumers on certain transactions processed through Google
+Checkout, are accounted for as an offset to revenues.We generate fees from
+search services on a per-query basis. Our policy is to recognize
+revenues from per-query search fees in the period we provide the
+search results.We also generate fees
+from the sale and license of our Search Appliance products, which
+include hardware, software, and post-contract support primarily for
+two years. As the deliverables are not sold separately, sufficient
+vendor-specific objective evidence does not exist for the
+allocation of revenue. As a result, we recognized the entire fee
+for the sale and license of these products ratably over the term of
+the post-contract support arrangement. Beginning the first quarter
+of 2010, we adopted the new accounting guidance which requires us
+to allocate the consideration of the arrangement to each of the
+deliverables based on our best estimate of their selling prices as
+there is no vendor-specific objective or third-party evidence of
+the selling prices. As a result, we now recognize revenue allocated
+to the hardware and software at the time of sale and revenue
+allocated to post-contract support ratably over the term of the
+service arrangement.In addition, we generate
+fees through the license of our Google Apps products. We recognize
+as revenue the fees we charge customers for hosting the related
+enterprise applications and services ratably over the term of the
+service arrangement.Revenues realized through
+display advertising management services, Google TV Ads, Google
+Checkout, search services, Search Appliance, and Google Apps were
+not material in any of the years presented.We recognize revenues as
+described above because the services have been provided, the fees
+we charge are fixed or determinable, we and our advertisers or
+other customers understand the specific nature and terms of the
+agreed-upon transactions and collectability is reasonably
+assured.We record deferred
+revenue when payments are received in advance of our performance in
+the underlying agreement on the accompanying Consolidated Balance
+Sheets.&#xA0;Cost of
+RevenuesCost of revenues consists
+primarily of traffic acquisition costs. Traffic acquisition costs
+consist of amounts ultimately paid to our Google Network members
+under AdSense arrangements and to certain other partners (our
+distribution partners) who distribute our toolbar and other
+products (collectively referred to as access points) or otherwise
+direct search queries to our web site (collectively referred to as
+distribution arrangements). These amounts are primarily based on
+the revenue share arrangements with our Google Network members and
+distribution partners.Certain AdSense
+agreements obligate us to make guaranteed minimum revenue share
+payments to Google Network members based on their achieving defined
+performance terms, such as number of search queries or
+advertisements displayed. These fees may be paid in advance or in
+arrears and are non-refundable but are subject to adjustment based
+on the achievement of the defined performance terms. In addition,
+the arrangements are terminable at will, although under the terms
+of certain contracts we or our Google Network members may be
+subject to penalties in the event of early termination. To the
+extent we expect revenues generated under an arrangement to exceed
+the guaranteed minimum revenue share payments, we recognize traffic
+acquisition costs on a contractual revenue share basis or on a
+basis proportionate to forecasted revenues, whichever is greater.
+Otherwise, we recognize the guaranteed revenue share payments as
+traffic acquisition costs on a straight-line basis over the term of
+the related agreements. For AdSense agreements under which we only
+pay on a contractual revenue share basis, we recognize the revenue
+share obligations as traffic acquisition costs at the same time the
+related revenue is recognized. Also, concurrent with the
+commencement of a small number of AdSense and other agreements, we
+have purchased certain items from, or provided other consideration
+to, our Google Network members and partners. We have determined
+that certain of these amounts are prepaid traffic acquisition costs
+and are amortized on a straight-line basis over the terms of the
+related agreements.In addition, certain
+distribution arrangements require us to pay our partners based on a
+fee per access point delivered and not exclusively&#x2014;or at
+all&#x2014;based on revenue share. These fees are non-refundable.
+Further, these arrangements are terminable at will, although under
+the terms of certain contracts we or our distribution partners may
+be subject to penalties in the event of early termination. We
+recognize fees under these arrangements over the estimated useful
+lives of the access points (approximately two years) to the extent
+we can reasonably estimate those lives and they are longer than one
+year, or based on any contractual revenue share, if greater.
+Otherwise, the fees are charged to expense as incurred. The
+estimated useful life of the access points is based on the
+historical average period of time they generate traffic and
+revenues. Further, we review the access points for impairment by
+distribution partner, type, and geography, and we have not made any
+impairment to date.Prepaid revenue share and
+distribution fees are included in prepaid revenue share, expenses,
+and other assets on the accompanying Consolidated Balance
+Sheets.Cost of revenues also
+includes the expenses associated with the operation of our data
+centers, including depreciation, labor, energy, and bandwidth
+costs, credit card and other transaction fees related to processing
+customer transactions including Google Checkout transactions,
+amortization of acquired intangible assets, as well as content
+acquisition costs. We have entered into arrangements with certain
+content providers under which we distribute or license their video
+and other content. In a number of these arrangements, we display
+ads on the pages of our web sites and our Google Network
+members&#x2019; web sites from which the content is viewed and share
+most of the fees these ads generate with the content providers and
+the Google Network members. To the extent we are obligated to make
+guaranteed minimum revenue share or other payments to our content
+providers, we recognize content acquisition costs equal to the
+greater of the following three amounts: 1) the contractual revenue
+share amount, if any, 2) an amount that is based on the number of
+times the content is displayed, or 3) an amount calculated on a
+straight-line basis over the terms of the agreements.Stock-based
+CompensationWe have elected to use
+the Black-Scholes-Merton (BSM) pricing model to determine the fair
+value of stock options on the dates of grant.Restricted stock units
+(RSUs) are measured based on the fair market values of the
+underlying stock on the dates of grant. Shares are issued on the
+vesting dates net of the statutory withholding requirements to be
+paid by us on behalf of our employees. As a result, the actual
+number of shares issued will be fewer than the actual number of
+RSUs outstanding. Furthermore, we record the liability for
+withholding amounts to be paid by us as a reduction to additional
+paid-in capital when paid. Also, we recognize stock-based
+compensation using the straight-line method.We include as part of
+cash flows from financing activities the benefits of tax deductions
+in excess of the tax-effected compensation of the related
+stock-based awards for options exercised and RSUs vested during the
+period. During the years ended December&#xA0;31, 2007, 2008, and
+2009, the amount of cash received from the exercise of stock
+options was $137.2 million, $72.5 million, and $350.2 million, and
+the total direct tax benefit realized, including the excess tax
+benefit, from stock-based award activity was $463.2 million, $250.9
+million, and $260.2 million. We have elected to account for the
+indirect effects of stock-based awards&#x2014;primarily the research
+and development tax credit&#x2014;through the income
+statement.In the years ended
+December&#xA0;31, 2007, 2008, and 2009, we recognized stock-based
+compensation and related tax benefits of $868.6 million and $143.0
+million, $1,119.8 million and $231.7 million, and $1,164.1 million
+and $264.0 million.Certain Risks and
+ConcentrationsOur revenues are
+principally derived from online advertising, the market for which
+is highly competitive and rapidly changing. In addition, our
+revenues are generated from a multitude of vertical market segments
+in countries around the globe. Significant changes in this industry
+or changes in customer buying or advertiser spending behavior could
+adversely affect our operating results.Financial instruments
+that potentially subject us to concentrations of credit risk
+consist principally of cash equivalents, marketable securities,
+foreign exchange contracts, and accounts receivable. Cash
+equivalents and marketable securities consist primarily of highly
+liquid debt instruments of the U.S. government and its agencies,
+municipalities in the U.S., debt instruments issued by foreign
+governments, time deposits, money market funds, mortgage-backed
+securities, and corporate securities. Foreign exchange contracts
+are transacted with various major corporations and financial
+institutions with high credit standing. Accounts receivable are
+typically unsecured and are derived from revenues earned from
+customers located around the globe. In 2007, 2008, and 2009, we
+generated approximately 52%, 49%, and 47% of our revenues from
+customers based in the U.S., with the majority of customers outside
+of the U.S. located in Europe and Japan. Many of our Google Network
+members are in the internet industry. We perform ongoing
+evaluations to determine customer credit and we limit the amount of
+credit we extend, but generally we do not require collateral from
+our customers. We maintain reserves for estimated credit losses and
+these losses have generally been within our
+expectations.No advertiser or Google
+Network member generated greater than 10% of revenues in 2007,
+2008, and 2009.&#xA0;Fair Value of
+Financial InstrumentsThe carrying amounts of
+our financial instruments, including cash and cash equivalents,
+accounts receivable, accounts payable, and accrued liabilities,
+approximate fair value because of their generally short maturities.
+We carry marketable securities and foreign currency contracts at
+fair value. See Notes 3 and 4 below for more
+information.Cash and Cash
+Equivalents and Marketable SecuritiesWe invest our excess cash
+primarily in highly liquid debt instruments of the U.S. government
+and its agencies, municipalities in the U.S., debt instruments
+issued by foreign government, time deposits, money market mutual
+funds, mortgage-backed securities, and corporate securities. We
+classify all highly liquid investments with stated maturities of
+three months or less from date of purchase as cash equivalents and
+all highly liquid investments with stated maturities of greater
+than three months as marketable securities.We determine the
+appropriate classification of our investments in marketable
+securities at the time of purchase and reevaluate such designation
+at each balance sheet date. We have classified and accounted for
+our marketable securities as available-for-sale. We may or may not
+hold securities with stated maturities greater than 12 months until
+maturity. After consideration of our risk versus reward objectives,
+as well as our liquidity requirements, we may sell these securities
+prior to their stated maturities. As we view these securities as
+available to support current operations, we classify securities
+with maturities beyond 12 months as current assets under the
+caption marketable securities in the accompanying Consolidated
+Balance Sheets. We carry these securities at fair value, and report
+the unrealized gains and losses, net of taxes, as a component of
+stockholders&#x2019; equity, except for unrealized losses determined
+to be other than temporary which we record as interest income and
+other, net. We determine any realized gains or losses on the sale
+of marketable securities on a specific identification method, and
+we record such gains and losses as a component of interest income
+and other, net.Non-Marketable Equity
+SecuritiesWe have accounted for
+non-marketable equity security investments primarily at cost
+because we do not have significant influence over the underlying
+investees.Impairment of
+Marketable and Non-Marketable SecuritiesWe periodically review
+our marketable securities, as well as our non-marketable equity
+securities, for impairment. If we conclude that any of these
+investments are impaired, we determine whether such impairment is
+&#x201C;other-than-temporary.&#x201D; Factors we consider to make
+such determination include the duration and severity of the
+impairment, the reason for the decline in value and the potential
+recovery period, and our intent to sell, or whether it is more
+likely than not that we will be required to sell, the investment
+before recovery. If any impairment is considered
+&#x201C;other-than-temporary,&#x201D; we will write down the asset to
+its fair value and take a corresponding charge to our Consolidated
+Statements of Income.Accounts
+ReceivableWe record accounts
+receivable at the invoiced amount and we do not charge interest. We
+maintain an allowance for doubtful accounts to reserve for
+potentially uncollectible receivables. We review the accounts
+receivable by amounts due by customers which are past due to
+identify specific customers with known disputes or collectability
+issues. In determining the amount of the reserve, we make judgments
+about the creditworthiness of significant customers based on
+ongoing credit evaluations. We also maintain a sales allowance to
+reserve for potential credits issued to customers. We determine the
+amount of the reserve based on historical credits
+issued.&#xA0;Property and
+EquipmentWe account for property
+and equipment at cost less accumulated depreciation and
+amortization. We compute depreciation using the straight-line
+method over the estimated useful lives of the assets, generally two
+to five years. We depreciate buildings over periods up to 25 years.
+We amortize leasehold improvements over the shorter of the lease
+term or the estimated useful lives of the assets. Construction in
+progress is related to the construction or development of property
+(including land) and equipment that have not yet been placed in
+service for their intended use. Depreciation for equipment
+commences once it is placed in service and depreciation for
+buildings and leasehold improvements commences once they are ready
+for their intended use.Software Development
+CostsWe expense software
+development costs, including costs to develop software products or
+the software component of products to be marketed to external
+users, before technological feasibility of such products is
+reached. We have determined that technological feasibility was
+reached shortly before the release of those products and as a
+result, the development costs incurred after the establishment of
+technological feasibility and before the release of those products
+were not material, and accordingly, were expensed as incurred.
+Software development costs also include costs to develop software
+programs to be used solely to meet our internal needs. The costs we
+incurred during the application development stage for these
+software programs were not material in the years
+presented.Long-Lived Assets
+Including Goodwill and Other Acquired Intangible
+AssetsWe review property and
+equipment and intangible assets, excluding goodwill, for impairment
+whenever events or changes in circumstances indicate the carrying
+amount of an asset may not be recoverable. We measure
+recoverability of these assets by comparing the carrying amounts to
+the future undiscounted cash flows the assets are expected to
+generate. If property and equipment and intangible assets are
+considered to be impaired, the impairment to be recognized equals
+the amount by which the carrying value of the asset exceeds its
+fair market value. We have made no material adjustments to our
+long-lived assets in any of the years presented. In addition, we
+test our goodwill for impairment at least annually or more
+frequently if events or changes in circumstances indicate that this
+asset may be impaired. Our tests are based on our single operating
+segment and reporting unit structure. We found no material
+impairment in any of the years presented.Intangible assets with
+definite lives are amortized over their estimated useful lives. We
+amortize our acquired intangible assets on a straight-line basis
+with definite lives over periods ranging primarily from one to 12
+years.Income
+TaxesWe recognize income taxes
+under the liability method. We recognize deferred income taxes for
+differences between the financial reporting and tax bases of assets
+and liabilities at enacted statutory tax rates in effect for the
+years in which differences are expected to reverse. We recognize
+the effect on deferred taxes of a change in tax rates in income in
+the period that includes the enactment date.Foreign
+CurrencyGenerally, the functional
+currency of our international subsidiaries is the local currency.
+We translate the financial statements of these subsidiaries to U.S.
+dollars using month-end rates of exchange for assets and
+liabilities, and average rates of exchange for revenues, costs, and
+expenses. We record translation gains and losses in accumulated
+other comprehensive income as a component of stockholders&#x2019;
+equity. We recorded $61.0 million of net translation gains in 2007,
+$84.2 million of net translation losses in 2008, and $76.7 million
+of net translation gains in 2009. We record net gains and losses
+resulting from foreign exchange transactions as a component of
+interest income and other, net. These gains and losses are net of
+those realized on forward foreign exchange contracts. We recorded
+$16.2 million and $35.6 million of net losses in 2007 and 2008, and
+$8.2 million of net gains in 2009 from assets and liabilities
+denominated in a currency other than the local currency.Legal
+CostsLegal costs are expensed
+as incurred.Advertising and
+Promotional ExpensesWe expense advertising
+and promotional costs in the period in which they are incurred. For
+the years ended December&#xA0;31, 2007, 2008, and 2009, advertising
+and promotional expenses totaled approximately $236.7 million,
+$266.4 million, and $353.4 million.Subsequent
+EventsIn May 2009, the FASB
+issued a new accounting standard&#xA0;which established general
+accounting standards and disclosure for subsequent events. In
+accordance with this standard, we evaluated subsequent events
+through February&#xA0;12, 2010, the date we filed this Annual
+Report on Form 10-K with the Securities and Exchange Commission
+(SEC).Effect of Recent
+Accounting PronouncementsIn June 2009, the FASB
+issued a new accounting standard&#xA0;which changes the consolidation rules as they relate to
+variable interest entities. Specifically, the new standard makes
+significant changes to the model for determining who should
+consolidate a variable interest entity, and also addresses how
+often this assessment should be performed. We adopted this standard
+in the first quarter of 2010 and the adoption did not have a
+material impact on our consolidated financial
+statements.In August 2009, the FASB
+issued a new accounting standard which provides additional guidance
+on the measurement of liabilities at fair value.&#xA0;Specifically,
+when a quoted price in an active market for the identical liability
+is not available, the new standard requires that the fair value of
+a liability be measured using one or more of the valuation
+techniques that should maximize the use of relevant observable
+inputs and minimize the use of unobservable inputs.&#xA0;In
+addition, an entity is not required to include a separate input or
+adjustment to other inputs relating to the existence of a
+restriction that prevents the transfer of a liability.&#xA0;We
+adopted this standard in the fourth quarter of 2009 and the
+adoption did not have a material impact on our consolidated
+financial statements.In October 2009, the FASB
+issued a new accounting standard which provides guidance for
+arrangements with multiple deliverables. Specifically, the new
+standard requires an entity to allocate consideration at the
+inception of an arrangement to all of its deliverables based on
+their relative selling prices. In the absence of the
+vendor-specific objective evidence or third-party evidence of the
+selling prices, consideration must be allocated to the deliverables
+based on management&#x2019;s best estimate of the selling
+prices.&#xA0;In addition, the new standard eliminates the use of
+the residual method of allocation.&#xA0;In October 2009, the FASB
+also issued a new accounting standard which changes revenue
+recognition for tangible products containing software and hardware
+elements.&#xA0;Specifically, tangible products containing software
+and hardware that function together to deliver the tangible
+products&#x2019; essential functionality are scoped out of the
+existing software revenue recognition guidance and will be
+accounted for under the multiple-element arrangements revenue
+recognition guidance discussed above. Both standards will be
+effective for us in the first quarter of 2011.&#xA0;Early adoption
+is permitted.&#xA0;We adopted these new accounting standards in the
+first quarter of 2010 using the prospective method and the adoption
+did not have a material impact on our consolidated financial
+statements. Had we adopted these new standards in 2009, the impact
+on our consolidated financial statements would have been
+immaterial.&#xA0;

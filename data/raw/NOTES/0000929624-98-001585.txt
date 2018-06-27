@@ -1,0 +1,998 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Index to Consolidated Financial Statements:
+PAGE                DESCRIPTION
+36 Report of Independent Public Accountants
+37 Consolidated Balance Sheets--June 30, 1998 and 1997
+38 Consolidated Statements of Operations for the years ended June 30, 1998,
+1997 and 1996
+39 Consolidated Statements of Shareholders' Equity for the years ended June
+30, 1998, 1997 and 1996
+40 Consolidated Statements of Cash Flows for the years ended June 30, 1998,
+1997 and 1996
+41 Notes to Consolidated Financial Statements
+35
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+To Genesys Telecommunications Laboratories, Inc.:
+We have audited the accompanying consolidated balance sheets of Genesys
+Telecommunications Laboratories, Inc. a California Corporation and
+subsidiaries as of June 30, 1998 and 1997, and the related consolidated
+statements of operations, shareholders' equity and cash flows for each of the
+three years in the period ended June 30, 1998. These financial statements and
+schedule are the responsibility of the Company management. Our
+responsibility is to express an opinion on these financial statements and
+schedule based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Genesys Telecommunications
+Laboratories, Inc. and subsidiaries as of June 30, 1998 and 1997, and the
+results of their operations and their cash flows for each of the three years
+in the period ended June 30, 1998, in conformity with generally accepted
+accounting principles.
+Our audit was made for the purpose of forming an opinion on the basic
+financial statements taken as a whole. The schedule listed under Item 14a2
+is presented for purposes of complying with the Securities and Exchange
+Commission rules and is not part of the basic financial statements. This
+schedule has been subjected to the auditing procedures applied in the audit of
+the basic financial statements and, in our opinion, fairly states in all
+material respects the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+Arthur Andersen LLP
+San Jose, California
+July 17, 1998
+36
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS, EXCEPT SHARE AMOUNTS
+JUNE 30,
+1998  1997
+ASSETS
+CURRENT ASSETS:
+Cash and cash  $ 30,256 $47,160
+Short-term   16,985    Accounts receivable, net of allowance for doubtful accounts
+of $789 and $377,   28,007 18,297
+Prepaid expenses and   8,314  3,880
+Total current   83,562 69,337
+PROPERTY AND EQUIPMENT, at cost, net of accumulated
+depreciation and   14,675  7,383
+OTHER   6,463  3,225
+$104,700 $79,945
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES                                 
+Note  $  243 $  241
+Current portion of long-term obligations.    33   476
+Accounts   4,520  2,707
+Accrued payroll and related   3,702  1,748
+Other accrued   5,674  4,985
+Deferred   16,805  12,152
+Total current   30,977  22,309
+LONG-TERM OBLIGATIONS, net of current portion.   102   508
+CONVERTIBLE DEBT TO RELATED    --    367
+COMMITMENTS AND CONTINGENCIES Notes 5 and 6
+SHAREHOLDERS' EQUITY:
+Common stock, no par value:
+Authorized--120,000,000 shares
+Issued and outstanding--22,415,222 shares in 1998 and
+20,500,183 shares in   73,576  64,809
+Shareholder notes    440  434
+Cumulative translation    188   124
+Deferred stock   1,220 1,697
+Retained Earnings Accumulated deficit.  1,893  6,041
+Total shareholders'   73,621  56,761
+$104,700 $79,945
+The accompanying notes are an integral part of these consolidated financial
+statements.
+37
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS
+FOR THE YEARS ENDED
+JUNE 30,
+1998  1997  1996
+REVENUES:
+$68,973 $31,919 $ 8,567
+15,695  5,619  3,462
+Total  84,668 37,538 12,029
+COST OF REVENUES:
+3,342  1,615   548
+10,554  3,881  2,568
+Total cost of  13,896  5,496  3,116
+GROSS  70,772 32,042  8,913
+OPERATING EXPENSES:
+Research and  15,308  9,382  4,511
+Sales and  35,705 16,042  3,998
+General and   8,462  5,432  4,397
+Merger    905   --                                    Total operating  60,380 30,856 12,906
+INCOME LOSS FROM  10,392  1,186 3,993
+OTHER INCOME EXPENSE:
+Interest income expense, net.  1,552   --   120
+Other,    --   237    5
+INCOME LOSS BEFORE PROVISION FOR INCOME TAXES. 11,944  1,423 4,108
+PROVISION FOR INCOME   4,010   649                                  NET INCOME  $ 7,934 $  774 $4,108
+BASIC NET INCOME LOSS PER SHARE. $ 037 $ 005 $ 039
+DILUTED NET INCOME LOSS PER SHARE. $ 030 $ 004 $ 039
+BASIC WEIGHTED AVERAGE COMMON SHARES. 21,590 14,148 10,484
+DILUTED WEIGHTED AVERAGE COMMON SHARES. 26,747 20,299 10,484
+The accompanying notes are an integral part of these consolidated financial
+statements.
+38
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+IN THOUSANDS, EXCEPT SHARE AMOUNTS                                                          TOTAL
+PREFERRED STOCK    COMMON STOCK   SHAREHOLDER CUMULATIVE  DEFERRED        SHAREHOLDERS'
+NOTES  TRANSLATION  STOCK   ACCUMULATED  EQUITY
+SHARES   AMOUNT   SHARES  AMOUNT  RECEIVABLE ADJUSTMENT COMPENSATION  DEFICIT   DEFICIT
+BALANCES, JUNE
+30, 1995.    --  $  --  7,468,099 $  424   $ 18   $ --    $  --    $2,707   $2,301
+Issuance of
+Common Stock.    --    --  4,914,000   138   102    --      --      --      36
+Issuance of
+Series A
+Preferred Stock.  900,000   1,995     --    --          --      --      --     1,995
+Issuance of
+Series B
+Preferred Stock. 1,897,878   7,000     --    --    --     --      --      --     7,000
+Repurchase of
+Common Stock.    --    --   396,000   9   --     --      --      --      9
+Payments on
+shareholder
+notes
+receivable.    --    --     --    --     8     --      --      --       8
+Deferred stock
+compensation.    --    --     --    75    --     --      75     --       Amortization of
+deferred stock
+compensation.    --    --     --    --    --     --       2     --       2
+Net loss.    --    --     --    --    --     --      --    4,108   4,108
+BALANCES, JUNE
+30, 1996. 2,797,878   8,995 11,986,099   628   112    --      73   6,815    2,623
+Exercise of
+stock options.    --    --   895,561   347   108    --      --      --      239
+Issuance of
+Common Stock.    --    --   608,500   466   234    --      --      --      232
+Issuance of
+Common Stock in
+connection with
+initial public
+offering.    --    --  2,375,000  38,268    --     --      --      --    38,268
+Issuance of
+Common Stock in
+connection with
+the acquisition
+of a subsidiary.    --    --   675,000  2,025    --     --      --      --     2,025
+Issuance of
+Series C
+Preferred Stock.  854,363   9,101     --    --    --     --      --      --     9,101
+Exercise of
+Warrants.    --    --   420,282  2,500    --     --      --      --     2,500
+Conversion of
+Preferred Stock
+into Common
+Stock. 3,652,241 18,096 3,652,241  18,096    --     --      --      --       Issuance of
+Common Stock
+Warrants.    --    --     --    650    --     --      --      --      650
+Repurchase of
+Common Stock.    --    --   112,500   9   --     --      --      --      9
+Cumulative
+translation
+adjustment.    --    --     --    --    --     124     --      --      124
+Payment on
+shareholder
+notes
+receivable.    --    --     --    --     20     --      --      --      20
+Deferred stock
+compensation.    --    --     --   1,838    --     --    1,838     --       Amortization of
+deferred stock
+compensation.    --    --     --    --    --     --      214     --      214
+Net income.    --    --     --    --    --     --      --      774     774
+BALANCES, JUNE
+30, 1997.    --    --  20,500,183  64,809   434    124    1,697   6,041   56,761
+Exercise of
+stock options.    --    --  1,844,466  3,501    90    --      --      --     3,411
+Common stock
+issued under
+employee stock
+purchase plan.    --    --    70,573  1,081    --     --      --      --     1,081
+Cumulative
+translation
+adjustment.    --    --     --    --    --     312     --      --     312
+Payment on
+shareholder
+notes
+receivable.    --    --     --    --     84     --      --      --      84
+Amortization of
+deferred stock
+compensation.    --    --     --    --    --     --      477     --      477
+Income tax
+benefit of
+disqualifying
+dispositions.    --    --     --   4,185    --     --      --      --     4,185
+Net income.    --    --     --    --    --     --      --     7,934    7,934
+BALANCES, JUNE
+30, 1998.    --  $  --  22,415,222 $73,576   $440   $188   $1,220   $ 1,893   $73,621
+The accompanying notes are an integral part of these consolidated financial
+statements
+39
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS
+FOR THE YEARS ENDED
+JUNE 30,
+1998   1997   1996
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income  $ 7,934 $  774 $4,108
+Adjustments to reconcile net income loss to
+net cash provided by used in operating
+activities:
+Amortization of deferred stock compensation.    477    214    2
+Depreciation and amortization.   6,405   1,423   459
+Provision for doubtful accounts.    889    212   410
+Changes in operating assets and liabilities:
+Accounts   10,599 13,366 3,367
+Prepaid expenses and other.  4,434  2,442  123
+Accounts    1,813   1,198   370
+Accounts payable to related parties.    --    268   268
+Accrued payroll and related benefits.   1,954    879   743
+Other accrued    4,874   3,513   671
+Deferred    4,653   7,688  2,487
+Net cash provided by used in operating
+13,966   175 2,188
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of short-term investments.  45,509   --     Sale of short-term investments.  28,523    --     Purchases of property and equipment.  12,551  7,162 1,361
+Increase in other   4,384  1,055   31
+Cost to acquire     --    100                                   Net cash used in investing activities.  33,921  8,317 1,392
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from bank line of credit.     2   4,536  2,131
+Repayment of bank line of credit.    --   4,592 2,152
+Principal payments on long-term obligations.  1,216   151  327
+Proceeds from advances from related parties.    --    --    720
+Repayments of advances from related parties.    --    25  706
+Proceeds from convertible debt to related
+--    --    367
+Repayment of convertible debt to related
+--    367    Proceeds from promissory note.    --    --   1,500
+Repayment of promissory note.    --    --   600
+Payment of shareholder notes receivable, net.    84    20    8
+Repurchases of Common Stock.    --     9    Proceeds from sales of preferred stock.    --   9,101  8,095
+Proceeds from sales of common stock.   4,492  41,239   231
+Net cash provided by financing activities.   3,362  49,752  9,267
+EFFECT OF EXCHANGE RATE CHANGES ON CASH.   311   --                                 NET INCREASE DECREASE IN CASH AND CASH
+16,904  41,260  5,687
+CASH AND CASH EQUIVALENTS:
+Beginning of   47,160   5,900   213
+End of  $ 30,256 $ 47,160 $ 5,900
+ADDITIONAL DISCLOSURES OF NON-CASH TRANSACTIONS:
+Repayment of convertible debt with issuance of
+preferred  $  --  $  --  $  900
+Equipment capital     --    175    24
+Prepaid insurance     --    588    Common Stock issued to acquire subsidiary.    --   2,193    Fair market value of warrants issued.    --    650    Conversion of preferred stock into common stock.    --   18,096    Issuance of Common Stock for shareholder notes
+90    342   120
+Income tax benefit of disqualifying
+4,185    --     
+The accompanying notes are an integral part of these consolidated financial
+statements.
+40
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+JUNE 30, 1998
+1. THE COMPANY
+Genesys Telecommunications Laboratories, Inc. formerly Enhanced Voice
+Processing, Inc., was incorporated in California on October 11, 1990. During
+fiscal 1995, Genesys Telecommunications Laboratories, Inc. established a
+wholly-owned subsidiary in the United Kingdom, and in fiscal 1996 it
+established a wholly-owned subsidiary in Russia. Also in fiscal 1996, Genesys
+Telecommunications Laboratories, Inc. entered into a joint venture in Canada
+through which it owned 51% of a Canadian corporation, Genesys Laboratories
+Canada, Inc. In February 1997, Genesys Telecommunications Laboratories, Inc.
+acquired the remaining 49% of Genesys Laboratories Canada, Inc. In fiscal
+1997, Genesys Telecommunications Laboratories, Inc. established wholly-owned
+subsidiaries in Australia, France and Japan. In fiscal 1998, the Company
+established wholly-owned subsidiaries in Singapore, Germany, South Africa and
+South Korea.
+Genesys Telecommunications Laboratories, Inc. and subsidiaries the
+Company operate in a single industry segment and are involved in the
+design, development, marketing and support of a suite of Computer Telephony
+Integration CTI products, including platform and applications software
+that enable organizations to integrate critical business information and
+computing resources with telephony and other telecommunications media. The
+Company products are marketed primarily in North America, Europe and Asia.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Principles of Consolidation
+The consolidated financial statements include the accounts of Genesys
+Telecommunications Laboratories, Inc. and its subsidiaries. All significant
+intercompany accounts and transactions are eliminated in consolidation.
+Foreign Currency Translation
+The functional currency of the Company subsidiaries is the local currency.
+Accordingly, the Company applies the current rate method to translate the
+subsidiaries' financial statements into U.S. dollars. Translation adjustments
+are included as a separate component of shareholders' equity in the
+accompanying consolidated financial statements.
+Foreign exchange gains and losses resulting from foreign currency
+transactions are recorded in other income expense in the accompanying
+consolidated financial statements and were not material in any of the periods
+presented.
+Use of Estimates
+The preparation of the consolidated financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the dates of the
+consolidated financial statements and the reported amounts of revenues and
+expenses during the reporting periods. Actual results could differ from those
+estimates.
+Impairment of Long Lived Assets
+The Company reviews long lived assets and certain identifiable intangibles
+for impairment whenever events or changes in circumstances indicate that the
+carrying amount of an asset may not be recoverable. As of June 30, 1998, no
+impairment losses have been incurred.
+41
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Revenue Recognition
+The Company generates revenues from licensing the rights to use its software
+products directly to end users and indirectly through value-added resellers.
+The Company also generates revenues from sales of post-contract support,
+consulting and training services performed for customers who license the
+Company products.
+The Company recognizes revenues and records estimated warranty reserves from
+software license agreements with end users and VARs upon shipment of the
+software if there are no significant post-delivery obligations and if
+collection is probable. If a software license agreement provides for
+acceptance criteria that extend beyond the published specifications of the
+applicable product, then revenues are recognized upon the earlier of customer
+acceptance or the expiration of the acceptance period. If a software license
+agreement provides for the delivery of software products and significant
+customization and modification services under a fixed price arrangement,
+product and service revenue is recognized on a percentage of completion basis
+unless the elements can be segmented as defined in SOP 81-1.
+Customers who purchase post-contract support services under maintenance
+agreements have the right to receive unspecified product updates, upgrades and
+enhancements. Customers that do not purchase post-contract support must
+purchase product updates, upgrades and enhancements under separate agreements
+that are subject to the criteria of the Company revenue recognition policy.
+Revenues from post-contract support services are recognized ratably over the
+term of the support period. If post-contract support services are included
+free or at a discount in a license agreement, such amounts are allocated out
+of the license fee at their fair market value based on the value established
+by independent sale of such post-contract support services to customers.
+Consulting revenues are primarily related to implementation services performed
+on a time and materials basis under separate service arrangements related to
+the installation of the Company software products. Revenues from consulting
+and training services are recognized as services are performed. If a
+transaction includes both license and service elements, license fee revenue is
+recognized upon shipment of the software, provided services do not include
+significant customization or modification of the base product and the payment
+terms for licenses are not subject to acceptance criteria. In cases where
+license fee payments are contingent upon the acceptance of services, revenues
+from both the license and the service elements are deferred until the
+acceptance criteria are met.
+Cost of license revenues includes the costs of product media, product
+duplication and manuals, as well as allocated labor and overhead costs related
+to preparation and shipment of the product. Cost of service revenues consists
+primarily of salaries, benefits and allocated overhead costs related to
+consulting personnel and the customer service department.
+Deferred revenues include software license fees and services that have been
+invoiced to the customer for which the revenue earnings process has not been
+completed.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with an original
+maturity of three months or less at the time of purchase to be cash
+equivalents. The Company investments have consisted of tax-exempt debt
+securities and certificates of deposit with original maturities of three
+months or less and money market accounts.
+Short-term Investments
+Under the provisions of SFAS No. 115, the Company investments, which
+consist primarily of tax-exempt debt securities, are classified as available-
+for-sale and are stated at fair value. The difference between cost and
+42
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+fair value of all of the Company short-term investments is insignificant.
+Such investments are recorded at fair value and unrealized gains and losses,
+if material, are recorded as a separate component of equity until realized.
+Interest income is recorded using an effective interest rate, with associated
+premium or discount amortized to investment income. The cost of securities
+sold is based upon the specific identification method. All available-for-sale
+securities are classified as current assets and mature within 12 months.
+Property and Equipment
+Property and equipment is stated at cost less accumulated depreciation and
+amortization. Depreciation is provided using the straight-line method over the
+estimated useful lives of the related assets or over the lease term if it is
+shorter for leasehold improvements, which range from 3 to 5 years. Property
+and equipment leased under capital leases is amortized over the lesser of its
+useful life or the lease term.
+Software Development Costs
+The Company capitalizes internally generated software development costs in
+compliance with Statement of Financial Accounting Standards No. 86,
+Accounting for the Costs of Computer Software to be Sold, Leased or Otherwise
+Marketed. Capitalization of computer software development costs begins upon
+the establishment of technological feasibility for the product. The Company
+capitalized approximately $19 million of software development in fiscal 1998
+and $450,000 in fiscal 1997. Prior to fiscal 1997, costs that were eligible
+for capitalization were insignificant and, thus, the Company has charged these
+costs to research and development expense in the accompanying consolidated
+statements of operations.
+Amortization of capitalized computer software development costs begins when
+the products are available for general release to customers, and is computed
+on a product-by-product basis as the greater of: a the ratio of current
+gross revenues for a product to the total of current and anticipated future
+gross revenues for the product; or b the straight-line method over the
+remaining estimated economic life of the product generally two to three
+years. The Company amortized $256,000 of capitalized software development
+costs in fiscal 1998. No amortization was recorded in fiscal 1997 as these
+costs were incurred and capitalized near the end of the fiscal year.
+Net Income Loss Per Share
+In February 1997, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 128, Earnings per Share SFAS 128,
+which was adopted by the Company in the quarter ended December 31, 1997, and
+in accordance with this standard all prior periods presented have been
+restated to conform to its provisions. Under the new requirements for
+calculating earnings per share, the dilutive effect of potential common shares
+is excluded from basic net income loss per share. Diluted net income loss
+per share is computed using the weighted average number of common and
+potential common shares outstanding during the period. Potential common shares
+consist of preferred stock using the if converted method and stock options
+and warrants using the treasury stock method. Potential common shares are
+excluded from the dilutive computation only if their effect is anti-dilutive
+In February 1998, the Securities and Exchange Commission issued Staff
+Accounting Bulletin 98, which included SEC requirements related to the
+adoption of SFAS 128. The Company applied these provisions to the calculation
+of basis and diluted weighted average shares outstanding for all periods
+presented in the accompanying statements of operations.
+43
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Basic and Diluted Weighted Average Common and Potential Common Shares
+presented in the accompanying statements of operations as rounded are
+comprised of the following in thousands:
+JUNE 30,
+1998  1997  1996
+Weighted average common
+shares outstanding. 20,923 13,481 9,817
+Shares issued in
+acquisition of Forte.   667  667  667
+BASIC WEIGHTED AVERAGE
+COMMON SHARES. 21,590 14,148 10,484
+Convertible Preferred
+Stock.   --  3,090    Weighted average options
+and warrants for common
+stock.  5,157 3,061                     DILUTED WEIGHTED AVERAGE
+COMMON SHARES. 26,747 20,299 10,484
+Stock Splits
+In August 1996, the Company effected a 3:1 stock split of its Common Stock,
+and in November 1996 the Company effected a 2:1 stock split of its Common
+Stock. In February 1997, the Company effected a 6:1 stock split of its Series
+A and Series B Preferred Stock.
+All share and per share data in the accompanying consolidated financial
+statements have been retroactively restated to reflect the stock splits,
+including the reflection of all preferred share and per share data on an as
+converted basis.
+Recently Issued Accounting Standards
+In October 1997, the American Institute of Certified Public Accountants
+issued Statement of Position 97-2 Software Revenue Recognition SOP 97-2,
+which will be adopted by the Company in fiscal 1999. SOP 97-2 clarifies and
+amends certain provisions of Statement of Position 91-1, Software Revenue
+Recognition. The Company does not believe the adoption of the provisions of
+SOP 97-2 will have a material impact on the Company financial position or
+results of operations.
+In February 1997, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 129, Disclosure of Information about
+Capital Structure SFAS 129, which was adopted by the Company in fiscal
+1998. SFAS 129 continues the existing requirements to disclose the pertinent
+rights and privileges or all securities other than ordinary common stock but
+expands the number of companies subject to portions of its requirements. The
+adoption of this statement had no impact on the Company financial
+statements.
+In June 1997, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 130, Reporting Comprehensive Income
+SFAS 130, which is required to be adopted by the Company in its first
+quarter of fiscal 1999. At that time, the Company will be required to
+disclose, in financial statement format, all non-owner changes in equity. Such
+changes include, for example, cumulative foreign currency translation
+adjustments, certain minimum pension liabilities and unrealized gains and
+losses on available-for-sale securities. The Company does not expect the
+adoption of SFAS 130 to have a material impact on the Company financial
+statements.
+In June 1997, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 131, Disclosures about Segments of an
+Enterprise and Related Information SFAS 131, which establishes standards
+for reporting information about operating segments in annual financial
+statements and interim financial reports. It also establishes standards for
+related disclosures about products and services,
+44
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+geographic areas and major customers. As defined in SFAS 131, operating
+segments are components of an enterprise about which separate financial
+information is available that is evaluated regularly by the chief operating
+decision-maker in deciding how to allocate resources and in assessing
+performance. Generally, financial information is required to be reported on
+the basis that is used internally for evaluating segment performance and
+deciding how to allocate resources to segments. The Company will adopt SFAS
+131 in fiscal 1999. The Company does not expect the adoption of SFAS 131 to
+have a material impact on the Company financial statements.
+3. FINANCIAL INSTRUMENTS AND CONCENTRATION OF CREDIT RISK
+Financial instruments that potentially subject the Company to a
+concentration of credit risk principally consist of accounts receivable. As of
+June 30, 1998, approximately 15% of accounts receivable were concentrated with
+2 customers, and as of June 30, 1997, approximately 11% of accounts receivable
+were concentrated with 2 customers. The Company generally does not require
+collateral on accounts receivable, as the majority of the Company customers
+are large, well established companies. The Company provides reserves for
+credit losses and such losses have been insignificant in all periods presented
+in the accompanying consolidated financial statements.
+For cash equivalents, the carrying amount approximates fair value because of
+the short maturity of those instruments. For debt, the fair value is estimated
+based on market prices for similar debt instruments, and the carrying amount
+approximates fair value. Substantially all of the Company cash and cash
+equivalents are held in five financial institutions.
+4. ACQUISITION
+In December 1997, the Company acquired all of the outstanding common stock
+of Forte Advanced Management Software, Inc. Forte in exchange for
+approximately 667,099 shares of the Company common stock. The Company also
+assumed Forte outstanding options, which were converted to options to
+purchase approximately 90,385 shares of the Company common stock. The merger
+was accounted for as a pooling of interests and, accordingly, the consolidated
+financial statements have been restated to reflect the acquisition on a
+pooling of interests basis.
+Net revenue and income of the separate companies for the years ended June
+30, 1998, 1997, and 1996 were in thousands:
+GENESYS    FORTE ADVANCED
+TELECOMMUNICATIONS  MANAGEMENT
+LABORATORIES, INC. SOFTWARE, INC. COMBINED
+Year Ended June 30, 1998:
+Total Revenue.   $81,516      $3,152   $84,668
+Net Income Loss.    8,485       551   7,934
+Year Ended June 30, 1997:
+Total Revenue.   $34,889      $2,649   $37,538
+Net Income Loss.    1,616       842    774
+Year Ended June 30, 1996:
+Total Revenue.   $ 3,704      $ 800   $ 4,504
+Net Income Loss.     682      152    834
+45
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+5. PROPERTY AND EQUIPMENT
+Property and equipment consist of the following in thousands:
+JUNE 30,
+1998   1997
+Computer and office  $13,048 $ 5,561
+Furniture and   2,056  1,550
+Leasehold improvements and   6,411  2,918
+21,515  10,029
+Less accumulated depreciation and amortization. 6,840 2,646
+$14,675 $ 7,383
+Included in property and equipment are assets acquired under capital lease
+obligations with an original cost of approximately $282,000 as of both June
+30, 1998 and 1997, respectively. Accumulated amortization on the leased assets
+was approximately $176,500 and $82,500 as of June 30, 1998 and 1997,
+respectively.
+6. COMMITMENTS AND LONG-TERM OBLIGATIONS
+In June 1997, the Company entered into a long-term note payable with a
+vendor. The note is unsecured and bears interest at 674% per annum.
+The Company leases its facilities under noncancellable operating lease
+agreements, which expire on various dates through September 2000.
+Minimum future payments under noncancellable capital and operating leases
+and long-term notes payable as of June 30, 1997 are summarized as follows in
+thousands:
+NOTE  CAPITAL OPERATING
+FISCAL YEAR                    PAYABLE LEASES  LEASES
+$ 250  $ 44  $ 2,860
+--   44   2,360
+--   44   2,062
+--   29   1,946
+2003 and   --   --    3,047
+Total minimum   250  161  $12,275
+Less: Amount representing interest at 674% to
+6  26
+Present value of minimum payments.  243  135
+Less: Current   243  33
+Long-term  $ --  $102
+Rent expense was approximately $3,574,000, $1,155,000 and $763,000 in fiscal
+1998, 1997 and 1996, respectively.
+7. LITIGATION
+On December 17, 1996, GeoTel Communications Corporation GeoTel filed a
+lawsuit in the United States District Court for the District of Massachusetts
+naming the Company as defendant, and alleging
+46
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+infringement of a patent issued to GeoTel entitled Communications System
+Using a Central Controller to Control at Least One Network and Agent System,
+U.S. Patent No. 5,546,452 the GeoTel Patent. In the complaint, GeoTel
+requested injunctive relief, an accounting for damages and an assessment of
+interest and costs, and other relief as the court deems just and proper. On
+February 10, 1997, the Company filed an answer in response to the complaint
+filed by GeoTel, asserting that the GeoTel Patent is invalid, denying the
+alleged patent infringement and seeking dismissal of the complaint with
+prejudice. The litigation is currently in early discovery stages, with
+depositions to commence fall of 1998 and fact discovery scheduled to be
+completed in January 1999. The Company believes that it has meritorious
+defenses to the asserted claims and intends to defend the litigation
+vigorously. GeoTel alleges that the Genesys Call Router, Genesys Call Center
+Manager and Genesys Call Concentrator products, and the T Server product, as a
+necessary element of all Genesys products, infringe the GeoTel Patent. After
+consultation with counsel, the Company does not believe any of the products
+described under Business--Products infringe any valid claims of the GeoTel
+Patent. In connection with the Company development of the potential new
+products described under Business--Research and Development, the Company has
+sought the advice of such counsel and believes that such potential products
+can be developed without infringing the GeoTel Patent; however, there can be
+no assurance that GeoTel will not assert infringement of the GeoTel Patent
+with respect to such potential new products. Further, the outcome of
+litigation is inherently unpredictable, and there can be no assurance that the
+results of these proceedings will be favorable to the Company or that they
+will not have a material adverse effect on the Company business, financial
+condition or results of operations. Regardless of the ultimate outcome, the
+GeoTel litigation could result in substantial expense to the Company and
+significant diversion of effort by the Company technical and managerial
+personnel. If the Court determines that the Company infringes GeoTel patent
+and that the GeoTel patent is valid and enforceable, it could issue an
+injunction against the use or sale of certain of the Company products and it
+could assess significant damages against the Company. Accordingly, an adverse
+determination in the proceeding could subject the Company to significant
+liabilities and require the Company to seek a license from GeoTel. Although
+patent and other intellectual property disputes in the software area have
+sometimes been settled through licensing or similar arrangements, costs
+associated with such arrangements may be substantial, and there can be no
+assurance that a license from GeoTel, if required, would be available to the
+Company on acceptable terms or at all. Accordingly, an adverse determination
+in the GeoTel litigation could prevent the Company from licensing certain of
+its software products, which would have a material adverse effect on the
+Company business, financial condition and results of operations.
+8. BANK LINE OF CREDIT
+In October 1996, the Company entered into a line of credit agreement. Under
+the terms of the agreement, the Company may borrow up to $30 million under a
+revolving line of credit, which includes sublimits of $500,000 for equipment
+purchases and $500,000 for letters of credit. The line of credit is secured by
+substantially all of the Company assets and advances are limited to 80% of
+eligible accounts receivable. The line of credit expired July 31, 1997.
+9. RELATED PARTY TRANSACTIONS
+Loans from Officers, Shareholders and Their Affiliates
+During fiscal 1997, the Company borrowed an aggregate of $33,000 from
+officers, shareholders and their affiliates. No amount was outstanding as of
+June 30, 1998. Certain of these related party loans were non-interest bearing;
+however, the imputed interest related to the borrowings was immaterial.
+In February 1996, the minority interest shareholder of the Company
+Canadian subsidiary provided the subsidiary with a convertible revolving line
+of credit for CDN $20 million, of which USD$367,000 was outstanding as of
+June 30, 1996. Loan amounts are due on December 31, 1997 and bear interest at
+a rate charged
+47
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+by the Royal Bank of Canada for 30 day Bankers Acceptances plus approximately
+42 basis points. Borrowings under this facility are secured by all of the
+assets of the subsidiary. In March 1997, subsequent to the Company
+acquisition of the minority shareholders' shares in the Canadian subsidiary
+Note 12, all amounts outstanding under this facility were repaid, and the
+facility was canceled.
+10. COMMON STOCK AND PREFERRED STOCK
+In March 1996, the Company issued 900,000 shares of Series A Preferred Stock
+at a price of $22167 per share. In June 1996, the Company issued 1,897,878
+shares of Series B Preferred Stock at a price of $36883 per share. In
+February 1997, the Company issued 854,363 shares of Series C Preferred Stock
+at a price of $1112 per share.
+In June 1997, the Company completed its initial public offering of 2,375,000
+shares of Common Stock at $1800 per share. In connection with the initial
+public offering, all outstanding shares of Preferred Stock automatically
+converted into Common Stock. In addition, the Company issued 420,282 shares of
+Common Stock in connection with the exercise of certain warrants prior to the
+closing of the offering.
+Restricted Stock Purchase Agreements
+Since inception, the Company has sold an aggregate of 6,281,500 shares of
+Common Stock to certain employees in connection with their employment and to
+certain vendors. All of these shares were sold at the fair market value as of
+the date of purchase as determined by Board of Directors. All of these shares
+are subject to stock repurchase agreements whereby the Company has the right
+to repurchase unvested shares upon termination of employment or engagement at
+the original price paid for the shares. Vesting generally occurs 25% on the
+first anniversary date of employment or engagement and monthly thereafter over
+the following 36 months. As of June 30, 1998, an aggregate of 508,500 shares
+of Common Stock have been repurchased under these agreements, and 1,458,860
+shares are subject to the Company repurchase right at prices ranging from
+$001667 to $0375 per share.
+Stock Plans
+In March 1997, the Board adopted the 1997 Stock Incentive Plan the 1997
+Plan, which serves as a successor to the Company 1995 Stock Option Plan
+the 1995 Plan. All shares issued under the 1995 Plan were transferred to
+the 1997 Plan upon the effectiveness of the Company initial public offering.
+The Company has reserved shares of Common Stock for issuance under the 1997
+Plan equal to the sum of i the shares which remained available for issuance
+under the 1995 Plan, including the shares subject to outstanding options
+thereunder, and ii an additional increase of 2,400,000 shares. In addition,
+upon the completion of each fiscal year of the Company, beginning with the
+1999 fiscal year, the share reserve will automatically be increased on the
+first trading day of July each year by a number of shares equal to five
+percent 5% of the total number of shares of Common Stock outstanding on the
+last trading day of the immediately preceding calendar month. Accordingly, on
+July 1, 1998, the share reserve was automatically increased by 1,120,761
+shares.
+The 1997 Plan is divided into four separate components: i the
+Discretionary Option Grant Program, under which eligible individuals in the
+Company employ or service including officers and other employees, non-
+employee Board members and independent consultants may, at the discretion of
+the Plan Administrator, be granted options to purchase shares of Common Stock
+at an exercise price not less than their fair market value on the grant date,
+ii the Stock Issuance Program, under which such individuals may, in the Plan
+Administrator discretion, be issued shares of Common Stock directly, either
+through the purchase of such shares at a price not less than their fair market
+value at the time of issuance or as a fully-vested bonus for services rendered
+the Company, iii the Salary Investment Option Grant Program, under which
+executive officers and other highly
+48
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+compensated employees may elect to apply a portion of their base salary to the
+acquisition of special below-market stock option grants, and iv the
+Automatic Option Grant Program, under which option grants will automatically
+be made at periodic intervals to eligible non-employee Board members to
+purchase shares of Common Stock at an exercise price equal to their fair
+market value on the grant date.
+Under the Company 1997 Plan, the Board of Directors may grant incentive
+and nonqualified stock options to employees, directors and consultants. The
+exercise price per share for an incentive stock option cannot be less than the
+fair market value on the date of grant. The exercise price per share for a
+nonqualified stock option cannot be less than 85% of the fair market value on
+the date of grant. Options granted under the Option Plan generally expire ten
+years after the date of grant and generally vest over a four year period. As
+of June 30, 1998, a total of 10,692,834 shares of Common Stock have been
+authorized for grant under the 1997 Plan. On July 1, 1998, this share amount
+increased to 11,813,595 as a result of the automatic increase provision of the
+1997 Plan.
+On December 31, 1997, the Company acquired Forte Advanced Management
+Software, Inc. Forte. The Company assumed Forte outstanding options
+granted under its stock option plan, which were converted to options to
+purchase approximately 90,385 shares of the Company Common Stock. No further
+options are available for future grant under the Forte stock option plan, and
+the Company has reserved for issuance shares of its Common Stock for the
+exercise of the Forte stock options. As of June 30, 1998, 15,421 of these
+shares were vested and exercisable.
+Details of option activity under the 1997 Plan including activity under the
+1995 Plan are as follows:
+OPTIONS OUTSTANDING
+SHARES   
+AVAILABLE  NUMBER OF   PRICE PER  WEIGHTED
+FOR GRANT   SHARES    SHARE   AVERAGE
+Balances, June 30, 1995. 2,875,000     --  --    --       437,334     --  --    --      2,636,500 2,636,500 $02  -$ 23 $  04
+Balances, June 30, 1996.  676,334  2,636,500 $02  -$ 23 $  04
+7,380,000
+5,695,500 5,695,500 $38  -$1800 $ 566
+--   895,561 $02  -$ 750 $ 039
+212,436  212,436 $02  -$1000 $ 066
+Balances, June 30, 1997. 2,573,270  7,224,003 $02  -$1800 $ 441
+2,166,100 2,166,100 $26375-$3125 $ 2811
+--  1,778,327 $02  -$1800 $ 158
+521,582  521,582 $02  -$3000 $ 924
+Balances, June 30, 1998.  928,752  7,090,194 $02  -$1800 $ 1205
+OPTIONS OUTSTANDING    OPTIONS EXERCISABLE
+NUMBER  WEIGHTED WEIGHTED  NUMBER  WEIGHTED
+OUTSTANDING AVERAGE AVERAGE EXERCISABLE AVERAGE
+EXERCISE           AT JUNE 30, REMAINING EXERCISE JUNE 30,  EXERCISE
+PRICES             1998    LIFE   PRICE   1998   PRICE
+-                                             
+$ 0016-$ 0225. 1,059,745  761   $ 005   460,163  $ 005
+$ 0375-$ 0375. 1,442,388  827   $ 038   361,236  $ 038
+$ 1250-$12500. 1,463,556  867   $ 766   350,713  $ 776
+$14000-$26375. 2,171,005  923   $2069   238,790  $1489
+$27000-$31250.  953,500  962   $3008   26,021  $2947
+0016-$31250. 7,090,194  873   $1204  1,436,923  $ 501
+49
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+SHARES SUBJECT TO
+REPURCHASE
+NUMBER
+SUBJECT TO WEIGHTED
+REPURCHASE AVERAGE
+AT JUNE  REPURCHASE
+PURCHASE PRICE                     30, 1998  PRICE
+1,027,360  $002
+125,000  $023
+306,500  $038
+1,458,860  $009
+As of June 30, 1998, 1,274,109 shares were vested and exercisable under the
+1997 Plan. The weighted average of fair values of options granted during both
+fiscal 1998 and 1997 was $1200
+In connection with the issuance of stock options and common stock to
+employees and consultants, the Company has recorded deferred compensation in
+the aggregate amount of approximately $19 million, representing the
+difference between the deemed fair value of the Company common stock and the
+issue price of the common stock or the exercise price of stock options at the
+date of grant. The Company is amortizing the deferred compensation expense
+over the applicable vesting period, which is typically four years. For fiscal
+1998 and 1997, amortization expense was approximately $477,000 and $214,000,
+respectively. No compensation expense was recorded in fiscal 1996.
+Had compensation cost been determined under a fair value method consistent
+with SFAS 123, the Company net income loss and net income loss per share
+would have resulted in the following pro forma amounts in thousands:
+YEAR ENDED
+JUNE 30,
+1998   1997
+Net income loss:
+As  $ 7,934 $ 774
+Pro  $3,271 $ 747
+Basic net income loss per share:
+As  $ 037 $ 005
+Pro  $ 015 $005
+Diluted net income loss per share:
+As  $ 030 $ 004
+Pro  $ 015 $005
+The fair value of each option grant under the 1997 Plan is estimated on the
+date of grant using the Black-Scholes option pricing model with the following
+assumptions used for grants: risk-free rates ranging from 5-7% and
+corresponding to government securities with original maturities similar to the
+vesting periods; expected dividend yield of 0%; expected lives of 3 years
+beyond vest dates; and expected volatility of 56% and 115% in fiscal 1998 and
+1997, respectively.
+1997 Employee Stock Purchase Plan
+In March 1997, the Board adopted the 1997 Employee Stock Purchase Plan the
+Purchase Plan. The Company has reserved 500,000 shares of Common Stock for
+issuance under the Purchase Plan. The Purchase Plan enables eligible employees
+to purchase common stock at 85% of the lower of the fair market value of the
+Company common stock on the first or the last day of each offering period.
+As of June 30, 1998, 70,573 shares had been purchased under the Purchase Plan.
+50
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+ISSUANCE OF WARRANTS
+Warrants Issued to Consultant
+In connection with a services consulting agreement, in April 1996, the
+Company issued a warrant to a shareholder for the purchase of 420,282 shares
+of Common Stock at an exercise price of $595 per share. The fair value of the
+warrant at the date of grant was not material. In June 1997, the warrant was
+exercised in full.
+Warrants Issued to Series C Shareholders
+Concurrent with the closing of the sale of Series C Preferred Stock to two
+corporate investors, the Company issued warrants for the purchase of 449,664
+shares of Common Stock to one investor exercisable at a price of $3500 per
+share and 44,965 shares of Common Stock to the other investor exercisable at a
+price of 110% of the fair market value of Common Stock on the date such shares
+vest. The warrants expire in February 2004 and February 2000, respectively.
+Each of these warrants becomes exercisable upon the achievement of certain
+sales and development objectives specified in the warrant agreements. In
+accordance with SFAS 123 and related interpretations, the Company recorded the
+aggregate estimated fair value of the warrants of $650,000 in February 1997,
+and will amortize the value of the warrants to cost of license revenues as the
+sales and development milestones are achieved. Amortization of the warrants is
+computed as the greater of a the ratio of current gross revenues generated
+to total revenue milestones under the agreement or b the straight-line
+method over the life of the agreement with MCI. Amortization expense recorded
+in fiscal 1998 was approximately $203,000.
+SHARES RESERVED FOR ISSUANCE
+As of June 30, 1998, the Company has reserved shares of Common Stock for
+future issuance as follows:
+NUMBER OF
+SHARES
+Employee stock purchase   429,427
+Exercise of stock  8,109,331
+Exercise of   494,629
+9,033,387
+11. INCOME TAXES
+The provisions for income taxes consisted of the following components for
+the years ended June 30, 1998 and 1997 in thousands:
+JUNE 30,
+1998  1997
+Current
+$3,738 $1,106
+544   150
+68   461
+4,350  1,717
+Deferred
+350 1,107
+10   39
+--                                              340 1,067
+Total  $4,010 $ 649
+51
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+The Company had no provision for income taxes during the fiscal year ended
+June 30, 1996.
+The actual provision for income taxes differs from the statutory income tax
+provision as follows for fiscal 1998 and 1997 in thousands:
+JUNE 30,
+1998  1997
+Statutory federal  $4,180 $ 793
+State tax, net of federal   528   124
+Change in valuation   278  868
+Foreign    68   461
+Tax exempt interest   560        72   140
+$4,010 $ 650
+The components of the net deferred tax asset are as follows in thousands:
+JUNE 30,
+1998  1997
+Net operating loss  $ --  $    Reserves and accruals not currently deductible. 1,343  1,010
+Tax credit   633        --   26
+1,976   984
+Valuation   --   278
+Net deferred tax  $1,976 $ 706
+12. ACQUISITION OF MINORITY INTEREST IN CANADIAN SUBSIDIARY
+In February 1996, the Company entered into a joint venture in Canada through
+which it owned 51% of a Canadian corporation, Genesys Laboratories Canada,
+Inc. GenCan. While the Company owned a majority of this joint venture in
+fiscal 1996, certain provisions of the February 1996 joint venture agreement
+provided for shared control of the entity, and accordingly the entity should
+have been accounted for under the equity method of accounting. However, the
+Company has consolidated the entity in the accompanying fiscal 1996 financial
+statements for presentation purposes as the effect of using the consolidation
+method is not material. In January 1997, the respective Boards of Directors of
+the Company and the minority shareholder of GenCan reached agreement on the
+terms and conditions of and signed a memorandum of understanding for the
+purchase by the Company of the 49% minority shares of GenCan in exchange for
+675,000 shares of Common Stock of the Company valued at approximately $325
+per share. In February 1997, the Company issued 675,000 shares of Common
+Stock to the minority shareholder in accordance with the terms of the January
+agreement. In connection with this acquisition, which has been accounted for
+as a purchase, the Company has allocated the excess purchase price over the
+fair value of the net assets acquired, approximately $2 million, to goodwill.
+The Company will amortize this intangible asset on a straight-line basis over
+84 months, which is its estimated expected useful life. Amortization expense
+in fiscal 1998 was $449,000. On the basis of a pro forma consolidation as if
+the acquisition had taken place in February 1996, revenue would not have
+changed, net income and net income per share would have been $469,000 and
+$002, respectively, for year ended June 30, 1997 and net loss and net loss
+per share would have been $35 million and $019, respectively, for the year
+ended June 30, 1996.
+52
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+13. INTERNATIONAL OPERATIONS AND MAJOR CUSTOMERS
+Major Customers
+The following customers accounted for 10% or more of total revenues in the
+periods indicated:
+FOR THE YEARS
+ENDED JUNE 30,
+1998 1997 1996
+Customer  141% 111%   Less than 10% of total revenues
+International Operations
+A summary of the Company operations by geographic area is presented below
+in thousands:
+FOR THE YEARS ENDED JUNE
+30,
+1998   1997   1996
+Revenues from unaffiliated customers:
+United  $ 47,295 $25,107 $ 9,185
+7,196  3,559   955
+24,518  6,902  1,889
+Asia   5,659  1,970                                                           $ 84,668 $37,538 $12,029
+Intercompany revenues between geographic areas:
+United  $ 14,155 $ 4,380 $ 1,013
+--    --         --    --     Asia    --    --       14,155 4,380 1,013
+$  --  $  --  $                                Operating income loss:
+United  $ 11,435 $ 1,738 $3,765
+1,539   423  252
+495  1,191    21
+Asia   2,983  711        94  609    3
+$ 10,392 $ 1,186 $3,993
+Identifiable assets:
+United  $ 94,322 $73,848 $12,569
+4,312  2,710   627
+15,808  6,780  2,959
+Asia   1,621   608      11,363 4,001 3,523
+$104,700 $79,945 $12,632
+53
+GENESYS TELECOMMUNICATIONS LABORATORIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+The information presented above may not be indicative of results if the
+geographic areas were independent organizations. Intercompany transactions are
+made at established transfer prices.
+Revenues generated from international sales of the Company products, which
+includes export shipments originating in the United States to unaffiliated
+customers and sales to unaffiliated customers from the Company foreign
+offices, represented 447%, 334% and 280% of total revenues in fiscal 1998,
+1997 and 1996, respectively.
+Item 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+Not applicable.
+54
+PART III
+Item 10. DIRECTORS AND OFFICERS OF THE REGISTRANT
+The information required by this item relating to the Company directors,
+executive officers and key employees is included under the caption Directors,
+Executive Officers and Key Officers in Part I of this Annual Report on Form
+10-K.

@@ -1,0 +1,844 @@
+ITEM 8. Financial Statements and Supplementary Data.
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS                                      Page
+Report of Independent  25
+Consolidated Balance Sheets as of December 31, 2000 and 1999. 26
+Consolidated Statements of Operations for the three years ended December
+31, 2000, 1999 and  27
+Consolidated Statements of Stockholders' Equity Deficit for the three
+years ended December 31, 2000, 1999 and  28
+Consolidated Statements of Cash Flows for the three years ended December
+31, 2000, 1999 and  29
+Notes to Consolidated Financial  30
+Quarterly Summary  42                    24             REPORT OF INDEPENDENT AUDITORS
+The Board of Directors and Stockholders
+CrossWorlds Software, Inc.  We have audited the accompanying consolidated balance sheets of CrossWorlds
+Software, Inc. and subsidiaries as of December 31, 2000 and 1999, and the
+related consolidated statements of operations, stockholders' equity deficit,
+and cash flows for each of the years in the three-year period ended December
+31, 2000. In connection with our audits of the consolidated financial
+statements, we have also audited the financial statement schedule as listed in
+the index on page 46. These consolidated financial statements and financial
+statement schedule are the responsibility of the Company management. Our
+responsibility is to express an opinion on these consolidated financial
+statements and financial statement schedule based on our audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of
+CrossWorlds Software, Inc. and subsidiaries as of December 31, 2000 and 1999
+and the results of operations and cash flows for each of the years in the
+three-year period ended December 31, 2000, in conformity with accounting
+principles generally accepted in the United States of America. Also in our
+opinion, the related financial statement schedule, when considered in relation
+to the consolidated financial statements taken as a whole, presents fairly, in
+all material respects, the information set forth therein.
+/s/ KPMG LLP
+Mountain View, California
+January 24, 2001
+25          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Consolidated Balance Sheets December 31
+In thousands, except par value and number of shares      2000    1999
+-                                         
+ASSETS
+Current assets:
+Cash and cash  $ 22,532 $ 12,506
+Short-term   17,060      Accounts receivable, net of allowance of $872 and $297 as
+of December 31, 2000 and 1999                24,798  11,689
+Prepaids and other current    3,723   1,019
+Total current   68,113  25,214
+Property and equipment,    6,310   3,846
+Deposits and other    1,345    117
+Total  $ 75,768 $ 29,177
+LIABILITIES AND STOCKHOLDERS' EQUITY
+DEFICIT
+Current liabilities:
+Accounts  $  2,970 $ 1,011
+Accrued payroll and related    6,036   2,910
+Accrued    4,379   2,742
+Accrued     62   1,439
+Other accrued    5,739   2,036
+Current portion of capital lease obligations.    477    347
+Current portion of long-term debt.   2,626   2,622
+Deferred   30,011  13,158
+Total current   52,300  26,265
+Other long-term     114    124
+Capital lease obligations, less current portion.    325    577
+Long-term debt, less current     310   2,936
+Total   53,049  29,902
+Commitments
+Stockholders' equity deficit:
+Convertible preferred stock, $001 par value; actual  17,000,000 shares authorized; 16,126,003 shares issued
+and outstanding as of December 31, 1999.    --    161
+Common stock, $0001 par value; actual--150,000,000 and
+45,000,000 shares authorized;26,417,027 and 3,153,934
+shares issued and outstanding as of December 31, 2000 and
+26     3
+Additional paid-in   156,934  96,758
+Deferred stock-based   2,645  2,540
+Accumulated  131,596 95,107
+Total stockholders' equity   22,719   725
+Total liabilities and stockholders' equity deficit. $ 75,768 $ 29,177
+See accompanying notes to consolidated financial statements.
+26          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Consolidated Statements of Operations For the years ended December 31
+In thousands, except per share amounts         2000   1999   1998
+-                                             
+Revenue:
+Software  $ 22,176 $ 8,194 $ 3,973
+Service, maintenance and other.  29,080  10,900   3,733
+Total   51,256  19,094   7,706
+Cost of revenue:
+Software license and    723   1,599    438
+Service, maintenance and other /1/.  23,870  10,127   5,392
+Total cost of   24,593  11,726   5,830
+Gross   26,663   7,368   1,876
+Operating expenses:
+Research and development /2/.  16,982  14,243  11,748
+Sales and marketing   31,623  21,792  23,141
+General and administrative /4/.  11,950   6,145   4,066
+Amortization of deferred stock-based compensation.  2,466   1,462   4,774
+Total operating   63,021  43,642  43,729
+Operating  36,358 36,274 41,853
+Other income expense, net.   131  1,912   479
+Net  $36,489 $38,186 $41,374
+Net loss per share:
+Basic and  $ 218 $ 1340 $ 1999
+Weighted average shares used in computation.  16,745   2,850   2,069
+See accompanying notes to consolidated financial statements.  1/Excludes stock-based compensation of $373, $254, and $416 for 2000, 1999,
+and 1998, respectively.
+/2/Excludes stock-based compensation of $555, $89, and $1,623 for 2000, 1999,
+and 1998, respectively.
+/3/Excludes stock-based compensation of $1,143, $897, and $2,052 for 2000,
+1999, and 1998, respectively.
+/4/Excludes stock-based compensation of $395, $222, and $683 for 2000, 1999,
+and 1998, respectively.                    27          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Consolidated Statements of Stockholders' Equity Deficit In thousands except     Convertible
+share amounts       preferred stock   Common stock   Additional  Deferred          Total
+-       paid-in  stock-based Accumulated stockholders'
+Shares   Amount  Shares  Amount capital  compensation  deficit  equity deficit
+Balance as of December
+31, 1997.  9,109,606  $ 91  2,552,500  $ 3  $ 38,400  $  --   $ 15,547   $ 22,947
+Issuance of Series D
+preferred stock, net.   462,000   5     --  --    6,540     --      --     6,545
+Exercise of stock
+options and restricted
+stock purchase
+agreements.      --   --   446,297  --     456     --      --      456
+Repurchase of restricted
+stock.      --   --  188,333  --     18    --      --      18
+Deferred stock-based
+compensation related to
+option grants..      --   --     --  --    8,551   8,551      --       Amortization of deferred
+stock-based
+compensation.      --   --     --  --     --   4,774      --     4,774
+Net loss.      --   --     --  --     --     --    41,374   41,374
+Balance as of December
+31, 1998.  9,571,606   96  2,810,464   3   53,929   3,777   56,921    6,670
+Issuance of Series E
+preferred stock, net.  2,883,326   29     --  --   17,222     --      --    17,251
+Issuance of Series F
+preferred stock, net.  3,671,071   36     --  --   23,518     --      --    23,554
+Issuance of preferred
+stock warrants.      --   --     --  --    1,257     --      --     1,257
+Exercise of stock
+options.      --   --   437,351  --     642     --      --      642
+Repurchase of restricted
+stock.      --   --   93,881  --     35    --      --      35
+Deferred stock-based
+compensation related to
+option grants.      --   --     --  --     225    225      --       Amortization of deferred
+stock-based
+compensation.      --   --     --  --     --   1,462      --     1,462
+Net loss.      --   --     --  --     --     --    38,186   38,186
+Balance as of December
+31, 1999.  16,126,003  161  3,153,934   3   96,758   2,540   95,107     725
+Issuance of common stock
+warrants for financing
+commitment.      --   --     --  --    1,406     --      --     1,406
+Conversion of preferred
+stock. 16,126,003 161 16,542,628  17     144     --      --       Issuance of common
+stock, net.      --   --  5,541,390   6   49,636     --      --    49,642
+Exercise of common stock
+warrants.      --   --   275,707  --    2,001     --      --     2,001
+Exercise of stock
+options.      --   --   698,193  --    2,867     --      --     2,867
+Employee stock purchase
+plan.      --   --   205,175  --    1,744     --      --     1,744
+Deferred stock-based
+compensation related to
+option grants.      --   --     --  --    2,378   2,378      --       Amortization of deferred
+stock-based
+compensation.      --   --     --  --     --   2,273      --     2,273
+Net loss.      --   --     --  --     --     --    36,489   36,489
+Balance as of December
+31, 2000.      --  $ -- 26,417,027  $26  $156,934  $2,645  $131,596   $ 22,719
+See accompanying notes to consolidated financial statements.
+28          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Consolidated Statements of Cash Flows For the years ended December 31
+In thousands                    2000   1999   1998
+-                                             
+Cash flows from operating activities:
+Net  $36,489 $38,186 $41,374
+Adjustments to reconcile net loss to net cash
+used in operating activities:
+Depreciation and   4,682   2,389   1,404
+Amortization of deferred stock-based
+2,467   1,462   4,774
+Issuance of warrants for services.    --    756      Changes in operating assets and liabilities:
+Accounts  13,109  6,490  4,291
+Prepaids and other current assets.  2,704   199   418
+Other   1,230    50   120
+Accounts   1,959    149  1,045
+Accrued payroll and related expenses.  3,126   1,744    368
+Accrued   1,637    775   1,966
+Accrued   1,377    --      Other accrued   3,703   2,207    838
+Deferred   16,853   6,602   5,767
+Other long-term    10    33    52
+Net cash used in operating activities. 20,492 28,708 32,079
+Cash flows from investing activities:
+Purchases of property and equipment.  5,270   835  3,573
+Purchase of short-term investments. 17,060    --                                 Net cash used in investing activities. 22,330   835  3,573
+Cash flows from financing activities:
+Proceeds from convertible subordinated notes
+payable to     --    --   5,000
+Proceeds from long-term debt.    --   5,000   4,626
+Repayments of long-term debt.  3,213  4,778   283
+Proceeds from exercise of stock options and
+--    642    456
+Proceeds from issuance of common stock, net.  56,061    --     Proceeds from issuance of preferred stock.    --  35,805   6,545
+Repurchase of restricted stock.    --    35   18
+Net cash provided by financing activities.  52,848  36,634  16,326
+Net increase decrease in cash and cash
+10,026   7,091  19,326
+Cash and cash equivalents at beginning of year.  12,506   5,415  24,741
+Cash and cash equivalents at end of year. $ 22,532 $ 12,506 $ 5,415
+Supplemental disclosures of cash flow
+information:
+Cash paid during the period for interest. $  670 $  995 $  208
+Noncash investing and financing activities:
+Issuance of preferred stock for conversion
+convertible     --   5,000     Issuance of preferred stock warrants in
+connection with long-term debt.    --    500     Issuance of preferred stock warrants in
+connection with     --    756     Issuance of common stock warrants for financing
+1,406    --     Equipment acquired through equipment lease
+301   1,078     Deferred stock-based compensation.  2,377    225   8,551      See accompanying notes to consolidated financial statements.
+29          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements
+1 Organization and Significant Accounting Policies
+a Description of Business
+CrossWorlds Software, Inc. and its consolidated subsidiaries the
+Company develops, produces, markets and implements business integration
+software. The Company is headquartered in Burlingame, California and operates
+foreign subsidiaries in Germany, the United Kingdom and France. The majority
+of the Company revenues are derived from domestic sales. Substantially all
+of the Company sales are made in U.S. dollars.
+b Principles of Consolidation
+The accompanying consolidated financial statements include the accounts of
+the Company and its wholly owned subsidiaries. All intercompany balances and
+transactions have been eliminated in consolidation.
+c Foreign Currency
+The Company considers the functional currency of its foreign subsidiaries
+to be the U.S. dollar. Accordingly, the foreign subsidiaries' financial
+statements are remeasured into U.S. dollars using the historical exchange rate
+for non-monetary items and the current exchange rate for monetary items.
+Remeasurement gains and losses, as well as transaction gains and losses, are
+included in the determination of net loss and have been immaterial to date.
+d Cash Equivalents and Short-Term Investments
+The Company considers all highly liquid instruments with a remaining
+maturity on the date of purchase of three months or less to be cash
+equivalents, which consist primarily of money market funds and overnight
+deposits. Short-term investments principally consist of commercial paper,
+government bonds and money-market instruments. Cash equivalents and short-term
+investments are stated at cost, which approximates market value.
+e Property and Equipment
+Property and equipment are carried at cost less accumulated depreciation.
+Depreciation is calculated using the straight-line method over the estimated
+useful lives of the respective assets, generally two to five years. Leasehold
+improvements are amortized over the lesser of the asset useful life or the
+remaining lease term.
+f Impairment Long-Lived Assets
+The Company evaluates the recoverability of its long-lived assets in
+accordance with SFAS No. 121, Accounting for the Impairment and for Long-
+Lived Assets or Long-Lived Assets to be Disposed of. When events or changes
+in circumstances indicate the carrying amount of long-lived assets may not be
+recoverable, the Company recognizes such an impairment in the event the net
+book value of such assets exceeds the future undiscounted cash flows
+attributable to such assets. No impairment losses were incurred in the periods
+presented.
+g Software Development Costs
+Software development costs associated with new products and enhancements to
+existing products are expensed as incurred until technological feasibility is
+established upon completion of a working model. To date, the Company
+software development has been completed concurrent with the establishment of
+technological feasibility, and, accordingly, no costs have been capitalized.                    30          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued
+h Concentrations of Credit Risk and Major Customers
+The Company cash and cash equivalents are principally on deposit in a
+short-term asset management account at a large bank. Accounts receivable
+potentially subject the Company to concentrations of credit risk. The
+Company customer base is comprised primarily of large companies. The Company
+generally does not require collateral for accounts receivable. When required,
+the Company maintains allowances for credit losses, and to date such losses
+have been within management expectations.
+For the year ended December 31, 2000, no customers accounted for more than
+10% of the Company total revenue. One customer accounted for 21% of accounts
+receivable as of December 31, 2000. For the year ended December 31, 1999, one
+customer accounted for 21% of the Company total revenue and one customer
+individually accounted for 44% of accounts receivable as of December 31, 1999.
+For the year ended December 31, 1998, three customers accounted for 14%, 13 and 11% of the Company total revenue.
+i Fair Value of Financial Instruments
+The fair value of the Company cash, short-term investments, accounts
+receivable, accounts payable, and borrowings approximate their carrying values
+due to their short maturity.
+j Use of Estimates
+The preparation of consolidated financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent liabilities at the date of the consolidated financial
+statements and the reported amounts of revenue and expenses during the
+reporting period. Actual results could differ from those estimates.
+k Revenue Recognition
+The Company recognizes revenue in accordance with the American Institute of
+Certified Public Accountants' AICPA Statement of Position 97-2, Software
+Revenue Recognition. When contracts contain multiple elements, wherein vendor
+specific objective evidence exists for all undelivered elements, the Company
+accounts for the delivered elements with the Residual Method prescribed by
+AICPA Statement Of Position 98-9, Software Revenue Recognition, with Respect
+to Certain Arrangements. The Company software arrangements typically
+involve significant production, customization, or modification of the
+software, or services that are essential to the functionality of the software
+and, as a result, software license revenue for the entire arrangement is
+generally recognized using the percentage-of-completion method. Progress
+toward completion is measured by achieving certain standard and objectively
+verifiable milestones present in each project. These milestones typically
+require customer acceptance of a deliverable. In certain instances, the
+Company may recognize software license revenue upon delivery when persuasive
+evidence of an arrangement exists, the fee is fixed and determinable,
+acceptance is certain, collection is probable, and the Company is not involved
+in significant production, customization, or modification of the software or
+services that are essential to the functionality of the software. In the event
+costs to complete a contract are expected to exceed anticipated revenue, a
+loss is accrued. In certain circumstances where the Company is unable to
+estimate the amount of effort required to customize or implement the software
+license, revenue is recognized using the completed-contract method. To date,
+no amounts have been recognized under the completed contract method.
+Consulting and service revenue is recognized as the services are performed.
+Maintenance revenue from customer support and product upgrades, including
+maintenance bundled with original software licenses, are deferred and
+recognized ratably over the term of the maintenance agreement, typically
+twelve months. When the Company enters into software arrangements
+31          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued
+with resellers, the Company does not recognize revenue until the reseller
+demonstrates it has entered into an arrangement with an end user that
+satisfies the Company revenue recognition criteria. When the Company
+services are essential to the end user implementation of the software sold by
+the reseller, the software license revenue for the arrangement is recognized
+using the percentage-of-completion method.
+l Accounts Receivable
+The Company bills for software licenses and maintenance fees at the
+inception of the contract. These arrangements typically allow the Company to
+bill amounts in excess of revenue recognized. Amounts billed in excess of
+revenue recognized are recorded as deferred revenue. Consulting and service
+fees are billed monthly based on time and expenses incurred. The Company
+contracts typically do not contain retainage provisions and all amounts due
+under the contracts are anticipated to be collected within 12 months. At
+December 31, 2000 and 1999, there were no accounts receivable that were
+subject to contract claims or uncertainties.
+m Stock-Based Compensation
+The Company accounts for its stock-based compensation plans using the
+intrinsic value method. Deferred stock-based compensation expense is recorded
+if, on the date of grant, the current market value of the underlying stock
+exceeds the exercise price. The Company amortizes deferred stock-based
+compensation in accordance with Financial Accounting Standards Board
+Interpretation No. 28.
+The Company uses the fair value method to account for stock options and
+other equity instruments issued to nonemployees.
+n Income Taxes
+The Company accounts for income taxes using the asset and liability method.
+Deferred income taxes are recognized by applying enacted statutory tax rates
+applicable to future years to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases and operating loss and tax credit carryforwards. The effect on deferred
+tax assets and liabilities of a change in tax rates is recognized in income in
+the period that includes the enactment date. The measurement of deferred tax
+assets is reduced, if necessary, by a valuation allowance for any tax benefits
+for which future realization is uncertain.
+o Comprehensive Loss
+The Company does not have any components of comprehensive income,
+consequently comprehensive loss consists entirely of net loss for all periods
+presented.
+p Reclassifications
+Certain reclassifications, none of which affected net loss, have been made
+to prior year balances in order to conform to the current year presentation.
+q Net Loss Per Share
+Basic net loss per share is computed using the weighted-average number of
+outstanding shares of common stock, excluding common stock subject to
+repurchase. Diluted net loss per share is computed using the weighted-average
+number of outstanding shares of common stock and, when dilutive, potential
+common shares from options and warrants to purchase common stock and common
+stock subject to repurchase using the treasury stock method, and from
+convertible securities using the as-if converted basis. All potential common
+shares have been
+32          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued
+excluded from the computation of diluted net loss per share for all periods
+presented because the effect would have been antidilutive.
+Diluted net loss per share does not include the effect of the following
+antidilutive common equivalent shares December 31                    2000    1999    1998
+-                                                     
+Stock options and  3,792,918 1,256,454 1,007,325
+Common stock subject to repurchase.  69,908  155,245  681,312
+Convertible preferred stock.    -- 13,210,599 9,571,667
+3,862,826 14,622,298 11,260,304
+r Accounting for Derivative Instruments and Hedging Activities
+In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standard No. 133, Accounting for Derivative Instruments
+and Hedging Activities SFAS 133. SFAS 133 establishes accounting and
+reporting standards for derivative instruments, including certain derivative
+instruments embedded in other contracts collectively referred to as
+derivatives, and for hedging activities. It requires that an entity recognize
+all derivatives as either assets or liabilities in the statement of financial
+position and measure those instruments at fair value. For a derivative not
+designated as a hedging instrument, changes in the fair value of the
+derivative are recognized in earnings in the period of change. The statement,
+as amended, is effective for fiscal quarters of all fiscal years beginning
+after June 15, 2000. The Company will adopt the standard during the first
+quarter of fiscal year 2001. Management does not believe the adoption of SFAS
+133 will have a material effect on the Company consolidated financial
+position or results of operations.
+s Advertising Costs
+The Company expenses advertising costs as incurred. Advertising expense was
+approximately $13,000, $46,000, and $20 million for the years ended December
+31, 2000, 1999, and 1998, respectively.
+2 Property and Equipment
+Property and equipment consisted of the following December 31
+In thousands                          2000   1999
+-                                                              
+Computer equipment and  $10,233 $ 6,477
+Furniture and   1,562   768
+Leasehold    789   599
+12,584  7,844
+Accumulated  6,274 3,998
+$ 6,310 $ 3,846
+Equipment purchased under the capital lease aggregated $15 million and
+$11 million as of December 31, 2000 and 1999, respectively. Accumulated
+amortization on the assets under the capital lease aggregated $07 million and
+$02 million as of December 31, 2000 and 1999, respectively.                    33          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued
+3 Long Term Debt
+During the year ended December 31, 2000 and 1999, the Company had available
+two equipment facilities agreements the equipment facilities, which provided
+for $100 million and $20 million working capital facilities with a bank. In
+January 1999, the Company had entered into a $50 million credit facility as a
+subordinated loan and security agreement the subordinated loan agreement.
+The following amounts of debt are outstanding as of December 31 in order of
+subordination In thousands                            2000  1999
+-                                                                 
+$350,000 equipment facility with a bank, payable in 36 equal
+monthly installments of principal plus interest at the bank
+prime rate plus 075% per annum 1025% as of December 31,
+$ -- $  87
+$2,000,000 equipment facility with bank, payable in 36 equal
+monthly installments of principal plus interest at the bank
+prime rate per annum 950% as of December 31, 2000.  500 1,167
+$5,000,000 subordinated loan and security agreement with a lender.
+Note bearing interest at 12% per annum, with interest payments
+beginning April 1, 1999 through September, 1999 followed by 30
+equal monthly payments of principal plus interest through March,
+2,436 4,304
+2,936 5,558
+Less, current  2,626 2,622
+Long-term  $ 310 $2,936
+The aggregate future payments of debt are as follows as of December 31,
+2000 In thousands
+-                                     
+$2,626
+310
+$2,936
+Outstanding borrowings under the equipment facilities agreements are
+secured by all of the Company assets. The working capital facility agreement
+contains affirmative and negative covenants requiring, among other things, the
+Company to maintain minimum levels of liquid assets, limit the Company
+ability to incur additional debt, pay cash dividends, or to purchase certain
+assets. These covenants require the Company to restrict certain acquisitions,
+mergers, consolidations, or similar transactions. In 1999, the Company issued
+warrants to purchase 6,334 shares of common stock to the bank in exchange for
+waivers of noncompliance with these covenants. The fair value of the warrants
+is not material to the Company consolidated operating results. As of
+December 31, 2000 and 1999, all amounts drawn under the working capital
+facility were repaid. In June 2000, the working capital facility was extended
+to June 2001.
+In connection with the subordinated loan and security agreement, the
+Company issued a warrant to the lender to purchase up to 126,666 shares of
+Series E preferred stock at an exercise price of $600 per share. The warrant
+had a fair value of $05 million on the date of grant, computed using the
+Black-Scholes option pricing model with the following assumptions: 60%
+volatility, zero dividends, a risk-free rate of 61% and a contractual life of
+7 years. The fair value of the warrant has been recorded in equity and as a
+reduction of the carrying amount of the related debt and will be amortized
+into interest expense over the debt term. Total amortization expense for each
+year ended December 31, 2000 and 1999 was $02 million. In October 2000, the
+warrants were exercised as a cashless transaction, which resulted in aggregate
+net issuance of 80,558 common shares.
+34          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued 4 Commitments
+a Lease Commitment
+The Company leases its primary facility under a noncancelable operating
+lease expiring in 2008. The Company also leases various facilities which serve
+as sales offices in the United States, and subsidiary offices in France,
+Germany, and the United Kingdom under noncancelable operating leases with
+various expiration dates through 2006. In addition, the Company leases
+equipment under noncancelable operating leases expiring in December 2001. In
+conjunction with the facility lease, the Company issued a warrant in 1998 for
+the purchase of 33,333 shares of Series C preferred stock at an exercise price
+equal to $600 per share. The fair value of the warrant was not material to
+the Company 1998 consolidated operating results. In May 2000, the warrants
+were exercised as a cashless transaction, which resulted in net issuance of
+13,333 shares.
+Future minimum lease payments as of December 31, 2000, are as follows Year ending December 31,                    Capital Operating
+In thousands                          leases  leases
+-                                                       
+$512  $ 5,617
+320   7,496
+13   7,657
+--   7,871
+--   8,100
+--   25,310
+Total minimum   845  $62,051
+Less amounts representing imputed interest.  43
+Present value of minimum lease   802
+Less current  477
+Capital lease obligation, less current portion. $325
+These payments will be partially offset by sublease rental income
+commitments. Future minimum sublease rental income commitments at December 31,
+2000 were $141,000 for 2001 and $48,000 for 2002. Rent expense for the years
+ended December 31, 2000, 1999 and 1998 was approximately $29 million, $20
+million, $15 million, respectively.
+b Royalty Commitments
+During 1999, the Company entered into a royalty agreement with a third
+party vendor for certain licensed technology. The agreement included a minimum
+royalty payment of approximately $20 million due through June 2000.
+During the fourth quarter of 1999, the Company developed and began shipping
+products, which replaced the technology provided under the agreement
+associated with the minimum royalty payments of $20 million due by June 2000.
+As a result, the Company discontinued use of this licensed technology and
+recorded a one-time charge to other expense for the remaining $10 million of
+unamortized minimum royalties.
+During the fourth quarter of 2000, the Company entered into a royalty
+agreement with another third party vendor for certain licensed technology. The
+agreement with this vendor required a $10 million prepayment against future
+usage and also includes remaining minimum royalty prepayments of approximately
+$10 million due through June 2001.
+35          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued 5 Stockholders' Equity
+a Initial Public Offering
+In June 2000, the Company completed its initial public offering of 46
+million shares of its common stock, including the exercise of 06 million
+shares of underwriters' over-allotment option, at $1000 per share. The
+Company also completed a sale of 09 million shares of its common stock in
+private placements concurrent with the initial public offering at $930 per
+share. Upon the closing date of the initial public offering, all of the
+convertible preferred stock outstanding prior to the initial public offering
+was converted into approximately 165 million shares of common stock. The
+Company realized aggregate net proceeds from the initial public offering and
+private placements of approximately $497 million, after deducting
+underwriting discounts and commissions of $32 million and offering expenses
+of approximately $19 million.
+b Reverse Stock Split
+On October 1, 1999, the Company Board of Directors authorized a 1 for 3
+reverse stock split. The accompanying consolidated financial statements and
+related notes have been retroactively restated to give effect to the reverse
+stock split.
+c Common Stock
+The Company has issued 2,550,597 shares of common stock to founders and
+employees under restricted stock purchase agreements. Pursuant to the
+agreements, except in certain cases pertaining to executive officers, the
+Company has the right to repurchase the unvested common stock at its original
+purchase price in the event of voluntary or involuntary termination of the
+stockholder for any reason. The repurchase rights expire through the year
+2001. Shares subject to repurchase totaled approximately 70,000, 155,000,
+681,000 as of December 31, 2000, 1999 and 1998, respectively.
+d Stock Option Plan
+The Company is authorized to issue up to 15,373,630 shares in connection
+with its 1996, 1997, 1999 and 2000 stock option plans the Plans to
+directors, employees, and consultants. The Plans provide for the issuance of
+stock purchase rights, incentive stock options, or nonstatutory stock options.
+Stock purchase rights are subject to a restricted stock purchase agreement
+whereby the Company has the right to repurchase the stock at the original
+issue price upon the voluntary or involuntary termination of the purchaser
+employment with the Company. The repurchase rights will lapse at a rate
+determined by the stock plan administrator, but at a minimum rate of 20% per
+year.
+Under the 1997 plan, the exercise price for incentive stock options is at
+least 100% of the stock fair market value on the date of grant for employees
+owning less than 10% of the voting power of all classes of stock, and at least
+110% of the fair market value on the date of grant for employees owning more
+than 10% of the voting power of all classes of stock. For nonstatutory stock
+options, the exercise price is also at least 110% of the fair market value on
+the date of grant for service providers owning more than 10% of the voting
+power of all classes of stock and no less than 85% of the fair market value on
+the date of grant for service providers owning less than 10% of the voting
+power of all classes of stock.
+Options generally expire in 10 years; however, they may be limited to 5
+years if the optionee owns stock representing more than 10% of the Company.
+Vesting periods are determined by the stock plan administrator and generally
+provide for shares to vest over a 4-year period, with 125% of the award
+vesting after 6 months from the date of grant and then ratably vesting each
+month thereafter.
+36          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued  The Company uses the intrinsic value method to account for its fixed option
+plans issued to employees. Deferred stock-based compensation cost has been
+recognized for its stock option plan for grants to employees when the fair
+value of the underlying common stock on the grant date exceeds the exercise
+price for each stock option. Deferred stock-based compensation is amortized
+using the accelerated method set forth in Financial Accounting Standards Board
+Interpretation No. 28. Had compensation cost for the Company stock-based
+compensation plan been determined consistent with SFAS No. 123 for all of the
+Company stock-based compensation plans, net loss and basic and diluted net
+loss per share would have been as follows For the years ended December 31
+In thousands                      2000   1999   1998
+-                                                 
+Net loss:
+As  $36,489 $38,186 $41,374
+Pro  45,252 39,032 41,459
+Basic and diluted net loss per share:
+As   218  1340  1999
+Pro   270  1370  2004 The fair value of each option was estimated on the date of grant using a
+Black-Scholes option pricing model with the following weighted-average
+assumptions: no dividend yield; 123% volatility for fiscal 2000, risk-free
+interest rate of 587%, 47% and 50% for fiscal 2000, 1999 and 1998,
+respectively; and expected life of four years for all periods.
+A summary of the status of the Company options for the years ended
+December 31, 2000, 1999, and 1998 are as follows                            Options Outstanding
+Shares available Number of  Weighted-average
+for grant    shares   exercise price
+Balances as of December 31,
+763,132   1,642,706    $069
+861,111      --        1,381,005  1,381,005    293
+--   426,467    096
+Returned to Plans.     6,875      --    096
+513,357   513,357    112
+Balances as of December 31,
+763,470   2,083,887    200
+5,386,665
+7,022,308  7,022,308    608
+--   436,394    146
+Returned to Plans.    59,895      --         1,876,365  1,876,365    372
+Balances as of December 31,
+1,064,087   6,793,436    578
+5,900,437      --        6,415,395  6,421,895    943
+--   698,192    383
+1,523,960  1,523,960    751
+Balances as of December 31,
+2,073,089  10,993,179    $780
+37          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued                                   
+Options exercisable at:
+December 31,   448,497 $148
+December 31,  3,310,545 $589
+December 31,  4,729,340 $726  The weighted-average fair value of options granted in fiscal 2000, 1999,
+and 1998 was $669, $103, and $051, respectively.
+As of December 31, 2000, the range of exercise prices and weighted-average
+remaining contractual life of outstanding options were as follows                        Weighted-average        Number of
+Exercise     Number of      remaining contractual       shares
+prices      options         life years        exercisable
+$ 015-300     428,216          738            292,281
+450    1,868,792          996              500
+525-544    1,271,669          922            272,811
+660    4,050,618          876           3,083,671
+900     546,832          903            452,315
+1000     531,465          941            190,178
+1013     449,707          942            62,946
+1213     231,080          976                    1400     356,000          921            356,000
+1600    1,258,800          964            18,638
+10,993,179                      4,729,340
+e Employee Stock Purchase Plan
+In January 2000, the board of directors approved the Company 2000
+Employee Stock Purchase Plan the Purchase Plan. The purchase plan became
+effective upon the completion of the initial public offering in June 2000. The
+Company had reserved a total of 750,000 shares of common stock for issuance
+under the Purchase Plan, and the number of shares reserved for issuance will
+be subject to an automatic annual increase on the first day of each fiscal
+year beginning in 2001 and ending in 2005.
+The Purchase Plan, which is intended to qualify under Section 423 of the
+Internal Revenue Code, will be implemented in a series of overlapping offering
+periods of approximately 24-month durations. New offering periods other than
+the first offering period will begin on May 1 and November 1 of each year.
+Each offering period will consist of four consecutive purchase periods of
+approximately six-month duration. The initial offering period commenced on
+June 1, 2000 and ends on April 30, 2002. The initial purchase period ended on
+October 31, 2000.
+The Purchase Plan permits eligible employees to purchase common stock
+through payroll deductions, which may not exceed 15% of an employee
+compensation, at a price equal to the lower of 85% of the fair market value of
+the Company common stock at the beginning of each offering period or at the
+end of each purchase period. Employees may end their participation in the
+offering at any time during the offering period. Participation automatically
+ends on termination of employment with the Company.
+No employee can purchase more than 1,500 shares of common stock in one
+purchase period or stock having a value measured at the beginning of the
+offering period greater than $25,000 in any calendar year. An employee
+38          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued
+is not eligible to participate in the plan if the employee owns stock or holds
+outstanding options to purchase stock equaling 5% or more of the total voting
+power or value of all classes of the Company stock or stock of its
+subsidiaries.
+The weighted-average fair value of shares issued under the Purchase Plan in
+fiscal 2000 was $651.
+f Warrants
+In October 1999, the Company issued 177,098 warrants to acquire common
+stock at $660 a share, to an executive search firm for the recruitment of its
+chief executive officer. The warrants are immediately exercisable up to seven
+years from the date of issuance. The warrants had a fair value of $08 million
+on the date of the grant, which was recorded as an operating expense in 1999.
+The fair value of the warrants was calculated using the Black-Scholes option
+pricing model with the following assumptions: 60% volatility, zero dividends,
+a risk-free rate of 521% and a contractual life of seven years. These
+warrants were not exercised as of December 31, 2000.
+In February 2000, the Company issued 199,996 warrants to acquire common
+stock at $1100 a share, to certain of its Board members in consideration of
+their commitment to provide funding of up to $100 million, if necessary,
+through the earlier of December 31, 2000 or the Company initial public
+offering. The warrants were immediately exercisable and expire in five years
+from the date of issuance. The warrants had a fair value of $14 million on
+the date of grant using the Black-Scholes option pricing model with the
+following assumptions: 60% volatility, zero dividends, a risk-free rate of
+55% and a contractual life of five years. The fair value of the warrants was
+initially recorded as a current asset to be amortized over the eleven-month
+funding period. Following the completion of the Company initial public
+offering, the remaining unamortized asset was expensed. As of December 31,
+2000, 181,816 warrants were exercised for an aggregated amount of $20
+million.
+6 Income Taxes
+The Company has incurred significant losses since inception and has not
+incurred any income tax expense to date. The income tax provision differed
+from the amounts computed by applying the U.S. federal income tax rate of 34%
+to pretax income loss as a result of the following For the years ended December 31
+In thousands                    2000   1999   1998
+-                                             
+Expected tax provision benefit at U.S. Federal
+statutory rate of  $12,400 $12,981 $11,793
+State taxes, net of Federal benefit.  1,819  3,068  3609
+Current year net operating losses and temporary
+differences for which no tax benefit is
+14,832  16,427  18,008
+Research    663   573   673
+50    195  1,933
+$   -- $   -- $                                The tax effects of temporary differences that give rise to significant
+portions of the Company deferred tax assets and liabilities are presented
+below.
+39          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued For the years ended December 31
+In thousands                           2000   1999
+-                                                      
+Deferred tax assets
+Net operating loss  $ 45,242 $ 35,128
+Reserves and accrued   1,365   1,151
+Deferred stock    816    547
+Research credit   3,195   2,099
+Fixed assets and    358    824
+Total gross deferred tax   50,976  39,749
+Valuation  50,976 39,749
+Net deferred tax  $   -- $                                       The net change to the total valuation allowance for the period ended
+December 31, 2000 and 1999 was a net increase of $112 million and $168
+million, respectively. Components of the change to the valuation allowance
+were as follows In thousands                              2000
+-                                                                 
+Change relating to increase in deferred tax assets relating to
+continuing  $14,832
+Change relating to increase in deferred tax assets relating to stock-
+based compensation    485
+Change relating to write-off of deferred tax assets, of which there
+was no effect to tax   4,090
+$11,227
+At December 31, 2000, the Company had net operating loss carryforwards for
+federal and state income tax purposes of approximately $1199 million and
+$702 million respectively, available to reduce future income subject to
+income taxes. The federal net operating loss carryforwards expire beginning
+2011 through 2020. The state net operating loss carryforwards expire beginning
+2003 through 2020 depending on the state in which they are generated.
+At December 31, 2000, the Company also had research credit carryforwards
+for federal and California income tax return purposes of approximately $21
+million and $11 million respectively, available to reduce future income
+subject to income taxes. The federal research credit carryforward expires
+beginning in 2011 through 2015. The California research credit carries forward
+indefinitely.
+The Tax Reform Act of 1986 and the California Conformity Act of 1987 impose
+restrictions on the utilization of net operating loss and credit carryforwards
+in the event of an ownership change as defined by the Internal Revenue Code.
+Should an ownership change occur in the future, the Company ability to
+utilize its net operating loss and tax credit carryforwards may be subject to
+restriction pursuant to these provisions.
+7 Segment Reporting
+The Company is organized in a single operating segment for purposes of
+making operating decisions and assessing performance. The chief operating
+decision maker evaluates performance, makes operating decisions and allocates
+resources based on financial data consistent with the presentation in the
+accompanying consolidated financial statements.
+40          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Notes To Consolidated Financial Statements--Continued  The following table presents geographical information about the Company
+sales For the years ended December 31
+In thousands                       2000  1999  1998
+-                                                 
+North  $32,040 $16,361 $5,951
+18,489  2,733 1,755
+727   --                                    $51,256 $19,094 $7,706
+The following table presents geographical information about the Company
+long-lived assets December 31
+In thousands                            2000  1999
+-                                                                
+North America  $12,879 $7,872
+1,049   89
+Total  $13,928 $7,961
+41          CROSSWORLDS SOFTWARE, INC. AND SUBSIDIARIES
+Quarterly Summary
+Unaudited Quarter ended       Dec. 31, Sept. 30, June 30, Mar. 31, Dec. 31, Sept. 30, June 30, Mar. 31,
+In thousands        2000   2000   2000   2000   1999   1999   1999   1999
+-                                                      
+Consolidated Statement of Operations Data:
+Revenue:
+Software licenses. $ 7,410  $ 6,552 $ 5,031 $ 3,183 $ 2,496  $ 2,270 $ 1,811  $ 1,617
+Service, maintenance and
+other.  9,714   8,503   6,348   4,515   3,516   3,012  2,353   2,019
+Total revenue.  17,124   15,055  11,379   7,698   6,012   5,282  4,164   3,636
+Cost of revenue:
+Software license and
+royalties.   126    272    204    121    598    562   311    128
+Service, maintenance and
+other/1/.  6,747   6,879   5,716   4,528   3,230   2,698  2,420   1,779
+Total cost of revenue.  6,873   7,151   5,920   4,649   3,828   3,260  2,731   1,907
+Gross profit loss.  10,251   7,904   5,459   3,049   2,184   2,022  1,433   1,729
+Operating expenses:
+Research and
+development/2/.  4,670   4,423   4,114   3,775   3,768   3,790  3,561   3,124
+Sales and
+marketing/3/.  9,017   7,976   8,242   6,388   6,603   5,439  5,103   4,647
+General and
+administrative/4/.  3,407   3,454   2,436   2,653   2,734   1,399  1,223    789
+Amortization of deferred
+stock-based
+compensation         273    633    852    708   283   823   782    140
+Total operating
+expenses.  17,367   16,486  15,644  13,524  12,822  11,451  10,669   8,700
+Operating loss.  7,116  8,582 10,185 10,475 10,638  9,429 9,236  6,971
+Other income expense,
+net.   558    723  1,029   383  1,055   369  197   291
+Net loss. $6,558  $7,859 $11,214 $10,858 $11,693 $9,798 $9,433 $7,262
+1/Excludes stock-based compensation at $67, $100, $120, $86, $12, $65,
+$142, and $35 for each of the quarters ended December 31, 2000 and 1999.
+/2/Excludes stock-based compensation at $60, $128, $188, $179, $43, $123,
+$157, and $80 for each of the quarters ended December 31, 2000 and
+1999.
+/3/Excludes stock-based compensation at $82, $240, $441, $380, $129, $322,
+$636, and $68 for each of the quarters ended December 31, 2000 and 1999.
+/4/Excludes stock-based compensation at $64, $165, $103, $63, $209, $313,
+$161, and $43 for each of the quarters end December 31, 2000 and 1999.

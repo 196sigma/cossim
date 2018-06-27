@@ -1,0 +1,515 @@
+Item 8. Financial Statements.
+Index to Financial Statements                     Page
+-                      Independent Auditors' Report                      21
+Balance Sheets                             22
+Statements of Operations                        23
+Statements of Stockholders' Equity                   24
+Statements of Cash Flows                        25
+Notes to Financial Statements                     26-31
+20 INDEPENDENT AUDITORS' REPORT
+To the Board of Directors and Stockholders
+of Patient Infosystems, Inc. We have audited the accompanying balance sheets of Patient Infosystems, Inc. a
+development stage enterprise as of December 31, 1996 and 1995 and the related
+statements of operations, stockholders' equity, and cash flows for the year
+ended December 31, 1996 and for the periods from February 22, 1995 Inception
+to December 31, 1995 and from February 22, 1995 Inception to December 31,
+1996. These financial statements are the responsibility of the Company
+management. Our responsibility is to express an opinion on these financial
+statements based on our audits.
+We conducted our audits in accordance with generally  accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, such financial statements present fairly, in all material
+respects, the financial position of Patient Infosystems, Inc. at December 31,
+1996 and 1995, and the results of its operations and its cash flows for the year
+ended December 31, 1996 and for the periods from February 22, 1995 Inception
+to December 31, 1995 and from February 22, 1995 Inception to December 31, 1996
+in conformity with generally accepted accounting principles. Deloitte & Touche LLP
+Rochester, New York
+January 31, 1997
+21 PATIENT INFOSYSTEMS, INC.
+A Development Stage Enterprise
+BALANCE SHEETS
+DECEMBER 31, 1996 AND 1995
+- 
+ASSETS                          1996      1995  
+CURRENT ASSETS:                   
+Cash and cash equivalents             $15,666,609  $ 1,182,080
+Accounts receivable                  386,215     4,055
+Prepaid expenses and other            
+current assets                   170,526     23,984
+Total current assets             16,223,350   1,210,119
+PROPERTY AND EQUIPMENT, net               862,037    553,510
+TOTAL ASSETS                     $17,085,387  $ 1,763,629
+LIABILITIES AND STOCKHOLDERS' EQUITY        
+CURRENT LIABILITIES:                
+Accounts payable                  $  196,674  $  362,769
+Accrued salaries and wages               127,029     48,259
+Accrued initial public offering costs         446,568       Accrued expenses                    211,457     19,381
+Deferred revenue                    582,783    168,055
+Accrued loss on development contracts          67,139                                        Total current liabilities           1,631,650    598,464
+COMMITMENTS Note 6                
+STOCKHOLDERS' EQUITY:                
+Preferred stock - $01 par value:         
+shares - authorized: 5,000,000;    
+Series A Convertible Preferred Stock;
+issued and outstanding: 
+1996 -0-; 1995 - 1,800,000             --      18,000
+Series B Convertible Preferred Stock;      
+issued and outstanding: None            --        Common stock - $01 par value: shares      
+- authorized: 20,000,000; issued and      
+outstanding: 1996 - 7,653,202;         
+1995 - 3,602,880                   76,532     36,029
+Additional paid-in capital             19,300,293   2,227,788
+Deficit accumulated during the          
+development stage                3,923,088   1,116,652
+Total stockholders' equity          15,453,737   1,165,165
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY      $17,085,387  $ 1,763,629
+See notes to financial statements.                    22 PATIENT INFOSYSTEMS, INC.
+A Development Stage Enterprise
+STATEMENTS OF OPERATIONS
+- 
+Period from    Period from
+February 22, 1995 February 22, 1995
+Year ended  Inception to  Inception to
+December 31,  December 31,   December 31,
+1996      1995       1996
+REVENUES            $  845,412   $  113,000    $  958,412
+COSTS AND EXPENSES:                        
+Cost of sales           748,322     111,870      860,192
+Sales and marketing        913,547     375,384     1,288,931
+General and administrative   1,760,760     678,498     2,439,258
+Research and development     310,552     89,909      400,461
+Total costs and expenses   3,733,181    1,255,661     4,988,842
+OPERATING LOSS          2,887,769   1,142,661    4,030,430
+INTEREST INCOME           81,333     26,009      107,342
+NET LOSS            $2,806,436  $1,116,652    $3,923,088
+NET LOSS PER COMMON AND                      
+COMMON SHARE                          
+EQUIVALENTS          $   44  $   18    $   62
+WEIGHTED AVERAGE COMMON                      
+AND COMMON SHARE                        
+EQUIVALENTS           6,347,716    5,954,299     6,347,716
+See notes to financial statements.
+23 PATIENT INFOSYSTEMS, INC.
+A Development Stage Enterprise
+STATEMENTS OF STOCKHOLDERS' EQUITY
+PERIOD FROM FEBRUARY 22, 1995 INCEPTION TO DECEMBER 31, 1996
+-                                                        Deficit
+Accumulated
+Additional  During the   Total
+Preferred Stock     Common Stock    Paid-in   Development Stockholders'
+Shares   Amount   Shares   Amount   Capital     Stage    Equity
+Sale of common stock, substantially
+all of which was issued on 
+February 22, 1995 at $014 per share      --     --   3,602,880  $36,029   464,371  $   --    $  500,400
+Sale of Series A convertible preferred 
+stock at $100 per share in August and 
+September 1995 net of issuance 
+costs of $18,583             1,800,000   18,000    --    --   1,763,417     --     1,781,417
+Net loss for the period from 
+Inception to December 31, 1995         --     --     --    --      --   1,116,652   1,116,652
+Balances, December 31, 1995         1,800,000   18,000  3,602,880  36,029  2,227,788  1,116,652   1,165,165
+Sale of Series B convertible preferred 
+stock at $500 per share in May
+and June 1996 net of issuance 
+costs of $3,250               600,000    6,000    --    --   2,990,750     --     2,996,750
+Compensation expense related to 
+issuance of stock warrants           --     --     --    --     13,208     --      13,208
+Exercise of stock warrants            --     --     4,322    43    2,959     --       3,002
+Sale of common stock at $800 per share 
+in December 1996 net of issuance 
+costs of $1,917,952              --     --   2,000,000  20,000  14,062,048     --    14,082,048
+Conversion of Series A and B 
+convertible preferred stock
+to common stock              2,400,000  24,000 2,046,000  20,460    3,540     --        Net loss for the year end 
+December 31, 1996                --     --     --    --      --   2,806,436   2,806,436
+Balances, December 31, 1996            --   $  --   7,653,202  $76,532  19,300,293  $3,923,088  $15,453,737
+See notes to financial statements.
+24 PATIENT INFOSYSTEMS, INC.
+A Development Stage Enterprise
+STATEMENTS OF CASH FLOWS
+-                                   Period from   Period from
+February 22, 1995 February 22, 1995
+Year ended  Inception to  Inception to
+December 31,  December 31,   December 31,
+1996      1995       1996
+OPERATING ACTIVITIES:
+Net loss                    $2,806,436  $1,116,652   $3,923,088
+Adjustments to reconcile net                          
+loss to net cash used in                           
+operating activities:                            
+Depreciation and amortization          186,050     26,473     212,523
+Compensation expense related                        
+to issuance of stock warrants         13,208      --       13,208
+Increase in accounts receivable        382,160     4,055    386,215
+Increase in prepaid expenses and                      
+other current assets             146,542    23,984    170,526
+Decrease increase in accounts payable    166,095    362,769     196,674
+Increase in accrued salaries and wages      78,770     48,259     127,029
+Increase in accrued expenses          192,076     19,381     211,457
+Increase in deferred revenue          414,728     168,055     582,783
+Increase in accrued loss on                         
+development contracts             67,139      --       67,139
+Net cash used in operating                      
+activities              2,549,262    519,754   3,069,016
+INVESTING ACTIVITY:                                
+Property and equipment additions          494,577    579,983   1,074,560
+FINANCING ACTIVITIES:                               
+Proceeds from issuance of common                        
+and preferred stock, net            17,081,800    2,281,817    19,363,617
+Increase in accrued initial                           
+public offering costs               446,568      --      446,568
+Net cash provided by                         
+financing activities         17,528,368    2,281,817    19,810,185
+INCREASE IN CASH AND CASH EQUIVALENTS       14,484,529    1,182,080    15,666,609
+CASH AND CASH EQUIVALENTS AT                           
+BEGINNING OF PERIOD                1,182,080      --                                         
+CASH AND CASH EQUIVALENTS AT                           
+END OF PERIOD                  $15,666,609   $ 1,182,080   $15,666,609
+See notes to financial statements.                    25 PATIENT INFOSYSTEMS, INC.
+A Development Stage Enterprise
+NOTES TO FINANCIAL STATEMENTS
+PERIODS ENDED DECEMBER 31, 1995 AND 1996
+- 
+1.  BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+Organization - Patient Infosystems, Inc. designs and develops health care
+information systems and services to manage, collect and analyze patient-related
+information to improve patient compliance with prescribed treatment protocols.
+Through its various patient compliance programs for disease state management,
+the Company provides important benefits for the patient, the health care
+provider and the payor. The Company was incorporated in Delaware on February 22,
+1995 under the name DSMI Corp., changed its name to Disease State Management,
+Inc. on October 13, 1995, and on June 28, 1996 changed its name to Patient
+Infosystems, Inc. The Company has selected December 31 as the close of its
+fiscal year.
+Development  Stage Activities - Through December 31, 1996 the Company
+development activities have consisted primarily of efforts to raise funds,
+develop the first application of its information capture and delivery system
+which is a system that proactively collects and analyzes information relevant
+to patients in specific disease categories to improve patient compliance with
+prescribed regimens, and market its disease management programs for specific
+diseases. Successful completion of the Company program development, and
+ultimately the attainment of profitable operations, is dependent upon future
+events, including achieving market acceptance of its products.
+Use of Estimates in the Preparation of Financial Statements - The preparation of
+financial statements in conformity with generally accepted accounting principles
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual amounts could differ
+from those estimates.
+Fair Value of Financial Instruments - The Company financial instruments
+consist of cash and cash equivalents, accounts receivable and accounts payable
+which are carried at cost, which approximates fair market value.
+Revenue Recognition and Deferred Revenue - The Company principal source of
+revenue to date has been from contracts with a pharmaceutical company for the
+development and operation of disease management programs for chronic diseases.
+Deferred revenue represents amounts billed in advance under these contracts.
+Future revenue sources are expected to include disease management programs and
+other health care information system applications.
+Development Contracts - The Company program development contracts typically
+require payment from the customer at the time that the contract is executed,
+with additional payments made as certain development milestones are met.
+Development contract revenue is recognized on a percentage of completion basis,
+in accordance with the ratio of total development cost incurred to the estimated
+total development costs for the entire project. Losses, if any, are recognized
+in full as identified.
+Program Operations - The Company program operation contracts call for a per
+enrolled patient fee to be paid by the customer for a series of program services
+as defined in the contract. The timing of customer payments varies by contract,
+but typically occurs in advance of the associated services being provided.
+Revenues from program operations are recognized ratably as the program services
+are delivered.
+Cash and Cash Equivalents - Cash and cash equivalents include all highly liquid
+debt instruments with original maturities of three months or less.
+Concentrations of Credit Risk - Financial instruments which potentially subject
+the Company to concentration of credit risk consist principally of cash and cash
+equivalents and accounts receivable. The Company places its cash and cash
+equivalents with high credit quality institutions.
+26 The Company current contracts are concentrated in a small number of customers,
+with six of the Company  fifteen  contracts being with one customer.
+Consequently, the loss of any one of its customers could have a material adverse
+effect on the Company and its operations.
+During the year ended December 31, 1996, and the period from February 22, 1995
+Inception to December 31, 1995, approximately $796,800 94% and $84,000
+74%, respectively, of the Company revenues arose from contracts with one
+customer. At December 31, 1996 and December 31, 1995, accounts receivable
+included balances of $265,940 and $0, respectively, from contracts with that
+customer.
+Property and Equipment - Property and equipment are stated at cost. Depreciation
+is computed using the straight-line method over the estimated useful lives of
+the assets, which range from 3 to 10 years.
+In 1996, the Company adopted Statement of Financial Accounting Standards
+SFAS No. 121, Accounting for the Impairment of Long-Lived Assets and for
+Long-Lived Assets to Be Disposed Of. SFAS No. 121 requires that long-lived
+assets and certain identifiable intangibles to be held and used be reported at
+the lower of carrying amount or fair value. Assets to be disposed of and assets
+not expected to provide any future service potential to the Company are recorded
+at the lower of carrying amount or fair value less cost to sell. The adoption of
+SFAS No. 121 did not have a material effect on the Company financial position
+or results of operations.
+Research and Development - Research and development costs consist principally of
+compensation and benefits paid to Company  employees.  All research and
+development costs are expensed as incurred.
+Income Taxes - The Company uses the asset and liability method of accounting for
+income taxes in accordance with Statement of Financial Accounting Standards No.
+109, Accounting for Income Taxes. Under the asset and liability method,
+deferred income tax assets and liabilities are recognized for the future tax
+consequences  attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases and net operating loss and tax credit carryforwards.
+Net Loss Per Share - Net loss per share is based on the weighted average number
+of common shares outstanding subsequent to the Company initial public offering
+in 1996. Pursuant to rules of the Securities and Exchange Commission Staff, all
+common and common equivalent shares issued by the Company at a price less than
+the initial public offering price during at least the 12 months preceding the
+offering date using the treasury stock method until shares are issued have
+been included in the calculation of common and common equivalent shares
+outstanding for all periods presented prior to the December 1996 initial public
+offering.
+Retirement Plan - The Company has a retirement plan which qualifies under
+Section 401k of the Internal Revenue Code. This retirement plan allows
+eligible employees to contribute 1% to 15% of their income on a pretax basis to
+the plan. The Company annual contribution to the plan is at the discretion of
+the Board of Directors. The Company made no contributions to this plan in 1996
+or 1995.
+Stock Split - On November 22, 1996, the Company effected a 72-for-1 reverse
+stock split of all outstanding shares of common stock. Accordingly, all shares
+and per share amounts have been adjusted to reflect the reverse stock split as
+though it had occurred at February 22, 1995.
+27 2.  PROPERTY AND EQUIPMENT
+Property and equipment are summarized as follows                      December 31  December 31,
+1996     1995
+Computer software             $ 307,735   $137,153
+Computer equipment              409,681   242,393
+Telephone equipment             134,656   120,233
+Leasehold improvements            37,729    12,200
+Office furniture and equipment        184,708    68,004
+1,074,509   579,983
+Less accumulated depreciation             
+and amortization              212,472    26,473
+Property and equipment, net        $ 862,037   $553,510
+3.  INCOME TAXES
+The Company has not recorded any income tax expense during the period from
+Inception to December 31, 1996 because of operating losses incurred since
+inception.
+As of December 31, 1996, the Company has net operating loss carryforwards for
+Federal income tax purposes of approximately $3,900,000 which are available to
+offset future Federal taxable income. These carryforwards expire in 2011. No tax
+benefit relating to the net operating loss carryforwards has been reflected in
+the financial statements due to the uncertainty regarding the utilization of any
+such benefit, and a valuation allowance has been recognized to offset any
+deferred tax asset related to this item. Future benefit may occur to the extent
+taxable income is earned prior to the expiration of the carryforward period.
+4.  PUBLIC OFFERING OF COMMON STOCK
+In December 1996, the Company sold 2,000,000 shares of common stock through an
+initial public offering which generated net proceeds of $14,082,048 after
+deducting applicable issuance costs and expenses. On January 8, 1997, an
+additional 300,000 shares of common stock were sold pursuant to an underwriters
+over-allotment provision, which generated net proceeds to the Company of
+$2,232,000 after deducting underwriting discounts and commissions.
+In connection with this initial public offering, the Company outstanding
+shares of Series A and B convertible preferred stock were converted into
+2,046,000 shares of common stock.
+5.  STOCK OPTIONS AND WARRANTS
+The Company has an Employee Stock Option Plan the Stock Option Plan for the
+benefit of certain employees, non-employee directors, and key advisors. The
+Company has adopted the disclosures-only provision of Statement of Financial
+Accounting Standards No. 123, Accounting for Stock-Based  Compensation.
+Accordingly, no compensation cost has been recognized for the Stock Option Plan
+as it relates to employees. Had compensation cost for the Company stock option
+plan been determined based on the fair value at the date of grant for awards
+consistent with the provisions of SFAS No. 123, the Company net loss and net
+loss per common and common share equivalents would have been increased to the
+pro forma amounts indicated below                    28                         Period from    Period from
+February 22, 1995 February 22, 1995
+Inception    Inception
+Year ended   to December 31,  to December 31,
+December 31, 1996    1995       1996
+Net loss - as reported    $2,806,436   $1,116,652   $3,923,088
+Net loss - pro forma     $2,879,457   $1,125,428   $4,004,885
+Net loss per common                      
+and common share                       
+equivalents - as reported $   44   $   18   $   62
+Net loss per common                      
+and common share                       
+equivalents - pro forma  $   46   $   18   $   64
+The fair value of each option grant is estimated on the date of grant using the
+Black-Scholes option-pricing model using an assumed risk-free interest rate of
+7% and an expected life of 7 years. As the Company was still considered a
+private company for the purposes of applying SFAS No. 123 for the period from
+Inception to June 30, 1996, the Company did not include a volatility factor
+assumption in its fair value model. For the options granted after July 1, 1996,
+the Company has used a volatility factor of 60. For purposes of pro forma
+disclosure, the estimated fair value of each option is amortized to expense over
+that option vesting period. The Stock Option Plan authorizes 1,080,000 shares
+of common stock to be issued.
+Stock options granted under the Stock Option Plan may be of two types: 1
+incentive stock options and 2 nonqualified stock options. The option price of
+such grants shall be determined by a Committee of the Board of Directors the
+Committee, but shall not be less than the estimated fair market value of the
+common stock at the date the option is granted. The terms of the grants shall be
+fixed by the Committee, with no term lasting longer than ten years. The ability
+to exercise such options shall be determined by the Committee when the options
+are granted. All of the outstanding options vest at the rate of 20% per year
+with the exception of 36,000 options which were vested as of the date of grant.
+29 A summary of stock option activity follows                                   Weighted-
+Outstanding    Average
+Options    Exercise Price
+Options granted during the period 
+from Inception to December 31, 1995 
+weighted average fair value of $13       658,800      $ 35
+Options forfeited by holders during the                
+period from Inception to December 31, 1995    65,520     $ 54
+Options exercised during the period                  
+from Inception to December 31, 1995        2,880     $ 14
+Options outstanding at December 31, 1995      590,400      $ 33
+Options granted during the year ended                 
+December 31, 1996 weighted average                 
+fair value of $324               365,400      $532
+Options forfeited by holders during the year             
+ended December 31, 1996              63,840     $ 87
+Options outstanding at December 31, 1996      891,960      $234
+Options exercisable at December 31, 1996      154,320      $ 30
+Options available for grant at December 31, 1996  188,040      
+The following table  summarizes  information  concerning  outstanding and
+exercisable options at December 31, 1996              Options Outstanding      Options Exercisable
+Weighted        
+Average   Weighted         Weighted
+Remaining   Average          Average
+Range of     Number  Contractual  Exercise   Number   Exercise
+Exercise Price  Outstanding   Life    Price   Exercisable   Price
+$14 - $99    504,900    834    $ 28    143,460     24
+$100 - $199   104,040    888     142     9,360    104
+$200 - $499   130,740    925     208     1,500    208
+$500 - $1000   152,280    983    1000     --                                                                      
+891,960                154,320       
+The Company also has outstanding stock purchase warrants entitling the holders
+to purchase a total of 100,800 shares of common stock at prices ranging from
+$14 to $1000 per share weighted average exercise price of $84. At December
+31, 1996, 25,920 of these warrants are currently vested, with the remaining
+74,880 warrants vesting at 20% per year. The Company has recorded compensation
+cost of $13,208 for the year ended December 31, 1996 in connection with the
+issuance of these warrants.
+30 6.  COMMITMENTS
+The Company leases office space for its main operating facility under an
+operating lease agreement expiring in November 1999. Rental expense from this
+lease for the year ended December 31, 1996 and the period from Inception to
+December 31, 1995 was $70,479 and $40,375, respectively.
+At December 31, 1996, future minimum lease payments under this lease are
+summarized as follows         1997                $152,910
+1998                158,608
+1999                150,535
+$462,053
+31 Item 3.  Legal Proceedings.
+12   The Company is not a party to any material legal proceedings.
+Item 4. Directors and Executive Officers of the Registrant.
+The following table sets forth certain information concerning the Company
+directors and executive officers as of February 28,1997.
+Name                Age  Position
+-                    Derace L. Schaffer, M.D.  48  Chairman of the Board
+Donald A. Carlberg.  45  Director, President and Chief 
+Executive Officer
+Gregory D. Brown.  35  Senior Vice President, Chief Financial
+Officer, Secretary and Treasurer
+James D. Turner.  37  Senior Vice President, Sales and 
+Marketing
+Kent A. Tapper.  41  Vice President, Systems Engineering
+John Pappajohn.  68  Director
+Barbara J. McNeil, M.D., Ph.D.  56  Director
+Carl F. Kohrt, Ph.D.  53  Director
+Derace L. Schaffer, M.D. has been Chairman of the Board and a Director of
+the Company since its inception in February 1995. Since 1980 Dr. Schaffer has
+been the President of The Ide Group, P.C., a group of physicians providing
+radiological services at multiple locations in New York State, and since 1990 he
+has also been President of The Lan Group, a venture capital firm specializing in
+health care investments. He serves as a Clinical Professor at the University of
+Rochester School of Medicine and a Director of NeuralTech, Inc., NeuralMed,
+Inc., Preferred Oncology Networks of America, Inc., American Physician Partners,
+Inc., The Care Group, Inc., Oncor, Inc. and Medifax, Inc. as well as several
+not-for-profit corporations.
+Donald A. Carlberg has been President, Chief Executive Officer and a
+Director of the Company since its inception. From February 1993 to December 1994
+Mr. Carlberg served as Chief  Executive  Officer of Patient  Management
+Technologies, Inc., a medical services consulting company, which he founded.
+From 1992 to 1994 Mr. Carlberg served as Senior Vice President Sales and
+Marketing for Neurocare, Inc./Paradigm Health Corp. From 1990 to 1992 Mr.
+Carlberg served as Director of Managed Care for Baxter Healthcare International
+where he started managed care initiatives for its Caremark Division. From 1985
+to 1990 Mr. Carlberg held several senior level positions in managed care at Blue
+Cross/Blue Shield of Rochester, New York and Independence Blue Cross in
+Philadelphia, Pennsylvania.
+Gregory D. Brown has been Senior Vice President, Chief Financial Officer,
+Secretary and Treasurer of the Company since May 1995. From 1989 to 1995 Mr.
+Brown was Chief Financial Officer of Pappajohn Capital Resources, a venture
+capital firm specializing in health care investments, and Equity Dynamics, Inc.,
+a financial consulting firm, both located in Des Moines, Iowa. From 1984 to 1989
+Mr. Brown was a Senior Accountant with Vroman, McGowen, Hurst, Clark & Smith,
+P.C., a certified public accounting firm.
+James D. Turner has been Senior Vice President, Sales and Marketing of the
+Company since September 1996. Mr. Turner served as Director of Business
+Development for Preferred Oncology Networks of America, Inc. from January 1996
+to September 1996. From 1987 to 1995 Mr. Turner held various sales, marketing
+and business development positions with divisions of Coram Healthcare, Inc. and
+Baxter Healthcare  International,  most recently as Director of Business
+Development.
+Kent A. Tapper has been Vice President, Systems Engineering of the Company
+since July 1995. Prior to joining the Company and since 1992, Mr. Tapper was
+Product Manager, Audio Response and Call Center Platforms for Northern Telecom,
+Inc. From 1983 to 1992 Mr. Tapper held Product Manager, Systems Engineering
+Manager and various engineering management positions with Northern Telecom.
+33   John Pappajohn has been a Director of the Company since its inception, and
+served as its Secretary and Treasurer from inception through May 1995. Since
+1969 Mr. Pappajohn has been the sole owner of Pappajohn Capital Resources, a
+venture capital firm specializing in health care investments, and President of
+Equity Dynamics, Inc., a financial consulting firm, both located in Des Moines,
+Iowa. He serves as a Director for the following public companies: CORE, Inc.,
+Drug Screening Systems, Inc., Fuisz Technologies, Ltd., GalaGen, Inc., OncorMed,
+Inc., The Care Group, Inc., HealthDesk Corporation, United Systems Technology,
+Inc. and Pace Health Management Systems, Inc.
+Barbara J. McNeil, M.D., Ph.D. has been a Director of the Company since May
+1995. Dr. McNeil is Head of the Department of Health Care Policy and a Professor
+of Radiology at Harvard Medical School where she has served in various
+capacities since 1971. For four years she has served as Chair of the Blue Cross
+Massachusetts Hospital Association Fund for Cooperative Innovation and currently
+she is a member of the National Council on Radiation Protection, the American
+College of Radiology and its Board of Chancellors, the Society of Nuclear
+Medicine, the Advisory Council for the Agency for Health Care Policy and
+Research, and the National Academy of Sciences' Institute of Medicine where she
+is a Council member. She also serves as a Director of CV Therapeutics, Inc.
+Carl F. Kohrt, Ph.D. has been a Director of the Company since April 1996.
+Dr. Kohrt is Executive Vice President and Assistant Chief Operating Officer of
+the Eastman Kodak Company, where he has served in various capacities since 1971.
+Dr. Kohrt is a recipient of a Sloan Fellowship for study at Massachusetts
+Institute of Technology.
+No family relationship exists between any of the above executive officers.
+The normal term of office for all executive officers listed above runs from one
+Annual Meeting of Stockholders of the Company to the next, or approximately one
+year.
+Section 16a of the Securities Exchange Act of 1934, as amended, requires
+the Company executive officers and directors, and persons who own more than
+10% of a registered class of the Company equity securities, to file reports of
+ownership and changes in ownership with the Securities and Exchange Commission.
+Based on a review of the copies of reports furnished to the Company, the Company
+believes that during the year ended December 31, 1996 all filing requirements
+applicable to its officers, directors and ten percent beneficial owners were
+met, except that initial reports of beneficial ownership on Form 3 were filed
+late.
+Committees of the Board of Directors
+The Board of Directors of the Company has appointed two committees: the
+Audit Committee and the Compensation Committee. The Audit Committee periodically
+reviews the Company auditing practices and procedures, makes recommendations
+to management or to the Board of Directors as to any changes to such practices
+and procedures deemed necessary from time to time to comply with applicable
+auditing rules, regulations and practices, and recommends independent auditors
+for the Company to be elected by the stockholders. The Compensation Committee
+meets periodically to make recommendations to the Board of Directors concerning
+the compensation and benefits payable to the Company executive officers and
+other senior  executives.  The Company  reimburses  directors  for their
+out-of-pocket expenses incurred in attending Board and Committee meetings.

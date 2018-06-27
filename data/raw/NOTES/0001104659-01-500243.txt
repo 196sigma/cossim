@@ -1,0 +1,2179 @@
+Item 8. The following information includes forwardlooking statements,
+the realization of which may be affected by certain important factors discussed
+under Risk Factors.
+OVERVIEW
+We are an independent architect of
+enterprise-class information storage infrastructures. We derive our revenues
+principally from designing and installing data storage systems. Our solutions
+can include hardware products, such as disk arrays, tape systems,
+interconnection components, and storage management software products. Prior to
+January1, 2000, we recognized revenues for hardware and software product
+sales when we shipped the products and software to our customers or after they
+accepted products under evaluation. However, in December 1999, the SEC staff
+issued Staff Accounting Bulletin, or SAB, No101, Revenue
+Recognition, which clarified the SEC staff view regarding the
+recognition and reporting of revenues in particular transactions. In light of
+SAB No101, we modified our revenue recognition policy related to
+hardware and software products when we provide any installation or
+configuration services in connection with the sale. We now recognize revenue
+from hardware and software product sales when we complete our installation and
+configuration services. This change was
+effective as of January1, 2000.
+Under the SAB No101 transition provisions, we accounted for this
+change in accounting policy prospectively. As of January1, 2000, we
+recorded a charge to earnings of $753,000, representing the cumulative effect,
+net of income taxes, of this change in our accounting policy.
+As indicated above, our customers usually
+engage us for assistance in the installation of our solutions. Occasionally,
+they also engage us for consulting services. We recognize revenues for this
+work as we render these services.
+We also sell service contracts to most of our
+customers. We arrange for fulfillment
+of these contracts primarily by purchasing maintenance service agreements for
+our customers from our hardware and software vendors or their designated
+third-party service providers. We defer
+revenues and direct costs resulting from these contracts, and amortize these
+revenues and expenses into operations, over the term of the contracts, which
+are generally twelve months.
+In the past, we have experienced fluctuations
+in the timing of orders from our customers, and we expect to continue to
+experience these fluctuations in the future.
+These fluctuations have resulted from, among other things, the time
+required to design, test and evaluate our data storage solutions before
+customers deploy them, the size of customer orders, the complexity of our
+customers network environments, necessary system configuration to deploy our
+solutions and new product introductions by suppliers. Completion of our installation and configuration services may
+also delay recognition of revenues. As
+a result, our net sales may fluctuate from quarter to quarter. Prior to our initial public offering in August1999, we were an S corporation. The only
+income tax expense we reported prior to August1999 resulted from the C
+corporation taxable income of Direct Connect Systems,Inc., or DCSI,
+allocated to us between July1998, when we acquired DCSI, and
+January1999, when we merged DCSI into us. Upon our August1999
+initial public offering, we became a C corporation and began reporting income
+tax expense. This change in tax status complicates comparison of our historical
+operating results.
+On November 10, 2000, we acquired certain
+assets of the data storage and services business of OpenSystems.com, Inc. This
+acquisition did not have a significant impact on our 2000 operating results.
+Results of Operations
+The following table shows, for the periods
+indicated, certain selected financial data expressed as a percentage of net
+sales. 
+Years
+Ended December 31  
+2000  
+1999  
+1998  
+Net sales
+1000%
+1000%
+1000%
+Cost of sales
+737
+738
+748
+Gross profit
+263
+262
+252
+Operating expenses:
+Sales and marketing
+111
+100
+89
+General and administrative
+64
+59
+59
+Engineering
+27
+22
+16
+Amortization of goodwill and other intangibles
+07
+07
+04
+Offering costs
+03
+02
+08
+Total operating expenses
+212
+190
+176
+Operating income
+52%
+72%
+76%
+Comparison of Years Ended December31,
+2000, 1999 and 1998
+Net Sales. Our product sales increased 122% in 2000 over 1999 to $1182
+million and increased 313% in 1999 over 1998 to $1054 million. Our product
+sales were $802 million in 1998. Our
+service sales, which include customer support and installation services,
+increased 740% in 2000 over 1999 to $195 million and increased 920% in 1999
+over 1998 to $112 million. Our service
+sales in 1998 were $58 million. Our
+increased sales represent the larger volume of data storage solution
+installations for our customers as well as the increasing complexity and
+related increasing prices of our data storage solutions. We believe that growing data storage needs
+and the emergence of new technologies for enterprise-class information storage
+has increased customer demand for our solutions. The strong growth rate in our 2000 and 1999 service revenues was
+due primarily to increased maintenance contract sales reflecting both new
+contract sales and contract renewals by existing customers. We believe that our increased revenues
+relate to our hiring of additional sales and engineering personnel and opening
+of sales offices in new geographic locations.
+Additionally, our net sales have increased due to our acquisition of
+DCSI in July1998. We derived
+approximately 13% and 15% of our sales from one customer during 2000 and 1999,
+respectively. We cannot assure you that
+this customer will account for a substantial portion of our future sales.
+Gross Profit. Our gross profit as a percentage of net sales increased to 263%
+in 2000 from 262% in 1999 and 252% in 1998. These higher margins in 1998 and
+1999 were primarily due to the increasing percentage of our sales generated
+from large storage systems solutions sold to enduser customers. We
+typically generate higher margins on solutions we provide directly to enduser
+customers than on sales we make through valueadded resellers and
+original equipment manufacturers.
+Service gross profit as a percentage of net sales increased to 276% in
+2000 from 251% in 1999. The increase in gross profit rates for services is
+primarily due to a large proportion of contracts covering more complex
+solutions, which generally carry a higher margin. Our gross profit for 2000,
+1999 and 1998, was adversely affected by excess and obsolete inventory
+provisions of $12 million, $456,000 and $177,000 respectively. These provisions were necessary primarily
+due to the phase out of a replacement parts program we previously offered to
+some customers and the decline in net realizable value on some of our inventory
+as vendors released new products during 2000 and 1999, which reduced customer
+demand for some of our existing prior generation inventories. During 2000 we
+disposed of these excess, old generation inventories, but at liquidation values
+which were significantly below our acquisition cost.
+Sales and Marketing. Sales and marketing expenses include wages
+and commissions paid to sales and marketing personnel, travel costs,
+advertising, promotion and hiring expenses. Sales and marketing expenses
+increased to $152 million in 2000 compared to $117 million in 1999 and $77
+million in 1998. As a percentage of net sales, our sales and marketing expenses
+were 111% in 2000, 100% in 1999 and 89% in 1998. The increase in sales and
+marketing expense as a percentage of our net sales and in absolute dollars over
+these years resulted primarily from the hiring of additional sales
+representatives as we continue to open new sales offices and expand our
+business, and the increase in commissions commensurate with the increase in
+sales. New sales representatives are usually less productive during their first
+two years than more seasoned sales personnel. In addition, during 1998, we
+absorbed the incremental hiring costs for inside sales representatives to
+support the operations of DCSI. General
+and Administrative. General and administrative expenses include
+wages for administrative personnel, professional fees, depreciation,
+communication expenses and rent and related facility expenses. General and
+administrative expenses increased to $88 million in 2000 compared to $69
+million in 1999 and $50 million in 1998. As a percentage of net sales, general
+and administrative expenses were 64% in 2000, 59% in 1999 and 58% in 1998.
+The increase in general and administrative expenses reflects our business
+growth. Increases include higher
+administrative salaries and benefits due to headcount additions, and increased
+rents, communication expense and related facility charges for our new sales
+offices. In 2000, we also incurred
+higher outside services expense related to internal quality training programs. We have also incurred significant public
+company reporting and insurance costs that we did not incur prior to becoming a
+publicly owned company in August 1999.
+Engineering. Engineering expenses include employee wages, travel, hiring and
+training expenses for our professional engineers and technicians. Engineering
+expenses increased to $37 million in 2000 compared to $26 million in 1999
+and $14 million in 1998. Engineering
+expenses as a percentage of net sales were 27% in 2000, 22% in 1999 and 16%
+in 1998. The increase over these years is primarily attributable to the
+addition of new engineering personnel and increased compensation levels to more
+effectively compete for qualified engineers with enterprise-class information
+storage solutions experience. Competition for these engineers is intense and we
+expect that future compensation levels may continue to increase. In addition,
+our engineering travel expenses have increased due to the continued geographic
+expansion of our business.
+Goodwill and Other Intangible Amortization. Amortization of goodwill and other
+intangible assets increased to $10 million in 2000 compared to $807,000 in
+1999 and $376,000 in 1998. These
+increases are related to our acquisitions of DCSI in July 1998 and the data
+storage and services business of OpenSystems.com, Inc. in November 2000.
+Offering Costs. During the second quarter of 2000, we expensed approximately
+$381,000 of costs for a proposed second public offering of our common stock,
+which was withdrawn due to market conditions. We incurred expenses of approximately
+$173,000 in the first quarter of 1999 and $733,000 in the third quarter of 1998
+in conjunction with our initial public offering. This offering was twice
+delayed by market conditions. As required, we expensed these previously
+deferred costs each time we determined that the offerings would be delayed more
+than 90 days.
+Operating Income. Operating income
+decreased 153% to $71 million in 2000 from $84 million in 1999. Operating
+income increased 279% to $84 million in 1999 from $66 million in 1998. Our
+operating income was 52% of net sales in 2000, a decline from the 1999 and
+1998 levels of 72% and 76%, respectively. The decrease in operating income as
+a percentage of net sales in 2000 was principally attributable to the increase
+in our operating expenses described above.
+Our goal is to increase sales of complex enterprise-class information
+storage solutions to our customers, which we believe will increase our gross
+margins further. However, our improved gross margins may be offset by higher
+costs to develop, implement and support these highend storage solutions.
+Income Taxes. Until August1999, when we became a public company, we were
+an S corporation and were not taxed on our income. We provided for income taxes
+of $31 million in 2000, $897,000 in 1999 and $148,000 in 1998. Our 1998 income
+tax expense resulted from the taxable income generated by our DCSI subsidiary
+from the date of our acquisition in July1998. In January1999, we
+merged DCSI into Datalink. Our 1999 income tax expense resulted from the taxable
+income we generated after our August1999 initial public offering and the
+tax effect of DCSI merger into Datalink. For more information, see Note 5 of
+the Notes to our Consolidated Financial Statements.
+Cumulative
+Effect of Change in Accounting Principle. In the first quarter of 2000,
+we incurred a one-time, non-cash charge of $753,000 representing the cumulative
+effect, net of income taxes, of the accounting changes we made effective as of
+January 1, 2000, to our revenue recognition policies to comply with the
+provisions of SAB No. 101. See Note 2 of the Notes to our Consolidated
+Financial Statements.
+Quarterly Results and Seasonality
+The following table sets forth our unaudited
+quarterly financial data for each quarter of 2000 and 1999. In our opinion,
+this unaudited information has been prepared on the same basis as the audited
+information and includes all adjustments including all normal recurring
+adjustments necessary to present fairly the information set forth below. The
+operating results for any quarter are not necessarily indicative of results for
+any future period. 
+Quarters Ended  
+2000  
+1999  
+Mar. 31  
+Jun. 30  
+Sep. 30  
+Dec31  
+Mar31  
+Jun30  
+Sep. 30  
+Dec. 31  
+in thousands
+Net sales
+$27,998
+$34,911
+$36,292
+$38,568
+$25,434
+$29,322
+$30,282
+$31,565
+Gross profit
+7,686
+9,840
+8,639
+10,135
+6,508
+7,615
+8,024
+8,422
+Operating income
+1,481
+2,261
+2,566
+818
+1,353
+2,105
+2,385
+2,567
+Net income
+166
+1,406
+1,561
+502
+1,835
+1,957
+1,720
+1,860
+We have experienced, and expect to continue to experience, quarterly variations in our net sales as a result of
+a number of factors, including the length of the sales cycle with customers for
+large storage system evaluations and purchases, delays in storage system
+installations or configurations, new product introductions by suppliers and
+their market acceptance, delays in product shipments or other quality control
+difficulties, our ability to integrate any acquired businesses, trends in the
+enterprise-class information storage industry in general, the geographic and
+industry specific market in which we are currently active, or may be in the
+future, and the opening of new field offices.
+Liquidity and Capital Resources
+Historically, we have financed our operations
+and capital requirements through cash flows generated from operations,
+supplemental bank borrowings and the proceeds from our initial public offering.
+Our working capital was $117 million at December31, 2000 as compared to
+$172 million at December31, 1999. Our current ratio was 14:1 at
+December31, 2000 as compared to 19:1 at December31, 1999. At
+December31, 2000, our cash and cash equivalents balance was $45 million.
+Cash provided by operating activities for
+2000 was $106 million as compared to $35 million in 1999 and $115 million in
+1998. The cash provided by operating activities in 2000 resulted primarily from
+our net income and a reduction in accounts receivable and increases in accounts
+payable, partially offset by an increase in inventories. The inventory increase principally reflects our adoption of SAB No. 101 as of
+January 1, 2000, so that we now recognize revenue from hardware and software
+product sales when we complete our installation and configuration services. As a result, pending completion of our
+installation and configuration services, we categorize hardware and software
+products on our financial statements as inventory shipped but not
+installed. Cash provided by operations
+in 1999 reflected our increasing sales and net income, partially offset by
+increased accounts receivable and inventories due to the increase in net
+revenues. The significant amount of
+cash provided by operating activities in 1998 is primarily due to net income
+and increased levels of accounts payable, resulting from significant purchasing
+activity at year end and delays in payments to certain vendors of DCSI.
+Cash used in investing activities during 2000
+was $114 million as compared to $11 million in 1999 and $42 million in 1998.
+Our 2000 uses reflected expenditures for engineering and lab equipment, the
+purchase of land adjacent to our new corporate headquarters facility and a
+$500,000 deposit on this facility that we will begin leasing in May 2001. The
+2000 uses also included $75 million to acquire the data storage and services
+business of OpenSystems.com, Inc. 1999 uses of cash were related to the
+purchase of property and equipment. The 1998 uses included $31 million applied
+to acquire the net assets of DCSI and $11 million for the purchases of
+property and equipment.
+Cash used in financing activities in 2000 was
+$12 million. We used $884,000 to make a final dividend distribution to the ten
+pre-initial public offering stockholders related to their tax liabilities. We also made a scheduled payment of $705,000
+on a note due to a former S corporation stockholder. These uses were partially offset by $388,000 of proceeds from
+stock option exercises. Cash provided
+by financing activities was $13 million in 1999 and cash used in financing
+activities was $56 million in 1998. In 1999, net proceeds of $182 million
+from the issuance of common stock related to our public offering were offset,
+in part, by net repayments of borrowings of $32 million and $128 million of
+dividend distributions paid to our ten preinitial public offering stockholders 37 million of which enabled stockholders to pay their income tax liabilities
+resulting from our S corporation taxable income. The remaining $91 million
+dividend distribution to these stockholders represented all previously taxed,
+but undistributed, S corporation earnings. In 1998, we made $39 million of
+dividend distributions to our preinitial public offering stockholders
+primarily to enable them to pay their income tax liabilities resulting from our
+S corporation taxable income and had net repayments of $16 million on our line
+of credit.
+Effective June 30, 2000, we entered into a
+one year credit agreement with a commercial bank that provides for a $10
+million revolving line of credit for financing potential business acquisitions
+and a $5 million revolving line of credit for financing our working capital
+needs. Borrowing under the lines of
+credit are subject to certain financial and operating covenants, including
+covenants that require us to maintain a minimum current ratio, debt-net worth ratio,
+tangible net worth and level of profitability.
+We had no outstanding borrowings as of December 31, 2000. For more information, see Note 4 to our
+Consolidated Financial Statements.
+We
+have signed a 15-year lease for a new corporate headquarters expected to
+commence in May 2001. We have also
+purchased the land adjacent to the new headquarters for future expansion. The lease provides for base rental payments
+of $10 million for the first twelve months and a 2% increase each subsequent
+12-month period. Additionally, we are
+responsible for all executory costs associated with operating the
+facility. For more information, see
+Note 7 of the Notes to our Consolidated Financial Statements.
+Effective February28, 1999, we redeemed
+1,095,720 shares of common stock held by one of our former stockholders and
+issued him a $30 million note payable in four installments through
+February2002. We made principal payments of $906,000 and $705,000 against
+this note in August1999 and February 2000, respectively. For more
+information, see Note 9 of the Notes to our Consolidated Financial Statements.
+In November 2000, we purchased the data
+storage and service business of OpenSystems.com, Inc. for $70 million cash and
+79,177 shares of our common stock. We
+agreed to pay an additional $25 million in cash if particular revenue targets
+for the acquired business are met. We
+expect to pay this contingent amount, if any, out of cash flows from our
+operations or by borrowing on our line of credit. Recent Accounting Pronouncements
+In June 1999, the FASB issued Statement of
+Accounting Standards No. 137, Accounting for Derivative Instruments and
+Hedging Activities Deferral of the Effective Date of FASB Statement No.
+133. SFAS No. 133 establishes
+accounting and reporting standards for derivative instruments, including
+derivative instruments embedded in other contract, and for hedging
+activities. SFAS 137 as amended by SFAS
+No. 138 became effective for us in the first quarter of 2001. We do not expect adoption of SFAS 133 to
+have a material impact on our financial position or results of operations.
+Inflation
+We do not believe that inflation has had a
+material effect on our results of operations in recent years. We cannot assure
+you that inflation will not adversely affect our business in the future.
+RISK FACTORS
+Our business depends on our ability to hire
+and retain scarce technical personnel
+Our future operating results depend upon our
+ability to attract, retain and motivate qualified engineers with
+enterprise-class information storage solutions experience. Competition to hire
+these engineers is intense. If we fail to recruit and retain additional
+engineering personnel, we will experience greater difficulty realizing our
+growth strategy, which could negatively affect our business, financial
+condition and stock price.
+Our growth plans depend in part on our
+ability to successfully complete acquisitions
+As part of our growth plan, we intend to
+continue to pursue strategic acquisitions of businesses that give us access to
+additional qualified technical personnel and either expand or complement our
+business. To date we have completed two such acquisitions and are not currently
+negotiating any acquisition transaction.
+If we do not make more suitable acquisitions, we will find it more
+difficult to realize our growth objectives.
+If we do make acquisitions, we will face a
+number of other risks and challenges, including 
+the difficulty of integrating dissimilar operations or assets;
+assimilation of new employees who may not initially contribute at the
+levels we expect from our other employees;
+diversion of management time and resources;
+increases in administrative costs, including amortization of
+purchased intangible assets;
+potential loss of key employees of an acquired company; and
+additional costs associated with obtaining any necessary financing.
+These factors and our limited experience in
+negotiating, consummating and integrating acquisitions could hamper our ability
+to realize our growth objectives, and could adversely affect our business,
+earnings, financial condition and, ultimately, our stock price. Acquisitions
+that use stock as payment, also could result in dilution of our per share
+earnings, and of your voting rights.
+Competition could prevent us from increasing
+or sustaining our revenues or profitability
+The enterprise-class information storage
+market is rapidly evolving and highly competitive. As technologies change
+rapidly, we expect that competition will increase in the future. We compete
+with independent storage system suppliers to the highend market and
+numerous resellers, distributors and consultants. We also compete in the
+storage systems market with general purpose computer suppliers. Many of our
+current and potential competitors have significantly greater financial,
+technical, marketing, purchasing and other resources than we do. As a result,
+they may respond more quickly to new or emerging technologies and changes in
+customer requirements, devote greater resources to the development, promotion
+and sale of products and deliver competitive products at lower enduser
+prices. Some of our current and potential competitors
+include our suppliers. We are not the exclusive supplier of any data storage
+product we offer. Instead, our suppliers
+market their products through other independent data storage solution
+providers, original equipment manufacturers and, often, through their own
+internal sales forces. We believe direct competition from our suppliers is
+likely to increase if, as expected, the data storage industry continues to
+consolidate. This consolidation would probably result in fewer suppliers with
+greater resources to devote to internal sales and marketing efforts. In
+addition, our suppliers have established and will probably continue to
+establish cooperative relationships with other suppliers and other data storage
+solution providers. These cooperative relationships are often intended to
+enable our suppliers to offer comprehensive storage solutions, which compete
+with those we offer. If our relationships with our suppliers become
+adversarial, it will be more difficult for us to stay ahead of industry
+developments and provide our customers with the type of service they expect
+from us.
+In addition, most of our customers already
+employ inhouse technical staffs. To the extent a customer inhouse
+technical staff develops sophisticated storage systems expertise, the customer
+may be less likely to seek our services. Further, we compete with storage
+service providers who manage, store and backup their customers' data at offsite,
+networked data storage locations.
+We derive a large percentage of our revenues
+from a small number of customers
+In 2000, we derived 15% of our revenues from
+one customer, and our top three customers collectively accounted for 23% of our
+revenues. Because we intend to continue to seek out large projects, we expect
+that a significant percentage of our revenues will continue to come from a
+small number of customers, although the composition of our key customers is
+likely to change from year to year. If we fail to obtain a growing number of
+large projects each year, our revenues and profitability will likely be
+adversely affected. In addition, our reliance on large projects makes it more
+likely that our revenues and profits will fluctuate unpredictably from year to
+year. Unpredictable revenue and profit fluctuations may make our stock price
+more volatile and lead to a decline in our stock price.
+Our revenue
+recognition policies unpredictably defer reporting of our revenues
+We increasingly sell complex enterprise-class
+information storage solutions to end-user customers. We do not recognize revenues from our sale of hardware and
+software products to our customers until we complete our required installation
+or configuration of these products.
+Installation and configuration of these solutions requires significant
+coordination with our customers and vendors.
+Therefore, even if we have shipped all products to our customers, we may
+be unable to control the timing of product installation and configuration. These delays prevent us from recognizing
+revenue on products we ship and may adversely affect our quarterly reported
+revenues. As a result, our stock price
+may decline.
+We rely on only a few key suppliers and would
+suffer materially if we could not obtain their products
+We rely on our close relationships with our
+suppliers to provide access to products and new technology necessary to design
+and implement leadingedge enterprise-class information storage solutions
+for our customers. We do not have longterm supply contracts with any of
+our suppliers. In many instances, we rely upon only one or two suppliers for
+each of our key products. Our reliance on these suppliers leaves us vulnerable
+to an inadequate supply of required products, price increases, late deliveries
+and poor product quality. Disruption or termination of the supply of products
+from our suppliers for any reason would likely prevent or delay our shipments
+to our customers. Our customers expect reliable and prompt service from us. If
+we cannot obtain necessary components, or the components we obtain are
+unreliable or unexpectedly expensive, we will not meet our customers'
+expectations. If we cannot meet our customers' expectations, our business will
+suffer considerably.
+We have no employment agreements with our key
+employees
+Our future operating results depend in
+significant part upon the continued contributions of our executive officers,
+managers, salespeople, engineers and other technical personnel, many who have
+substantial experience in our industry and would be difficult to replace. We do
+not have employment, noncompetition or nondisclosure agreements with our
+officers or employees. Accordingly, our employees may voluntarily leave us at
+any time and work for our competitors. Our growth strategy depends in part on
+our ability to retain our current employees and hire new employees. Any failure
+to retain our key employees will make it much more difficult for us to maintain
+our operations and attain our growth objectives and could therefore be expected
+to adversely affect our operating results, financial condition and stock price.
+If we cannot effectively manage our future
+growth, our business may suffer
+Our planned growth and expansion, if
+realized, would place a significant strain on our administrative, operational
+and financial resources. This growth may also increase demands on our
+professional and technical services, sales, marketing and customer service and
+support functions. Our planned geographic expansion may exacerbate these
+challenges and require us to hire, train, motivate and manage new management,
+technical, sales and administrative employees. If we manage this planned growth
+poorly, we may be unable to continue to provide our customers with the high
+level of technical service and expertise they expect from us. This failure
+would harm our reputation, hamper our ability to grow and adversely affect our
+financial condition and stock price.
+In addition, our planned geographic expansion
+will increase our costs and make it more difficult to manage our operations. As
+a result, we may not achieve commercial success or maintain client service and
+support at historic levels. If we fail to manage our growth and generate
+sufficient revenues to offset the additional costs of geographical expansion,
+our profitability, financial condition and stock price will likely suffer. If the data storage industry fails to develop
+compelling new storage technologies, our business may suffer
+Rapid and complex technological change,
+frequent new product introductions and evolving industry standards increase
+demand for our services. Because of this, our future success depends in part on
+the data storage industry ability to continue to develop leadingedge
+storage technology solutions. Our customers utilize our services in part
+because they know that newer technologies offer them significant benefits over
+the older technologies they are using. If the data storage industry ceases to
+develop compelling new storage solutions, or if a single data storage standard
+becomes widely accepted and implemented, it will be more difficult to sell new
+data storage systems to our customers.
+Our long sales cycle may cause fluctuating
+operating results, which may adversely affect our stock price
+Our sales cycle is typically long and
+unpredictable, making it difficult to plan our business. This long sales cycle
+requires us to invest resources in potential projects that may not occur. In
+addition, our long and unpredictable sales cycle may cause us to experience
+significant fluctuations in our future annual and quarterly operating results.
+It can also result in delayed revenues, difficulty in matching revenues with
+expenses and increased expenditures. Our business, operating results or
+financial condition and stock price may suffer as a result of any of these
+factors.
+Control by our existing stockholders could
+discourage the potential acquisition of our business
+Currently, our executive officers, directors
+and 5% or greater stockholders and their affiliates beneficially own
+approximately 74% of our outstanding common stock. Acting together, these
+insiders could elect our entire Board of Directors and control the outcome of
+all other matters requiring stockholder approval. This voting concentration may
+also have the effect of delaying or preventing a change in our management or
+control or otherwise discourage potential acquirers from attempting to gain
+control of us. If potential acquirers are deterred, you may lose an opportunity
+to profit from a possible acquisition premium in our stock price.
+Our stock price is volatile
+The market price of our common stock has
+fluctuated significantly since our initial public offering, and may continue to
+be volatile. We cannot assure you that our stock price will increase, or even
+that it will not decline significantly from the price you pay. Our stock price
+may be adversely affected by many factors, including  actual
+or anticipated fluctuations in our operating results  announcements
+of technical innovations  new
+products or services offered by us, our suppliers or our competitors  changes
+in estimates by securities analysts of our future financial performance; and
+general
+market conditions.
+In addition, the stock market has recently
+experienced significant downward price fluctuations, which in no relationship
+to operating performance, have adversely affected the market prices of
+securities of some companies. Recently, companies in the technology sector,
+such as Datalink, have experienced more stock price volatility than companies
+in other sectors of the market and may be more vulnerable to price declines in
+the event of a general market decline.
+We may be liable for warranty claims
+Products we offer may contain defects in
+hardware, software or workmanship that remain undetected or that may not become
+apparent until after commercial shipment. If a supplier were to fail to meet
+its warranty obligations to us, we might be liable to our customers. We do not
+maintain insurance for these expenses. We cannot assure you that our suppliers
+will be willing or able to honor their warranties, that we may not incur our
+own uninsured warranty costs or that our repair and maintenance subcontractors
+will perform their services in a timely and proper manner. Our governing documents and Minnesota law may
+discourage the potential acquisitions of our business
+Our Board of Directors may issue up
+additional shares of capital stock and establish their rights, preferences and
+classes, in some cases without stockholder approval. In addition, we are
+subject to antitakeover provisions of Minnesota law. These provisions
+may deter or discourage takeover attempts and other changes in control of us
+not approved by our Board of Directors. If potential acquirers are deterred,
+you may lose an opportunity to profit from a possible acquisition premium in
+our stock price.
+Item 7A.
+Quantitative and Qualitative Disclosures about Market Risk
+Our interest income is sensitive to changes
+in the general level of U.S. interest rates, particularly since the majority of
+our investments are in shortterm instruments. Due to the nature of our
+shortterm investments, we have concluded that there is no material
+market risk exposure. Therefore, no quantitative tabular disclosures are required. The following
+discusses our exposure to market risk related to changes in interest rates,
+foreign exchange rates and equity prices. Interest rate risk. As of December31, 2000,
+we had $45 million of cash and money market accounts. A decrease in market
+rates of interest would have no material effect on the value of these assets.
+We have no short or longterm debt with variable interest rates.
+Therefore, an increase in market rates would not significantly affect our
+financial results. Foreign currency exchange
+rate risk. We develop and sell all of our products in
+the United States. Therefore, we are not currently exposed to any direct
+foreign currency exchange rate risk. Equity price risk. We do not own any equity
+investments. Therefore, we are not currently exposed to any direct equity price
+risk. Item 8.
+Financial Statements and Supplementary Data.
+REPORT
+OF INDEPENDENT ACCOUNTANTS
+To the
+Stockholders and Board of Directors of Datalink Corporation In our opinion, the accompanying consolidated
+balance sheets and the related consolidated statements of operations,
+stockholders' equity deficiency and cash flows present fairly, in all
+material respects, the financial position of Datalink Corporation and its
+subsidiary as of December31, 1999 and 2000, and the results of their
+operations and their cash flows for each of the three years in the period ended
+December31, 2000, in conformity with accounting principles generally
+accepted in the United States of America. These financial statements are the responsibility
+of the Company management; our responsibility is to express an opinion on
+these financial statements based on our audits. We conducted our audits of
+these statements in accordance with auditing standards generally accepted in
+the United States of America which require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements,
+assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for our opinion.
+As discussed in Note 2 to the consolidated
+financial statements, the Company adopted the provisions of the Securities and
+Exchange Commissions Staff Accounting Bulletin No. 101 relating to revenue
+recognition. s/
+PricewaterhouseCoopers LLP Minneapolis, Minnesota
+February 13, 2001 DATALINK CORPORATION
+CONSOLIDATED BALANCE SHEETS
+In thousands, except share data 
+December 31  
+2000  
+1999  
+Assets
+Current assets:
+Cash and cash equivalents
+$4,542
+$6,515
+Accounts receivable, net
+16,255
+19,272
+Inventories
+8,162
+9,528
+Inventories shipped but
+not installed
+6,790
+-
+Other current assets
+744
+361
+Deferred income taxes
+2,401  
+784  
+Total
+current assets
+38,894
+36,460
+Property and equipment, net
+6,434
+2,496
+Intangibles, net
+10,811
+3,412
+Other
+333  
+47  
+Total assets
+$56,472  
+$42,415  
+Liabilities and
+Stockholders' Equity
+Current liabilities:
+Accounts payable
+$19,664
+$13,695
+Accrued expenses
+4,021
+2,809
+Income taxes payable
+518
+257
+Note payable to former
+stockholder, current portion
+705
+705
+Capital lease obligation,
+current portion
+-
+13
+Deferred compensation,
+current portion
+-
+73
+Distribution payable to S
+corporation stockholders
+-
+744
+Deferred revenue
+2,291  
+931  
+Total current liabilities
+27,199
+19,227
+Note payable to former stockholder, less
+current portion
+704
+1,409
+Obligation for construction in progress
+1,968
+-
+Deferred income taxes
+464  
+648  
+Total liabilities 
+30,335
+21,284
+Commitments and contingencies
+Stockholders' equity:
+Common stock, $0001 par
+value, 50,000,000 shares authorized, 8,895,850 and 8,772,537
+shares issued and outstanding as of December 31, 2000 and
+December 31, 1999, respectively
+9
+9
+Additional paidin
+capital
+19,723
+18,213
+Retained earnings
+6,405  
+2,909  
+Total
+stockholders' equity
+26,137  
+21,131  
+Total
+liabilities and stockholders' equity
+$56,472  
+$42,415  
+The accompanying notes are an integral part
+of the consolidated financial statements. DATALINK CORPORATION
+CONSOLIDATED
+STATEMENTS OF OPERATIONS
+In thousands, except per share data 
+Year
+Ended December 31  
+2000  
+1999  
+1998  
+Net Sales:
+Product sales
+$118,233
+$105,373
+$80,243
+Service sales
+19,536  
+11,230  
+5,849  
+Total net sales
+137,769  
+116,603  
+86,092  
+Cost of sales:
+Cost of product sales
+87,321
+77,623
+60,622
+Cost of services
+14,148  
+8,411  
+3,740  
+Total cost of sales
+101,469  
+86,034  
+64,362  
+Gross profit
+36,300
+30,569
+21,730
+Operating expenses:
+Sales and marketing
+15,230
+11,702
+7,655
+General and administrative
+8,792
+6,883
+5,027
+Engineering
+3,745
+2,594
+1,362
+Amortization of goodwill and other intangibles
+1,026
+807
+376
+Offering costs
+381  
+173  
+733  
+Operating income
+7,126
+8,410
+6,577
+Interest income expense, net
+311  
+141  
+281  
+Income before income taxes and cumulative effect of a change in
+accounting principle
+7,437
+8,269
+6,296
+Income tax expense
+3,049  
+897  
+148  
+Income before cumulative effect of a change in accounting principle
+4,388
+7,372
+6,148
+Cumulative impact of change in accounting principle, net of income
+taxes
+753  
+Net income 
+$3,635  
+$7,372  
+$6,148  
+Net income per share, basic:
+Income per share before cumulative effect of a
+change in accounting principle
+$050
+$101
+$088
+Loss per share from the cumulative effect of a
+change in accounting principle
+009  
+Net income per share 
+$041  
+$101  
+$088  
+Net income per share, diluted:
+Income per share before cumulative effect of a
+change in accounting principle
+$048
+$099
+$088
+Loss per share from the cumulative effect of a
+change in accounting principle
+008  
+Net income per share 
+$040  
+$099  
+$088  
+Weighted average shares outstanding:
+Basic
+8,794
+7,295
+6,993
+Diluted
+9,166
+7,437
+6,993
+The accompanying notes are an integral part
+of the consolidated financial statements. DATALINK CORPORATION
+CONSOLIDATED
+STATEMENT OF STOCKHOLDERS' EQUITY DEFICIENCY
+In thousands, except per share data 
+Common
+Stock  
+Retained
+Shares  
+Amount  
+Additional
+Paidin Capital  
+Earnings
+Accumulated
+Deficit  
+Total  
+Balances, December 31, 1997
+6,900
+$5,999
+$5,999
+Net income
+6,148
+6,148
+Cash dividends of $039 per share
+2,679
+2,679
+Issuance of shares in acquisition Note 11
+200
+-
+$2,000
+2,000
+Cash dividends of $018 per share
+1,264
+1,264
+Accretion of common stock value
+2,000  
+3,185  
+5,185  
+Balances, December 31, 1998
+7,100
+6,979
+6,979
+Net income
+7,372
+7,372
+Cash dividends of $014 per share
+998
+998
+Repurchase of common stock
+1,096
+3,020
+3,020
+Cash dividends of $044 per share
+2,648
+2,648
+Accretion of common stock value
+3,456
+3,456
+Termination of put options
+$6
+22,510
+22,516
+Common shares issued for cash less $2,321 offering costs
+2,702
+3
+18,213
+18,216
+Issuance of additional shares in acquisition Note 11
+67
+Distribution of previously taxed, but undistributed S corporation
+earnings
+9,128
+9,128
+Cash dividend payable to S corporation stockholders
+744  
+744  
+Balances, December 31, 1999
+8,773
+9
+18,213
+2,909
+21,131
+Net income
+3,635
+3,635
+Compensation expense related to stock options 
+122
+122
+Common shares issued under employee stock purchase plan
+44
+388
+388
+Issuance of shares in acquisition Note 11
+79
+1,000
+1,000
+Cash dividend paid to S corporation stockholders
+139  
+139  
+Balances, December 31, 2000
+8,896  
+$9  
+$19,723  
+$6,405  
+$26,137  
+The accompanying notes are an integral part
+of the consolidated financial statements. DATALINK CORPORATION
+CONSOLIDATED
+STATEMENTS OF CASH FLOWS
+In thousands 
+Year Ended December 31  
+2000
+1999
+1998
+Cash flows from operating activities:
+Net income
+$3,635
+$7,372
+$6,148
+Adjustments to reconcile
+net income to net cash provided
+by used in operating
+activities:
+Provision for bad
+debts
+89
+202
+24
+Provision for
+losses on inventories
+1,176
+456
+-
+Cumulative effect
+of change in accounting principle
+754
+-
+-
+Depreciation and
+amortization
+1,471
+1,040
+393
+Amortization of
+intangibles
+1,026
+807
+376
+Stock compensation
+expense 
+122
+-
+-
+Loss on disposal of
+property and equipment
+19
+5
+Deferred income taxes
+1,563
+716
+52
+Changes in operating
+assets and liabilities:
+Accounts receivable
+2,825
+3,844
+1,154
+Inventories
+2,616
+3,289
+413
+Other current
+assets
+117
+97
+143
+Other assets
+35
+3
+3
+Accounts payable
+5,969
+442
+6,023
+Accrued expenses
+1,704
+622
+301
+Income taxes payable
+295
+257
+353
+Deferred
+compensation
+73
+73
+71
+Deferred revenue
+1,360
+293
+383
+Net cash
+provided by operating activities
+10,606
+3,494
+11,470
+Cash flows from investing activities:
+Purchase of property and
+equipment
+3,371
+1,088
+1,141
+Deposit on lease
+arrangement
+500
+-
+-
+Net assets acquired, net
+of cash acquired
+7,495
+-
+3,096
+Net cash used
+in investing activities
+11,366
+1,088
+4,237
+Cash flows from financing activities:
+Proceeds from borrowings
+on line of credit
+5,335
+74,064
+79,119
+Principal payments on
+line of credit
+5,335
+77,274
+80,762
+Proceeds from issuance of
+common stock, net
+388
+18,215
+-
+Distributions paid
+883
+12,774
+3,943
+Payments of notes payable
+to former stockholder
+705
+906
+-
+Principal payments on
+capital lease obligations
+13
+14
+12
+Net cash
+used in provided by financing activities
+1,213
+1,311
+5,598
+Increase decrease in cash and cash
+equivalents
+1,973
+3,717
+1,635
+Cash and cash equivalents, beginning of
+period
+6,515
+2,798
+1,163
+Cash and cash equivalents, end of period
+$4,542
+$6,515
+$2,798
+The accompanying notes are an integral part
+of the consolidated financial statements. DATALINK CORPORATION
+NOTES TO FINANCIAL
+STATEMENTS
+In thousands, except share and per share data
+1. Description of Business Datalink Corporation the
+Company is an independent architect of enterprise-class
+information storage infrastructures. The Company derives its revenues
+principally from designing and installing data storage systems. The Companys
+solutions can include hardware products, such as disk arrays, tape systems,
+interconnection components, and storage management software products.
+2. Summary of Significant Accounting
+Policies Basis of Presentation The consolidated financial statements include
+the accounts of the Company and, from July15, 1998 through
+January3, 1999, its whollyowned subsidiary, Direct Connect
+Systems,Inc. DCSI see Notes 5 and 11. All significant
+inter-company accounts and transactions have been eliminated in consolidation.
+Cash Equivalents Cash equivalents consist principally of money
+market funds with original maturities of three months or less, are readily
+convertible to cash and are stated at cost, which approximates fair value.
+Inventories Inventories, including inventories shipped
+but not installed, principally consist of data storage products and components,
+that are valued at the lower of cost or market with cost determined on a firstin,
+firstout FIFO method.
+Property and Equipment Property and equipment, including purchased
+software, are stated at cost. Depreciation and amortization are provided by
+charges to operations using the straightline method over the estimated
+useful lives of the assets ranging from 3 to 10 years. Leasehold improvements
+are amortized on a straightline basis over the shorter of their
+estimated useful lives or the underlying lease term. The costs and related
+accumulated depreciation and amortization on asset disposals are removed from
+the accounts and any gain or loss is included in operations. Major renewals and
+betterments are capitalized, while maintenance and repairs are charged to
+current operations when incurred.
+Intangibles Identifiable intangible assets and goodwill
+are amortized on a straightline basis over their estimated useful lives
+of 3 to 7 years.
+Valuation of LongLived Assets The Company periodically, at least quarterly,
+analyzes its longlived assets for potential impairment, assessing the
+appropriateness of lives and recoverability of unamortized balances through
+measurement of undiscounted operating cash flows on a basis consistent with
+generally accepted accounting principles.
+Income Taxes Concurrent with the closing of its initial
+public offering on August6, 1999, the Company terminated its status as an
+S corporation. Accordingly, the Company income is subject to state and
+federal income taxes. The Company calculates income taxes in accordance with
+the provisions of SFAS No. 109, Accounting for Income Taxes, which
+requires the use of the liability method of accounting for income taxes. Under
+the liability method, deferred income taxes are recorded to reflect the tax
+consequences in future years of temporary differences between the tax bases of
+assets and liabilities and their financial reporting amounts using enacted tax
+rates for the years in which these items are expected to affect taxable income.
+The Company establishes valuation allowances when necessary to reduce deferred
+tax assets to the amount the Company expects to realize. Income tax expense is
+the tax payable for the period and the change during the period in deferred tax
+assets and liabilities. Revenue Recognition In December 1999, the SEC staff issued Staff
+Accounting Bulletin SAB No101, Revenue
+Recognition, which clarified the SEC staff views regarding the
+recognition and reporting of revenues in certain transactions. In consideration
+of the views expressed in SAB No101 and effective as of January1,
+2000, the Company modified its revenue recognition policy related to products
+when the Company provides any installation or configuration services in
+connection with the sale. The Company now recognizes revenue from hardware and
+software product sales when it completes its installation and configuration
+services or after the customer has accepted products under evaluation. Under the
+transition provisions outlined in SAB No101, the Company accounted for
+this change in accounting policy prospectively as of January1, 2000 and
+recorded a charge to earnings on that date of $753,000 representing the
+cumulative effect, net of $523,000 of income taxes, of the change in accounting
+policy. Prior to January1, 2000, the Company recognized product revenue
+when the hardware and software was shipped to its customers or after they
+accepted products under evaluation.
+The Company recognizes installation and
+consulting service revenue as it renders these services.
+The Company also sells service contracts to
+most of its customers. These contracts are maintenance service agreements,
+which are fulfilled by the Company primarily through underlying maintenance and
+service contracts with hardware and software vendors or their designated
+third-party service providers. Revenues and direct costs resulting from these
+contracts are deferred and amortized into operations over the term of the
+contracts, which are generally twelve months. The Company is contractually
+obligated to provide or arrange to provide these underlying maintenance
+services to its customers in the unlikely event that the hardware or software
+vendor, or its designee, fails to perform according to the terms of its
+contract.
+The following table presents the estimated
+consolidated results of operations of the Company on an unaudited proforma
+basis as if SAB No. 101 guidance had been effective in 1999 and 1998 
+1999
+1998
+In thousands, except per share data
+Net sales 
+$117,770
+$79,172
+Net income 
+$7,628
+$4,626
+Net income per share, basic 
+$104
+$066
+Net income per share, diluted 
+$103
+$066
+Net sales, gross profit, net income and net
+income per share for the fourth quarter of 1999 would have been approximately
+$333 million, $88 million, $22 million and $031, respectively on an
+unaudited proforma basis if SAB No. 101 had been effective in that period.
+Offering Costs The Company initially deferred costs related
+to its initial public offering incurred during 1998 and the first quarter of
+1999 totaling $733,000 and $173,000, respectively. The Company expensed these costs during the third quarter of 1998
+and the first quarter of 1999, respectively, when the offering was delayed due
+to market conditions.
+On
+March 7, 2000, the Company filed a registration
+statement with the SEC for a second public offering of 2,500,000 shares of its
+common stock. On May 15, 2000, the Company withdrew this registration statement
+due to market conditions. As required, the Company expensed the previously
+deferred costs of $381,000 related to the offering.
+Net Income Per Share Basic net income per share is computed using
+the weighted average number of shares outstanding. Diluted net income per share
+includes the effect of common stock equivalents, if any, for each period. There
+were no common stock equivalents outstanding in 1998. In 1999 and 2000, the
+Company granted stock options, which have been included in the computation of
+diluted earnings per share, increasing the weighted average number of shares
+outstanding by 141,847 and 371,880 shares, respectively.
+Use of Estimates The preparation of financial statements in
+conformity with generally accepted accounting principles requires management to
+make estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the reporting period. Actual results could differ from those estimates. Business Segments and Major Customer The Company views its operations and manages
+its business as one segment, the design and installation of highend
+enterprise-class information storage solutions. Factors used to identify the
+Company single operating segment include the organizational structure of the
+Company and the financial information available for evaluation by the chief
+operating decision maker in making decisions about how to allocate resources
+and assess performance. During 1999 and 2000, net sales to one customer totaled
+13% and 15% of total net sales, respectively.
+Comprehensive Income The Company comprehensive income is equal
+to its net income for all periods presented.
+Other Recently Issued Accounting
+Standards In June 1999, the FASB issued Statement of
+Accounting Standards No. 137, Accounting for Derivative Instruments and
+Hedging Activities Deferral of the Effective Date of FASB Statement No.
+133. SFAS No. 133 establishes accounting
+and reporting standards for derivative instruments, including derivative
+instruments embedded in other contract, and for hedging activities. SFAS 137 as amended by SFAS No. 138 is
+effective for the Company in the first quarter of the year beginning January 1,
+2001. The Company does not expect
+adoption of SFAS 133 to have a material impact on the Companys consolidated
+financial position or results of operations.
+3. Selected Balance Sheet Information The following provides additional balance sheet
+information as of the years ended December 31 2000, and 1999 
+December 31,
+2000
+1999
+In thousands
+Accounts receivable:
+Accounts receivable
+$16,180
+$19,347
+Less allowance for
+doubtful accounts
+75
+75
+$16,255
+$19,272
+Property and equipment:
+Land
+$384
+-
+Construction in progress
+1,968
+-
+Leasehold improvements
+442
+$417
+Equipment
+2,950
+1,409
+Computers and software
+4,404
+2,913
+10,148
+4,739
+Less accumulated depreciation and
+amortization
+3,714
+2,243
+$6,434
+$2,496
+In August 2000, the Company purchased the
+land adjacent to its new corporate headquarters for $384,000. The construction in progress of $1,968,000
+represents payments made by the developer for the construction of the Companys
+new corporate headquarters as of December 31, 2000 to be leased by the Company
+beginning in May 2001. A corresponding
+obligation for construction in progress of $1,968,000 was recorded as a liability
+as of December 31, 2000. See Note 7 of
+the Notes to our Consolidated Financial Statements.
+December 31,
+2000
+1999
+In thousands
+Intangibles:
+Customer lists
+$4,300
+$700
+Noncompetition agreements
+500
+500
+Assembled workforce
+1,190
+490
+Trademark and tradename
+450
+450
+Goodwill
+6,580
+2,455
+13,020
+4,595
+Less accumulated amortization
+2,209
+1,183
+$10,811
+$3,412
+Accrued expenses:
+Commissions
+$1,781
+$1,852
+Sales and use tax payable
+1,166
+90
+Other
+1,074
+867
+$4,021
+$2,809
+4.
+Borrowing Arrangements Effective June 30, 2000, the Company entered
+into a revolving credit agreement the
+Credit Agreement with a bank for one year.
+Under the terms of the Credit Agreement, the Company may borrow up to
+$10 million to be used for financing potential acquisitions, and $5 million for
+financing working capital needs. Borrowings under the Credit Agreement are
+collateralized by substantially all assets of the Company and generally bear
+interest at the LIBOR rate minus one percent LIBOR rate was 65% at December
+31, 2000. The Credit Agreement includes various covenants, including
+requirements to maintain certain levels of net income, tangible net worth, net
+working capital, funded debt to EBITDA, and limitations on property and equipment
+acquisitions. Prior to June 30, 2000,
+the Company bank revolving credit agreement, with the same bank, provided for
+borrowings of up to $100 million.
+There were no borrowings under the credit agreement as of
+December31, 1999 and 2000.
+The Company capital lease obligations
+consisted of capital leases for office equipment with an outstanding balance at
+December 31, 1999 totaling $13,000, all of which was paid in 2000.
+5. Income Taxes
+Significant components of the provision
+benefit for income taxes are as follows 
+Year Ended December 31,
+2000
+1999
+1998
+In thousands
+Current:
+Federal
+$4,072
+$1,267
+$173
+State
+540
+346
+27
+Total current
+tax provision
+4,612
+1,613
+200
+Deferred:
+Federal
+1,380
+61
+45
+State
+183
+11
+7
+Change in tax statusDCSI
+-
+580
+-
+Termination of S
+corporation
+-
+86
+-
+Total
+deferred tax benefit
+1,563
+716
+52
+Total income taxes
+$3,049
+$897
+$148
+The above table excludes a $523,000 income
+tax benefit allocated to and offset against the cumulative effect of a change
+in accounting principle as discussed in Note 2. 
+As of
+December31, 1998, DCSI was a C corporation and accordingly, was subject
+to corporate income taxes. A provision for taxes resulting from the taxable
+income of DCSI for the period from July15, 1998 through December31,
+1998 is included in the Company consolidated financial statements. Effective
+January4, 1999, DCSI merged into the Company and, therefore, became part
+of the S corporation. Accordingly, effective January4, 1999, none of the
+consolidated income of the Company was subject to corporate income taxes and
+all of the deferred tax assets and liabilities described below were eliminated. This resulted in a onetime tax
+benefit of $580,000 which is recorded as an offset against the Company net
+income tax expense for the year ended December31, 1999. On August6, 1999, the Company
+terminated its status as an S corporation and established an $86,000 net
+deferred tax asset and recorded a related income tax benefit.
+Significant components of the Company
+deferred tax assets and liabilities are as follows 
+Year Ended December
+31,
+2000
+1999
+In thousands
+Deferred tax assets:
+Deferred revenue
+$2,135
+$357
+Inventories
+102
+219
+Accounts receivable
+allowances
+106
+106
+Intangibles 
+251
+-
+Other
+58
+102
+Total
+deferred tax assets
+2,652
+784
+Deferred tax liabilities:
+Intangibles
+345
+462
+Property and equipment
+118
+186
+Total
+deferred tax liabilities
+464
+648
+Net deferred tax asset
+$2,188
+$136
+The reconciliation of the U.S. federal
+statutory tax rate to the Company effective income tax rate is as follows 
+2000
+1999
+1998
+Tax at U.S. statutory rates
+340%
+340%
+340%
+State income taxes, net of Federal benefit
+45
+49
+33
+Taxable income allocated to S corporation
+stockholders
+-
+229
+380
+Effect of changes in tax status on deferred
+taxes
+-
+87
+-
+Other
+25
+35
+29
+Effective tax rate
+410%
+108%
+22%
+6. Deferred Compensation Agreement The Company had a deferred compensation
+agreement with a retired officer who is also a stockholder. The Company was
+obligated to pay the retired officer or a designated beneficiary $7,000 per
+month for 60 months beginning January1996. The Company obligation under
+the agreement was not funded. The value
+of the Companys liability related to the deferred compensation agreement as of
+December 31, 1999, was $73,000 with interest computed at 10%. As of December 31, 2000, all amounts due
+under the agreement had been paid.
+Interest expense related to the agreement was
+$20,000, $11,000 and $4,000 for the years ended December31, 1998, 1999
+and 2000, respectively.
+7. Lease Commitments The Company has 24 office locations
+throughout the United States. Each of
+these locations is a leased facility under a non-cancelable operating lease
+agreement.
+The Company leases its headquarters and
+attached warehouse facility under terms of an operating lease with a
+partnership in which a majority of the limited partners are stockholders of the
+Company. In
+the first quarter of 1999, the Company extended this lease agreement through
+December2002. The extended agreement provides for options to extend the
+lease for two additional three year terms at the option of the Company.
+As of December31, 2000, future minimum
+lease payments due under non-cancelable operating leases are as follows 
+Year Ended
+Related Party
+Other
+Total
+In thousands
+2001
+$190
+$714
+$904
+2002
+190
+221
+411
+2003
+-
+161
+161
+2004
+-
+234
+234
+2005
+-
+168
+168
+$380
+$1,498
+$1,878
+The Company has signed a 15-year capital lease,
+commencing in May 2001 for a 102,000 square foot mixed office and warehouse
+facility, which is being constructed by a third-party developer. This building will function as its corporate
+headquarters. The lease provides for
+base rental payments of approximately $10 million for the first twelve months
+and a 2% increase for each subsequent 12-month period. In addition, the Company
+is responsible for all executory costs necessary to operate the facility. Based on the terms of the agreement, which
+obligate the Company to fund certain construction period costs, the Company has
+determined that it is, for accounting purposes, the owner of the asset during
+the construction period, pursuant to the guidance outlined in EITF Issue No.
+97-10. As a result, the Company is
+recording the developer construction costs as an asset and related liability
+during the construction period. As of
+December 31, 2000, $20 million of such costs had been capitalized. At the inception of the lease, these amounts
+will be adjusted to the present value of minimum lease payments to properly
+reflect the leased facility. Total rent expense, including certain lessor operating
+costs charged to the Company, is as follows 
+Year Ended December 31,
+2000
+1999
+1998
+In thousands
+Related party
+$323
+$317
+$233
+Other
+792
+438
+219
+$1,115
+$755
+$452
+8. Employee Benefit Plan The Company has a defined contribution
+retirement plan for eligible employees. Employees may contribute up to 10% of
+their pretax compensation to the 401k portion of the plan. The Company is
+required to match 50% of an employee contribution up to the first 6% of an
+employee eligible compensation. The cost of the Company contributions to
+the 401k portion of the plan for 1998, 1999 and 2000, was $158,000, $270,000, and $349,000 respectively.
+Prior to the initial public offering on
+August 6, 1999 at the discretion of the Board of Directors, the Company was
+also able to make profit sharing contributions to the plan, to the extent
+permitted by the Internal Revenue Code. The cost of the Company profit
+sharing contributions to the plan for 1998 and 1999, was $311,000 and $317,000,
+respectively.
+9. Common Stock BuySell Agreement Prior to the Company initial public
+offering the Offering, the Company and all of its stockholders
+had entered into Stock Purchase Agreements the Agreements that
+restricted the right of each stockholder to dispose of or encumber any shares
+of the Company common stock and dictated terms for transfer of the shares.
+Upon the death, disability or termination of employment, each stockholder was
+required to put his or her shares to the Company, and the Company was obligated
+to purchase all shares owned by that stockholder at a price determined pursuant
+to terms of the Agreements. In connection therewith, the value of the common
+stock subject to put options had been accreted to the value determined
+according to terms of the Agreements. Effective November1, 1996, one of
+the Agreements was amended to allow a retired stockholder to retain his shares
+until either he or his legal representative require the Company to purchase his
+shares, or until his death. In connection with the Offering and pursuant
+to accounting rulesand regulations applicable to public companies, the
+Company adjusted its financial statements to reclassify the carrying value of
+common stock pursuant to the Agreements out of stockholders' equity. The effect
+of this adjustment was to increase the carrying value of common stock subject
+to the put options, and decrease stockholders' equity by $214 million as of
+December31, 1998. Effective August6, 1999, in conjunction with the
+Offering, the put options were terminated and the carrying value of the common
+stock subject to the put options totaling $225 million was reclassified to
+stockholders' equity.
+Effective February28, 1999, the Company
+redeemed 1,095,720 shares held by a former stockholder under terms of the
+Agreements. Pursuant to the terms of the Agreements, the Company has issued a
+$3 million note payable to this former stockholder. The note provides for
+interest on the outstanding balance at the prime rate beginning August28,
+1999. Principal payments of $906,000 and $705,000 were made on August28,
+1999, and February 28, 2000 respectively with the remaining principal balance
+due in two installments of $705,000 plus any accrued interest on
+February28, 2001 and 2002. As of December31, 1999 and 2000, the
+Company is the owner and beneficiary of a term life insurance policy with a
+face value of $21 million and $14 million, respectively insuring the life of
+this stockholder.
+10. Stockholders' Equity Recapitalization During 1999, the Company completed the
+Offering of 2,701,590 shares of its common stock. On June1, 1998, in
+contemplation of the Offering, the Company Board of Directors and
+stockholders approved an amendment to the Company Certificate of
+Incorporation to increase the number of authorized shares of common stock to
+50,000,000 and to change the par value of the common stock to $0001. Pursuant
+to the Company amended Certificate of Incorporation, all such authorized
+shares are deemed to be common stock until otherwise designated by the Board of
+Directors. Also on June1, 1998, the Company Board of Directors and
+stockholders authorized a 690for1 stock split of its common
+stock. The stock split has been retroactively reflected in the accompanying
+financial statements.
+Stock Compensation Plans In connection with the Offering, the Company
+reserved an aggregate of 1,350,000 shares of common stock for issuance pursuant
+to the Company Incentive Compensation Plan the Incentive Plan.
+The terms of the plan allow for a variety of awards including incentive stock
+options, nonqualified stock options, stock appreciation rights, restricted
+stock, performance shares, performance units, cashbased awards, phantom
+shares and other sharebased awards as determined by the Company
+Compensation Committee the Committee.
+The Company has also reserved 250,000 shares
+of common stock for issuance pursuant to the Company Employee Stock Purchase
+Plan. Under terms of the Employee Stock Purchase Plan, eligible employees may
+designate up to 10% of their compensation to be withheld through payroll
+deductions and will be granted an option to purchase a designated number of
+shares of common stock at a purchase price determined by the Committee, but at
+no less than 85% of the lower of the market price on the first or last day of
+the purchase period.
+In August 2000, the Board of Directors
+adopted the 2000 Director Stock Option Plan the Director Plan,
+subject to shareholder approval. The
+terms of the Director Plan allow for stock option grants to non-employee
+members of the Board of Directors.
+During 2000, the Company granted 7500 options to purchase common stock
+of the Company to participating Directors.
+Stock Options The following table summarizes activity under
+the companys stock option plans 
+Number
+of
+Shares
+Outstanding
+Options
+Range of
+Exercise Prices
+Weighted
+Average
+Exercise Price
+Balance, December 31, 1998
+-
+-
+-
+Options granted 
+824,350
+$750 - $1963
+$796
+Options exercised 
+-
+-
+-
+Options cancelled 
+82,125
+$750
+$750
+Balance, December 31, 1999
+742,225
+$750 - $1963
+$802
+Options granted
+480,932
+$850 - $2538
+$1598
+Options exercised
+488,432
+$750
+$750
+Options cancelled 
+148,915
+$750 - $2538
+$1182
+Balance, December 31, 2000 
+1,051,791
+$750 - $2538
+$1119
+Options exercisable as of December 31, 2000 
+183,941
+$750 - $2088
+$824
+The following is a summary of options
+outstanding at December31, 2000 
+Stock Options
+Range of Exercise Price Per Share
+Weighted Average Exercise Price Per Share
+Weighted Average Remaining Contractual Life
+Years
+533,910
+$750
+$750
+86
+43,250
+$751 - $1015
+$794
+87
+146,825
+$1016 - $1269
+$1183
+94
+76,425
+$1270 - $1523
+$1431
+93
+22,600
+$1524 - $1776
+$1661
+92
+221,781
+$1777 - $2030
+$1829
+91
+3,500
+$2031 - $2284
+$2088
+91
+3,500
+$2285 - $2538
+$2538
+92
+1,051,791
+$750 - $2538
+$1119
+89
+In accordance with SFAS No. 123, Accounting for StockBased
+Compensation, the Company has chosen to account for stockbased
+compensation to employees using the intrinsic value method prescribed in
+Accounting Principles Board Opinion No. 25, Accounting for Stock Issued
+to Employee, and related interpretations. Accordingly, compensation cost
+for stock options granted to employees is measured as the excess, if any, of
+the fair value of the Company common stock at the date of the grant over the
+amount an employee must pay to acquire the stock.
+During 1999 and 2000, the Company issued
+182,700 options with an exercise price below the fair market value of common
+stock at the date of grant. The
+intrinsic value of the options is being recorded to compensation expense over
+the vesting period, generally four years.
+During 2000, $122,000 of compensation expense was recorded related to
+these options. As of December 31, 2000,
+there was $365,000 of compensation expense related to these options that will
+be recognized in future periods.
+Had compensation expense for the Company
+stockbased compensation plans been determined based on the fair value at
+the grant dates consistent with the method of SFAS No. 123, the Company net
+income and basic income per share would have been reduced to the pro forma
+amounts indicated below 
+2000
+1999
+In thousands, except for per share data
+Net income:
+As
+reported
+$3,635
+$7,372
+Pro
+forma
+$3,023
+$6,821
+Basic earnings per share
+As
+reported
+$041
+$101
+Pro
+forma
+$034
+$094
+Diluted earnings per share
+As
+reported
+$040
+$099
+Pro
+forma
+$033
+$092
+The weightedaverage fair value per
+option at the date of grant for options granted in 2000 was $1229. The fair
+value was estimated using the BlackScholes option pricing model with the
+following weighted average assumptions for fiscal 1999 
+2000
+1999
+Riskfree
+interest rates
+536%
+- 657%
+597%
+- 649%
+Expected dividend yield
+0
+0
+Expected volatility factor
+9532%
+80%
+Expected option holding period
+5
+years
+5
+years
+11. Business Acquisitions OpenSystems.com, Inc On November
+10, 2000, the Company acquired certain assets of the data storage and service
+business of OpenSystems.com, Inc., a Walpole, Massachusetts-based firm engaged
+in the resale and installation of data storage solutions.
+Under
+the terms of the sale agreement, the company agreed to pay $7 million in cash
+and issue 79,177 shares of its common stock for these assets. Additionally, the
+Company is required to pay $25 million of cash consideration to the seller if
+certain revenue targets are met in 2001. The acquisition was accounted for using the
+purchase method of accounting. Accordingly, the Company allocated the purchase
+price to the estimated fair value of the assets acquired and liabilities
+assumed. The results of operations of
+OpenSystems.com, Inc. have been included with the operating results of the
+Company beginning November 13, 2000.
+The following table presents the purchase price allocation of the
+acquired, identifiable intangible assets 
+Cash and
+fair value of Company common stock issued
+$8,000
+Direct acquisition costs
+495
+Total purchase price
+$8,495
+Estimated fair value of tangible assets
+acquired
+$70
+Estimated fair value of identifiable
+intangible assets
+4,300
+Goodwill
+4,125
+$8,495
+The purchase price allocated to intangible
+assets and goodwill and their respective amortization periods are as follows 
+Allocation
+Estimated
+Life
+Customer base
+$3,600
+5 years
+Assembled workforce
+700
+4 years
+Goodwill
+4,125
+7 years
+The following unaudited pro forma condensed
+results of operations have been prepared to give effect to the acquisition of
+the data and service business of OpenSystems.com, Inc. as if the acquisition
+occurred as of the beginning of January 1, 1999 
+Year
+Ended December 31,
+2000
+1999
+Net sales
+$156,742
+$126,165
+Net income
+$5,833
+$6,515
+Net income per share, basic
+$066
+$089
+Net income per share, diluted 
+$064
+$088
+The unaudited pro forma condensed results of
+operations are not necessarily indicative of results that would have occurred
+had the acquisitions been in effect for the periods presented, nor are they
+necessarily indicative of the results that will be obtained in the future.
+Direct Connect
+Systems, Inc. On July15, 1998, the Company acquired
+DCSI, a Marietta, Georgiabased firm engaged in the analysis, custom
+design, integration and support of highend data storage solutions principally
+for customers located in the Southeastern portion of the United States. In
+addition to its Marietta headquarters, DCSI had field sales offices in Herndon,
+Virginia, Charlotte, North Carolina, and Melbourne and Tampa, Florida.
+Under terms of the acquisition, the Company
+acquired all of DCSI capital stock in exchange for $2 million cash and
+200,000 shares of the Company common stock, with a negotiated fair value of
+$2 million. In order to maintain the fair value of the common stock at $2 million
+and under the terms of the agreement, an additional 66,667 shares were issued
+in 1999 as the completed Offering price was less than $1000 per share. Such
+adjustment in the number of shares issued was reflected in stockholders' equity
+and did not affect the originally recorded cost of the DCSI acquisition. Under
+terms of the acquisition, certain DCSI employees were also paid an aggregate of
+$500,000 under noncompetition agreements.
+The acquisition was accounted for using the
+purchase method of accounting. Accordingly, the purchase price was allocated to
+the estimated fair value of the assets acquired and liabilities assumed. The
+results of operations of DCSI have been included with the operating results of
+the Company beginning on July15, 1998.
+The following table presents the purchase
+price allocation of the acquired, identifiable intangible assets of DCSI 
+Cash and
+fair value of Company common stock issued
+$4,000
+Direct acquisition costs
+677
+DCSI liabilities assumed
+3,960
+Total purchase price
+$8,637
+Estimated fair value of tangible assets
+acquired
+$5,154
+Estimated fair value of identifiable
+intangible assets
+1,640
+Goodwill
+2,455
+Deferred tax liabilities related to
+identifiable intangibles
+612
+$8,637
+The purchase price allocated to intangible
+assets and goodwill and their respective amortization periods are as follows 
+Allocation
+Estimated Life
+In thousands
+Customer base
+$700
+5
+years
+Assembled workforce
+490
+5
+years
+Trademark and tradename
+450
+7
+years
+Goodwill
+2,455
+7
+years
+The $500,000 cost of noncompetition
+agreements has been capitalized and will be amortized on a straight line basis
+over their underlying three year terms.
+12. Supplemental Cash Flow Information The following provides supplemental
+information concerning the statements of cash flows 
+Year Ended December 31,
+2000
+1999
+1998
+Cash paid for interest
+$95
+$251
+$295
+Cash paid for income taxes
+4,000
+1,400
+549
+Significant noncash financing and investing
+transactions:
+-
+-
+-
+Stock
+issued to purchase certain assets of OpenSystems.com, Inc.
+1,000
+Stock
+issued to purchase DCSI
+-
+67
+2,000
+Obligation
+for construction in progress
+1,989
+-
+-
+Repurchase
+of stock in exchange for note
+-
+3,020
+-
+13. Unaudited Quarterly Financial
+Information 
+In thousands
+2000
+unaudited
+March
+31
+June 30
+Sept 30
+Dec 31
+Net sales
+$ 27,998
+$ 34,911
+$ 36,292
+$ 38,568
+Gross profit
+7,686
+9,840
+8,639
+10,135
+Operating income
+1,481
+2,261
+2,566
+818
+Net income
+166 
+1,406
+1,561
+502
+Net income per share - Basic
+010
+016
+018
+006
+Net income per share Diluted
+010
+015
+017
+006
+In thousands
+1999
+unaudited
+March
+31
+June
+30
+Sept
+30
+Dec
+31
+Net sales
+$ 25,434
+$ 29,322
+$ 30,282
+$ 31,565
+Gross profit
+6,508
+7,615
+8,024
+8,422
+Operating income
+1,353
+2,105
+2,385
+2,567
+Net income
+1,835 
+1,957
+1,720
+1,860
+Net income per share - Basic
+027
+033
+022
+021
+Net income per share Diluted
+027
+033
+022
+020
+Item 3.
+Legal Proceedings.
+We are not currently involved in any material
+legal proceedings. We also had no material legal proceedings that terminated
+during the fourth quarter of 2000.
+Item 4.
+Directors and Executive Officers of the Registrant.
+The information regarding executive officers
+required by Item 401 of Regulation SK is included in Executive
+Officers of the Registrant in Part I of this form and is incorporated
+herein by reference. In addition, we will furnish to the Securities and
+Exchange Commission a definitive Proxy Statement the Proxy
+Statement not later than 120 days after the close of the fiscal year
+ended December31, 2000. The information required by Item 405 of
+Regulation SK is incorporated herein by reference to the Proxy
+Statement. Item 3.
+Legal Proceedings.
+We are not currently involved in any material
+legal proceedings. We also had no material legal proceedings that terminated
+during the fourth quarter of 2000.
+Item 4.
+Security Ownership of Certain Beneficial Owners and Management.
+The information set forth under the caption
+Outstanding Voting Securities and Voting Rights in the Company
+2000 Proxy Statement is incorporated herein by reference.

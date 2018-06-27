@@ -1,0 +1,1683 @@
+ITEM 8 Financial Statements and Supplementary Data
+Index to Financial Statements:
+Page
+Report of Independent Registered Public Accounting Firm 
+39
+Consolidated Balance Sheets at December 31, 2009 and 2008 
+40
+Consolidated Statements ofOperations for the Years Ended December 31, 2009, 2008 and 2007 
+41 
+Consolidated Statements of Changes in Stockholders Equity for the Years Ended
+December 31, 2009, 2008 and 2007
+42
+Consolidated Statements of Cash Flows for the Years Ended
+December 31, 2009, 2008 and 2007
+43
+Notes to Consolidated Financial Statements 
+44
+Index to Financial Statement Schedule:
+Schedule II Valuation and qualifying accounts
+Allowance for doubtful accounts
+69
+Valuation allowance for note receivable
+69
+Valuation allowance for deferred tax assets 
+70 38 Table of contents
+Report of Independent Registered Public Accounting Firm
+To the Board of Directors and Stockholders of Performance Technologies, Incorporated:
+In our opinion, the consolidated financial statements listed in the accompanying index present fairly, in all material respects, the financial position of Performance Technologies, Incorporated and their subsidiaries at December 31, 2009 and 2008, and the results of their operations and their cash flows for each of the three years in the period ended December 31, 2009 in conformity with accounting principles generally accepted in the United States of America. In addition, in our opinion, the financial statement schedule listed in the accompanying index presents fairly, in all material respects, the information set forth therein when read in conjunction with the related consolidated financial statements. These financial statements and financial statement schedule are the responsibility of the Companys management. Our responsibility is to express an opinion on these financial statements and financial statement schedule based on our audits. We conducted our a
+udits of these statements in accordance with the standards of the Public Company Accounting Oversight Board United States. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, and evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion.   /s/ PricewaterhouseCoopers LLP
+Rochester, New York
+March 9, 2010 39 Table of contents   
+PERFORMANCE TECHNOLOGIES, INCORPORATED AND SUBSIDIARIES 
+CONSOLIDATED BALANCE SHEETS
+ASSETS
+December 31   
+2009
+2008
+Current assets:
+Cash and cash equivalents
+$
+17,563,000
+$
+29,218,000
+Investments Note B
+7,533,000
+2,450,000
+Accounts receivable, net
+6,542,000
+6,677,000
+Inventories
+4,459,000
+5,303,000
+Prepaid income taxes
+24,000
+299,000
+Prepaid expenses and other assets
+820,000
+796,000
+Deferred taxesNote L
+392,000
+1,841,000
+Fair value of foreign currency hedge contractsNote O
+201,000
+107,000
+Total current assets
+37,534,000
+46,691,000
+Investments Note B
+4,239,000
+1,797,000
+Property, equipment and improvements, net
+1,686,000
+2,069,000
+Software development costs, netNote M
+5,254,000
+3,840,000
+Deferred taxesNote L
+176,000
+778,000
+Goodwill
+4,143,000
+Total assets
+$
+48,889,000
+$
+59,318,000
+LIABILITIES AND STOCKHOLDERS EQUITY
+Current liabilities:
+Accounts payable
+$
+1,013,000
+$
+922,000
+Accrued expensesNote G
+4,195,000
+4,549,000
+Total current liabilities
+5,208,000
+5,471,000
+Income taxes payable
+65,000
+400,000
+Total liabilities
+5,273,000
+5,871,000
+Commitments and contingencies Notes H and P
+Stockholders equity:
+Preferred stock - $01 par value: 1,000,000shares authorized; none issued
+Common stock - $01 par value: 50,000,000 authorized; 13,304,596
+shares issued; 11,116,397 and 11,216,397shares outstanding, respectively
+133,000
+133,000
+Additional paid-in capital
+16,596,000
+16,052,000
+Retained earnings
+36,577,000
+46,689,000
+Accumulated other comprehensive income
+128,000
+73,000
+Treasury stock at cost; 2,188,199 and 2,088,199 shares held, respectively
+9,818,000
+9,500,000
+Total stockholders equity
+43,616,000
+53,447,000
+Total liabilities and stockholders equity
+$
+48,889,000
+$
+59,318,000
+The accompanying notes are an integral part of these consolidated financial statements.
+40 Table of contents   
+PERFORMANCE TECHNOLOGIES, INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+Year Ended December 31   
+2009
+2008
+2007
+Sales
+$
+29,491,000
+$
+40,517,000
+$
+40,319,000
+Cost of goods sold
+13,793,000
+17,689,000
+18,537,000
+Software capitalization write-off Note N
+76,000
+520,000
+Gross profit
+15,698,000
+22,752,000
+21,262,000
+Operating expenses:
+Selling and marketing
+7,152,000
+8,251,000
+6,824,000
+Research and development
+7,796,000
+9,043,000
+9,854,000
+General and administrative
+4,642,000
+4,742,000
+4,833,000
+Restructuring chargesNote Q
+626,000
+393,000
+Impairment of goodwill and long-lived assets Note F
+4,278,000
+Unsuccessful acquisition expenses
+229,000
+Total operating expenses
+24,494,000
+22,265,000
+21,904,000
+Loss incomefrom operations
+8,796,000
+487,000
+642,000
+Other income, net
+444,000
+987,000
+2,129,000
+Gain on sale of investment Note S
+305,000
+Note receivable recovery Note S
+143,000
+Loss income before income taxes
+8,352,000
+1,474,000
+1,935,000
+Income tax provisionbenefit
+1,760,000
+189,000
+121,000
+Net loss income
+$
+10,112,000
+$
+1,663,000
+$
+1,814,000
+Basic loss earnings per share
+$
+91
+$
+014
+$
+014
+Diluted earnings per share
+$
+014
+$
+014
+Weighted average number of common shares
+used in basic loss earnings per share
+11,129,548
+11,600,931
+12,580,602
+Potential common shares
+10,569
+45,582
+Weighted average number of common shares
+used in diluted earnings per share
+11,611,500
+12,626,184
+The accompanying notes are an integral part of these consolidated financial statements. 41 Table of contents   
+PERFORMANCE TECHNOLOGIES, INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+FOR THE YEARS ENDED DECEMBER 31, 2009, 2008 AND 2007
+Accumulated
+Additional
+Other
+Common Stock
+Paid-in
+Retained
+Treasury
+Comprehensive
+Shares
+Amount
+Capital
+Earnings
+Stock
+Income
+Total
+Balance -
+January 1, 2007
+13,277,201
+$
+133,000
+$
+14,699,000
+$
+43,435,000
+$
+-
+$
+$
+58,267,000
+Comprehensive income:
+2007 net income
+1,814,000
+1,814,000
+Total comprehensive income
+1,814,000
+Purchases of 1,632,600
+treasury shares
+8,015,000
+8,015,000
+Stock compensation
+expense
+678,000
+678,000
+Exercise of 40,215 options
+27,395
+106,000
+15,000
+64,000
+155,000
+Change in accounting
+principle
+3,000
+3,000
+Balance -
+December 31, 2007
+13,304,596
+133,000
+15,483,000
+45,231,000
+7,951,000
+52,896,000
+Comprehensive income:
+2008 net income
+1,663,000
+1,663,000
+Unrealized gain on foreign
+currency hedge contracts,
+net of taxof $34,000
+73,000
+73,000
+Total comprehensive income
+1,736,000
+Purchases of 623,880
+treasury shares
+2,342,000
+2,342,000
+Stock compensation
+expense
+569,000
+569,000
+Exercise of 178,491 options
+205,000
+793,000
+588,000
+Balance -
+December 31, 2008
+13,304,596
+133,000
+16,052,000
+46,689,000
+9,500,000
+73,000
+53,447,000
+Comprehensive income:
+2009 net loss
+10,112,000
+10,112,000
+Unrealized gain on foreign
+currency hedge contracts   
+net of tax of $39,000
+55,000
+55,000
+Total comprehensive loss
+10,057,000
+Purchase of 100,000
+treasury shares
+318,000
+318,000
+Stock compensation
+expense
+544,000
+544,000
+Balance -
+December 31, 2009
+13,304,596
+$
+133,000
+$
+16,596,000
+$
+36,577,000
+$
+9,818,000
+$
+128,000
+$
+43,616,000
+The accompanying notes are an integral part of these consolidated financial statements.
+42 Table of contents   
+PERFORMANCE TECHNOLOGIES, INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Year Ended December 31   
+2009
+2008
+2007
+Cash flows from operating activities:
+Net loss income
+$
+10,112,000
+$
+1,663,000
+$
+1,814,000
+Non-cash adjustments:
+Depreciation and amortization
+2,546,000
+2,326,000
+2,191,000
+Stock-based compensation expense
+544,000
+569,000
+678,000
+Impairment of goodwill and long-lived assets
+4,278,000
+Provision for bad debts
+226,000
+4,000
+27,000
+Gain on sale of investment
+305,000
+Non-cash intangible asset write-off
+76,000
+520,000
+Gain loss on disposal of assets
+58,000
+7,000
+16,000
+Deferred taxes
+2,012,000
+580,000
+288,000
+Changes in operating assets and liabilities:
+Accounts receivable
+361,000
+1,260,000
+1,601,000
+Inventories
+844,000
+520,000
+895,000
+Prepaid expenses and other assets
+24,000
+120,000
+110,000
+Accounts payable and accrued expenses
+263,000
+346,000
+55,000
+Income taxes payable and prepaid income taxes
+60,000
+7,000
+141,000
+Net cash used provided by operating activities
+158,000
+5,738,000
+7,749,000
+Cash flows from investing activities:
+Purchases of property, equipment and improvements
+479,000
+613,000
+822,000
+Capitalized software development costs
+2,273,000
+2,122,000
+2,064,000
+Acquired technology
+928,000
+Purchases of investments
+15,479,000
+9,323,000
+88,650,000
+Proceeds from sales of investments
+7,920,000
+21,700,000
+96,721,000
+Proceeds from sale of equipment
+60,000
+Net cash used providedby investing activities
+11,179,000
+9,642,000
+5,185,000
+Cash flows from financing activities:
+Purchase of treasury stock
+318,000
+2,342,000
+8,015,000
+Exercise of stock options
+588,000
+155,000
+Net cash usedby financing activities
+318,000
+1,754,000
+7,860,000
+Net decrease increasein cash and cash equivalents
+11,655,000
+13,626,000
+5,074,000
+Cash and cash equivalents at beginning of year
+29,218,000
+15,592,000
+10,518,000
+Cash and cash equivalents at end of year
+$
+17,563,000
+$
+29,218,000
+$
+15,592,000
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+Net income taxes refunded
+$
+224,000
+$
+724,000
+$
+72,000
+Non-cash financing activity:
+Exercise of stock options using 23,030 shares
+of common stock
+$
+-
+$
+105,000
+$
+-
+The accompanying notes are an integral part of these consolidated financial statements.
+43 Table of contents   PERFORMANCE TECHNOLOGIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note A - Nature of Business and Summary of Significant Accounting Policies
+The Company: Performance Technologies, Incorporated the Company was formed in 1981 under the laws of the State of Delaware and maintains its corporate offices in Rochester, New York. The Company is a global supplier of advanced network communications solutions to carrier, government and OEM markets.
+Principles of Consolidation: The consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries. All significant inter-company transactions have been eliminated.
+Foreign Currency Translation: The U.S. dollar is the functional currency of the Companys foreign subsidiaries. Monetary assets and liabilities are re-measured at year-end exchange rates. Non-monetary assets and liabilities are re-measured at historical rates. Revenues, expenses, gains and losses are remeasured using the rates on which those elements were recognized during the period.
+Use of Estimates: The preparation of the consolidated financial statements in conformity with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at year-end and the reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates.
+Concentration of Credit Risk: Financial instruments that potentially expose the Company to significant concentrations of credit risk consist principally of bank deposits, investments, and accounts receivable. Investments consist of high quality, interest bearing financial instruments. Included in cash and cash equivalents at December 31, 2009 are $109 million of AAA-rated money market funds and $68 million of deposits with one AA- -rated Canadian bank.
+The Company performs ongoing credit evaluations of its customers' financial condition and maintains an allowance for uncollectible accounts receivable based upon the expected collectability of all accounts receivable. As of December 31, 2009, two customers, Leap Wireless and Metaswitch Networks, represented 30% and 17% of net accounts receivable, respectively. Substantially all of these accounts receivable have been received in cash subsequent to December 31, 2009. As of December 31, 2008, two customers, Alcatel-Lucent and Metaswitch Networks, represented 24% and 10% of net accounts receivable, respectively, which were fully collected in 2009.
+Fair Value of Financial Instruments: The carrying amounts of the Company accounts receivable and accounts payable approximate fair values at December 31, 2009 and 2008, as the maturity of these instruments are short term. The fair value of investments is discussed in Note B Investments.
+Cash Equivalents: The Company considers all highly liquid investments purchased with an original maturity of three months or less to be cash equivalents.
+Investments: The Company classifies its investments as available-for-sale, held-to-maturity, or trading. Available-for-sale investments are carried at fair value, with unrealized gains and losses, if any, reported in accumulated other comprehensive income, a component of stockholders equity. The Company records losses that are judged to be other-than-temporary, if any, in net income. Held-to-maturity investments are carried at amortized cost. Amortization of purchase premiums or discounts is included in other income, net.
+44 Table of contents
+Investments at December 31, 2008 included one auction rate municipal debt security classified as available-for-sale. Auction rate municipal securities are variable rate debt instruments which bear interest rates that reset approximately every 35 days, but which have contractual maturities that can be well in excess of ten years. The brokerage firm which sold the investment to the Company purchased this security from the Company at its full par value in January 2009.
+Inventories: Inventories are valued at the lower of cost or market. Cost is determined using the first-in, first-out method. The Company records provisions for excess, obsolete or slow moving inventory based on changes in customer demand, technology developments or other economic factors.
+Revenue Recognition: The Company recognizes revenue from product sales in accordance with the SEC Staff Accounting Bulletin No. 104, Revenue Recognition. Product sales represent the majority of the Companys revenue and include hardware products and hardware products with embedded software. The Company recognizes revenue from these product sales when persuasive evidence of an arrangement exists, delivery has occurred or services have been provided, the sale price is fixed or determinable, and collectability is reasonably assured. Additionally, the Company sells its products on terms which transfer title and risk of loss at a specified location, typically shipping point. Accordingly, revenue recognition from product sales occurs when all factors are met, including transfer of title and risk of loss, which typically o
+ccurs upon shipment by the Company. If these conditions are not met, the Company will defer revenue recognition until such time as these conditions have been satisfied. The Company collects and remits sales taxes in certain jurisdictions and reports revenue net of any associated sales taxes.
+For the sale of multiple-element arrangements whereby equipment is combined with other elements, such as software and maintenance, the Company allocates to, and recognizes revenue from, the various elements based on their fair value. Revenue from software requiring significant production, modification, or customization is recognized using the percentage of completion method of accounting. Anticipated losses on contracts, if any, are charged to operations as soon as such losses are determined. If all conditions of revenue recognition are not met, the Company defers revenue recognition and will recognize revenue when the Company has fulfilled its obligations under the arrangement. Revenue from software maintenance contracts is recognized ratably over the contractual period.
+Revenue from consulting and other services is recognized at the time the services are rendered. The Company also sells certain products through distributors who are granted limited rights of return. Potential returns are accounted for at the time of sale.
+Property, Equipment and Improvements: Property, equipment and improvements are stated at cost. Depreciation of equipment and improvements is provided for using the straight-line method over the following estimated useful lives   
+Engineering equipment and software
+3 - 5 years
+Manufacturing equipment
+3 - 5 years
+Furniture and equipment
+3 - 5 years
+Leasehold improvements
+the lesser of 10 years or the lease term
+Repairs and maintenance costs are expensed as incurred. Asset betterments are capitalized.
+Goodwill: Goodwill represents the excess of cost over the fair value of net assets acquired in business combinations. Goodwill is reviewed for impairment at least annually as of December 31 of each fiscal year or when events or changes in circumstances indicate the carrying value of the goodwill might exceed the fair value. Management has determined that the Company has one reporting unit for purposes of applying the impairment testing rules based on its reporting structure. The fair value of the Company single reporting unit at each measurement date is determined based on a weighted average of the fair market value of the Company outstanding common stock on a control basis and a discounted cash flow valuation model applied to a projection of future cash flows. Each of these methods was weighted 50%.
+45 Table of contents
+The Company recorded an impairment charge against the full recorded value of goodwill based on the Companys assessment at December 31, 2009. See Note F
+Long-Lived Assets: The Company reviews the carrying values of its long-lived assets other than goodwill, capitalized software development costs and purchased intangible assets with indefinite useful lives for impairment whenever events or changes in circumstances indicate that the carrying values may not be recoverable. The Company assesses the recoverability of the carrying values of long-lived assets by first grouping its long-lived assets with other assets and liabilities at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities the asset group and, secondly, by estimating the undiscounted future cash flows that are directly associated with and that are expected to arise from the use of and eventual disposition of such asset group. The Company estimates the undiscounted cash flows over the remaining useful life of the primary asset with
+in the asset group. If the carrying value of the asset group exceeds the estimated undiscounted cash flows, the Company records an impairment charge to the extent the carrying value of the long-lived asset exceeds its fair value. The Company determines fair value through quoted market prices in active markets or, if quoted market prices are unavailable, through the performance of internal analyses of discounted cash flows. If this review indicates that the remaining useful life of the long-lived asset has changed significantly, the Company adjusts the depreciation on that asset to facilitate full cost recovery over its revised estimated remaining useful life.
+In conjunction with the review for impairment of goodwill at December 31, 2009, the Company also performed a review of the recoverability of its other long-lived assets. As a result, the Company recorded a non-cash impairment charge against the carrying value of property, equipment and improvements See Note F.
+Derivative Financial Instruments: The Company uses derivative financial instruments as foreign currency hedges of a portion of the costs of its Canadian and United Kingdom operations. The fair value of these derivative instruments is estimated in accordance with the framework for measuring fair value contained in GAAP and is recorded as either an asset or liability in the balance sheet based on changes in the current spot rate, as compared to the exchange rates specified in the contracts. For these instruments, the effective portion of the gain or loss on the derivative is reported as a component of other comprehensive income and is reclassified into earnings in the same period or periods during which the hedged transaction affects earnings. Gains and losses on the derivative representing either hedge ineffectiveness or hedge components excluded from the assessment of effectiveness are recognized in curren
+t earnings. The fair value measurement of the Companys derivative instruments is estimated using Level 2 inputs, which are inputs other than quoted prices that are directly or indirectly observable for the asset or liability See Note O.
+Research and Development: Research and development costs, excluding amounts capitalized as software development costs, are expensed as incurred and include employee related costs, occupancy expenses and new product prototyping costs.
+Shipping and Handling Costs: Amounts charged to customers and costs incurred by the Company related to shipping and handling are included in net sales and cost of goods sold, respectively.
+Advertising: Advertising costs are expensed as incurred and recorded in Selling and marketing in the Consolidated Statements of Operations. Advertising expense amounted to $65,000, $157,000 and $180,000 for 2009, 2008 and 2007, respectively. 46
+Table of contents
+Software Development Costs: On a product-by-product basis, software development costs incurred subsequent to the establishment of technological feasibility and prior to general release of the product are capitalized and amortized commencing after general release over its estimated remaining economic life, generally three years, using the straight-line method or using the ratio of current revenues to current and anticipated revenues from such software, whichever provides greater amortization.
+Income Taxes: The Company provides deferred income tax assets and liabilities based on the estimated future tax effects of differences between the financial and tax bases of assets and liabilities based on currently enacted tax laws. A valuation allowance is established for deferred tax assets in amounts for which realization is not considered more likely than not to occur.
+The Company recognizes and measures uncertain tax positions using a two-step approach. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates it is more likely than not that the position will be sustained upon examination, including resolution of related appeals or litigation processes, if any. In making this assessment, the Company must assume that the taxing authority will examine the income tax position and have full knowledge of all relevant information. The second step is to measure the tax benefit as the largest amount which is more than 50% likely of being realized upon ultimate settlement. The Company considers many factors when evaluating and estimating tax positions and tax benefits, which may require periodic adjustments and which may or may not accurately forecast actual outcomes.
+The Company reports interest and penalties accrued relating to uncertain income tax positions as a component of income tax provision. The liability for uncertain income tax positions is presented in the accompanying December 31, 2009 balance sheet as a non-current liability income taxes payable as it cannot be known if, or when, this liability will be satisfied.
+Earnings Per Share: Basic earnings per share is computed by dividing net income by the weighted average number of common shares outstanding for the period. Due to the net loss in 2009, diluted earnings per share are equal to basic earnings per share. Diluted earnings per share calculations reflect the assumed exercise and conversion of dilutive employee stock options and unvested restricted stock, applying the treasury stock method. Diluted earnings per share calculations exclude the effect of approximately 1,445,000, 1,446,000 and 1,500,000 options in 2009, 2008 and 2007, respectively, since such options have an exercise price in excess of the average market price of the Companys common stock.
+Stock Options and Stock-Based Employee Compensation: In 2001, the stockholders approved the 2001 Stock Option Plan pursuant to which 1,500,000 shares of common stock were reserved for grant. In 2003, the stockholders approved the 2003 Omnibus Incentive Plan pursuant to which 1,500,000 shares of common stock were reserved for future grants. Awards under the 2003 Omnibus Incentive Plan may include stock options, stock appreciation rights, restricted stock and other stock performance awards as determined by the Board of Directors. At December 31, 2009, 786,000 options were available for future grant under these two stock option plans.
+Stock options may be granted to any officer or employee at not less than the fair market value at the date of grant not less than 110% of the fair market value in the case of holders of more than 10% of the Company common stock. Options granted under the plans generally expire between five and ten years from the date of grant and vest in periods ranging from one to five years.
+The Company recognizes compensation expense in the financial statements for share-based awards based on the grant-date fair value of those awards. Stock-based compensation expense includes an estimate for pre-vesting forfeitures and is recognized over the requisite service periods of the awards on a straight-line or graded vesting basis, which is generally commensurate with the vesting term. Stock-based compensation expense amounted to $544,000, $569,000 and $678,000 in 2009, 2008 and 2007, respectively.
+47 Table of contents
+The Company may either issue shares or utilize treasury stock shares upon employees stock option exercises. In 2009 there were no exercises of stock options and in 2008, the Company utilized only its treasury stock shares for employee stock option exercises See Note J.
+Please refer to Note J, Stock-based Compensation Expense, for further information.
+Segment Data, Geographic Information and Significant Customers: The Company is not organized by market and is managed and operated as one business. A single management team that reports to the chief operating decision maker comprehensively manages the entire business. The Company does not operate any material separate lines of business or separate business entities. Accordingly, the Company does not accumulate discrete financial information, other than product revenue and material costs, with respect to separate product lines and does not have separately reportable segments.
+Shipments to customers outside of the United States represented 51%, 60% and 48% of sales in 2009, 2008 and 2007, respectively. In 2009, 2008 and 2007, export shipments to the United Kingdom represented 15%, 18% and 13% of sales, respectively. The Company does not maintain significant amounts of long-lived assets outside of the United States.
+For 2009, 2008, and 2007, four customers accounted for approximately 36%, 40% and 34% of sales respectively. In 2009, two customers, Metaswitch Networks formerly Data Connection and Alcatel-Lucent accounted for 15% and 8% of sales, respectively. In 2008, these same two customers constituted 17% and 11% of sales, respectively. In 2007, Alcatel-Lucent and Metaswitch Networks accounted for 11% and 10% of sales, respectively. During each of these years, Alcatel-Lucent purchased primarily switching products and Metaswitch Networks purchased computing products.
+Fair Value Measurements: GAAP establishes a fair value hierarchy which prioritizes the inputs to valuation techniques used to measure fair value. Level 1 inputs are quoted prices in active markets for identical assets or liabilities. Level 2 inputs are inputs other than quoted prices included in Level 1 that are directly or indirectly observable for the asset or liability. Such inputs include quoted prices in active markets for similar assets and liabilities, quoted prices for identical or similar assets or liabilities in markets that are not active, inputs other than quoted prices that are observable for the asset or liability, or inputs derived principally from or corroborated by observable market data by correlation or other means. Level 3 inputs are unobservable inputs for the asset or liability. Such inputs are used to measure fair value when observable inputs are not available.
+The Companys assets measured at fair value on a recurring basis at December 31, 2009, were as follows   
+Level 1
+Level 2
+Level 3
+Assets:
+Foreign currency hedge contracts
+$
+-
+$
+201,000
+$
+Total assets measured at fair value
+$
+-
+$
+201,000
+$
+-
+Foreign currency hedge contracts are valued based on observable market spot and forward rates as of our reporting date and are included in Level 2 inputs. We use these derivative instruments to mitigate the effect of changing foreign currency exchange rates on our expense levels in our Canadian and United Kingdom operations. All contracts are recorded at fair value and marked to market at the end of each reporting period and realized and unrealized gains and losses are included in net income for that period.
+48
+Table of contents
+Contingencies and Related Legal Costs: An accrual of losses related to contingencies is made when, in the opinion of management and legal counsel, if applicable, the likelihood of loss is deemed probable and the amount of loss is reasonably estimable. Related legal costs are expensed as incurred.
+Recent Accounting Pronouncements: In June 2009, the FASB issued Accounting Standards Codification ASC or the Codification as the source of authoritative generally accepted accounting principles GAAP recognized by the FASB for non-governmental entities. The Codification became effective for financial statements issued for reporting periods that end after September 15, 2009. The Codification superseded all then-existing non-SEC accounting and reporting standards. The Codification did not change rules and interpretations of the SEC which are also sources of authoritative GAAP for SEC registrants. Because the Codification did not change GAAP, the Codification had no impact on the Companys consolidated financial statements.
+On June 30, 2009, the Company adopted ASC Topic 855-10-50 Subsequent Events - Disclosure, which established general standards of accounting for and disclosure of events that occur after the balance sheet date but before the financial statements are issued. This standard defines two types of subsequent events. The effects of events or transactions that provide additional evidence about conditions that existed at the balance sheet date, including the estimates inherent in the process of preparing financial statements, are recognized in the financial statements. The effects of events that provide evidence about conditions that did not exist at the date of the balance sheet but arose after that date are not recognized in the financial statements.
+In October 2009, the FASB issued authoritative guidance on revenue recognition that will become effective on July 1, 2010, with earlier adoption permitted. Under the new guidance on arrangements that include software elements, tangible products that have software components referred to as software-enabled devices that are essential to the functionality of the tangible product will no longer be within the scope of the software revenue recognition guidance, and software-enabled products will now be subject to other relevant revenue recognition guidance. Additionally, the FASB issued authoritative guidance on revenue arrangements with multiple deliverables that are outside the scope of the software revenue recognition guidance. Under the new guidance, when vendor specific objective evidence or third party evidence for deliverables in an arrangement cannot be determined, a best estimate of the selling price is required to separate deliverables and allo
+cate arrangement consideration using the relative selling price method. The new guidance includes new disclosure requirements on how the application of the relative selling price method affects the timing and amount of revenue recognition. The Company is evaluating the extent, if any, to which this new guidance will impact the Company financial statements.
+In March 2008, the FASB issued authoritative guidance amending and expanding the disclosure requirements for derivative instruments and hedging activities, with the intent to provide users of financial statements with an enhanced understanding of how and why an entity uses derivative instruments, how derivative instruments and related hedged items are accounted for, and how derivative instruments and related hedged items affect an entitys financial statements. This guidance, which was incorporated into ASC Topic 815, Derivatives and Hedging, was adopted by the Company as of January 1, 2009. 49 Table of contents   Note B Investments
+Investments consisted of the following:
+At December 31   
+2009
+2008
+Municipal bond, at amortized cost
+$
+1,016,000
+$
+1,047,000
+U.S. Government bond, at amortized cost
+1,999,000
+-
+U.S. Government-backed FHLMC bond, at amortized cost
+2,000,000
+-
+Corporate bonds, at amortized cost
+2,537,000
+-
+Guaranteed investment certificate, at cost
+1,100,000
+-
+Certificates of deposit, at cost
+3,120,000
+-
+U.S. Government-backed FNMA note, at amortized cost
+-
+750,000
+Auction rate municipal securites, at fair value
+-
+1,951,000
+Put option on auction rate municipal security, at fair value
+-
+499,000
+Total investments
+$
+11,772,000
+$
+4,247,000
+Less-current investments
+7,533,000
+2,450,000
+Non-current investments
+$
+4,239,000
+$
+1,797,000
+All income generated from the Companys investments is recorded in other income, net, and totaled $277,000, $952,000 and $1,111,000 in 2009, 2008 and 2007, respectively.
+The Companys bond investments have a cumulative par value of $7,500,000. Two of these bonds each have a par value of $2,000,000 and mature in 2011 and 2012, respectively, while the remaining bonds mature in 2010 and are classified as current assets. These investments have been classified as held-to-maturity and are stated at amortized cost at December 31, 2009.
+At December 31, 2008, investments included one auction rate municipal security for which the periodic auctions had failed, and the Company had not been able to sell this security throughout 2008. In November 2008, the Company entered into an agreement with the investment brokerage company which had sold this security to the Company, whereby the Company acquired an option to put the security to the brokerage company anytime during 2009 or 2010, at its full par value of $2,450,000. As of December 31, 2008, the Company valued the underlying security at $1,951,000, and valued the put option at $499,000. Subsequent to December 31, 2008, the Company exercised its put option and sold this security to the brokerage company for its full par value in cash.
+The auction rate security and put option were valued using Level 3 inputs. In order to estimate the fair value of these instruments, the Company employed a discounted future cash flows model, using the following estimated assumptions: the receipt of interest only over an assumed liquidity horizon of five years, calculated at the default rate assuming such rate stays constant over the term; a sale of the investment at par after five years; and a discount rate of 126% on a pre-tax basis, which represents approximately a 45% illiquidity premium. The discounted cash flows model results in an estimated fair value impairment of approximately 20% below par.
+The following table presents the Companys assets measured at fair value on a recurring basis using significant unobservable inputs Level 3 at December 31, 2009 and 2008:
+50 Table of contents   
+Auction rate
+security
+Put option
+Total
+Balance, January 1, 2008
+$
+-
+$
+-
+$
+-
+Transfers to level 3
+2,500,000
+-
+2,500,000
+Partial redemption at par
+50,000
+-
+50,000
+Total gains losses realized orunrealized
+499,000
+499,000
+-
+Balance, December 31, 2008
+1,951,000
+499,000
+2,450,000
+Total redemption at par
+1,951,000
+499,000
+2,450,000
+Balance, December 31, 2009
+$
+-
+$
+-
+$
+-
+Note C - Accounts Receivable, net   
+Accounts receivable consisted of the following:
+At December 31   
+2009
+2008
+Accounts receivable
+$
+6,702,000
+$
+7,087,000
+Less: allowance for doubtful accounts
+160,000
+410,000
+Net
+$
+6,542,000
+$
+6,677,000
+Note D - Inventories   
+Inventories consisted of the following:
+At December 31   
+2009
+2008
+Purchased parts and components
+$
+3,045,000
+$
+3,142,000
+Work in process
+1,041,000
+1,642,000
+Finished goods
+373,000
+519,000
+Net
+$
+4,459,000
+$
+5,303,000
+Note E Property, Equipment and Improvements, net
+Property, equipment and improvements consisted of the following:
+At December 31   
+2009
+2008
+Land
+$
+407,000
+$
+407,000
+Engineering equipment and software
+5,415,000
+5,020,000
+Manufacturing equipment
+2,352,000
+2,439,000
+Furniture and equipment
+1,792,000
+1,696,000
+Leasehold improvements
+391,000
+357,000
+10,357,000
+9,919,000
+Less: accumulated depreciation and amortization
+8,671,000
+7,850,000
+Net
+$
+1,686,000
+$
+2,069,000
+51 Table of contents
+Total depreciation and amortization expense for equipment and improvements for 2009, 2008 and 2007 was $820,000, $797,000 and $759,000, respectively.
+During 2009, the Company disposed of assets with a cost basis of $120,000 and accumulated depreciation of $119,000, and recorded a gain on disposal amounting to $58,000. During 2008, the Company disposed of assets with a cost basis of $52,000 and accumulated depreciation of $45,000, and recorded a loss on disposal amounting to $7,000. During 2007, the Company disposed of assets with a cost basis of $1,097,000 and accumulated depreciation of $1,081,000, and recorded a loss on disposal amounting to $16,000.
+Note F Impairments
+Management performed its annual assessment of the carrying value of goodwill as of December 31, 2009. Due to the Companys decreased stock price during the second half of 2009 and resulting lower market capitalization, particularly in comparison with the 2009 recovery in United States equity markets, management determined that the fair value of the Company was no longer in excess of its book value including goodwill, and recorded a non-cash impairment charge of $4,143,000 less income taxes of $586,000 against the full recorded value of goodwill as of December 31, 2009.
+A summary of the changes in the carrying amount of goodwill for each of the two years in the period ended December 31, 2009 is shown below   
+Balance, January 1, 2008
+$
+4,143,000
+Activity 2008
+-
+Balance, December 31, 2008
+4,143,000
+Goodwill impairment
+4,143,000
+Balance, December 31, 2009:
+Goodwill
+4,143,000
+Accumulated impairment losses
+4,143,000
+Net balance - goodwill
+$
+-
+In conjunction with its assessment of the carrying value of goodwill as of December 31, 2009, management also reviewed the carrying values of the Companys other long-lived assets for recoverability excluding capitalized software development costs which are amortized and separately reviewed for impairment. As a result of this review, the Company recorded a non-cash impairment chargeagainst the recorded value of property, equipment and improvements in the amount of $135,000.   
+Note G - Accrued Expenses
+Accrued expenses consisted of the following:
+At December 31   
+2009
+2008
+Accrued compensation and related costs
+$
+684,000
+$
+804,000
+Accrued vacation
+536,000
+544,000
+Accrued professional services
+194,000
+178,000
+Deferred revenue
+2,320,000
+2,364,000
+Accrued warranty obligations
+78,000
+167,000
+Other accrued expenses
+383,000
+492,000
+Total
+$
+4,195,000
+$
+4,549,000
+52 Table of contents
+The Company has warranty obligations in connection with the sale of certain of its products. The warranty period for its products is generally one year. The costs incurred to provide for these warranty obligations are estimated and recorded as an accrued liability at the time of sale. The Company estimates its future warranty costs based on product-based historical performance rates and related costs to repair. The changes in the Companys accrued warranty obligations for 2009, 2008 and 2007 were as follows   Accrued warranty obligations at January 1, 2007
+$
+309,000
+Actual warranty experience
+138,000
+Net warranty provisions
+44,000
+Accrued warranty obligations at December 31, 2007
+215,000
+Actual warranty experience
+138,000
+Net warranty provisions
+90,000
+Accrued warranty obligations at December 31, 2008
+167,000
+Actual warranty experience
+89,000
+Net warranty provisions
+-
+Accrued warranty obligations at December 31, 2009
+$
+78,000
+Note H - Commitments
+The Company leases facilities under operating leases. Under the terms of the facility lease in Rochester, New York, which expires in March 2012, the Company pays an annual rental of $783,000 with pre-established inflationary adjustments each year. Under the terms of the facility lease in San Luis Obispo, California, which expires in August 2010, the Company pays a monthly rental of approximately $11,000. The lease for office space in San Diego, California requires a monthly payment of approximately $7,000 and expires in November 2010.
+The Company also leases office space in Kanata, Ontario, Canada. This lease, which requires a monthly rental and operating expense totaling approximately to $33,000CDN approximately $379,000USD annually based on the December 31, 2009 exchange rate, expires in October 2011. In addition, the Company leases office space near London, England. This lease requires an annual rental of approximately 28,000 approximately $45,000 annually based on the December 31, 2009 exchange rate, and expires in 2012.
+Effective December 31, 2007, the Company entered into an agreement to terminate the lease for its former location in San Luis Obispo, which was to have expired in December 2008. The required termination payment of $505,000 was paid subsequent to December 31, 2007. A restructuring charge of $153,000 was recorded in the fourth quarter 2007 to reflect the net effect of the lease termination.
+For the lease agreements described above, the Company is required to pay the pro rata share of the real property taxes and assessments, expenses and other charges associated with these facilities.
+Future minimum payments for all operating leases at December 31, 2009 are as follows based on current foreign currency exchange rates   
+2010
+$
+1,371,000
+2011
+1,144,000
+2012
+207,000
+Total
+$
+2,722,000
+Rent expense, excluding lease termination costs recorded during 2007, amounted to $1,340,000, $1,374,000 and $1,335,000 for 2009, 2008 and 2007, respectively.
+53 Table of contents
+Rent expense, excluding lease termination costs recorded during 2007, amounted to $1,340,000, $1,374,000 and $1,335,000 for 2009, 2008 and 2007, respectively.
+Note I Stock Repurchase Program
+On July 11, 2005, the Board of Directors authorized the Company to repurchase shares of its common stock for an aggregate amount not to exceed $10,000,000. In July 2007, this program was extended through July 2008, at which time the program expired. Repurchased shares were to be used for the Company stock option plans, potential acquisition initiatives and general corporate purposes. Under this plan, 226,880 shares were repurchased during 2008 for an aggregate purchase price of $1,063,000. Under this plan, 1,632,000 shares were repurchased during 2007 for an aggregate purchase price of $8,015,000.
+In October 2008, the Board of Directors authorized a new stock repurchase program, for an aggregate amount not to exceed $10,000,000. Under this program, which expired in October 2009, repurchased shares were to be used for the Companys stock option plan, potential acquisition initiatives and general corporate purposes. Under this program, 100,000 shares were repurchased during 2009 for an aggregate purchase price of $318,000 and 397,000 shares were repurchased during 2008 for an aggregate purchase price of $1,279,000.
+Note J Stock-based Compensation Expense
+The table below summarizes the impact of outstanding stock options on the results of operations for the years ended December 31, 2009, 2008 and 2007   
+2009
+2008
+2007
+Stock-based compensation expense:
+Stock options
+$
+544,000
+$
+569,000
+$
+678,000
+Income tax benefit
+-
+174,000
+216,000
+Net decrease in net income
+$
+544,000
+$
+395,000
+$
+462,000
+Decrease in earnings per share:
+Basic
+$
+05
+$
+03
+$
+04
+Diluted
+$
+05
+$
+03
+$
+04
+The Black-Scholes-Merton option pricing model was used to estimate the fair value of share-based awards. This model incorporates various and highly subjective assumptions, including expected term and expected volatility. For valuation purposes, stock option awards were categorized into two groups, stock option grants to employees and stock option grants to members of the Board of Directors.
+The expected term of options granted in 2007 was estimated to be the average of the vesting term and the contractual life of the option. In 2008, management completed an analysis of employee exercise history and concluded that the expected term of options granted was not significantly different than the average of the vesting term and the contractual life of the option. This assumption was also used in 2009 as it is consistent with 2008 and still valid for 2009 option grants. The expected volatility at the grant date is estimated using historical stock prices based upon the expected term of the options granted. The risk-free interest rate assumption is determined using the rates for U.S. Treasury zero-coupon bonds with maturities similar to those of the expected term of the award being valued. Cash dividends have never been paid and are not anticipated to be paid in the foreseeable future. Therefore, the assumed expected dividend yield is zero.
+Pre-vesting option forfeitures at the time of grant are required to be estimated and periodically revised in subsequent periods if actual forfeitures differ from those estimates. Stock-based compensation expense is recorded only for those awards expected to vest using an estimated forfeiture rate based on historical pre-vesting forfeiture data.
+54 Table of contents
+The following table shows the detailed assumptions used to compute the fair value of stock options granted during 2009, 2008 and 2007   
+2009
+2008
+2007
+Expected term years
+325 to 4 years
+3 to 4 years
+3 to 65 years
+Volatility
+33% to 39%
+34% to 45%
+44% to 63   Risk free interest rate
+18% to 19%
+30%
+47% to 51%
+The weighted average grant date fair value of options granted during 2009 and 2008 was $82 and $199 per option, respectively. Unrecognized stock-based compensation expense was approximately $521,000 as of December 31, 2009, relating to a total of 822,000 unvested stock options under the Companys stock option plans. This stock-based compensation expense is expected to be recognized over a weighted average period of approximately 15 years.
+The following table summarizes stock option activity for the three years ended December 31, 2009   
+Weighted
+Average
+Number of
+Exercise
+Exercise Price
+Shares
+Price
+Range
+Outstanding at January 1, 2007
+1,567,966
+$
+949
+$
+340 - $1813
+Granted
+596,033
+$
+495
+$
+448 - $585
+Exercised
+40,215
+$
+387
+$
+383 - $390
+Expired
+424,061
+$
+1146
+$
+383 - $1813
+Outstanding at December 31, 2007
+1,699,723
+$
+754
+$
+340 - $1813
+Granted
+398,250
+$
+537
+$
+531 - $538
+Exercised
+178,491
+$
+387
+$
+383 - $448
+Expired
+324,874
+$
+790
+$
+383 - $1813
+Outstanding at December 31, 2008
+1,594,608
+$
+733
+$
+448 - $1813
+Granted
+275,000
+$
+261
+$
+259 - $269
+Exercised
+-
+Expired
+424,625
+$
+1225
+$
+493 - $1813
+Outstanding at December 31, 2009
+1,444,983
+$
+499
+$
+259 - $708
+The following table summarizes stock option information at December 31, 2009   
+Options outstanding
+Options exercisable
+Weighted
+Weighted
+Weighted
+Weighted
+average
+average
+average
+average
+Range of
+remaining
+exercise
+remaining
+exercise
+exercise price
+Shares
+life yrs
+price
+Shares
+life yrs
+price
+$259 to $425
+275,000
+422
+$
+261
+-
+-
+$
+$426 to $525
+395,733
+240
+$
+493
+221,533
+240
+$
+493
+$526 to $599
+534,250
+364
+$
+547
+217,350
+361
+$
+558
+$600 to $708
+240,000
+400
+$
+676
+184,000
+333
+$
+680
+1,444,983
+347
+$
+499
+622,883
+310
+$
+571
+55
+Table of contents
+The total intrinsic value of all outstanding options at December 31, 2009 whose exercise price was less than the Companys closing stock price on that date was $50,000. The total intrinsic value, determined as of the date of exercise, of options exercised in 2008 was $124,000. No options were exercised in 2009. Cash received from option exercises in 2008 and 2007 amounted to $588,000 and $155,000, respectively. The total fair value of options that vested during 2009 and 2008 was $609,000 and $525,000, respectively.
+In 2008, all of the shares issued upon option exercise were from treasury stock. In 2007, of the 40,215 shares of common stock issued upon option exercise, 12,820 were issued from treasury stock and the remaining 27,395 were new shares issued.
+During 2007, stock options to purchase 127,500 shares of common stock were granted that would vest only upon the attainment of an earnings-per-share target of $40 in 2007, 2008 or 2009. This target was not achieved and these options have expired unvested. Through the third quarter 2008, stock compensation expense had been recorded in relation to these options as management had believed that achievement of the stated per-share earnings target was probable. During the fourth quarter 2008, management changed this assessment as it was no longer believed that attainment of the stated per-share earnings target was probable. As such, the previously recorded expense relating to this option grant in the amount of $139,000 was reversed during the fourth quarter 2008.
+During 2008, stock options to purchase 137,500 shares of common stock were granted that will vest only upon the attainment of a pre-tax earnings per-share target of $69 in 2008, 2009 or 2010. Expense relating to this grant in the amount of $44,000 was recorded in 2008 as management believed that achievement of the pre-tax per-share target was probable. During the first quarter 2009, management changed this assessment and no longer believes that attainment of the stated per-share earnings target is probable. As such, the previously recorded expense relating to this option grant in the amount of $44,000 was reversed during the first quarter 2009.
+With respect to non-qualified stock options and incentive stock options that are exercised and held for less than one year, the Company recognizes a tax benefit upon exercise in an amount equal to the tax effect of the difference between the option price and the fair market value of the common stock on the exercise date. Tax benefits related to such stock option exercises are credited to income if less than the amount of stock compensation recorded for the related options, or if greater, credited to additional paid-in capital.
+In January 2010, 371,150 options were granted with an exercise price of $297, a three-year vesting schedule, and a life of five years. The fair value of these options is $85 per share.
+Note K - Stockholder Rights Plan
+On October 27, 2000, the Companys Board of Directors adopted a Stockholder Rights Plan. Under this plan, one preferred stock Purchase Right was distributed as a dividend for each share of common stock held by the stockholders of record as of the close of business on November 8, 2000. Until the occurrence of certain events, the Rights are traded as a unit with the common stock. Each Right will separate and entitle stockholders to buy stock upon the occurrence of certain events generally related to the change of control of the Company as defined in the Plan. The Rights become exercisable ten days after either 1 an Acquiring Person acquires or commences a tender offer to acquire 15% or more of the Companys common stock, or 2 an Adverse Person has acquired 10% or more of the Companys common stock and the Board determines this person is likely to cause pressure on the Company to enter into a transaction that is not in the
+Companys best long-term interest. All Rights not held by an Acquiring Person or an Adverse Person become rights to purchase from the Company one one-thousandth of one share of preferred stock at an initial exercise price of $110 per Right. Each Right entitles the holder of that Right to purchase the equivalent of $220 worth of the Companys common stock for $110. If after such an event the Company merges, consolidates or engages in a similar transaction in which it does not survive, each holder has a flip over right to buy discounted stock in the surviving entity. The Company may redeem the Rights for $001 each. The Rights Plan expires on November 1, 2010 or can be modified or terminated, at the option of the Board of Directors. 
+56 Table of contents
+Note L - Income Taxes
+Pre-tax earnings consisted of the following for the years ended December 31, 2009, 2008 and 2007   
+2009
+2008
+2007
+Pre-tax loss earnings:
+United States
+$
+8,646,000
+$
+708,000
+$
+1,201,000
+Outside United States
+294,000
+766,000
+734,000
+Total pre-tax earnings
+$
+8,352,000
+$
+1,474,000
+$
+1,935,000
+For the same periods, the provision benefit for income taxes was as follows   
+2009
+2008
+2007
+Current income tax provision benefit:
+Federal
+$
+26,000
+$
+447,000
+$
+101,000
+State
+12,000
+16,000
+12,000
+Foreign
+57,000
+70,000
+114,000
+Net change in liability for unrecognized
+tax benefits
+335,000
+407,000
+249,000
+292,000
+768,000
+224,000
+Deferred provision
+2,052,000
+579,000
+345,000
+Total provision benefit
+$
+1,760,000
+$
+189,000
+$
+121,000
+Deferred tax assets, including carryforwards and other attributes, are reviewed for expected realization and a valuation allowance is established when appropriate to reduce the assets to their estimated net realizable value. Expected realization of deferred tax assets is dependent upon sufficient taxable income in the appropriate jurisdiction and year that is also of the appropriate character. During the second quarter of 2009, the Company evaluated the availability of such taxable income, the nature of its deferred tax assets and the relevant tax laws in determining the net realizable value of its deferred tax assets, and determined that the Companys United States deferred tax assets were substantially impaired at that time. The 2009 deferred income provision includes a second-quarter charge of $2,935,000 to record a full valuation allowance against the Companys then current balance of United States deferred tax assets as well as deferred tax assets
+generated during 2009. Offsetting this charge were the reversal of the deferred tax liability relating to the Companys fourth quarter impairment of goodwill, which totaled $587,000, and the recognition of a deferred tax asset totaling $385,000 relating to a fourth quarter United States tax law change that allows the Company to carry back net operating losses five years rather than two years. This tax law change will allow the Company to carry its 2009 net operating loss back to 2006 and is expected to result in a refund in the amount recognized upon filing of the Companys 2009 federal income tax return.
+The 2007 deferred income tax provision includes a discrete income tax charge to adjust the Companys net deferred tax assets to reflect a change by the State of New York in its corporate income tax apportionment methodology. As a result of this change, the Company lowered its effective tax rate used in computing its net deferred tax assets from 38% to 36% and recorded an income tax charge amounting to $132,000.
+57 Table of contents
+A reconciliation of the statutory U.S. federal income tax rate to the effective rates is as follows   
+2009
+2008
+2007
+Federal income tax at statutory rate
+340
+%
+340
+%
+340
+Foreign taxes
+3
+02
+4
+State tax provision, net of federal benefit
+32
+7
+15
+Meals and Entertainment
+03
+18
+8
+Stock compensation expense
+03
+19
+12
+Tax exempt interest
+2
+32
+29
+Canadian tax credits
+45
+248
+136
+Valuation allowance
+739
+206
+72
+Reversal of valuation allowance due to
+change in enacted U.S. tax law
+46
+Research and development credits
+25
+162
+133
+Resolution of prior year tax uncertainties
+34
+302
+240
+Addition to income taxes payable-uncertainties
+26
+59
+Change in estimated deferred tax rate
+85
+Other
+7
+2
+6
+Effective tax rate
+211
+%
+128
+%
+63
+%
+Research and development tax credits and Canadian tax credits are generated primarily from research and development efforts in the United States and Canada. The tax exempt interest relates to the Companys investment portfolio. The foreign sales exemption relates to the Companys extraterritorial income exclusion recorded for tax purposes. The tax uncertainties were released based upon the lapsing of the statute of limitations related to these uncertainties.   
+Deferred income tax assets and liabilities consist of the following:
+At December 31   
+2009
+2008
+Assets:
+Current:
+Accrued vacation, payroll and other accrued expenses
+$
+296,000
+$
+363,000
+Inventory and inventory related items
+986,000
+1,365,000
+Bad debt and note receivable reserves
+58,000
+148,000
+Non-current:
+Net operating loss carryforwards
+2,503,000
+306,000
+Stock compensation expense
+708,000
+540,000
+Capital loss carryforwards
+236,000
+237,000
+Tax credit carryforwards
+2,433,000
+1,850,000
+Depreciationand long-lived asset impairments
+195,000
+21,000
+Goodwill
+998,000
+Other
+46,000
+17,000
+Total gross deferred tax assets
+8,459,000
+4,847,000
+58 Table of contents   
+At December 31   
+2009
+2008
+Liabilities:
+Current:
+Fair value of foreign currency hedge contracts
+$
+73,000
+$
+35,000
+Non-current:
+Capitalized software development costs, net
+1,596,000
+1,388,000
+Goodwill
+345,000
+Total deferred tax liabilities
+1,669,000
+1,768,000
+Net deferred tax assets
+6,790,000
+3,079,000
+Less-valuation allowance
+6,222,000
+460,000
+Net deferred tax assets, net of valuation allowance
+$
+568,000
+$
+2,619,000
+The total deferred tax assets and liabilities as presented in the accompanying Consolidated Balance Sheets are as follows   
+At December 31   
+2009
+2008
+Net current deferred tax assets
+$
+392,000
+$
+1,841,000
+Net long-term deferred tax assets
+$
+176,000
+$
+778,000
+The total change in the valuation allowance in 2009 was $5,762,000.
+In 2009, 2008 and 2007, the Company generated federal and state net operating losses for income tax purposes. These federal and state net operating loss carryforwards, which total approximately $6,971,000 at December 31, 2009, begin to expire in 2026, if not utilized. Of the Companys tax credit carryforwards, $2,089,000 expire between 2019 and 2029, if not utilized, and the remaining $344,000 of carryforwards do not expire. In addition, the Company has a capital loss carryforward in the amount of approximately $657,000, expiring in 2010 through 2012.
+As of December 31, 2009, retained earnings of the Company Canadian and United Kingdom subsidiaries amounted to approximately $8,200,000. No deferred taxes have been provided on these undistributed earnings, as the Companys policy is to indefinitely reinvest undistributed earnings in its foreign subsidiaries. It is not practicable to estimate the amount of additional tax that might be payable on these undistributed earnings.
+At December 31, 2009, the Company had unrecognized tax benefits of $65,000, of which $22,000 would have a favorable impact on our tax provision benefit, if recognized. A reconciliation of the unrecognized tax benefits liability for 2009 and 2008 is as follows 59 Table of contents   
+Balance at January 1, 2007
+$
+1,056,000
+Additions for prior year tax positions
+51,000
+Reductions related to expirations of statutes of limitations
+including interest of $59,000
+464,000
+Additions for the accrual of interest and penalties
+86,000
+Addition due to the change in foreign exchange rates
+78,000
+Balance at December 31, 2007
+807,000
+Reductions related to expirations of statutes of limitations
+including interest of $69,000
+375,000
+Additions for the accrual of interest and penalties
+37,000
+Reduction due to the change in foreign exchange rates
+69,000
+Balance at December 31, 2008
+400,000
+Reductions related to expirations of statutes of limitations
+including interest of $50,000
+172,000
+Reductions from settlements with taxing authorities
+including interest and penalties of $39,000
+176,000
+Additions for the accrual of interest and penalties
+11,000
+Addition due to the change in foreign exchange rates
+2,000
+Balance at December 31, 2009
+$
+65,000
+Included in the balance of unrecognized tax benefits as of December 31, 2009 and 2008 are accrued interest and penalties in the amount of $12,000 and $91,000, respectively.
+The Company files U.S. federal, U.S. state, and foreign tax returns. For federal tax returns, the Company is no longer subject to tax examinations for years prior to 2005. For foreign and state returns, the Company is also no longer subject to tax examinations for years prior to 2005. It is reasonably possible that the liability associated with the Companys unrecognized tax benefits will increase or decrease within the next twelve months. Based upon the closing of the tax years in these various jurisdictions, the Company may adjust its liability for unrecognized tax benefits. These changes may be the result of new examinations by taxing authorities, ongoing examinations, or the expiration of statutes of limitations. Certain of the Companys unrecognized tax benefits are related to tax years that are expected to close in 2010. Statute of limitations expirations and settlements of examinations in 2010 could decrease the balance of unrecognized tax benef
+its in an amount ranging from $0 to $65,000, including interest.
+Note M - Research and Development
+The Company incurred research and development costs relating to the development of new products as follows   
+2009
+2008
+2007
+Gross expenditures for engineering and softwaredevelopment
+$
+10,069,000
+$
+11,165,000
+$
+11,918,000
+Less: amounts capitalized
+2,273,000
+2,122,000
+2,064,000
+Net charged to operating expenses
+$
+7,796,000
+$
+9,043,000
+$
+9,854,000
+60 Table of contents   
+Software development costs consisted of the following:
+At December 31   
+2009
+2008
+Capitalized software development costs
+$
+18,692,000
+$
+15,584,000
+Less: accumulated amortization
+13,438,000
+11,744,000
+Net
+$
+5,254,000
+$
+3,840,000
+Amortization of software development costs included in cost of goods sold was $1,694,000, $1,579,000 and $1,952,000 for 2009, 2008 and 2007, respectively. It is estimated that amortization of software development costs capitalized at December 31, 2009 will total approximately $2,272,000, $1,755,000, $1,114,000, and $113,000 in 2010, 2011, 2012 and 2013, respectively.
+Amortization of software development costs for 2008 and 2007 included charges to write off software development costs amounting to $76,000 and $520,000, respectively, which were capitalized for new products which had not reached commercial general release and were discontinued.
+During the third quarter 2009, the Company paid a one-time license fee of $928,000 to acquire certain software technologies, which the Company plans to use in synergistic combination with its captive technologies to develop new end-market products. Of this amount, $835,000 has been recorded in capitalized software development costs and $93,000 has been allocated to property, equipment and improvements, based on the estimated respective fair values of the technologies acquired.
+Note N - Employee Benefit Plans
+For the Companys operations in the United States, the Companys Retirement Savings Plan qualifies under Section 401k of the Internal Revenue Code. Discretionary matching contributions by the Company to the plan were $21,000, $100,000 and $94,000 for 2009, 2008 and 2007, respectively. In conjunction with its flexible benefits plans, the Company made additional discretionary qualified contributions to employee accounts which vest immediately amounting to $16,000, $42,000 and $34,000 for 2009, 2008 and 2007, respectively.
+For its operations in Canada, contributions were made in 2009, 2008 and 2007 to a Registered Retirement Savings Plan RRSP that is administered by the Canadian government. Discretionary matching contributions to the Plan amounted to $6,000, $25,000 and $20,000 for 2009, 2008 and 2007, respectively.
+Note O Derivative Instruments Foreign Currency Hedge Contracts
+The Company is exposed to the impact of fluctuations in foreign exchange rates in its Canadian and United Kingdom operations. The Companys risk management program is designed to reduce the exposure and volatility arising from this risk.
+During 2009, the Company entered into foreign currency forward contracts with JPMorgan Chase Bank, N.A. the Bank in order to fix in U.S. dollars a portion approximately 70% of the first quarter 2010 cost of the Companys Canadian and United Kingdom operations, which are denominated in Canadian dollars and pounds sterling, respectively. The purpose of these contracts is to reduce the Companys exposure to variability in the exchange rates between the United States and Canada and the United Kingdom in the first quarter 2010. The Canadian dollar contracts effectively fix the exchange rate on the first $350,000CDN of first quarter 2010 monthly expenses at approximately 785. The pounds sterling contracts effectively fix the exchange rate on the first 100,000 of first quarter 2010 quarterly expenses at approximately 139.
+61 Table of contents
+These contracts have been designated as effective cash flow hedges and any gains or losses resulting from changes in the fair value of these contracts are recorded in other comprehensive income. The Company will receive, or be required to disburse, cash payments upon the expiration of each contract depending on fluctuations in the underlying exchange rates; such payments will be recorded as reductions to or increases in expense as they are determined.
+In addition, during 2008 the Company entered into similar instruments in order to fix in U.S. dollars a portion of the cost of the Canadian and United Kingdom operations for all of 2009. These contracts effectively fixed the exchange rate on the first $360,000CDN of 2009 monthly expenses at rates ranging from 785 to 787, and fixed the exchange rate on the first 105,000 of 2009 quarterly U.K. expenses at rates ranging from 1497 to 1501.
+The fair value of the Companys derivative instruments was as follows   
+Balance
+Fair value at
+Sheet
+December 31,
+2009
+December 31,
+2008
+Location
+Derivatives designated as hedginginstruments
+Current assets
+$
+201,000
+$
+107,000
+All of the fair value of the Companys derivative instruments is expected to be reclassified to earnings during 2010.
+The Companys derivative instruments had the following effect on the statements of operations   
+Amount of gain reclassified from
+accumulated other
+comprehensive income to the
+statement of operations
+Year ended December 31,
+Location of gain
+Derivatives fair value hedging
+recognized in
+relationships
+operations
+2009
+2008
+Foreign exchange contracts
+Reduction of operating expenses
+$
+430,000
+$
+-
+The Companys derivative instruments had the following effect on other comprehensive loss income   
+Amount of gain recognized in other comprehensive income
+Year ended December 31   
+2009
+2008
+Net change in the fair value of
+foreign currency hedge
+contracts, net of tax:
+$
+55,000
+$
+73,000
+62 Table of contents
+Note P - Litigation
+The Company is subject to various other legal proceedings and claims that arise in the ordinary course of business.
+In December 2009, the Company became aware that Tekelec, a California corporation headquartered in Morrisville, North Carolina, had filed but not served a complaint against the Company in the U.S. District Court for the Eastern District of North Carolina. The complaint alleges that certain of the Companys signaling systems products infringe three of Tekelecs issued patents and seeks a determination of infringement, a preliminary and permanent injunction from further infringement and an unspecified amount of damages. On March 4, 2010, an amended complaint was served on the Company through its designated agent in North Carolina. The amended complaint contains the same allegations as the original complaint but adds two patents to the number of patents which Tekelec alleges the Companys signaling systems products infringe. The Company believes that the basis for Tekelecs infringement claims is without merit and will vigorously defend against 
+those claims. No liability has been recorded relating to this matter because of the uncertainty of its eventual outcome and the inability to estimate the amount of damages that may be assessed, if any.
+The Company issues indemnifications in the ordinary course of business with certain customers, suppliers, service providers and business partners. Further, the Company indemnifies its directors and officers who are, or were, serving at the Companys request in such capacities. The fair value of the indemnifications that the Company issued during 2009 was not material to the Companys financial position, results of operations or cash flows.
+Note Q - Restructuring Charges
+Restructuring charges amounted to $626,000, $0 and $393,000 in 2009, 2008 and 2007, respectively. Restructuring charges in 2009 relate to actions the Company took to improve its cost structure primarily through reductions in the Companys staff. These actions, which consisted of a reduction in force of 20 employees in January 2009 and a voluntary reduction in force of 8 employees in August 2009, were both completed in 2009. The restructuring charges consisted entirely of employee severance and related costs.
+Restructuring charges in 2007 principally relate to charges for the change in estimated future cash flows from sub-leasing the former San Luis Obispo engineering center and an agreement at year-end to buy out the remaining lease term for this facility, for which the future lease payments were previously accrued in 2006. The consideration for the early termination of this lease amounted to $5 million, which was paid in January 2008.
+A summary of the activity with respect to restructuring charges is as follows   
+Lease
+Number of
+Severance
+commitments
+employees
+Reserve
+and other
+Total
+Balance at January 1, 2007
+-
+$
+-
+$
+492,000
+$
+492,000
+2007 restructuring charges
+-
+-
+393,000
+393,000
+2007 utilization
+-
+-
+380,000
+380,000
+Balance at December 31, 2007
+-
+-
+505,000
+505,000
+2008 utilization
+-
+-
+505,000
+505,000
+Balance at December 31, 2008
+-
+-
+-
+-
+2009 restructuring charges
+28
+626,000
+-
+626,000
+2009 utilization
+28
+626,000
+-
+626,000
+Balance at December 31, 2009
+-
+$
+-
+$
+-
+$
+-
+63 Table of contents
+All utilization amounts in 2007 through 2009 represent cash payments.
+In December 2009, the Company announced its decision to outsource manufacturing of the printed circuit board assembly for the hardware elements of the Companys products. In connection with this decision, the Company expects to gradually reduce its Rochester workforce by approximately twenty employees. Restructuring charges associated with this action are estimated to be in the range of $250,000 to $350,000 and will be recorded during 2010.
+Note R - Product Revenue
+The following table represents the Companys total sales for 2009, 2008 and 2007 classified by product category   
+2009
+2008
+2007
+Communications products
+$
+19,144,000
+$
+23,171,000
+$
+23,301,000
+Computing products
+7,546,000
+11,453,000
+11,102,000
+Switching products
+2,801,000
+5,893,000
+5,916,000
+Total
+$
+29,491,000
+$
+40,517,000
+$
+40,319,000
+Note S Investment in Unconsolidated Company and Notes Receivable
+On February 18, 2004, the Company entered into an agreement to invest up to $3,000,000 in InSciTek Microsystems, Inc. InSciTek, an unrelated company, in the form of an interest bearing convertible note. During 2004, the Company invested $3,000,000 in conjunction with this agreement including committed funding of $350,000 in January 2005. During the fourth quarter 2004, the Company recorded a valuation charge related to this note receivable in the amount of $3,000,000 as collection of this note was doubtful. Under the original terms of the note, the Company had the option to acquire ownership of InSciTek during a future specified period. The note bore interest at 10% annually and was convertible into shares of common stock of InSciTek.
+During the third quarter 2005, InSciTek received an investment from an outside party through the sale of preferred stock. In connection with that investment, the Company and InSciTek renegotiated the terms of the note. Under the amended terms, the Company forfeited the option to acquire ownership of InSciTek during a future specified period. In addition, all unpaid interest due to the Company at the date of the investment, amounting to $248,000, was paid in the form of Series A preferred stock of InSciTek.
+On December 30, 2006, the Company entered into a redemption agreement with InSciTek. Under the terms of the agreement, the Company received $320,000 of consideration for the redemption of $1,000,000 of the $3,000,000 note. In connection with the agreement, the Company reversed $181,000 of the previously recorded valuation reserve and recorded $139,000 as interest income. During the fourth quarter 2006, the Company recorded a valuation charge of $248,000 against the Companys Series A preferred stock investment in InSciTek, reducing the carrying value of the investment to zero. As a part of the redemption agreement, InSciTek was also granted the option to redeem the remaining $2,000,000 of the note by June 1, 2007, in exchange for $500,000.
+Other than interest income, the net impact of these transactions is included in Note Receivable Recoveries and Valuation Charge in the accompanying Consolidated Statement of Income.
+During 2007, InSciTek changed its name to Allworx Corporation Allworx. In May 2007, Allworx paid $500,000 to the Company to exercise its option to redeem the remaining $2,000,000 outstanding under its note receivable. In connection with this transaction, the Company reversed $143,000 of the previously recorded valuation reserve and recorded $357,000 as interest income.
+64 Table of contents
+In October 2007, Allworx was acquired by a third party. In connection with the acquisition, the Company received $305,000 as consideration for its Series A preferred stock investment. As the value of this investment had been reduced to zero in 2006, the entire consideration was recorded as Gain on Sale of Investment in 2007. During 2009, the Company received $55,000 of additional consideration relating to this transaction that had been held in escrow. This amount in included in other income in the accompanying consolidated statement of operations.
+Note T - Quarterly Results unaudited
+The following is a summary of unaudited quarterly results of operations for the years ended December 31, 2009 and 2008   
+2009
+in thousands, except per share data
+Mar. 31
+Jun. 30
+Sep. 30
+Dec. 31
+Sales
+$
+6,927
+$
+6,356
+$
+7,876
+$
+8,332
+Gross profit
+3,736
+3,202
+4,295
+4,465
+Restructuring charges
+444
+181
+Impairment charges
+4,278
+Stock compensation expense
+148
+158
+107
+131
+Loss from operations
+1,880
+1,663
+619
+4,634
+Net loss
+$
+1,426
+$
+4,731
+$
+348
+$
+3,607
+Basic loss per share
+$
+013
+$
+043
+$
+003
+$
+032
+2008
+in thousands, except per share data
+Mar. 31
+Jun. 30
+Sep. 30
+Dec. 31
+Sales
+$
+10,981
+$
+11,225
+$
+9,181
+$
+9,130
+Software capitalization write-offs
+76
+Gross profit
+6,136
+6,368
+5,009
+5,240
+Unsuccessful acquisition expenses
+229
+Stock compensation expense
+167
+152
+194
+56
+Income loss from operations
+438
+648
+502
+94
+Net income
+$
+591
+$
+636
+$
+256
+$
+183
+Basic earnings per share
+$
+05
+$
+05
+$
+002
+$
+002
+Diluted earnings per share
+$
+05
+$
+05
+$
+002
+$
+002
+65
+Table of contents
+Item 1 
+Business 
+5
+Item 1A 
+Risk Factors 
+13 
+Item 1B
+Unresolved Staff Comments
+17
+Item 2
+Properties
+17
+Item 3
+Legal Proceedings
+17
+PART II
+Item 5 - Controls and Procedures
+a. Evaluation of Disclosure Controls and Procedures
+The Companys Chief Executive Officer and its Chief Financial Officer evaluated the effectiveness of the Companys disclosure controls and procedures as defined in Exchange Act Rules 13a-15e and 15d-15e as of the end of the period covered by this annual report. Based on this evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Companys disclosure controls and procedures were effective as of such date.
+b. Internal Control Over Financial Reporting
+Management Annual Report on Internal Control Over Financial Reporting
+The management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting for the Company. The Company internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America. The Company internal control over financial reporting includes those policies and procedures that i pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the Company assets; ii provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with accounting principles generally accepted in the United States of America, and that the Company receipts and 
+expenditures are being made only in accordance with authorizations of the Companys management and directors; and iii provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies and procedures may deteriorate.
+Management conducted an evaluation of the effectiveness of the Companys internal control over financial reporting based on the criteria set forth in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, management concluded that the Company internal control over financial reporting was effective as of December 31, 2009, according to the criteria.
+This annual report does not include an attestation report of the Companys registered public accounting firm regarding the Company internal control over financial reporting. Managements report was not subject to attestation by the Companys registered public accounting firm pursuant to temporary rules of the Securities and Exchange Commission that permit the Company to provide only managements report in this annual report.
+66
+Table of contents
+c. Changes in Internal Control Over Financial Reporting
+There has been no change in the Company internal control over financial reporting that occurred during the fourth quarter of 2009 that has materially affected, or is reasonably likely to materially affect, the Company internal controls over financial reporting.

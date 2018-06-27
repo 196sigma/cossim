@@ -1,0 +1,1065 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+INDEPENDENT AUDITORS' REPORT
+The Board of Directors
+SPACEHAB, Incorporated and Subsidiaries     We have audited the accompanying consolidated balance sheets of
+SPACEHAB, Incorporated and subsidiaries the Company as of June 30, 1999 and
+1998, and the related consolidated statements of operations, stockholders'
+equity, and cash flows for each of the years in the three-year period ended June
+30, 1999. These consolidated financial statements are the responsibility of the
+Company management. Our responsibility is to express an opinion on these
+consolidated financial statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of SPACEHAB,
+Incorporated and subsidiaries as of June 30, 1999 and 1998, and the results of
+their operations and their cash flows for each of the years in the three-year
+period ended June 30, 1999, in conformity with generally accepted accounting
+principles.                               /s/ KPMG LLP
+KPMG LLP McLean, Virginia
+August 13, 1999, except as to note 8
+which is as of September 8, 1999                    20
+22
+SPACEHAB, INCORPORATED AND SUBSIDIARIES
+Consolidated Balance Sheets
+In thousands, except share data  
+June30,
+ASSETS                                                 1999         1998
+-                                                                        
+Current assets:
+Cash and cash equivalents                                     $ 21,346      $ 92,327
+Accounts receivable, net note 4                                  17,471        5,979
+Prepaid expenses and other current assets                               1,146         550
+-              Total current assets                                          39,963        98,856
+-              Property and equipment:
+Flight assets                                            98,594        95,046
+Module improvements in progress                                   49,553        33,829
+Payload processing facilities                                    23,348        21,755
+Furniture, fixtures equipment and leasehold improvements                       9,936        5,296
+-                                                                 181,431       155,926
+Less accumulated depreciation and amortization                             49,247       43,338
+-              Property and equipment, net                                      132,184       112,588
+Goodwill, net of accumulated amortization of $1,339 and $230, respectively               25,498        3,224
+Investment in joint venture note 16                                  1,400          Other assets, net                                            5,301        5,936
+-              Total assets                                             $ 204,346      $ 220,604
+-              LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Loans payable under credit agreement, current portion note 6                  $   333      $   500
+Loans payable, current portion note 8                                3,126        2,824
+Accounts payable                                           3,772        1,075
+Accrued expenses                                           9,409        5,129
+Accrued subcontracting services                                    6,787        13,177
+Deferred revenue                                           4,162        13,491
+-              Total current liabilities                                        27,589        36,196
+-               Loans payable under credit agreement, net of current portion note 6                  667        1,000
+Loans payable, net of current portion note 8                            7,033        9,177
+Convertible notes payable to shareholder note 7                           7,860        11,895
+Convertible subordinated notes payable note 8                           63,250        63,250
+Accrued contract costs                                         940            Deferred income taxes note 13                                    2,842        2,678
+-              Total liabilities                                           110,181       124,196
+-              Commitments and contingencies notes 1, 11, 15 and 16 Stockholders' equity
+notes 8, 11 and 12:
+Common stock, no par value, authorized 30,000,000 shares, issued and
+outstanding 11,229,646 and 11,168,161 shares, respectively                     81,585        81,239
+Additional paid-in capital                                        16          16
+Retained earnings                                          12,564        15,153
+-              Total stockholders' equity                                       94,165        96,408
+-              Total liabilities and stockholders' equity                              $ 204,346      $ 220,604
+-              See accompanying notes to consolidated financial statements.                    21
+23
+SPACEHAB, INCORPORATED AND SUBSIDIARIES
+Consolidated Statements of Operations
+In thousands, except share data  
+Year ended     Year ended     Year ended
+June 30,1999    June 30,1998    June 30,1997
+-                                                                     
+Revenue                                    $  107,720       64,087    $   56,601
+-              Costs of revenue:
+Integration, operations and transportation                      69,113       25,762       23,726
+Depreciation                                     5,030        4,923        9,825
+Other direct costs                                  5,334        4,373         569
+Indirect costs                                    9,806        1,263         926
+-              Total costs of revenue                                89,283       36,321       35,046
+-              Gross profit                                     18,437       27,766       21,555
+-              Operating expenses:
+Marketing, general and administrative                        14,599       10,731        7,193
+Research and development                               3,636        4,338        1,700
+-              Total operating expenses                               18,235       15,069        8,893
+-              Income from operations                                 202       12,697       12,662
+Interest expense, net of capitalized interest note 3                4,905       4,480        955
+Interest and other income, net                            1,615        3,914        1,822
+-              Net income loss before income taxes and extraordinary item             3,088       12,131       13,529
+Income tax expense benefit note 13                         499       2,527        2,971
+-              Net income loss before extraordinary item                     2,589       9,604       10,558
+Extraordinary item - gain on early retirement of debt, net of
+taxes and legal fees note 6                              --         --        3,274
+-              Net income loss                               $   2,589    $   9,604    $   13,832
+-              Basic earnings loss per share Net income loss before extraordinary item                  $   023    $    086    $    095
+Extraordinary item                                    --         --        029
+-              Net income loss per share - basic                      $   023    $    086    $    124
+-              Shares used in computing net income loss per share - basic           11,184,742     11,154,271     11,118,825
+-              Diluted earnings loss per share Net income loss before extraordinary item                  $   023    $    084    $    095
+Extraordinary item                                    --         --        029
+-              Net income loss per share - diluted                     $   023    $    084    $    124
+-              Shares used in computing net income loss per share - diluted          11,184,742     14,571,278     11,160,322
+-              See accompanying notes to consolidated financial statements.                    22
+24
+SPACEHAB, INCORPORATED AND SUBSIDIARIES
+Consolidated Statements of Stockholders' Equity
+In thousands, except share data  
+Common stock      Additional   Retained      Total
+paid-in    earnings    stockholders'
+Shares     Amount    capital    deficit     equity
+Balance at June 30, 1996                11,069,237    $  79,863   $    16   $  8,283   $  71,596
+Common stock issued upon stock option exercises       2,000        24       --       --       24
+Common stock issued upon conversion of debt note 8    75,000      1,170       --       --      1,170
+Net income                           --        --       --     13,832     13,832
+-                 Balance at June 30, 1997                11,146,237      81,057       16     5,549     86,622
+Common stock issued upon stock option exercises       8,725        60       --       --       60
+Common stock issued under employee stock purchase      13,199       122       --       --       122
+plan
+Net income                           --        --       --     9,604      9,604
+-                 Balance at June 30, 1998                11,168,161      81,239       16     15,153     96,408
+Common stock issued upon stock option exercises       1,070        8       --       --        8
+Common stock issued under employee stock purchase      60,415       338       --       --       338
+plan
+Net income loss                        --        --       --     2,589     2,589
+-                 Balance at June 30, 1999                11,229,646    $  81,585   $    16   $  12,564   $  94,165
+-                 See accompanying notes to consolidated financial statements.                    23
+25
+SPACEHAB, INCORPORATED AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+In thousands  
+Year ended    Year ended     Year ended
+June 30, 1999   June 30, 1998   June 30, 1997
+-                                                                  
+Cash flows from operating activities:
+Net income loss                                 $ 2,589     $ 9,604      $ 13,832
+Adjustments to reconcile net income loss to net cash provided by
+used for operating activities:
+Depreciation and amortization                         7,017       5,587       10,185
+Amortization of debt placement costs                       538        226             Gain on early retirement of debt                         --         --       4,093
+Interest converted to notes payable                        --        670       1,300
+Changes in assets and liabilities:
+Decrease increase in accounts receivable                 3,126       803       1,843
+Increase in prepaid expenses and other current assets            290       351        15
+Decrease in deferred mission costs                       --       1,439       1,267
+Decrease increase in other assets                      14      1,980       258
+Increase decrease in deferred flight revenue               7,762       9,628      28,051
+Increase decrease in accounts payable and                        accrued expenses                               345       3,633        968
+Increase decrease in advance billings                  1,567        720        239
+Increase decrease in accrued
+subcontracting services                            97        553        798
+Increase in deferred taxes                         1,020       2,678                           Net cash provided by used for operating activities                 6,331      31,604       5,995
+-                  Cash flows from investing activities:
+Payments for flight assets under construction                   27,381      17,245      8,443
+Payments for building under construction                       871      3,988          Purchases of property, equipment and leasehold improvements             4,222      1,880       731
+Purchase of Astrotech, net of cash acquired                       --         --      20,134
+Purchase of Johnson Engineering, net of cash acquired               24,745        --          Investment in joint venture                             1,400        --                           Net cash used for investing activities                        58,619      23,113      29,308
+-                  Cash flows from financing activities:
+Payments of note payable to insurers                         500       500      2,520
+Payment of debt placement costs                             --       3,984          Proceeds from issuance of convertible subordinated notes payable            --       63,250          Proceeds from note payable                              1,000       14,119          Payments of note payable                              2,842      2,118          Payments of note payable to shareholder                       4,035        --          Payments of legal fees on early retirement of debt                   --         --        110
+Proceeds from exercise of stock options                         8         60         24
+Proceeds from issuance of common stock, net of expenses                338        122                           Net cash provided by used for financing activities                 6,031      70,949       2,606
+-                  Net increase decrease in cash and cash equivalents                 70,981      79,440      37,909
+Cash and cash equivalents at beginning of year                    92,327       12,887       50,796
+-                  Cash and cash equivalents at end of year                      $ 21,346      $ 92,327      $ 12,887
+-                  See accompanying notes to consolidated financial statements.                    24
+26
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1   DESCRIPTION OF THE COMPANY
+SPACEHAB, Incorporated the Company is the first company to
+commercially develop, own and operate habitable modules that provide
+space-based laboratory research facilities and cargo services aboard
+the U.S. Space Shuttle system. The Company currently owns and operates
+three pressurized laboratory and logistics supply modules, which
+significantly enhance the capabilities of the Space Shuttle fleet. The
+Company is currently constructing a new research module with associated
+double module hardware. The Company modules are unique to the Space
+Shuttle fleet.
+To date, the Company has successfully completed thirteen
+missions aboard the Space Shuttle and substantially all of the
+Company revenue has been generated under contracts with NASA. The
+Company contracts are subject to periodic funding allocations by
+NASA. NASA funding is dependent on receiving annual appropriations
+from the United States government. During the years ended June 30,
+1999, 1998 and 1997, approximately 80%, 68% and 88% of the Company
+revenues were generated under U.S. Government contracts.
+On February 12, 1997, the Company acquired the assets and
+certain of the liabilities of Astrotech Space Operations, L.P.
+Astrotech, a subsidiary of Northrop Grumman, a provider of
+commercial satellite launch processing services and payload processing
+facilities in the United States. These services are provided at the
+Astrotech facilities in Cape Canaveral, Florida and Vandenberg Air
+Force Base in California, and are provided to launch service providers
+on a fixed-price basis. Additionally, Astrotech provides management and
+consulting services to the Boeing Company for its Sea Launch program at
+the Boeing facility in Long Beach, California.
+On July 1, 1998, the Company acquired all of the outstanding
+shares of capital stock of Johnson Engineering Corporation JE. JE
+performs several critical services for NASA including flight crew
+support services, operations, training and fabrication of mockups at
+NASA Neutral Buoyancy Laboratory and at NASA Space Vehicle Mockup
+Facility, where astronauts train for both Space Shuttle and ISS
+missions. JE also designs and fabricates flight hardware, such as
+flight crew equipment and crew quarters' habitability outfitting as
+well as providing stowage integration services. JE is also responsible
+for configuration management of the ISS.
+2   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+PRINCIPLES OF CONSOLIDATION AND BASIS OF PRESENTATION
+The consolidated financial statements include the accounts of
+SPACEHAB, Incorporated and its wholly owned subsidiaries Astrotech and
+JE. All significant intercompany transactions have been eliminated in
+consolidation.
+CASH AND CASH EQUIVALENTS
+For purposes of its consolidated statements of cash flows, the
+Company considers short-term investments with original maturities of
+three months or less to be cash equivalents. Cash equivalents are
+primarily made up of commercial paper investments recorded at cost,
+which approximates market value.
+PROPERTY AND EQUIPMENT
+Property and equipment are stated at cost. All furniture,
+fixtures and equipment are depreciated using the straight-line method
+over the estimated useful lives of the respective assets                    25
+27
+which is generally five years. The Company payload processing
+facilities are depreciated using the straight-line method over their
+estimated useful lives ranging from sixteen to forty-three years.
+Through June 30, 1997, the Company flight modules were
+depreciated over a ten-year period using the straight-line method.
+Effective July 1, 1997, the Company extended the estimated useful lives
+of its space modules through 2012. This change in accounting estimate
+is treated prospectively and was based on then currently available
+information from NASA, which estimated the duration of the Space
+Shuttle program through at least 2012. As a result of this change in
+estimate, the Company net income increased by $62 million for FY
+1998.
+The Company has adopted Statement of Financial Accounting
+Standards No. 121, Accounting for the Impairment of Long-lived Assets
+and for Long-lived Assets to be Disposed Of Statement 121. Statement
+121 requires that long-lived assets to be held and used, including
+goodwill, be reviewed by the Company for impairment whenever events or
+circumstances indicate that the carrying amount of an asset may not be
+recoverable. An impairment loss is recognized when the undiscounted net
+cash flows associated with the asset are less than the asset carrying
+amount. Impairment losses, if any, are measured as the excess of the
+carrying amount of the asset over its estimated fair value.
+GOODWILL
+The excess of the cost over the fair value of net tangible and
+identifiable intangible assets acquired in purchase business
+combinations has been assigned to goodwill. Goodwill is being amortized
+on a straight-line basis over twenty to twenty-five years.
+INVESTMENT IN JOINT VENTURES
+The Company generally uses the equity method of accounting for
+its investments in, and earnings of, investees. In accordance with the
+equity method of accounting, the carrying amount of such an investment
+is initially recorded at cost and is increased to reflect the Company
+share of the investee income and is reduced to reflect the Company
+share of the investee losses. For those investments for which the
+Company has provided substantially all of the investee funding, the
+Company uses the modified equity method of accounting whereby 100% of
+the investee current period earnings or losses are recognized.
+STOCK-BASED COMPENSATION
+The Company has adopted Statement of Financial Accounting
+Standards No. 123, Accounting for Stock-based Compensation Statement
+123, which encourages, but does not require, the recognition of
+stock-based employee compensation at fair value. The Company has
+elected to continue to account for stock-based employee compensation
+using the intrinsic value method as prescribed in Accounting Principles
+Board Opinion No. 25, Accounting for Stock Issued to Employees, and
+related interpretations. Accordingly, compensation cost for options to
+purchase common stock granted to employees is measured as the excess,
+if any, of the fair value of common stock at the date of the grant over
+the exercise price an employee must pay to acquire the common stock.
+Warrants to purchase common stock granted to other than
+employees as consideration for goods or services rendered are
+recognized at fair value.
+REVENUE RECOGNITION
+Prior to the REALMS contract note 10, the Company recognized
+revenue upon completion of each module flight. Total contract price was
+allocated to each flight based on the amount of services the Company
+provided on the flight relative to the total services provided for                    26
+28
+all flights under contract. Obligations associated with a specific
+mission, e.g., integration services, were also recognized upon
+completion of the mission. Costs directly related to specific missions
+were deferred until the respective missions were completed.
+For all other contract awards for which the capability to
+successfully complete the contract can be reasonably assured and costs
+at completion can be reliably estimated at contract inception, revenue
+recognition under the percentage-of-completion method is being used
+based on costs incurred over the period of the contract. Revenue
+provided by Astrotech payload processing services is recognized
+ratably over the occupancy period of the satellite while in the
+Astrotech facilities. Revenue provided by JE is primarily based on
+cost-plus award fee contracts, whereby revenue is recognized to the
+extent of costs incurred plus estimates of award fee revenues using the
+percentage-of-completion method. Award fees, which provide earnings
+based on the Company contract performance as determined by NASA
+evaluations, are recorded when the amounts can be reasonably estimated,
+or are awarded. Changes in estimated costs to complete, provisions for
+contract losses and estimated amounts recognized as award fees are
+recognized in the period they become known.
+RESEARCH AND DEVELOPMENT
+Research and development costs are expensed as incurred.
+INCOME TAXES
+The Company recognizes income taxes under the asset and
+liability method. Under the asset and liability method, deferred tax
+assets and liabilities are recognized for the future tax consequences
+attributable to differences between the financial statement carrying
+amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured using enacted
+tax rates expected to apply to taxable income in the years in which
+those temporary differences are expected to be recovered or settled.
+The effect on deferred tax assets and liabilities of a change in tax
+rates is recognized in income in the period that includes the enactment
+date.
+NET INCOME LOSS PER SHARE
+In December 1997, the Company adopted the provisions of
+Statement of Financial Accounting Standards No. 128, Earnings per
+Share, Statement 128. Statement 128 supersedes Accounting Principles
+Board Opinion No. 15, Earnings per Share APB 15 and its related
+interpretations, and promulgates new accounting standards for the
+computation and manner of presentation of the Company earnings loss
+per share. The Company has restated previously reported annual earnings
+per share data in accordance with the provisions of Statement 128 note
+14. The Company does not believe that the adoption of Statement 128
+had a material impact on the computation or manner of presentation of
+its earnings loss per share data as currently or previously presented
+under APB 15.
+Basic earnings loss per share are calculated by dividing net
+income loss by the weighted average number of common shares
+outstanding during the period.
+The computation of diluted earnings loss per share includes
+all common stock options and warrants and other common stock, to the
+extent dilutive, that potentially may be issued as a result of
+conversion privileges, including the convertible subordinated notes
+payable note 8.
+COMPREHENSIVE INCOME
+During fiscal year 1999, the Company adopted the provisions of
+Statement of Financial Accounting Standards No. 130, Reporting
+Comprehensive Income SFAS No. 130. SFAS No.                    27
+29
+130 requires the display of comprehensive income, which includes
+unrealized gains or losses on investments and accumulated foreign
+currency translation adjustments, if any. There were no such components
+of other comprehensive income for the years ended June 30, 1999, 1998
+or 1997.
+ACCOUNTING ESTIMATES
+The preparation of consolidated financial statements in
+conformity with generally accepted accounting principles requires
+management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets
+and liabilities at the date of the consolidated financial statements
+and the reported amounts of revenue and expenses during the reported
+periods. Actual results could differ from these estimates.
+RECLASSIFICATIONS
+Certain FY 1997 and 1998 amounts have been reclassified to
+conform to the fiscal 1999 consolidated financial statement
+presentation.
+3  STATEMENTS OF CASH FLOWS - SUPPLEMENTAL INFORMATION
+Cash paid for interest costs was approximately $54 million,
+$34 million and $13 million for the years ended June 30, 1999, 1998
+and 1997, respectively. The Company capitalized interest of
+approximately $25 million, $20 million and $03 million during the
+years ended June 30, 1999, 1998 and 1997, respectively, related to the
+module improvements and building in progress.
+The Company paid income taxes of approximately $04 million, $19
+thousand and $24 million for the years ended June 30, 1999, 1998 and
+1997, respectively.
+During FY 1997, the Company convertible note payable, with a
+carrying value of approximately $12 million, was converted into 75,000
+shares of common stock note 8.                    28
+30
+4  ACCOUNTS RECEIVABLE
+At June 30, 1999 and 1998, accounts receivable consisted of in
+thousands                                                      1999         1998
+-                                                                           
+U.S. government contracts:
+Billed                                          $ 0,523       $  452
+Unbilled                                          2,661        3,202
+Total U.S. government contracts                              13,184        3,654
+-                       Commercial contracts:
+Billed                                           3,481        2,277
+Unbilled                                           806          48
+-                       Total commercial contracts                                 4,287        2,325
+-                       Total accounts receivable                                 $17,471       $ 5,979
+-                     The Company anticipates collecting substantially all receivables within
+one year.
+5  ACQUISITIONS
+JOHNSON ENGINEERING
+On July 1, 1998, the Company paid approximately $247 million,
+including transaction costs, to acquire all of the capital stock of JE.
+The business combination has been accounted for using the purchase
+method under Accounting Principles Board Opinion No. 16, Business
+Combinations, APB Opinion 16. The purchase price has been allocated
+to the assets and liabilities acquired based on estimates of fair value
+as of the date of acquisition. Based on the allocation of the net
+assets acquired, goodwill of approximately $234 million was recorded.
+Such goodwill is being amortized on a straight-line basis over 25
+years. The purchase price has been allocated as follows in thousands                               
+Cash                     $   0
+Prepaid and other current assets          306
+Accounts receivable, net             8,366
+Inventory                      5
+Property, plant and equipment, net         446
+Other assets                    622
+Goodwill                    23,362
+Current liabilities              7,434
+Accrued contract costs              928
+Total purchase price             $ 24,745
+29
+31
+The following represents pro forma combined results of operations for
+the prior year as if the acquisition of JE had occurred as of July 1, 1997, in
+thousands, except per share data                                              Year ended
+June 30, 1998
+Revenue                                      $ 116,266
+Gross profit                                     34,280
+Net income                                      9,251
+Net income per common share - basic                        $  083
+Net income per common share - diluted                       $  082
+ASTROTECH
+The Company paid $201 million, including transaction costs,
+to acquire substantially all of the assets and certain of the
+liabilities of Astrotech. The purchase was effective on February 12,
+1997. The business combination was accounted for using the purchase
+method. The purchase price was allocated to the assets and liabilities
+acquired based on estimates of fair value as of the date of
+acquisition. Based on the allocation of the net assets acquired,
+goodwill of approximately $35 million was recorded and is being
+amortized on a straight line basis over twenty years.
+6  LOANS PAYABLE UNDER CREDIT AGREEMENT
+Prior to an August 1996 amendment, the Company credit
+agreement consisted of a $65 million term loan bearing interest at 1
+percent per month and a $55 million non-interest-bearing term loan
+with several insurance companies. In addition, a revolving credit
+commitment with a subcontractor and former shareholder provided a
+maximum outstanding balance of $60 million and bore interest at a rate
+of 1 percent per month.
+In August 1996, the Company credit agreement was amended.
+Under the amendment, the revolving credit commitment with a
+subcontractor and former shareholder was canceled. In exchange for the
+full satisfaction of the Company term loans with the various
+insurance companies, the Company paid the insurance companies $25
+million and agreed to pay an additional $20 million under a new
+non-interest-bearing term loan. As of June 30, 1999, the remaining
+balance due under the term loan is due in installments of $033 million
+on each of August 1, 1999, 2000 and 2001. As a result of this amended
+and restated agreement, the Company recognized an extraordinary gain of
+$33 million, net of income taxes and other related expenses of $08
+million and $01 million, respectively, during the year ended June 30,
+1997.
+In conjunction with a payment of certain principal of notes
+payable due to Alenia Spazio S.p.A. in December 1998, see note 7, the
+annual interest rate on the outstanding balances was amended to be at
+825 percent per year. Aggregate interest cost incurred on the debts
+due under the various credit agreements was approximately $40 thousand
+, $0 and $01 million for the years ended June 30, 1999, 1998 and 1997
+respectively.
+7  NOTES PAYABLE TO SHAREHOLDER
+The Company issued subordinated notes for a portion of the
+amount due to Alenia Spazio S.p.A. Alenia, a shareholder, under a
+previously completed construction contract for the Company flight
+modules. In December 1998, the Company amended its agreement with
+Alenia Spazio S.p.A. relative to the subordinated notes payable with an
+outstanding principal balance of $119 million due in August 2001. In
+exchange for payment of $40 million of principal, Alenia agreed to
+waive the interest payment due for the quarter ended December 31, 1998
+and to reduce                    30
+32
+the annual interest rate on the subordinated notes from 12 to 10
+percent on the outstanding balance as of January 1, 1999. In addition,
+Alenia may elect to convert, in whole or part, the remaining principal
+amount into SPACEHAB equity, on terms and conditions to be agreed with
+SPACEHAB.
+The subordinated notes had aggregate outstanding balances of
+$79 million and $119 million at June 30, 1999 and 1998, respectively.
+The notes currently bear interest at an annual rate of 10 percent. No
+amount of principal or accrued interest on the notes is due until all
+amounts under the amended and restated credit agreement due to the
+various insurance companies note 6 are repaid. As such, all principal
+payments are due under these notes on August 1, 2001. However, during
+fiscal 1998, the Company began paying interest quarterly. The Company
+paid $04 million of interest during the year ended June 30, 1999 and
+intends to continue to pay interest quarterly.
+Interest cost converted to additional principal on the notes to
+Alenia was approximately $0 and $07 million for the years ended June
+30, 1999 and 1998, respectively.
+8  OTHER LONG-TERM DEBT
+CONVERTIBLE NOTE PAYABLE
+On August 12, 1992, the Company issued a subordinated promissory
+note to an investment bank in the amount of $09 million, carrying
+interest at LIBOR plus 3 percent, and maturing six months after the
+payment of all other indebtedness due under the amended and restated
+credit agreement and the subordinated notes to Alenia. The note was
+convertible at the option of the holder into 75,000 shares of the
+Company common stock at any time prior to maturity. On October 25,
+1996, the investment bank exercised its option to convert the note into
+the Company common stock.
+CREDIT FACILITIES
+On June 16, 1997, the Company entered into a $100 million line
+of credit agreement with a financial institution. Outstanding balances
+on the line of credit accrue interest at either the lender prime rate
+or a LIBOR-based rate. Certain assets of the Company collateralize this
+loan. The term of the agreement is through October 1999. Through June
+30, 1999, the Company has not drawn against the line of credit.
+On July 14, 1997, the Company subsidiary, Astrotech, entered
+into another credit facility for loans of up to $150 million with a
+financial institution. The term of the agreement is through July 13,
+2002. This loan is collateralized by the assets of Astrotech and
+certain other assets of the Company, and is guaranteed by the Company.
+Interest accrues at LIBOR plus three percent. Principal and interest
+are payable on a quarterly basis. In April 1999, the Company borrowed
+an additional $10 million under this credit facility with the same
+terms, conditions and expiration date of the original loan. Principal
+payments of $31 million are due in FY 2000, 2001, and 2002 and
+principal payments of $08 million are due in FY 2003. At June 30,
+1999, the Company had an outstanding balance of $102 million under
+this credit facility and accrued interest of $02 million.
+COVENANT CHANGES
+For the period ended June 30, 1999, the Company was in breach of
+certain loan covenants of the term loan and line of credit facility.
+The covenants had been negotiated prior to the acquisition of JE. While
+the Company had not drawn against the line of credit, covenant waivers
+were requested and received, for the year ended June 30, 1999, from
+both lending institutions. The Company believes it will be in
+compliance with the covenants on a going forward basis.                    31
+33
+CONVERTIBLE SUBORDINATED NOTES
+In October 1997, the Company completed a private placement
+offering for $633 million of aggregate principal of unsecured 8
+percent Convertible Subordinated Notes due 2007. Interest is payable
+semi-annually. The notes are convertible into the common stock of the
+Company at a rate of $13625 per share. This offering provided the
+Company with net proceeds of approximately $599 million to be used for
+capital expenditures associated with the development and construction
+of space related assets and for other general corporate purposes.
+9  FAIR VALUE OF FINANCIAL INSTRUMENTS
+The following table presents the carrying amounts and estimated
+fair values of the Company financial instruments as of June 30, 1999
+and 1998 in accordance with Statement of Financial Accounting Standards
+No. 107, Disclosures about Fair Value of Financial Instruments in
+thousands                                June 30, 1999        June 30, 1998
+Carrying     Fair     Carrying    Fair
+amount     value     amount     value
+Financial liabilities:
+Loans payable under credit agreement   $ 1,000      920    $ 1,500     1,279
+Notes payable to shareholder         7,860     7,860     11,895    11,895
+Loans payable under credit facility     10,159     10,159     12,001    12,001
+Convertible notes payable          63,250     50,600     63,250    68,784
+The fair value of the Company long-term debt is based on quoted
+market price or is estimated based on the current rates offered to the
+Company for debt of similar remaining maturities and other terms. The
+carrying amounts of cash and cash equivalents, receivables, and
+accounts payable and accrued expenses approximate their fair market
+value because of the relatively short duration of these instruments.
+10  NASA CONTRACTS
+MIR SPACE STATION CONTRACT
+On July 14, 1995, NASA and the Company completed final
+negotiations to provide the Company flight modules and related
+integration services over four missions to the Russian Space Station
+Mir. The contract was subsequently amended which resulted in a total
+contract value of $915 million and the addition of three missions.
+During the years ended June 30, 1998 and 1997, the Company
+recognized $390 million and $417 million, respectively, of revenue
+under the Mir contract. Work under the Mir contract, as amended, was
+completed with its final mission in June 1998.
+RESEARCH AND LOGISTICS MODULE SERVICES CONTRACT
+On December 21, 1997, the Company entered into the Research and
+Logistics Module Services REALMS Contract to provide to NASA its
+flight modules and related integration services over three missions at
+an aggregate fixed price of $449 million. This contract provides for
+NASA to use the flight modules for both science and logistics missions.
+During 1999, NASA                    32
+34
+exercised an additional option mission and change orders thereby
+increasing the contract value to $682 million.
+During the years ended June 30, 1999 and 1998, the Company
+recognized $282 million and $143 million of revenue, respectively,
+under this contract.
+FLIGHT CREW SYSTEMS DEVELOPMENT CONTRACT FCSD
+JE primarily operates under NASA FCSD Contract which is
+currently a $3263 million multi task cost plus-award and incentive fee
+contract. The contract commenced in May 1993 and will conclude in April
+2001. NASA has the option to exercise a one year extension. JE performs
+several critical services for NASA including flight crew support
+services, operations, training and fabrication of mockups at NASA
+Neutral Buoyancy Laboratory and at NASA Space Vehicle Mockup
+Facility, where astronauts train for both Space Shuttle and ISS
+missions. JE also designs and fabricates flight hardware, such as
+flight crew equipment and crew quarters habitability outfitting as well
+as providing stowage integration services. JE is also responsible for
+configuration management of the ISS.
+11  STOCKHOLDER RIGHTS PLAN
+On March 26, 1999, the Board of Directors adopted a Stockholder
+Rights Plan designed to deter coercive takeover tactics and to prevent
+a potential acquirer from gaining control of the Company without
+offering a fair price to all of the Company stockholders. A dividend
+of one preferred share purchase right a Right was declared on every
+share of Common Stock outstanding on April 9, 1999. Each Right under
+the Plan entitles the holder to buy one one-thousandth of a share of a
+new series of junior participating preferred stock for $35. If any
+person or group becomes the beneficial owner of 15 percent or more of
+common stock with certain limited exceptions, then each Right not
+owned by the 15 percent stockholder will then entitle its holder to
+purchase, at the Right then current exercise price, common shares
+having a market value of twice the exercise price. In addition, if
+after any person has become a 15 percent stockholder, and is involved
+in a merger or other business combination transaction with another
+person, each Right will entitle its holder other than the 15 percent
+stockholder to purchase, at the Right then current exercise price,
+common shares of the acquiring company having a value of twice the
+Right then current exercise price. The rights were granted to each
+shareholder of record on April 9, 1999. At any time before a person or
+group acquires a 15% position, SPACEHAB generally will be entitled to
+redeem the Rights at a redemption price of $001 per Right. The Rights
+will expire on April 9, 2009.
+12   COMMON STOCK OPTION AND STOCK PURCHASE PLANS
+NON-QUALIFIED OPTIONS
+Non-qualified options are granted at the sole discretion of the
+Board of directors. Prior to the adoption of the 1994 Stock Incentive
+Plan the 1994 Plan, stock options granted to the Company officers
+and employees were part of their employment contract or offer. The
+number and price of the options granted was defined in the employment
+agreements and such options vest incrementally over a period of four
+years and generally expire within ten years of the date of grant.
+300,000 options were granted in fiscal year 1999 in connection with the
+acquisition of JE.
+THE 1994 PLAN
+Under the terms of the 1994 Plan, the number and price of the
+options granted to employees is determined by the Board of Directors
+and such options vest, in most cases, incrementally over a period of
+four years and expire no more than ten years after the date of grant.                    33
+35
+THE DIRECTORS' STOCK OPTION PLAN
+Prior to an amendment on October 21, 1997, each nonemployee
+member of the Board of Directors was annually granted options to
+purchase 5,000 shares of common stock at exercise prices equal to the
+fair market value on the date of grant. Subsequent to the amendment,
+each nonemployee member of the Board of Directors received a one-time
+grant of an option to purchase 10,000 shares of common stock. Further,
+each new nonemployee director after the amendment date shall receive a
+one-time grant of an option to purchase 10,000 shares. In addition,
+effective as of the date of each annual meeting of the Company
+stockholders on or after the effective date, each nonemployee director
+who is elected or continues as a member of the Board of Directors of
+the Company shall be awarded an option to purchase 5,000 shares of
+common stock. Options under the Director Plan vest after one year and
+expire seven years from the date of grant.
+1997 EMPLOYEE STOCK PURCHASE PLAN
+During the year ended June 30, 1998, the Company adopted an
+employee stock purchase plan that permits eligible employees to
+purchase shares of common stock of the Company at prices no less than
+85 percent of the current market price. Eligible employees may elect to
+participate in the plan by authorizing payroll deductions from one
+percent to ten percent of gross compensation for each payroll period.
+On the last day of each quarter, each participant contribution
+account is used to purchase the maximum number of whole and fractional
+shares of common stock determined by dividing the contribution
+account balance by the lesser of 85 percent of the price of a share
+of common stock on the first day of the quarter or the last day of a
+quarter. The maximum number of shares of common stock that may be
+purchased under the plan is 1,500,000. Through June 30, 1999, 73,614
+shares have been issued under the plan.                    34
+36
+STOCK OPTION ACTIVITY SUMMARY
+The following table summarizes the Company stock option plans                  Non-qualified options      1994 Plan        Directors' plan
+Weighted          Weighted          Weighted
+average          average           average
+Shares    exercise   Shares    exercise    Shares    exercise
+outstanding   price   outstanding   price    outstanding   price
+- 
+Outstanding at 6/30/96        620,462    1228   1,000,738    1335       -      -
+Granted              14,166     888   1,024,751     690     50,000     700
+Exercised               -      -     2,000    1200       -      -
+Forfeited            194,642    1200    790,266    1314       -        
+Outstanding at 6/30/97        439,986    1201   1,233,223     820     50,000     700
+Granted              10,000    1013    257,338    1100    145,000    1092
+Exercised               -      -     3,725    1002     5,000    1013
+Forfeited            149,941    1216     8,583    1196       -        
+Outstanding at 6/30/98        300,045    1233   1,478,253     862    190,000     999
+Granted             300,000    1400    572,713    1169     50,000     700
+Exercised               -      -     1,070     969       -      -
+Forfeited            106,241    1200    140,670     916       -        
+Outstanding at 6/30/99        493,804    $1342   1,909,226    $ 950    240,000    $ 937
+- 
+Options exercisable at:
+June 30, 1997          429,720    1216    819,742     849       -      -
+June 30, 1998          295,978    1217    983,620     855     45,000     700
+June 30, 1999          191,770    1239   1,072,121     856    190,000     999
+Weighted-average fair value
+at date of grant
+during the fiscal
+period ended
+June 30, 1997         14,166     280   1,024,751     256     50,000     219
+June 30, 1998         10,000     425    257,338     383    145,000     343
+June 30, 1999        300,000     312    572,713     450     50,000     221
+-                     35
+37
+12  CONTINUED
+The following table summarizes information about the Company
+stock options outstanding at June 30, 1999                          Options outstanding         Options exercisable
+Weighted-
+average
+remaining   Weighted-          Weighted-
+contractual    average           average
+Number     life   exercise     Number   exercise
+Range of exercise prices     outstanding    years     price  exercisable    price
+$2400                 6,100     325   $ 2400     4,066   $ 2400
+$1013 - $1488          1,607,551     545     1230    638,243     1229
+$ 575 - $988          1,029,379     380     689    811,582     680
+$ 575 - $2400          2,643,030     480   $ 1022   1,453,891   $  926
+The Company applies APB Opinion 25 and related interpretations
+in accounting for its plans. Accordingly, as all options have been
+granted at exercise prices equal to the fair market value as of the
+date of grant, no compensation cost has been recognized under these
+plans in the accompanying consolidated financial statements. Had
+compensation cost been determined consistent with Statement 123, the
+Company net income and earnings per common share would have been
+reduced to the pro forma amounts indicated below in thousands, except
+per share data                                   Years ended June 30,
+1999       1998       1997
+Net income loss:
+As reported                  $ 2,589     $ 9,604      10,558
+Pro forma                    4,424      8,772       8,964
+Net income loss per share - basic:
+As reported                  $ 023     $ 086       095
+Pro forma                     040       079       081
+The fair value of each option granted is estimated on the date
+of grant using the Black-Scholes option-pricing model with the
+following weighted average assumptions used for grants in fiscal years
+1999, 1998 and 1997, respectively: 00 percent dividend growth;
+expected volatility ranging from 35 percent to 40 percent; risk-free
+interest rates ranging from 568 percent to 671 percent; and expected
+lives ranging from three to seven years.
+The effects of compensation cost as determined under Statement
+123 on net income in fiscal years 1999, 1998 and 1997 may not be
+representative of the effects on pro forma net income in future
+periods.                    36
+38
+WARRANTS
+The Company also has 53,000 currently exercisable warrants
+outstanding to purchase the Company common stock at $900 per share,
+with an expiration date of June 2002. The fair market value of these
+warrants was recognized at issuance. All such warrants were issued at
+exercise prices equivalent to, or in excess of, the determined fair
+market value of the Company common stock at the date of issuance.
+13  INCOME TAXES
+The components of income tax expense benefit from continuing
+operations are as follows in thousands                                Year ended    Year ended    Year ended
+June 30, 1999  June 30, 1998   June 30, 1997
+-                                                        
+Current:
+Federal                     $1,447         --        2,706
+State and local                    15          --         265
+-                                                         1,432         --        2,971
+-                             Deferred:
+Federal                       847        2,148                 State and local                    86         379                                                                    933        2,527                                       Income tax expense benefit             $ 499        2,527        2,971
+-                                 During the year ended June 30, 1997, income tax expense of
+$819,000 was allocated to the extraordinary gain on early retirement of
+debt.
+A reconciliation of the expected amount of income tax expense
+benefit, calculated by applying the statutory federal income tax rate
+of 34 percent in FY 1999, 1998 and 1997 to income loss from
+continuing operations before taxes, to the actual amount of income tax
+expense benefit recognized follows in thousands                                     Years ended
+June 30, 1999   June 30, 1998  June 30, 1997
+Expected expense benefit           $ 1,050       4,241      4,600
+Change in valuation allowance            169       2,058     2,640
+State income tax                   15        299      1,011
+Other non deductibles, primarily goodwill
+amortization                   397         45        -
+Income tax expense               $  499       2,527      2,971
+37
+39
+The tax effects of temporary differences that give rise to
+significant portions of the deferred tax assets and deferred tax
+liabilities as of June 30, 1999 and 1998 are presented below in
+thousands                                       1999        1998
+Deferred tax assets:
+Net operating loss carryforwards              $  7,863     $  3,140
+General business credit carryforwards             2,189       2,189
+Alternative minimum tax credit carryforwards          3,292       4,905
+Capitalized research and development costs            270        452
+Other                              900        225
+Total gross deferred tax assets                  14,514       10,911
+Less - valuation allowance                      169         -
+Net deferred tax assets                      14,345       10,911
+Deferred tax liabilities:
+Property and equipment, principally due to
+differences in depreciation                16,700       13,364
+Other                              487         74
+Total gross deferred tax liabilities                17,187       13,438
+Net deferred tax liabilities                  $ 2,842     $ 2,527
+As of June 30, 1998, current deferred tax assets of $151,000 are
+included in prepaid expenses and other current assets in the
+accompanying balance sheet.
+The net changes in the total valuation allowance for the years
+ended June 30, 1999, 1998 and 1997 were an increase of $02 million and
+decreases of $47 million and $21 million, respectively.
+At June 30, 1999, the Company had accumulated net operating
+losses of $197 million available to offset future regular taxable
+income. These operating loss carryforwards expire between the years
+2007 and 2019. Utilization of these net operating losses may be subject
+to limitations in the event of significant changes in stock ownership
+of the Company.
+Additionally, the Company has approximately $22 million and $33
+million of research and experimentation and alternative minimum tax
+credit carryforwards, respectively, available to offset future regular
+tax liabilities. The research and experimentation credits expire
+between the years 2000 and 2008; the alternative minimum tax credits
+carryforward indefinitely.
+In assessing the realizability of deferred tax assets,
+management considers whether it is more likely than not that some
+portion or all of the deferred tax assets are realizable. Management
+considers the scheduled reversal of deferred tax liabilities, projected
+future taxable income, and tax planning strategies in making this
+assessment. Based upon the level of projected future regular taxable
+income over the periods, which the deferred tax assets are deductible,
+management believes that the Company will realize the benefits of these
+deductions. As of June 30, 1999, the Company provided a valuation
+allowance of $169 thousand against deferred tax assets. The amount of
+the deferred tax assets considered realizable, however, could be
+reduced if estimates of future regular taxable income during the
+carryforward period are reduced.                    38
+40
+14  NET INCOME LOSS PER SHARE
+In December 1997, the Company adopted the provisions of
+Statement of Financial Accounting Standards SFAS No. 128, Earnings
+Per Share, which established new guidelines for the calculations of
+earnings loss per share. Earnings loss per share for all prior
+periods have been restated to reflect the provisions of this Statement.
+The following are reconciliations of the numerators and
+denominators of the basic and diluted earnings loss per share
+computations for income loss before extraordinary item and
+extraordinary item for the years ended June 30, 1999, 1998 and 1997
+in thousands, except share data                                               Per common share Assuming Dilution
+- 
+1999
+Net loss                                          $   2,589        $   2,589
+Net loss, as adjusted                                   $   2,589        $   2,589
+- 
+Outstanding common shares                                  11,184,742         11,184,742
+Adjusted shares                                       11,184,742         11,184,742
+- 
+1998
+Net income                                         $   9,604        $   9,604
+Assuming conversion of convertible subordinated notes                   $     -        $   2,625
+- 
+Net income, as adjusted                                  $   9,604        $   12,229
+- 
+Outstanding common shares                                  11,154,271         11,154,271
+Outstanding stock options                                      --           269,898
+Assuming conversion of convertible subordinated notes                        --          3,147,109
+- 
+Adjusted shares                                       11,154,271         14,571,278
+- 
+1997
+Net income before extraordinary item                            $   10,558        $   10,558
+Net income                                         $   13,832        $   13,832
+- 
+Outstanding common shares                                  11,118,825         11,118,825
+Outstanding stock options                                      --           14,168
+Assuming conversion of convertible notes                               --           27,329
+- 
+Adjusted shares                                       11,118,825         11,160,322
+-          Options and warrants to purchase 899,131 and 792,361 shares of
+common stock, at prices ranging from $750 to $2400 per share were
+outstanding for the years ended June 30, 1998 and 1997, respectively.
+These were not included in the computations of diluted earnings per
+share because the options' and warrants' exercise prices were greater
+than the average market price of the common shares during the years
+ended June 30, 1998 and 1997.
+All options and warrants to purchase shares of common stock were
+excluded from the computations of diluted earnings loss per share for
+the year ended June 30, 1999, because the impact of such options and
+warrants is anti-dilutive.  15  EMPLOYEE BENEFIT PLAN
+The Company has a defined contribution retirement plan, which
+covers all employees and officers. For the years ended June 30, 1999,
+1998 and 1997, the Company contributed $08 million, $01 million and
+$01 million, respectively, to the plan. The Company has the right, but
+not the obligation, to make contributions to the plan in future years
+at the discretion of the Company Board of Directors.                    39
+41
+16  COMMITMENTS
+INTEGRATION AND OPERATIONS CONTRACTS
+On August 13, 1997, the Company initiated a letter agreement
+with The Boeing Company, a major subcontractor, for standard
+integration and operation services to the Company for future missions
+that were not already provided for under its contract for missions to
+the Mir Space Station. In August 1998, this letter agreement became a
+cost plus incentive fee contract whereby Boeing will provide
+integration and operations services required to successfully complete
+four research missions one single module mission and three double
+module missions and five logistics double module missions.
+Additionally, there are several tasks that are separately priced to
+yield a contract value of up to $423 million. As of June 30, 1999,
+$162 million has been incurred under this commitment.
+MODULE CONSTRUCTION CONTRACTS
+During fiscal year 1997, the Company entered into a $368
+million cost-plus-fee contract with Boeing to construct a new research
+module with associated double module hardware. The Company has taken
+initial delivery of the module and is in the process of completing its
+construction which is expected to be completed in the middle of fiscal
+year 2000. The Company has incurred approximately $329 million in
+construction costs through June 30, 1999.
+During FY 1999, the Company entered into a $46 million letter
+agreement with Boeing to initiate activities to support the fabrication
+of a double docking module. The letter contract period of performance
+is through August 1999. The Company plans to extend the letter
+agreement. The Company has incurred $10 million in costs through June
+30, 1999.
+JOINT VENTURE
+During June 1998, the Company entered into a joint venture
+agreement with Guigne Technologies Limited for the purpose of
+developing, fabricating, marketing and sales of SpaceDRUMSTM
+services. In accordance with the joint venture agreement, the Company
+has agreed to contribute, in exchange for a 50 percent interest in
+SpaceDRUMSTM, an aggregate of $20 million of working capital to the
+joint venture at varying dates and amounts through October 1999. The
+Company contributions will be in the form of an unsecured
+non-interest bearing note. Through June 30, 1999, the Company has made
+contributions of $14 million to the joint venture. During 1999, the
+joint venture entered into a $50 million contract with the Colorado
+School of Mines for the lease of the SpaceDRUMSTM facility.
+The Company does not have the ability to exclusively control the
+operational and financial policies of SpaceDRUMS, although the Company
+does exert significant influence and as such is recognizing its
+investment in SpaceDRUMS using the modified equity method of
+accounting. During the year ended June 30, 1999, SpaceDRUMS had no
+revenues and generated a net loss of approximately $0001 million of
+which the Company recognized its proportionate share. SpaceDRUMS has
+total assets, total liabilities and total equity as of June 30, 1999:
+$37 million, $23 million and $14 million respectively. The carrying
+value of the investment in SpaceDRUMS is $14 million as of June 30,
+1999.
+LEASES
+The Company is obligated under capital leases for equipment and
+noncancelable operating leases for equipment, office space, storage
+space, and the land for a payload processing facility. Future minimum
+payments under these capital leases and noncancelable operating leases
+are as follows in thousands                    40
+42                                            Capital   Operating
+Year ending June 30,                              leases    leases
+2000                                     $   87   $  2,353
+2001                                        57     2,241
+2002                                        28     2,093
+2003                                        18     1,656
+2004 and thereafter                                17     7,224
+207   $ 15,567
+Less: amount representing interest between 9% and 12%              50
+Present value of net minimum capital lease payments             $  157
+Rent expense for the years ended June 30, 1999, 1998 and 1997,
+was approximately $22 million, $05 million and $05 million
+respectively.
+17   SEGMENT INFORMATION
+The Company adopted SFAS No. 131, Disclosure about Segments
+of an Enterprise and Related Information, as of June 30, 1999. SFAS
+No. 131 establishes annual and interim reporting standards for an
+enterprise operating segments.
+Based on its organization, the Company operates in three
+business segments; Astrotech, JE and SPACEHAB. Astrotech, acquired in
+February 1997, provides payload processing facilities to serve the
+satellite manufacturing and launch services industry. Astrotech
+currently provides launch site preparation of flight ready satellites
+to major U.S. space launch companies and satellite manufacturers. JE,
+acquired in July 1998, is primarily engaged in providing engineering
+services and products to the Federal Government and NASA, primarily
+under the Flight Crew Systems Development Contract FCSD. SPACEHAB was
+founded to commercially develop space habitat modules to operate in the
+cargo bay of the Space Shuttles. SPACEHAB provides access to the
+modules and integration and integration and operations support services
+for both NASA and commercial customers.
+The Company chief operating decision maker utilizes both
+revenue and income before taxes, including allocated interest based on
+the investment in the segment, in assessing performance and making
+overall operating decisions and resource allocations. As such, other
+income/expense items including taxes and corporate overhead have not
+been allocated to the various segments.
+The accounting policies of the segments are the same as those
+described in the summary of significant accounting policies, see note
+2. Information about the Company segments is as follows                    41
+43                                  in thousands
+Fiscal year 1999:                            Net      Depreciation
+Pre-Tax      Fixed       And
+Revenue    Income loss    Assets    Amortization
+SPACEHAB              $ 39,477     $ 2,925    $ 109,912    $  5,227
+Astrotech                9,845       505     20,625      1,164
+Johnson Engineering          58,398       342      1,647      1,164
+$107,720     $ 3,088    $ 132,184    $  7,555     Fiscal year 1998:                            Net     Depreciation
+Pre-Tax      Fixed       And
+Revenue      Income      Assets    Amortization
+SPACEHAB              $ 53,262     $ 10,308    $  92,815    $  4,639
+Astrotech               10,825      1,823      19,773      1,174
+Johnson Engineering             -        -        -        -
+$ 64,087     $ 12,131    $ 112,588    $  5,813     Fiscal year 1997:                            Net     Depreciation
+Pre-Tax      Fixed       And
+Revenue      Income      Assets    Amortization
+SPACEHAB              $ 53,741     $ 13,070    $  74,620    $  9,806
+Astrotech                2,860       459      16,341       379
+Johnson Engineering             -        -        -        -
+$ 56,601     $ 13,529    $  90,961     $ 10,185 18    SUBSEQUENT EVENT
+On August 2, 1999, DaimlerChrysler Aerospace AG Dasa, a
+shareholder, purchased an additional $120 million equity stake in
+SPACEHAB representing 1,333,334 shares of Series B Senior Convertible
+Preferred Stock. Under the agreement, Dasa purchased all of SPACEHAB
+975,000 authorized and unissued shares of preferred stock. The other
+358,334 shares of Series B Senior Convertible Preferred Stock will be
+issued upon shareholder approval of a proposal to increase the number
+of authorized shares of preferred stock that will be presented at the
+next stockholders meeting scheduled for October 14, 1999. The preferred
+stock purchase will increase Dasa investment interest in SPACEHAB to
+approximately 115 percent. The Series B Senior Convertible Preferred
+Stock is: convertible at the holders' option on the basis of one share
+of Preferred Stock for one share of common stock, entitled to vote on
+an as converted basis the equivalent number of shares of common stock
+and has preference in liquidation, dissolution or winding up of $900
+per preferred share. No dividends are payable on the convertible
+preferred shares.                    42
+44
+19  SUMMARY OF SELECTED QUARTERLY FINANCIAL DATA UNAUDITED
+The following is a summary of selected quarterly financial data
+for the previous three fiscal periods in thousands, except per share
+data                                   Three months ended
+September 30   December 31    March 31     June 30
+Year ended June 30, 1999
+Revenue                $ 28,273     23,634     26,693      29,120
+Income loss from operations       2,151     2,007      338      280
+Net income loss              413     1,851     541      610
+Net income loss per share -       004     017     005      005
+basic
+Net income loss per share -       004     017     005      005
+diluted
+Year ended June 30, 1998
+Revenue                $ 2,537     17,756     18,997     24797
+Income loss from operations      5,685      5,833     5,214      7,335
+Net income loss            5,654      5,727     4,891      4,640
+Net income loss per share -      051      051      044      042
+basic
+Net income loss per share -      051      043      037      035
+diluted
+Year ended June 30, 1997
+Revenue                 $ 113     22,992     15,031     18,465
+Income loss from operations      6,171     12,148      3,914      2,771
+Net income loss before        7,074     11,060      3,207      3,365
+extraordinary item
+Net income loss            3,800     11,060      3,207      3,365
+Net income loss per share -      034      100      029      030
+basic
+Net income loss per share -      034      099      029      028
+diluted
+Item 3. LITIGATION
+The Company is not currently involved in any material legal
+proceedings.
+Item 4. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+The information required by this item will be contained in the
+Company definitive Proxy Statement for its 1999 annual meeting of stockholders
+and is hereby incorporated by reference thereto.                    43
+45

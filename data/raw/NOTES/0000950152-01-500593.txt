@@ -1,0 +1,617 @@
+ITEM 8 - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Index to Financial Statements:                                      Page
+Report of Independent Accountants                                    22
+Consolidated Balance Sheets at December 31, 2000 and 1999                        23
+Consolidated Statements of Income for the Three Years Ended December 31, 2000              24
+Consolidated Statements of Changes in Stockholders' Equity for the Three Years Ended
+December 31, 2000                                           25
+Consolidated Statements of Cash Flows for the Three Years Ended December 31, 2000            26
+Notes to Consolidated Financial Statements                                27
+Index to Financial Statement Schedules:
+All schedules have been omitted because they are not applicable or the required information is shown in
+the financial statements or notes thereto.             REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Stockholders of
+Performance Technologies, Incorporated
+In our opinion, the consolidated financial statements listed in the accompanying
+index present fairly, in all material respects, the financial position of
+Performance Technologies, Incorporated and its subsidiaries at December 31, 2000
+and 1999, and the results of their operations and their cash flows for each of
+the three years in the period ended December 31, 2000, in conformity with
+accounting principles generally accepted in the United States of America. These
+financial statements are the responsibility of the Company management; our
+responsibility is to express an opinion on these financial statements based on
+our audits. We conducted our audits of these statements in accordance with
+auditing standards generally accepted in the United States of America, which
+require that we plan and perform the audit to obtain reasonable assurance about
+whether the financial statements are free of material misstatement. An audit
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, and evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion. s/ PricewaterhouseCoopers LLP
+PricewaterhouseCoopers LLP
+Rochester, New York
+February 5, 2001 22
+25       PERFORMANCE TECHNOLOGIES, INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS                   ASSETS
+DECEMBER 31,
+2000          1999
+Current assets:
+Cash and cash equivalents                               $ 17,187,000      $ 9,792,000
+Marketable securities                                  9,995,000      22,007,000
+Accounts receivable, net                                 7,393,000       9,474,000
+Inventories, net                                     5,788,000       3,910,000
+Prepaid expenses and other                                 745,000        684,000
+Deferred taxes                                       679,000       1,129,000
+Total current assets                                41,787,000      46,996,000
+Equipment and improvements, net                               2,119,000       1,695,000
+Software development, net                                   852,000        451,000
+Total assets                                   $ 44,758,000      $49,142,000
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Current
+debt                                           $           $   6,000
+Accounts payable                                     1,347,000        904,000
+Income taxes payable                                    219,000       1,990,000
+Accrued expenses                                     3,246,000       5,087,000
+Total current liabilities                              4,812,000       7,987,000
+Deferred taxes                                        478,000        327,000
+Total liabilities                                  5,290,000       8,314,000
+Stockholders' equity:
+Preferred stock-$01 par value; 1,000,000 shares
+authorized; none issued
+Common stock-$01 par value; 50,000,000 and 15,000,000 shares authorized at
+December 31, 2000 and 1999, respectively; 13,260,038 and 13,186,526 shares
+issued at December 31, 2000 and 1999, respectively                    133,000        132,000
+Additional paid-in capital                               12,375,000      12,665,000
+Retained earnings                                    35,053,000      28,003,000
+Treasury stock-at cost, 598,313 shares                         8,042,000
+Cumulative translation adjustments                             51,000        28,000
+Total stockholders' equity                             39,468,000      40,828,000
+Total liabilities and stockholders' equity                    $ 44,758,000      $49,142,000
+The accompanying notes are an integral part of these financial statements. 23
+26       PERFORMANCE TECHNOLOGIES, INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME                                    YEAR ENDED DECEMBER 31,
+2000         1999         1998
+Sales                         $38,963,000     $44,494,000     $34,118,000
+Cost of goods sold                   13,768,000      15,174,000      13,629,000
+Gross profit                      25,195,000      29,320,000      20,489,000
+Operating expenses:
+Selling and marketing                 4,889,000      5,767,000      4,434,000
+Research and development               8,926,000      7,906,000      5,121,000
+General and administrative              2,497,000      3,756,000      3,039,000
+Acquisition charges                            1,744,000
+Total operating expenses             16,312,000      19,173,000      12,594,000
+Income from operations                  8,883,000      10,147,000      7,895,000
+Other income, net                    1,947,000      1,478,000      1,293,000
+Income before income taxes               10,830,000      11,625,000      9,188,000
+Provision for income taxes                3,780,000      5,399,000      3,141,000
+Net income                   $ 7,050,000     $ 6,226,000     $ 6,047,000
+Basic earnings per share                $    54        $. 47        $. 46
+Diluted earnings per share               $    51        $. 45        $. 45
+Net income available to common stockholders      $ 7,050,000     $ 6,226,000     $ 6,047,000
+Weighted average number of common shares used
+in basic earnings per share             13,105,953      13,164,903      13,076,897
+Common equivalent shares                  663,080       623,976       440,096
+Weighted average number of common shares used
+in diluted earnings per share            13,769,033      13,788,879      13,516,993
+The accompanying notes are an integral part of these financial statements. 24
+27       PERFORMANCE TECHNOLOGIES, INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY                               Additional                   Other
+Common Stock       Paid-in    Retained    Treasury  Comprehensive
+Shares     Amount     Capital    Earnings     Stock     Income     Total
+Balance -
+January 1, 1998       9,580,464     $96,000   $13,033,000  $15,730,000   $158,000  $40,000  $28,661,000
+1998 Net income                                6,047,000                  6,047,000
+Currency translation
+adjustment                                                35,000     35,000
+Exercise of options       51,680      1,000     101,000                          102,000
+Tax benefit option plan                      94,000                           94,000
+Purchase of treasury
+stock - 119,445 shares                                   759,000          759,000
+Balance -
+December 31, 1998      9,632,144     97,000    13,228,000   21,777,000    917,000   5,000   34,180,000
+1999 Net income                                6,226,000                  6,226,000
+Currency translation
+adjustment                                                33,000     33,000
+Exercise of options        4,500             928,000            334,000          1,262,000
+Issuance of options                       715,000                          715,000
+Tax benefit option plan                      62,000                           62,000
+Three-for-two stock split   3,735,056     37,000     37,000
+Purchase of treasury
+stock - 91,584 shares                                  1,650,000         1,650,000
+Retirement of treasury
+stock            185,174     2,000   2,231,000          2,233,000
+Balance -
+December 31, 1999     13,186,526     132,000    12,665,000   28,003,000           28,000   40,828,000
+2000 Net income                                7,050,000                  7,050,000
+Currency translation
+adjustment                                                79,000    79,000
+Exercise of options
+and warrants         73,512      1,000     304,000           783,000           480,000
+Tax benefit option plan                      14,000                           14,000
+Purchase of treasury
+stock - 658,200 shares                                  8,825,000         8,825,000
+Balance -
+December 31, 2000     13,260,038   $  133,000   $ 12,375,000  $35,053,000  $8,042,000  $51,000  $39,468,000
+The accompanying notes are an integral part of these financial statements. 25
+28       PERFORMANCE TECHNOLOGIES, INCORPORATED AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS                                             YEAR ENDED DECEMBER 31,
+2000          1999          1998
+Cash flows from operating activities
+Net income                             $ 7,050,000      $ 6,226,000      $ 6,047,000
+Non-cash adjustments:
+Depreciation and amortization                    1,313,000       1,545,000       1,208,000
+Provision for bad debts                        70,000        602,000         23,000
+Reserve for inventory obsolescence                  1,027,000        779,000        802,000
+Deferred income taxes                         595,000        764,000        45,000
+Compensation expense                                     715,000
+Changes in operating assets and liabilities:
+Accounts receivable                         2,131,000       4,255,000       344,000
+Inventories                             2,915,000       228,000      1,934,000
+Prepaid expenses and other                       63,000        410,000        345,000
+Accounts payable and accrued expenses                1,407,000       1,210,000        631,000
+Income taxes payable                        1,760,000       1,434,000        409,000
+Net cash provided by operating activities             5,901,000       7,674,000       6,542,000
+Cash flows from investing activities
+Purchases of equipment and improvements, net             1,348,000      1,047,000       748,000
+Capitalized software development                    819,000       168,000       761,000
+Purchase of marketable securities                  17,988,000      23,007,000      5,698,000
+Maturities of marketable securities                  30,000,000       1,000,000       18,010,000
+Net cash provided used by investing activities        9,845,000      23,222,000      10,803,000
+Cash flows from financing activities
+Repayment of debt                             6,000        12,000        12,000
+Exercise of stock options                        480,000        543,000         79,000
+Purchase of treasury stock                      8,825,000       932,000       736,000
+Net cash used by financing activities               8,351,000       401,000       669,000
+Net increase decrease in cash and cash equivalents       7,395,000      15,949,000      16,676,000
+Cash and cash equivalents at beginning of year              9,792,000       25,741,000       9,065,000
+Cash and cash equivalents at end of year                $ 17,187,000      $ 9,792,000      $ 25,741,000
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+Interest paid                             $           $   15,000      $   4,000
+Income taxes paid                           $ 5,005,000      $ 4,319,000      $ 2,827,000
+Non-cash financing activity:
+Exercise of stock options using 100, 46,849 and 1,800
+shares of common stock in 2000, 1999 and 1998,
+respectively                            $   4,000      $  718,000     $   23,000  The accompanying notes are an integral part of these financial statements. 26
+29       PERFORMANCE TECHNOLOGIES, INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE A - NATURE OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+THE COMPANY: Performance Technologies, Incorporated the Company was formed in
+1981 under the laws of the State of Delaware and maintains its corporate offices
+in Rochester, New York. The Company designs, develops, manufactures and markets
+telecommunications and networking products that enable the convergence of
+wireline, wireless and next-generation Internet Protocol networks.
+SEGMENT DATA, GEOGRAPHIC INFORMATION AND SIGNIFICANT CUSTOMERS: The Company
+operates in one industry segment. Export sales to customers outside North
+America represent 30%, 16% and 21% of sales for the years ended December 31,
+2000, 1999 and 1998, respectively. For 2000, 1999 and 1998, four customers
+accounted for approximately 32%, 43% and 31%, respectively, of sales, with no
+single customer representing greater than 12%, 23% and 11%, respectively, of
+sales.
+PRINCIPLES OF CONSOLIDATION: The consolidated financial statements include the
+accounts of the Company and its wholly owned subsidiaries. Effective December
+10, 1999, the Company merged with MicroLegend Telecom Systems, Inc.
+MicroLegend, which has been accounted for as a pooling of interests and
+accordingly all prior period consolidated financial statements have been
+restated to include the combined results Note B. All inter-company
+transactions have been eliminated.
+FOREIGN CURRENCY TRANSLATION: Canadian currency is the functional currency of
+the Company Canadian subsidiary. Assets and liabilities of foreign operations
+are translated to U.S. dollars at current rates of exchange, and revenue and
+expenses are translated using average rates. Gains and losses from foreign
+currency translation are included as a separate component of stockholders'
+equity. Translation adjustments are not tax-effected as they relate to
+investments considered permanent in nature. Foreign currency transaction gains
+and losses are included in the Consolidated Statements of Income.
+USE OF ESTIMATES: The preparation of the consolidated financial statements in
+conformity with generally accepted accounting principles requires management to
+make estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at year-end and
+the reported amounts of revenue and expenses during the reporting period. Actual
+results could differ from those estimates.
+CONCENTRATION OF CREDIT RISK: Financial instruments, which potentially expose
+the Company to significant concentrations of credit risk, consist principally of
+bank deposits, marketable securities and accounts receivable. Marketable
+securities consist of high quality short-term interest bearing financial
+instruments. The Company performs ongoing credit evaluations of its customers'
+financial condition and the Company maintains an allowance for uncollectible
+accounts receivable based upon the expected collectibility of all accounts
+receivable.
+FAIR VALUE OF FINANCIAL INSTRUMENTS: The carrying amount of the Company
+financial instruments, including cash and cash equivalents, marketable
+securities, accounts receivable, accounts payable and accrued expenses
+approximates their fair value at December 31, 2000, as the maturity of these
+instruments are generally short term.
+CASH EQUIVALENTS: The Company considers all highly liquid investments purchased
+with an original maturity of three months or less to be cash equivalents. 27
+30 NOTE A - NATURE OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+CONTINUED
+MARKETABLE SECURITIES: The Company has classified all of its marketable debt
+securities as held to maturity and has accounted for these investments at
+amortized cost. Accordingly, no adjustment for unrealized holding gains or
+losses has been reflected in the financial statements. Marketable securities
+classified as held to maturity are high credit quality securities in accordance
+with the investment policy.
+INVENTORIES: Inventories are valued at the lower of cost or market using the
+first-in, first-out method. The Company provides inventory reserves for excess,
+obsolete or slow moving inventory based on changes in customer demand,
+technology developments or other economic factors.
+REVENUE RECOGNITION: The Company adopted the SEC Staff Accounting Bulletin SAB
+No. 101, Revenue Recognition in Financial Statements, for 2000. In doing so,
+the Company did not incur any adjustments to revenue. Revenue is recognized upon
+product shipment. Revenue from arrangements for software systems requiring
+significant production, modification, or customization of software is recognized
+over the contract period as performance milestones are fulfilled. Revenue from
+consulting and other services is recognized at the time the services are
+rendered. Any anticipated losses on contracts are charged to operations as soon
+as such losses are determined. Revenue from software maintenance contracts is
+recognized ratably over the contractual period, or as the service is performed.
+EQUIPMENT AND IMPROVEMENTS: Equipment and improvements are recorded at cost
+reduced by accumulated depreciation. Depreciation is provided for using the
+straight-line method over the following estimated useful lives                        
+Engineering equipment and software      3-5 years
+Manufacturing equipment           3-5 years
+Furniture and equipment           3-5 years
+Leasehold improvements            the lesser of 10 years or the lease term Upon retirement or disposal of an asset, the asset and the related accumulated
+depreciation are eliminated from the accounts with gains or losses included as a
+component of Other income in the Consolidated Statements of Income.
+LONG-LIVED ASSETS: The Company regularly assesses all of its long-lived assets
+for impairment when events or circumstances indicate their carrying amounts may
+not be recoverable, in accordance with Statement of Financial Accounting
+Standards SFAS No. 121, Accounting for the Impairment of Long-Lived Assets.
+During 1998, the Company recorded a charge for the remaining amount of
+unamortized goodwill as its value had significantly decreased. Amortization
+expense for goodwill was $123,000 for 1998.
+RESEARCH AND DEVELOPMENT: Research and development costs are expensed as
+incurred.
+ADVERTISING: Advertising costs are expensed as incurred and recorded in Selling
+and marketing in the Consolidated Statements of Income. Advertising expense
+amounted to $244,000, $254,000 and $306,000 for 2000, 1999 and 1998,
+respectively.
+SOFTWARE DEVELOPMENT COSTS: Software development costs incurred subsequent to
+the establishment of technological feasibility and prior to general release of
+the product are capitalized and amortized on a product-by-product basis over
+their estimated remaining economic life, generally three years, or using the
+ratio of current revenues to current and anticipated revenues from such
+software, whichever provides greater amortization. 28
+31 NOTE A - NATURE OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+CONTINUED
+INCOME TAXES: The Company accounts for income taxes using the asset and
+liability approach which requires recognition of deferred tax liabilities and
+assets for the expected future tax consequences of temporary differences between
+the carrying amounts and the tax basis of such assets and liabilities. This
+method utilizes enacted statutory tax rates in effect for the year in which the
+temporary differences are expected to reverse and gives immediate effect to
+changes in income tax rates upon enactment. Deferred tax assets are recognized,
+net of any valuation allowance, for deductible temporary differences and tax
+credit carryforwards. Deferred income tax expense benefit represents the
+change in net deferred tax asset and liability balances.
+EARNINGS PER SHARE: Earnings per share is presented in accordance with the
+provisions of SFAS No. 128, Earnings Per Share. Basic earnings per share is
+computed by dividing net income available by the weighted average number of
+common shares outstanding for the period. Diluted earnings per share
+calculations reflect the assumed exercise and conversion of employee stock
+options and warrants.
+STOCK-BASED COMPENSATION: Compensation costs are recognized in accordance with
+Accounting Principles Board APB Opinion No. 25, Accounting for Stock Issued
+to Employees, based on the difference, if any, between the quoted market price
+of the stock on the grant date and the exercise date. In early 1999, a
+compensation charge of $715,000 was recorded to operating expenses for the
+issuance of stock options granted to MicroLegend employees with an exercise
+price below the fair market value of its common stock.
+NOTE B - BUSINESS COMBINATION
+On December 10, 1999, MicroLegend Telecom Systems, Inc. was merged with and into
+a subsidiary of the Company, and approximately 2,166,000 shares of the Company
+common stock were issued in exchange for all of the outstanding common stock of
+MicroLegend. MicroLegend develops and markets Signaling System 7 SS7
+telecommunications gateway products that provide signaling and control for
+wireless, voice-over-IP and other packet applications. The merger has been
+accounted for as a pooling of interests under APB Opinion No. 16, Business
+Combinations. Accordingly, all prior period consolidated financial statements
+presented have been restated to include the combined results of operations,
+financial position and cash flows of MicroLegend as though it had always been a
+part of the Company.
+The following information presents certain income statement data of the separate
+companies for the periods preceding the merger                       Nine months ended     Year ended
+September 30,     December 31,
+1999         1998
+unaudited
+Revenue:
+Performance Technologies, Inc.       $ 28,060,000      $30,202,000
+MicroLegend Telecom Systems, Inc.       3,539,000       3,916,000
+$ 31,599,000      $34,118,000
+Net income loss:
+Performance Technologies, Inc.       $ 5,665,000      $ 5,783,000
+MicroLegend Telecom Systems, Inc.       952,000       264,000
+$ 4,713,000      $ 6,047,000
+During the year ended December 31, 1999, the Company recorded a charge to
+operating expenses of approximately $17 million, or $12 per common share, for
+costs pertaining to the merger transaction. 29
+32 NOTE C - ACCOUNTS RECEIVABLE, NET
+Accounts receivable consisted of the following                             At December 31,
+2000          1999
+Accounts receivable               $ 7,579,000      $ 10,269,000
+Less: allowance for doubtful accounts       186,000       795,000
+Net                    $ 7,393,000      $ 9,474,000
+NOTE D - INVENTORIES, NET
+Inventories consisted of the following                               At December 31,
+2000         1999
+Purchased parts and components           $ 2,656,000      $ 1,822,000
+Work in process                   3,959,000       2,893,000
+Finished goods                     297,000        113,000
+6,912,000       4,828,000
+Less: reserve for inventory obsolescence      1,124,000       918,000
+Net                     $ 5,788,000      $ 3,910,000
+NOTE E - EQUIPMENT AND IMPROVEMENTS, NET
+Equipment and improvements consisted of the following                                  At December 31,
+2000         1999
+Engineering equipment and software            $ 3,504,000      $ 2,839,000
+Manufacturing equipment                   1,345,000       1,332,000
+Furniture and equipment                   1,268,000       1,254,000
+Leasehold improvements                    143,000        130,000
+6,260,000       5,555,000
+Less: accumulated depreciation and amortization      4,141,000      3,860,000
+Net                        $ 2,119,000      $ 1,695,000
+Total depreciation and amortization expense for equipment and improvements for
+2000, 1999 and 1998 was $894,000, $775,000 and $582,000, respectively.
+NOTE F - ACCRUED EXPENSES
+Accrued expenses consisted of the following                        At December 31,
+2000        1999
+Accrued compensation          $1,143,000     $2,702,000
+Accrued professional services       416,000      1,030,000
+Deferred revenue             793,000       404,000
+Other accrued expenses          894,000       951,000
+Total              $3,246,000     $5,087,000
+NOTE G - CREDIT AGREEMENTS
+At December 31, 2000, the Company had a revolving credit loan agreement with a
+bank under which it can borrow up to $5 million. Borrowings bear interest
+ranging either at the bank prime rate or one month LIBOR plus applicable basis
+points as outlined in the agreement. Borrowings are collateralized by trade
+accounts receivable, inventory, equipment, contract rights and intangibles. The
+agreement requires the Company to meet certain financial and non-financial
+covenants. The Company was in compliance with such covenants at December 31,
+2000. There were no balances outstanding under this agreement at December 31,
+2000 and 1999. The annual fee on the credit loan agreement is immaterial. 30
+33 NOTE H - COMMITMENTS
+The Company leases facilities and equipment under operating leases. Under the
+terms of the facility lease in Rochester, NY, which expires in November 2001,
+the Company agrees to pay an annual rental of $270,000 with an adjustment each
+year based upon the Consumer Price Index. The Company is also required to pay
+their pro rata share of the real property taxes and assessments, expenses and
+other charges associated with this facility. The Company is in the process of
+finalizing the lease agreement for its new Rochester, N.Y. corporate
+headquarters and manufacturing facility. The Company has leased facilities in
+its other operating locations in North America that expire between 2002 through
+2005.
+Future minimum lease payments for all operating leases having a remaining term
+in excess of one year at December 31, 2000 are as follows                                         Operating Leases
+2001                                   $ 463,000
+2002                                    458,000
+2003                                    191,000
+2004                                    125,000
+2005                                     21,000
+Total minimum lease payments                            $1,258,000
+Rental expense amounted to $830,000, $787,000 and $590,000 for 2000, 1999 and
+1998, respectively.
+NOTE I - STOCKHOLDERS' EQUITY
+On February 9, 2000, the stockholders approved an amendment to the Restated
+Certificate of Incorporation to increase the number of authorized common shares,
+from 15 million shares to 50 million shares.
+In August 2000, the Board of Directors authorized the repurchase of up to one
+million shares of the Company Common Stock. During 2000, the Company
+repurchased a total of 658,200 shares at a total cost of $8,825,000.
+Pursuant to a stock repurchase program authorized by the Board of Directors in
+1998, the Company repurchased 44,735 and 78,437 of its common shares in 1999 and
+1998, respectively. The total cost of repurchasing such shares was $932,000 and
+$736,000 in 1999 and 1998, respectively. On December 10, 1999, the Company
+terminated the stock repurchase program. In connection with the business
+combination with MicroLegend Telecom Systems, Inc., the Company retired 185,174
+shares of Treasury stock, at an average cost of $1206 per share for a total
+cost of $22 million.
+The Company declared a three-for-two stock split of its common stock effected in
+the form of 50% stock dividend on the outstanding shares payable to shareholders
+of record as of August 26, 1999, with a distribution date of September 1, 1999.
+Basic and diluted earnings per share, weighted average number of shares
+outstanding and all applicable footnotes have been adjusted to reflect the
+aforementioned stock split. All agreements concerning stock options and other
+commitments payable in shares of the Company common stock provided for the
+issuance of additional shares due to the declaration of the stock split. An
+amount equal to the par value of the common shares issued was transferred from
+capital in excess of par value to the common stock account.
+NOTE J - STOCK OPTION PLAN
+In 1986, the Company established an Incentive Stock Option Plan pursuant to
+which the Board of Directors reserved 2,700,000 shares of common stock for
+grant. On February 9, 2000, the stockholders approved an amendment to the Stock
+Option Plan to increase, by 500,000 shares, the number of authorized shares that
+may be issued pursuant to this Plan. Options may be granted to any officer or 31
+34 employee at not less than the fair market value at the date of grant not less
+than 110% of the fair market value in the case of holders of more than 10% of
+the Company common stock. Options granted under the plan generally expire
+five or six years from the date of grant and generally vest over three, four or
+five years.
+With respect to non-qualified options, the Company recognizes a tax benefit upon
+exercise in an amount equal to the tax effect of the difference between the
+option price and the fair market value of the common stock. Tax benefits related
+to such non-qualified stock options are credited to additional paid-in capital.
+The following table summarizes stock option activity under this plan                                     Weighted-Average      Option
+Number of Shares    Exercise Price      Price Range
+Outstanding at January 1, 1998             860,252        $460        $89- $867
+Granted                        228,375        $923       $617- $975
+Exercised                       77,520        $131        $89- $505
+Expired                         1,500        $867           $867
+Outstanding at December 31, 1998           1,009,607        $589       $101- $975
+Granted                        385,375        $1360       $815-$1875
+Exercised                       253,164        $491       $122- $975
+Expired                        26,400        $849       $122- $917
+Outstanding at December 31, 1999           1,115,418        $872       $122-$1875
+Granted                        526,375        $1514       $900-$2875
+Exercised                       77,249        $538       $122- $975
+Expired                        64,013       $1409       $594-$2875
+Outstanding at December 31, 2000           1,500,531        $1091       $444-$2875
+At December 31, 2000, 677,951 options were vested and 735,695 options were
+available for future grant under the stock option plan. During 2000, warrants
+totaling 56,250, issued at fair market value in 1995, were exercised at an
+exercise price of $122 per share. At December 31, 2000, 56,250 warrants were
+held by one of the Company directors at an exercise price of $122 per share.
+The remaining warrants were exercised in January 2001.
+The Company has adopted the disclosure only provisions of SFAS No. 123,
+Accounting for Stock-Based Compensation. Accordingly, no compensation cost has
+been recognized for the stock option plan. Had compensation cost for the stock
+option plan been determined based on the fair value at the grant date for awards
+in 2000, 1999 and 1998 consistent with the provisions of SFAS No. 123, the
+Company net income would have been reduced to the pro forma amounts of
+$4,570,000, $4,765,000 and $4,881,000, respectively. Basic earnings per share
+would have been reduced to the pro forma amounts of $35, $36 and $37,
+respectively. Diluted earnings per share would have been reduced to the pro
+forma amounts of $33, $34 and $36, respectively. The assumption regarding the
+stock options issued in 2000, 1999 and 1998 was that 33% of such options vested
+annually. The fair value of each option grant is estimated on the date of grant
+using the Black-Scholes option-pricing model with the following weighted-average
+assumptions used for grants in 2000, 1999 and 1998: Dividend yield of 0 expected volatility of 63%, 65% and 62%; risk-free interest rate of 62%, 54%
+and 55%; and expected lives of three years in 2000 and 1999 and five years in
+1998, respectively. 32
+35 NOTE K - STOCKHOLDER RIGHTS PLAN
+On October 27, 2000, the Company Board of Directors adopted a Stockholder
+Rights Plan. Under this plan, one Preferred Stock Purchase Right was distributed
+as a dividend for each share of Common Stock held by the stockholders of record
+as of the close of business of November 8, 2000. Until the occurrence of certain
+events, the Rights are traded as a unit with the Common Stock. Each Right will
+separate and entitle stockholders to buy stock upon the occurrence of certain
+events generally related to the change of control of the Company as defined in
+the Plan. The Rights become exercisable ten days after either 1 an Acquiring
+Person acquires or commences a tender offer to acquire 15% or more of the
+Company Common Stock, or 2 an Adverse Person has acquired 10% or more of
+the Company Common Stock and the Board determines this person is likely to
+cause pressure on the Company to enter into a transaction that is not in the
+Company best long-term interest. All Rights not held by an Acquiring Person or
+an Adverse Person become rights to purchase from the Company one one-thousandth
+of one share of Preferred Stock at an initial exercise price of $110 per Right.
+Each Right entitles the holder of that Right to purchase the equivalent of $220
+worth of the Company Common Stock for $110. If after such an event the Company
+merges, consolidates or engages in a similar transaction in which it does not
+survive, each holder has a flip over right to buy discounted stock in the
+surviving entity.
+The Company may redeem the Rights for $001 each. The Rights Plan expires on
+November 1, 2010 or can be modified or terminated, at the option of the Board of
+Directors.
+NOTE L - INCOME TAXES
+Pre-tax earnings and provision for income taxes consisted of the following for
+the years ended December 31, 2000, 1999 and 1998                     2000         1999         1998
+Pre-tax earnings:
+United States           $ 9,784,000     $ 12,065,000      $ 8,929,000
+Outside United States        1,046,000       440,000       259,000
+Total pre-tax earnings       $10,830,000     $ 11,625,000      $ 9,188,000
+The provisions for income taxes were as follows Current income taxes           2000         1999         1998
+Federal              $ 2,874,000     $ 4,603,000      $ 2,711,000
+State                 288,000        765,000        450,000
+Foreign                 99,000        610,000        40,000
+3,261,000       5,978,000       3,121,000
+Deferred provision benefit       519,000       579,000        20,000
+Total provision          $ 3,780,000     $ 5,399,000      $ 3,141,000
+Reconciliation of the statutory U.S. federal income tax rate to effective rates
+were as follows                          2000         1999         1998
+Federal income tax at statutory rate        340%        350%         340%
+State tax provision, net of federal benefit     18         42          33
+Acquisition charges                           60
+Other                        9         12          31
+Effective tax rate               349%        464%         342%
+33
+36 The net deferred income tax balance consists of the following                                         At December 31,
+Deferred tax liabilities                          2000         1999
+-                                                                             
+Capitalized software development cost, net                $321,000     $ 189,000
+Difference in tax basis of assets                      84,000       138,000
+Investment tax credit                            73,000
+Total deferred tax liabilities                     $478,000     $ 327,000
+Deferred tax assets
+- Accrued vacation, payroll and other accrued expenses           $ 108,000      $  550,000
+Inventory obsolescence reserve and other inventory related items      427,000        213,000
+Bad debt reserve                               55,000        279,000
+Research tax credits                             17,000         6,000
+Other                                    72,000        81,000
+Total deferred tax assets                        679,000       1,129,000
+Net deferred tax asset                        $ 201,000      $  802,000
+As of December 31, 2000, no deferred taxes have been provided on the
+undistributed earnings of its Canadian subsidiary, as the Company does not plan
+to initiate any action that would require the payment of income taxes. It is not
+practicable to estimate the amount of additional tax that might be payable on
+these undistributed earnings.
+NOTE M - RESEARCH AND SOFTWARE DEVELOPMENT COSTS
+The Corporation incurred research and software development costs relating to the
+development of new products as follows                               2000         1999          1998
+Gross expenditures for engineering and software
+development                      $ 9,745,000      $ 8,074,000      $ 5,938,000
+Less: amounts capitalized                 819,000       168,000       817,000
+Net charged to operating expenses           $ 8,926,000      $ 7,906,000      $ 5,121,000
+Software Development costs consisted of the following                             At December 31,
+2000         1999
+Capitalized software development costs     $ 3,548,000      $ 2,729,000
+Less: accumulated amortization         2,696,000      2,278,000
+Net                     $  852,000      $  451,000
+Amortization of software development costs included in cost of goods sold was
+$419,000, $770,000, and $503,000 for 2000, 1999 and 1998, respectively.
+NOTE N - EMPLOYEE BENEFIT PLANS
+For its operations in the United States, the Retirement Savings Plan qualifies
+under Section 401k of the Internal Revenue Code. Discretionary matching
+contributions to the plan were $133,000, $116,000 and $86,000 for 2000, 1999 and
+1998, respectively. In conjunction with its Flexible Benefits plan, the Company
+made additional discretionary qualified contributions to employee accounts which
+vest immediately amounting to $139,000, $134,000 and $128,000 for 2000, 1999 and
+1998, respectively.
+For its operations in Canada, contributions were made to a Registered Retirement
+Savings Plan RRSP which is administered by the Canadian government.
+Discretionary matching contributions to the Plan were $190,000 and $34,000 for
+2000 and 1999, respectively. 34
+37 NOTE O - LITIGATION
+Following the Company announcement on May 19, 2000 regarding its preliminary
+results of operations for the second quarter and the year ended December 31,
+2000, several class action lawsuits were filed against the Corporation, as well
+as several of its officers and directors, alleging violations of federal
+securities laws. The lawsuits were filed in United States District Court for the
+Western District of New York and request unspecified monetary damages. The Lead
+Counsel has been approved by the Court and an Amended Complaint, dated March 19,
+2001, has been filed with the Court.
+Management believes that the claims contained in these actions described above
+are without merit and the Company intends to defend against the claims
+vigorously. In the opinion of management, resolution of this litigation is not
+expected to have a material adverse effect on the financial position of the
+Company. However, depending on the amount and timing of such resolution, an
+unfavorable resolution of this matter could materially affect the Company
+future results of operations or cash flows in a particular period.
+The Company is subject to various other legal proceedings and claims that arise
+in the ordinary course of business. In the opinion of management, the amount of
+any ultimate liability with respect to these actions will not materially affect
+the financial position of the Company.
+NOTE P - TRANSACTIONS WITH RELATED PARTIES
+The Company leases its primary facility in Rochester, New York from an entity
+controlled by two directors of the Company, one of whom is an officer. During
+2000, 1999, and 1998, the Company paid rent of $335,000, $323,000 and $319,000,
+respectively, for the use of this location. Note H
+NOTE Q - SUBSEQUENT EVENT
+In March 2001, the Company completed the program approved in August 2000 to
+repurchase one million shares of the Company Common Stock. On March 9, 2001,
+the Company Board of Directors authorized the Company to repurchase an
+additional five hundred thousand shares of the Company Common Stock. 35
+38 NOTE R - QUARTERLY RESULTS UNAUDITED
+The following is a summary of unaudited quarterly results of operations for the
+years ended December 31, 2000 and 1999.                               2000
+in thousands, except per share data
+Mar. 31     Jun. 30     Sept. 30     Dec. 31
+Sales                $11,594     $8,089     $9,244     $10,036
+Gross profit             7,793      5,366      6,268      5,768
+Income from operations        3,467      1,242      1,961      2,213
+Net income             $ 2,436     $1,119     $1,521     $ 1,974
+Basic earnings per share      $ 018     $ 008     $ 012     $ 015
+Diluted earnings per share     $ 017     $ 008     $ 011     $ 015
+1999
+in thousands, except per share data
+Mar. 31     Jun. 30     Sept. 30     Dec. 31
+Sales                $8,689     $10,020     $12,890     $12,895
+Gross profit             5,497      6,670      8,460      8,693
+Income from operations        1,294      2,510      3,311      3,0321
+Net income             $ 945     $ 1,498     $ 2,270     $ 1,5131
+Basic earnings per share      $ 007     $ 011     $ 017     $ 0111
+Diluted earnings per share     $ 007     $ 011     $ 016     $ 0111
+1 Includes one-time acquisition expenses of approximately $17 million, or
+$12 per share.

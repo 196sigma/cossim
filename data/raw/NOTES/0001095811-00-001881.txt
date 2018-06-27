@@ -1,0 +1,949 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+The financial statements of the Company are referenced in Item 14a.
+23
+24
+INDEPENDENT AUDITORS' REPORT
+The Board of Directors
+QLogic Corporation   We have audited the consolidated financial statements of QLogic Corporation
+and subsidiaries as listed in Item 14a. In connection with our audits of the
+consolidated financial statements, we have also audited the financial statement
+schedule as listed in Item 14a. These consolidated financial statements and
+the financial statement schedule are the responsibility of the Company
+management. Our responsibility is to express an opinion on these consolidated
+financial statements and the financial statement schedule based on our audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of QLogic
+Corporation and subsidiaries as of April 2, 2000 and March 28, 1999 and the
+results of their operations and their cash flows for each of the years in the
+three-year period ended April 2, 2000, in conformity with accounting principles
+generally accepted in the United States of America. Also, in our opinion, the
+related financial statement schedule, when considered in relation to the basic
+consolidated financial statements taken as a whole, presents fairly, in all
+material respects, the information set forth therein.
+KPMG LLP
+Orange County, California
+May 10, 2000
+24
+25
+QLOGIC CORPORATION
+CONSOLIDATED BALANCE SHEETS
+APRIL 2, 2000 AND MARCH 28, 1999
+IN THOUSANDS, EXCEPT SHARE DATA
+ASSETS                                 2000    1999
+Cash and cash  $ 64,134  $ 43,174
+Short term   58,671   57,613
+Accounts and notes receivable, less allowance for doubtful
+accounts of $950 as of April 2, 2000 and $940 as of March
+28,   21,647   11,917
+22,330   10,623
+Deferred income    9,211    5,649
+Prepaid expenses and other current assets.   1,356    1,950
+Total current   177,349   130,926
+Long term   39,797   29,760
+Property and equipment,   45,775   10,409
+Other    4,235    1,828
+$267,156  $172,923
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Accounts  $ 5,743  $ 6,432
+Accrued   10,224    7,378
+Deferred    3,023    1,074
+Accrued    2,000     910
+Income taxes     163    1,358
+Other accrued    3,034    3,087
+Total current   24,187   20,239
+Commitments and contingencies
+Subsequent event
+Stockholders' equity:
+Preferred stock, $0001 par value; 1,000,000 shares
+authorized, 200,000 shares designated as Series A
+Junior Participating Preferred, $0001 par value; none
+issued and     --       Common stock, $0001 par value; 150,000,000 shares
+authorized, 74,292,949 and 71,844,232 shares issued and
+outstanding at April 2, 2000 and March 28, 1999,
+74     72
+Additional paid-in   145,067   108,737
+Retained   97,828   43,875
+Total stockholders'   242,969   152,684
+$267,156  $172,923
+See accompanying notes to consolidated financial statements.
+25
+26
+QLOGIC CORPORATION
+CONSOLIDATED STATEMENTS OF INCOME
+YEARS ENDED APRIL 2, 2000, MARCH 28, 1999, AND MARCH 29, 1998
+IN THOUSANDS, EXCEPT PER SHARE DATA                                 2000    1999    1998
+Net  $203,143  $117,182  $81,393
+Cost of   64,241   42,603   34,049
+Gross   138,902   74,579   47,344
+Operating expenses:
+Engineering and   39,993   24,358   15,601
+Selling and   16,724   11,062   8,707
+General and    8,140    5,794   4,550
+Total operating   64,857   41,214   28,858
+Operating   74,045   33,365   18,486
+Interest     19     84    109
+Interest and other    7,722    5,657   3,453
+Income before income   81,748   38,938   21,830
+Income tax   27,795   13,239   8,422
+Net  $ 53,953  $ 25,699  $13,408
+Net income per share:
+$  074  $  037  $ 022
+$  070  $  034  $ 021
+Number of shares used in per share computations:
+72,950   70,047   60,732
+77,497   74,760   64,792
+See accompanying notes to consolidated financial statements.
+26
+27
+QLOGIC CORPORATION
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+YEARS ENDED APRIL 2, 2000, MARCH 28, 1999, AND MARCH 29, 1998
+IN THOUSANDS                      COMMON STOCK   ADDITIONAL          TOTAL
+PAID-IN   RETAINED  STOCKHOLDERS'
+SHARES  AMOUNT   CAPITAL   EARNINGS    EQUITY
+Balance as of March 30, 1997. 46,728   $47    $ 19,538   $ 4,768    $ 24,353
+Net    --   --       --   13,408     13,408
+Stock  21,160   21     77,515     --     77,536
+Issuance of common stock under
+employee stock plans including
+tax benefit of $1,494.  1,320    1     2,751     --     2,752
+Balance as of March 29, 1998. 69,208   69     99,804   18,176    118,049
+Net    --   --       --   25,699     25,699
+Issuance of common stock under
+employee stock plans including
+tax benefit of $5,753.  2,636    3     8,933     --     8,936
+Balance as of March 28, 1999. 71,844   72    108,737   43,875    152,684
+Net    --   --       --   53,953     53,953
+Issuance of common stock under
+employee stock plans including
+tax benefit of $28,085.  2,449    2     36,330     --     36,332
+Balance as of April 2, 2000. 74,293   $74    $145,067   $97,828    $242,969
+See accompanying notes to consolidated financial statements.
+27
+28
+QLOGIC CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEARS ENDED APRIL 2, 2000, MARCH 28, 1999, AND MARCH 29, 1998
+IN THOUSANDS                                 2000    1999     1998
+Cash flows from operating activities:
+Net  $ 53,953  $ 25,699  $ 13,408
+Adjustments to reconcile net income to net cash provided
+by operating activities:
+Depreciation and    4,799    3,366    2,434
+Write-off of acquired in-process technology.   8,410    1,220         Provision for doubtful     10     201     200
+Loss on disposal of property and equipment.    219      89     161
+Benefit from deferred income taxes.  6,264   1,354   3,030
+Changes in assets and liabilities:
+Accounts and notes   9,740   4,282   2,316
+11,707   6,788    959
+Prepaid expenses and other current assets.    594    1,475    84
+Other    137   1,158         Accounts    689    2,667    229
+Accrued    2,846    2,403    1,750
+Income taxes   26,890    1,999    5,163
+Accrued    1,090     300     185
+Other accrued     540    1,944     23
+Deferred    1,949     839    914
+Other non-current     --     466    458
+Net cash provided by operating activities.  72,763    23,526   19,034
+Cash flows from investing activities:
+Additions to property and   39,952   6,766   3,924
+Purchases of   96,438  103,448  53,059
+Acquisition of business, net of cash acquired.  8,860   1,957      Maturities of   85,343    64,755    4,379
+Net cash used in investing activities.  59,907   47,416  52,604
+Cash flows from financing activities:
+Principal payments under capital leases.   143    209    225
+Proceeds from issuance of stock under employee stock
+8,247    3,183    1,258
+Proceeds from sale of common stock.    --      --   77,536
+Net cash provided by financing activities.   8,104    2,974   78,569
+Net increase decrease in cash and cash equivalents.  20,960   20,916   44,999
+Cash and cash equivalents at beginning of year.  43,174    64,090   19,091
+Cash and cash equivalents at end of year. $ 64,134  $ 43,174  $ 64,090
+Supplemental disclosure of cash flow information:
+Cash paid during the year for:
+$   19  $   65  $   90
+Income  $ 6,068  $ 13,116  $ 6,275
+Non-cash investing and financing activities   During fiscal year 2000, the Company recorded a credit to additional
+paid-in-capital and a debit to accrued taxes payable of $28,085, related to the
+tax benefit of exercises of stock options under the Company stock options
+plans. Additionally, during fiscal year 2000 the Company recorded an accrual of
+$841, in accordance with the performance provisions of the Silicon Design
+Resources Asset Acquisition Agreement. See Note 2 of Notes to Consolidated
+Financial Statements.
+During fiscal year 1999, the Company recorded a credit to additional
+paid-in-capital and a debit to accrued taxes payable of $5,753, related to the
+tax benefit of exercises of stock options under the Company stock option
+plans. Additionally, during fiscal year 1999 the Company recorded an accrual of
+$1,321, in accordance with the performance provisions of the Silicon Design
+Resources Asset Acquisition Agreement. See Note 2 of Notes to Consolidated
+Financial Statements.
+During fiscal year 1998, the Company recorded a credit to additional
+paid-in-capital and a debit to accrued taxes payable of $1,494 related to
+exercises of stock options under the Company stock option plans.
+See accompanying notes to consolidated financial statements.
+28
+29
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1 DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+General Business Information
+QLogic Corporation QLogic or the Company designs and supplies
+semiconductor and board level input/output I/O products. The Company I/O
+products provide a high performance interface between computer systems and their
+attached data storage peripherals, such as hard disk drives, tape drives,
+removable disk drives and redundant array of independent disks subsystems, or
+RAID subsystems. The Company also designs and supplies semiconductor enclosure
+management products. QLogic markets and distributes its products through a
+direct sales organization supported by field application engineers, as well as
+through a network of independent manufacturers' representatives and regional and
+international distributors. The Company primary OEM customers are major
+domestic and international suppliers and manufacturers of servers, workstations
+and data storage peripherals.
+Principles of Consolidation and Financial Reporting Period
+The consolidated financial statements include the financial statements of
+QLogic Corporation and its wholly owned subsidiaries. All significant
+intercompany balances and transactions have been eliminated in consolidation.
+QLogic fiscal year ends on the Sunday nearest March 31. The fiscal year ended
+April 2, 2000 fiscal 2000 comprised 53 weeks. The fiscal years ended March
+28, 1999 fiscal 1999 and March 29, 1998 fiscal 1998 each comprised 52
+weeks.
+Use of Estimates
+The preparation of financial statements in accordance with generally
+accepted accounting principles requires management to make estimates that affect
+the amounts reported in the Company consolidated financial statements and
+accompanying notes. Actual results could differ from these estimates.
+Revenue Recognition
+Revenue is recognized upon product shipment. Royalty revenue is recognized
+when earned and receipt is assured. The customer obligation to pay the
+Company, and the payment terms, are set at the time of shipment and are not
+dependent on subsequent resale of the Company product. However, certain of the
+Company sales are made to distributors under agreements allowing limited right
+of return and/or price protection. The Company warrants its products, on a
+limited basis, to be free from defects for periods of one to five years from
+date of shipment. The Company estimates and establishes allowances and reserves
+for product returns, warranty obligations, doubtful accounts, and price
+adjustments.
+Capitalized Software Costs
+Statement of Financial Accounting Standards No. SFAS 86, Accounting
+for the Costs of Computer Software to be Sold, Leased or Otherwise Marketed,
+provides for the capitalization of certain software development costs once
+technological feasibility is established. The cost so capitalized is then
+amortized on a straight-line basis over the estimated product life, or the ratio
+of current revenues to total projected product revenues, whichever is greater.
+No such costs have been capitalized for all periods presented, as the impact on
+the consolidated financial statements is immaterial.
+Income Taxes
+Income taxes are accounted for under the asset and liability method.
+Deferred tax assets and liabilities are recognized for the future tax
+consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases and operating loss and tax credit carry forwards. Deferred tax assets and
+liabilities are measured using enacted tax rates expected to apply
+29
+30
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+to taxable income in the years in which those temporary differences are expected
+to be recovered or settled. The effect on deferred tax assets and liabilities of
+a change in tax rates is recognized in income in the period that includes the
+enactment date.
+Net Income per Share
+During the third quarter of 1998, the Company adopted SFAS 128, Earnings
+per Share. All prior periods have been restated accordingly. Basic net income
+per common share was computed based on the weighted average number of common
+shares outstanding during the periods presented. Diluted net income per share
+was computed based on the weighted average number of common and dilutive
+potential common shares outstanding during the periods presented. The Company
+has granted certain stock options which have been treated as dilutive potential
+common shares in computing diluted net income per share. The adoption of SFAS
+128 did not have a material impact on the Company financial statements.
+Segment Information
+In June 1997, the Financial Accounting Standards Board FASB issued SFAS
+131, Disclosures about Segments of an Enterprise and Related Information. SFAS
+131 supersedes SFAS 14, Financial Reporting for Segments of a Business
+Enterprise, replacing the industry segment approach with the management
+approach. The management approach is based on the way that management organizes
+its operating segments within the enterprise. Operating segments, as defined by
+SFAS 131, are components of an enterprise for which separate financial
+information is available and is evaluated regularly by the Company in deciding
+how to allocate resources and in assessing performance. SFAS 131 also requires
+disclosures about products and services, geographic areas, and major customers.
+The Company operates in one operating segment for purposes of SFAS 131.
+Fair Value of Financial Instruments
+For certain of the Company financial instruments, including cash and cash
+equivalents, short-term investments, accounts receivable, accounts payable and
+accrued liabilities, the carrying amounts approximate fair value due to their
+short maturities. Long-term investments are carried at cost which approximates
+fair value.
+Concentration of Credit Risk
+Financial instruments that potentially subject the Company to significant
+concentrations of credit risk consist principally of cash equivalents,
+investments in marketable securities, and trade accounts receivable. The Company
+places its marketable securities primarily in municipal bonds, corporate bonds
+and government securities, all of which are of high investment grade. The
+Company, by policy, limits the amount of credit exposure through diversification
+and investment in highly rated securities. Sales to customers are denominated in
+U.S. dollars. As a result, the Company believes its foreign currency risk is
+minimal.
+The Company sells its products to original equipment manufacturers and
+distributors throughout the world. The Company four largest customers comprise
+46% of total accounts receivable at April 2, 2000 and 59% at March 28, 1999. The
+Company performs ongoing credit evaluations of its customers' financial
+condition and, generally, requires no collateral from its customers. The Company
+maintains an allowance for doubtful accounts based upon the expected
+collectibility of all accounts receivable. There have not been significant
+losses experienced on accounts receivable.
+30
+31
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+Cash and Cash Equivalents
+For purposes of the consolidated statements of cash flows, the Company
+considers all highly liquid investments purchased with original maturities of
+three months or less on their acquisition date to be cash equivalents.
+Investments in Debt Securities
+The Company determines the appropriate balance sheet classification of its
+investments in debt securities based on maturity date at the time of purchase
+and evaluates the classifications at each balance sheet date. Debt securities
+are classified as held to maturity as the Company has the positive intent and
+ability to hold the securities to maturity. Held to maturity securities are
+stated at amortized cost.
+The amortized cost of debt securities is adjusted for amortization of
+premiums and accretion of discounts to maturity. Such amortization and interest
+are included in interest income. Realized gains and losses are included in
+interest and other income in the consolidated statements of income. The cost of
+securities sold is based on the specific identification method.
+Inventories
+Inventories are stated at the lower of cost first-in, first-out or net
+realizable value.
+Impairment of Long-Lived Assets and Long-Lived Assets to be Disposed of
+Long-lived assets and certain identifiable intangibles are reviewed for
+impairment whenever events or changes in circumstances indicate that the
+carrying amount of an asset may not be recoverable. Recoverability of assets to
+be held and used is measured by the comparison of the carrying amount of an
+asset to future undiscounted net cash flows expected to be generated by the
+asset. If such assets are considered to be impaired, the impairment to be
+recognized is measured by the amount by which the carrying amount of the assets
+exceeds the fair value of the assets. Assets to be disposed of are reported at
+the lower of the carrying amount or fair value less costs to sell.
+Property and Equipment
+Property and equipment are stated at cost. Depreciation is calculated using
+the straight-line method over estimated useful lives of two to 395 years.
+Leasehold improvements are amortized on a straight-line basis over the shorter
+of the lease term or the estimated useful life of the related asset.
+Stock Based Compensation
+The Company accounts for its employee and director stock options and
+employee stock purchase plan in accordance with the provisions of Accounting
+Principles Board Opinion No. 25 APB 25, Accounting for Stock Issued to
+Employees. SFAS 123, Accounting for Stock-Based Compensation, which was
+effective for fiscal years beginning after December 31, 1995, provided an
+alternative to APB 25, but allowed companies to account for employee and
+director stock-based compensation under the current intrinsic value method as
+prescribed by APB 25. The Company has continued to account for its employee and
+director stock plans in accordance with APB 25. Additional pro forma disclosures
+as required under SFAS 123 are presented in Note 8 of notes to consolidated
+financial statements.
+Comprehensive Income
+The Company has adopted SFAS 130, Reporting Comprehensive Income.
+Comprehensive income is defined as the change in equity of a company during a
+period from transactions and other events and
+31
+32
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+circumstances excluding transactions resulting from investments by owners and
+distributions to owners. Comprehensive income equals net income for all periods
+presented as there are no non-owner sources of equity.
+Research and Development
+Research and development costs, including costs related to the development
+of new products and process technology, as well as acquired in-process
+technology, are expensed as incurred.
+Reclassifications
+Certain reclassifications have been made to the fiscal 1999 and fiscal 1998
+consolidated financial statements to conform to the fiscal 2000 presentation.
+NOTE 2 ACQUISITIONS
+Adaptive RAID Technology
+On January 10, 2000, the Company acquired certain intellectual property
+AdaptiveRAIDR technology from Borg Adaptive Technologies, Inc., a
+wholly-owned subsidiary of nStor Corporation. The AdaptiveRAIDR technology,
+which is expected to provide next generation embedded RAID storage solutions for
+the Intel Architecture workstation market, was purchased for $75 million in
+cash.
+At the time of the acquisition, the AdaptiveRAIDR technology was in the
+development stage with no completed commercially viable storage solution
+products. The technology purchased had, at the time of acquisition, several
+in-process research and development projects that were substantially incomplete.
+The major projects acquired included: a a PCI RAID controller; b a RAID
+bridge controller; and c a storage area network RAID controller for the Intel
+Architecture server and workstation market. The Company primary purpose for
+the acquisition was to acquire these in-process projects and complete the
+development efforts as the Company believed they had economic value but had not
+yet reached technological feasibility and had no alternative future uses.
+Therefore, the Company has recorded the purchase price as a one-time charge for
+in-process research and development of $75 million to engineering and
+development expense in the fourth fiscal quarter ended April 2, 2000. The
+Company is continuing development efforts and does not currently have an
+estimate as to when the first new products will begin to ship.
+Silicon Design Resources, Inc.
+On August 20, 1998, the Company acquired the net assets of Silicon Design
+Resources, Inc. SDR for $2 million in cash. In addition, the Company is
+obligated to pay up to an additional $8 million in cash provided that certain
+performance targets are achieved through fiscal year 2002. These payments will
+be accounted for as additional purchase price and allocated to the intangible
+assets acquired, specifically the in-process technology and the completed
+technology. The Company accounted for the transaction using the purchase method
+of accounting, and excluding the initial write-off of the acquired in-process
+technology in the quarter ended September 27, 1998, the impact to the Company
+financial position and results of operations from the acquisition date was not
+material. Additionally, the Company incurred approximately $413,000 in
+professional fees related to the acquisition.
+The Company allocated the purchase price to the tangible and identifiable
+intangible net assets as of August 20, 1998 based on the fair market values of
+the assets; such fair values were derived from an independent third party
+appraisal. The fair value of the net assets acquired exceeded the initial
+payment, resulting in negative goodwill. This negative goodwill was allocated to
+the intangible assets acquired, based on their relative fair values. The
+allocation of the initial purchase price included $558,000 of net tangible
+assets, $635,000 of completed technology and $1,220,000 of in-process
+technology.
+32
+33
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+At the time of the acquisition, SDR was a startup company that had two
+products which were in full production, and three research and development
+projects which were in the development stage. The primary purpose of the
+acquisition was to acquire these in-process projects and complete the
+development efforts. The Company believes the developmental projects had
+economic value, but had not reached technological feasibility and had no
+alternative future uses. In accordance with applicable accounting literature,
+the acquired in-process technology was written-off to engineering and
+development expense during the quarter ended September 27, 1998, and will
+continue to be written-off to engineering and development when future
+performance payments are earned. Acquired completed technology has been
+capitalized and is included in other assets in the accompanying consolidated
+balance sheet. The acquired completed technology is being amortized on a
+straight-line basis over a period of three years from the acquisition date. At
+April 2, 2000 and March 28, 1999, a performance payment to the former
+shareholders of SDR of $841,000 and $1,321,000, respectively, was included in
+other accrued liabilities in the accompanying consolidated balance sheets. These
+payments were allocated to the intangible assets acquired: $559,000 and
+$870,000, respectively, were written-off as acquired in-process technology and
+$282,000 and $451,000, respectively, were capitalized as completed technology.
+NOTE 3 NET INCOME PER SHARE
+The Company computed basic net income per share based on the weighted
+average number of common shares outstanding during the periods presented.
+Diluted income per share was computed based on the weighted average number of
+common and dilutive potential common shares outstanding during the periods
+presented. The Company has granted certain stock options which have been treated
+as dilutive potential common shares.
+The following table sets forth the computations of basic and diluted net
+income per share                          2000    1999    1998
+IN THOUSANDS, EXCEPT PER SHARE
+AMOUNTS
+Numerator:
+Net  $53,953   $25,699   $13,408
+Denominator:
+Denominator for basic net income per share
+-- weighted average shares.  72,950   70,047   60,732
+Dilutive potential common shares, using
+treasury stock method.  4,547    4,713    4,060
+Denominator for diluted net income per
+77,497   74,760   64,792
+Basic net income per share. $ 074   $ 037   $ 022
+Diluted net income per share. $ 070   $ 034   $ 021
+Options to purchase 72,237, 153,392 and 114,184 shares of common stock were
+outstanding as of April 2, 2000, March 28, 1999, and March 29, 1998,
+respectively, but were not included in the computation of diluted net income per
+share, as the effect would be antidilutive.
+33
+34
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 4 INVESTMENTS
+The Company portfolio of investments consists of the following                              2000    1999
+IN THOUSANDS
+U.S. Government  $ 30,715  $ 6,981
+Municipal   31,810   61,305
+Corporate debt   72,963   35,253
+Other debt   27,114   26,673
+$162,602  $130,212
+At April 2, 2000 and March 28, 1999, the net unrealized holding gains and
+losses on securities were immaterial. Investments at April 2, 2000 and March 28,
+1999 were classified as shown below                              2000    1999
+IN THOUSANDS
+Cash  $ 64,134  $ 42,839
+Short-term   58,671   57,613
+Long-term investments with maturities from 1 to 2
+39,797   29,760
+$162,602  $130,212
+NOTE 5 INVENTORIES
+Components of inventories, are as follows                               2000    1999
+IN THOUSANDS
+Raw  $16,072  $ 7,716
+Work in   3,799    833
+Finished   2,459   2,074
+$22,330  $10,623
+NOTE 6 PROPERTY AND EQUIPMENT
+Components of property and equipment are as follows                               2000    1999
+IN THOUSANDS
+$11,663  $   Building and   21,405    948
+Product and test   25,688   20,238
+Furniture and   3,037   1,907
+Semiconductor   2,914   2,119
+64,707   25,212
+Less accumulated depreciation and amortization.  18,932   14,803
+$45,775  $10,409
+34
+35
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 7 CAPITAL ACCOUNTS
+Common Stock
+At April 2, 2000 and March 28, 1999, the Company authorized common stock
+was 150,000,000 with 74,292,949 and 71,844,232 shares issued and outstanding,
+respectively. At April 2, 2000, 21,480,000 shares were reserved for the exercise
+of issued and unissued common stock options, and 2,400,000 shares were reserved
+for issuance in connection with the Company Employee Stock Purchase Plan.
+Preferred Stock
+In fiscal 1994, the Company stockholders approved an amendment and
+restatement of the certificate of incorporation which authorized the future
+issuance of 1,000,000 shares of preferred stock, $010 par value, with rights
+and preferences to be determined by the Board of Directors. In January 2000, the
+par value was adjusted to $0001.
+Shareholder Rights Plan
+On June 4, 1996, the Board of Directors of the Company unanimously adopted
+a Shareholder Rights Plan the Rights Plan pursuant to which it declared a
+dividend distribution of preferred stock purchase rights a Right upon all of
+the outstanding shares of the common stock.
+The Rights dividend was paid on June 20, 1996 to the holders of record of
+shares of common stock on that date, at the rate of one-eighth of one whole
+Right per one share of common stock, as adjusted pursuant to the Company stock
+splits. Each share of common stock presently outstanding that had been issued
+since June 20, 1996 also includes one-eighth Right, and each share of common
+stock that may be issued after the date hereof and prior to the Distribution
+Date as defined below also will include one-eighth Right.
+The Rights become exercisable i the 10th business day following the date
+of a public announcement that a person or a group of affiliated or associated
+persons an Acquiring Person has acquired beneficial ownership of 15% or more
+of the outstanding shares of common stock, or ii the 10th business day
+following the commencement of, or announcement of an intention to make a tender
+offer or exchange offer the consummation of which would result in the person or
+group making the offer becoming an Acquiring Person the earlier of the dates
+described in clauses i and ii being called the Distribution Date.
+The Rights held by an Acquiring Person or its affiliates are not
+exercisable. All shares of common stock that will be issued prior to the
+Distribution Date will include such Rights. The Rights will expire at the close
+of business on June 4, 2006 the Scheduled Expiration Date, unless prior
+thereto the Distribution Date occurs, or unless the Scheduled Expiration Date is
+extended.
+Pursuant to the Rights Plan, as amended to date, each Right entitles the
+registered holder, on and after the Distribution Date and until redemption of
+all Rights, to purchase from the Company 1/100 of one whole share a Unit of
+the Company Series A Junior Participating Preferred Stock, par value $001 per
+share the Series A Preferred Stock. The purchase price is $42500 per Unit.
+In the event of certain acquisitions involving the Acquiring Person, directly or
+indirectly, the holder of each Right will be entitled to purchase for $42500
+certain shares or assets of the Company or an Acquiring person that have a
+market value of $85000 at such time.
+The Company has 200,000 whole shares of Series A Preferred Stock authorized
+40,000,000 Units authorized, of which no shares or Units are issued or
+outstanding at April 2, 2000. Each Unit would entitle the holder to A one
+vote, voting together with the shares of common stock; B in the event the
+Company assets are liquidated, a payment of one dollar $100 or an amount
+equal to the payment to be distributed per share of common stock, whichever is
+greater; and C in the event of any merger, consolidation or other transaction
+in which shares of common stock are exchanged, a payment in an amount equal to
+the payment
+35
+36
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+received per share of common stock. The number of Rights per share of common
+stock, and the purchase price, is subject to adjustment in the event of each and
+any stock split, stock dividend or similar event.
+Holders of Rights will be entitled to purchase shares or assets of the
+Company or an Acquiring Person with a value that is double the exercise price in
+the event of certain acquisitions involving the Acquiring Person, directly or
+indirectly.
+Common Stock Splits
+In February 1999, July 1999 and February 2000, the Company effected
+two-for-one splits of the outstanding shares of common stock. All share and per
+share data presented in the consolidated financial statements and footnotes has
+been retroactively adjusted to reflect these two-for-one stock splits.
+Stock Offering
+In the second quarter of fiscal 1998, the Company completed a secondary
+offering of 21,160,000 shares of the Company common stock at a price of $391
+per share. The Company received proceeds of $775 million net of underwriter
+discount and expenses.
+NOTE 8 STOCK PLANS
+Employee Stock Purchase Plan
+In fiscal year 1999, the Company Board of Directors adopted an Employee
+Stock Purchase Plan the ESPP. Under the ESPP, employees of the Company who
+elect to participate are granted options to purchase common stock at a 15%
+discount from the lower of the market value of the common stock at the beginning
+or end of each three month offering period. The ESPP permits an enrolled
+employee to make contributions to purchase shares of common stock by having
+withheld from their salary an amount between 1% and 10% of compensation. The
+ESPP is administered by the Compensation Committee of the Board of Directors.
+The total number of shares of common stock that may be issued pursuant to
+options granted under the ESPP is 2,400,000. The total number of shares issued
+under the ESPP were 79,572 and 23,736 during the years ended April 2, 2000 and
+March 28, 1999, respectively.
+Incentive Compensation Plans
+On January 12, 1994, the Company Board of Directors adopted the QLogic
+Corporation Stock Awards Plan the Stock Awards Plan and the QLogic
+Corporation Non-Employee Director Stock Option Plan the Director Plan
+collectively the Stock Option Plans. Additionally, the Company issues
+options on an ad hoc basis from time to time.
+The Stock Awards Plan provides for the issuance of incentive and
+non-qualified stock options, restricted stock and other stock-based incentive
+awards for officers and key employees. The Stock Awards Plan permits the
+Compensation Committee of the Board of Directors to select eligible employees to
+receive awards and to determine the terms and conditions of awards. As of April
+2, 2000, a total of 19,800,000 shares were reserved for issuance under the Stock
+Awards Plan, no shares of restricted stock were issued, options to purchase
+5,474,915 shares of Common Stock were outstanding, and there were 6,606,080
+shares available for future grants.
+Options granted under the Company Stock Awards Plan provide that an
+employee holding a stock option may exchange mature stock which the employee
+already owns as payment against the exercise of an option. This provision
+applies to all options outstanding as of April 2, 2000. All stock options
+granted under the Company Stock Awards Plan have ten-year terms and vest
+ratably over four years from the date of grant.
+36
+37
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+Under the terms of the Director Plan, new directors receive an option
+grant, at fair market value, to purchase 64,000 shares of common stock of the
+Company upon election to the Board, and the plan provides for annual grants to
+each non-employee director other than the Chairman of the Board of options to
+purchase 32,000 shares of common stock. The plan also provides for annual grants
+to the Chairman of the Board of options to purchase 54,000 shares of common
+stock. A total of 1,600,000 shares have been reserved for issuance under the
+Director Plan. As of April 2, 2000, options for a total of 254,005 shares were
+outstanding, and 467,999 shares were available for grant. All stock options
+granted under the Director Plan have ten-year terms and vest ratably over three
+years from the date of grant.
+As of April 2, 2000, ad hoc stock options have been issued representing
+options to purchase 80,000 shares, with a total of 53,000 options outstanding.
+Stock option activity in fiscal 2000, 1999 and 1998 under the Company
+Stock Option Plans was as follows                                  AVERAGE OPTION
+PRICE PER
+SHARES     SHARE
+Options outstanding as of March 30, 1997.  6,710,040    $ 113
+1,222,000     369
+204,416     159
+1,321,000     095
+Options outstanding as of March 29, 1998.  6,406,624     164
+2,260,800     826
+98,472     404
+2,613,888     113
+Options outstanding as of March 28, 1999.  5,955,064     433
+2,370,000     4315
+173,999     277
+2,369,145     579
+Options outstanding as of April 2, 2000.  5,781,920    $2084
+As of April 2, 2000, March 28, 1999, and March 29, 1998, the number of
+options exercisable was 1,383,266, 1,780,904 and 2,710,240 respectively, and the
+weighted average exercise price of those options was $323, $160 and $099,
+respectively.                OPTIONS OUTSTANDING           OPTIONS EXERCISABLE
+WEIGHTED                    WEIGHTED
+OUTSTANDING    AVERAGE    REMAINING   EXERCISABLE    AVERAGE
+RANGE OF     AS OF    EXERCISE PRICE  CONTRACTUAL    AS OF    EXERCISE PRICE
+EXERCISE PRICES  APRIL 2, 2000   PER OPTION   LIFE YEARS  APRIL 2, 2000   PER OPTION
+-                                            
+$ 059 to $ 319  1,558,721     $ 194      636     1,032,843     $ 168
+$ 378 to $1425  1,565,973     $ 678      826      307,737     $ 669
+$1503 to $1638   287,226     $1597      889      42,686     $1594
+$3131 to $8825  2,370,000     $4315      938        --     $                                 059 to $8825  5,781,920     $2084      824     1,383,266     $ 323
+37
+38
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+Pro Forma Information
+The Company applies APB 25 in accounting for its Stock Option Plans and,
+accordingly, no compensation cost has been recognized for its stock options in
+the consolidated financial statements. Had the Company determined compensation
+cost based on the fair value at the grant date, recorded over a four-year
+vesting period, for its stock options under SFAS 123, the Company net income
+would have been reduced to the pro forma amounts indicated below                          2000    1999    1998
+IN THOUSANDS, EXCEPT PER SHARE
+AMOUNTS
+Net income as  $53,953   $25,699   $13,408
+Assumed stock compensation cost, net of tax. $14,757   $ 8,325   $ 2,576
+Pro forma net  $39,196   $17,374   $10,832
+Diluted net income per share as reported. $ 070   $ 034   $ 021
+Pro forma diluted net income per share. $ 051   $ 023   $ 017   The Company uses the Black-Scholes option-pricing model for estimating the
+fair value of its equity instruments. The following represents the
+weighted-average fair value of options granted and the assumptions used for the
+calculations                          2000   1999   1998
+Estimated fair value per option granted. $3035  $2232  $  843
+Stock   846%   795%    604%
+Risk-free interest rate.  59%   56%     60%
+Expected life   500   500     500
+Stock dividend   00%   00%     00   The fair value of each option grant, as defined by SFAS 123, is estimated
+on the date of grant using the Black-Scholes option-pricing model. The
+Black-Scholes model, as well as other currently accepted option valuation
+models, was developed to estimate the fair value of freely tradable, fully
+transferable options without vesting restrictions, which significantly differ
+from the Company stock option awards. These models also require highly
+subjective assumptions, including future stock price volatility and expected
+time until exercise, which greatly effect the calculated fair value on the grant
+date.
+NOTE 9 EMPLOYEE RETIREMENT SAVINGS PLAN
+The Company has established a pretax savings and profit sharing plan under
+Section 401k of the Internal Revenue Code for substantially all domestic
+employees. Under the plan, eligible employees are able to contribute up to 15%
+of their compensation. Company contributions match up to 3% of a participant
+compensation. The Company direct contributions on behalf of its employees were
+$647,000, $458,000 and $349,000 in fiscal 2000, 1999, and 1998, respectively.
+NOTE 10 COMMITMENTS AND CONTINGENCIES
+Line of Credit
+On July 5, 1999, the Company renewed its unsecured line of credit from a
+bank. Maximum borrowings under the line of credit are $50 million, subject to a
+borrowing base based on accounts receivable, with a $30 million sub-limit for
+letters of credit. Interest on outstanding advances is payable monthly at the
+bank prime rate 80% at April 2, 2000. The line of credit expires on July 5,
+2000. The line of credit contains certain restrictive covenants that, among
+other things, require the maintenance of certain financial ratios and restrict
+the Company ability to incur additional indebtedness. The Company was in
+compliance with all such
+38
+39
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+covenants as of April 2, 2000. There were no borrowings under the line of credit
+as of April 2, 2000. The Company expects to extend the line of credit through
+the end of fiscal year 2001.
+Leases
+The Company leases certain equipment and facilities under non-cancelable
+operating lease agreements, which expire at various dates through fiscal year
+2005. Future minimum non-cancelable lease commitments are as follows In
+thousands                  
+FISCAL YEAR
+$ 924
+898
+560
+181
+30
+Total minimum lease payments. $2,593
+Rent expense for fiscal 2000, 1999, and 1998 was $1,850,000, $1,430,000 and
+$820,000 respectively.
+Litigation
+QLogic is involved in various legal proceedings, which have arisen in the
+ordinary course of business. In the opinion of management, the ultimate
+disposition of these matters will not have a material adverse effect on the
+Company consolidated financial position, results of operations or liquidity.
+NOTE 11 INCOME TAXES
+The components of the income tax provision are as follows                         2000    1999    1998
+IN THOUSANDS
+Current:
+$30,402  $12,892  $ 9,888
+2,564   1,701   1,564
+1,093     --                                     Total   34,059   14,593   11,452
+Deferred:
+5,349  1,398  2,264
+915    44    766
+Total   6,264  1,354  3,030
+Total income tax provision. $27,795  $13,239  $ 8,422
+39
+40
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+A reconciliation of the income tax provision with the amount computed by
+applying the federal statutory tax rate to pretax income is as follows                         2000    1999    1998
+IN THOUSANDS
+Expected income tax provision at the statutory
+$28,612  $13,628  $ 7,641
+State income tax, net of Federal tax
+2,858   1,910   1,991
+Tax benefit of research and development and
+other   2,120  1,240     Foreign Sales Corporation tax benefit.   659   431     Decrease in valuation allowance.    --     --   1,904
+Tax exempt    617   882   315
+Other,    279    254   1,009
+$27,795  $13,239  $ 8,422
+The tax effects of temporary differences that give rise to significant
+portions of the deferred tax assets and liabilities are as follows                               2000    1999
+IN THOUSANDS
+Deferred tax assets:
+Reserves and accruals not currently deductible. $ 9,639  $5,572
+Property and    907    789
+Acquired in-process   4,072    897
+State tax     --    122
+--    12
+Total gross deferred tax assets.  14,618   7,392
+Deferred tax liabilities:
+Research and development   1,192    882
+State tax    508         349    205
+Total gross deferred tax liabilities.  2,049   1,087
+Net deferred tax  $12,569  $6,305
+Based upon the Company current and historical pre-tax earnings,
+management believes it is more likely than not that the Company will realize the
+benefit of the existing net deferred tax assets as of April 2, 2000. Management
+believes the existing net deductible temporary differences will reverse during
+periods in which the Company generates net taxable income or that there would be
+sufficient tax carrybacks available; however, there can be no assurance that the
+Company will generate any earnings or any specific level of continuing earnings
+in future years.
+The tax benefit associated with dispositions from employee stock purchase
+plans reduced taxes currently payable by $28,085,000, $5,753,000 and $1,494,000
+for the years ended April 2, 2000, March 28, 1999 and March 29, 1998
+respectively. These benefits were recorded directly to additional paid-in
+capital.
+Fiscal years 1998 and 1999 are currently under examination by the Internal
+Revenue Service. Management believes that adequate amounts of tax and related
+interest and penalties, if any, have been provided for any adjustment that may
+result for these years.
+40
+41
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 12 EXPORT REVENUES AND SIGNIFICANT CUSTOMERS
+Product Revenues
+The Company designs and supplies semiconductor and board I/O and enclosure
+management products. These products utilize one of three technology standards:
+Fibre Channel, SCSI and IDE. Net revenues for the Company products are grouped
+by technology standard as they function using similar technologies.                         2000    1999    1998
+IN THOUSANDS
+Fibre  $ 60,076  $ 19,288  $ 1,398
+131,694   97,269   79,745
+11,373     625    250
+$203,143  $117,182  $81,393
+Geographic Revenues
+The Company net revenues by country based on ship-to location are                         2000    1999    1998
+IN THOUSANDS
+United  $ 88,972  $ 55,106  $46,835
+78,211   38,591   25,064
+United   15,902   11,257   2,657
+Rest of   20,058   12,228   6,837
+$203,143  $117,182  $81,393
+Significant Customers
+The following table represents sales to customers accounting for greater
+than 10% of the Company net revenues. With the exception of these customers,
+management believes that the loss of any one customer would not have a material
+adverse effect on its business.              2000  1999  1998
+Customer 1.  30%   24%   23%
+Customer 2.  13%   19%   20 NOTE 13 SUBSEQUENT EVENT
+On May 7, 2000, the Company entered into an agreement to acquire Ancor
+Communications, Inc. Ancor. Under the terms of the agreement, the Company
+will exchange 05275 shares of common stock for each outstanding Ancor common
+share. The proposed transaction is intended to qualify as a pooling-of-
+interests and as a tax-free exchange of shares under IRS regulations. The
+transaction is subject to shareholder approval from both companies and
+appropriate regulatory approvals.
+41
+42
+QLOGIC CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+NOTE 14 CONDENSED QUARTERLY RESULTS UNAUDITED
+The following summarizes certain unaudited quarterly financial information
+for fiscal 2000, 1999, and 1998.                             THREE MONTHS ENDED
+JUNE   SEPTEMBER  DECEMBER   MARCH
+FISCAL 2000
+Net  $43,186   $47,492   $52,338   $60,127
+Operating   16,053   18,538   21,452   18,002
+Net   11,512   13,381   15,552   13,508
+Net income per diluted share1.   015    017    020    017
+FISCAL 1999
+Net  $24,115   $27,692   $30,299   $35,076
+Operating   5,888    6,535    9,368   11,574
+Net   4,775    5,238    7,148    8,538
+Net income per diluted share.   007    007    010    011
+FISCAL 1998
+Net  $18,172   $19,625   $20,856   $22,740
+Operating   3,367    4,225    5,184    5,710
+Net   2,244    3,041    3,946    4,177
+Net income per diluted share.   004    005    005    006
+1 Operating income, net income, net income and net income per diluted share
+includes a $75 million charge for acquired in-process technology in the
+fourth-quarter of fiscal 2000.
+42
+43
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+No matter was submitted during the fourth quarter of fiscal 2000 to a vote
+of security holders.
+9
+10
+PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+Reference is made to the Company Definitive Proxy Statement for its 2000
+Annual Meeting of Stockholders, to be filed with the Securities and Exchange
+Commission within 120 days after the end of fiscal 2000, for information
+relating to the Company Directors under the heading Nomination and Election
+of Directors. Such information is incorporated herein by reference.
+EXECUTIVE OFFICERS OF THE REGISTRANT
+The executive and certain other officers of QLogic are as follows     NAME      AGE                POSITION
+H.K. Desai       54   Chairman of the Board, Chief Executive Officer and President
+Thomas R. Anderson   55   Vice President and Chief Financial Officer
+Michael R. Manning   45   Secretary and Treasurer
+David Tovey       55   Vice President and General Manager, Peripheral Products
+Mark A. Edwards     41   Vice President and General Manager, Computer Products
+David M. Race      44   Vice President and General Manager, Enclosure Management Products
+Lawrence F. Fortmuller 51   Vice President, Corporate Marketing
+Mark D. Spowart     48   Vice President, Sales
+Robert W. Miller    44   Vice President, Operations   Our officers are elected annually by the Board of Directors for each year
+period, or portion thereof, and serve at the discretion of the Board of
+Directors of the company. None of our executive officers have any family
+relationship with any other executive officer of the Company or director of
+QLogic.
+Mr. Desai joined us in August 1995 as President and Chief Technical
+Officer. He was subsequently promoted to President and Chief Executive Officer,
+became a Director in January 1996 and Chairman of the Board in May 1999. From
+May 1995 to August 1995, he was Vice President, Engineering Systems Products
+at Western Digital Corporation, a manufacturer of disk drives. From July 1990
+until May 1995, he served as Director of Engineering, and subsequently Vice
+President of Engineering for QLogic.
+Mr. Anderson joined us in July 1993 as Vice President and Chief Financial
+Officer. Prior to joining us, Mr. Anderson was Executive Vice President, Chief
+Operating Officer and Chief Financial Officer of HIARC, Inc., a software startup
+company. From October 1990 to December 1992, he was corporate Senior Vice
+President and Chief Financial Officer at Distributed Logic Corporation, a
+manufacturer of tape and disk controllers and subsystems.
+Mr. Manning joined Emulex, a network product manufacturer our former
+parent company in July 1983 as Director of Tax. He was named Senior Director
+and Treasurer of Emulex in April 1991 and Secretary in August 1992. Mr. Manning
+joined us in June 1993.
+Mr. Tovey joined us in April 1994 as Vice President Marketing, and was
+named Vice President and General Manager of Peripheral Products in July 1996.
+From March 1985 to April 1994, he held various positions with Toshiba America
+Information Systems, a computer system manufacturer including director of
+technology planning and Vice President of OEM marketing.
+Mr. Edwards joined us in September 1996 as Vice President of Sales and
+Corporate Marketing, and is currently Vice President and General Manager,
+Computer Products. Prior to joining us, Mr. Edwards worked at Unisys from August
+1993 to September 1996 where he was most recently Vice President, Sales                     43
+44
+Marketing for the Storage Systems Division. Mr. Edwards has held a number of
+sales and marketing positions in the U.S. and Europe with Unisys, Digital
+Equipment Corporation and Zitel.
+Mr. Race joined us in August 1998 as Vice President and General Manager,
+Enclosure Management Products. Mr. Race was Co-founder and President of Silicon
+Design Resources, Inc. SDR from January 1996 until August 1998, when SDR was
+acquired by us. From January 1996 to August 1998. Mr. Race held positions at
+Software.com, and was previously employed by Distributed Processing Technology
+from March 1989 to January 1996.
+Mr. Fortmuller joined QLogic in October 1996 as Vice President and General
+Manager, Computer Products, and is currently Vice President of Marketing. From
+June 1987 to October 1996, Mr. Fortmuller held management positions at AST
+Research, Inc., a computer manufacturer, including Vice President, Americas
+Marketing.
+Mr. Spowart joined us in January 2000 as Vice President of Sales. Prior to
+joining us, Mr. Spowart worked at ATL Products from March 1992 to January 2000
+where he was most recently Vice President, Worldwide Sales. Mr. Spowart has held
+a number of sales executive positions at Auspex Systems and Memorex Telex.
+Mr. Miller joined Emulex, a network product manufacturer our former parent
+company in June 1990 as a staff engineer and was named Engineering Manager in
+August 1992. After joining us in 1993 he was named Director of Engineering in
+July 1994 and Director of Operations in August 1995. He was subsequently
+promoted to Vice President of Operations in July 1997.

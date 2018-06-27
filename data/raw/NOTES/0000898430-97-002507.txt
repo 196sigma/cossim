@@ -1,0 +1,703 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+PAGE
+VISIGENIC SOFTWARE, INC.:                    
+Report of Independent Public   26
+Consolidated Balance   27
+Consolidated Statements of   28
+Consolidated Statements of Stockholders' Equity.  29
+Consolidated Statements of Cash Flows.  30
+Notes to Consolidated Financial Statements.  31
+25
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+To Visigenic Software, Inc.   We have audited the accompanying consolidated balance sheets of Visigenic
+Software, Inc. a Delaware corporation and subsidiary as of March 31, 1996 and
+1997 and the related consolidated statements of operations, stockholders' equity
+and cash flows for each of the three years in the period ended March 31, 1997.
+These financial statements are the responsibility of the Company management.
+Our responsibility is to express an opinion on these consolidated financial
+statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Visigenic Software, Inc. and
+subsidiary as of March 31, 1996 and 1997, and the results of their operations
+and their cash flows for each of the three years in the period ended March 31,
+1997 in conformity with generally accepted accounting principles.                  ARTHUR ANDERSEN LLP
+San Jose, California
+April 18, 1997
+26
+VISIGENIC SOFTWARE, INC.
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS
+MARCH 31,
+1996    1997
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents   $ 2,399  $ 19,445
+Accounts receivable, net of allowance for doubtful accounts
+of $60 in 1996 and $144 in 1997     760    8,028
+Other current assets     257     696
+Total current assets    3,416   28,169
+PROPERTY AND EQUIPMENT, net    1,349    3,003
+OTHER ASSETS, net:
+Excess of purchase price over net assets acquired..     --    1,078
+Other      55     83
+$ 4,820  $ 32,333
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES:
+Accounts payable   $  811  $  684
+Accrued liabilities-
+Payroll and related benefits     347    1,406
+Other     301     923
+Deferred revenue    1,141    2,407
+Total current liabilities    2,600    5,420
+COMMITMENTS AND CONTINGENCIES Note 5
+STOCKHOLDERS' EQUITY:
+Convertible preferred stock, $001 par value
+Authorized--10,000,000 shares at March 31, 1996; 2,000,000
+shares at March 31, 1997
+Outstanding--3,674,625 shares in 1996      4        Common stock, $001 par value,
+Authorized--20,000,000 shares at March 31, 1996; 50,000,000 shares at
+March 31, 1997
+Outstanding--2,835,905 shares in 1996 and 13,990,707 shares in 1997.     3     14
+Additional paid-in capital    13,675   58,691
+Accumulated deficit   11,462  31,792
+Total stockholders' equity    2,220   26,913
+$ 4,820  $ 32,333
+The accompanying notes are an integral part of these balance sheets.
+27
+VISIGENIC SOFTWARE, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS                                       YEAR ENDED MARCH 31,
+1995    1996    1997
+REVENUE:
+Software    $  892 $ 4,479  $ 14,175
+Consulting services, maintenance and other.     223   1,096    2,843
+Total     1,115   5,575    17,018
+COST OF REVENUE:
+Software       36    284     630
+Consulting services, maintenance and other.     259    727    2,330
+Total cost of      295   1,011    2,960
+GROSS PROFIT.                               820   4,564    14,058
+OPERATING EXPENSES:
+Product     3,160   4,348    9,497
+Sales and     1,511   3,215    9,615
+General and      872   1,465    2,596
+Purchased in process product       --                                                    12,364
+Amortization of excess of purchase price over net assets
+--    --     667
+Total operating     5,543   9,028    34,739
+Loss from     4,723  4,464   20,681
+INTEREST AND OTHER INCOME,       94    85     351
+NET    $ 4,629 $4,379  $20,330
+NET LOSS PER               $ 163
+PRO FORMA NET LOSS PER         $ 40
+SHARES USED IN PER SHARE          11,064    12,453
+The accompanying notes are an integral part of these financial statements.
+28
+VISIGENIC SOFTWARE, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+DOLLARS IN THOUSANDS
+CONVERTIBLE           
+PREFERRED STOCK    COMMON STOCK  ADDITIONAL         TOTAL  
+PAID-IN  ACCUMULATED STOCKHOLDERS' 
+SHARES  AMOUNT   SHARES  AMOUNT  CAPITAL   DEFICIT   EQUITY
+BALANCE, MARCH 31, 1994. 1,674,625 $  2   2,427,019 $ 2 $  5,582  $ 2,454 $   3,132 
+Issuance of common stock.     --   --    459,575  1    183     --      184
+Repurchase of common stock.     --   --    103,717 --    35     --      35
+Issuance of Series B convertible
+preferred stock.  625,000   1       --  --   2,464     --     2,465
+Net      --   --       --  --     --   4,629    4,629
+BALANCE, MARCH 31, 1995. 2,299,625    3   2,782,877  3   8,194   7,083    1,117
+Issuance of Series B convertible
+preferred stock. 1,375,000    1      --  --   5,459     --     5,460
+Exercise of stock options.     --   --    54,068  --     22     --      22
+Repurchase of common stock, net of
+--   --    1,040 --     --     --        Net      --   --      --  --     --   4,379    4,379
+BALANCE, MARCH 31, 1996. 3,674,625    4   2,835,905  3   13,675   11,462    2,220
+Issuance of Series C convertible
+preferred stock..  444,444   --      --  --   4,000     --     4,000
+Issuance of common stock in 
+connection with the acquisition 
+of PostModern Computing 
+Technologies, Inc.     --   --   3,099,821  3   10,382     --    10,385 
+Issuance of common stock in
+connection, with the public   
+--   --   3,195,000  3   26,467     --    26,470 
+Conversion of preferred stock in
+public offering.. 4,119,069   4  4,119,069  4     --     --      -- 
+Conversion of convertible notes.     --   --    270,871  --   2,031     --     2,031
+Issuance of common stock in
+connection with the acquisition of          
+CustomWare, Inc..    --   --    125,000  --   1,500     --     1,500 
+Issuance of common stock, net
+of     --   --    345,041  1    636     --      637 
+Net loss..     --   --      --  --     --   20,330   20,330
+BALANCE, MARCH 31, 1997.     -- $  --  13,990,707 $ 14 $ 58,691  $ 31,792 $  26,913
+The accompanying notes are an integral part of these financial statements.
+29
+VISIGENIC SOFTWARE, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS                                   YEARS ENDED MARCH 31,
+1995   1996    1997
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net  $ 4,629 $ 4,379 $20,330
+Adjustments to reconcile net loss to net cash used in
+operating activities     Depreciation and     158    310   1,301
+Purchased in process product development.    --    --   12,364
+Provision for doubtful     --    60     84
+Changes in assets and liabilities, net of
+acquisition of PostModern and CustomWare      Increase in accounts    472   348  7,006
+Increase in prepaid expenses and other current
+139   82   341
+Increase decrease in accounts payable.    53    610    218
+Increase in accrued     142    440   1,170
+Increase in deferred     303    838   1,083
+Net cash used in operating activities.  4,584  2,551  11,893
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Payment for purchase of PostModern and
+CustomWare, net of cash     --    --   1,919
+Purchases of property and    373  1,052  2,221
+Organization costs and other assets.    5   33    28
+Net cash used in investing activities.   378  1,085  4,168
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from issuance of convertible notes.    --    --   2,000
+Net proceeds from issuance of preferred stock.   2,465   5,460   4,000
+Net proceeds from issuance of common stock.    149    22   27,107
+Net cash provided by financing activities.   2,614   5,482   33,107
+NET INCREASE DECREASE IN CASH AND CASH
+2,348  1,846   17,046
+CASH AND CASH EQUIVALENTS, BEGINNING OF
+2,901    553   2,399
+CASH AND CASH EQUIVALENTS, END OF PERIOD. $   553 $ 2,399  $ 19,445
+The accompanying notes are an integral part of these financial statements.
+30
+VISIGENIC SOFTWARE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+MARCH 31, 1997
+1. ORGANIZATION AND OPERATIONS OF THE COMPANY   Visigenic Software, Inc. the Company was incorporated on February 12,
+1993. The Company operates in a single industry segment and is involved in the
+design, development and marketing of distributed object and database access
+software products. Through March 31, 1995 the Company principal efforts were
+focused on raising capital, developing its products and applications,
+establishing marketing and sales channels and recruiting key personnel. During
+fiscal 1996, the Company emerged from the development stage, however, the
+Company continues to be subject to the risks associated with companies in a
+comparable stage of development including, but not limited to, dependence on key
+personnel; limited operating history and a history of losses; and the need to
+develop new software products and product enhancements.
+In May 1996, the Company acquired PostModern Computing Technologies Inc.
+PostModern See Note 3. Prior to the acquisition of PostModern, the Company
+derived substantially all of its revenue from the licensing of its database
+access products and fees from related services. Since the acquisition of
+PostModern, the Company has also derived a significant portion of its revenue
+from its distributed object products. The Company database access and
+distributed object products and services are each expected to continue to
+account for a significant portion of the Company revenue for the foreseeable
+future. 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES  Principles of Consolidation and Functional Currency
+The consolidated financial statements include the accounts of the Company
+and its wholly-owned subsidiary after elimination of intercompany transactions
+and balances. The functional currency of the Company foreign subsidiary is the
+U.S. dollar. Foreign exchange gains and losses resulting from the remeasurement
+of the financial statements for the subsidiary, which are not material, are
+included in other income in the accompanying consolidated statements of
+operations.
+Use of Estimates in Preparation of Financial Statements
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported results of operations during the reporting period.
+Actual results could differ from those estimates.
+Cash Equivalents and Short-Term Investments
+The Company considers all highly liquid investments with an original
+maturity of three months or less from the date of purchase to be cash
+equivalents. The Company short-term investments are accounted for pursuant to
+the provisions of Statement of Financial Accounting Standards SFAS No. 115,
+Accounting for Certain Investments in Debt and Equity Securities. As of March
+31, 1996 and 1997, the Company cash and cash equivalents were deposited in
+checking and money market accounts and certificates of deposit.
+Software Development Costs
+In accordance with SFAS No. 86, Accounting for the Costs of Computer
+Software to be Sold, Leased, or Otherwise Marketed, the Company capitalizes
+eligible computer software development costs upon the establishment of
+technological feasibility, which it has defined as completion of a working
+model. For the years
+31
+VISIGENIC SOFTWARE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+ended March 31, 1995, 1996 and 1997, the amount of costs eligible for
+capitalization, after consideration of factors such as realizable value, were
+not material and, accordingly, all software development costs have been charged
+to product development expense in the accompanying consolidated statements of
+operations.
+Property and Equipment
+Property and equipment are stated at cost. Depreciation is provided using
+the straight-line method over the estimated useful lives of the assets or over
+the lease term if it is shorter for leasehold improvements, which range from
+three to five years. Property and equipment consists of the following in
+thousands                                MARCH 31,
+1996  1997
+Computer  $ 1,126  $ 2,666
+Furniture and    320    619
+Purchased    401    742
+Leasehold     34    142
+1,881   4,169
+Less--Accumulated depreciation and amortization.   532  1,166
+Property and equipment, net. $ 1,349  $ 3,003
+Revenue Recognition and Deferred Revenue
+The Company revenue is derived from fixed license fees from licensing its
+products, royalties from value added resellers VARs, independent software
+vendors ISVs and distributors, and fees for services related to its products,
+including software maintenance, development contracts and consulting and
+training. Certain of the Company license arrangements with VARs and ISVs
+provide for sublicense fees payable to the Company based on a percentage of the
+VAR or ISV net revenue. Other license arrangements provide for fixed license
+fees for the right to make and distribute an unlimited number of copies of the
+Company product for a specified period of time. Royalty revenue, other than
+from prepaid royalties, is recognized when it is reported by the VAR, ISV or
+distributor. Service revenue is primarily attributable to lower margin
+maintenance and other revenue, including training revenue and engineering
+development fees.
+The Company generally recognizes revenue from license and prepaid royalties
+upon delivery of software products if there are no significant post-delivery
+obligations, if collection is probable and if the license agreement requires
+payment within 90 days. If significant post-delivery obligations exist or if a
+product is subject to customer acceptance, revenue is deferred until no
+significant obligations remain or acceptance has occurred.
+Maintenance revenue from ongoing customer support and product upgrades is
+recognized ratably over the term of the applicable maintenance period, which is
+typically 12 months. If maintenance is included in a license agreement, such
+amounts are unbundled from the license fee at their fair market value.
+Consulting and training revenue is generally recognized as services are
+performed over the term of the agreement. Revenue from engineering development
+work is generally recognized on a percentage of completion basis. If a
+transaction includes both license and service elements, license fee revenue is
+recognized upon shipment of the software, provided services do not include
+significant customization or modification of the base product and payment terms
+are not subject to acceptance criteria. In cases where license fee payments are
+contingent upon the acceptance of services, revenues from both the license and
+service elements are deferred until the acceptance criteria are met.
+Deferred revenue consists primarily of the unrecognized portion of revenue
+under maintenance and support contracts which revenue is deferred and
+recognized ratably over the term of such contract and advance payment of
+software development fees and license fees.
+32
+VISIGENIC SOFTWARE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Significant Customers and Related Parties
+A relatively small number of customers have accounted for a significant
+percentage of the Company total revenue. The following customers accounted for
+more than 10% of total revenue                   YEAR ENDED
+MARCH 31,
+1995   1996   1997
+Customer A.     55%    *    *
+Customer B.     20%    *    *
+Customer C.     *    25%     less than 10   Export Sales
+The Company markets its products in North America and in foreign countries
+primarily Europe and Japan through its sales personnel, VARs, ISVs and
+distributors. For fiscal 1996 and 1997, export sales, which consist of domestic
+sales to customers in foreign countries, were 10% and 11%, respectively, of
+total revenue. For fiscal 1995, export sales were less than 10% of total
+revenue.
+Concentration of Credit Risk
+Financial instruments which potentially subject the Company to a
+concentration of credit risk consist principally of accounts receivable. As of
+March 31, 1997, approximately 70% of accounts receivable was concentrated with
+ten customers. The Company generally does not require collateral on accounts
+receivable as the majority of the Company customers are large, well
+established companies. The Company provides reserves for credit losses, which to
+date have been insignificant.
+Stock-Based Compensation
+Effective April 1, 1996, the Company adopted the disclosure provisions of
+SFAS No. 123, Accounting for Stock-Based Compensation. In accordance with the
+provisions of SFAS No. 123, the Company applies Accounting Principals Board
+APB Opinion No. 25, Accounting for Stock Issued to Employees, and related
+interpretations in accounting for its stock option plans.
+Net Loss per Share and Pro Forma Net Loss per Share
+For periods after the Company initial public offering in August 1996,
+net loss per share has been computed using the weighted average number of common
+shares outstanding. Common equivalent shares have not been included as their
+effect would be antidilutive. For the portion of fiscal 1997 prior to the
+Company initial public offering, net loss per share has been computed on a pro
+forma basis.
+Pro forma net loss per share is computed using the pro forma weighted
+average number of common and common equivalent shares outstanding during the
+period. Common equivalent shares consist of convertible preferred stock using
+the if converted method and stock options using the treasury stock method.
+Common stock options are excluded from the computation if their effect is
+antidilutive. Convertible preferred stock outstanding
+33
+VISIGENIC SOFTWARE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+during the period is included using the if converted method in the computation
+of common equivalent shares even though the effect is antidilutive. Also,
+pursuant to the Securities and Exchange Commission Staff Accounting Bulletins
+and staff policy, such computations include all common and common equivalent
+shares issued within the 12 months preceding the Company initial public
+offering as if they were outstanding for all periods presented. Historical net
+loss per share amounts for periods prior to fiscal 1996 have not been presented
+since such amounts are not deemed meaningful due to the significant change in
+the Company capital structure that occurred upon consummation of the Company
+initial public offering.
+New Accounting Standards
+In February 1997, the Financial Accounting Standards Board FASB issued 
+SFAS No. 128, Earnings per Share, which specifies the computation,
+presentation and disclosure requirements for earnings per share. SFAS No. 128
+will become effective for the Company year ending March 31, 1998. SFAS No. 128
+will not have a material impact on the Company results of operations.
+In February 1997, FASB issued SFAS No. 129, Disclosure of Information
+about Capital Structure, which will be adopted by the Company in the fourth
+quarter of 1998. SFAS No. 129 requires companies to disclose certain information
+about their capital structure. SFAS No. 129 will not have a material impact on
+the Company financial statement disclosures. 3. FISCAL 1997 ACQUISITIONS   Acquisition of PostModern
+In May 1996, the Company completed the acquisition of PostModern, a
+supplier of distributed object technology. In the acquisition the Company issued
+3,099,821 shares of its common stock, valued at $300 per share based on an
+independent appraisal of the Company common stock, and paid a total of $23
+million in exchange for all of PostModern outstanding shares. The Company also
+incurred acquisition-related costs of approximately $450,000, resulting in a
+total purchase price of approximately $131 million. In addition, the Company
+made cash payments, subject to one-year vesting and totaling $15 million, to
+certain PostModern employees. The acquisition of PostModern was accounted for as
+a purchase in the quarter ended June 30, 1996 and, accordingly, the results of
+PostModern from the date of acquisition forward have been recorded in the
+Company consolidated financial statements.
+In connection with the purchase price allocation, the Company received
+an appraisal of the intangible assets which indicated that approximately $120
+million of the acquired intangible assets consisted of in process product
+development which had not reached technological feasibility and, in the opinion
+of management, had no alternative future use. The acquired in process product
+development was charged to expense in the Company 1997 Statement of
+Operations.
+As a result of the purchase price allocation, the excess of the purchase
+price over net assets acquired is $11 million, which is being amortized on a
+straight-line basis over a period of two years. Management believes that the
+unamortized balance is recoverable through future operating results.
+34
+VISIGENIC SOFTWARE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+The following unaudited pro forma information shows the results of
+operations for the two fiscal years ended March 31, 1997 as if the PostModern
+acquisition had occurred at the beginning of each period presented and at the
+purchase price established in May 1996. The results are not necessarily
+indicative of what would have occurred had the acquisition actually been made at
+the beginning of each of the respective periods presented or of future
+operations of the combined companies. The pro forma results for 1997 combine the
+Company results for the year ended March 31, 1997 with the results of
+PostModern for the period from April 1, 1996 through the date of acquisition and
+includes the $120 million write-off discussed above. The following unaudited
+pro forma results include the straight-line amortization of intangibles over a
+period of two years.
+YEAR ENDING MARCH 31,
+1996      1997
+IN THOUSANDS, EXCEPT PER
+SHARE AMOUNTS
+$ 6,577   $ 17,150
+Net    $6,337   $20,566
+Net loss per    $ 57   $ 165
+Shares used in per share calculation.    11,064    12,453
+In connection with the acquisition, the Company also assumed
+PostModern outstanding stock options and reserved 361,785 shares of the
+Company common stock for issuance upon exercise of such options at an exercise
+price of $024 to $060 per share under similar vesting terms. As of March
+31,1997, 15,000 options had been exercised, 346,785 are outstanding and 147,061
+shares are vested.    Acquisition of CustomWare
+In December 1996, the Company completed the acquisition of CustomWare, Inc.
+CustomWare, a training and consulting firm focused on Java and CORBA
+technologies. In the acquisition, the Company issued 125,000 shares of its
+common stock to the shareholder of CustomWare, resulting in a total purchase
+price of approximately $15 million. The acquisition of CustomWare was accounted
+for as a purchase in the quarter ended December 31, 1996.
+In connection with the purchase price allocation, the Company received an
+appraisal of the intangible assets which indicated that approximately $350,000
+of the acquired intangible assets consisted of in process product development.
+Because there can be no assurance that the Company will be able to successfully
+complete the development of the CustomWare products or that the acquired
+technology has any alternative future use, the acquired in process product
+development was charged to expense by the Company in its quarter ended December
+31, 1996 and accordingly, the results of CustomWare from the date of acquisition
+forward have been recorded in the Company consolidated financial statements.
+As a result of the purchase price allocation, the excess of the purchase
+price over net assets acquired is $700,000, which is being amortized on a
+straight-line basis over a period of one year. Management believes that the
+unamortized balance is recoverable through future operating results.
+Comparative pro forma information reflecting the acquisition of
+CustomWare has not been presented because the operations of CustomWare are not
+material to the Company consolidated financial statements.
+35
+VISIGENIC SOFTWARE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+4. LINE OF CREDIT   The Company has a $30 million revolving line of credit agreement the
+Agreement with a bank, which expires on July 15, 1997. Advances under the
+Agreement bear interest at the bank prime lending rate plus 10% 93% at
+March 31, 1997, are limited to 80% of eligible accounts receivable and are
+secured by substantially all of the assets and contractual rights of the
+Company. The Agreement also contains certain financial restrictions and
+covenants which require, among other things, that the Company maintain a minimum
+monthly tangible net worth, and a minimum monthly ratio of debt to equity. In
+addition, the Agreement prohibits the Company from paying dividends without
+prior bank consent. As of March 31, 1997, the Company was in compliance with the
+financial covenants. There were no borrowings outstanding under the Agreement as
+of March 31, 1997.
+5. COMMITMENTS AND CONTINGENCIES   The Company leases its facilities under operating lease agreements expiring
+through February 2003. Rent expense for all operating leases totaled
+approximately $192,000, $304,000 and $853,000 for the years ended March 31,
+1995, 1996 and 1997, respectively. Minimum future lease payments under all
+noncancellable operating leases were as follows in thousands YEAR ENDING
+MARCH 31     $ 1,017
+1,049
+1,073
+784
+401
+105
+$4,429
+On April 10, 1997, Western Imaging, Inc. Western Imaging filed a
+complaint in the U.S. District Court for the Northern District of California
+against the Company and Corel Corporation Corel, a licensee of the Company,
+alleging breach of contract, intentional and negligent misrepresentation,
+copyright infringement, trademark infringement, misappropriation of trade
+secrets and other related claims.
+The lawsuit claims that in a May 1994 agreement with Western Imaging,
+the Company sold to Western Imaging all right, title and interest not only to
+its Lumena product, but also to its Color Tools, Creative License, Oasis and
+Signature products as well. As a result, Western Imaging asserts that the
+Company breached the terms of the agreement with Western Imaging when, among
+other things, it licensed Creative License, Color Tools, Oasis and Signature
+to Corel. Western Imaging is seeking injunctive relief, unspecified damages,
+impoundment of the disputed software during the pendency of the litigation,
+and punitive damages.
+The Company has not sold or marketed the disputed software products
+since January 1995. The Company does not utilize this technology in any
+current product offering.
+The Company has agreed to defend Corel pursuant to the terms of its
+license to Corel. Neither the Company nor Corel has responded to the complaint.
+The Company is currently investigating the allegations and believes it has
+meritorious defenses to such claims and intends to defend the litigation
+vigorously. However, due to the nature of the litigation and because the lawsuit
+is at an early stage, the Company cannot determine the total expense or possible
+loss, if any, that may ultimately be incurred either in the context of a trial
+or as a result of a negotiated settlement. Regardless of the ultimate outcome of
+the litigation, it could result in significant diversion of time by the
+Company technical and managerial personnel. Because the results of the
+litigation, including any potential settlement, are uncertain, there can be no
+assurance that they will not have a material adverse effect on the Company
+business, operating results and financial condition.
+36
+VISIGENIC SOFTWARE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+From time to time the Company is involved in other various disputes
+which have arisen in the ordinary course of business. Management believes that
+the ultimate resolution of the disputes will not have a material adverse impact
+on the Company financial position or results of operations.
+6. CONVERTIBLE PREFERRED STOCK AND CONVERTIBLE NOTES   In June 1996, the Company Board of Directors approved a one-for-two
+reverse split of its common and preferred stock. All common and preferred share
+and per share amounts in the accompanying consolidated financial statements have
+been adjusted retroactively to give effect to this reverse stock split.
+The Company certificate of incorporation, as amended in May 1996,
+authorized the issuance of up to 10,000,000 shares of convertible preferred
+stock, of which the Company had designated 1,606,000 shares as Series A
+preferred stock, 6,000,000 shares as Series B preferred stock and 1,000,000
+shares as Series C preferred stock. In conjunction with the initial public
+offering of the Company common stock on August 8, 1996, all outstanding shares
+of convertible preferred stock automatically converted into common stock upon
+closing of the offering. The Company amended its certificate of incorporation in
+August 1996 authorizing the issuance of up to 2,000,000 shares of preferred
+stock. No preferred shares had been issued as of March 31, 1997.
+Issuance of Series C Convertible Preferred Stock and Convertible Notes
+On May 24, 1996, the Company sold 444,444 shares of its Series C preferred
+stock at a price of $900 per share to three investors, for aggregate proceeds
+of $40 million. Between May 28 and June 7, 1996, the Company issued $20
+million principal amount of convertible notes to the same three investors,
+bearing interest at the rate of 825% per annum. Upon the closing of the
+Company initial public offering on August 8, 1996, the principal amount of
+each note and all accrued interest automatically converted into shares of the
+Company common stock at $750 per share, the offering price per share to the
+public, and the Series C preferred stock automatically converted into shares of
+the Company common stock. The Company used a portion of the proceeds from the
+sale of the Series C preferred stock and the convertible notes to pay amounts
+due in connection with the acquisition of PostModern. See Note 3
+7. COMMON STOCK   In June 1996, the Company Board of Directors approved a one-for-two
+reverse split of its common and preferred stock. All common and preferred share
+and per share amounts in the accompanying consolidated financial statements have
+been adjusted retroactively to give effect to this reverse stock split.
+In August 1996, the Company completed the initial public offering of its
+common stock. The Company sold 2,015,000 shares for net proceeds of
+approximately $132 million. Concurrent with the closing of the initial public
+offering, 4,119,069 shares of convertible preferred stock were converted into an
+equivalent number of shares of common stock and $2,000,000 of convertible notes
+plus accrued interest of $31,526 converted into 270,871 shares of common stock.
+see Note 6
+In February 1997, the Company completed a second public offering of its
+common stock. The Company sold 1,180,000 shares for net proceeds of
+approximately $133 million.
+Prior to July 1993, the Company issued 232,575 shares of common stock to
+certain employees and directors of the Company that are subject to certain
+repurchase rights. These rights of repurchase lapse over a five-year period. As
+of March 31, 1997, 31,728 shares of common stock are subject to repurchase by
+the Company at prices ranging from $08 to $40 per share.
+37
+VISIGENIC SOFTWARE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Stock Purchase Plans
+In April 1993 and August 1994, the Company adopted Stock Purchase Plans
+the Stock Plans and authorized the issuance of 952,500 shares thereunder to
+employees and consultants. Stock purchased under these Stock Plans generally
+vests ratably over a five-year period. Unvested shares may be repurchased by the
+Company at the original issuance price in the event of the employee or
+consultant termination.
+As of March 31, 1997, 526,287 shares were issued and outstanding under
+these Stock Plans at prices ranging from $20 to $40 per share, which was the
+fair market value of the common stock, as determined by the Board of Directors,
+on the date of grant, of which 193,373 shares were subject to repurchase. As of
+March 31, 1997, no further shares were available for issuance under the Stock
+Plans.
+1995 Stock Option Plan
+In fiscal 1996, the Company established the 1995 Stock Option Plan the
+1995 Plan. As of March 31, 1997, the Company had reserved 2,500,000 shares of
+common stock for issuance under the 1995 Plan. In April 1997, the Board of
+Directors approved an increase in the reserve under the 1995 Plan, subject to
+stockholder approval, of 1,500,000 shares. Under the 1995 Plan, the Board of
+Directors may grant incentive and nonqualified stock options to employees,
+consultants and directors of the Company. The exercise price per share for an
+incentive stock option cannot be less than the fair market value of the stock on
+the date of grant. The exercise price per share for nonqualified stock options
+cannot be less than 85% of the fair market value of the stock on the date of
+grant. Options generally expire ten years after the date of grant and vest over
+a period of four years. Option activity under the 1995 Plan was as follows 
+OPTIONS OUTSTANDING
+OPTIONS         WEIGHTED AVERAGE
+AVAILABLE   SHARES   EXERCISE PRICE
+2,000,000     --               820,750   820,750    $ 40
+--   54,068   $ 40
+12,932   12,932   $ 40
+Balance at March 31,     1,192,182   753,750    $ 40
+500,000      --             1,690,250  1,690,250    $940
+--   225,611   $ 48
+77,967   77,967   $771
+Balance at March 31,      79,899  2,140,422    $723
+As of March 31, 1997, all of the outstanding options were immediately
+exercisable in full on the date of grant subject to repurchase of unvested
+shares by the Company at cost and at the option of the Company if employment is
+terminated. As of March 31, 1997, 115,392 shares were subject to repurchase.
+1996 Employee Stock Purchase Plan
+The Company 1996 Employee Stock Purchase Plan the Purchase Plan was
+adopted by the Company Board of Directors in June 1996. A total of 450,000
+shares of common stock has been reserved for issuance under the Purchase Plan.
+The Purchase Plan permits eligible employees to purchase common stock at 85% of
+the lower of the fair market value of the Company common stock on the first
+day or the last day of each six-month offering period. As of March 31, 1997,
+60,822 shares had been issued under the Purchase Plan. The weighted average
+fair value of shares issued in fiscal 1997 was $272.
+38
+VISIGENIC SOFTWARE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+1996 Outside Director Stock Option Plan
+The Company 1996 Outside Director Stock Option Plan the
+Director Plan was adopted by the Company Board of Directors in June 1996.
+A total of 200,000 shares of common stock has been reserved for issuance under
+the Director Plan. The Director Plan provides for the initial grant of
+nonstatutory stock options to purchase 15,000 shares of common stock on the
+earlier of the first annual meeting following the initial public offering of the
+Company common stock or the date on which the optionee first becomes a
+nonemployee director of the Company, and an additional option to purchase 5,000
+shares of common stock on the next anniversary to existing and future
+nonemployee directors of the Company. The exercise price per share of all
+options granted under the Director Plan will equal the fair market value of a
+share of the Company common stock on the date of grant of the option. No
+options have been issued under the Director Plan as of March 31, 1997.
+Stock-Based Compensation
+The Company accounts for the 1995 Plan, the Purchase Plan and the
+Director Plan the Plans under APB Opinion No. 25 and related
+interpretations, under which no compensation cost has been recognized as the
+exercise price per share for stock options was equal to the fair market value of
+the stock on the date of grant and the Purchase Plan qualified as a non
+compensatory plan under APB Opinion No. 25. Had compensation cost for these
+Plans been determined consistent with SFAS No. 123, the Company net loss and
+net loss per share would have been reduced to the following pro forma amounts
+in thousands                        YEAR ENDING MARCH 31,
+1996        1997
+Net loss:         As reported   $4,379     $20,330
+Pro forma    $4,392     $21,633
+Net loss per share:    As reported   $ 40     $ 163
+Pro forma    $ 40     $ 173
+The weighted average fair values of options granted during fiscal 1996 and
+fiscal 1997 were $09 and $570 per share, respectively. The fair value of each
+stock option grant is estimated on the date of grant using the Black-Scholes
+option pricing model with the following weighted-average assumptions used for
+grants in fiscal 1996 and fiscal 1997                   1996       1997
+Volatility               0%        75%
+Risk-free interest rate       59%       68%
+Dividend yield             0%        0%
+Expected lives             4 years      4 years
+The following table summarizes information regarding stock options
+outstanding under the 1995 Plan at March 31, 1997 in thousands, except per
+share and life amounts 
+Options Outstanding             Options Vested and Exercisable
+Weighted  
+Number       Average      Weighted      Number Vested      Weighted
+Range of      Outstanding    Remaining      Average     and Exercisable     Average
+Exercise Prices  at 3/31/97   Contractual Life  Exercise Price     at 3/31/97     Exercise Price
+- 
+$040          508       858        $ 040        138         $ 040
+$200-$600       550       916          445        104          427
+$800-$1050      530       955          967        36          918
+$1125-$1650      552       963         1394        10          1195
+- 
+$040-$1650     2,140       924        $ 723        288         $ 330
+39
+VISIGENIC SOFTWARE, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--CONTINUED
+Executive Performance Incentive Plan
+The Company Executive Performance Incentive Plan the Incentive Plan
+was adopted by the Company Board of Directors in October 1996. A total of
+100,000 shares of common stock has been reserved for issuance under the
+Incentive Plan. Under the Incentive Plan, the Compensation Committee of the
+Board of Directors may award performance units to designated executives that
+will vest and become payable if one or more pre-established performance goals
+are attained during a specified performance period and the participant remains
+an employee. As of March 31, 1997, 3,615 shares had been issued under the
+Incentive Plan.
+Common Stock Reserved for Future Issuance
+As of March 31, 1997, the Company has reserved 3,252,669 shares of common
+stock for future issuance under the Plans, the Incentive Plan, and for options
+assumed from PostModern.
+8. EMPLOYEE BENEFIT PLAN   In June 1995, the Company adopted the Visigenic Software, Inc. 401k Plan
+the 401k Plan, as allowed under Section 401k of the Internal Revenue
+Code, which provides for tax deferred salary deductions for eligible employees
+of the Company. Employees who are 21 years of age or older are eligible to
+participate immediately upon the date of hire and may make voluntary
+contributions of their compensation to the 401k Plan. The 401k Plan does not
+provide for Company contributions and the Company is the administrator.
+9. INCOME TAXES   The Company accounts for income taxes pursuant to SFAS No. 109, Accounting
+for Income Taxes. SFAS No. 109 requires recognition of deferred tax liabilities
+and assets for the expected future tax consequences of events that have been
+included in the financial statements or tax returns based upon enacted tax laws
+and rates applicable to the periods in which taxes become payable. A valuation
+allowance has been recorded for the entire deferred tax asset as a result of
+uncertainties regarding realization of the asset, including the limited
+operating history of the Company, the lack of profitability to date and the
+uncertainty over future operating profitability. Components of the net deferred
+tax asset are as follows in thousands                           MARCH 31,
+1996   1997
+Net operating loss carryforwards.  $3,398  $5,916
+Cumulative book to tax differences.    994   1,368
+General business credit carryforwards.    372    981
+4,764   8,265
+Valuation   4,764  8,265
+Net deferred tax asset.  $  -- $                                As of March 31, 1997, the Company had Federal and state net operating loss
+carryforwards of approximately $172 million and $14 million, respectively,
+which expire at various dates through 2012. In addition, as of March 31, 1997,
+the Company had general business credit carryforwards of approximately $981,000
+which expire at various dates through 2012.
+Under current tax law, net operating loss and credit carryforwards
+available in any given year may be limited upon the occurrence of certain
+events, including significant changes in ownership interests.
+40

@@ -1,0 +1,238 @@
+Item 8 -- Note 2 of the Notes to Consolidated Financial Statements.
+INTENSE COMPETITION
+The markets in which the Company sells its interactive communications solutions
+are rapidly evolving, extremely competitive and subject to rapid technological
+change. The Company expects competition to increase in the future from existing
+competitors and from companies that may enter the Company existing or future
+markets with similar or substitute solutions that may be less costly or provide
+better performance or functionality than the Company products. To be
+successful in the future, the Company must continue to respond promptly and
+effectively to the challenges of changing customer requirements, technological
+change and competitors' innovations. Increased competition may result in price
+reductions, reduced gross margins and loss of market share, any of which could
+materially adversely affect the Company business, financial condition, results
+of operations and business prospects. Additionally, the Company may 
+11 be required to reduce prices or increase spending in response to competition in
+order to pursue new market opportunities or to invest in research and
+development efforts, and, as a result, the Company operating results in the
+future may be adversely affected. There can be no assurance that the Company
+will be able to compete successfully against current and future competitors or
+that competitive pressures faced by the Company will not materially adversely
+affect the Company business, financial condition, results of operations and
+business prospects.
+The Company competes in its markets with CT system hardware suppliers and
+systems integrators assembling systems from available components. Companies
+offering competing CT systems include Computer Communications Specialists, Inc.,
+Edify Corporation, InterVoice, Inc., Lucent Technologies, Inc. and Periphonics,
+Inc. The Company interactive communications business is heavily dependent on
+sales to the human resources departments of large organizations. In fiscal 1997,
+sales to human resources departments represented approximately 45% of customer
+premises systems revenues. In response to customers' desires to outsource
+certain aspects of database access functionality, the Company provides
+interactive communications services to organizations which choose not to
+purchase customer premises systems. This outsourced services business competes
+with employee benefit plan consulting firms and accounting firms, including
+Hewitt Associates LLC, William M. Mercer Companies, Inc., Towers, Perrin,
+Forster & Crosby, Inc. and Watson Wyatt & Company, which provide comprehensive
+packages of plan design, administration and consulting services, including
+automated access services.
+Many of the Company current and potential competitors have greater name
+recognition, larger installed customer bases and significantly greater
+financial, technical, marketing and other resources than the Company. Any such
+competitor could use its superior financial resources, market power, service or
+technical resources and installed base of customers to compete effectively
+against the Company. Such competition could materially adversely affect the
+Company ability to sustain current pricing levels and could have a material
+adverse effect on the Company business, financial condition, results of
+operations and business prospects. Further, competition for the customers of the
+database services businesses may increase as a result of the Company
+determination to pursue the divestiture of such businesses. See Business Competition and Business -- Database and Document Services Businesses.
+DEPENDENCE ON STRATEGIC MARKETING ALLIANCES
+An integral part of the Company growth strategy is to develop and utilize
+alliances with companies producing complementary software products in order to
+obtain introductions or referrals to potential customers, as well as to
+coordinate the development of the Company complementary software products
+directly with such companies to enhance interoperability and performance. Future
+customer premises systems revenues will be dependent to a significant extent on
+the market success of such companies and the effectiveness of the alliances.
+Factors that adversely affect the revenues of these companies, such as
+competition, technological changes or product failures, may have a substantial
+adverse effect upon the Company financial results. These strategic marketing
+alliances are generally reflected by non-exclusive contractual arrangements that
+are terminable at will. The success of the Company is dependent on the interest
+and commitment of these companies to promote and coordinate product development
+and marketing efforts with the Company, which is entirely at the discretion of
+these companies. The Company strategic marketing allies maintain similar
+relationships with certain of the Company competitors. There is intense
+competition by other companies to establish such relationships, and there can be
+no assurance that the Company will be able to maintain or expand its network of
+strategic marketing alliances in the future, or that such companies will
+continue to support the Company or not choose to favor one of the Company
+competitors. Additionally, there can be no assurance that the companies with
+which the Company maintains such alliances will not decide to enter into the
+same business as, and compete directly against, the Company. The loss of any of
+these relationships, or the inability of the Company to attract and develop new
+strategic marketing alliances with other leading software companies, or adverse
+developments affecting the business or prospects of such companies, could have a
+material adverse effect on the Company business, financial condition, results
+of operations and business prospects. See Business -- Technology and Product
+Development, Business -- Marketing and Business -- Strategic Marketing
+Alliances.
+12  RISKS ASSOCIATED WITH RAPID TECHNOLOGICAL CHANGE
+The markets for the Company interactive communications solutions are
+characterized by rapid technological advancement, changes in customer
+requirements, frequent new product introductions and enhancements and emerging
+industry standards. The Company must continually change and improve its products
+and services in response to changes in operating systems, application software,
+computer and telephony hardware, communications, database and networking
+systems, programming tools and computer language technology. The introduction of
+products or services embodying new technologies and the emergence of new
+industry standards can render existing products and services obsolete and
+unmarketable. In particular, the market for self-service applications through
+the Internet World Wide Web, corporate Intranets, and dial-up browser software
+has only recently begun and is rapidly developing. The Company success will
+depend upon its ability to enhance, on a timely and cost-effective basis, its
+current products and services e.g., to effectively add new Internet and
+corporate Intranet capabilities and to develop new products and services that
+meet changing market conditions, which include changing customer needs, new
+competitive product and service offerings, emerging industry standards and
+changing technology. There can be no assurance that the Company will be
+successful in developing and marketing, on a timely and cost-effective basis or
+at all, fully functional and integrated product enhancements or new products or
+services that respond to technological change, updates or enhancements to third
+party products or services used in conjunction with the Company products or
+services, changes in customer requirements or emerging industry standards, or
+that the Company enhanced or new products and services will be accepted by
+customers. Any failure by the Company to anticipate or respond adequately to
+changing market conditions, or any significant delays in product or service
+development or introduction, could have a material adverse effect on the
+Company business, financial condition, results of operations and business
+prospects.
+The current version of the Company TALXWare software runs on IBM OS/2
+operating system and the Company is therefore dependent upon the continued
+viability of the OS/2 operating system and upon IBM continuing support for the
+OS/2 operating system. However, the Company believes that some potential
+customers will not purchase the Company product unless and until it runs on an
+alternative operating system. Accordingly, the Company has begun to devote
+significant engineering and product development resources to design and develop
+a fully functional version of its TALXWare software to run on the Microsoft
+Windows NT operating system. Towards this end, several modules of TALXWare are
+available for Windows NT. The Company has also licensed a base Windows NT
+product which is expected to be incorporated into TALXWare. Although such
+product will not immediately offer customers the full range of features
+currently available for the OS/2 operating system, the Company has directed
+development efforts towards integrating additional features, including
+EasyScript, into such base product during fiscal 1997 and commercial release of
+such base product is expected to occur during fiscal 1998; however, due to
+uncertainties with software development, no assurance can be given that such
+release will occur. Additionally, as part of the process of making TALX products
+compatible with the Windows NT operating system, the Company has developed
+conversion utilities to allow the same digitized voice messages to be used with
+both the OS/2 and Windows NT operating systems, has begun the process of porting
+licensed technologies from the OS/2 operating system to the Windows NT operating
+system and is proceeding with the design and development of a graphical user
+interface for system administration functions for both the OS/2 and Windows NT
+operating systems. Further, it is the Company strategy that new TALX products
+will be developed to run on the Windows NT operating system. Thus, the Company
+has been developing software using cross-platform software development tools
+that allow software developed for the OS/2 operating system to also run on the
+Windows NT operating system.
+These projects are intended to expand market acceptance of the Company
+products and to limit the market and technical risks associated with the
+Company dependence on a single operating system. It is possible that the
+Company intention to develop a fully functional Windows NT-based version of
+its TALXWare software will cause potential customers to defer or forgo purchases
+of current or future versions of the TALXWare software until it is available on
+the Windows NT operating system, which could have a material adverse effect on
+the Company business, financial condition, results of operations and business
+prospects. Failure by the Company to develop a Windows NT-based version of the
+TALXWare software successfully and in a timely and cost effective manner may
+have a material adverse effect on the Company business, financial condition,
+results of operations and business prospects. Further, when the Company markets
+a Windows NT-based version of its TALXWare software, the Company will be
+dependent upon the viability of that operating environment. 
+13 The Company products not only involve integration with operating systems but
+also with products developed by others. For example, the Company has recently
+introduced a lower cost version of the TALX system utilizing NMS standards-based
+computer telephony hardware boards and software drivers. The Company believes
+that marketing this product as an alternative to the VP/2000-based TALX system
+may provide a means to gain increased access to international markets, as well
+as to more price sensitive U.S. domestic market segments. Currently, this
+product is available only in a form with reduced performance and functionality
+compared to the VP/2000-based TALX system. Although the Company is devoting
+significant resources to enhance this new product to be a fully functional
+counterpart to the VP/2000-based TALX system, this project could take a year or
+longer. There can be no assurance that delays in increasing the functionality of
+this product will not adversely affect sales opportunities, as customers may
+purchase competitive standards-based systems. Such delays would have a material
+adverse effect on the Company business, financial condition, results of
+operations and business prospects.
+If any of these third-party products, including IBM OS/2, Microsoft Windows NT
+or the NMS boards and drivers, should become unavailable for any reason, fail in
+their operation with the Company products or fail to be supported by their
+respective vendors, it would be necessary for the Company to redesign its
+products. There can be no assurance that any redesign could be accomplished in a
+cost-effective or timely manner. The Company or its customers could also
+experience difficulties integrating the Company products with other hardware
+and software. Further, should new releases of these operating systems, computer
+telephony hardware boards and software drivers, remote communications software,
+database connectivity software or facsimile hardware boards and software drivers
+occur before the Company develops products compatible with such new releases, if
+ever, any resulting decline in demand for the Company products could have a
+material adverse effect on the Company business, financial condition, results
+of operations and business prospects.
+Additionally, the Company licenses and integrates complementary enhancement
+technologies into the systems it develops and seeks to provide the
+best-of-class technologies to its customers. Some of the interactive features
+which are licensed from third party suppliers by the Company pursuant to
+non-exclusive license or resale agreements the Supplier Agreements or
+purchased under open market purchase arrangements and then integrated into the
+Company products are voice recognition, text-to-speech, facsimile, e-mail and
+client/server database interfaces used in creating interactive communications
+solutions. The Company believes that if any Supplier Agreement expires or is
+canceled or otherwise terminated, or if a third party supplier refuses to sell
+to the Company pursuant to the existing open market purchase arrangements, as
+the case may be, and the existing third party supplier refuses to enter into a
+subsequent agreement or other arrangement, the Company could enter into a
+similar agreement or arrangement with any number of different suppliers.
+However, if a new supplier is necessary, the integration of the relevant
+technology from the new supplier would require a significant amount of time,
+resulting in a meaningful delay in the Company ability to offer the particular
+enhancement currently being purchased under Supplier Agreements or pursuant to
+open market purchase arrangements. The Company could also experience
+difficulties integrating the new supplier technology with all of its products.
+Additionally, there can be no assurance that any such integration could be
+accomplished in a cost-effective manner. Significant delays in the offering of
+product enhancements due to integration of technology from new suppliers could
+have a material adverse effect on the Company business, financial condition,
+results of operations and business prospects. See Business -- Services and
+Products and Business -- Technology and Product Development.
+LENGTHY SALES CYCLE
+Purchases of TALX interactive communications solutions are often the result of a
+multi-department decision by prospective customers and generally require the
+Company to engage in a lengthy sales cycle to provide a significant level of
+education to prospective customers regarding the use and benefits of the TALX
+interactive communications solutions. Due in part to the mission-critical nature
+of certain of the TALX interactive communications solutions applications and the
+associated investment in hardware, software and consulting expenditures,
+potential customers tend to be cautious in making product acquisition decisions.
+For these and other reasons, the sales cycle for the Company products and
+services can range from one month to over one year and is subject to a number of
+significant risks, including customers' budgetary constraints and internal
+acceptance reviews, over which the Company has little or no control.
+Consequently, if sales anticipated from specific customers for a particular
+quarter are not realized in that quarter, the Company is unlikely to be able to
+generate revenue from alternative sources in time to compensate for the
+shortfall. As a result, lost or delayed sales could have a material adverse
+effect on the Company quarterly operating results. Moreover, to the
+14 extent that significant sales occur earlier than expected, operating results for
+subsequent quarters may be adversely affected.
+DEPENDENCE ON KEY PERSONNEL
+The Company future performance depends to a significant degree upon the
+continued contributions of its officers and key management, sales and technical
+personnel, many of whom would be difficult to replace. The loss of any of these
+individuals could have a material adverse effect on the Company business,
+financial condition, results of operations and business prospects. The Company
+has entered into employment agreements with William W. Canfield, its Chairman,
+President and Chief Executive Officer, and certain other senior management
+members. See Item 10 -- Directors and Executive Officers of the Registrant and

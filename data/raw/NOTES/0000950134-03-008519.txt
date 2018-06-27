@@ -1,0 +1,1138 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO FINANCIAL STATEMENTS                                PAGE
+TALX CORPORATION AND SUBSIDIARIES CONSOLIDATED FINANCIAL
+STATEMENTS:
+Independent Auditors'   43
+Consolidated Balance Sheets as of March 31, 2002 and 2003.  44
+Consolidated Statements of Earnings for the years ended
+March 31, 2001, 2002 and   45
+Consolidated Statements of Shareholders' Equity and
+Comprehensive Income for the years ended March 31, 2001,
+2002 and   46
+Consolidated Statements of Cash Flows for the years ended
+March 31, 2001, 2002 and   47
+Notes to Consolidated Financial Statements.  48                     42              INDEPENDENT AUDITORS' REPORT
+The Board of Directors and Shareholders of TALX Corporation   We have audited the accompanying consolidated balance sheets of TALX
+Corporation and subsidiaries as of March 31, 2002 and 2003, and the related
+consolidated statements of earnings, shareholders' equity and comprehensive
+income, and cash flows for each of the years in the three-year period ended
+March 31, 2003. These consolidated financial statements are the responsibility
+of the Company management. Our responsibility is to express an opinion on
+these consolidated financial statements based on our audits.
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of TALX
+Corporation and subsidiaries as of March 31, 2002 and 2003, and the results of
+their operations and their cash flows for each of the years in the three-year
+period ended March 31, 2003, in conformity with accounting principles generally
+accepted in the United States of America.
+As discussed in Note 5 to the consolidated financial statements, effective
+April 1, 2002, the Company changed its method of accounting for goodwill and
+other intangible assets and as discussed in Note 20 to the consolidated
+financial statements, effective April 1, 2000, the Company changed its method of
+accounting for revenue recognition.
+/s/ KPMG LLP
+St. Louis, Missouri
+May 2, 2003
+43            TALX CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS                                   MARCH 31,
+2002    2003
+IN THOUSANDS, EXCEPT
+SHARE AND PER SHARE
+INFORMATION
+ASSETS
+Current assets:
+Cash and cash  $ 21,431  $ 9,409
+Accounts receivable,   12,469   18,082
+Work in progress, less progress billings.   1,377    1,091
+Prepaid expenses and other current assets.   3,444    4,122
+Deferred tax assets,    2,948     556
+Total current   41,669   33,260
+Property and equipment,   11,357   10,315
+Capitalized software development costs, net of amortization
+of $966 in 2002 and $2,547 in 2003.   3,262    3,804
+102,564   105,469
+Other intangibles,   19,175   18,450
+Other    1,711    1,431
+$179,738  $172,729
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts  $ 1,200  $ 1,560
+Accrued expenses and other   20,455   11,478
+Dividends     413     542
+Current portion of capitalized lease obligations.    156     130
+Current portion of long term debt.   8,000   10,000
+Income taxes     814     482
+Deferred    7,632    7,537
+Total current   38,670   31,729
+Deferred tax liabilities,     371    3,372
+Capitalized lease obligations, less current portion.    152     22
+Long term debt, less current   22,000   12,000
+Other long term    2,417    2,508
+Total   63,610   49,631
+Commitments and contingencies
+Shareholders' equity:
+Preferred stock, $001 par value; authorized 5,000,000
+shares and no shares issued or outstanding at March 31,
+2002 and     --       Common stock, $001 par value; authorized 30,000,000
+shares, issued and outstanding 13,909,714 shares at
+March 31, 2002 and 13,948,542 shares at March 31,
+139     140
+Additional paid-in   162,058   162,773
+Accumulated   44,007  34,806
+Accumulated other comprehensive income:
+Unrealized loss on interest rate swap contract, net of
+tax of $99 at March 31,     --    158
+Treasury stock, at cost, 120,951 shares at March 31, 2002
+and 409,231 shares at March 31, 2003.  2,062   4,851
+Total shareholders'   116,128   123,098
+$179,738  $172,729
+See accompanying notes to consolidated financial statements.
+44            TALX CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF EARNINGS                                        YEARS ENDED MARCH 31,
+2001        2002        2003
+IN THOUSANDS, EXCEPT SHARE AND PER SHARE INFORMATION
+Revenues:
+The Work Number   $  19,149     $  27,184     $  35,934
+Unemployment cost management services.       --         848       74,645
+Human resources and benefits application services.     8,565        9,757       10,188
+Customer premises      6,882        2,870        1,324
+Maintenance and      4,417        3,893        3,639
+Total      39,013       44,552       125,730
+Cost of revenues:
+The Work Number      6,179        9,320       12,285
+Unemployment cost management services.       --         450       38,337
+Human resources and benefits application services.     6,956        7,530        6,486
+Customer premises      5,790        2,652         997
+Maintenance and      1,275        1,028         734
+Inventory        --         307                                                       Total cost of      20,200       21,287       58,839
+Gross      18,813       23,265       66,891
+Operating expenses:
+Selling and      8,374        8,516       19,692
+General and      5,767        7,454       25,180
+Intellectual property      1,612         --           Restructuring        --        2,627                                                       Total operating      15,753       18,597       44,872
+Operating      3,060        4,668       22,019
+Other income expense, net:
+Interest       539        1,493         115
+Interest        --         18       1,471
+Other,        23         92         2
+Total other income expense, net.      562        1,567       1,358
+Earnings from continuing operations before income tax
+expense and cumulative effect of change in accounting
+3,622        6,235       20,661
+Income tax      1,481        2,302        7,914
+Earnings from continuing operations before cumulative
+effect of change in accounting principle.     2,141        3,933       12,747
+Discontinued operations:
+Gain on operations and disposal of discontinued
+operations,        36         --                                                       Earnings before cumulative effect of change in
+accounting      2,177        3,933       12,747
+Cumulative effect of change in accounting principle, net of
+1,655         --                                                       Net   $    522     $   3,933     $  12,747
+Basic earnings per share:
+Continuing   $   021     $   031     $   093
+Cumulative effect of change in accounting principle,
+016         --                                                       Net   $   005     $   031     $   093
+Diluted earnings per share:
+Continuing   $   020     $   029     $   090
+Cumulative effect of change in accounting principle,
+015         --                                                       Net   $   005     $   029     $   090
+Weighted average number of common shares outstanding:
+10,255,928     12,622,689     13,742,581
+11,068,583     13,481,683     14,208,565      See accompanying notes to consolidated financial statements.
+45            TALX CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY AND COMPREHENSIVE INCOME
+YEARS ENDED MARCH 31, 2001, 2002 AND 2003                                      ACCUMULATED
+ADDITIONAL           OTHER                   TOTAL
+COMMON  PAID-IN   ACCUMULATED  COMPREHENSIVE  TREASURY  COMPREHENSIVE  SHAREHOLDERS'
+STOCK   CAPITAL    DEFICIT    INCOME    STOCK    INCOME     EQUITY
+IN THOUSANDS, EXCEPT SHARE AND PER SHARE INFORMATION
+BALANCE AT MARCH 31, 2000.  $ 56   $ 23,978   $  726    $ --    $  --           $ 23,308
+Net    --      --     522      --      --    $  522       522
+Net unrealized gain on marketable
+equity securities.   --      --      --      35      --      35       35
+Total comprehensive income.                                  $  557
+Repurchase of 112,500 shares of
+common stock.   --      --      --      --    1,928            1,928
+Issuance of 55,609 shares of common
+stock and 110,153 shares of
+treasury stock for benefit plans,
+net of tax benefit.   1     478    1,201      --     1,861             1,139
+Issuance of 39,895 shares of common
+stock upon exercise of
+--      --      --      --      --               Issuance of 563,935 shares of
+common stock and 838 shares of
+treasury stock upon 10% stock
+6    9,863    9,869      --      --               Issuance of 3,128,552 shares of
+common stock and 66 shares of
+treasury stock upon 3-for-2 stock
+31     31     --      --      --               Cash dividends $008 per share.   --      --     754      --      --             754
+BALANCE AT MARCH 31, 2001.   94    34,288   12,028      35      67            22,322
+Net    --      --    3,933      --      --    $ 3,933      3,933
+Net unrealized loss on marketable
+equity securities.   --      --      --      35      --      35      35
+Total comprehensive income.                                  $ 3,898
+Repurchase of 287,500 shares of
+common stock.   --      --      --      --    5,486            5,486
+Issuance of 82,128 shares of common
+stock and 124,425 shares for
+benefit plans, net of tax
+1    1,820    1,850      --     2,649             2,620
+Issuance of 67,667 shares of common
+stock and 45,375 shares of
+treasury stock upon exercise of
+--      --     667      --      842              175
+Issuance of 1,263,626 shares of
+common stock upon 10% stock
+13    31,831   31,868      --      --              24
+Issuance of 341,854 shares of
+common stock upon acquisitions.   3    11,746      --      --      --            11,749
+Issuance of 2,750,000 shares of
+common stock upon secondary stock
+28    82,373      --      --      --            82,401
+Cash dividends $012 per share.   --      --    1,527      --      --            1,527
+BALANCE AT MARCH 31, 2002.  139   162,058   44,007      --    2,062           116,128
+Net    --      --    12,747      --      --    $12,747     12,747
+Net unrealized loss on interest
+rate swap contract.   --      --      --     158      --     158      158
+Total comprehensive income.                                  $12,589
+Repurchase of 486,000 shares of
+common stock.   --      --      --      --    5,644            5,644
+Issuance of 38,828 shares of common
+stock and 197,720 shares for
+benefit plans, net of tax
+1     715    1,768      --     2,855             1,803
+Cash dividends $013 per share.   --      --    1,778      --      --            1,778
+BALANCE AT MARCH 31, 2003.  $140   $162,773   $34,806    $158   $4,851           $123,098
+See accompanying notes to consolidated financial statements.
+46            TALX CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS                                  YEARS ENDED MARCH 31,
+2001    2002    2003
+IN THOUSANDS
+Cash flows from operating activities:
+Net  $  522  $  3,933  $ 12,747
+Adjustments to reconcile net earnings to net cash provided
+by operating activities:
+Depreciation and   4,615    3,911   8,306
+Inventory     --     307        Capitalized software     --    1,941        Deferred   1,110    782   5,393
+Cumulative effect of change in accounting principle.  1,655     --        Change in assets and liabilities, net of acquisitions:
+Accounts    573    1,699   5,613
+Work in progress, less progress billings.  1,641     76    286
+Prepaid expenses and other current assets.   126     45   678
+Other     60    940    36
+Accounts    308    188    478
+Accrued expenses and other liabilities.  2,092   2,093   7,598
+Income taxes    18   2,082    127
+Deferred    539   1,444    95
+Other     --     --     91
+Net cash provided by operating activities.  9,309   11,345   28,676
+Cash flows from investing activities:
+Additions to property and   1,819   1,606  4,516
+Acquisitions, net of cash     --  102,477  20,052
+Capitalized software development costs.  2,766   2,357  2,123
+Proceeds from maturity of short-term investments.  3,000    5,365      Proceeds from sale of short-term investments.    --   233,097   4,000
+Purchases of short-term   4,505  234,126  4,000
+Net cash used in investing activities.  6,090  102,104  26,691
+Cash flows from financing activities:
+Dividends    472   1,396  1,649
+Borrowings under long-term debt facility.    --   30,000      Repayments under long-term debt facility.    --     --   8,000
+Repayments of capitalized lease obligations.    --     --    156
+Issuance of common   1,072   83,905   1,442
+Repurchase of common   1,928   5,486  5,644
+Net cash provided by used in financing
+1,328  107,023  14,007
+Net increase decrease in cash and cash
+1,891   16,264  12,022
+Cash and cash equivalents at beginning of year.  3,276    5,167   21,431
+Cash and cash equivalents at end of year. $ 5,167  $ 21,431  $ 9,409
+See accompanying notes to consolidated financial statements.
+47            TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+MARCH 31, 2002 AND 2003
+1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+a DESCRIPTION OF BUSINESS
+We are the leading provider of automated employment and income verification
+and unemployment cost management services and a leader in providing outsourced
+employee self-service applications. Our services enable mortgage lenders,
+pre-employment screening companies, employers and other authorized users to
+obtain employee human resources and payroll information. We also provide
+unemployment insurance claims processing and unemployment tax planning and
+management to a broad range of employers. Further, we allow employees to review
+and modify information in human resources and payroll management information
+systems without requiring employer assistance.
+Our services and software use interactive web and interactive voice
+response software, fax and other technologies and are designed to enhance
+service levels, improve productivity and reduce costs by automating historically
+labor intensive, paper-based processes and enabling users to perform
+self-service transactions. We typically serve large organizations, including
+approximately two-thirds of the Fortune 500 and a number of federal, state and
+local government agencies.
+b PRINCIPLES OF CONSOLIDATION
+The consolidated financial statements include the accounts of TALX
+Corporation and its subsidiaries. All significant intercompany balances and
+transactions have been eliminated in consolidation.
+c CASH AND CASH EQUIVALENTS
+We consider all highly liquid investments with an original maturity of
+three months or less to be cash and cash equivalents.
+d ALLOWANCE FOR DOUBTFUL ACCOUNTS
+We evaluate the collectibility of accounts receivable based on a
+combination of factors. In cases where we are aware of circumstances that may
+impair a specific customer ability to meet its financial obligations, we
+record a specific allowance against amounts due, and thereby reduce the net
+recognized receivable i.e., net of deferred revenue to the amount we
+reasonably believe will be collected. For the remaining customers, we recognize
+allowances for doubtful accounts based on the length of time the aggregate
+receivables are outstanding, the current business environment and historical
+experience.
+e PROPERTY AND EQUIPMENT
+Property and equipment is recorded at cost less accumulated depreciation
+and amortization. Depreciation is computed using straight-line and accelerated
+methods over the estimated useful lives of the assets. Amortization of leasehold
+improvements is computed using the straight-line method over the lesser of the
+useful life of the asset or lease term.
+f PRODUCT DEVELOPMENT AND CAPITALIZED SOFTWARE DEVELOPMENT COSTS
+Product development costs are charged to operations as incurred. Software
+development costs are expensed as incurred until technological feasibility is
+achieved, after which they are capitalized on a product-by-product basis.
+Amortization of capitalized software development costs is computed using the
+straight-line method over the remaining estimated economic life of the product,
+which is typically three years. Amortization of capitalized software development
+costs starts when the product is available for general release to clients.
+48
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+g GOODWILL AND OTHER INTANGIBLE ASSETS
+We have adopted the provisions of the Financial Accounting Standards Board
+FASB Statement of Financial Accounting Standards SFAS No. 141, Business
+Combinations, and SFAS No. 142, Goodwill and Other Intangible Assets as of
+April 1, 2002. SFAS No. 141 requires that the purchase method of accounting be
+used for all business combinations initiated after June 30, 2001. SFAS No. 142
+requires that goodwill and intangible assets with indefinite useful lives no
+longer be amortized, but instead tested for impairment at least annually. SFAS
+No. 142 also requires that intangible assets with definite useful lives be
+amortized over their respective estimated useful lives to their estimated
+residual values.
+h REVENUE RECOGNITION, WORK IN PROGRESS AND DEFERRED REVENUE
+Revenues from The Work Number are recognized in the period that they are
+earned, from transaction fees charged to users for verifications of employment
+history and income. Additionally, revenue for set up fees, monthly maintenance
+and employer conversion fees are recognized on a straight-line basis from the
+time the service is available to be used by our clients through the end of the
+service period. Revenues from our unemployment cost management services, called
+UC eXpress, are recognized in the period that they are earned, evenly over the
+life of the contract. Transaction fees are recorded as the services are
+provided. Revenue which is contingent upon achieving certain performance
+criteria is recognized when those criteria are met. Human resources and benefits
+application services revenue is recognized on a straight-line basis from the
+time the service is available to be used by our clients through the end of the
+service period. Because of seasonal variations of our service offerings, a
+greater number of clients have services available to them from October through
+December than during any other period during the year. As a result, revenues in
+our third fiscal quarter are substantially higher than in the other three
+quarters of the year. Historically, over fifty percent of annual revenues in
+this revenue line have been recorded in the third quarter. We recognize hardware
+and software license revenue upon shipment based on vendor-specific objective
+evidence. Revenues for customization services of customer premises systems are
+recognized by the contract method of accounting using percentage of completion
+for larger, more complex systems and the completed contract method for smaller
+systems. Revenue from maintenance contracts is deferred and recognized ratably
+over the maintenance period. Deferred revenue represents the unearned portion of
+The Work Number setup fees, as well as, Human Resources and Benefits Application
+Services, UC eXpress and maintenance fees. Commissions paid are deferred and
+expensed over the related service period.
+i CONCENTRATION OF CREDIT RISK
+We sell our services and software in a variety of industries. No client
+represented over 10% of revenues in fiscal 2001, 2002 or 2003. We perform
+periodic credit evaluations of our clients' financial condition and generally do
+not require collateral; however, for our maintenance business we maintain a
+security interest in hardware until payment is received. Credit losses from
+clients have been within management expectations, and management believes the
+allowance for doubtful accounts adequately provides for any expected losses.
+j INCOME TAXES
+We record income taxes under the asset and liability method. Deferred tax
+assets and liabilities are recognized for the future tax consequences
+attributable to differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases and operating
+loss and tax credit carryforwards. Deferred tax assets and liabilities are
+measured using enacted tax rates expected to apply to taxable income in the
+years in which those temporary differences are expected to be recovered or
+settled. The effect on deferred tax assets and liabilities of a change in tax
+rates is recognized in income in the period that includes the enactment date.
+49
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+k FAIR VALUE OF FINANCIAL INSTRUMENTS
+We disclose estimated fair values for our financial instruments. A
+financial instrument is defined as cash or a contract that both imposes on one
+entity a contractual obligation to deliver cash or another financial instrument
+to a second entity and conveys to that second entity a contractual right to
+receive cash or another financial instrument from the first entity. Our
+financial instruments include long-term debt and a revolving line of credit
+facility. The carrying value of these commitments approximate fair value due to
+their stated interest rates approximating market rates. These estimated fair
+value amounts have been determined using available market information or other
+appropriate valuation methodologies.
+l DERIVATIVE FINANCIAL INSTRUMENTS
+We use interest rate swap agreements as required under the terms of our
+term loan and revolving credit facility see note 7. Our policy is to manage
+interest costs using a mix of fixed and variable rate debt. Using interest rate
+swap agreements, we agree to exchange, at specified intervals, the difference
+between fixed and variable interest amounts calculated by reference to an
+agreed-upon notional principal amount. We do not hold or issue any derivative
+financial instruments for trading purposes.
+m STOCK-BASED COMPENSATION
+We have historically accounted for stock-based compensation using the
+intrinsic value method in accordance with Accounting Principles Board APB
+Opinion No. 25, Accounting for Stock Issued to Employees, and related
+interpretations, as permitted by SFAS No. 123, Accounting for Stock-Based
+Compensation.
+Since all of our options are granted with an option price equal to the
+market price at the time of grant, we have not recognized any stock-based
+employee compensation cost under our stock option plans. SFAS No. 123 requires
+pro forma disclosure of the impact on earnings as if the compensation expense
+for these plans had been determined using the fair value method. Compensation
+cost is calculated under a straight line basis. The following table presents our
+net earnings and earnings per share as reported and the pro forma amounts that
+would have been reported using the fair value method under SFAS 123 for the
+years presented                                   MARCH 31,
+2001   2002   2003
+IN THOUSANDS, EXCEPT
+PER SHARE DATA
+Net earnings, as  $ 522  $3,933  $12,747
+Stock-based employee compensation cost, net of taxes.  394   839    668
+Net earnings, pro  $ 128  $3,094  $12,079
+Basic earnings per share:
+Net earnings, as  $005  $ 031  $ 093
+Stock-based employee compensation cost, net of taxes.  004   007   005
+Net earnings, pro  $001  $ 024  $ 088
+Diluted earnings per share:
+Net earnings, as  $005  $ 029  $ 090
+Stock-based employee compensation cost, net of taxes.  004   006   005
+Net earnings, pro  $001  $ 023  $ 085
+50
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+The full impact of calculating compensation cost for stock options under
+SFAS No. 123 was not reflected in the determination of the impact, because
+compensation cost is reflected over the options' vesting period of six to ten
+years and compensation cost for options granted prior to April 1, 1995 is not
+considered. The fair value of option grants for fiscal 2001, 2002 and 2003 is
+estimated on the date of the grant using the Black-Scholes option-pricing model
+with the following weighted-average assumptions: expected volatility of 62%, 59%
+and 80% in fiscal 2001, 2002 and 2003, respectively; risk-free interest rate of
+491%, 481% and 350% in fiscal 2001, 2002 and 2003, respectively; expected
+life of 50, 50 and 75 years in fiscal 2001, 2002 and 2003, respectively; and
+an expected dividend yield of 350%, 350% and 120% in fiscal 2001, 2002 and
+2003, respectively.
+n MANAGEMENT'S USE OF ESTIMATES
+The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and liabilities at
+the date of the financial statements, and the reported amounts of revenue and
+expenses during the reporting period. Actual results could differ materially
+from those estimates.
+o LITIGATION
+We have legal contingencies that have a high degree of uncertainty. As
+described in Note 17, certain allegations have been made against us. We believe
+that liabilities for many of these matters are either not probable or not
+estimable and therefore, no reserves have been established for those matters.
+When a contingency becomes probable and estimable a reserve is established. We
+have established reserves for certain other matters. If these matters are
+resolved unfavorably, they could have a significant impact on our future results
+and liquidity. Legal costs are expensed as incurred.
+p EARNINGS PER SHARE
+Basic earnings per share is computed using the weighted average number of
+common shares outstanding during the period. Diluted earnings per share reflects
+the incremental increase in common shares outstanding assuming the exercise of
+all employee stock options and warrants that would have had a dilutive effect on
+earnings per share. The weighted average number of shares is based on common
+stock outstanding for basic earnings per share and common stock outstanding and
+common stock options and warrants for diluted earnings per share in periods when
+such common stock options and warrants are not antidilutive. All weighted
+average share amounts include the effect of all stock dividends and splits.
+q RECLASSIFICATIONS
+Certain balances in prior fiscal years have been reclassified to conform to
+the presentation adopted in the current fiscal year.
+51
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+2 ACCOUNTS RECEIVABLE
+Accounts receivable consist of the following                                  MARCH 31,
+2002   2003
+IN THOUSANDS
+Accounts  $15,028  $19,265
+Less allowance for doubtful   2,559   1,183
+$12,469  $18,082
+Billings to customers are made in accordance with the terms of the
+individual contracts.
+The following table represents activity within our allowance for doubtful
+accounts for the years ended March 31, 2001, 2002 and 2003                                IN THOUSANDS
+Balance at March 31,    $  370
+462
+607
+Balance at March 31,      225
+2,379
+505
+550
+Balance at March 31,     2,559
+325
+1,701
+Balance at March 31,    $ 1,183
+3 PROPERTY AND EQUIPMENT
+Property and equipment consists of the following                              RANGE OF
+ESTIMATED     MARCH 31,
+USEFUL LIVES                               IN YEARS   2002   2003
+IN THOUSANDS
+Computer     3-5    $13,404  $12,961
+Office furniture and    5-10     1,315   1,502
+3-5     2,074   5,811
+Capitalized lease     3-5      --    37
+Leasehold    3-10     3,882   4,055
+20,675  24,366
+Less accumulated depreciation and amortization.          9,318  14,051
+$11,357  $10,315
+52
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+4 PRODUCT DEVELOPMENT AND CAPITALIZED SOFTWARE DEVELOPMENT COSTS
+Product development costs and amortization of capitalized software
+development costs for the years ended March 31, 2001, 2002 and 2003 were as
+follows                                   MARCH 31,
+2001   2002   2003
+IN THOUSANDS
+Product development costs charged to general and
+administrative  $ 405  $ 381  $1,503
+Amortization of capitalized software development costs
+charged to cost of  $2,159  $1,161  $1,564
+Write-off of capitalized software development costs. $  --  $1,941  $                                     5 GOODWILL AND OTHER INTANGIBLE ASSETS
+In connection with the acquisitions of Ti3, Inc.; the unemployment cost
+management services business of Gates, McDonald & Company, a subsidiary of
+Nationwide Mutual Insurance Company; and James E. Frick, Inc., d/b/a The Frick
+Company, TALX acquired certain identifiable intangible assets. These assets were
+recorded in accordance with the Financial Accounting Standards Board SFAS No.
+141, Business Combinations.
+Effective April 1, 2002, we have adopted the Financial Accounting Standards
+Board SFAS No. 142, Goodwill and Other Intangible Assets. SFAS No. 142
+addresses the initial recognition and measurement of intangible assets acquired
+outside of a business combination and the accounting for goodwill and other
+intangible assets subsequent to their acquisition. SFAS No. 142 provides that
+intangible assets with finite useful lives be amortized and that goodwill and
+intangible assets with indefinite lives will not be amortized, but will rather
+be tested at least annually for impairment. Under the provisions of SFAS No.
+142, any impairment loss identified upon adoption of this standard will be
+recognized as a cumulative effect of a change in accounting principle. Goodwill
+and intangible assets determined to have an indefinite useful life that are
+acquired in purchase business combinations will not be amortized, but instead
+tested for impairment on an annual basis. Through the use of an independent
+business appraiser, we reviewed our goodwill and intangible assets as of
+December 31, 2002 and determined that no impairment existed.
+The following table summarizes goodwill and other intangible asset activity
+for years ended March 31, 2002 and 2003 dollars in thousands.                                  OTHER INTANGIBLE ASSETS
+CUSTOMER       CUSTOMER  NON-   GROSS
+GOODWILL   BASE   SOFTWARE  RECORDS  COMPETE  TOTAL
+GROSS CARRYING VALUES:
+March 31, 2001. $   --  $  --   $ --   $  --   $ --   $     Assets acquired.  102,564  16,904    154    2,200    --   19,258
+March 31, 2002.  102,564  16,904    154    2,200    --   19,258
+Adjust intangibles to final
+618   679   154    16   109     618
+Adjust acquired assets to final
+537    --    --     --    --        Transaction costs.    986    --    --     --    --        Ti3 acquisition additional
+2,000    --    --     --    --                                           March 31, 2003. $105,469  $17,583   $ --   $2,184   $109   $19,876
+53
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED                                  OTHER INTANGIBLE ASSETS
+CUSTOMER       CUSTOMER  NON-   GROSS
+GOODWILL   BASE   SOFTWARE  RECORDS  COMPETE  TOTAL
+ACCUMULATED AMORTIZATION:
+March 31, 2001. $   --  $  --   $ --   $  --   $ --   $          --    43    38      2    --     83
+March 31, 2002.    --    43    38      2    --     83
+--   1,172    38    145    64    1,343
+March 31, 2003. $   --  $ 1,215   $ --   $ 147   $ 64   $ 1,426
+Weighted average lives in years.        1492         1500   300    1486
+Amortization of other intangible assets is projected to be $14 million for
+the fiscal year ended March 31, 2004 and $13 million for each of the fiscal
+years ended March 31, 2005 through 2008.
+6 ACCRUED EXPENSES AND OTHER LIABILITIES
+Accrued expenses and other liabilities for the years ended March 31, 2002
+and 2003 consist of the following                                  MARCH 31,
+2002   2003
+IN THOUSANDS
+Compensation and  $ 2,032  $ 5,841
+Transition     --   2,977
+Partner     --   1,027
+Acquisition   17,298       1,125   1,633
+$20,455  $11,478
+7 LONG-TERM DEBT
+Long-term debt at March 31, 2002 and 2003 consisted of                                  MARCH 31,
+2002   2003
+IN THOUSANDS
+Borrowings under term  $30,000  $22,000
+Less current   8,000  10,000
+Long-term  $22,000  $12,000
+In connection with the acquisitions of The Frick Company and the GM
+Unemployment Compensation Business, on March 27, 2002, pursuant to a loan
+agreement dated as of March 27, 2002, the Loan Agreement, we obtained
+secured financing consisting of a $30,000,000 term loan the Term Loan and a
+$10,000,000 revolving credit facility the Revolving Credit Facility from
+LaSalle Bank National Association, as administrative agent and lender, and
+Southwest Bank of St. Louis, as lender, and any other lenders that may become
+party to the Loan Agreement collectively, the Lenders. We used the proceeds
+of the Term Loan to pay a portion of the purchase price for the acquisitions;
+however, we have not borrowed under the Revolving Credit Facility. We must repay
+principal of the Term Loan in quarterly installments, with the
+54
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+final installment due on February 27, 2005. In addition, principal payments are
+required out of excess cash flow. The Revolving Credit Facility also matures on
+February 27, 2005.
+The Term Loan and advances under the Revolving Credit Facility bear
+interest at rates we select under the terms of the Loan Agreement, including a
+base rate or eurodollar rate, plus an applicable margin. Until March 27, 2003,
+eurodollar rate loans bore interest at the applicable eurodollar rate plus 225%
+and base rate loans bore interest at the applicable base rate plus 000%.
+Commencing March 28, 2003, the applicable margin for eurodollar rate loans
+varies from 200% to 225%, and the applicable margin for base rate loans
+remains at 000%, in each case based upon our ratio of total indebtedness to
+EBITDA. We may make prepayments under the Term Loan and Revolving Credit
+Facility without penalty. In addition, if William W. Canfield ceases serving as
+our chief executive officer during the first 24 months after closing, and we do
+not retain a substitute satisfactory to the Lenders within 120 days, then we are
+required to repay all outstanding loans Term Loan and Revolving Credit
+Facility.
+The Loan Agreement is secured by security interests in substantially all
+the assets of us and of our three subsidiaries Ti3, Garcia and Frick, the
+guarantees of our three subsidiaries, and a pledge of the stock of each of those
+subsidiaries.
+The Loan Agreement includes certain covenants, including, without
+limitation, restrictions on the use of proceeds of the Term Loan and loans made
+under the Revolving Credit Facility. The Term Loan was to be used solely to pay
+a portion of the purchase price for the acquisitions of the The Frick Company
+and the GM Unemployment Compensation Business. The proceeds of loans made under
+the Revolving Credit Facility may be used solely for working capital, permitted
+capital expenditures, as the source for payment of our obligations with respect
+to certain existing letters of credit, to pay the transaction cost of the Loan
+Agreement, and to finance certain permitted acquisitions. The Loan Agreement
+also requires compliance with certain financial covenants based on our minimum
+net worth, minimum EBITDA, our ratio of total indebtedness to EBITDA and our
+ratio of EBITDA to fixed charges. The Loan Agreement further requires compliance
+with certain operating and other covenants which limit, among other things, the
+incurrence of additional indebtedness by us and our subsidiaries, the amount of
+capital expenditures to be made by us and our subsidiaries, sales of assets and
+mergers and dissolutions, impose restrictions on distributions to shareholders,
+change of control of TALX, investments, acquisitions and liens, and which
+require compliance, in all material respects, with material laws. The Loan
+Agreement generally prohibits the payment of cash dividends, except for cash
+dividends not in excess of $25 million per fiscal year so long as we are not in
+default at the time of the declaration. The Loan Agreement also contains various
+representations and warranties, including among other things, the accuracy of
+financial statements and other information delivered to the Lenders, the absence
+of changes which would have or would reasonably be likely to have a material
+adverse effect as customarily included in secured credit facilities of this
+nature.
+On January 27, 2003, we entered into an amendment to the Loan Agreement.
+Our wholly-owned subsidiaries, James E. Frick, Inc., Garcia Acquisition Sub,
+Inc. and Ti3, Inc., consented to the amendment as guarantors. Among other
+things, the amendment modified the minimum EBITDA covenant for the fiscal
+quarters ending March 31, 2003, June 30, 2003 and September 30, 2003 contained
+in the Loan Agreement. In addition, we obtained from the Lenders a waiver of our
+violation of the minimum EBITDA covenant for the quarter ended December 31,
+2002. At March 31, 2003, we believe we were in material compliance with all
+financial covenants under the Loan Agreement.
+At March 31, 2003 our outstanding borrowings carried an interest rate of
+354%.
+Scheduled minimum long-term debt repayments are $10 million and $12 million
+in fiscal years 2004 and 2005, respectively. Payments are due in equal quarterly
+amounts. We may accelerate credit facility repayments, depending on available
+operating cash flow.
+55
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+8 DERIVATIVE FINANCIAL INSTRUMENT
+On March 27, 2002, we entered into the Term Loan which accrues interest
+based upon certain LIBOR indexes and will amortize over three years with a
+maturity of February 27, 2005. As a condition of the Term Loan Agreement, we
+were required to enter into a hedge contract for 50% of our outstanding term
+loan as a means of reducing our interest rate exposure. Pursuant to this
+requirement, we entered into an interest rate swap contract on June 26, 2002 for
+a notional amount of $14 million, which represented 50% of our outstanding term
+loan balance on that date. Under this contract, we pay a fixed rate of 345% and
+receive a variable rate of LIBOR, which is equal to the LIBOR rate utilized on
+our term loan. The notional amount of our interest rate swap contract steps down
+according to the same schedule as our term loan, maintaining a 50% hedged
+position. All payment dates and maturity dates are the same as our term loan.
+This strategy effectively converts 50% of our term loan into a fixed rate
+instrument.
+The interest rate swap and related gains and losses arising on the contract
+are accounted for as a cash flow hedge in accordance with Statement of Financial
+Accounting Standards SFAS No. 133, Accounting for Derivative Instruments
+and Hedging Activities. Specifically, changes in the fair value of derivative
+instruments designated as cash flow hedges are deferred and recorded in other
+comprehensive income. These deferred gains or losses are recognized in income
+when the transactions being hedged are completed.
+As of March 31, 2003, the fair value of the interest rate swap in the
+amount of $256,000 is included in accrued expenses and other liabilities.
+Interest expense accrued on the swap contract was $175,000 for the year ended
+March 31, 2003.
+We do not use financial instruments for trading or speculative purposes.
+9 LEASES
+We have non-cancelable operating leases, primarily for office space and
+office equipment, that expire through fiscal 2009. Total rent expense for
+operating leases was $1,360,000, $1,494,000 and $5,021,000 in 2001, 2002 and
+2003, respectively.
+Amortization expense associated with assets acquired under capital leases
+is included in total depreciation and amortization expense.
+56
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+The following is a schedule, by year, of the future minimum payments under
+capital and operating leases, together with the present value of the net minimum
+payments as of March 31, 2003.                                CAPITAL  OPERATING
+LEASES   LEASES
+IN THOUSANDS
+Fiscal Year:
+$131   $ 4,330
+24    3,718
+--    3,548
+--    1,664
+--     341
+--     144
+Total minimum lease   155   $13,745
+Less amount representing    3
+Total present value of minimum capital lease payments.  152
+Less current   130
+Long-term capital lease   $ 22
+10 INCOME TAXES
+Income tax expense consists of the following                                   MARCH 31,
+2001   2002   2003
+IN THOUSANDS
+Current:
+$ 3,006  $2,412  $2,214
+State and    644   840   406
+Deferred:
+1,786  705  4,476
+State and    383  245   818
+Income tax expense before discontinued operations.  1,481  2,302  7,914
+Discontinued     24    --                                         Total income tax  $ 1,505  $2,302  $7,914
+57
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Income tax expense differed from the amounts computed by applying the
+federal income tax rate of 35% to earnings from continuing operations before
+income tax expense as a result of the following                                   MARCH 31,
+2001   2002   2003
+IN THOUSANDS
+Computed expected tax  $1,244  $2,119  $7,025
+Increase decrease in income taxes resulting from:
+State and local income taxes, net of federal income tax
+172   394   807
+Travel and    53    54    66
+Tax exempt    --   302     Other,    12    37    16
+$1,481  $2,302  $7,914
+The tax effects of temporary differences that give rise to significant
+portions of the deferred tax assets and deferred tax liabilities at March 31,
+2002 and 2003 are presented below                                  MARCH 31,
+2002   2003
+IN THOUSANDS
+Deferred tax assets:
+Allowance for doubtful  $  54  $  184
+Intellectual property    551      Restructuring     --    54
+Accrual for compensated     94    337
+Deferred   2,365      Net operating loss    542    228
+Differences in depreciation and amortization.   635    424
+Total deferred tax   4,241   1,227
+Deferred tax liabilities:
+Differences in capitalized software development cost
+1,256  1,389
+Differences in intangible asset amortization methods.   193  2,554
+Differences in expense recognition methods.   215   100
+Total deferred tax   1,664  4,043
+Net deferred tax assets  $ 2,577  $2,816
+A net operating loss carryforward of approximately $600,000 is available to
+offset consolidated future taxable earnings, subject to certain restrictions.
+This net operating loss carryforward was acquired as part of our 2002
+acquisitions.
+In assessing the realization of deferred tax assets, management considers
+whether it is more likely than not that some portion or all of the deferred tax
+assets will not be realized. The ultimate realization of deferred tax assets is
+dependent upon the generation of future taxable income during the periods in
+which those temporary differences become deductible. Management considers the
+scheduled reversal of deferred tax liabilities, projected future taxable income
+and tax planning strategies in making this assessment. Based upon the level of
+historical taxable income and projections for future taxable income over the
+periods in which the
+58
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+deferred tax assets are deductible, management believes it is more likely than
+not we will realize the benefits of these deductible differences.
+11 RESTRUCTURING AND OTHER CHARGE
+During the quarter ended September 30, 2001, we reorganized our sales and
+delivery operations and refocused our product lines related to our human
+resources and benefit applications and customer premises systems businesses. In
+conjunction with the reorganization, we reduced our workforce by approximately
+17%, closed certain regional sales offices and wrote-down hardware inventory and
+capitalized software. As a result of these actions, we incurred restructuring
+charges of $19 million associated with the write-off of capitalized software 349,000 related to employee severance costs and $337,000 related to office
+closing costs. These items are reflected in the line item restructuring charge
+on the statement of earnings and $240,000 and $139,000 is reflected in accrued
+expenses on the balance sheet as of March 31, 2002 and 2003, respectively.
+Additionally, we incurred a charge of $307,000 related to the write-down of
+certain hardware inventory items. This charge is reflected as a separate
+component of cost of goods sold on the statement of earnings for the year ended
+March 31, 2002.
+12 SHAREHOLDERS' EQUITY
+TALX has adopted a stock option plan for employees that provides for the
+issuance of a maximum of 3,049,200 shares of common stock pursuant to incentive
+or non-qualified options. Options are granted by the Board of Directors at
+prices not less than fair market value as of the date of the grant. Options vest
+20% per year and expire six to ten years after the date of the grant.
+TALX has adopted a stock option plan for outside directors that provides
+for the issuance of a maximum of 145,200 shares of common stock. Options are
+granted in the amount of 2,500 shares each to outside directors at prices not
+less than fair market value as of the date of the grant, which is April 1 of
+each year. The options vest one year from the date of grant. Options outstanding
+amount to 54,568 and 53,676 at March 31, 2002 and 2003, respectively.
+59
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Activity under the plans for the three years ended March 31, 2003 is as
+follows                                       WEIGHTED
+AVERAGE
+SHARES   EXERCISE PRICE
+Outstanding at March 31,  1,097,038    343
+321,303    851
+56,858    535
+229,075    256
+Outstanding at March 31,  1,132,408    498
+446,502    2325
+6,029   1716
+175,038    403
+Outstanding at March 31,  1,397,843    1088
+507,375    1631
+133,928   1277
+170,992    396
+Outstanding at March 31,  1,600,298    1318
+OPTIONS OUTSTANDING       OPTIONS EXERCISABLE
+WEIGHTED AVERAGE  WEIGHTED        WEIGHTED
+REMAINING    AVERAGE        AVERAGE
+NUMBER OF  CONTRACTUAL LIFE  EXERCISE  NUMBER OF  EXERCISE
+RANGE OF EXERCISE PRICE     SHARES     YEARS     PRICE   SHARES   PRICE
+$ 000- 312.  191,651     43      $ 278   131,379   $ 272
+312- 623.  274,168     59       420   165,424    414
+623- 935.  227,710     71       830   83,575    829
+40,892     71      1127   10,892   1047
+1,000     95      1402     --        489,625     90      1663    6,000   1690
+10,325     83      1991    3,330   1973
+243,926     79      2290   57,585   2286
+110,001     81      2520   22,000   2520
+11,000     83      3115    2,200   3115
+1,600,298                 482,385
+In May 1999, we entered into an agreement with a third party, under which
+they provide us with strategic advisory services, including in connection with
+our acquisition of Ti3. Pursuant to that agreement, we issued them warrants to
+purchase a total of 45,375 shares of our common stock at an exercise price of
+$482 per share. All 45,375 warrants are outstanding and exercisable at March
+31, 2003.
+During fiscal 1997, shareholders approved the TALX Corporation 1996
+Employee Stock Purchase Plan ESPP, which was amended in 1998 and 2000 and
+amended and restated in 2001. The ESPP allows eligible employees the right to
+purchase common stock on a quarterly basis at the lower of 85% of the market
+price at the beginning or end of each three-month offering period. Of the
+907,500 shares of common stock shares reserved for the ESPP, there were 464,106
+shares remaining at March 31, 2003.
+60
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+In November 2000, our board of directors authorized us to repurchase up to
+400,000 shares of our stock in the open market, or through privately negotiated
+transactions over the following two-year period. In November 2001, this plan was
+extended to November 2004, and the number of shares was increased to one
+million. Under this plan, we repurchased 311,000 shares during the year ended
+March 31, 2003. Cumulative shares repurchased under this plan amount to 608,500.
+Share amounts are reported on a pre-dividend basis. On September 5, 2002, our
+board of directors approved a new stock repurchase plan, authorizing us to
+repurchase up to one million shares during the 36 month period ending September
+30, 2005, subject to market conditions and other factors. As of March 31, 2003,
+175,000 shares have been repurchased under this plan. Except for the 409,231
+shares remaining in the treasury at March 31, 2003, all shares repurchased have
+been reissued in connection with employee stock option exercises and employee
+stock purchase plan purchases.
+During fiscal 2001, we began paying dividends on our common stock on a
+quarterly basis. Dividends of $008, $012 and $013 per share were declared and
+dividends of $005, $012 and $012 per share were paid to shareholders during
+fiscal years 2001, 2002 and 2003, respectively. Any future determination to pay
+dividends will be at the discretion of our board of directors and will depend
+upon our earnings, capital requirements and operating and financial condition
+and such other factors as the board may deem relevant.
+13 BUSINESS SEGMENTS
+FASB Statement No. 131, Disclosures about Segments of an Enterprise and
+Related Information, requires companies to provide certain information about
+their operating segments. Prior to our acquisitions in March 2002, we only had
+one reportable segment. Effective March 27, 2003, we had two reportable
+segments: Payroll-Based Services and Software and Unemployment Cost Management
+Services.
+Payroll-Based Services and Software: This segment includes the following   - The Work Number Services -- The Work NumberR, W-2 eXpressSM, ePayroll
+and FasTimeR   - Human Resources and Benefits Application Services; and
+- Customer Premises Systems and Related Maintenance and Support
+Unemployment Cost Management Services: This segment includes our UC
+eXpressSM services suite.
+For the year ended March 31, 2002, we allocated goodwill and intangible
+assets to the appropriate segments. All interest income and expense, debt and
+executive overhead expenses were included in the Payroll-Based Services and
+Software segment.
+For the year ended March 31, 2003, the following items are not reported on
+an operating segment basis and are included in the following table in the
+column entitled Unallocated because they are not considered in the
+performance evaluation by our chief operating decision-maker, our chairman and
+CEO   - Interest income and expense and income taxes   - Acquisition-related debt, goodwill and intangible assets   - Intangible asset amortization expense; and
+- Executive overhead expenses
+61
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Summarized financial information concerning our reportable operating
+segments are shown in the following table for the periods indicated                  PAYROLL-BASED  UNEMPLOYMENT COST
+SERVICES AND    MANAGEMENT
+SOFTWARE     SERVICES    UNALLOCATED  TOTAL
+IN THOUSANDS
+MARCH 31, 2001
+$39,013     $   --     $   --   $ 39,013
+Income from operations.    3,060        --        --    3,060
+Total assets.   33,434        --        --    33,434
+Depreciation and amortization.    4,615        --        --    4,615
+Capital expenditures.    1,819        --        --    1,819
+MARCH 31, 2002
+$43,704     $  848     $   --   $ 44,552
+Income from operations.    4,514        154        --    4,668
+Total assets.   52,103      127,635        --   179,738
+Depreciation and amortization.    3,801        110        --    3,911
+Capital expenditures.    1,606        --        --    1,606
+MARCH 31, 2003
+$51,085     $ 74,645        --   $125,730
+Income from operations.   16,018      12,806      6,805   22,019
+Total assets.   10,038      38,772     123,919   172,729
+Depreciation and amortization.    3,942       3,020      1,344    8,306
+Capital expenditures.    2,134       2,382        --    4,516 14 DISCONTINUED OPERATIONS
+Effective March 31, 2000, we sold all of the assets, net of liabilities, of
+the database services business to WPZ Holdings, Inc., the parent company of one
+of the division largest customers. The sales price was $1,273,000, which
+represented the current book value of the net assets sold. We realized pre-tax
+and after-tax gains of $187,000 and $117,000, respectively. While the effective
+date of the transaction was March 31, 2000, cash settlement occurred April 5,
+2000.
+During the quarter ended September 30, 2000, we concluded all
+transition-related activity for the database services business. Completing this
+transition ahead of schedule resulted in a savings of $61,000 of the transition
+reserve. Therefore, we realized pre-tax and after-tax gains of $61,000 and
+$37,000, respectively.
+The results of operations for the database business for the year ended
+March 31, 2001 included a gain on disposal of $61,000, income taxes of $24,000
+and net earnings of $36,000. There were no results of operations for the years
+ended March 31, 2002 and 2003. As of March 31, 2001, 2002 and 2003 there were no
+assets or liabilities related to the database business on the balance sheets.
+15 DISCLOSURES ABOUT THE FAIR VALUE OF FINANCIAL INSTRUMENTS
+The carrying amounts for our cash and cash equivalents, short-term
+investments, trade receivables, accounts payable, accrued expenses and income
+taxes payable approximate fair value because of the short-term maturity of these
+instruments. The carrying value of long-term debt and borrowings under our
+revolving line of credit facility approximate fair value due to their stated
+interest rates approximating market rates.
+62
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+These estimated fair value amounts have been determined using available market
+information or other appropriate valuation methodologies.
+16 EMPLOYEE BENEFIT PLAN
+We sponsor a profit-sharing/401k plan. The plan covers substantially all
+of our employees. We make contributions to the plan, subject to ERISA
+limitations, up to 24% of employees' earnings. Total expense under the plan for
+the years ended March 31, 2001, 2002 and 2003 was $305,000, $322,000 and
+$762,000, respectively.
+17 COMMITMENTS AND CONTINGENCIES
+We are a defendant from time to time in lawsuits. Except to the extent
+described below, based on information currently available, we believe that no
+current proceedings, individually or in the aggregate, will have a material
+adverse effect upon us.
+On December 26, 2001, a purported class action lawsuit was filed in the
+United States District Court for the Eastern District of Missouri Civil Action
+No. 4:01CV02014DJS by Matt L. Brody, an alleged shareholder of the Company,
+against the Company, certain of its executive officers and directors William W.
+Canfield, Craig N. Cohen and Richard F. Ford collectively, the Individual
+Defendants, and two underwriters Stifel, Nicolaus & Company, Incorporated and
+A.G. Edwards & Sons, Inc. in the Company August 2001 secondary common stock
+offering Secondary Offering. The case purportedly is brought on behalf of
+all persons who purchased or otherwise acquired shares of our common stock
+between July 18, 2001 and October 1, 2001 Putative Class Period, including
+as part of the Secondary Offering. The complaint alleges, among other things,
+that certain statements in the registration statement and prospectus for the
+Secondary Offering, as well as other statements made by the Company and/or the
+Individual Defendants during the Putative Class Period, were materially false
+and misleading because they allegedly did not properly account for certain
+software and inventory, did not reflect certain write-offs, and did not
+accurately disclose certain business prospects. The complaint alleges violations
+of Sections 10b and 20a of the Securities Exchange Act of 1934 and Rule
+10b-5 promulgated thereunder against the Company and the Individual Defendants,
+violations of Section 11 of the Securities Act of 1933 against the Company, the
+Individual Defendants and the underwriters, and violation of Section 15 of the
+Securities Act of 1933 against Mr. Canfield.
+Three additional purported class action lawsuits were filed in the same
+court, against the same defendants and making substantially the same
+allegations: on January 8, 2002 by Donald Metzger Civil Action No.
+4:02CV00031DJS; on January 9, 2002 by Anna Goodman Civil Action No.
+4:02CV00033DJS; and on January 30, 2002 by Al Hinton Civil Action No.
+4:02CV00168DJS each of whom allegedly were shareholders of the Company during
+the Putative Class Period. On February 15, 2002, these three lawsuits were
+consolidated with and into the Brody lawsuit Civil Action No. 4:01CV02014DJS
+for all purposes. In October 2002, the case was transferred from the Honorable
+Donald J. Stohr, United States District Judge, to the Honorable Henry E. Audrey,
+United States District Judge.
+The consolidated lawsuit seeks, among other things, an award of unspecified
+money damages, including interest, for all losses and injuries allegedly
+suffered by the putative class members as a result of the defendants' alleged
+conduct and unspecified equitable/injunctive relief as the Court deems proper.
+On May 20, 2002, the Company and the Individual Defendants filed a motion
+to dismiss the lawsuits, and the underwriter defendants filed a separate motion
+to dismiss. On March 31, 2003, the Court granted defendants' motion in part,
+dismissing plaintiffs' claims under Section 10b of the Exchange Act and Rule
+10b-5 thereunder, without prejudice. The Court granted plaintiffs sixty
+additional days to file an
+63
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+amended consolidated complaint, and defendants sixty days thereafter to respond
+to the amended complaint. No amended complaint has been filed to date.
+We believe the plaintiffs' claims are without merit and intend to defend
+vigorously against them. However, due to the inherent uncertainties of
+litigation, we cannot accurately predict the ultimate outcome of the litigation.
+An unfavorable outcome could have a material adverse impact on our business,
+financial condition and results of operations.
+As previously disclosed, the Securities and Exchange Commission initially
+commenced an investigation into our second fiscal quarter 2001 financial
+results. We are cooperating fully with the investigation. On November 12, 2002,
+the staff of the Central Regional Office of the Commission sent us a Wells
+letter indicating the staff plans to recommend to the Commission that it
+institute an enforcement action against us and two of our executive officers,
+William Canfield and Craig Cohen, related to two matters, and requesting that we
+and such executive officers submit responses to the letter. The Wells letter
+states that the SEC staff will allege, among other things, that our financial
+statements were misleading as a result of capitalizing instead of expensing $16
+million related to a patent technology license agreement executed in March 2001
+and expensing approximately $158,000 in bonus payments to executive officers in
+the first quarter of fiscal 2002 instead of the fourth fiscal quarter of 2001.
+Those items are among those that are the subject of the restatement as disclosed
+on our Form 10-K/A for the year ended March 31, 2002. The remedies the
+Commission may consider include an injunction against us and the individuals
+and, if appropriate, an officer and director bar and disgorgement and civil
+money penalties against the individuals. The Company and the individuals have
+filed separate written responses to the Wells letter setting forth the reasons
+why the proposed enforcement action should not be instituted by the Commission.
+As described above, we have filed restated financial statements for each of
+the quarters ended June 30, 2000 through June 30, 2002 and for the fiscal years
+ended March 31, 2001 and 2002. As a result of the restatement, we could become
+subject to additional litigation or regulatory proceedings or both. As of the
+date hereof, we are not aware of any litigation having been commenced against us
+related to this restatement. However, such litigation could be commenced against
+us in the future and the plaintiffs who have filed lawsuits against us
+previously could amend their complaints to include claims related to this
+restatement, and if so, we could not predict the outcome of any such litigation
+at this time. Additionally, the lenders under our March 27, 2002 Loan Agreement,
+which is described more fully below under Management Discussion and Analysis
+of Financial Condition and Results of Operations -- Liquidity and Capital
+Resources, could seek to exercise remedies which may be available to them, such
+as acceleration of our loan, in the event they determine that, as a result of
+the restatement discussed above or the SEC investigation discussed below, we
+have breached a covenant or representation and warranty in the Loan Agreement.
+If an unfavorable result occurred in any such action, our business and financial
+conditions could be harmed.
+As of the date hereof, the SEC is investigating our accounting for certain
+items, including those which were the subject of the restatement. At this time,
+we cannot predict whether or not any additional regulatory investigation related
+to this restatement or any other matter will be commenced, or if it is, the
+outcome of any such investigation. However, if any such investigation were to
+result in a regulatory proceeding or action against us, our business and
+financial condition could be harmed.
+Additionally, we are required to indemnify each of the Individual
+Defendants, as officers and/or directors of the Company, in connection with the
+above matters, provided they acted in good faith and in a manner they reasonably
+believed to be in, or not opposed to, the best interests of the Company. Stifel,
+Nicolaus & Company and A.G. Edwards & Sons, Inc. have made demands on the
+Company to indemnify them in connection with these matters.
+Our directors and officers liability insurance carriers have received
+notice of the consolidated litigation and SEC investigation.
+64
+TALX CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- CONTINUED
+Regardless of the outcome of any litigation or regulatory proceeding,
+litigation and regulatory proceedings of this type are expensive and will
+require that we devote substantial resources and executive time to defend these
+proceedings.
+18 SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+Cash paid during the year for interest totaled $0, $0 and $13 million for
+the years ended March 31, 2001, 2002 and 2003, respectively. Cash paid during
+the year for income taxes totaled $27 million, $10 million and $25 million
+for the years ended March 31, 2001, 2002 and 2003, respectively.
+19 RELATED PARTY TRANSACTION
+James W. Canfield, the son of our Chairman, President and Chief Executive
+Officer, is employed in a non-executive position with our Company as the manager
+of ePayroll business development. Mr. Canfield has a current annual salary of
+$95,000 and is eligible for a bonus of approximately $19,000 based upon certain
+performance goals. This bonus can decrease or increase based on the percentage
+achievement of these performance goals. Mr. Canfield is also eligible annually
+for an award of 2,500 stock options. Both the bonus and stock option awards are
+granted under standard corporate compensation plans and are consistent with
+payments made to managers at Mr. Canfield level. For fiscal 2003, Mr. Canfield
+received $91,350 in salary, $12,800 in bonus, and 2,500 stock options for his
+services to the Company.
+20 CUMULATIVE EFFECT OF CHANGE IN ACCOUNTING PRINCIPLE
+During 2001, we changed our method of accounting for certain service
+transactions in the Human Resources and Benefits Application Services and The
+Work Number Services revenue lines to be in accordance with Staff Accounting
+Bulletin SAB No. 101. We also considered recent guidance from the SEC staff
+concerning the accounting for these types of service transactions. This guidance
+requires revenues to be recognized on a straight-line basis from the time the
+service is available for use by our clients through the end of the service
+period. Previously, we had consistently recorded revenues as services were
+provided. We have retroactively adopted SAB 101 as of April 1, 2000, and have
+recorded a cumulative effect adjustment of $17 million, net of tax of $11
+million, in fiscal 2001 to reflect the application of the new accounting. The
+cumulative effect adjustment was computed based on revenue of $29 million, and
+related commission expense of $175,000, initially recognized in 2000 and prior
+years that was delayed to 2001 and future periods under SAB 101.
+21 SUBSEQUENT EVENT
+On April 22, 2003 we sold substantially all of the assets of our human
+resources and benefits application services business to Workscape, Inc., a
+Framingham, Massachusetts-based provider of benefits and workforce management
+solutions. The primary product of this line of services, the benefits enrollment
+business, provides a customized solution for clients' employees to enroll in an
+employer benefits programs and make changes to their personal information and
+benefits elections, all by means of the Internet or by telephone.
+The transaction is structured as a transfer of assets under contract for
+sale with no initial down-payment and the purchase price to be paid over a
+three-year period, based on a client retention formula. Proceeds are anticipated
+to be between $2 million and $6 million, with no minimum guaranteed amount. We
+will record cash received under the asset purchase agreement first to reduce the
+recorded value of net assets sold under the agreement and then to reflect gain
+on the sale of the business. In connection with the sale, we will provide
+Workscape, Inc., for agreed upon fees, with various transition services related
+to the operation of the benefits enrollment business until December 31, 2005, or
+until certain transferred client contracts have expired or been terminated.
+Workscape, Inc. has hired all of the employees related to the benefits
+enrollment business.
+65 Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+None.
+PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+Information regarding directors and executive officers of the Company is
+contained under the caption Nominees and Continuing Directors, Executive
+Officers and Section 16a Beneficial Ownership Reporting Compliance included
+in the Proxy Statement for the 2003 Annual Meeting of Shareholders, which
+information is incorporated herein by reference.

@@ -1,0 +1,613 @@
+Item8.
+Consolidated Financial Statements and Supplementary Data The financial statements listed in the following Index to Financial Statements are filed as a part of this 2011 Annual Report on Form10-K. 
+FORRESTER RESEARCH, INC. INDEX TO FINANCIAL STATEMENTS  Page Report of PricewaterhouseCoopers LLP, Independent Registered Public Accounting Firm F-1 Report of BDO USA, LLP, Independent Registered Public Accounting Firm F-2 Consolidated Balance Sheets F-3 Consolidated Statements of Income F-4 Consolidated Statements of Stockholders Equity and Comprehensive Income F-5 Consolidated Statements of Cash Flows F-6 Notes to Consolidated Financial Statements F-7  29 Table of Contents
+Report of Independent Registered Public Accounting Firm
+To the Board of Directors and Shareholders of Forrester Research, Inc.: In our opinion, the accompanying consolidated balance
+sheets and the related consolidated statements of income, of stockholders equity and comprehensive income, and of cash flows present fairly, in all material respects, the financial position of Forrester Research, Inc. and its subsidiaries at
+December31, 2011 and 2010, and the results of their operations and their cash flows for each of the two years in the period ended December31, 2011 in conformity with accounting principles generally accepted in the United States of
+America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December31, 2011, based on criteria established in Internal ControlIntegrated Framework
+issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO. The Companys management is responsible for these financial statements, for maintaining effective internal control over financial reporting and for its
+assessment of the effectiveness of internal control over financial reporting, included in the accompanying Managements Report on Internal Control over Financial Reporting. Our responsibility is to express opinions on these financial
+statements, and on the Companys internal control over financial reporting based on our integrated audits. We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board United States. Those
+standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement and whether effective internal control over financial reporting was maintained in all
+material respects. Our audits of the financial statements included examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material
+weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe
+that our audits provide a reasonable basis for our opinions. A companys internal control over financial reporting is a
+process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A companys
+internal control over financial reporting includes those policies and procedures that ipertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the
+company; iiprovide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company
+are being made only in accordance with authorizations of management and directors of the company; and iiiprovide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the
+companys assets that could have a material effect on the financial statements. Because of its inherent limitations,
+internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate. /s/PricewaterhouseCoopers LLP
+Boston, Massachusetts 
+March9, 2012 
+F-1 Table of Contents
+Report of Independent Registered Public Accounting Firm
+Board of Directors and Shareholders Forrester Research, Inc. Cambridge, MA 
+We have audited the accompanying consolidated statements of income, stockholders equity and comprehensive income, and cash flows of
+Forrester Research, Inc. and subsidiaries the Company for the year ended December31, 2009. These financial statements are the responsibility of the Companys management. Our responsibility is to express an opinion on these
+financial statements based on our audit. We conducted our audit in accordance with the standards of the Public Company
+Accounting Oversight Board United States. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit also includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We
+believe that our audit provides a reasonable basis for our opinion. In our opinion, the consolidated financial statements
+referred to above present fairly, in all material respects, the results of Forrester Research, Inc.s operations and their cash flows for the year ended December31, 2009, in conformity with accounting principles generally accepted
+in the United States of America. /s/BDO USA, LLP BDO USA, LLP formerly known as BDO Seidman, LLP Boston, Massachusetts 
+March12, 2010 except with respect to Note11, as to which the date is March11, 2011 
+F-2 Table of Contents
+FORRESTER RESEARCH, INC. 
+CONSOLIDATED BALANCE SHEETS 
+December31 2011 2010 In thousands, exceptpershare data ASSETS Current Assets Cash and cash equivalents 81,047 86,927 Marketable investments Note 4 136,991 119,990 Accounts receivable, net Note 12 81,378 73,574 Deferred commissions 12,010 12,598 Prepaid expenses and other current assets 25,935 24,701 
+Total current assets 337,361 317,790 Long-term marketable investments Note 4 9,565 9,117 Restricted cash Note 12 11,609 Property and equipment, net Note 12 50,448 19,838 Goodwill Note 3 71,543 67,958 Intangible assets, net Note 3 10,317 8,487 Other assets 8,344 15,678 
+Total assets 487,578 450,477 
+LIABILITIES AND STOCKHOLDERS EQUITY Current Liabilities Accounts payable 1,223 3,644 Accrued expenses and other current liabilities Note 12 30,153 36,485 Deferred revenue 147,887 131,521 
+Total current liabilities 179,263 171,650 Non-current liabilities Note 12 17,580 6,920 
+Total liabilities 196,843 178,570 
+Commitments Note 7 Stockholders Equity Note 8 Preferred stock, $01 par value Authorized 500 shares, issued and outstanding none Common stock, $01 par value Authorized 125,000 shares Issued 30,962 and 30,500 in 2011 and 2010, respectively Outstanding 22,747 and 22,812 in 2011 and 2010, respectively 310 305 Additional paid-in capital 373,591 358,017 Retained earnings 104,662 81,652 Treasury stock 8,215 and 7,688 in 2011 and 2010, respectively, at cost 181,000 162,595 Accumulated other comprehensive loss 6,828 5,472 
+Total stockholders equity 290,735 271,907 
+Total liabilities and stockholders equity 487,578 450,477 
+The accompanying notes are an integral part of these consolidated financial statements. 
+F-3 Table of Contents
+FORRESTER RESEARCH, INC. 
+CONSOLIDATED STATEMENTS OF INCOME 
+Years Ended December31 2011 2010 2009 In thousands, except per share data Revenues Research services 191,648 168,508 157,726 Advisory services and other 91,968 82,218 75,626 
+Total revenues 283,616 250,726 233,352 
+Operating expenses Cost of services and fulfillment 103,571 94,105 87,873 Selling and marketing 101,468 84,663 72,487 General and administrative 33,284 33,960 28,461 Depreciation 5,359 3,628 4,380 Amortization of intangible assets 2,562 3,620 2,290 Reorganization costs 375 5,441 
+Total operating expenses 246,619 219,976 200,932 
+Income from operations 36,997 30,750 32,420 Other income, net 630 1,249 2,297 Gains losses on investments, net 1,018 2,301 982 
+Income before income taxes 38,645 34,300 33,735 Income tax provision 15,635 13,793 14,869 
+Net income 23,010 20,507 18,866 
+Basic income per common share 102 091 083 
+Diluted income per common share 099 089 082 
+Basic weighted average common shares outstanding 22,666 22,478 22,645 
+Diluted weighted average common shares outstanding 23,164 23,063 22,884 
+The accompanying notes are an integral part of these consolidated financial statements.
+F-4 Table of Contents
+FORRESTER RESEARCH, INC. 
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY AND COMPREHENSIVE INCOME 
+Common Stock AdditionalPaid-inCapital RetainedEarnings Treasury Stock AccumulatedOtherComprehensive
+Income Loss TotalStockholdersEquity ComprehensiveIncome NumberofShares 01ParValue NumberofShares Cost Inthousands Balance, December31, 2008 29,146 291 315,149 110,693 6,101 120,851 1,785 303,497 Issuance of common stock under stock plans, including tax benefit 216 3 4,013 4,016 Stock-based compensation expense 6,045 6,045 Purchase of common stock 927 20,399 20,399 Net income 18,866 18,866 18,866 Unrealized loss on marketable investments, net of tax 440 440 440 Cumulative translation adjustment 360 360 360 
+Total comprehensive income 18,786 
+Balance, December31, 2009 29,362 294 325,207 129,559 7,028 141,250 1,865 311,945 Issuance of common stock under stock plans, including tax benefit 1,138 11 27,733 27,744 Stock-based compensation expense 4,874 4,874 Purchase of common stock 660 21,345 21,345 Dividend paid on common shares 68,414 68,414 Capital contributed by seller of acquired business Note 2 203 203 Net income 20,507 20,507 20,507 Unrealized loss on marketable investments, net of tax 925 925 925 Cumulative translation adjustment 2,682 2,682 2,682 
+Total comprehensive income 16,900 
+Balance, December31, 2010 30,500 305 358,017 81,652 7,688 162,595 5,472 271,907 Issuance of common stock under stock plans, including tax benefit 462 5 11,932 11,937 Stock-based compensation expense 3,642 3,642 Purchase of common stock 527 18,405 18,405 Net income 23,010 23,010 23,010 Unrealized loss on marketable investments, net of tax 21 21 21 Cumulative translation adjustment 1,335 1,335 1,335 
+Total comprehensive income 21,654 
+Balance, December31, 2011 30,962 310 373,591 104,662 8,215 181,000 6,828 290,735 
+The accompanying notes are an integral part of these consolidated financial statements. 
+F-5 Table of Contents
+FORRESTER RESEARCH, INC. 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+Years Ended December31 2011 2010 2009 In thousands Cash flows from operating activities Net income 23,010 20,507 18,866 Adjustments to reconcile net income to net cash provided by operating activities Depreciation and asset write-offs 5,359 3,671 5,278 Amortization of intangible assets 2,562 3,620 2,290 Net gains losses from investments 1,018 2,301 982 Deferred income taxes 15,137 2,356 1,943 Stock-based compensation 3,642 4,874 6,111 Amortization of premium on investments 3,321 2,587 1,167 Foreign currency losses 1,290 1,374 1,107 Other non-cash items 55 Changes in assets and liabilities, net of acquisitions Accounts receivable 7,594 7,467 2,090 Deferred commissions 589 2,968 119 Prepaid expenses and other current assets 7,805 8,220 7,092 Accounts payable 1,898 1,422 2,342 Accrued expenses and other liabilities 2,485 3,975 69 Deferred revenue 16,364 15,172 2,645 
+Net cash provided by operating activities 55,444 38,657 43,099 
+Cash flows from investing activities Acquisitions 7,531 1,660 5,592 Purchases of property and equipment 39,776 13,426 4,284 Purchases of marketable investments 113,909 116,280 645,312 Proceeds from sales and maturities of marketable investments 93,090 145,195 611,859 Change in restricted cash 14,542 1,282 16,770 Other investing activity 548 491 558 
+Net cash provided by used in investing activities 53,036 15,602 59,541 
+Cash flows from financing activities Dividend paid on common stock 68,414 Proceeds from issuance of common stock under employee equity incentive plans and employee stock purchase plan 11,554 25,971 4,282 Excess tax benefits from stock-based compensation 525 1,949 Repurchases of common stock 18,405 21,345 20,399 
+Net cash used in financing activities 6,326 61,839 16,117 
+Effect of exchange rate changes on cash and cash equivalents 1,962 3,298 886 
+Net decrease in cash and cash equivalents 5,880 10,878 31,673 Cash and cash equivalents, beginning of year 86,927 97,805 129,478 
+Cash and cash equivalents, end of year 81,047 86,927 97,805 
+Supplemental disclosure of cash flow information Cash paid for income taxes 5,929 16,583 10,945 
+The accompanying notes are an integral part of these consolidated financial statements. 
+F-6 Table of Contents FORRESTER RESEARCH, INC. NOTESTO CONSOLIDATED FINANCIAL STATEMENTS December31, 2011  1
+Summary of Significant Accounting Policies 
+Basis of Presentation Principles of Consolidation Forrester Research, Inc.
+Forrester or the Company is an independent research company that provides pragmatic and forward-thinking advice to global leaders in business and technology. Forresters products and services are targeted to specific
+roles, including senior management in business strategy, marketing, and information technology principally at $1billion-plus revenue companies who collaborate with Forrester to accelerate achievement of their business goals. The accompanying
+consolidated financial statements include the accounts of Forrester and its wholly-owned subsidiaries. All intercompany transactions and balances have been eliminated in consolidation. 
+Management Estimates The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the
+reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Forrester considers the more
+significant of these estimates to be revenue recognition, stock-based compensation, non-marketable investments, goodwill and intangible assets, income taxes, and valuation and impairment of marketable investments. On an ongoing basis, management
+evaluates its estimates. Actual results could differ from these estimates. Reclassifications 
+Certain line items on the Consolidated Balance Sheets have been combined to conform to the current period presentation. 
+Fair Value Measurements The Company has certain financial assets recorded at fair value which have been classified as Level1, 2 or 3 within the fair value hierarchy as described in the accounting standards for fair value
+measurements. Level1 Fair value based on quoted prices in active markets for identical assets or
+liabilities. Level2 Fair value based on inputs other than Level1 inputs that are observable, either
+directly or indirectly, such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of
+the assets or liabilities. Level3 Fair value based on unobservable inputs that are supported by little or no
+market activity and such inputs are significant to the fair value of the assets or liabilities. The carrying amounts reflected
+in the Consolidated Balance Sheets for cash, cash equivalents, accounts receivable, accounts payable, and accrued expenses approximate fair value due to their short-term maturities. 
+Cash, Cash Equivalents, and Marketable Investments Forrester considers all short-term, highly liquid investments with original maturities at the time of purchase of 90days or less to be cash equivalents. The Companys investments with an
+auction reset feature and for which the Company does not have the ability to sell within one year from the balance sheet date are classified as long-term investments. 
+F-7 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+The Companys investments are composed of securities of U.S.government
+agencies, municipal notes some of which contain an auction reset feature auction rate securities or ARS, corporate notes and bonds, and money market funds. Forrester accounts for all marketable investments as
+available-for-sale securities and as such, the marketable investments are carried at fair value, with unrealized gains and losses not related to credit losses recorded in accumulated other comprehensive loss in the Consolidated Balance Sheets.
+Realized gains and losses on securities are included in earnings and are determined using the specific identification method. The Company conducts periodic reviews to identify and evaluate each investment that has an unrealized loss, in accordance
+with the meaning of other-than-temporary impairment and its application to certain investments, as required under current accounting standards. An unrealized loss exists when the current fair value of an individual security is less than its
+amortized cost basis. Unrealized losses on available-for-sale securities that are determined to be temporary, and not related to credit loss, are recorded, net of tax, in accumulated other comprehensive loss. The determination of whether a loss is
+considered temporary is based in part on whether the Company intends to sell the security or whether the Company would more likely than not be required to sell the security before the expected recovery of the amortized cost basis. During the years
+ended December31, 2011, 2010 and 2009, the Company did not record any other-than-temporary impairment charges on its available-for-sale securities. Concentrations of Credit Risk Forrester has no significant
+off-balance sheet or concentration of credit risk such as foreign exchange contracts, option contracts, or other foreign hedging arrangements. Financial instruments that potentially subject Forrester to concentrations of credit risk are principally
+cash equivalents, marketable investments, and accounts receivable. Forrester places its investments in highly rated securities. No single customer accounted for greater than 2% of revenues or accounts receivable in any of the periods presented.
+Deferred Commissions Commissions incurred in acquiring new or renewing existing contracts, which are earned in the month that a contract is booked, are deferred and expensed to operations as the related revenue is recognized.
+Forrester evaluates the recoverability of deferred commissions at each balance sheet date. Goodwill 
+Goodwill is not amortized; however, it is required to be tested for impairment annually. Furthermore, testing for impairment is required
+on an interim basis if an event or circumstance indicates that it is more likely than not an impairment loss has been incurred. An impairment loss would be recognized to the extent that the carrying amount of goodwill exceeds its implied fair value.
+Absent an event that indicates a specific impairment may exist, the Company has selected November30 as the date for performing the annual goodwill impairment test. Goodwill impairment charges have not been required for the years ended
+December31, 2011, 2010 and 2009. Impairment of Other Long-Lived Tangible and Intangible Assets
+Forrester continually evaluates whether events or circumstances have occurred that indicate that the estimated
+remaining useful life of long-lived assets and intangible assets may warrant revision or if events or circumstances indicate that the carrying value of these assets may be impaired. To compute whether assets have been impaired, the estimated
+undiscounted future cash flows for the estimated remaining useful life of the assets are compared to the carrying value. To the extent that the future cash flows are less than the carrying value, the assets are written down to the estimated fair
+value of the asset. 
+F-8 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Non-Current Liabilities 
+The Company records certain liabilities that are expected to be settled over a period that exceeds one year as non-current liabilities.
+The Company also records as a non-current liability the portion of the deferred rent liability that is expected to be recognized over a period greater than one year. Non-current deferred rent liability at December31, 2011 and 2010 was $67
+million and $05 million, respectively, and primarily results from the difference between cash payments and the straight-line recognition of rent expense under the Companys facility leases. The portion of the deferred rent corresponding to
+rent payments that will be paid within twelve months of the balance sheet date is classified as a current liability. 
+Foreign Currency The functional currency of the majority of Forresters wholly-owned subsidiaries is their respective local currencies. These subsidiary financial statements are translated to U.S.dollars using
+period-end exchange rates for assets and liabilities and average exchange rates during the corresponding period for revenues and expenses, with translation gains and losses accumulated as a component of accumulated other comprehensive loss. Gains
+and losses related to the remeasurement of monetary assets and liabilities denominated in a currency other than an entitys functional currency are included in other income, net in the Consolidated Statements of Income. For the years ended
+December31, 2011, 2010 and 2009, Forrester recorded $13 million, $14million and $11million of foreign exchange losses, respectively, in other income, net. In addition, Forresters German holding companies, for which the
+functional currency is the U.S. dollar, recognized $01million, $04million and $06million of remeasurement gains losses on its deferred tax liability in income tax expense for the years ended December31, 2011, 2010 and
+2009, respectively. Accumulated Other Comprehensive Loss 
+The components of accumulated other comprehensive loss as of December31, 2011 and 2010 are as follows in thousands: 2011 2010 Net unrealized loss on marketable investments, net of taxes 1,021 1,000 Cumulative translation adjustment 5,807 4,472 
+Total accumulated other comprehensive loss 6,828 5,472 
+The components of comprehensive income are as follows in thousands: Years Ended December31 2011 2010 2009 Net income 23,010 20,507 18,866 Cumulative translation adjustment 1,335 2,682 360 Change in unrealized loss on marketable investments, net of taxes of $49, $570 and $275, respectively 21 925 440 
+Total comprehensive income 21,654 16,900 18,786 
+Revenue Recognition 
+Effective January1, 2011 the Company adopted Update No2009-13, Multiple-Deliverable Revenue Arrangements a
+consensus of the FASB Emerging Issues Task Force ASU 2009-13 for contracts entered into or materially modified after that date. ASU 2009-13 updates the previous multiple-element revenue
+F-9 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+arrangements guidance. The revised guidance primarily provides three significant changes: 1 it eliminates the need for objective and reliable evidence of the fair value of the undelivered
+element in order for a delivered item to be treated as a separate unit of accounting; 2 it eliminates the residual method to allocate the arrangement consideration; and 3 it modifies the fair value requirements of EITF Issue 00-21 by providing
+best estimate of selling price in addition to vendor specific objective evidence and vendor objective evidence for determining the selling price of a deliverable. In addition, the guidance also expands the disclosure requirements for
+revenue recognition. The adoption of ASU 2009-13 did not have a material impact on the Companys financial position, results of operations or cash flows. Forrester generates revenues from licensing research including our data products, performing advisory services and consulting projects and hosting events. Forrester executes contracts that govern the
+terms and conditions of each arrangement. Revenues are recognized when persuasive evidence of an arrangement exists, the fee is fixed or determinable, services have been provided to the customer, and collectability is reasonably assured. Revenue
+contracts may include either a single product or service or a combination of multiple products and services. Revenues from contracts that contain multiple products and services are allocated among the separate units of accounting based on their
+relative selling prices; however, the amount recognized is limited to the amount that is not contingent on future performance conditions. The Company obtains the selling prices of its products and services based on an analysis of standalone sales of
+these products and services during the year. Research service revenues are recognized ratably over the term of the contract. Advisory service revenues are recognized when the customer receives the agreed upon deliverable and consulting project
+revenues, which are short-term in nature and based upon fixed-fee agreements, are recognized as the services are provided. Reimbursed out-of-pocket expenses are recorded as advisory services revenue. Event revenues are recognized upon completion of
+the event. Annual subscriptions to our RoleView research include access to all or a designated portion of our research, and
+depending on the type of license, membership in one or more of our Forrester leadership boards, unlimited phone or email analyst inquiry, unlimited participation in Forrester Teleconferences, and the right to attend one event. Contracts for RoleView
+research entered into prior to the adoption of ASU 2009-13 on January1, 2011 are accounted for as one unit of accounting and recognized ratably as research services revenue over the membership period. Contracts for RoleView research entered
+into or significantly modified after January1, 2011 are accounted for as two units of accounting: 1 the event ticket and 2 the remaining research services that are delivered throughout the contract period, based on the new guidance that
+permits alternative methods of determining selling price as it relates to the components that we do not sell on a standalone basis, such as research services in this case. Arrangement consideration is allocated to each of these elements based upon
+their relative selling prices, which is based on standalone sales of event tickets and the estimated selling price of the remaining research services. Annual subscriptions to our data products include access to designated survey data products and
+access to a data specialist, which are delivered throughout the year, and are accounted for as one unit of accounting and recognized ratably as research services revenue over the membership period. Clients are offered a service guarantee, which
+gives them the right to cancel their contracts prior to the end of the contract term and receive a refund for unused products or services. Stock-Based Compensation The Company recognizes the fair value of
+stock-based compensation expense over the requisite service period of the individual grantee, which generally equals the vesting period. Cash flows resulting from the tax benefits of tax deductions in excess of the compensation expense recognized
+for stock-based awards are classified as financing cash flows. The Company is required to estimate future forfeitures of stock-based awards for recognition of compensation expense. The Company will record additional expense if the actual forfeitures
+are lower than estimated and will record a recovery of prior recognized expense if the actual forfeitures are higher than estimated. The actual expense recognized over the vesting period will only be for those awards that
+F-10 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+vest. In addition, for performance-vested restricted stock units, the Company makes estimates of the performance outcome at each period end in order to estimate the actual number of shares that
+will be earned. The actual expense recognized over the vesting period will only be for those awards that vest. Stock-based compensation expense was recorded in the following expense categories in thousands: Years Ended December31 2011 2010 2009 Cost of services and fulfillment 1,644 2,094 2,961 Selling and marketing 751 943 1,123 General and administrative 1,247 1,837 2,027 
+Total 3,642 4,874 6,111 
+The options granted under the equity incentive plans and shares subject to the employee stock purchase
+plan were valued utilizing the Black Scholes model using the following assumptions and had the following fair values:  Years Ended December31 2011 2010 2009 EquityIncentivePlans EmployeeStockPurchase Plan EquityIncentivePlans EmployeeStockPurchase Plan EquityIncentivePlans EmployeeStockPurchase Plan Average risk-free interest rate 125 013 193 017 185 029 Expected dividend yield None None None None None None Expected life 35Years 05Years 36Years 05Years 35Years 05Years Expected volatility 40 28 40 25 44 44 Weighted average fair value 1047 755 967 638 838 681
+The dividend yield of zero is based on the fact that Forrester had never paid cash dividends until the
+board of directors approved a special dividend of $300 per common share in the fourth quarter of 2010. Expected volatility is based, in part, on the historical volatility of Forresters common stock as well as managements expectations of
+future volatility over the expected term of the awards granted. The risk-free interest rate used is based on the U.S.Treasury Constant Maturity rate with an equivalent remaining term. Where the expected term of a stock-based award does not
+correspond with a term for which the interest rates are quoted, Forrester uses the rate with the maturity closest to the awards expected term. The expected term calculation is based upon Forresters historical experience of exercise
+patterns. The unamortized fair value of stock-based awards as of December31, 2011 was $52million, with a weighted average remaining recognition period of 15 years. 
+Allowance for Doubtful Accounts Forrester maintains an allowance for doubtful accounts for estimated losses resulting from the inability of our customers to make contractually obligated payments. When evaluating the adequacy of the
+allowance for doubtful accounts, the Company makes judgments regarding the collectability of accounts receivable by specifically analyzing historical bad debts, customer concentrations, current economic trends, and changes in the customer payment
+terms. If the financial condition of the Companys customers were to deteriorate, resulting in an impairment of their ability to make payments, additional allowances may be required and if the financial condition of the Companys customers
+were to improve, the allowances may be reduced accordingly. 
+F-11 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Depreciation and Amortization 
+Forrester provides for depreciation and amortization of property and equipment, computed using the straight-line method, over estimated
+useful lives of assets as follows:  Estimated
+Useful Life Computers and office equipment
+3 to 5 Years
+Computer software
+3 Years
+Furniture and fixtures
+7 Years
+Building equipment
+10 years
+Leasehold improvements
+Shorterofassetlifeorleaseterm
+Forrester provides for amortization of intangible assets, computed using an accelerated method according
+to the expected cash flows to be received from the underlying assets, over the respective lives as follows:  EstimatedUseful Life Customer relationships
+5to11Years
+Research content
+1to2Years
+Registered trademarks
+1 Year
+Technology
+7Years
+Backlog
+1 Year
+Income Taxes Forrester recognizes deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the financial statements and tax basis of assets and liabilities as well
+as operating loss carryforwards. Forresters provision for income taxes is composed of a current and a deferred provision
+for federal, state and foreign jurisdictions. The current provision is calculated as the estimated taxes payable or refundable on tax returns for the current year. The deferred income tax provision is calculated as the net change during the year in
+deferred tax assets and liabilities. Valuation allowances are provided if based on the weight of available evidence, it is more likely than not that some or all of the deferred tax asset will not be realized. 
+Forrester accounts for uncertain tax positions using a more-likely-than-not threshold for recognizing and resolving uncertain
+tax positions. The evaluation of uncertain tax positions is based on factors including, but not limited to, changes in tax law, the measurement of tax positions taken or expected to be taken in tax returns, the effective settlement of matters
+subject to audit, new audit activity, and changes in facts or circumstances related to a tax position. The Company evaluates these tax positions on a quarterly basis. The Company also accrues for potential interest and penalties related to
+unrecognized tax benefits in income tax expense. Net Income Per Common Share 
+Basic income per common share is computed by dividing net income by the basic weighted average number of common shares outstanding during
+the period. Diluted net income per common share is computed by dividing net income by the diluted weighted average number of common shares and common equivalent shares outstanding during the period. The weighted average number of common equivalent
+shares outstanding has been determined in accordance with the treasury-stock method. Common stock equivalents consist of common stock issuable upon the exercise of outstanding stock options and restricted stock units. 
+F-12 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Basic and diluted weighted average common shares are as follows in thousands:
+Years Ended December31 2011 2010 2009 Basic weighted average common shares outstanding 22,666 22,478 22,645 Weighted average common equivalent shares 498 585 239 
+Diluted weighted average common shares outstanding 23,164 23,063 22,884 
+For the years ended December31, 2011, 2010 and 2009, options to purchase approximately
+03million, 04million and 20million shares, respectively, were outstanding but not included in the diluted weighted average common share calculation as the effect would have been anti-dilutive. 
+New Accounting Pronouncements In May2011, the Financial Accounting Standards Board FASB issued amended guidance on fair value measurement and related disclosures. The new guidance clarifies the concepts applicable
+for fair value measurement of non-financial assets and requires the disclosure of quantitative information about the unobservable inputs used in a fair value measurement. This guidance will be effective for reporting periods beginning after
+December15, 2011, and will be applied prospectively. The Company does not anticipate a material impact on its consolidated financial statements as a result of the adoption of this amended guidance. 
+In June2011, the FASB amended its accounting guidance on the presentation of other comprehensive income OCIin an
+entitys financial statements. The amended guidance eliminates the option to present the components of OCI as part of the statement of changes in shareholders equity and provides two options for presenting OCI: in a statement included in the
+income statement or in a separate statement immediately following the income statement. The amendments do not change the guidance for the items that have to be reported in OCI or when an item of OCI has to be moved into net income. This guidance
+will be effective for the Company for reporting periods beginning after December15, 2011. The Company does not anticipate that its adoption of this guidance will have a material impact on its consolidated results. 
+In September2011, the FASB issued updated guidance on the periodic testing of goodwill for impairment. The updated guidance gives
+companies the option to perform a qualitative assessment to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. The amendment is intended to reduce the cost and complexity of the
+annual goodwill impairment test by providing entities an option to perform a qualitative assessment to determine whether further impairment testing is necessary. The updated accounting guidance is effective for fiscal years beginning after
+December15, 2011, with early adoption permitted. The Company does not anticipate that its adoption of this guidance will have a material impact on its consolidated results. 2
+Acquisitions 
+Springboard Research On May12, 2011, Forrester acquired Springboard Research Springboard, a provider of research and advisory services focused on Asia Pacific and emerging markets. Springboard was a former
+division of Knowledge Platform, Inc. The acquisition of the Springboard business further supports Forresters role-based strategy and expands Forresters coverage in the Asia Pacific region. The total purchase price was approximately
+$90million, of which approximately $67million was paid on the acquisition date and $23million the Holdback is payable at various times through June1, 2013, subject to possible reduction to satisfy
+indemnification claims and specified contingencies. Of the $23million Holdback, up to $04million can be 
+F-13 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+retained by the Company if certain key employees do not remain with the Company through May12, 2012. In addition, up to $05 million of the Holdback could have been retained by the Company
+if a certain Springboard facility lease had not been extended through September15, 2012. As of December31, 2011, $05 million of the Holdback had been paid by the Company and $09 million and $09million of the Holdback are
+recorded in accrued expenses and non-current liabilities, respectively, in the Consolidated Balance Sheets. The results of Springboard, which were not material to the consolidated financial statements, have been included in Forresters
+consolidated financial statements since May12, 2011 in the Technology Industry Client Group segment. Pro forma financial information has not been provided as it is not material to the consolidated results of operations. 
+A summary of the purchase price allocation for Springboard is as follows in thousands Assets Cash 85 Accounts receivable 561 Other current assets 285 Goodwill 3,695 Intangible assets 4,815 
+Total assets 9,441 
+Liabilities Accrued expenses 160 Deferred revenue 312 
+Total liabilities 472 
+Net assets acquired 8,969 
+Approximately $21million of the goodwill is deductible for tax purposes. The Company believes the
+goodwill reflects its expectations of synergistic revenue opportunities from the acquisition and the value of the acquired workforce. Intangible assets are amortized according to the expected cash flows to be received. The following are the identifiable intangible assets acquired and their respective weighted average lives dollars in
+thousands:  AssignedValue UsefulLifeinyears Customer relationships 3,605 75 Research content 1,080 15 Backlog 130 10 
+4,815 
+Strategic Oxygen On December1, 2009, Forrester acquired the Strategic Oxygen business to further support the Companys role-based strategy. The total purchase price was approximately $73million, of which
+approximately $46million was paid on the acquisition date, $05million was paid in 2010 and $04million was paid in June 2011. The remaining purchase price of $18million represented contingent purchase price valued as of
+December1, 2009, which was subject to adjustment based on the achievement of certain financial metrics related to the acquired business. Of the $18million contingent purchase price, $02million was paid in December 2009
+F-14 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+and $12million was paid in February 2010 as full consideration. The Company recorded a credit of approximately $05million within general and administrative expense during 2010 as a
+result of a reduction in the estimated amount of contingent purchase price from December31, 2009 to the final calculation date. The results of Strategic Oxygen, which were not material to the consolidated financial statements, have been
+included in Forresters consolidated financial statements since December1, 2009 in the Technology Industry Client Group segment. Pro forma financial information has not been provided as it is not material to the consolidated results of
+operations. An agreement existed between an employee of Strategic Oxygen, who became an employee of Forrester upon the closing of the
+acquisition, and the seller of Strategic Oxygen that provided for an allocation of a portion of the contingent consideration from the seller to the employee. The contingent consideration was earned by the seller based upon the financial performance
+of Strategic Oxygen for a short period of time subsequent to the acquisition. Forrester was not a party to this agreement; however, this payment in the amount of $02million paid to Forresters employee by the seller is considered to have
+resulted in services that benefited Forrester, and therefore the payment was required to be recorded as a non-cash compensation expense, within general and administrative expense, by Forrester and as a capital contribution to Forrester by the seller
+in 2010. Forrester Middle East FZ-LLC On January22, 2009, Forrester acquired all of the outstanding share capital of Forrester Middle East FZ-LLC FME, a Dubai, UAE based reseller of Forresters products that also offered
+consulting services to local customers, to expand the Companys direct geographical presence in the area. The total purchase price was approximately $11million of which approximately $06million was paid on the acquisition date 02million was paid in 2009 and $03million was contingent upon the acquired company meeting certain financial metrics, which were not met and accordingly the final $03million was not required to be paid by Forrester. The Company
+recorded a credit of $03million within general and administrative expense during 2009 as a result of the reduction in the contingent purchase price. The results of FMEs operations, which were not material to the consolidated financial
+statements, have been included in Forresters consolidated financial statements since January22, 2009, with the revenue included within the client group segment to which it relates. Pro forma financial information has not been provided as
+it is not material to the consolidated results of operations. A summary of the purchase price allocation for Strategic Oxygen
+and FME is as follows in thousands:  Assets Accounts receivable 1,972 Prepaid expenses 33 Property and equipment 26 Goodwill 1,409 Intangible assets 7,261 
+Total assets 10,701 
+Liabilities Accounts payable 387 Accrued expenses 1,471 Deferred revenue 450 
+Total liabilities 2,308 
+Net assets acquired 8,393 
+F-15 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Approximately $09million of the goodwill is deductible for tax purposes. The
+Company believes the goodwill reflects its expectations of synergistic revenue opportunities from the acquisitions. Intangible
+assets are amortized according to the expected cash flows to be received. The following are the identifiable intangible assets acquired and their respective weighted average lives dollars in thousands: AssignedValue UsefulLifeinyears Customer relationships 2,958 10 Technology 1,507 7 Research content 2,500 1 Trademarks and other 296 1 
+7,261 
+3
+Goodwill and Other Intangible Assets 
+A summary of the goodwill by segment and the changes in the carrying amount of goodwill for the Business Technology
+Client Group BT, Technology Industry Client Group TI, Marketing and Strategy Client Group MS and Events segments is as follows in thousands: BT TI MS Events Total Balance, December31, 2009 22,324 24,782 19,292 1,916 68,314 Translation adjustments 116 129 101 10 356 
+Balance, December31, 2010 22,208 24,653 19,191 1,906 67,958 Acquisition 3,695 3,695 Translation adjustments 36 40 31 3 110 
+Balance, December31, 2011 22,172 28,308 19,160 1,903 71,543 
+As of December31, 2011, the Company had no accumulated goodwill impairment losses. 
+A summary of Forresters intangible assets is as follows in thousands: December31, 2011 Gross Net Carrying Accumulated Carrying Amount Amortization Amount Amortizable intangible assets Customer relationships 33,379 24,925 8,454 Research content 6,929 6,209 720 Technology 1,507 442 1,065 Trademarks 876 876 Other 328 250 78 
+Total 43,019 32,702 10,317 
+F-16 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+December31, 2010 Gross Net Carrying Accumulated Carrying Amount Amortization Amount Amortizable intangible assets Customer relationships 30,478 23,670 6,808 Research content 6,060 5,727 333 Technology 1,507 229 1,278 Trademarks 876 876 Other 223 155 68 
+Total 39,144 30,657 8,487 
+Amortization expense related to intangible assets was approximately $26million, $36million
+and $23million during the years ended December31, 2011, 2010 and 2009, respectively. Estimated amortization expense related to intangible assets that will continue to be amortized is as follows in thousands:  Year ending December31, 2012 2,284 Year ending December31, 2013 1,558 Year ending December31, 2014 1,463 Year ending December31, 2015 1,383 Year ending December31, 2016 1,287 Thereafter 2,342 
+Total 10,317 
+4
+Marketable Investments 
+The following table summarizes the Companys marketable investments in thousands: Gross Gross Amortized Unrealized Unrealized Market Cost Gains Losses Value December31, 2011 Available-for-sale securities State and municipal obligations 9,485 9 12 9,482 Federal agency and corporate obligations 127,717 127 335 127,509 
+Total short-term available-for-sale securities 137,202 136 347 136,991 ARS, long-term 11,000 1,435 9,565 
+Total available-for-sale securities 148,202 136 1,782 146,556 
+F-17 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Gross Gross Amortized Unrealized Unrealized Market Cost Gains Losses Value December31, 2010 Available-for-sale securities State and municipal obligations 12,011 23 25 12,009 Federal agency and corporate obligations 107,669 483 171 107,981 
+Total short-term available-for-sale securities 119,680 506 196 119,990 ARS, long-term 11,000 1,883 9,117 
+Total available-for-sale securities 130,680 506 2,079 129,107 
+The following table summarizes the maturity periods of the marketable securities in the Companys
+portfolio as of December31, 2011. In February 2008, certain ARS that Forrester held experienced failed auctions that limited the liquidity of these securities. These auction failures have continued throughout 2011 and based on current market
+conditions, it is likely that auction failures will continue. The following table reflects the ARS at their contractual maturity dates of between 2024 and 2034 in thousands. FY 2012 FY2013 FY2014 Thereafter Total Federal agency and corporate obligations 57,982 54,665 14,862 127,509 State and municipal obligations 5,664 1,055 2,763 9,482 ARS 9,565 9,565 
+Total short and long-term 63,646 55,720 17,625 9,565 146,556 
+The following table shows the gross unrealized losses and market value of Forresters
+available-for-sale securities with unrealized losses that are not deemed to be other-than-temporary, aggregated by investment category and length of time that individual securities have been in a continuous unrealized loss position in thousands:
+As of December31, 2011 Less Than 12 Months 12 Months or Greater Market Unrealized Market Unrealized Value Losses Value Losses State and municipal bonds 2,763 9 1,107 3 Federal agency and corporate obligations 68,962 313 2,043 22 ARS 9,565 1,435 
+Total 71,725 322 12,715 1,460 
+As of December31, 2010 Less Than 12 Months 12 Months or Greater Market Unrealized Market Unrealized Value Losses Value Losses State and municipal bonds 3,258 25 Federal agency and corporate obligations 45,928 171 ARS 9,117 1,883 
+Total 49,186 196 9,117 1,883 
+F-18 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+The Company holds ARS with a fair value of $96million and a par value of
+$110million at December31, 2011. These ARS will continue to be held as available-for-sale and are classified as a long-term asset in the Consolidated Balance Sheet. The Company intends to retain its investment in these ARS until the
+earlier of an anticipated recovery in market value or maturity and as a result has not recorded an other-than-temporary loss on these ARS. Realized gains or losses on sales of the Companys federal obligations, state and municipal bonds and corporate bonds were not significant for the years ended December31, 2011, 2010 or 2009.
+The following table represents the Companys fair value hierarchy for its financial assets cash equivalents and
+marketable investments measured at fair value on a recurring basis in thousands:  As of December31, 2011 Level 1 Level 2 Level 3 Total Money market funds 1 5,786 5,786 State and municipal obligations 9,482 9,482 Federal agency and corporate obligations 2 128,509 128,509 ARS 9,565 9,565 
+Total 5,786 137,991 9,565 153,342 
+As of December31, 2010 Level 1 Level 2 Level 3 Total Money market funds 1 25,222 25,222 State and municipal obligations 12,009 12,009 Federal agency and corporate obligations 107,981 107,981 ARS 9,117 9,117 
+Total 25,222 119,990 9,117 154,329 
+1
+Included in cash and cash equivalents. 2
+$10 million included in cash and cash equivalents. Level 2 assets consist of the Companys entire portfolio of federal, state, municipal and corporate bonds, excluding those municipal bonds described below with an auction reset feature. Level 2
+assets have been initially valued at the transaction price and subsequently valued, at the end of each reporting period, typically utilizing third party pricing services or other market observable data. The pricing services utilize industry standard
+valuation methods, including both income and market based approaches and observable market inputs to determine value. These observable market inputs include reportable trades, benchmark yields, credit spreads, broker/dealer quotes, bids, offers,
+current spot rates and other industry and economic events. Level 3 assets at December31, 2011 and 2010 consist entirely
+of municipal bonds with an auction reset feature ARS. Prior to 2008, the fair value of the ARS investments approximated par value due to the frequent resets through the auction process. While the Company continues to earn interest on its ARS
+investments at the contractual rate, these investments trade infrequently and therefore do not have a readily determinable market value. Accordingly, the estimated fair value of the ARS no longer approximates par value. At December31, 2011,
+the Company held ARS with one investment advisor. The Company values the ARS using a discounted cash flow model that includes estimates of interest rates, timing and amount of cash flows, credit and liquidity premiums and expected holding periods of
+the securities, which is considered a Level 3 valuation. The valuation resulted in an unrealized loss recorded in other comprehensive loss in the Consolidated Balance Sheets of $14 million at December31, 2011 and $19million at
+December31, 2010. The Company believes that the loss is 
+F-19 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+temporary due to the strong underlying credit rating of the securities and the fact that the Company does not intend to sell the securities and is not likely to be required to sell the
+securities. The assumptions used in valuing the ARS are volatile and subject to change as the underlying sources of these assumptions and market conditions change. Through July1, 2010, the Company also held ARS with UBS AG UBS. Historically, UBS provided a valuation utilizing Level 3 inputs for the ARS investments. UBS utilized a discounted cash flow
+approach to arrive at its valuation, which was corroborated by a separate and comparable discounted cash flow analysis prepared by the Company. The assumptions used in preparing the discounted cash flow model included estimates, based on data
+available at each balance sheet date, of interest rates, timing and amount of cash flows, credit and liquidity premiums, and expected holding periods of the ARS. In November2008, the Company accepted an offer the Right from UBS
+entitling the Company to sell at par value ARS originally purchased from UBS at any time during a two-year period from June30, 2010 through July2, 2012. The Company valued the Right as an asset using a discounted cash flow approach
+including estimates of interest rates and timing and amount of cash flows, adjusted for any bearer risk associated with UBSs financial ability to repurchase the ARS beginning June30, 2010, based on data available at each balance sheet
+date. The combined fair value of the Right and the UBS ARS historically equaled the par value of the UBS ARS. The remaining $54million of par value UBS ARS at June30, 2010 were sold to UBS at par under the Right on July1, 2010.
+The following table provides a summary of changes in fair value of the Companys Level3 financial assets for the
+years ended December31, 2011 and 2010 in thousands:  UBS Right ARS Balance at December31, 2009 2,100 39,525 Sales 31,675 Total gains losses Included in other comprehensive income 833 Included in earnings 2,100 2,100 
+Balance at December31, 2010 9,117 
+Sales Total gains losses Included in other comprehensive loss 448 
+Balance at December31, 2011 9,565 
+5
+Non-Marketable Investments 
+At December31, 2011 and 2010, the carrying value of the Companys non-marketable investments, which were
+composed primarily of interests in technology-related private equity funds, were $79million and $74million, respectively, and are included in other assets in the Consolidated Balance Sheets. 
+One of the Companys investments, with a book value of $15million and $17million at December31, 2011 and 2010,
+respectively, is being accounted for using the cost method and, accordingly, is valued at cost unless an other-than-temporary impairment in its value occurs. The other investments are being accounted for using the equity method as the investments
+are limited partnerships and Forrester has an ownership interest in excess of 5% and, accordingly, Forrester records its share of the investees operating results each period. During the years ended December31, 2011, 2010 and 2009, the
+Company recorded gains losses from its non-marketable investments of approximately $10million, $23million and $10million, respectively, which 
+F-20 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+are included in gains losses on investments, net in the Consolidated Statements of Income. During the years ended December31, 2011, 2010 and 2009, gross distributions of
+$05million, $05million and $01million, respectively, were received from the funds. In June 2010, the
+Company extended the expiration date of a cash bonus plan, originally adopted in 2000, that would pay a bonus, after the return of invested capital from certain of the Companys non-marketable investments, to certain key employees. To date, no
+bonuses have been paid under the plan and no amounts are accrued as of December31, 2011 as payments under the plan were not considered probable. The plan will now automatically expire on June30, 2013, subject to earlier expiration as
+provided in the plan in the event that prior to such date there are less than 10 participants in the plan or all of the Companys invested capital as defined in the plan has been returned to the Company. 6
+Income Taxes 
+Income from continuing operations before income tax provision for the years ended December31, 2011, 2010 and 2009
+consists of the following in thousands:  2011 2010 2009 Domestic 35,371 33,964 33,094 Foreign 3,274 336 641 
+Total 38,645 34,300 33,735 
+The components of the income tax provision for the years ended December31, 2011, 2010 and 2009 are
+as follows in thousands:  2011 2010 2009 Current Federal 1,083 8,722 8,853 State 738 1,571 3,488 Foreign 843 1,144 585 
+Total current 498 11,437 12,926 
+Deferred Federal 13,485 2,301 1,774 State 1,186 1,025 346 Foreign 466 970 515 
+Total deferred 15,137 2,356 1,943 
+Income tax provision 15,635 13,793 14,869 
+F-21 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+A reconciliation of the federal statutory rate to Forresters effective tax rate
+for the years ended December31, 2011, 2010 and 2009 is as follows:  2011 2010 2009 Income tax provision at federal statutory rate 350 350 350 Increase decrease in tax resulting from State tax provision, net of federal benefit 31 50 61 Non-deductible expenses 16 22 07 Tax-exempt interest income 04 13 30 Stock option compensation deduction 06 02 11 Change in valuation allowance 11 34 06 Exchange rate gain loss 05 11 18 Foreign tax rate differential 10 Other, net 10 36 30 
+Effective tax rate 405 402 441 
+The components of deferred income taxes as of December31, 2011 and 2010 are as follows in
+thousands:  2011 2010 Non-deductible reserves and accruals 3,125 5,087 Stock compensation 5,146 5,106 Depreciation and amortization 376 Net operating loss and other carryforwards 7,526 8,962 
+Gross deferred tax asset 15,797 19,531 Less valuation allowance 3,077 2,676 
+Sub-total 12,720 16,855 Depreciation and amortization 7,996 Goodwill amortization 5,518 5,528 Other liabilities 3,347 Deferred commissions 4,775 4,987 
+Net deferred tax asset liability 8,916 6,340 
+Current net deferred tax assets and long-term net deferred tax assets were $0 and $01 million as of
+December31, 2011 and $41 million and $78 million as of December31, 2010, respectively, and are included in prepaid and other current assets and other assets, respectively, in the Consolidated Balance Sheets. Current net deferred tax
+liabilities and long-term net deferred tax liabilities were $04 million and $86 million as of December31, 2011 and $0 and $55 million as of December31, 2010, respectively, and are included in accrued expenses and other current
+liabilities and non-current liabilities, respectively, in the Consolidated Balance Sheets. The Company considers all available
+evidence, both positive and negative, to determine whether, based on the weight of that evidence, a valuation allowance is needed for some portion or all of a net deferred income tax asset. Judgment is required in considering the relative impact of
+negative and positive evidence. In arriving at these judgments, the weight given to the potential effect of negative and positive evidence is commensurate with the extent to which it can be objectively verified. Although realization is not assured,
+based upon the Companys historical taxable income and projections of the Companys future taxable income over the periods during which 
+F-22 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+the deferred tax assets are deductible and the carryforwards expire, management believes it is more likely than not that the Company will realize the benefits of these deductible differences, net
+of the existing valuation allowances, as discussed below. As of December31, 2011 and 2010, the Company maintained a
+valuation allowance of approximately $31million and $27million, respectively, primarily relating to foreign net operating loss carryforwards from an acquisition and U.S.capital losses. 
+As of December31, 2011, the Company had federal net operating loss carryforwards of approximately $128million obtained from
+acquired businesses. These carryforwards are limited pursuant to section382 of the Internal Revenue Code due to changes in ownership as a result of the acquisitions. If unused, these carryforwards would expire on various dates from 2019
+through 2028. The Company also has foreign net operating loss carryforwards of approximately $316million, which can be
+carried forward indefinitely. Approximately $58million of the foreign net operating loss carryforwards relate to a prior acquisition, the utilization of which is subject to limitation under the tax law of the United Kingdom. The Company has a
+German net operating loss against which it had provided a full valuation allowance in prior years. During 2010 the Company reconsidered its position and determined that the ability of the Company to benefit from the net operating loss did not meet
+the more likely than not standard. Accordingly, the deferred tax asset and corresponding valuation allowance for the German net operating loss have been removed from the components of deferred taxes with no effect to the Companys overall tax
+provision. As of December31, 2011, the Company had U.S.federal and state capital loss carryforwards of
+$30million, of which $10million expires in 2012, $11million expires in 2014, and $09 million expires in 2016. The following table provides a summary of the changes in the deferred tax valuation allowance for the years ended December31, 2011, 2010 and 2009 in thousands: 2011 2010 2009 Deferred tax valuation allowance at January 1 2,676 11,672 10,922 Additions 508 440 1,532 Deductions 85 9,405 1,261 Translation adjustments 22 31 479 
+Deferred tax valuation allowance at December 31 3,077 2,676 11,672 
+During the years ended December31, 2011, 2010 and 2009, the Company recognized approximately
+$05million, $18 million and $03million, respectively, of net tax benefits deficiencies from tax deductions in excess of or less than book deductions resulting from employee stock option exercises. The net tax benefits
+deficiencies were recorded as an increase decrease to additional paid-in-capital. Excess tax benefits from share-based payments are recognized in the year that the deduction reduces the amount of cash payable for taxes. 
+Undistributed earnings of the Companys foreign subsidiaries amounted to approximately $14 million as of December31, 2011. The
+Company has not provided any additional federal or state income taxes or foreign withholding taxes on the undistributed earnings as such earnings have been indefinitely reinvested in the business. Due to the various methods by which such earnings
+could be repatriated in the future, the amount of taxes attributable to the undistributed earnings is not practicably determinable. The Company utilizes a two step process for the measurement of uncertain tax positions that have been taken or are expected to be taken on a tax return. The first step is a determination of whether the
+tax position 
+F-23 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+should be recognized in the financial statements. The second step determines the measurement of the tax position. A reconciliation of the beginning and ending amount of unrecognized tax benefits
+is summarized as follows for the years ended December31, 2011, 2010 and 2009 in thousands:  2011 2010 2009 Unrecognized tax benefits at January 1 1,222 919 1,222 Additions for tax positions of prior years 107 410 Reductions for tax positions of prior years 19 Additions for tax positions of current year 17 77 Settlements Lapse of statute of limitations 77 184 284 
+Unrecognized tax benefits at December 31 1,269 1,222 919 
+As of December31, 2011, the total amount of unrecognized tax benefits totaled approximately $13
+million, all of which if recognized, would decrease our effective tax rate in a future period. Based on the potential outcome of the Companys global tax examinations and the expiration of the statute of limitations for specific jurisdictions,
+it is reasonably possible that the unrecognized tax benefits related to intercompany activity will decrease within the next 12 months. The associated net tax benefits, which would favorably impact the effective tax rate, are estimated to be in the
+range of $0 to $04 million. The Company recognizes interest and penalties related to uncertain tax positions in income tax
+expense and such amounts were not material in the years ended December31, 2011, 2010 and 2009. At December31, 2011 and 2010, the Company had approximately $02 million of accrued interest and penalties related to uncertain tax positions.
+The Company files income tax returns in the U.S.and in foreign jurisdictions. Generally, the Company is no longer
+subject to U.S., state, local and foreign income tax examinations by tax authorities in its major jurisdictions for years before 2005, except to the extent of net operating loss and tax credit carryforwards from those years. Major taxing
+jurisdictions include the U.S., the Netherlands and the United Kingdom.  7
+Commitments 
+As of December31, 2011, Forrester had future contractual obligations as follows for operating leases in
+thousands:  2012 9,554 2013 9,511 2014 9,139 2015 8,954 2016 7,442 Thereafter 70,738 
+Total minimum lease payments 115,338 
+Aggregate rent expenses, net of sublease income, were approximately $153million, $106million
+and $100million for the years ended December31, 2011, 2010, and 2009, respectively. 
+F-24 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued  8
+Stockholders Equity 
+Preferred Stock Forrester has authorized 500,000shares of $01par value preferred stock. The Board of Directors has full authority to issue this stock and to fix the voting powers, preferences, rights,
+qualifications, limitations, or restrictions thereof, including dividend rights, conversion rights, redemption privileges and liquidation preferences and the number of shares constituting any series or designation of such series. 
+Treasury Stock Forresters Board of Directors has authorized an aggregate $260million, including an additional $60million approved in October 2010, to purchase common stock under the stock repurchase
+program. The shares repurchased may be used, among other things, in connection with Forresters equity incentive and purchase plans. As of December31, 2011, Forrester had repurchased approximately 82million shares of common stock
+at an aggregate cost of $1810million. Dividends 
+The Company paid a special cash dividend in December 2010 of $684million, which represented a payment of $300 per share to common
+stockholders. In February 2012 the Companys Board of Directors declared a dividend of $014 per share payable on March21, 2012 to shareholders of record as of March7, 2012. The Company intends to begin paying regular quarterly cash
+dividends; however, the actual declaration of any such future dividends, and the establishment of the per share amount and payment dates for any such future dividends are subject to the discretion of the Board of Directors. 
+Equity Plans 
+Forrester maintains the following four equity incentive plans: the 2006 Equity Incentive Plan the 2006Plan, the Amended and Restated
+1996 Equity Incentive Plan the 1996 Plan, the 2006 Stock Option Plan for Directors, as amended the 2006Directors Plan and the 1996 Stock Option Plan for Non-Employee Directors the
+1996Directors Plan. Upon approval of the 2006 Plan and the 2006Directors Plan by stockholders, no future awards under the 1996 Plan and 1996Directors Plan could be granted or issued. 
+The 2006 Plan provides for the issuance of stock-based awards, including incentive stock options ISOs, non-qualified stock
+options NSOs, and restricted stock units RSUs to purchase up to 4,350,000shares authorized in the 2006 Plan plus up to 2,500,000shares returned from the 1996 Plan. Under the terms of the 2006 Plan, ISOs may
+not be granted at less than fair market value on the date of grant and in no event less than par value. Options generally vest annually over two to four years and expire after 10years and RSUs generally vest over three to four years, in each
+case sometimes subject to performance conditions in addition to the passage of time. Options and RSUs granted under the 2006 Plan immediately vest upon certain events, as described in the 2006 Plan. As of December31, 2011, approximately
+27million shares were available for future grant of awards under the 2006 Plan. The 1996 Plan provided for the issuance
+of stock-based awards, including ISOs and NSOs, to purchase up to 13,500,000shares of common stock. Under the terms of the 1996 Plan, ISOs were not granted at less than fair market value on the date of grant and in no event less than par
+value. ISO grants to holders of 10% of the combined voting power of all classes of Forrester stock were required to be granted at an exercise price not less than 110% of the fair market value at the date of grant. Options generally vested ratably
+over two to four years and expire after 10years and were sometimes subject to performance conditions in addition to the passage of time. At December31, 2011, approximately 03million options remain outstanding and are fully vested
+under the 1996 Plan. 
+F-25 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+The 2006Directors Plan provides for the issuance of options to purchase up
+to 450,000shares of common stock. Under the 2006Directors Plan, each non-employee director shall be awarded an option to purchase 6,000shares of common stock, at an exercise price equal to the fair market value of the common
+stock upon his or her election as a director. These options vest in four equal annual installments, with the first installment vested on the date of grant. In addition, prior to the 2010 annual stockholder meeting, each non-employee director was
+entitled to receive an option to purchase 12,500shares of common stock, at an exercise price equal to the fair market value of the common stock on the grant date, each year immediately following Forresters annual stockholders
+meeting, and commencing with the 2010 annual stockholders meeting, non-employee directors are entitled to receive an option to purchase 12,000shares immediately following the meeting. These options vest in four equal installments on the first,
+second, third, and fourth anniversaries of the date of grant. Options granted under the 2006Directors Plan immediately vest upon certain events, as described in the 2006Directors Plan. As of December31, 2011,
+approximately 01 millionshares were available for future grant of awards under the 2006Directors Plan. Options
+issued under the 1996Directors Plan were granted at an exercise price equal to the fair market value of the common stock at the time of grant, each year immediately following Forresters annual stockholders meeting. These
+options vested in four equal installments on the first, second, third, and fourth anniversaries of the date of grant. At December31, 2011, approximately 01million options remain outstanding and are fully vested under the
+1996Directors Plan. Stock Options Stock option activity for the year ended December31, 2011 is presented below in thousands, except per share data and contractual term: NumberofShares Weighted-AverageExercisePrice PerShare Weighted  inyears AggregateIntrinsicValue Outstanding at December31, 2010 2,215 2600 Granted 372 3444 Exercised 354 2460 Forfeited 103 3089 
+Outstanding at December31, 2011 2,130 2746 647 14,229 
+Exercisable at December31, 2011 1,281 2521 511 11,186 
+Vested and expected to vest at December31, 2011 2,029 2724 636 13,974 
+The total intrinsic value of options exercised during 2011, 2010 and 2009 was $41million 116million and $07million, respectively. On April2, 2007, the Company issued to its employees options to
+purchase 293,600shares of common stock. These options were subject to performance criteria and would vest only if certain operating margin targets related to full year 2007 performance were achieved. The vesting of these options was over 24 or
+36months, or the options could be forfeited, depending on the actual operating margin achieved for 2007. During 2007, operating performance was expected to result in the options vesting over 36months and expense was recognized assuming
+that vesting period. The actual operating margin for 2007 resulted in the options vesting over 36months and the expense related to these options was recognized on a graded basis. 
+F-26 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+On April1, 2008, the Company issued to its employees options to purchase
+370,000shares of common stock. These options were subject to performance criteria and would vest only if certain operating profit targets related to full year 2008 performance were achieved. The vesting of these options was over 24, 36 or
+48months, or the options could be forfeited, depending on the actual operating profit achieved for 2008. During 2008, operating performance was expected to result in the options vesting over 48months and expense was recognized assuming
+that vesting period. The actual operating profit targets for 2008 resulted in accelerated vesting of the options over 24months and the compensation expense associated with the accelerated vesting was recognized on a prospective basis through
+the remainder of the vesting period. The expense related to these options was recognized on a graded basis. Restricted
+Stock Units Restricted stock units RSUs represent the right to receive one share of Forrester common stock
+when the restrictions lapse and the vesting conditions are met, and are valued on the date of grant based upon the value of the Companys stock on the date of grant. In 2009, the Company issued to its employees 95,496 performance-based RSUs. The vesting of the RSUs is subject to performance criteria and will vest at 100% or 40% on April1, 2012, or the RSUs could
+be forfeited, depending on whether specified revenue growth and certain operating margin targets related to full year 2011 performance are achieved. Based on 2011 financial performance, 40% of the then outstanding RSUs will vest on April1,
+2012. Compensation expense in 2010 and 2009 was recognized based on an estimate of 100% vesting of the RSUs and in 2011 the Company modified it assessment of vesting to the 40% level. 
+In 2010, the Company issued to its employees approximately 63,000 performance-based RSUs. The vesting of the RSUs is subject to
+performance criteria and will vest at 100% or 40% on April1, 2013, or the RSUs could be forfeited, depending on whether specified revenue growth and certain operating margin targets related to full year 2012 performance are achieved.
+Compensation expense in 2010 was recognized based on an estimate of 100% vesting of the RSUs and in 2011 the Company modified its assessment of vesting to a zero percent level. In addition, Forrester issued approximately 42,000 RSUs during 2010 that
+generally vest equally over a four-year period. In 2011, the Company issued to its employees approximately 71,000
+performance-based RSUs. The vesting of the RSUs is subject to performance criteria and will vest at 100% or 40% on April1, 2014, or the RSUs could be forfeited, depending on whether specified revenue growth and certain operating margin targets
+related to full year 2013 performance are achieved. Compensation expense was not recognized in 2011 based on an estimate of zero percent vesting of the RSUs. In addition, Forrester issued approximately 48,000 RSUs during 2011 that generally vest
+equally over a four-year period. RSU activity for the year ended December31, 2011 is presented below in thousands,
+except per share data:  Weighted Average Numberof GrantDate Shares FairValue Unvested at December31, 2010 192 2764 Granted 119 3315 Vested or settled 9 2986 Forfeited 35 2840 
+Unvested at December31, 2011 267 2993 
+F-27 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Employee Stock Purchase Plan 
+The 1996 Employee Stock Purchase Plan the Stock Purchase Plan, as amended and restated in 2009, provides for the issuance of
+up to 15million shares of common stock and as of December31, 2011 approximately 04million shares remain available for issuance. With certain limited exceptions, all employees of Forrester who have completed six months or more of
+continuous service in the employ of Forrester and whose customary employment is more than 20hoursper week, including officers and directors who are employees, are eligible to participate in the Stock Purchase Plan. Purchase periods under
+the Stock Purchase Plan are generally six months in length and commence on each successive January1 and July1. During each purchase period the maximum number of shares of common stock that may be purchased by an employee is limited to
+the number of shares equal to $12,500 divided by the fair market value of a share of common stock on the first day of the purchase period. An employee may elect to have up to 10% deducted from his or her compensation for the purpose of purchasing
+shares under the Stock Purchase Plan. The price at which the employees shares are purchased is the lower of: a85% of the closing price of the common stock on the day that the purchase period commences, or b85% of the closing
+price of the common stock on the day that the purchase period terminates. In October 2011, the Stock Purchase Plan was amended effective for purchase periods commencing in 2012 and beyond to provide for the following: 1 modification of the purchase
+periods such that beginning in 2012, purchase periods will commence on each successive March1 and September1, 2 institution of a one-year holding period for all shares purchased under the Stock Purchase Plan, and 3 elimination of the
+six-month continuous service period eligibility requirement. Shares purchased by employees under the Stock Purchase Plan are as follows in thousands, except per share data: Shares Purchase Purchase Period Ended
+Purchased Price June30, 2011 51 2802 December31, 2011 50 2808 June30, 2010 45 2267 December31, 2010 44 2644 June30, 2009 43 2087 December31, 2009 38 2146
+9
+Employee Pension Plans 
+Forrester sponsors several defined contribution plans for eligible employees. Generally, the defined contribution plans
+have funding provisions which, in certain situations, require contributions based upon formulas relating to employee wages or the level of elective participant contributions, as well as allow for additional discretionary contributions. Further,
+certain plans contain vesting provisions. Forresters contributions to these plans totaled approximately $30million, $28million and $20million for the years ended December31, 2011, 2010 and 2009, respectively.
+10Reorganization
+2009 Reorganization During the first quarter of 2009, the Company announced a reduction of its workforce by approximately 50 positions in response to conditions and demands of the market and a slower economy. Additionally,
+Forrester identified certain leased office space that was no longer required to support the ongoing business. As a result, Forrester recorded a reorganization charge of approximately $31million in the three months ended March31, 2009.
+Approximately 44% of the terminated employees were members of the sales force, while 38% and 18% held research and administrative roles, respectively. In addition, during the fourth quarter of 2009, Forrester
+F-28 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+incurred additional reorganization costs of $23million related to facility consolidations primarily in Cambridge, Massachusetts. Of the $23million fourth quarter 2009 charge,
+approximately $14million related to future lease payments through September 2011 and $09million related to the write-off of leasehold improvements. 2012 Reorganization In the first quarter of 2012 the Company realigned its
+sales force to simplify the selling process to customers and to increase the productivity of the sales organization. The Company incurred approximately $04 million of severance costs in the fourth quarter of 2011 for three sales employees located
+outside of the U.S. based on statutory termination benefits in their country of employment and the fact that termination was considered probable at December31, 2011. The Company anticipates incurring an additional $13 million to $15 million
+of severance and related costs in 2012 related to the sales reorganization and other cost reduction initiatives. The activity
+related to the 2009 and 2012 reorganizations during the years ended December31, 2011, 2010 and 2009 is as follows in thousands:  Workforce Facility Reduction Consolidation Total Accrual at December31, 2009 98 1,587 1,685 Cash payments 98 1,141 1,239 
+Accrual at December31, 2010 446 446 Cash payments 446 446 Additions 375 375 
+Accrual at December31, 2011 375 375 
+11Operating Segment and Enterprise Wide Reporting 
+Forrester is organized into three client groups with each client group responsible for writing relevant research for
+the roles within the client organization on a worldwide basis. The three client groups are: Business Technology BT formerly Information Technology, Technology Industry TI, and Marketing and Strategy
+MS. All of the client groups generate revenues through sales of research and advisory and other service offerings targeted at specific roles within their targeted clients. Each of the client groups consists of research personnel
+focused primarily on issues relevant to particular roles and to the day-to-day responsibilities of persons within the roles. Amounts included in the Events segment relate to the operations of the events production department. Revenue
+reported in the Events segment consists primarily of sponsorships and event tickets to Forrester events. Forrester evaluates
+reportable segment performance and allocates resources based on direct margin. Direct margin, as presented below, is defined as operating income excluding sales expenses, certain marketing and fulfillment expenses, stock-based compensation expense,
+general and administrative expenses, depreciation expense, amortization of intangible assets and reorganization costs. In the first quarter of 2010, the Company modified its calculation of segment direct margin to exclude all sales expenses.
+Accordingly, the 2009 amounts have been reclassified to conform to the current presentation. Forrester does not identify or
+allocate assets, including capital expenditures, by operating segment. Accordingly, assets are not being reported by segment because the information is not available by segment and is not reviewed in the evaluation of performance or making decisions
+in the allocation of resources. 
+F-29 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+The following tables present information about reportable segments in thousands.
+BT TI MS Events Consolidated Year ended December31, 2011 Revenue 99,850 84,984 85,609 13,173 283,616 Direct margin 67,139 60,587 52,769 5,765 186,260 Selling, marketing, administrative and other expenses 146,701 Amortization of intangible assets 2,562 
+Income from operations 36,997 
+BT TI MS Events Consolidated Year ended December31, 2010 Revenue 93,414 74,799 71,313 11,200 250,726 Direct margin 64,854 54,859 43,264 4,753 167,730 Selling, marketing, administrative and other expenses 133,360 Amortization of intangible assets 3,620 
+Income from operations 30,750 
+BT TI MS Events Consolidated Year ended December31, 2009 Revenue 92,950 66,848 63,910 9,644 233,352 Direct margin 65,073 49,163 36,089 3,183 153,508 Selling, marketing, administrative and other expenses 113,357 Amortization of intangible assets 2,290 Reorganization costs 5,441 
+Income from operations 32,420 
+Net long-lived tangible assets by location as of December31, 2011 and 2010 are as follows in
+thousands:  2011 2010 United States 46,928 15,903 United Kingdom 2,997 3,423 Europe excluding United Kingdom 521 506 Other 2 6 
+50,448 19,838 
+F-30 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Net revenues by geographic destination and as a percentage of total revenues for the
+years ended December31, 2011, 2010, and 2009 are as follows in thousands:  2011 2010 2009 United States 198,456 180,065 164,031 Europe excluding United Kingdom 37,205 31,188 31,011 United Kingdom 17,870 15,285 15,200 Canada 16,056 13,724 13,706 Other 14,029 10,464 9,404 
+283,616 250,726 233,352 
+2011 2010 2009 United States 70 72 70 Europe excluding United Kingdom 13 12 13 United Kingdom 6 6 7 Canada 6 6 6 Other 5 4 4 
+100 100 100 
+12Certain Balance Sheet Accounts 
+Property and Equipment: Property and equipment as of December31, 2011 and 2010 is recorded at cost less accumulated depreciation and consist of the following in thousands: 2011 2010 Computers and equipment 19,965 10,815 Computer software 19,685 13,433 Furniture and fixtures 8,566 4,763 Leasehold improvements 26,279 16,650 
+Total property and equipment 74,495 45,661 Less accumulated depreciation and amortization 24,047 25,823 
+50,448 19,838 
+At December31, 2011, the Company had $09million in escrow for leasehold improvements which is
+classified within prepaid and other current assets on the Consolidated Balance Sheet. At December31, 2010, the Company held $155 million in escrow for leasehold improvements of which $116million is classified as long-term restricted
+cash and $39million is classified within prepaid and other current assets on the Consolidated Balance Sheet. 
+Accrued Expenses and Other Current Liabilities: Accrued expenses and other current liabilities as of December31, 2011 and 2010 consist of the following in thousands: 2011 2010 Payroll and related benefits 16,166 21,150 Taxes 4,742 3,025 Other 9,245 12,310 
+30,153 36,485 
+F-31 Table of Contents FORRESTER RESEARCH, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Non-current Liabilities 
+Non-current liabilities as of December31, 2011 and 2010 consist of the following in thousands: 2011 2010 Deferred tax liability 8,646 5,528 Deferred rent 6,671 488 Other 2,263 904 
+17,580 6,920 
+Allowance for Doubtful Accounts: 
+A roll-forward of the allowance for doubtful accounts as of and for the years ended December31, 2011, 2010, and 2009 is as follows
+in thousands:  2011 2010 2009 Balance, beginning of year 407 406 485 Provision for doubtful accounts 233 212 490 Write-offs 314 211 569 
+Balance, end of year 326 407 406 
+13Summary Selected Quarterly Financial Data unaudited 
+The following is a summary of selected unaudited consolidated quarterly financial data for the years ended
+December31, 2011 and 2010 in thousands, except per share data:  Three Months Ended March31 June30 September30 December31 2011 2011 2011 2011 Total revenues 65,742 73,450 69,774 74,650 Income from operations 4,198 9,616 9,749 13,434 Net income 2,911 5,470 5,732 8,897 Basic income per common share 013 024 025 039 Diluted income per common share 013 024 025 038
+Three Months Ended March31 June30 September30 December31 2010 2010 2010 2010 Total revenues 59,180 64,653 59,777 67,116 Income from operations 7,738 10,129 5,813 7,070 Net income 5,772 6,902 3,704 4,129 Basic income per common share 026 031 016 018 Diluted income per common share 025 030 016 018  F-32 Table of Contents Item1B.
+Unresolved Staff Comments We have not received written comments from the Securities and Exchange Commission that remain unresolved.  Item2.
+Controls and Procedures Evaluation of Disclosure Controls and Procedures Our management,
+with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as defined in Rule13a-15e of the Securities Exchange Act of 1934, as amended the
+Exchange Act as of the end of the period covered by this report. Based on the evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of
+December31, 2011. Managements Report on Internal Control over Financial Reporting 
+Management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in
+Rule13a-15f and 15d-15f under the Securities Exchange Act of 1934. Internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles GAAP. Internal control over financial reporting includes those policies and procedures that: 1pertain to the maintenance of records that, in
+reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; 2provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in
+accordance with GAAP, and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and 3provide reasonable assurance regarding prevention or timely
+detection of unauthorized acquisition, use, or disposition of the Companys assets that could have a material effect on the financial statements. Because of its inherent limitations, a system of internal control over financial reporting can provide only reasonable assurance and may not prevent or detect material misstatements. Further, because of
+changes in conditions, effectiveness of internal controls over financial reporting may vary over time. Management assessed the
+effectiveness of the Companys internal control over financial reporting as of December31, 2011. In making its assessment, management used the criteria set forth in Internal Control Integrated Framework issued by the Committee
+of Sponsoring Organizations COSO of the Treadway Commission. Based on this assessment, management believes that as of December31, 2011, the Companys internal control over financial reporting is effective based on those
+criteria. The effectiveness of our internal control over financial reporting as of December31, 2011 has been audited by
+PricewaterhouseCoopers LLP, our independent registered public accounting firm, as stated in their report, which appears on pageF-1 of this Annual Report on Form10-K. Changes in Internal Control Over Financial Reporting There was no change
+in our internal control over financial reporting in the quarter ending December31, 2011 that has materially affected or is reasonably likely to materially affect our internal control over financial reporting. 
+30 Table of Contents
+PARTIII 

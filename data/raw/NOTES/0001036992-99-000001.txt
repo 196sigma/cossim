@@ -1,0 +1,722 @@
+Item 8.      Financial Statements and Supplementary Data
+INDEX TO FINANCIAL STATEMENTS
+-  Independent Auditors'  17
+Balance Sheets as of December 31, 1998 and  18
+Statements of Operations for the years ended December 31, 1998, 1997 and 199619
+Statements of Comprehensive Income for the years ended December 31, 1998, 1997
+and 1996. 20
+Statements of Stockholders' Equity for the years ended December 31, 1998, 1997
+and 1996. 21
+Statements of Cash Flows for the years ended December 31, 1998, 1997 and 199622
+Notes to Financial  23              INDEPENDENT AUDITORS' REPORT
+The Board of Directors and Stockholders of
+Peapod, Inc.   We have audited the accompanying balance sheets of Peapod, Inc. as of
+December 31, 1998 and 1997, and the related  statements of operations,
+comprehensive income, stockholders' equity and cash flows for each of the years
+in the three-year period ended December 31, 1998. These financial statements are
+the responsibility of the Company management. Our responsibility is to express
+an opinion on these financial statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Peapod, Inc. as of December
+31, 1998 and 1997, and the results of its operations and its cash flows for each
+of the years in the three-year period ended December 31, 1998, in conformity
+with generally accepted accounting principles.
+/s/KPMG LLP
+Chicago, Illinois
+February 5, 1999                  PEAPOD, INC.
+BALANCE SHEETS
+December 31, 1998 and 1997
+in thousands, except share data
+1998        1997
+Assets
+Current assets:
+Cash and cash     $ 4,341      $54,079 
+Marketable     15,836       8,798 
+Receivables, net of allowance for doubtful accounts of $287 and
+$352 in 1998 and      2,516       1,195 
+Prepaid       186        444 
+Other current       974        228 
+Total current     23,853      64,744 
+Property and equipment:
+Computer equipment and      4,010       4,499 
+Service equipment and      2,147       1,053 
+Property and equipment, at      6,157       5,552 
+Accumulated     2,252      2,301
+Net property and      3,905       3,251 
+Non-current marketable     15,213        -- 
+Capitalized software development       --        998 
+Goodwill, net of accumulated amortization of $174 in 1997.      --        117 
+Total     $42,971      $69,110 
+Liabilities and Stockholders' Equity
+Current liabilities:
+Accounts     $ 3,442      $ 7,514 
+Accrued       802       1,258 
+Other accrued      2,688        926 
+Deferred      1,000       1,969 
+Current obligations under capital       590        727 
+Total current      8,522      12,394 
+Deferred       448       1,212 
+Obligations under capital lease, less current portion.      395        701 
+Total      9,365      14,307 
+Stockholders' equity:
+Preferred stock, $01 par value, authorized 5,000,000
+shares, none issued and       --        -- 
+Common stock, $01 par value, 50,000,000 shares authorized;
+17,245,828 and 16,852,557 shares issued in 1998 and 1997.      172        169 
+Additional paid-in     64,319      63,148 
+Accumulated other comprehensive income -
+Unrealized gain on available-for-sale securities             83        -- 
+Accumulated     30,060      8,495
+Treasury stock, at cost, 117,476 and 2,000 shares in 1998 and 1997.     908       19
+Total stockholders'     33,606      54,803 
+Total liabilities and stockholders' equity.    $42,971      $69,110 
+See accompanying notes to financial statements.                  PEAPOD, INC.   
+STATEMENTS OF OPERATIONS
+Years ended December 31, 1998, 1997 and 1996
+in thousands, except per share data                         1998          1997          1996
+Revenues:
+Net product sales.   $ 57,305        $ 43,487        $ 22,015 
+Member and retailer.     9,650         11,234          4,558 
+Interactive marketing.     1,460          2,222          1,069 
+850          --           -- 
+Total revenues.    69,265         56,943         27,642 
+Costs and expenses:
+Cost of goods sold.    53,903         40,823         20,485 
+Fulfillment operations.    17,196         14,469          6,889 
+General and administrative.     8,029          5,935          3,785 
+Marketing and selling.     7,545          7,726          4,739 
+System development and
+3,386          1,696          1,124 
+Depreciation and amortization.     3,264          1,234           651 
+Total costs and expenses.    93,323         71,883         37,673 
+Operating    24,058        14,940        10,031
+Other income expense:
+Interest income.     2,683          2,044           537 
+Interest expense.     190          83          72
+Net    $ 21,565       $ 12,979        $ 9,566
+Net loss per share:
+$  127       $  087        $ 082
+$  127       $  087        $ 082
+Shares used to compute net loss per share:
+16,964,439       14,915,734       11,664,956 
+16,964,439       14,915,734       11,664,956 
+See accompanying notes to financial statements.                  PEAPOD, INC.
+STATEMENTS OF COMPREHENSIVE INCOME
+Years ended December 31, 1998, 1997 and 1996
+in thousands
+1998       1997        1996
+Net loss                            $ 21,565    $ 12,979    $ 9,566
+Other comprehensive income: 
+Unrealized gain on available-for-sale securities         83      --        -- 
+Comprehensive income loss                   $ 21,482    $ 12,979    $ 9,566
+See accompanying notes to financial statements.                  PEAPOD, INC.
+STATEMENTS OF STOCKHOLDERS' EQUITY
+Years ended December 31, 1998, 1997 and 1996
+in thousands, except share data
+Accumulated
+Other
+Common Stock    Treasury Stock  Additional  Comprehensive Accumulated
+Shares  Amount  Shares  Amount Paid-in Capital Income    Deficit  Total
+Balance at January 1,   $ 95   --  $ --   $ 1,317        $   --   $ 1,412 
+Issuance of stock, net of offering costs.2,876,000   29   --   --   16,203     --      --    16,232 
+Issuance of stock for services rendered.   100   --   --   --      1     --      --      1 
+Issuance of stock for services rendered and at a 
+86,341    1   --   --     323     --      --     324 
+Net    --     --   --   --   9,565     --      1   9,566
+Balance at December 31,    125   --   --    8,279     --      1    8,403 
+Issuance of stock prior to May 31, 1997 for
+services rendered at a discount.  89,080    1   --   --     577     --      --      578 
+Issuance of stock for services rendered.  15,000   --   --   --     105     --      --      105 
+Issuance of stock upon exercise of warrants.   8,125    1   --   --     17     --      --      18 
+Issuance of stock upon exercise of options.  213,540    2   --   --     575     --      --      577 
+Treasury    --     --  2,000  19    --     --      --      19
+Initial public offering of stock, net of 
+offering  4,000,000   40   --   --   58,080     --      --    58,120
+Net loss - from January 1, 1997 through May 31, 
+--     --   --   --   4,485     --      --    4,485
+Net loss - subsequent to May 31, 1997.   --     --   --   --     --     --    8,494   8,494
+Balance at December 31,    169  2,000  19  63,148     --    8,495   54,803 
+Issuance of stock for services rendered.   6,143   --   --   --     45     --      --      45 
+Issuance of stock upon exercise of warrants.  28,793   --   --   --     64     --      --      64 
+Issuance of stock upon exercise of options and
+for employee stock purchase plan. 358,335    3   --   --    1,062     --      --     1,065 
+Treasury   --     -- 115,476 889    --     --      --     889
+Unrealized gain on available-for-sale securities.  --     --   --   --     --     83      --      83 
+Net    --     --   --   --     --     --   21,565   21,565
+Balance at December 31, 1998..17,245,828  $172 117,476 $908 $64,319     $83   $30,060   $33,606 
+See accompanying notes to financial statements.                  PEAPOD, INC.
+STATEMENTS OF CASH FLOWS
+Years ended December 31, 1998, 1997 and 1996
+in thousands                                1998      1997      1996
+Cash flows from operating activities   Net     $ 21,565   $ 12,979    $ 9,566
+Adjustments to reconcile net loss to net cash used in operating activities     Depreciation and amortization.      3,264      1,234       651 
+Stock and options issued for services rendered       45       533       147 
+Loss on disposition of fixed assets.       270       204        2 
+Changes in operating assets and liabilities       Increase decrease in receivables, net.     1,321      660      349
+Increase decrease in prepaid expenses.       258        5      310
+Increase decrease in other current assets     746      39       55 
+Increase decrease in accounts payable.     4,072     4,144      1,710 
+Increase decrease in accrued compensation     456      179       732 
+Increase decrease in other accrued liabilities  1,762       50       483 
+Increase decrease in deferred revenue.     1,733     1,052      1,943 
+Net cash used in operating activities     24,294     6,277     4,502
+Cash flows from investing activities   Property and equipment purchased.     2,346     1,515      824
+Capitalized software development costs.      513      849      148
+Purchases of marketable securities.     53,352     8,798        Sales of marketable securities.     31,184       --         Proceeds from sale of property and equipment.       117       21                                                Net cash used in investing activities     24,910    11,141      972
+Cash flows from financing activities   Proceeds from issuance of stock, net of offering costs    --      58,270     16,409 
+Proceeds from issuance of stock upon exercise of warrants   64       18        Proceeds from issuance of stock upon exercise of                   -- 
+options and employee stock purchase plan..      1,065       558        Stock purchased for treasury.      889       --        Repayment of subordinated debentures.                      125
+Payments on capital lease obligations.      774      388      237
+Net cash provided by used infinancing activities  534     58,458     16,047
+Net increase decrease in cash and cash equivalents.     49,738     41,040     10,573 
+Cash and cash equivalents at beginning of year.     54,079     13,039      2,466 
+Cash and cash equivalents at end of year.    $  4,341    $ 54,079    $ 13,039 
+Supplemental disclosure of cash flows
+information--interest paid.   $   159    $   67    $   72 
+Supplemental  disclosures  of noncash  investing  and
+financing activity:
+Equipment on capital leases.       331      1,144       502      
+Options exercised by sale of stock to the Company     889       19       --  
+See accompanying notes to financial statements.                  PEAPOD, INC.
+NOTES TO FINANCIAL STATEMENTS
+1 Description of the Company and Basis of Presentation
+Peapod, Inc. the Company is a Delaware corporation and was incorporated
+on December 5, 1996, and is the successor to a business originally founded in
+1989 as a Delaware corporation and operated since 1992 through an Illinois
+limited partnership Peapod LP.
+In a conversion the Conversion that was effected on May 31, 1997 i
+all of the equity interests in Peapod LP were transferred to the Company in
+exchange for 12,656,417 shares of Common Stock, ii Peapod LP was dissolved,
+iii all of the assets and liabilities of Peapod LP were transferred to the
+Company, and iv outstanding options and warrants for equity interests in
+Peapod LP were exchanged for warrants and options for shares of the Company
+Common Stock. The transfer of the assets and liabilities of Peapod LP to the
+Company has been recorded by the Company at the historical carrying values of
+Peapod LP. The financial statements are presented as if the Company were in
+existence throughout all periods. Net losses incurred by Peapod LP through May
+31, 1997 have been reflected in additional paid-in capital since such losses
+were allocated to the partners of Peapod LP and do not represent a component of
+the Company accumulated deficit.
+On June 10, 1997, the Company completed its initial public offering and
+issued 4,000,000 shares of common stock, resulting in net proceeds after
+deducting offering costs of $581 million.
+The Company is an interactive online grocery shopping and delivery service,
+which as of December 31, 1998 operated in the Chicago,  Illinois; San
+Francisco/San Jose, California; Columbus, Ohio; Boston, Massachusetts; Long
+Island, New York; and Dallas, Houston and Austin, Texas metropolitan markets. 2 Summary of Significant Accounting Policies
+Revenue Recognition
+Product sales are recognized when the grocery order is delivered to the
+customer. Interactive marketing revenues are recognized over the life of the
+contract as services are provided. Member and retailer revenues consist of
+grocery retailer fees and fees from consumers. Grocery retailer fees consist of
+contractual fees which are recognized on a straight-line basis over the life of
+the contract. Fees from consumers are recognized as earned. Licensing revenues
+are recognized as such services are provided.
+Cost of Goods Sold
+Cost of goods sold consists of the groceries purchased on behalf of the
+Company members, net of product returns and net of performance based fees
+received from grocery retailers.
+Member Acquisition Costs
+Member acquisition costs are expensed as incurred.
+Cash and Cash Equivalents
+Cash and cash equivalents are comprised of highly liquid investments with
+original maturities of three months or less.
+Marketable Securities
+Investments in marketable securities are classified as held-to-maturity
+securities or as available-for-sale securities. Held-to-maturity securities
+are reported at amortized cost and available-for-sale securities are reported at
+fair value, based on the quoted market price of each individual security on the
+balance sheet date. Unrealized gains and losses on available-for-sale securities
+are excluded from earnings and are included in stockholders' equity as
+accumulated other comprehensive income unrealized gain on available-for-sales
+securities.
+Property and Equipment
+Property and equipment is recorded at cost and  depreciated  on a
+straight-line basis over the estimated useful lives of the related assets,
+generally three to five years. Leasehold improvements are amortized over the
+shorter of the lease term or the estimated useful lives of the assets.
+Capitalized Software Development Costs
+Software development costs are capitalized in accordance with Statement of
+Financial Accounting Standards SFAS No. 86, which requires capitalization of
+certain costs incurred  subsequent to the determination of technological
+feasibility. The Company has determined that technological feasibility occurs in
+its product development cycle when a working model exists. Capitalization ceases
+and product amortization commences upon the general release of the product.
+Amortization is computed on a product-by-product basis, using the lesser of the
+product estimated useful life or a period based on anticipated revenues. The
+Company capitalized $513,000, $849,000 and $148,000 in consumer product software
+development costs in 1998, 1997 and 1996, respectively. Amortization expense in
+1998 totaled $353,000. No amortization expense was recorded in 1997 and 1996. In
+December 1998, the remaining  capitalized  software development costs of
+$1,158,000 were written-off and are included in depreciation and amortization in
+the statement of operations. The write-off included the costs associated with
+Version 50 of the Company software which will no longer be utilized and
+supported by the Company. In addition, the Company development cycle for the
+HTML version has accelerated due to the rapid change in internet technology. As
+the Company HTML product is continuously updated and the technology is
+constantly changing, the Company has written-off these costs as of December 31,
+1998.
+Goodwill
+Goodwill was being amortized on a straight-line basis over its estimated
+useful life of eight years. During December 1998, goodwill of $78,000 was
+written-off as it was determined to have no future value.
+Income Taxes
+Effective with the Conversion, the Company accounts for income taxes in
+accordance with SFAS No. 109, Accounting for Income Taxes. Under the asset and
+liability method of SFAS No. 109, deferred tax assets and liabilities are
+recognized for the future tax consequences attributable to the differences
+between the financial statement carrying amounts of existing assets and
+liabilities and their respective tax bases and operating loss and tax credit
+carryforwards. Deferred tax assets and liabilities are measured using enacted
+tax rates expected to apply to taxable income in the years in which those
+temporary differences are expected to be recovered or settled. Under SFAS No.
+109, the effect on deferred tax assets and liabilities of a change in tax rates
+is recognized in income in the period that includes the enactment date.
+Prior to the Conversion, Peapod LP operated in the form of a partnership
+and was not subject to taxation directly as its net losses were allocated to and
+included in the income tax returns of its partners.  Stock Option Plans
+Prior to January 1, 1996, the Company accounted for its option plans in
+accordance with the provisions of Accounting Principles Board APB Opinion
+No. 25, Accounting for Stock Issued to Employees, and related interpretations.
+As such, compensation expense would be recorded on the date of grant only if the
+fair market value of the underlying stock exceeded the exercise price. On
+January 1, 1996, the Company adopted SFAS No. 123, Accounting for Stock-Based
+Compensation, which permits entities to recognize as expense over the vesting
+period the fair value of all equity-based awards on the date of grant.
+Alternatively, SFAS No. 123 allows entities to continue to apply the provisions
+of APB Opinion No. 25 and provide pro forma disclosures for employee stock
+option grants made in 1995 and future years as if the fair-value based method
+defined in SFAS No. 123 had been applied. The Company has elected to continue to
+apply the provisions of APB Opinion No. 25 and apply the pro forma disclosure
+provisions of SFAS No. 123.
+Financial Instruments
+The fair values of the Company financial instruments do not materially
+vary from the carrying values of such instruments.
+Long-Lived Assets
+Long-lived assets to be held and used are reviewed for impairment whenever
+events or changes in circumstances indicate that the carrying amount be
+evaluated. Impairment is measured by comparing the carrying value to the
+estimated net future cash flows expected to result from the use of the assets
+and their eventual disposition.
+Use of Estimates
+Management of the Company has made a number of estimates and assumptions
+relating to the reported amounts of assets and liabilities and the disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from those estimates.
+Reclassifications
+Certain prior year balances have been reclassified to conform with the
+current year presentation.
+Earnings per Share
+The Company applies SFAS No. 128, Earnings Per Share, in computing earnings
+per share. Basic net loss per share is computed using the weighted average
+number of common shares outstanding. Diluted net loss per share is computed
+using the weighted average number of common shares outstanding and equivalent
+shares based on the assumed exercise of stock options and warrants using the
+treasury stock method. However, since the diluted net loss per share would be
+anti-dilutive, the basic net loss per share is used.
+Potentially diluted securities outstanding, which include options and
+warrants, were 2,655,000, 2,634,000 and 1,723,000 as of December 31, 1998, 1997
+and 1996, respectively.
+Quarterly Results
+The accompanying unaudited quarterly results reflect all adjustments which, in
+the opinion of management, are necessary for the fair presentation of the
+results of the interim periods presented. All such adjustments are of a normal
+recurring nature. 3 Reliance on Certain Relationships
+The business of the Company is dependent upon contracts with a grocery
+retailer in each metropolitan market where the Company is doing business. The
+continuation and the favorable renegotiation of each of its existing contracts
+with grocery retailers are material to the Company operations. A number of
+these agreements are terminable prior to expiration by either party with short
+notice.
+The Company  Chicago market,  serviced  through an agreement with
+Jewel/Osco, accounted for approximately 42%, 44%, and 67% of the Company
+revenues for the years ended December 31, 1998, 1997 and 1996, respectively. 4 Marketable Securities
+At December 31, 1998 and 1997, respectively, the Company marketable
+securities, consisted of in thousands                                 Gross       Gross
+unrealized    unrealized
+December 31, 1998            Amortized      holding     holding losses
+cost        gains               Fair Value
+Current investments:
+Securities held-to-maturity:
+Corporate debt securities.  $  200      $  --      $  --      $  200 
+Securities available-for-sale:
+Government obligations.   3,936         6       --       3,942 
+Corporate debt securities.   11,671         24       1      11,694 
+$ 15,807      $  30     $  1     $15,836 
+Non-current investments:
+Securities available-for-sale:
+Government Obligations.  $ 5,561      $  34     $ 13      $ 5,582 
+Corporate debt securities.   9,598         38       5       9,631 
+$ 15,159      $  72     $ 18      $15,213 
+Gross       Gross
+unrealized    unrealized
+December 31, 1997            Amortized      holding     holding losses
+cost        gains               Fair Value
+Current investments:
+Securities held-to-maturity:
+Commercial paper.  $ 7,604      $  --      $  --      $ 7,604 
+Securities available-for-sale:
+Commercial paper.    787         --        --        787 
+Corporate debt securities.    407         --        --        407 
+$ 8,798      $  --      $  --      $ 8,798 
+At December 31, 1998 maturities of debt securities classified as
+available-for-sale and held-to-maturity were as follows in thousands                       Amortized cost   Fair Value
+Securities held-to-maturity:
+Due through 1999.    $ 200       $ 200 
+Securities available-for-sale:
+Due within one year.   15,607       15,636 
+Due after one year through five years    15,159       15,213 
+$ 30,966      $ 31,049 
+Using the specific identification method, the gross realized gains and
+gross realized losses on the sale of available-for-sale securities were
+approximately $33,000 and $0, respectively for the year ended December 31, 1998.
+No such securities were sold in 1997. 5 Commitments and Contingencies
+Capital Leases
+The Company has capitalized certain equipment and furniture acquired
+through capital leases. The future minimum lease payments as of December 31,
+1998 are as follows in thousands           1999    $  656 
+291 
+77 
+51 
+1,075 
+Less amount representing interest.      90 
+985 
+Less current      590 
+$  395 
+Costs and related accumulated amortization for equipment under capital
+leases totaled $1,828,000 and $951,000 respectively, as of December 31, 1998;
+and $2,143,000 and $840,000, respectively, as of December 31, 1997. Amortization
+expense totaled $757,000, $542,000 and $184,000 for the years ended December 31,
+1998, 1997 and 1996, respectively.
+Operating Leases
+The Company leases its office facilities, warehouses and trucks under
+non-cancelable operating leases. Rent expense on total operating leases totaled
+$823,000, $462,000 and $238,000 for the years ended December 31, 1998, 1997 and
+1996, respectively. Total future minimum lease payments under non-cancelable
+operating leases as of December 31, 1998 are as follows in thousands               $   1,302
+1,324
+1,316
+1,154
+2003 and beyond.       1,687
+$   6,783
+The Company maintains an unsecured letter of credit in support of the
+minimum future lease payments under a lease for office space amounting to
+$1,350,000 as of December 31, 1998, declining at certain times during the lease
+term. The letter of credit expires on November 21, 1999; however, it is expected
+to be renewed annually over the life of the lease. The Company also maintains an
+unsecured letter of credit for warehouse space amounting to $332,000 as of
+December 31, 1998. The letter of credit expires on October 15, 1999 and is
+expected to be renewed annually over the life of the lease.
+Contingencies
+The Company is involved in lawsuits and claims which arise in the ordinary
+course of business. There are no such matters pending that the Company believes
+to be material in relation to its business, financial condition, or results of
+operations. 6 Partnership Agreement
+Peapod LP, in accordance with the partnership agreement, was required to pay a
+management fee to the general partner. For the years ended December 31, 1997 and
+1996, the amount charged to general and administrative expenses totaled $73,000
+and $175,000, respectively. The partnership agreement was terminated upon the
+Conversion. 7   Peapod LP Equity Programs
+Peapod LP had a program where certain executives and advisors were able to
+receive stock in lieu of compensation. The program allowed these executives and
+advisors to receive stock at 85% of the estimated fair market value. Expense was
+recognized based on the discount from estimated fair market value of the stock
+at the date of issuance. This program was terminated in 1997 prior to the
+Conversion.
+Peapod LP also had a director purchase plan whereby each director of the
+Peapod LP was eligible to purchase stock at 85% of the estimated fair market
+value, up to $50,000 annually. Expense was recognized based on the discount from
+estimated fair market value of the stock at the date of issuance. This program
+was terminated in 1997 prior to the Conversion.
+During the year ended December 31, 1996, 86,341 shares were issued and
+$44,000 of expense was reflected in the financial statements. In addition,
+45,292 shares were issued on January 1, 1997 for compensation of 1996 services
+and under the director purchase plan. Expense of $222,000 was reflected in the
+financial statements for the year ended December 31, 1996.
+During the first quarter of 1997, and prior to the Conversion, 89,080
+shares were issued and $428,000 of expense was reflected in the financial
+statements. 8   Options for Stock
+The Company has an option plan providing for the issuance of options to
+eligible employees, directors, advisors and consultants. This plan permits the
+Company to issue options on terms that the Company determines appropriate,
+subject to a maximum life of 10 years. Such terms include exercise price, number
+of shares, vesting dates and other terms. Peapod LP had two option plans which
+were terminated upon the Conversion. All outstanding options issued by Peapod LP
+were exchanged for options for stock of the Company on terms substantially the
+same as in the original option grants.
+The Company applies APB Opinion No. 25 and related interpretations in
+accounting for its plans. Had compensation cost for the Company option plans
+been determined consistent with SFAS No. 123, the net loss would have been
+increased to the pro forma amounts indicated below in thousands, except per
+share data                     1998      1997      1996
+Net loss:
+As reported.    $21,565   $12,979    $9,566
+Pro forma.    25,124    15,837    9,828
+Net loss per share:
+As reported-- basic and diluted.$ 127   $ 087    $ 082
+Pro forma-- basic and diluted.  148     106     084   Under the option plans, the exercise price of each option equals the
+estimated fair market value of the stock on the date of grant. For purposes of
+calculating the compensation costs consistent with SFAS No. 123, the fair value
+of each grant is estimated on the date of grant using the Black-Scholes
+option-pricing model with the following weighted-average assumptions used for
+grants in fiscal 1998, 1997 and 1996, respectively: no expected dividend yield;
+expected volatility of 50, 50 and 20 percent; risk free interest rates of 55 65% and 65%, and expected lives of seven years. The weighted average fair
+value of options granted was $381 in 1998, $810 in 1997 and $246 in 1996.
+Additional information on stock options is as follows                         1998         1997         1996
+- 
+Weighted       Weighted        Weighted
+average        average        average
+exercise       exercise        exercise
+Options   price         price   Options   price
+Options
+Outstanding at beginning of year.  2,573,956  $ 760 1,654,946   $ 276  1,472,446   $ 220 
+1,352,979   700 1,179,200   1370   285,000    600 
+961,149  1331  46,650   1265  102,500   378 
+342,122   287  213,540   270        Outstanding at end of year.  2,623,664  $ 576 2,573,956   $ 760  1,654,946   $ 276 
+Options exercisable at year end.  1,328,505  $ 437 1,150,138   $ 245  1,140,172   $ 211    The following table summarizes information about stock options outstanding
+at December 31, 1998                 Weighted
+average    Weighted         Weighted
+remaining   average          average
+Range of     Options    contractual  exercise  Options   exercise
+exercise     outstanding  life      price    exercisable   price
+prices 133-- 176   506,906   43 years    $ 152    506,906   $ 152
+177-- 352   445,126   56        254    292,572    236
+353-- 528    5,000   77        488     --        529-- 704   681,184   71        621    178,149    643
+705-- 880   837,297   69        784    297,309    785
+1584--1760   148,151   69       1619    53,569    1619
+2,623,664   62 years    $ 576   1,328,505   $ 437
+9   Warrants
+Contractually, all warrants issued by Peapod LP were converted into
+warrants for shares of the Company on a one for one basis. All warrants expire
+by November 2006. Company stock warrant activity for the years ended December
+31, 1998, 1997 and 1996 is summarized below:
+Weighted
+average
+exercise   Exercise
+Warrants   price     Price
+Outstanding on January 1, 1996.    64,626   $ 215  $133--325
+Granted                     3,215    700  700
+Outstanding on December 31, 1996.    67,841    238  133--700
+8,125    223  223
+Outstanding on December 31, 1997.    59,716    240  133--700
+28,793    221  221
+Outstanding and exercisable on
+December 31, 1998.     30,923   $ 257  $133--700
+10   Income Taxes
+No provision for income taxes was recorded prior to the Conversion, as such
+liability was the responsibility of the partners of Peapod LP, rather than of
+the Company. Upon the Conversion of Peapod LP into Peapod, Inc., the Company
+recorded an initial net deferred tax asset of $839,000 which was offset in its
+entirety by a valuation allowance. The remaining change in deferred income taxes
+for the year ended December 31, 1997 relates to the period subsequent to the
+Conversion.
+There is no provision for income taxes for the years ended December 31,
+1998 and 1997 due to the Company loss before income taxes.
+The provision for income taxes for the year ended December 31, 1997 is
+based on the loss before income taxes for the period subsequent to the
+Conversion of $8,494,000. The effective tax rate differs from the U.S. statutory
+rate. The following table reconciles the provision for income taxes using the
+U.S. statutory rate with the provision at the effective rate in thousands                              1998       1997
+Tax benefit at U.S. Federal income tax rate of 34%.$ 7,332     $ 2,888
+Increase reduction in taxes resulting from:
+State income tax benefit, net of Federal effect.  1,294       506
+Increase in valuation allowance.  9,865       3,373 
+1,239        21 
+Income tax provision.         $  --      $                                Significant components of the Company deferred tax assets and liabilities
+at December 31, 1998 and 1997 are as follows in thousands                            1998         1997
+Deferred tax assets:
+Allowance for doubtful accounts.  $   115      $   141 
+Deferred revenues.     518         787 
+Other      644         364 
+Net operating loss.    12,800        3,397 
+Gross deferred tax assets.    14,077        4,689 
+Less valuation allowance.   14,077       4,212
+Net deferred tax assets.      --          477 
+Deferred tax liabilities:
+Fixed assets.       --          78
+Capitalized software.       --         399
+Gross deferred tax liabilities      --         477
+Deferred income taxes.      $   --       $   -- 
+The net change in the total valuation allowance for the years ended
+December 31, 1998 and 1997 was an increase of $9,865,000 and $3,373,000,
+respectively. As of December 31, 1998, the Company has approximately $32,000,000
+of net operating loss carryforwards, $9,900,000 expiring in 2012 and $22,100,000
+expiring in 2018.
+11   Employee Benefit Plans
+Effective September 1, 1995, the Company implemented a 401k savings plan
+Savings Plan. Qualified employees may participate in the Savings Plan by
+contributing up to 15% of their gross wages. The Company may elect to make
+matching contributions at the discretion of the Board of Directors of the
+Company. The Company has made no contributions through December 31, 1998.
+In 1997, the Company implemented an employee stock purchase plan Purchase
+Plan. The Company Purchase Plan provides that eligible employees may
+contribute up to $6,250 of their base earnings per quarter towards the quarterly
+purchase of the Company Common Stock. The employee purchase price is 85% of
+the lesser of the fair market value of the stock on the first business day or
+the last business day of the quarterly offering period. The total number of
+shares issuable under the Purchase Plan is 150,000. During 1998, 16,213 shares
+were issued under the Purchases Plan at prices ranging from $446 to $595.
+During 1997, no shares were issued in connection with the Purchase Plan. 12     Quarterly Results Unaudited
+The following provides an unaudited summary of quarterly financial
+data. Certain amounts presented in the Company quarterly reports on Form 10-Q
+have been reclassified below to conform to the presentation in the accompanying
+1998 statement of operations.                                     1998
+in thousands, except share and per share data
+1st Quarter   2nd Quarter   3rd Quarter   4th Quarter
+Revenues:
+Net product sales. $  15,495    $  14,438   $  13,057    $  14,315 
+Member and retailer.    2,793      2,606      2,306      1,945 
+Interactive marketing.     526       436       263       235 
+50        50       50       700 
+Total revenues.   18,864      17,530     15,676      17,195 
+Costs and expenses:
+Cost of goods sold.   14,573      13,586     12,295      13,449 
+Fulfillment operations.    4,518      4,262      4,114      4,302 
+General and administrative.    1,737      2,091      1,925      2,276 
+Marketing and selling.    1,672      1,455      1,462      2,956 
+System development and maintenance.     610       821       999       956 
+Depreciation and amortization.     463       509       529      1,763 
+Total costs and expenses.   23,573      22,724     21,324      25,702 
+Operating    4,709     5,194     5,648     8,507
+Other income expense:
+Interest income.     783       752       609       539 
+Interest expense.     56       33      44       57
+Net  $  3,982   $  4,475   $  5,083    $ 8,025
+Basic and diluted net loss per share. $  024   $  026   $  030    $  047
+Shares used to compute basic and diluted
+Net loss per share. 16,859,437    16,925,120   17,074,771    17,066,961 
+1997
+in thousands, except share and per share data
+1st Quarter   2nd Quarter   3rd Quarter   4th Quarter
+Revenues:
+Net product sales. $  9,216    $  10,177   $  10,208    $  13,886 
+Member and retailer.    2,470      3,271      2,784      2,709 
+Interactive marketing.     425       565       614       618 
+Total revenues.   12,111      14,013     13,606      17,213 
+Costs and expenses:
+Cost of goods sold.    8,623      9,539      9,599      13,062 
+Fulfillment operations.    3,335      3,703      3,505      3,926 
+General and administrative.    1,195      2,059      1,490      1,191 
+Marketing and selling.    1,437      1,233      1,935      3,121 
+System development and maintenance.     376       303       378       639 
+Depreciation and amortization.     212       378       366       278 
+Total costs and expenses.   15,178      17,215     17,273      22,217 
+Operating    3,067     3,202     3,667     5,004
+Other income expense:
+Interest income.     135       201       866       842 
+Interest expense.     15       30      13       25
+Net  $  2,947   $  3,031   $  2,814    $ 4,187
+Basic and diluted net loss per share. $  023   $  022   $  017    $  025
+Shares used to compute basic and diluted
+Net loss per share. 12,599,133    13,522,753   16,672,852    16,802,695 
+13  Split Pea Software, Inc.
+On December 31, 1998, the Company concluded a restructuring transaction which
+established its licensing business within a newly-formed company called Split
+Pea Software, Inc. Split Pea. A group of the new company senior managers
+hold majority equity ownership of Split Pea. The Company owns a minority
+interest of 40% of the voting common stock of Split Pea. All future licensing
+services will be provided by Split Pea which will collect all future licensing
+revenue. Item 1. 
+Item 2. 
+Item 3. Legal 
+Item 4. Submission of Matters to a Vote of Security Holders.9
+PART II
+Item 5. Market for the Registrant Common Equity and Related Stockholder
+Matters.9
+Item 6. Directors and Executive Officers of the Registrant
+This information contained under the headings Election of Directors
+and Executive Officers in the Proxy Statement which Proxy Statement will be
+filed with the Securities and Exchange Commission on or before April 6, 1999 is
+incorporated herein by reference.
+a Information  about directors and nominees required by this item is
+incorporated by reference to the information under the caption Election of
+Directors in the Registrant definitive proxy statement to be filed on or
+before April 6, 1999 in connection with its 1999 Annual Meeting of
+Stockholders.
+b Information regarding compliance with Section 16a reporting requirements,
+to the extent required to be disclosed, is incorporated by reference to the
+information under the caption Section 16a Beneficial Ownership Reporting
+Compliance in the Registrant definitive proxy statement to be filed on
+or before April 6, 1999 in connection with its 1999 Annual Meeting of
+Stockholders.
+c The following sets forth certain information concerning each of the
+Company executive officers.
+Andrew B. Parkinson, age 41, is a co-founder of the Company and has been
+its Chairman, President and Chief Executive Officer since its founding in 1989.
+Prior to the founding of the Company, Mr. Parkinson held various brand and
+product management positions with Kraft Foods, Inc. and Procter & Gamble Co. Mr.
+Parkinson holds a BA in Economics from Wesleyan University.
+John C. Walden, age 39, has served as the Company Chief Operating
+Officer since 1997. He is responsible for the general development and execution
+of the Company operating strategies and plans. He joined the Company in 1996
+as Executive Vice President, Finance and Business Development. Prior to joining
+Peapod, Mr. Walden was Director, Media Ventures for Ameritech Corporation where
+he effected and managed investments in internet companies. Mr. Walden served as
+a director of Peapod in 1995 as Ameritech Corporation designee. From 1990 to
+1994, he held a variety of executive management positions with Storage
+Technology  Corporation,  a computer storage system manufacturer,  and a
+predecessor, XL/Datacomp, Inc., a computer distribution company, including Vice
+President and General Manager, Vice President, Corporate Development and
+Strategy and General Counsel.
+Thomas P. Parkinson, age 38, is a co-founder of the Company and has
+been its Executive Vice President-Chief Technology Officer and a director since
+its founding in 1989. He has had primary responsibility for directing consumer
+product development and technology research and development since the Company
+founding and he is the principal architect of Peapod software. Prior to
+founding the Company in 1989, Mr. Parkinson held various field sales and sales
+management positions with Procter & Gamble Co. Thomas Parkinson is the brother
+of Andrew Parkinson, the Company Chairman, President and Chief Executive
+Officer.
+Timothy M. Dorgan, age 46, joined the Company in 1994 in his current
+role, Executive Vice President-Marketing. Mr. Dorgan is responsible for the
+overall development and management of the Company marketing activities,
+including interactive marketing services. Prior to joining Peapod, from 1992 to
+1994, Mr. Dorgan served as President of Ketchum Advertising-Chicago,  a
+multinational advertising agency. From 1987 to 1992, Mr. Dorgan was President
+and Chief Operating Officer of Noble & Associates, an advertising and marketing
+services firm specializing in food products.
+John A. Furton, age 34, is a co-founder of the Company and serves as Senior
+Vice President-Chief Information Officer. He joined the Company in 1990. Mr.
+Furton is responsible for all enterprise technology development including
+fulfillment and logistics, merchandising and administrative and financial
+systems as well as the Company  data center and network  operations.
+Additionally, Mr. Furton is responsible for the Company market development
+activities, which include structuring and managing its external business
+relationships with supermarkets and other merchandising partners. Prior to this,
+Mr. Furton was Vice President of Operations where he managed order fulfillment
+services. Mr. Furton joined the Company from Kraft Foods, Inc. in Chicago.
+Carl E.  Alguire,  age 41,  currently  serves as  Senior  Vice
+President-Fulfillment Operations. He joined the Company in 1994 as Regional Vice
+President and served in that capacity until 1997. Prior to joining the Company,
+from 1989 to 1994, Mr. Alguire was Vice President of Expressline/Mercury
+Delivery, Inc. where he was responsible for all daily operations of Cleveland
+largest rush delivery company. He also founded and ran a $35 million general
+and grocery delivery business, and held the position of grocery store manager
+for Fisher Foods, Inc.
+Dan Rabinowitz, age 36, currently serves as Vice President-Chief
+Financial Officer. He joined the Company in 1995 as Director of Finance and
+served in that capacity until February 1998. At that time, he became the
+Company Vice President-Financial Planning & Control and Treasurer. Prior to
+joining the Company, Mr. Rabinowitz served as Associate Director for Geneva
+Capital Markets, a middle markets mergers and acquisitions firm from 1993
+through 1995, and Director of Finance at Technology Solutions Company from 1991
+through 1993.
+William  J.  Christopher,  age  41,  currently  serves  as Vice
+President-Member Services. He joined the Company in 1996 as Director-Member
+Services and served in that capacity until 1997. Prior to joining the Company,
+from 1991 to 1996, Mr. Christopher held various general management positions at
+McMaster-Carr Supply.
+Michael P. Brennan, age 35, currently serves as Vice President-Product
+Management. He joined the Company in 1997 as Director-Grocery Formats and served
+in that capacity until 1998. Prior to joining the Company, from 1990 to 1996,
+Mr. Brennan held various positions culminating at Principal for the management
+consulting firm A.T. Kearney. 

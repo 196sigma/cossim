@@ -1,0 +1,772 @@
+ITEM 8 - FINANCIAL STATEMENTS
+-                    CONCENTRA CORPORATION
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS                                                 Pages
+Report of Independent Accountants    32
+Consolidated Balance Sheets as of March 31, 1997 and 1996    33
+Consolidated Statements of Operations for the years ended March 31, 1997, 1996 and 1995..   34
+Consolidated Statements of Stockholders' Equity Deficit for the years ended March 31, 1997, 
+1996 and 1995    35
+Consolidated Statements of Cash Flows for the years ended March 31, 1997, 1996 and 1995..   36
+Notes to Consolidated Financial Statements  37-50                    31
+32             REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Stockholders of Concentra Corporation   We have audited the accompanying consolidated balance sheets of Concentra
+Corporation as of March 31, 1997 and 1996, and the related consolidated
+statements of operations, stockholders' equity deficit and cash flows for each
+of the three years in the period ended March 31, 1997. These financial
+statements are the responsibility of the Company management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated financial position of Concentra
+Corporation as of March 31, 1997 and 1996, and the consolidated results of its
+operations and its cash flows for each of the three years in the period ended
+March 31, 1997 in conformity with generally accepted accounting principles.                        /s/ COOPERS & LYBRAND L.L.P.
+Boston, Massachusetts
+May 7, 1997                    32  33 CONCENTRA CORPORATION
+CONSOLIDATED BALANCE SHEETS
+In thousands, except share data                                                          March 31,
+1997        1996
+ASSETS
+Current assets:
+Cash and cash equivalents                                       $ 3,890      $ 9,121
+Marketable securities                                           203          Accounts receivable, net of allowance for doubtful accounts of $125 and $190              14,050       8,284
+Other current assets                                            693        628
+Total current assets                                        18,836       18,033
+Property and equipment, net                                        2,612       3,241
+Capitalized software costs, net                                      1,878       1,268
+Intangible assets, net                                           1,333       2,232
+Other assets                                                 372        335
+Total assets                                        $ 25,031      $ 25,109
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                                           $ 1,551      $ 1,173
+Accrued expenses                                             4,123       2,177
+Income tax payable                                             273        200
+Deferred revenue                                             2,898       1,848
+Deferred revenue from related parties                                    --         93
+Current portion of capital lease obligations                                423        363
+Total current liabilities                                      9,268       5,854
+Capital lease obligations                                          611        798
+Deferred revenue                                               84        150
+Commitments and contingencies Note E                                    --         Stockholders' equity:
+Preferred stock - $01 par value; 4,000,000 shares authorized,
+no shares issued or outstanding                                      --          Common stock - $00001 par value; 40,000,000 shares authorized, 5,499,211
+and 5,333,651 shares issued and outstanding at March 31, 1997 and 1996                  --          Additional paid-in capital                                       25,578       24,809
+Accumulated deficit                                          10,099      6,159
+Cumulative translation adjustment                                     411       343
+Total stockholders' equity                                     15,068       18,307
+Total liabilities and stockholders' equity                         $ 25,031      $ 25,109
+The accompanying notes are an integral part of the consolidated financial
+statements.                    33  34 CONCENTRA CORPORATION CONSOLIDATED STATEMENTS OF OPERATIONS
+In thousands, except share and per share data                                        Year Ended March 31,
+1997     1996    1995
+Revenues:
+Software licenses                           $17,152   $13,133   $10,050
+Services                                6,797    7,135    8,004
+Related party software and services                    104     452    2,163
+Total revenues                            24,053    20,720   20,217
+Operating expenses:
+Cost of software licenses                        2,073    1,337    1,328
+Cost of services                            4,410    2,677    1,928
+Sales and marketing                          14,541    11,622    8,887
+Research and development                        3,558    2,849    2,423
+General and administrative                       3,681    2,612    2,144
+Restructuring charge                           239     196                                                   Total operating expenses                       28,502    21,293   16,710
+Loss income from operations                      4,449    573   3,507
+Interest income                              296     682     174
+Interest expense                             105     54    323
+Other income expense                          458     10    300
+Loss income before income taxes                    3,800     45    3,658
+Provision for income taxes                         140      9     559
+Net loss income                            3,940     36    3,099
+Accretion of redeemable common stock                     --      --     223
+Net loss income available to common stockholders           $3,940   $  36   $ 2,876
+Net loss income per common and common equivalent share        $ 073   $ 001   $ 074
+Weighted average number of common and common equivalent
+shares outstanding                           5,391    5,750    3,865
+The accompanying notes are an integral part of the consolidated financial
+statements.                    34  35 CONCENTRA CORPORATION
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY DEFICIT
+FOR THE YEARS ENDED MARCH 31, 1997, 1996 AND 1995
+In thousands, except share data                      SERIES A                
+CONVERTIBLE                                   TOTAL 
+PREFERRED STOCK     COMMON STOCK   ADDITIONAL       CUMULATIVE STOCKHOLDERS'
+PAID-IN  ACCUMULATED TRANSLATION  EQUITY  
+SHARES   AMOUNT   SHARES   AMOUNT   CAPITAL   DEFICIT  ADJUSTMENT  DEFICIT
+Balance at March 31, 1994       220,953  $ 3,766  2,803,701    --   $ 1,121   $ 9,294   $ 51   $4,458
+Shares issued in connection
+with initial public offering           --  1,700,000    --   17,718                 17,718
+Shares issued in connection
+with conversion of preferred
+stock to common stock      220,953  3,766   401,732        3,766                    Conversion of redeemable
+common stock into common
+stock                          271,968        2,000                 2,000
+Stock options exercised                   69,774         171                  171
+Accretion of redeemable
+common stock to
+redemption value                                 223                 223
+Translation adjustment                                           400     400
+Net income                --    --      --    --     --    3,099     --     3,099
+Balance at March 31, 1995         --    --  5,247,175    --   24,553    6,195    451    17,907
+Stock options exercised                   79,152         224                  224
+Shares issued in connection with
+employee stock purchase plan                7,324          32                   32
+Translation adjustment                                            108      108
+Net income                --    --      --    --     --      36     --      36
+Balance at March 31, 1996         --    --  5,333,651    --   24,809    6,159    343    18,307
+Stock options exercised                  142,070         667                  667
+Shares issued in connection with
+employee stock purchase plan               23,490         102                  102
+Translation adjustment                                            68     68
+Net loss                 --    --      --    --     --    3,940     --    3,940
+Balance at March 31, 1997         --    --  5,499,211    --   $25,578   $10,099   $411   $15,068
+The accompanying notes are an integral part of the consolidated financial
+statements.                    35  36 CONCENTRA CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+In thousands                                             Year Ended March 31,
+1997      1996       1995
+Cash flows from operating activities:
+Net income loss                                     $3,940    $   36    $ 3,099
+Adjustments to reconcile net income loss to net cash used in provided
+by operating activities:
+Depreciation and amortization                               2,413      1,362       715
+Foreign exchange loss gain                                 166       38      308
+Provision for bad debts                                  1,026       101       173
+Change in net unrealized holding gain on trading security                  203       --         Changes in operating assets and liabilities:
+Accounts receivable                                   6,770     2,546     1,666
+Other assets                                       102      244      228
+Accounts payable                                      382       48       491
+Accrued expenses                                     1,883      890      585
+Deferred revenue                                      875     1,591      262
+Income taxes payable                                    73      212      315
+Net cash used in provided by operating activities                  4,197     3,898     1,744
+Cash flows used in investing activities:
+Capitalized software costs                                  970      865      416
+Purchase of property and equipment                              326     1,928      422
+Purchase of intangible assets                                 96     1,322      61
+Net cash used in investing activities                         1,392     4,115      899
+Cash flows provided by financing activities:
+Proceeds from issuance of common stock, net of issuance cost                 102       32     17,718
+Proceeds from exercise of stock options                            667       224       171
+Repayment of advances from corporate partners                         --       --     2,276
+Principal payments under capital lease obligations                      230      243      98
+Repayment of related party note payable                            --       --      746
+Net cash provided by financing activities                        539       13     14,769
+Effects of exchange rates on cash and cash equivalents                     181      111      162
+Net decrease increase in cash and cash equivalents                     5,231     7,889     15,452
+Cash and cash equivalents at beginning of year                        9,121     17,010      1,558
+Cash and cash equivalents at end of year                          $ 3,890    $ 9,121    $ 17,010
+Supplemental disclosure of cash flow information:
+Interest paid                                      $  106    $   54    $  260
+Income taxes paid                                       67       221       244
+Supplemental disclosure of non-cash investing and financing activities:
+Purchase of intangible asset                                 --       --      1,000
+Equipment acquired under capital lease obligations                      139      1,183       242
+Conversion of redeemable common stock to common stock                     --       --      2,000
+Conversion of preferred stock to common stock                         --       --      3,766  
+The accompanying notes are an integral part of the consolidated financial
+statements.                    36  37
+CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS A. NATURE OF BUSINESS
+Description of Business
+Concentra Corporation, formerly ICAD, Inc. the Company was incorporated
+in April 1984 and operates in one business segment. The Company develops,
+markets and supports software products that automate the engineering and sales
+process.
+The Company is subject to a number of risks similar to other companies in
+the industry, including dependence on two principal products, concentration of
+customers, competition from substitute products and larger companies, rapid
+technological change, uncertainty of market acceptance of products, dependence
+on third-party licensed technology and proprietary technology, dependence on
+key personnel, dependence on domestic and international distributors and
+resellers, the need to obtain additional financing, and the risks associated
+with international operations.
+The Company has experienced and may experience in the future significant
+quarter-to-quarter fluctuations in its operating results. Factors such as the
+timing of significant orders, the timing of new product introductions and
+upgrades, the length of customer product evaluation periods, the mix of products
+sold and the mix of domestic versus international revenues could contribute to
+this quarterly variability. A substantial portion of the Company revenues in a
+quarter are derived from purchase orders received in that quarter, which makes
+the Company financial performance more susceptible to an unexpected downturn
+in business and more unpredictable. In addition, the Company expenses levels
+are based in part on expectations of future revenue levels and a shortfall in
+expected revenues could therefore result in a disproportionate decrease in the
+Company net income.
+B. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The consolidated financial statements include the accounts of the Company
+and its wholly-owned foreign subsidiaries. All significant intercompany
+transactions and balances have been eliminated.
+Use of Accounting Estimates
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates and would
+impact financial position, results of operations and cash flows.
+Cash Equivalents and Marketable Securities
+The Company considers all highly liquid investments with a maturity of
+three months or less at the date of purchase to be cash equivalents. Those
+instruments with maturities between three months and twelve months are
+considered to be short-term marketable securities and investments with
+maturities of greater than one year are classified as long-term marketable
+securities.
+Cash equivalents, which include debt securities, are carried at amortized
+cost plus accrued interest which approximates fair value.                    37
+38                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+Upon being subject to Statement of Financial Accounting Standards No. 115,
+Accounting for Certain Investments in Debt and Equity Securities, the Company
+classified a previously owned common stock investment as a trading security.
+Trading securities are carried at their fair market value based upon the quoted
+market prices in effect at the balance sheet date. Net unrealized gains on
+trading securities of approximately $203,000 are included in other income
+expense for the year ended March 31, 1997.
+Property and Equipment
+Property and equipment are stated at cost. Depreciation is computed using
+the straight-line method based on the following estimated useful lives       Computer equipment              3-5 years
+Furniture and fixtures            5-7 years
+Amortization of leasehold improvements is computed on a straight-line
+method over the shorter of the estimated useful life of the leasehold
+improvements or the remaining term of the lease.
+Expenditures for maintenance, repairs and renewals that neither materially
+add to the value of the property nor appreciably prolong its life are charged to
+expense as incurred. When assets are retired or disposed of, the assets and
+related allowances for depreciation are eliminated from the accounts and any
+resulting gain or loss is reflected in operations.
+Research and Development and Capitalized Software Costs
+Costs incurred prior to the establishment of technological feasibility are
+charged to research and development expense. Software production costs incurred
+subsequent to the establishment of technological feasibility are capitalized
+until the product is available for general release to customers. Amortization of
+capitalized software costs are recognized on a straight-line basis over the
+estimated economic lives of the related products of three years, which amount is
+greater than the amount computed using the ratio of current gross revenues for a
+product to the total of current and anticipated future gross revenues for that
+product.
+Amortization of capitalized software costs, included in cost of software
+licenses, amounted to approximately $360,000, $290,000 and $174,000 for the
+years ended March 31, 1997, 1996 and 1995, respectively.
+Intangible Assets
+Intangible assets, which represent various software licenses, are recorded
+at cost and are amortized over their estimated useful lives of three to five
+years. Amortization of intangible assets amounted to approximately $995,000 317,000 and $141,000 for the years ended March 31, 1997, 1996, and 1995,
+respectively, and are included in cost of software licenses.
+During 1995, the Company entered into a five year software license
+agreement with a significant customer and marketing partner. The agreement
+required an upfront fee of $1,000,000, as well as additional payments See Note
+E for the use of software which is embedded in certain of the Company
+products. This asset is being amortized over the five year life of the
+agreement.                    38
+39                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+Revenue Recognition
+Revenue from software license agreements is recognized upon shipment of the
+license provided that no significant vendor obligations remain outstanding and
+collection of the related receivable is deemed probable by management. Revenue
+from annual or multi-year maintenance agreements, including maintenance bundled
+in initial software licenses, is recognized ratably over the term of the
+agreements. Revenue from consulting and training agreements is recognized as the
+services are performed.
+Income Taxes
+The Company provides taxes for income based on the liability method, which
+requires recognition of deferred tax assets and liabilities for the expected
+future tax consequences of events that have been included in the financial
+statements or tax returns. Under this method, deferred taxes are determined
+based on the difference between the income tax bases of assets and liabilities
+and the corresponding financial reporting amounts using enacted tax rates in
+effect in the years in which the differences are expected to reverse. The
+Company provides a valuation allowance against net deferred tax assets if, based
+upon the available evidence, it is more likely than not that some or all of the
+deferred tax assets will not be realized.
+Foreign Currency
+Assets and liabilities of the Company foreign subsidiaries are translated
+at the exchange rates in effect at year end. Revenues and expenses are
+translated using currency exchange rates in effect during the year. Gains or
+losses resulting from translation adjustments are reported as a separate
+component of stockholders' equity. Foreign exchange losses gains resulting
+from intercompany foreign currency transactions of approximately $166,000 38,000 and $308,000 for the years ended March 31, 1997, 1996 and 1995,
+respectively, are included in other income and expense.
+Concentration of Credit Risk
+Financial instruments which potentially subject the Company to
+concentrations of credit risk consist of temporary cash investments and trade
+receivables.
+The Company invests its cash balances with banks and other financial
+institutions. As of March 31, 1997 and 1996, the Company had $0 and $3,962,000,
+respectively, of cash equivalents invested in commercial paper which are
+considered to be cash equivalents due to their short-term maturity. The Company
+also has cash equivalents which are comprised of a repurchase agreement with a
+bank and U.S. Treasury Securities. The carrying amount of these cash equivalents
+approximates fair value because of their short-term maturity. The Company does
+not require collateral on its repurchase agreements.
+Credit risk with respect to trade receivables is concentrated due to the
+limited amount of large orders recorded in any particular reporting period. The
+Company regularly extends payment terms with new and existing customers to close
+business in a particular reporting period. The Company does not require
+collateral, letters of credit, or other security to support customer
+receivables. The Company credit review procedures are generally more limited
+for overseas customers and the Company has experienced greater credit losses
+with such overseas customers than anticipated. In some cases, the Company does
+have private foreign credit insurance to protect against foreign credit losses.
+Due to the factors discussed above, it is reasonably possible that the Company
+estimate for doubtful accounts could differ from actual experience and adversely
+impact the Company financial position, results of operations and cash flows.                    39
+40                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+Net Income Loss Per Common and Common Equivalent Share
+Net income loss per common and common equivalent share is based upon the
+weighted average number of common and common equivalent shares outstanding.
+Common equivalent shares are included in the per share calculations where the
+effect of their inclusion would be dilutive.
+In accordance with Securities and Exchange Commission Staff Accounting
+Bulletin No. 83 SAB No. 83, all common and common equivalent shares issued
+during the twelve month period prior to the initial public offering cheap
+stock which was completed on February 6, 1995, have been included in the
+calculation as if they were outstanding for all periods. As permitted under SAB
+No. 83, these common equivalent shares, which consist of stock options, were
+determined using the treasury stock method and the initial public offering
+IPO price of $1200 per share. In the computation of net income loss per
+common and common equivalent share, accretion of redeemable common stock is
+included as a decrease in net income or increase in net loss available to common
+stockholders. Series A Preferred Stock is not considered a common stock
+equivalent based on its effective yield to maturity.
+Fully diluted net income loss per common and common equivalent share did
+not differ materially from primary net income loss per common and common
+equivalent share.
+Newly Issued Accounting Standards
+In February 1997, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 128, Earnings per Share SFAS 128,
+which is effective for fiscal years ending after December 15, 1997, including
+interim periods. Earlier application is not permitted. However, an entity is
+permitted to disclose pro forma earnings per share amounts computed using SFAS
+128 in the notes to financial statement in periods prior to adoption. SFAS 128
+requires restatement of all prior-period earnings per share data presented upon
+adoption. SFAS 128 specifies the computation, presentation and disclosure
+requirements for earnings per share and is substantially similar to the standard
+recently issued by the International Accounting Standards Committee entitled
+International Accounting Standard, Earnings per Share IAS 33. The Company is
+required to adopt SFAS 128 in the fourth quarter of 1997 and has not yet
+determined the impact.
+C. CASH AND CASH EQUIVALENTS   Cash and cash equivalents consist of the following investments in
+thousands                                 March 31,
+1997     1996
+Demand Deposits and CDs                $1,762    $1,387
+U.S. Treasury Securities                2,128    3,772
+Commercial Paper                      -    3,962
+$3,890    $9,121
+40
+41                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+D. PROPERTY AND EQUIPMENT   Property and equipment consists of the following in thousands                                 March 31,
+1997     1996
+Computer equipment                  $4,353    $4,054
+Furniture and fixtures                1,615    1,538
+Leasehold improvements                1,142    1,091
+7,110    6,683
+Less accumulated depreciation and amortization    4,498    3,442
+$2,612    $3,241
+Depreciation and amortization expense was approximately $1,056,000 761,000 and $400,000 for the years ended March 31, 1997, 1996 and 1995,
+respectively.
+Fully depreciated assets of $240,000 were retired during fiscal year 1996
+pursuant to the Company relocation of facilities.   Property and equipment under capital leases consists of the following in
+thousands                                 March 31,
+1997    1996
+Computer equipment                  $1,109   $ 988
+Furniture and fixtures                  739    721
+1,848   1,709
+Less accumulated amortization             1,067    572
+$ 781   $1,137
+E. COMMITMENTS AND CONTINGENCIES
+Line of Credit
+On June 20, 1996, the Company renewed its demand line of credit of
+$2,500,000 with a commercial bank pursuant to the terms under the unsecured
+working capital line of credit. This line of credit bears interest at the bank
+base lending rate, and expires on June 30, 1997. There were no amounts
+outstanding under the working capital line of credit at March 31, 1997 or 1996.
+The line of credit contains financial covenants which consist of minimum
+tangible capital base, ratio of total liabilities to tangible capital base and
+debt service coverage. The Company is currently in violation of these covenants
+and is negotiating with the commercial lender to extend and amend the demand
+line of credit. There can be no assurance that the Company will be successful in
+extending and amending the line of credit nor can there be any assurance that
+such extended and amended line of credit will be on similar terms as the
+existing agreement. Additionally, there can be no assurance that alternative
+funding will be available if required.                    41
+42                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued
+Capital and Operating Leases
+The Company has a $1,750,000 equipment line of credit, collateralized by
+the equipment, bearing interest at the bank base lending rate and expired on
+March 31, 1997. The Company is currently negotiating with the commercial lender
+to extend and amend the equipment line of credit. As of March 1997, the Company
+purchased $1,322,000 of furniture and computer equipment under the equipment
+line of credit.
+The Company has entered into certain operating lease agreements for
+computer equipment and its office and sales facilities, expiring through fiscal
+2001. The Company also leases certain computer equipment and furniture and
+fixtures under capital leases. Under the terms of certain operating lease
+agreements, the Company may be required to pay for utilities, real estate taxes,
+insurance and maintenance expenses.
+On June 2, 1995, the Company signed a new five year operating lease for its
+corporate headquarters. The terms of the new lease provide that the Company will
+make annual rental payments of approximately $202,000.   At March 31, 1997, approximate future minimum lease payments under capital
+and operating leases are as follows in thousands  Year ended March 31,            Capital Leases  Operating Leases
+1998                      $ 400      $ 438
+1999                        339        413
+2000                        339        252
+2001                        122        84
+2002                        25         -
+Total future minimum lease payments       1,225      $1,187
+Amount representing interest           191
+Present value of future minimum lease
+payments on capital leases           1,034
+Current portion                  423
+$ 611
+Rental expense under operating leases was approximately $588,000 1,005,000 and $1,191,000 for the years ended March 31, 1997, 1996 and 1995,
+respectively.                    42
+43                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued
+Royalty and Consulting Arrangements
+During fiscal 1996 the Company entered into a $5,000,000 five year
+applications consulting services contract with a significant customer of the
+Company. The five year applications consulting services contract contains
+volume pricing discounts subject to adjustments for increased costs. The
+Company has a minimum commitment of $2,500,000 for outside applications
+services that will be used by the Company over a five year period. The minimum
+commitment of $2,500,000 will be paid in five yearly payments commencing
+December 31, 1996. These yearly payments are $250,000, $500,000, $550,000 600,000 and $600,000 for the five calendar years beginning December 31, 1996,
+respectively. The Company policy is to recognize the consulting service
+expenses as the expenses are incurred. The Company believes that based on
+current forecasts the minimum payment accruals will be utilized. However, given
+the significant sales fluctuations which may occur in any given period, it is
+possible that the minimum commitment would not be met, thus requiring the
+Company to record a charge in excess of the services utilized. At March 31,
+1997, the Company did not use the minimum first-year commitment of $250,000 and
+has recorded an asset for the unused portion, that can be carried forward under
+the contract, of $88,000. The Company has included such amount in other current
+assets and expects to recognize this amount, along with the fiscal 1998 minimum
+commitment, during the next fiscal year. Pursuant to this reciprocal buying
+agreement, the Company recognized revenue and collected cash in the amount of
+$1,805,000 upon the execution and delivery of software with respect to the
+software license agreement for the year ended March 31, 1996.
+During fiscal 1995 the Company entered into a five year license and royalty
+agreement, as amended, with a significant customer and marketing partner of the
+Company See Note H. Pursuant to this agreement, the Company recognized revenue
+and collected cash in the amount of $1,000,000 upon the execution and delivery
+of software with respect to this software license arrangement. In addition, the
+Company, in connection with an arrangement to license a software module from
+this significant customer, has paid $1,000,000 in prepaid royalties to be
+amortized over the life of the five year agreement, commencing January 1, 1995.
+Also, during fiscal 1996 the Company paid additional royalty amounts of
+$1,000,000 in four quarterly installments. The Company amortizes these
+additional royalty payments to cost of software licenses based upon
+predetermined percentages of revenues generated from the sale of product.
+F. INCOME TAXES   The components of the provision for income taxes consist of the following
+in thousands                      Year Ended March 31,                      
+1997     1996      1995       
+Current:                            
+Federal         $ --      $ --      $344         
+Foreign          120       --       108         
+State           20        9       107         
+140        9       559       
+Deferred:                            
+Federal          --       --       --         
+State           --       --       --         
+--       --       --       
+$140      $ 9      $559       
+43
+44                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued   Income loss before income taxes for domestic and foreign operations are
+as follows in thousands                   Year Ended March 31,
+1997      1996      1995
+Domestic    $2,240     $ 828     $3,668
+Foreign     1,560      783      10
+$3,800     $ 45     $3,658
+The following is a reconciliation between the U.S. federal statutory rate
+and the effective tax rate                               Year Ended March 31,
+1997    1996   1995
+U.S. federal statutory rate               340%   340%   340%
+State taxes, net of applicable federal tax benefit     3    132    19
+Foreign withholding tax                  32     --    29
+Losses not benefited                   335     --     Net operating loss utilized                --     --   128
+Other reductions in valuation allowance          --   601  124
+Non-deductible meals and entertainment           7    329    17
+37%   200%   153%
+The following represents the significant components of the Company net
+deferred tax assets in thousands                              March 31,
+1997     1996
+Deferred tax assets liabilities:
+Federal net operating losses            $ 2,144   $ 1,196
+Tax credit carryforwards               1,426    1,398
+Foreign net operating loss              1,793    1,272
+Deferred revenue                     --      68
+Difference in cost recognition basis, accrual
+for books and cash for tax              456     402
+Depreciation and amortization              200     103
+State tax credits and net operating
+losses, net of federal benefit            717     440
+Capitalized software                  756    510
+Valuation allowance for deferred tax assets     5,980   4,369
+$  --   $                                    The Company believes there is uncertainty surrounding the realization of
+favorable tax benefits in future tax returns; accordingly the net deferred tax
+assets at March 31, 1997 and 1996 have been fully offset by a valuation
+allowance.                    44
+45               CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued
+As of March 31, 1997, the Company had approximately $6,305,000 of net
+operating loss carryforwards for federal income tax purposes which begin to
+expire in the years 2008 through 2012. Approximately $737,000 of the Company
+net operating loss is attributable to the exercises of stock options which, when
+utilized, will be credited to additional paid in capital. Pursuant to a change
+in ownership, $2,700,000 of the federal net operating loss is subject to an
+annual limitation of approximately $150,000. The Company has research and
+development credits for federal and state income tax purposes of approximately
+$860,000 and $314,000, respectively, that begin to expire in 2000. Foreign tax
+credit carryforwards of approximately $507,000 expire in the years 1998 through
+2001. Alternative minimum tax credits of approximately $60,000 carries forward
+indefinitely. The Company has net operating loss carryforwards in foreign
+jurisdictions of approximately $4,924,000 of which approximately $1,083,000
+expire in the years 1997 through 2001.
+G. SIGNIFICANT CUSTOMERS   The following represents significant customer revenue                          Year Ended March 31,
+1997   1996   1995
+Customer A             209%   160%   126% 
+Customer B             193%    --    --  
+Customer C             149%    --    --  
+Customer D             42%    --    --  
+Customer E             33%   65%   172% 
+626%   225%   298%
+H. RELATED PARTY TRANSACTIONS
+The Company acquired Wisdom Systems, Inc. Wisdom, a developer of
+mechanical design automation software products in June 1993, from its parent
+the Parent.
+In June 1993, the Company and an affiliate of the Parent the
+Distributor, entered into a fixed fee distribution license agreement for the
+Italian market. The Distributor purchased for resale 40 licenses totaling
+$1,200,000, payable in four equal quarterly installments of $300,000, commencing
+on July 1, 1993.
+In June 1993, the Company and the Parent entered into a fixed fee license
+agreement for 60 licenses totaling $2,800,000, which agreement was subsequently
+assigned to an affiliate of the Parent the End-User. License fees totaling
+approximately $600,000 were paid based upon the shipment of the master version
+of the licensed products. In September 1994, the Company shipped the master
+version of the enhanced licensed products as required under the agreement and
+the remaining fixed fee amount of $2,200,000 became payable over one year which
+was repaid in full during fiscal 1995.                    45
+46                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued
+The Company has recognized approximately $104,000 and $452,000 in service
+revenues during fiscal 1997 and 1996 respectively under the aforementioned fixed
+fee arrangements. The Company has deferred revenue for the product enhancement
+privileges which include and extend to any replacement products introduced prior
+to installation of the respective licenses. The deferred amounts were determined
+using the Company standard European maintenance fee. These fees are being
+amortized over three years based upon the Distributor contract term of three
+years and the installation schedule of the End User. The Company delivered the
+master versions of the licensed products. There is no right of refund or
+adjustment to the amounts received or remaining significant obligations.
+I. STOCKHOLDERS' EQUITY DEFICIT
+Preferred Stock
+On November 18, 1994, the Board of Directors authorized 4,000,000 shares of
+$01 par value Preferred Stock. The Board of Directors is authorized, subject to
+certain limitations prescribed by law, without further stockholder approval, to
+issue from time to time up to an aggregate of 4,000,000 shares of Preferred
+Stock in one or more series and to fix the designations, preferences,
+qualifications and limitations on restrictions of the shares of each said
+series, including the dividend rights, voting rights, redemption and sinking
+fund provisions, liquidation preferences, conversion rights and preemptive
+rights and the number of shares constituting any series.
+Preferred Share Purchase Rights
+On April 21, 1997, the Board of Directors declared a dividend of one Right
+for each outstanding share of Common Stock, par value $000001 per share, of the
+Company. The Rights were distributed on April 24, 1997, to holders of record on
+that date. The rights will expire on April 24, 2007. Each Right will entitle
+shareholders to buy 1/1000 of a share of Series A preferred stock at an exercise
+price of $3000. Initially, no separate Rights certificates will be distributed.
+The Rights will trade with the Company Common Stock and will not be
+exercisable until one of the following conditions occur: 1 the Company receives
+notice of the acquisition of 20 percent or more of the Company Common Stock by
+a person or group; or 2 such date as the Company Board of Directors
+determines following the commencement of a tender offer for 20 percent or more
+of the Company Common Stock. At the discretion of the Board of Directors, the
+Rights can be redeemed at any time prior to the date that the Rights become
+exercisable. If the Rights are not redeemed by the Board, and the Company is
+acquired, holders of the Rights other than an Acquiring Person will be
+entitled to purchase shares of Preferred Stock of the Company equivalent to
+shares of Common Stock having a fair market value of twice the exercisable
+price.
+Stock Options
+On September 15, 1987 and June 11, 1993, the Board of Directors and
+stockholders approved the Company 1987 Stock Plan and 1993 Stock Plan the
+Plans, respectively. The Plans provide for the granting of incentive stock
+options to officers and employees, to purchase shares of the Company common
+stock at a price not less than fair value, as determined by the Board of
+Directors, on the grant date. The Plans also provide for the granting of
+non-qualified stock options or awards of Common Stock to employees, officers and
+directors of and consultants to the Company. Options expire 10 years from the
+date of grant. Certain executive officers have options that vest eight years
+from the date of grant. If certain performance targets are met, 20% of these
+options will vest linearly over three years annually from the time of
+achievement so long as the executive officer continues to be employed by the
+Company. At March 31, 1997, 1,794,477 shares of Common Stock are reserved for
+issuance under the Plans.                    46
+47                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued   Information related to stock options granted under the Plans is as follows                                           WEIGHTED
+AVERAGE
+EXERCISE    NUMBER
+SHARES      OPTION PRICE     PRICE    EXERCISABLE
+Outstanding at March 31, 1994      719,385    $1375 - $ 5500    $391     281,205
+Granted                254,730     5500 - 11250
+Canceled               110,273    1375 -  6875
+Exercised               24,319    1375 -  4125
+Outstanding at March 31, 1995      839,523     1375 - 11250    $525     305,540
+Granted                369,033     5500 - 11000
+Canceled               52,061    4125 - 11250
+Exercised               79,152    1375 -  6875
+Outstanding at March 31, 1996     1,077,343     1375 - 11250    $644     464,004
+Granted               440,750     4875 - 14500
+Canceled              135,304    4125 - 14500
+Exercised              142,070    1375 - 11250
+Outstanding at March 31, 1997     1,240,719    $1375 - $14500    $633     476,107
+At March 31, 1997, options for 553,758 shares of Common Stock were
+available for future grants.
+At March 31, 1997, fully vested options not issued pursuant to the
+Company Plans to purchase an aggregate of 32,923 shares of Common Stock at a
+weighted average exercise price of $000006 are outstanding.
+On October 24, 1995, the stockholders approved the Company 1995 Employee
+Stock Purchase Plan the Stock Purchase Plan, which is intended to qualify as
+an employee stock purchase plan under Section 423 of the Internal Revenue Code.
+The Stock Purchase Plan covers up to 440,000 shares of the Company Common
+Stock. At March 31, 1997, 30,814 shares of Common Stock were issued under the
+Stock Purchase Plan.
+Stock Compensation Plan
+At March 31, 1997, the Company has several stock-based compensation plans,
+which are described above. The Company applies Accounting Principles Board
+Opinion No. 25 APB Opinion 25, Accounting for Stock Issued to Employees,
+and related interpretations in accounting for its plans. Accordingly, no
+compensation cost has been recognized for its fixed stock option plans and its
+stock purchase plan. Had compensation cost for the Company two stock-based
+compensation plans been determined based on the fair value at the grant dates
+for awards under those plans consistent with the                    47
+48                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued method prescribed by Statement of Financial Accounting Standards No. 123 SFAS
+123 Accounting for Stock-Based Compensation, the Company net income and
+earnings per share would have been reduced to the pro forma amounts indicated
+below                       March 31,       March 31,
+1997         1996
+Net loss income
+As reported            $3,940        $  36
+Pro forma*            $4,791        $ 635
+Primary earnings per share   
+As reported            $ 073        $ 001
+Pro forma*            $ 088        $011   *SFAS No. 123 requires pro forma disclosure of the effect of all options
+granted in fiscal years after March 31, 1995; therefore, there are no pro forma
+amounts required for fiscal 1995. The pro forma effect of the compensation cost
+determined using the fair value-base method are not indicative of future amounts
+when the new method will apply to all vested and non-vested awards.
+The fair value of each option grant is estimated on the date of grant using
+the Black-Scholes option-pricing model. In computing these pro forma amounts,
+the Company has assumed weighted-average assumptions used for grants in 1997 and
+1996, respectively; dividend yield of 00%; expected volatility of 80 percent;
+weighted average risk-free interest rates of 596% and 596%; and expected lives
+of five years. The average fair value of the options granted during 1997 and
+1996 is estimated as $384 and $623, respectively, on the date of the grant.
+Fixed Stock Option Plans
+The Company has two fixed option plans. Under the 1987 Employee Stock
+Option Plan, the Company may grant options to its employees for up to 909,091
+shares of common stock. Under the 1993 Employee Stock Option Plan, the Company
+may grant options to its employees for up to 1,159,091 shares of common stock.
+Under the plans, the exercise price of each option equals the market price of
+the Company stock on the date of grant and option maximum term is 10 years.
+Options are granted throughout the year and typically begin vesting at the end
+of the first year under the Plans.
+The following table summarizes information about fixed stock options
+outstanding at March 31, 1997                      WEIGHTED-
+NUMBER     AVERAGE     WEIGHTED-     NUMBER     WEIGHTED-    
+RANGE OF       OUTSTANDING    REMAINING     AVERAGE    EXERCISABLE    AVERAGE
+EXERCISE PRICES     AT 3/31/97   CONTRACTUAL LIFE  EXERCISE PRICE  AT 3/31/97   EXERCISE PRICE
+$00001 - $ 27500     73,959      209      $12503     73,595     $ 12496
+$41250 - $ 41250     318,413      596      $41250     266,470     $ 41250
+$48750 - $ 48750     327,400      901      $48750       --         50000 - $ 92500     225,494      788      $69141     75,450     $ 68034
+$95000 - $145000     328,376      718      $99613     93,515     $100367                    48
+49                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued
+J. FOURTH QUARTER ADJUSTMENTS AND CHARGES
+The Company recorded net adjustments affecting revenues and receivables of
+approximately $1,544,000 in the fourth quarter of fiscal 1997. Of this amount 1,026,000 relates to an increase in the provision for doubtful accounts which
+the Company recorded after repeated unsuccessful attempts were made to collect
+certain receivables. This provision is principally made up of one large domestic
+receivable and two international receivables. Notwithstanding this fourth
+quarter provision, the Company is continuing to pursue collection of these
+receivables. The remaining $518,000 relates to a sale recorded in the first
+quarter to a new customer. This customer experienced turnover of the key officer
+who committed their respective company to the license agreement. In the fourth
+quarter of fiscal 1997, the Company reversed this sale based upon the customer
+refusal to honor the prior contract.
+The Company recorded a restructuring charge of approximately $239,000 in
+the fourth quarter consisting of severance costs associated with the termination
+of fourteen employees for fiscal 1997. At March 31, 1997, the outstanding unpaid
+balance of $216,000 is included in accrued expenses.
+The Company also recorded in other income a gain of $203,000 based upon
+classifying a common stock investment as a trading security.
+K. ACCRUED EXPENSES   Accrued expenses consist of the following in thousands                           Year Ended March 31,
+1997     1996
+Compensation                $1,347    $ 767
+Value-added tax                922     255
+Other                    1,854    1,155
+$4,123    $2,177
+L. DEFINED CONTRIBUTION PLAN
+In 1991, the Board of Directors adopted the Company 401k Plan the
+401k Plan, which is intended to qualify under Section 401k of the
+Internal Revenue Code of 1986, as amended the Code. All employees who are at
+least 21 years of age and have been employed by the Company for at least six
+months are eligible to participate in the 401k Plan. Each eligible employee
+may elect to contribute to the 401k Plan, through payroll deductions, up to
+15% of his or her salary, subject to statutory limitation.
+The Company may at its discretion make matching contributions on behalf of
+each participating employee in an amount equal to some uniform percentage fixed
+from time to time by the Board of Directors. The Company is not currently making
+matching contributions. If the Company were to do so in the future, under the
+current terms of the 401k Plan, employees would become vested in such Company
+contributions at the rate of 25% per year of service.                    49  50                CONCENTRA CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+M. GEOGRAPHIC DATA
+The Company has subsidiaries in various foreign countries in Europe, which
+sell the Company products and services in their respective geographic areas.
+Revenues are reflected in the geographic areas from which the sales are made.
+Financial information, summarized by geographic area, is as follows in
+thousands:                               North America     Europe      Eliminations    Consolidated
+Year ended March 31, 1997
+Total revenues:
+Unaffiliated customers                  $ 16,973       $ 6,976       $  --       $ 23,949
+Affiliated customers Note H                 104         --         --         104
+Intercompany transfers                    3,526         --       3,526                                                                 Total                          $ 20,603       $ 6,976       $3,526      $ 24,053
+Net income loss                      $ 2,380      $1,560      $  --       $ 3,940
+Identifiable assets                     $ 19,738       $ 5,293       $  --       $ 25,031
+Year ended March 31, 1996 
+Total revenues:
+Unaffiliated customers                  $ 16,822       $ 3,446       $  --       $ 20,268
+Affiliated customers Note H                 452         --         --         452
+Intercompany transfers                    1,297         --       1,297                                                                 Total                          $ 18,571       $ 3,446       $1,297      $ 20,720
+Net income loss                      $  819       $ 783      $  --       $   36
+Identifiable assets                     $ 21,903       $ 3,206       $  --       $ 25,109
+Year ended March 31, 1995 
+Total revenues:
+Unaffiliated customers                  $ 14,696       $ 3,358       $  --       $ 18,054
+Affiliated customers Note H                2,163         --         --        2,163
+Intercompany transfers                    1,283         --       1,283                                                                 Total                          $ 18,142       $ 3,358       $1,283      $ 20,217
+Net income loss                      $ 3,110         11         --       $ 3,099
+Identifiable assets                     $ 23,669       $ 2,793       $  --       $ 26,462
+Intercompany transfers primarily represent shipments of software to
+international subsidiaries and are eliminated from consolidated revenues.
+Export sales to unaffiliated customers were approximately $5,400,000 3,829,000 and $1,197,000 for the years ended March 31, 1997, 1996 and 1995,
+respectively.                    50  51 

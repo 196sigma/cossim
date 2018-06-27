@@ -1,0 +1,806 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA
+Management of Columbia Sportswear Company is responsible for the information and
+representations contained in this report. The financial statements have been
+prepared in conformity with the generally accepted accounting principles we
+considered appropriate in the circumstances and include some amounts based on
+our best estimates and judgements. Other financial information in this report is
+consistent with these financial statements.
+The Company accounting systems include controls designed to reasonably assure
+that assets are safeguarded from unauthorized use or disposition and which
+provide for the preparation of financial statements in conformity with generally
+accepted accounting principles. These systems are supplemented by the selection
+and training of qualified financial personnel and an organizational structure
+providing for appropriate segregation of duties.
+The Audit Committee is responsible for recommending to the Board of Directors
+the appointment of the independent accountants and reviews with the independent
+accountants and management the scope and the results of the annual examination,
+the effectiveness of the accounting control system and other matters relating to
+the financial affairs of the Company as they deem appropriate.
+20
+INDEPENDENT AUDITORS' REPORT The Board of Directors and Shareholders of Columbia Sportswear Company We have audited the accompanying consolidated balance sheets of Columbia
+Sportswear Company as of December 31, 1998 and 1997, and the related
+consolidated statements of operations, shareholders' equity and cash flows for
+each of the three years in the period ended December 31, 1998. These financial
+statements are the responsibility of the Company management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, such financial statements present fairly, in all material
+respects, the consolidated financial position of Columbia Sportswear Company and
+subsidiaries as of December 31, 1998 and 1997, and the results of their
+operations and their cash flows for each of the three years in the period ended
+December 31, 1998, in conformity with generally accepted accounting principles.
+DELOITTE & TOUCHE LLP Portland, Oregon
+February 8, 1999
+21              COLUMBIA SPORTSWEAR COMPANY
+CONSOLIDATED BALANCE SHEETS
+In thousands
+December 31,
+1998        1997
+ASSETS
+Current Assets:
+Cash and cash equivalents                     $     6,777  $     4,001
+Accounts receivable, net of allowance of $3,395 and
+$2,461, respectively                          105,967       76,086
+Inventories Note 3                            74,059       48,300
+Deferred tax asset Note 9                         8,895         -
+Prepaid expenses and other current assets                  2,485       2,430
+Total current assets                          198,183      130,817
+Property, plant, and equipment, net Note 4                 68,692       35,277
+Intangibles and other assets                         2,603       8,383
+Total assets                          $    269,478  $    174,477
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+Notes payable Note 5                      $    34,727  $    20,427
+Accounts payable                              37,514       21,765
+Accrued liabilities Note 6                        15,469       13,128
+Income taxes payable Note 9                         767        229
+Current portion of long-term debt                       201        154
+Distribution payable                              -       5,866
+Total current liabilities                        88,678       61,111
+Long-term debt Note 7                           27,275       2,831
+Deferred tax liability Note 9                        4,111         -
+Total liabilities                            120,064       63,942
+Commitments and contingencies Note 13                      -          Shareholders' Equity:
+Preferred stock; 10,000 shares authorized; none
+issued and outstanding                            -         -
+Common stock; 50,000 shares authorized; 25,267 and
+18,792 issued and outstanding                      124,990       17,886
+Retained earnings                             32,282      101,805
+Accumulated other comprehensive income                   3,478      3,806
+Unearned portion of restricted stock issued for future
+Services                                4,380      5,350
+Total shareholders' equity                       149,414      110,535
+Total liabilities and shareholders' equity           $    269,478  $    174,477
+See accompanying notes to consolidated financial statements.                    22              COLUMBIA SPORTSWEAR COMPANY
+CONSOLIDATED STATEMENT OF OPERATIONS
+In thousands, except per share amounts                                        Year Ended December 31,
+1998       1997       1996
+Net sales                             $   427,278  $   353,452  $   298,988
+Cost of sales                              240,457     198,946     176,859
+Gross profit                              186,821     154,506     122,129
+Selling, general, and administrative                  131,023     110,204      95,431
+Income from operations                          55,798      44,302      26,698
+Interest expense, net                           4,075      3,593      4,220
+Income before income tax                         51,723      40,709      22,478
+Income tax expense Note 9                       18,979      1,413      1,468
+Net income                            $   32,744  $   39,296  $   21,010
+Net income per share Note 16:
+Basic                              $    138  $    209  $    124
+Diluted                             $    136  $    206  $    124
+Weighted average shares outstanding:
+Basic                                 23,731      18,792      16,997
+Diluted                                24,058      19,103      16,997
+Pro forma net income data unaudited:
+Income before income taxes, as reported                     $   40,709  $   22,478
+Pro forma provision for income taxes Note 1                     16,284      8,991
+Pro forma net income                              $   24,425  $   13,487
+Proforma net income per share Note 1:
+Basic                                    $    130  $    079
+Diluted                                   $    128  $    079
+See accompanying notes to consolidated financial statements.                    23              COLUMBIA SPORTSWEAR COMPANY
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+In thousands
+Year Ended December 31,
+1998     1997     1996
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net Income                                    $  32,744  $  39,296  $  21,010
+Adjustments to reconcile net income to net cash provided by
+operating activities:
+Depreciation and amortization                           7,641     7,518     6,419
+Non-cash compensation                                970      970     5,655
+Loss on disposal of property, plant, and equipment                  102       4      155
+Deferred income tax provision                           4,784      -       -
+Tax adjustment related to options                          112      -       -
+Changes in operating assets and liabilities:
+Accounts receivable                              27,426   17,674    26,340
+Inventories                                  24,373   14,745    13,749
+Prepaid expenses and other current assets                     272     963     709
+Intangibles and other assets                           152    2,577    5,585
+Accounts payable                                12,884     5,199    3,605
+Accrued liabilities                               2,221     1,875     3,385
+Income taxes payable                                982       -       -
+Net cash provided by operating activities                    425    18,903    66,814
+CASH FLOW FROM INVESTING ACTIVITIES:
+Additions to property, plant, and equipment                     40,408   14,816   10,103
+Proceeds from sale of property, plant, and equipment                   161      49      33
+Purchase of short-term certificates of deposit                       -       -     855
+Maturity of short-term investments                             -      813       -
+Net cash used in investing activities                    40,247   13,954   10,925
+CASH FLOW FROM FINANCING ACTIVITIES:
+Net borrowing repayment on notes payable                      13,289     9,284    39,876
+Issuance repayment on long-term debt                        24,490     137    1,250
+Proceeds from options exercised                             366       -       -
+Proceeds from initial public offering                        106,850       -       -
+Capital contributions from shareholders                          -       -      30
+Distributions paid to shareholders                         102,395   12,791   12,562
+Net cash provided by used in financing activities              42,600    3,644   53,658
+NET EFFECT OF EXCHANGE RATE CHANGES ON CASH                         2     587     236
+NET INCREASE IN CASH AND CASH EQUIVALENTS                        2,776      718     1,995
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR                       4,001     3,283     1,288
+CASH AND CASH EQUIVALENTS, END OF YEAR                       $   6,777  $   4,001  $   3,283
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+Cash paid during the year for interest, net of capitalized interest       $  3,874  $   4,055  $   4,419
+Income taxes                                     17,983     1,510     2,765
+SUPPLEMENTAL DISCLOSURES OF NONCASH INVESTING AND
+FINANCING ACTIVITIES:
+Property, plant, and equipment acquired through assumption of debt        $    -  $     -  $   3,123
+Note receivable from sale of fixed assets                         -      152       -
+Application of deposit in land purchase                         331       -       -
+Repayment of related party note receivable                      5,813       -       See accompanying notes to consolidated financial statements.                    24              COLUMBIA SPORTSWEAR COMPANY
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+In thousands
+Unearned
+Portion
+of
+Restricted
+Stock
+Common Stock            Accumulated   Issued
+Other     For
+Shares        Retained  Comprehensive   Future  Comprehensive
+Outstanding   Amount   Earnings     Income  Services     Income    Total
+BALANCE, JANUARY 1,1996          16,992  $ 2,163  $  68,567  $    272 $    -          $  70,458
+Comprehensive income
+Net income                            21,010                $   21,010    21,010
+Other comprehensive income, net of
+tax
+Foreign currency translation
+adjustment                                   392            392    392
+Comprehensive income                                          $   20,618
+Capital contribution              -     30      -        -      -              30
+Issuance of common stock          1,800   15,693      -        -   6,320            9,373
+Distribution to shareholders          -     -    8,543       -      -            8,543
+BALANCE, DECEMBER 31, 1996         18,792   17,886    81,034      664   6,320           91,936
+Comprehensive income
+Net income                            39,296                $   39,296    39,296
+Other comprehensive income, net of
+tax
+Foreign currency translation
+adjustment                                  3,142           3,142   3,142
+Comprehensive income                                          $   36,154
+Distribution to shareholders          -     -   18,525       -      -           18,525
+Amortization of unearned
+compensation                  -     -      -        -     970             970
+BALANCE, DECEMBER 31, 1997         18,792   17,886   101,805     3,806   5,350           110,535
+Comprehensive income
+Net income                            32,744                $   32,744    32,744
+Other comprehensive income, net of
+tax
+Foreign currency translation
+adjustment                                    328             328     328
+Comprehensive income                                          $   33,072
+Initial public offering, net of
+expenses                  6,440  106,850                                106,850
+Exercise of employee stock options       35    366                                  366
+Tax benefit from exercise of stock
+options                         112                                 112
+Distribution to shareholders                   102,267                        102,267
+Amortization of unearned
+compensation                                           970             970
+BALANCE, DECEMBER 31, 1998         25,267  $124,990  $  32,282  $   3,478 $ 4,380         $ 149,414
+See accompanying notes to consolidated financial statements                    25
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS NOTE 1 - BASIS OF PRESENTATION AND ORGANIZATION
+Nature of the business Columbia Sportswear Company the Company is a global leader in the design,
+manufacture, marketing and distribution of active outdoor apparel, including
+outerwear, sportswear, footwear, and related accessories.
+Pro forma adjustments With completion of the initial public offering of Common Stock in the first
+quarter of 1998, the Company is subject to federal and state income taxes from
+the Termination Date. The pro forma consolidated statements of operations data
+for each of the two years in the period ended December 31, 1997 reflect
+adjustments for income taxes based upon income before provision for income taxes
+as if the Company had been subject to additional federal and state income taxes
+based upon a pro forma effective tax rate of 40%.
+Pro forma net income per share Pro forma net income per share is based on the weighted average number of shares
+of Common Stock outstanding and dilutive common equivalent shares from stock
+options using the treasury stock method. In addition, the average shares
+outstanding reflect the conversion of voting and nonvoting shares into shares of
+voting Common Stock and the subsequent conversion of each share of voting Common
+Stock into 059 shares of Common Stock pursuant to a reverse stock split which
+occurred at consummation of the offering of Common Stock by the Company.
+Common equivalent shares issued during 1997 have been included in the
+calculation of diluted net income per share using the treasury stock method as
+if they were outstanding in 1997 with a price equivalent to $18 per share.
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of presentation The consolidated financial statements include the accounts of Columbia
+Sportswear Co. CSC and all wholly-owned subsidiaries, including GTS Inc.
+GTS, Columbia Sportswear Canada Ltd. CSCL, Columbia Sportswear Holdings,
+Ltd. CSHL, Columbia Sportswear Japan Ltd. CSC Japan, Columbia Sportswear
+Germany GmbH CSC Germany, Columbia Sportswear France SNC. CSC France,
+and Columbia Sportswear Korea CSC Korea collectively, the Company.
+Basis of consolidation All significant intercompany balances and transactions have been eliminated.
+Pursuant to a plan of share exchange on December 18, 1997, CSC acquired all of
+the outstanding stock of GTS. As a result of this acquisition, CSCL and CSHL
+became wholly owned subsidiaries of CSC. The plan of share exchange has been
+accounted for in a manner similar to a pooling-of-interest and, accordingly, the
+combined financial statements contained herein are presented as if GTS had
+always been a wholly owned subsidiary of CSC.
+26
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Continued
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from these estimates.
+Cash and cash equivalents Cash and cash equivalents represent cash and short-term, highly liquid
+investments with maturities of three months or less at date of acquisition.
+Accounts receivable Accounts receivable have been reduced by an allowance for doubtful accounts,
+which was $3,395,000, $2,461,000 and $2,440,000 in 1998, 1997 and 1996,
+respectively. The net charges to this reserve were $2,643,000, $2,636,000 and
+$2,338,000 in 1998, 1997 and 1996, respectively.
+Inventory valuation Inventories are carried at the lower of cost or market. Cost is determined using
+the first-in, first-out method.
+Property, plant, and equipment Property, plant, and equipment are stated at cost. Depreciation of equipment and
+amortization of leasehold improvements is provided using the straight-line
+method over the estimated useful lives of the assets, ranging from 3 to 10
+years. Buildings are depreciated using the straight-line method over 30 years.
+Long-lived assets held and used by the Company are reviewed for impairment when
+events and circumstances indicate costs may not be recoverable.
+Intangibles and other assets Goodwill is being amortized on a straight-line basis over eight years.
+Income taxes In accordance with Statement of Financial Accounting Standards SFAS No. 109
+Accounting for Income Taxes, deferred income taxes are provided to recognize
+the effect of temporary differences between tax and financial statement
+reporting. Prior to its initial public offering, the Company elected to be
+treated as an S corporation under provisions of the Internal Revenue Code of
+1986. Accordingly, payment of federal and most state taxes on income was the
+responsibility of the shareholders rather than the Company. In the states of
+California and New York, the Company elected C corporation status and was
+subject to those states income taxes. CSCL is subject to federal and provincial
+income taxes in Canada.
+Just prior to the initial public offering, the Company terminated its S
+corporation status. The Company retained the tax basis of the assets and
+liabilities of the S corporation as of the termination date and has recorded
+deferred income taxes of approximately $2,000,000 for the income tax effect of
+cumulative temporary differences in accordance with SFAS 109.
+27
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Continued
+In connection with the offerings and the termination of the Company S
+corporation status, the Company entered into a tax indemnification agreement
+with each of its shareholders, including Gertrude Boyle, Timothy P. Boyle, Sarah
+Bany, Don Santorufo and certain trusts. The agreements provide that the Company
+will indemnify and hold harmless each of these shareholders for federal, state,
+local or foreign income tax liabilities and costs relating thereto, resulting
+from any adjustment to the Company income that is the result of an increase or
+change in character of the Company income during the period it was treated as
+an S corporation. The agreements also provide that if there is a determination
+that the Company was not an S corporation prior to the Offerings, the
+shareholders will pay to the Company certain refunds actually received by them
+as a result of the determination.
+Foreign currency translation The assets and liabilities of the Company foreign subsidiaries have been
+translated into U.S. dollars using the exchange rates in effect at period end,
+and the net sales and expenses have been translated into U.S. dollars using the
+average exchange rates in effect during the period. Adjustments resulting from
+translation adjustments are included as a separate component of shareholders'
+equity.
+Other comprehensive income Effective January 1, 1998, the Company adopted SFAS No. 130, Reporting
+Comprehensive Income, and has presented all periods on a comparative basis.
+Other comprehensive income consists of the current increase or decrease in
+foreign currency translation adjustments.
+Fair value of financial instruments Based on borrowing rates currently available to the Company for bank loans with
+similar terms and maturities, the fair value of the Company long-term debt
+approximates the carrying value. Furthermore, the carrying value of all other
+financial instruments potentially subject to valuation risk principally
+consisting of cash and cash equivalents, accounts receivable and accounts
+payable also approximate fair value.
+Advertising costs Advertising costs are expensed as incurred. Advertising expense was $18,666,000 16,649,000 and $12,006,000 for the years ended December 31, 1998, 1997 and
+1996, respectively.
+Product warranty Substantially all of the Company products carry lifetime warranty provisions
+for defects in quality and workmanship. The Company estimated liability for
+future warranty claims related to past sales at December 31, 1998, 1997 and 1996
+is approximately $3,700,000, $3,400,000 and $2,699,000, respectively, and is
+recorded in accrued expenses. Warranty expense was approximately $2,852,000 2,848,000 and $2,800,000 for the years ended December 31, 1998, 1997 and 1996,
+respectively.
+Recent accounting pronouncements In June 1998, the Financial Accounting Standards Board FASB issued SFAS No.
+133, Accounting for Derivative Instruments and Hedging Activities. This
+statement is effective for all fiscal quarters of all fiscal years beginning
+after June 15, 1999 and establishes accounting
+28
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Continued
+and reporting standards for derivative instruments, including certain derivative
+instruments embedded in other contracts, and for hedging activities. The Company
+is evaluating the effect of this statement on its financial position and results
+of operations. NOTE 3 - INVENTORIES
+Inventories consist of the following in thousands                      December 31,
+1998      1997
+Raw Materials            $  4,071    $  4,565
+Work In process             5,576      7,637
+Finished goods             64,412     36,098
+$ 74,059    $ 48,300
+NOTE 4 - PROPERTY, PLANT, AND EQUIPMENT, NET
+Property, plant, and equipment consist of the following in thousands                      December 31,
+1998      1997
+Land                $  4,740    $  1,359
+Buildings               25,249     12,337
+Machinery and equipment        37,617     24,337
+Furniture and fixtures         6,469      5,326
+Leasehold improvements         6,420      6,428
+Construction in progress        15,836      7,704
+96,331     57,491
+Less accumulated depreciation     27,639     22,214
+$ 68,692    $ 35,277
+NOTE 5 - SHORT TERM BORROWINGS AND CREDIT LINES
+The Company has available an unsecured operating line of credit providing for
+borrowings to a maximum of $90,000,000 during the period from August 1 to
+December 15, 1998 and $50,000,000 at all other times. The maturity date of this
+agreement is June 30, 1999. Interest, payable monthly, is computed at the bank
+prime rate minus up to 21% per annum, representing an effective interest rate
+of 575% and 650% at December 31, 1998 and 1997, respectively. The agreement
+also includes a fixed rate option based on the Eurodollar rate plus up to 75
+basis points. The balance outstanding was $16,370,000 and $13,992,000 at
+December 31, 1998 and 1997, respectively. The unsecured operating line of credit
+requires the Company to comply with certain covenants including a Capital Ratio
+which limits indebtedness to Tangible Net Worth. If the Company defaults on its
+payments, it is prohibited, subject to certain exceptions, from making dividend
+payments or other distributions.
+The Company also has available an unsecured revolving line of credit of
+$25,000,000 with a $45,000,000 import line of credit to issue documentary
+letters of credit on a sight basis. The
+29
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 5 - SHORT TERM BORROWINGS AND CREDIT LINES Continued
+combined limit under this agreement is $70,000,000. The revolving line accrues
+interest at the bank prime rate minus 2% per annum. The revolving line also
+has a fixed rate option based on the bank cost of funds plus 35 basis points.
+There was no balance outstanding on this line as of December 31, 1998 and 1997.
+The Company is party to a Buying Agency Agreement with Nissho Iwai American
+Corporation and its Canadian affiliate Nissho pursuant to which Nissho
+provides the Company an unsecured line of credit. This line of credit is used to
+finance the purchase of goods outside the U.S. which are produced by the
+Company independent manufacturers worldwide. The available funds are limited
+to $120,000,000 with a sublimit of $70,000,000 on the import line of credit.
+Borrowings bear interest at a rate of 35% above the three month LIBOR rate. In
+addition, the Company is obligated to pay Nissho a commission of 15% of the FOB
+price of the goods purchased by Nissho in its capacity as buying agent. The
+agreement expires September 30, 2001 but will automatically renew for a three
+year term unless either party elects otherwise. The balance outstanding on the
+import line of credit was $18,494,000 and $13,397,000 at December 31, 1998 and
+1997, respectively, and is included in accounts payable. At December 31, 1998,
+the Company had $46,204,000 of firm purchase orders placed under these financing
+arrangements.
+CSCL has available a line of credit providing for borrowing to a maximum of
+C$18,000,000 US$13,138,000 at December 31, 1998. Borrowings against this line
+of credit bear interest at either the B/A option rate, which is the bank prime
+acceptance fee minus 50 basis points or at the prime rate. B/A are issued in
+multiples of C$100,000 with a maturity of not less than 30 days and not more
+than 360 days. The facility is guaranteed by the Company. At December 31, 1998,
+there was no balance outstanding on this line. At December 31, 1997, the entire
+balance outstanding of C$7,000,000 US$4,894,000 was borrowed under the B/A
+option rate, at an average interest rate of 406%. The Canadian prime lending
+rate was 675% and 60% at December 31, 1998 and 1997, respectively.
+At December 31, 1998, the Company European branch had bank borrowings
+outstanding of $9,175,000 at an interest rate of 37 At December 31, 1998 and 1997, the Company Japanese subsidiary had bank
+borrowings outstanding of $9,182,000 and $1,541,000 at an interest rate of
+1625%.
+NOTE 6 - ACCRUED LIABILITIES
+Accrued liabilities consist of the following in thousands                                  December 31,
+1998      1997
+Accrued salaries, bonus, vacation and other benefits    $  8,395    $  7,707
+Accrued warranty reserve                    3,700      3,400
+Other                              3,374      2,021
+$ 15,469    $ 13,128
+30
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 7 - LONG-TERM DEBT
+Long-term debt consists of the following in thousands                         December 31,
+1998      1997
+Mortgage note payable          $  2,476    $  2,985
+Senior promissory notes payable       25,000        -
+Less current portion             201      154
+$ 27,275    $  2,831
+The Company assumed a mortgage in connection with the acquisition of a
+distribution center. The loan matures in June 2009 and bears interest at 876%.
+In connection with current capital projects, the Company entered into a note
+purchase agreement. Pursuant to the note purchase agreement, the Company issued
+senior promissory notes in the aggregate principal amount of $25 million,
+bearing an interest rate of 668% and maturing August 11, 2008. Proceeds from
+the notes are being used to finance the expansion of the Company distribution
+center in Portland, Oregon. Up to an additional $15 million in shelf notes may
+be issued under the note purchase agreement. The Senior Promissory Notes require
+the Company to comply with certain ratios related to indebtedness to earnings
+before interest, taxes, depreciation and amortization EBITDA and Tangible
+Net Worth.
+Principal payments due on these notes as of December 31, 1998 were as follows
+in thousands                                  Senior
+Mortgage note   promissory note
+1999                 $     201   $       -
+2000                      219          -
+2001                      240          -
+2002                      261        3,571
+2003                      285        3,571
+Thereafter                  1,270        17,858
+$    2,476   $    25,000
+NOTE 8 - SHAREHOLDERS' EQUITY
+The Company is authorized to issue 50,000,000 shares of Common Stock. At
+December 31, 1998 and 1997, 25,267,214 and 18,792,176 shares of Common Stock
+were issued and outstanding. Shares for all periods are restated to reflect a
+400-for-1 split in 1996. Additionally, all shares and per share amounts for all
+periods are restated to reflect the conversion of voting and nonvoting shares
+into voting shares of Common Stock and the subsequent conversion of each share
+of voting Common Stock into 059 shares of Common Stock pursuant to a reverse
+stock split which occurred at consummation of the offering of Common Stock by
+the Company.
+NOTE 9 - INCOME TAXES
+The Company applies an asset and liability approach that requires the
+recognition of deferred tax assets and liabilities for the expected future tax
+consequences of events that have been recognized in the Company financial
+statements or tax returns. In estimating future tax consequences, the Company
+generally considers all expected future events other than enactment of changes
+in the tax laws or rates. Deferred taxes are provided for temporary differences
+between assets and liabilities for financial reporting purposes and for income
+tax
+31
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 9 - INCOME TAXES Continued
+purposes and valuation allowances are recorded against net deferred tax assets
+when appropriate. No U.S. income tax provisions have been provided on the
+cumulative undistributed earnings of foreign operations as it is the Company
+intention to utilize those earnings in those foreign operations for an
+indefinite period of time.
+Deferred income taxes arise from temporary differences between the carrying
+amounts of assets and liabilities for financial reporting purposes and the
+amounts used for income tax purposes. In addition to the initial recording of
+the net deferred tax asset of $2 million at March 26, 1998, the Company also
+recorded a net increase in temporary differences of $2,784,000, resulting in a
+net deferred tax asset of $4,784,000 at December 31, 1998. The net deferred tax
+asset consists of a current asset of $8,895,000 and a non-current liability of
+$4,111,000 at December 31, 1998.
+Undistributed earnings of the Company Canadian subsidiary amounted to
+approximately $6,750,000 on December 31, 1998. Those earnings are considered to
+be indefinitely reinvested. Upon distribution of those earnings in the form of
+dividends or otherwise, a portion would be subject to both U.S. income taxes and
+foreign withholding taxes, less an adjustment for applicable foreign tax
+credits. Determination of this amount is not practicable because of the
+complexities associated with its hypothetical calculation.
+The components of the provision for income taxes consists of the following in
+thousands Year ended December 31,
+in thousands                          1998
+Current:
+Federal                         $  17,594
+State and Local                        3,066
+Non-U.S.                           3,103
+23,763
+Deferred:
+Federal                           4,262
+State and Local                        522
+Non-U.S.                             -
+4,784
+Provision for income taxes                $  18,979
+The following is a reconciliation of the normal expected statutory Federal
+income tax rate to the effective rate reported in the financial statements Year ended December 31,
+percent of income                        1998
+Provision for federal income taxes at the statutory rate      350%
+State and local income taxes, net of Federal benefit        37
+Non-U.S. income taxed at different rates              15
+Initial recording of deferred tax asset              41
+Other                                06
+Actual provision for income taxes                 367%
+The provision for income taxes differs from the amounts computed by applying the
+statutory federal income tax rate to income before income taxes for 1997 and
+1996 because the Company income was not subject to federal and certain state
+income taxes.
+32
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 9 - INCOME TAXES Continued
+Significant components of the Company deferred taxes are as follows Year ended December 31,
+in thousands                           1998
+Deferred tax assets:
+Nondeductible accruals and allowances           $   5,981
+Capitalized Inventory Costs                   2,914
+8,895
+Deferred tax liabilities:
+Depreciation and amortization                 2,531
+Deferred compensation                     1,721
+Other, net                            141
+4,111
+Total                            $   4,784
+NOTE 10 - ACQUISITION OF COLUMBIA OUTFITTERS
+On March 4, 1998 the Company acquired Columbia Outfitters, Inc., an operator of
+retail stores in Bend, Oregon, from a related party for a purchase price of
+approximately $1,389,000. Goodwill of $911,000, net of amortization of $94,000,
+associated with this purchase is included in intangibles and other assets. The
+effect of this acquisition did not have a material effect on the Company
+consolidated financial statements.
+NOTE 11 - PROFIT SHARING PLAN
+The Company has a 401k profit-sharing plan, which covers substantially all
+employees with more than ninety days of service.
+The Company may elect to make discretionary matching and/or non-matching
+contributions. All contributions to the plan are determined by the Board of
+Directors and totaled $1,666,000, $1,681,000, and $1,465,000 for the years ended
+December 31, 1998, 1997 and 1996, respectively.
+NOTE 12 - PARTICIPATION SHARE AGREEMENT
+Effective December 1990, the Company adopted a Participation Share Agreement
+the Participation Plan with a key employee. The Participation Plan provided
+for the grant of participation shares equivalent to 10% of the Company, which
+were to be awarded at various dates through January 2000. Shares awarded were
+subjected to vesting at a rate of 20% per year. The original Participation Plan
+granted the employee deferred compensation in the appreciation of a defined
+per-share book value of the Company since January 1987 and contained an
+anti-dilutive provision.
+Effective December 31, 1996, the original Participation Plan was terminated and
+a Deferred Compensation Conversion Agreement the Agreement was entered into.
+Under the Agreement, the participation shares, whether or not vested or awarded
+under the Participation Plan, were converted to 1,800,435 shares of Common
+Stock. Of the converted shares, 725,114 shares of Common Stock awarded are
+subject to vesting through December 2004.
+33
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 12 - PARTICIPATION SHARE AGREEMENT Continued
+The total value of the share conversion is $15,693,000 $872 per share of
+Common Stock, of which $6,320,000 was unvested as of December 31, 1996. The
+unvested portion is recorded as a reduction in shareholders' equity and will be
+amortized to compensation expense through December 2004 as shares are earned.
+Compensation expense related to the Participation Plan and the 1996 conversion
+totaled $970,000, $970,000, and $5,742,000 for the years ended December 31,
+1998, 1997 and 1996, respectively. The agreement also provided for a cash bonus
+of $2,750,000 which was paid in 1996 in consideration of past services.
+Additionally, the agreement provided for bonuses to be paid in amounts equal to
+the accrued interest due and owing on the notes receivable from the shareholder.
+These bonuses were $90,000 and $330,000 in 1998 and 1997, respectively. The
+notes receivable from shareholder consisted of notes receivable in the amounts
+of $3,818,000 and $1,905,000 which bore interest at 631% and 649 respectively. These notes were included in other assets in 1997 and repaid by
+the shareholder in full during 1998.
+NOTE 13 - COMMITMENTS AND CONTINGENCIES
+The Company leases certain operating facilities from shareholders/directors of
+the Company. Total rent expense, including month-to-month rentals, for these
+leases amounted to $271,000, $198,000, and $277,000 for the years ended December
+31, 1998, 1997 and 1996, respectively.
+In March 1996 the Company acquired the distribution center for approximately
+$45 million from a shareholder and an officer of the Company from whom the
+Company had previously leased the facility on a long-term basis.
+Rent expense was $2,179,000, and $2,941,000, and $2,408,000 for non-related
+party leases during the years ended December 31, 1998, 1997 and 1996,
+respectively.
+Future minimum payments on all lease obligations greater than one year are as
+follows amounts in thousands                      Non-related    Related
+Year ending December 31,            Parties    Parties      Total
+-                                                    
+1999                    $   3,441  $    294  $   3,735
+2000                       2,259      305     2,564
+2001                       1,129      317     1,446
+2002                        745      266     1,011
+2003                        543       -      543
+Thereafter                    1,658       -     1,658
+$   9,775  $   1,182  $  10,957
+The Company is a party to various legal claims, actions and complaints. Although
+the ultimate resolution of legal proceedings cannot be predicted with certainty,
+management believes that disposition of these matters will not have a material
+adverse effect on the Company consolidated financial statements.
+34
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 14 - STOCK INCENTIVE PLAN
+On March 12, 1997, the Board of Directors of the Company approved the 1997 Stock
+Incentive Plan the Plan. In January 1998, the Board of Directors increased
+the number of shares authorized for issuance under the Plan from 2,000,000 to
+2,500,000 shares. The options become exercisable ratably over a five-year period
+beginning from the date of grant and expire ten years from the date of grant.
+The following table summarizes the stock option activity under the Company
+option plan                                    Weighted
+Average
+Number   Exercise
+Of shares     price
+Options outstanding at January 1, 1997              Granted                          736,774  $  10400
+Options outstanding at December 31, 1997         736,774    10400
+Granted                          465,500    19625
+Canceled                         17,283    9680
+Exercised                         35,038    10452
+Options outstanding at December 31, 1998        1,149,953  $  14146
+In October 1995 the FASB issued SFAS No. 123, Accounting for Stock-Based
+Compensation, which defines a fair value based method of accounting for employee
+stock options and similar equity instruments and encourages all entities to
+adopt that method of accounting for all of their employee stock compensation
+plans. However, it also allows an entity to continue to measure compensation
+cost for those plans using the method of accounting prescribed by Accounting
+Principles Board Opinion No. 25 APB 25. Entities electing to remain with the
+accounting in APB 25 must make pro forma disclosures of net income and, if
+presented, earnings per share, as if the fair value based method of accounting
+defined in SFAS No. 123 had been adopted.
+The Company has elected to account for the Plan under APB 25; however, the
+Company has computed, for pro forma disclosure purposes, the value of all stock
+options granted during 1998 and 1997 using the Black-Scholes option pricing
+model as prescribed by SFAS No. 123 using the following weighted average
+assumptions                        1998         1997
+Risk-free interest rate          577 - 571%     669 - 577%
+Expected dividend yield            0%          0%
+Expected lives              4 to 8 years     4 to 8 years
+Expected volatility             5136%       Minimum value
+Using the Black-Scholes methodology, the total value of stock options granted
+during 1998 and 1997 was $5,040,000 and $2,431,000, respectively which would be
+amortized on a pro forma basis over the vesting period of the options. The
+weighted average fair value of options granted during 1998 and 1997 was $1083
+and $330 per share, respectively.
+35
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 14 - STOCK INCENTIVE PLAN Continued
+If the Company had accounted for the Plan in accordance with SFAS No. 123, the
+Company net income and earnings per share would approximate the pro forma
+disclosures below in thousands, except per share amounts                              1998            1997
+As reported  Proforma   As reported  Proforma
+Net income                    $ 32,744  $ 31,616    $ 39,296  $ 38,970
+Net income per share-basic            $  138  $  133    $  209  $  207
+Net income per share-diluted           $  136  $  131    $  206  $  205 The effects of applying SFAS No. 123 in this pro forma disclosure are not
+indicative of future amounts.
+The following table summarizes information about stock options outstanding at
+December 31, 1998                   Options
+Outstanding           Options Exercisable
+Weighted Avg.   Weighted           Weighted
+Range of            Remaining    Average   Number of    Average
+Exercise      Number  Contractual    Exercise     Shares    Exercise
+Prices    Outstanding   Life yrs     Price  Exercisable     Price
+$ 968      592,729      822    $ 9680    188,630    $ 9680
+$ 1520       91,724      888     15200     21,440     15200
+$19625      465,500      936     19625     56,965     19625
+$968 - 19625   1,149,953      873    $14146    267,035    $12245 NOTE 15 - SEGMENT INFORMATION
+The Company operates predominantly in one industry segment: the design,
+production, marketing and selling of active outdoor apparel, including
+outerwear, sportswear, rugged footwear, and related accessories. During 1998,
+net sales to one major customer amounted to approximately 106% of total net
+sales.
+The geographic distribution of the Company net sales, income before income
+tax, identifiable assets, interest expense, and depreciation and amortization
+expense are summarized in the following table in thousands for the years ended
+December 31, 1998, 1997 and 1996. Inter-geographic net sales, which are recorded
+at a negotiated mark-up and eliminated in consolidation, are not material.                                  1998       1997       1996
+Net sales to unrelated entities:
+United States                    $  335,897  $   286,896  $   245,469
+Canada                           38,782      31,135      27,208
+Other International                    52,599      35,421      26,311
+$  427,278  $   353,452  $   298,988
+Income loss before income tax:
+United States                    $   50,132  $   42,970  $   22,401
+Canada                           7,370      2,325      2,810
+Other International                     189      993      1,487
+Less interest and other income expense
+and eliminations                      5,590     3,593     4,220
+$   51,723  $   40,709  $   22,478
+36
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 15 - SEGMENT INFORMATION Continued                                         
+Assets:
+United States                 $  247,125  $  171,545  $  129,332
+Canada                       16,696     15,416     15,568
+Other international                33,571     15,041     10,198
+Total identifiable assets             297,392    202,002    155,098
+Eliminations                   27,914    27,525    19,131
+Total assets               $  269,478  $  174,477  $  135,967
+Interest expense income, net:
+United States                 $   3,340  $   3,048  $   3,435
+Canada                        753      665      826
+Other International                  18     120      41
+$   4,075  $   3,593  $   4,220
+Depreciation and amortization expense:
+United States                 $   6,934  $   6,775  $   5,885
+Canada                        392      443      456
+Other International                  315      300       78
+$   7,641  $   7,518  $   6,419
+NOTE 16 - NET INCOME PER SHARE
+SFAS No. 128, Earnings Per Share requires dual presentation of basic and
+diluted earnings per share EPS. Basic EPS is based on the weighted average
+number of common shares outstanding. Diluted EPS reflects the potential dilution
+that could occur if securities or other contracts to issue common stock were
+exercised or converted into common stock.
+There were no adjustments to net income in computing diluted earnings per share
+for the year ended December 31, 1998, 1997 and 1996. A reconciliation of the
+common shares used in the denominator for computing basic and diluted net income
+per share is as follows in thousands, except per share amounts                                    Year Ended
+December 31,
+1998    1997    1996
+Weighted average common shares outstanding, used in
+computing basic net income per share             23,731   18,792   16,997
+Effect of dilutive stock options                 327     311      -
+Weighted-average common shares outstanding, used in
+computing diluted net income per share            24,058   19,103   16,997
+Net income per share of common stock:
+Basic                          $ 138   $ 209   $ 124
+Diluted                         $ 136   $ 206   $ 124                    37
+COLUMBIA SPORTSWEAR COMPANY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Continued NOTE 17 - FINANCIAL RISK MANAGEMENT AND DERIVATIVES
+The Company enters into foreign currency contracts in order to reduce the impact
+of certain foreign currency fluctuations. Firmly committed transactions and the
+related receivables and payables may be hedged with forward exchange contracts
+or purchased options. Anticipated, but not yet firmly committed, transactions
+may be hedged through the use of purchased options. Premiums paid on purchased
+options and any gains are included in prepaid expenses or accrued liabilities
+and are recognized in earnings ratably over the life of the option. Gains and
+losses arising from foreign currency forward and option contracts, and
+cross-currency swap transactions are recognized in income or expense as offsets
+of gains and losses resulting from the underlying hedged transactions. Hedge
+effectiveness is determined by evaluating whether gains and losses on hedges
+will offset gains and losses on the underlying exposures. This evaluation is
+performed at inception of the hedge and periodically over the life of the hedge.
+Cash flows from risk management activities are classified in the same category
+as the cash flows from the related investment, borrowing or foreign exchange
+activity. The Company is exposed to certain losses in the event of
+nonperformance by the other parties to these agreements, but the Company does
+not anticipate nonperformance by the other parties.
+The counterparties to derivative transactions are major financial institutions
+with high investment grade credit ratings. However, this does not eliminate the
+Company exposure to credit risk with these institutions. This credit risk is
+generally limited to the unrealized gains in such contracts should any of these
+counterparties fail to perform as contracted and is immaterial to any one
+institution at December 31, 1998 and 1997. To manage this risk, the Company has
+established strict counterparty credit guidelines which are continually
+monitored and reported to Senior Management according to prescribed guidelines.
+As a result, the Company considers the risk of counterparty default to be
+minimal.
+The Company manages a portion of its exposure to fluctuations in currencies
+related to foreign sales and accounts receivable with short-term strategies
+after giving consideration to market conditions, contractual agreements,
+anticipated sale and purchase transactions, and other factors affecting the
+Company risk profile. At December 31, 1998 and 1997, the Company had
+approximately $0 and $7,050,000 notional in foreign currency option contracts
+and approximately $9,700,000 and $2,000,000 notional in forward exchange
+contracts. The carrying value and unrealized gains and losses related to these
+contracts were not material at December 31, 1998 and 1997.
+38
+SUPPLEMENTAL INFORMATION - QUARTERLY FINANCIAL DATE Unaudited
+The following table summarizes the Company quarterly financial data for the
+past two years ending December 31, 1998 in thousands, except per share
+amounts 1998            First Quarter   Second Quarter   Third Quarter   Fourth Quarter
+-                                                                
+Net sales           $  74,938     $  67,177    $  173,956    $  111,207
+Gross profit            28,937       28,383      79,645       49,856
+Net income             2,101        564      22,872       7,207
+Net income per
+share - basic 1          011        002       091        029
+- diluted 1         011        002       090        028
+1997            First Quarter   Second Quarter   Third Quarter   Fourth Quarter
+-                       Net sales           $  54,495     $  49,695    $  154,165     $  95,097
+Gross profit            20,752       21,623      71,409       40,722
+Net income             1,420      1,305      34,525       7,496
+Net income loss per
+share
+- basic            008       007       184        040
+- diluted 2         008       007       184        039
+1 In 1998, the sum of the four quarters net income per share does not equal
+the annual amount due to the timing of issuance of shares in the first
+quarter.
+2 In 1997, the sum of the four quarters net income loss per share does not
+equal the annual amounts due to the dilutive effect of stock options
+granted in the first, third and fourth quarters. Item 1.  2
+Item 2.  9
+Item 3. Legal 
+Item 4. Submission of Matters to a Vote of Security Holders.10
+PART II
+Item 5. Market for Registrant Common Equity and Related Matters.13
+Item 6. Selected Financial 
+Item 7 - Executive Officers and Key Employees of the Company
+Information with respect to directors of the Company is hereby incorporated by
+reference from the Company proxy statement, under the caption Election of
+Directors, for its 1999 annual meeting of shareholders the 1999 Proxy
+Statement to be filed pursuant to Regulation 14A promulgated by the Securities
+and Exchange Commission under the Securities Exchange Act of 1934, which proxy
+statement is anticipated to be filed no later than 120 days after the end of the
+Company fiscal year ended December 31, 1998. Information with respect to
+executive officers of the Company is included under Item 4a of Part I of this
+report.

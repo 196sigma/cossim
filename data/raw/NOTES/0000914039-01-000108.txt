@@ -1,0 +1,830 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.                            Page
+Number
+Report of Independent Accountants                                  18
+TransAct Technologies Incorporated consolidated financial statements       Consolidated balance sheets as of December 31, 2000 and December 31, 1999.           19
+Consolidated statements of operations for the years ended December 31, 2000, 1999 and 1998.   20
+Consolidated statements of cash flows for the years ended December 31, 2000, 1999 and 1998.   21
+Consolidated statement of changes in shareholders' equity for the period from December 31,   22
+1997 through December 31, 2000.
+Notes to consolidated financial statements.                           23                    17
+18
+REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Shareholders
+of TransAct Technologies Incorporated
+In our opinion, the accompanying consolidated balance sheets and the related
+consolidated statements of operations, of cash flows and of changes in
+shareholders' equity present fairly, in all material respects, the financial
+position of TransAct Technologies Incorporated and its subsidiaries at December
+31, 2000 and 1999, and the results of their operations and their cash flows for
+each of the three years in the period ended December 31, 2000 in conformity with
+accounting principles generally accepted in the United States. These financial
+statements are the responsibility of the Company management; our
+responsibility is to express an opinion on these financial statements based on
+our audits. We conducted our audits of these statements in accordance with
+auditing standards generally accepted in the United States, which require that
+we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements, assessing the accounting principles used and
+significant estimates made by management, and evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for the opinion expressed above. s/ PricewaterhouseCoopers LLP
+Hartford, Connecticut
+February 27, 2001                    18
+19
+TRANSACT TECHNOLOGIES INCORPORATED
+CONSOLIDATED BALANCE SHEETS
+In thousands                                  December 31,   December 31,
+2000       1999
+ASSETS:
+Current assets  Cash and cash equivalents                    $  992     $  279
+Receivables, net Note 4                      6,137      4,863
+Inventories Note 5                        9,857      10,257
+Deferred tax assets                         1,205      1,144
+Other current assets                         811       396
+Total current assets                       19,002      16,939
+Fixed assets, net Note 6                       6,794      6,705
+Goodwill, net Note 2                         1,678      1,886
+Other assets                               145       154
+8,617      8,745
+$ 27,619     $ 25,684
+LIABILITIES AND SHAREHOLDERS' EQUITY:
+Current liabilities:
+Account payable                         $ 2,690     $ 3,056
+Accrued liabilities Note 7                    2,681      2,789
+Total current liabilities                     5,371      5,845
+Long-term debt Note 9                        5,944      7,100
+Other liabilities                            445       532
+6,389      7,632
+Commitments and contingencies Note 10
+Mandatorily redeemable preferred stock, Series B, 7%
+cumulative convertible, $1,000 stated value, 8,000 shares
+authorized, 4,000 shares issued and outstanding Note 15      3,668                                                Shareholders' equity Notes 11 and 12:
+Preferred stock, Series A, $001 par value, 5,000,000
+authorized, none issued and outstanding               --          Common stock, $001 par value; 20,000,000 authorized;
+5,607,827 and 5,576,800 shares issued                56        56
+Additional paid-in capital                     6,069      5,656
+Retained earnings                          6,929      7,592
+Unamortized restricted stock compensation              477      747
+Loan receivable from officer                     330      330
+Accumulated other comprehensive income                56       20
+Total shareholders' equity                    12,191      12,207
+$ 27,619     $ 25,684
+See accompanying notes to consolidated financial statements.                    19
+20
+TRANSACT TECHNOLOGIES INCORPORATED
+CONSOLIDATED STATEMENTS OF OPERATIONS
+In thousands, except per share data                                Year Ended December 31,
+2000       1999       1998
+Net sales                      $ 53,720     $ 44,889     $ 52,239
+Cost of sales                     39,578      33,135      38,413
+Gross profit                      14,142      11,754      13,826
+Operating expenses:
+Engineering, design and product
+development expenses                3,481      3,235      3,642
+Selling and marketing expenses            5,086      3,887      3,280
+General and administrative expenses         5,540      4,597      4,456
+Provision for restructuring Note 15         189        --       300
+14,296      11,719      11,678
+Operating income loss                 154       35      2,148
+Other income expense:
+Interest, net                     649      399      353
+Other, net Note 15                  11       790        32
+638       391       321
+Income loss before income taxes            792       426      1,827
+Income tax provision benefit Note 13         448       102       621
+Net income loss                    344       324      1,206
+Dividends and accretion charges on preferred
+stock Note 15                    320       --                                             Net income loss available to common
+shareholders                   $  664    $  324     $ 1,206
+Net income loss per share   Basic                      $ 012    $  006     $  020
+Diluted                     $ 012    $  006     $  020
+Weighted average common shares outstanding   Basic                       5,504      5,565      6,163
+Diluted                      5,504      5,614      6,170
+See accompanying notes to consolidated financial statements.                    20
+21
+TransAct Technologies Incorporated
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+In thousands                                   Year Ended December 31,
+2000      1999      1998
+Cash flows from operating activities:
+Net income loss                    $ 344    $  324     $ 1,206
+Adjustments to reconcile net income loss to
+net cash provided by operating activities:
+Depreciation and amortization             2,750      2,238      2,030
+Deferred income taxes                  78      19      415
+Loss on disposal of equipment              --       11        8
+Changes in operating assets and liabilities:
+Receivables                    1,274      371      2,082
+Inventories                      400     1,475      174
+Other current assets                 415      158       173
+Other assets                     162      100      134
+Accounts payable                   366      858      855
+Accrued liabilities and other liabilities      178      333      126
+Net cash provided by operating activities        333      2,033      4,047
+Cash flows from investing activities:
+Purchases of fixed assets                2,415     2,742     2,232
+Loans to officers                      15      345         Acquisition of Tridex Ribbon Business            --      295         Proceeds from sale of assets                217       --        3
+Net cash used in investing activities        2,183     3,382     2,229
+Cash flows from financing activities:
+Bank line of credit borrowings repayments, net     1,156     1,300      5,500
+Proceeds from option exercises               175       24        2
+Net proceeds from issuance of preferred stock       3,785       --         Payment of cash dividends on preferred stock        205       --         Purchases of treasury stock                 --      229     7,170
+Tax benefit related to employee stock sales         --       --        3
+Net cash provided by used in financing
+activities                     2,599      1,095     1,665
+Effect of exchange rate changes on cash            36      13       2
+Increase decrease in cash and cash equivalents        713      267      155
+Cash and cash equivalents at beginning of
+period                           279       546       391
+Cash and cash equivalents at end of period         $  992     $  279     $  546
+Supplemental cash flow information:
+Interest paid                      $  696     $  433     $  351
+Income taxes paid                      74       171       561      See accompanying notes to consolidated financial statements.                    21
+22
+TRANSACT TECHNOLOGIES INCORPORATED
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+In thousands, except share data                                      Additional
+Common Stock        Paid-in     Retained
+Shares       Amount    Capital     Earnings
+Balance, December 31, 1997        6,610,300        68      14,975      6,062
+Issuance of restricted stock       25,000        --        228          Cancellation of restricted
+stock                 3,000       --        36         Issuance of shares from
+exercise of stock options         200        --         2          Amortization of restricted
+stock compensation             --        --        --          Tax benefit related to
+employee stock sales            --        --         3                                           Purchase of treasury shares     1,003,000       --        --          Retirement of treasury
+shares                   --       12      9,409         Comprehensive income:
+Foreign currency
+translation adjustment          --        --        --          Net income                  --        --        --      1,206
+Balance, December 31, 1998        5,629,500        56       5,763      7,268
+Issuance of restricted stock       13,000        --        98          Issuance of shares from
+exercise of stock options        5,100        --        24          Amortization of restricted
+stock compensation             --        --        --          Purchase of treasury shares       70,800       --        --          Retirement of treasury
+shares                   --        --       229         Issuance of loan to officer         --        --        --          Comprehensive income:
+Foreign currency
+translation adjustment          --        --        --          Net income                  --        --        --       324
+Balance, December 31, 1999        5,576,800        56       5,656      7,592
+Issuance of restricted stock       5,000        --        44          Cancellation of restricted
+stock                 3,800       --        36         Issuance of shares from
+exercise of stock options       25,000        --        150          Issuance of shares from
+employee stock purchase plan      4,827        --        24          Amortization of restricted
+stock compensation             --        --        --          Issuance of preferred stock
+warrants                  --        --        175          Deemed dividend on beneficial
+conversion of preferred stock       --        --        56       56
+Dividends paid on preferred
+stock                   --        --        --       205
+Accretion of preferred stock
+warrants and issuance costs        --        --        --       58
+Comprehensive income:
+Foreign currency
+translation adjustment          --        --        --          Net loss                   --        --        --       344
+Balance, December 31, 2000        5,607,827    $    56    $  6,069    $  6,929
+Unamortized    Loan      Accumulated
+Restricted   Receivable      Other
+Stock      from     Comprehensive    Treasury
+Compensation    Officer      Income      Stock
+Balance, December 31, 1997          942        --        9     2,251
+Issuance of restricted stock       228        --        --          Cancellation of restricted
+stock                   36        --        --          Issuance of shares from
+exercise of stock options         --        --        --          Amortization of restricted
+stock compensation            231        --        --          Tax benefit related to
+employee stock sales           --        --        --          Purchase of treasury shares         --        --        --      7,170
+Retirement of treasury
+shares                  --        --        --      9,421
+Comprehensive income:
+Foreign currency
+translation adjustment          --        --         2          Net income                 --        --        --                                         Balance, December 31, 1998          903        --        7         Issuance of restricted stock        98        --        --          Issuance of shares from
+exercise of stock options         --        --        --          Amortization of restricted
+stock compensation            254        --        --          Purchase of treasury shares         --        --        --       229
+Retirement of treasury
+shares                  --        --        --       229
+Issuance of loan to officer         --       330        --          Comprehensive income:
+Foreign currency
+translation adjustment          --        --        13         Net income                 --        --        --                                         Balance, December 31, 1999          747       330       20         Issuance of restricted stock        44        --        --          Cancellation of restricted
+stock                   36        --        --          Issuance of shares from
+exercise of stock options         --        --        --          Issuance of shares from
+employee stock purchase plan       --        --        --          Amortization of restricted
+stock compensation            278        --        --          Issuance of preferred stock
+warrants                 --        --        --          Deemed dividend on beneficial
+conversion of preferred stock       --        --        --          Dividends paid on preferred
+stock                   --        --        --          Accretion of preferred stock
+warrants and issuance costs        --        --        --          Comprehensive income:
+Foreign currency
+translation adjustment          --        --        36         Net loss                  --        --        --                                         Balance, December 31, 2000       $   477    $   330    $   56   $                                          See accompanying notes to consolidated financial statements.                    22
+23
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. BASIS OF PRESENTATION
+TransAct Technologies Incorporated TransAct or the Company began
+operating as a stand-alone, publicly-held company in August 1996 to conduct
+the printer business that was formerly operated by certain subsidiaries of
+Tridex Corporation Tridex.
+2. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+BUSINESS AND PRODUCTS: TransAct, through its two operations, one in
+Wallingford, CT and the other in Ithaca, NY, operates in one industry
+segment, transaction-based printers and related products. TransAct designs,
+develops, manufactures and markets transaction-based printers and related
+products under the IthacaR, MagnetecR and TransAct.com brand
+names. The Company printers are used worldwide to provide transaction
+records such as receipts, tickets, coupons, register journals and other
+documents. The Company focuses on five vertical markets: point-of-sale
+POS, gaming and lottery, financial services, kiosk and Internet. The
+Company sells its products directly to end users, original equipment
+manufacturers OEM, value-added resellers and selected distributors,
+primarily in the United States, Canada, Europe and Latin America.
+TransAct designs, develops, manufactures and markets a broad array of
+transaction-based printers utilizing inkjet, thermal and impact printing
+technology for applications requiring up to 60 character columns in each of
+its vertical markets. The Company printers are configurable, which offer
+customers the ability to choose from a variety of features and functions.
+Options typically include PC board configuration, paper cutting devices,
+paper handling capacities and number of print stations. In addition to its
+configurable printers, TransAct manufactures custom printers for certain
+OEM customers. In collaboration with these customers, the Company provides
+engineering and manufacturing expertise for the design and development of
+specialized printers.
+USE OF ESTIMATES: The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date
+of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Significant estimates have been made
+in areas including inventory valuation, estimated lives of fixed assets and
+goodwill, deferred tax assets, accrued liabilities, allowance for doubtful
+accounts and tax provisions benefits. Actual results could differ from
+those estimates.
+PRINCIPLES OF CONSOLIDATION: The accompanying consolidated financial
+statements include the accounts of the Company and its wholly-owned
+subsidiaries, after elimination of all material intercompany accounts and
+transactions.
+CASH AND CASH EQUIVALENTS: The Company considers all highly liquid
+investments with a maturity date of three months or less at date of
+purchase to be cash equivalents.
+INVENTORIES: Inventories are stated at the lower of cost principally
+standard cost which approximates actual cost on a first-in, first-out
+basis or market.
+FIXED ASSETS: Fixed assets are stated at cost. Depreciation is provided
+for primarily by the straight-line method over the estimated useful lives.
+The estimated useful life of machinery, furniture and equipment is three to
+ten years. Leasehold improvements are amortized over the shorter of the
+term of the lease or the useful life of the asset. Depreciation amounted to
+$2,176,000, $1,699,000 and $1,546,000 in 2000, 1999 and 1998, respectively.                    23
+24
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+2. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+GOODWILL: Goodwill resulted from the acquisition of i Ithaca
+Peripherals, Inc. in 1991 and the ii ribbon business formerly conducted
+by Tridex Tridex Ribbon Business in 1999. The original amount
+applicable to the Ithaca acquisition totaled $3,536,000 and is being
+amortized on the straight-line method over 20 years. The original amount
+applicable to the Tridex Ribbon Business acquisition totaled $180,000 and
+is being amortized on the straight-line method over five years. Accumulated
+amortization of goodwill was $2,038,000 and $1,830,000 at December 31, 2000
+and 1999, respectively. The Company periodically reviews goodwill to assess
+recoverability based upon expectations of non-discounted cash flows from
+operations of the acquired businesses. The Company believes that no
+impairment of goodwill exists at December 31, 2000.
+REVENUE RECOGNITION: Sales are recognized when evidence of an
+arrangement exists, delivery has occurred, the selling price is fixed and
+determinable, and collectibility is reasonably assured. Revenue from
+extended warranty and maintenance agreements is recognized over the term of
+such agreements as services are performed. Sales to GTECH Corporation
+GTECH for lottery printers and ICL Pathway for the British Post
+Office project accounted for approximately 22% and 20% of net sales during
+2000, respectively. No one customer accounted for more than 10% of net
+sales during 1999. Sales to one customer, GTECH, accounted for
+approximately 32% of net sales for the year ended December 31, 1998.
+FOREIGN CURRENCY: The financial position and results of operations of
+the Company foreign subsidiaries are measured using local currency as the
+functional currency. Assets and liabilities of such subsidiaries have been
+translated at end of period exchange rates, and related revenues and
+expenses have been translated at weighted average exchange rates.
+Transaction gains losses are included in other income and amounted to
+$26,000, $11,000 and 17,000 in 2000, 1999 and 1998, respectively.
+INCOME TAXES: The income tax amounts reflected in the accompanying
+financial statements are accounted for under the liability method in
+accordance with FAS 109 Accounting for Income Taxes.
+STOCK-BASED COMPENSATION: The Company has elected to follow Accounting
+Principles Board Opinion No. 25, Accounting for Stock Issued to Employees
+APB 25, and related interpretations in accounting for its stock
+options. Since the exercise price of employee stock options granted by the
+Company generally equals the market price of the underlying stock on the
+date of grant, no compensation expense is recorded. The Company has adopted
+the disclosure-only provisions of Statement of Financial Accounting
+Standards No. 123, Accounting for Stock-Based Compensation FAS 123.
+See Note 11.
+SEGMENT REPORTING: FASB Statement of Financial Accounting Standards No.
+131, Disclosures about Segments of an Enterprise and Related Information
+FAS 131 requires that a public business enterprise report financial and
+descriptive information about its reportable operating segments. Generally,
+financial information is required to be reported on the basis that it is
+used internally for evaluating segment performance and allocating
+resources. The Company has assessed its operating and reportable segments
+and determined that it operates in one reportable segment as defined in FAS
+131.
+DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES: The Financial Accounting
+Standards Board issued Statement of Financial Standards No. 133,
+Accounting for Derivative Instruments and Hedging Activities FAS 133
+in June 1998 which, as amended, is currently effective January 1, 2001 for
+the Company. The Company believes adoption of FAS 133 will not have a
+material impact on the Company financial position, results of operations
+or cash flows.                    24
+25
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+3. ACQUISITION
+On May 28, 1999, the Company acquired the business and substantially
+all the assets of the Tridex Ribbon Business for total cash consideration
+of approximately $295,000. The acquisition has been accounted for by the
+purchase method of accounting. The purchased assets and liabilities have
+been recorded in the Company financial statements at their estimated fair
+values at the acquisition date. The results of operations of the acquired
+company have been included with those of the Company since the date of
+acquisition. The acquisition cost exceeded the fair value of the net assets
+acquired by $180,000. Such goodwill is being amortized over a five-year
+period on a straight-line basis. Prior to the acquisition, the Company
+provided Tridex with space within its Wallingford, CT manufacturing
+facility and certain support services for the Tridex Ribbon Business.
+4. RECEIVABLES
+Receivables are net of the allowance for doubtful accounts. The
+reconciliation of the allowance for doubtful accounts is as follows                                    Year Ended December 31,
+2000       1999       1998
+In thousands
+Balance at beginning of period             $ 132      $ 139      $ 102
+Doubtful accounts provision reversal         24        -        41
+Accounts written off, net of recoveries         1        7       4
+Balance at end of period                $ 107      $ 132      $ 139
+5. INVENTORIES
+The components of inventories are                                   December 31,
+In thousands                      2000       1999
+Raw materials and component parts            $ 9,603     $ 9,198
+Work-in-process                       200        542
+Finished goods                        54        517
+$ 9,857     $ 10,257
+6. FIXED ASSETS
+The components of fixed assets are                                   December 31,
+In thousands                       2000       1999
+Tooling, machinery and equipment             $10,974      $ 9,501
+Furniture, office and computer equipment          3,811       3,746
+Leasehold improvements                    749        660
+15,534      13,907
+Less: accumulated depreciation              8,740      7,202
+$ 6,794      $ 6,705
+25
+26
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+7. ACCRUED LIABILITIES
+The components of accrued liabilities are                             December 31,
+In thousands                 2000       1999
+Payroll and fringe benefits         $  382      $  521
+Income taxes accrued              765        653
+Warranty                    657        638
+Deferred revenue                108        129
+Restructuring                  105         -
+Other                      664        848
+$ 2,681      $ 2,789
+8. EMPLOYEE BENEFIT PLANS
+RETIREMENT SAVINGS PLAN: On April 1, 1997, the Company established the
+TransAct Technologies Retirement Savings Plan the 401k Plan, a
+defined contribution plan under Section 401k of the Internal Revenue
+Code. All full-time employees are eligible to participate in the 401k
+Plan at the beginning of the calendar quarter immediately following their
+date of hire. The Company matches employees' contributions at a rate of 50%
+of employees' contributions up to the first 5% of the employees'
+compensation contributed to the 401k Plan. The Company matching
+contributions were $203,000, $145,000 and $159,000 in 2000, 1999 and 1998,
+respectively. During 1999 and 1998, the Company rate of matching
+contributions was 50% of the employees' contributions up to the first 4% of
+the employees' compensation contributed to the 401k Plan.
+EMPLOYEE STOCK PURCHASE PLAN: In May 2000, the Company shareholders
+approved the Employee Stock Purchase Plan the ESPP, under which 50,000
+shares of the Company common stock are available for issuance to
+employees beginning June 1, 2000. All full-time employees are eligible to
+participate in the ESPP at the beginning of each six-month period the
+Offering Period, which begin on June 1 and December 1. Eligible
+employees may elect to withhold up to 5% of their salary to purchase shares
+of the Company common stock at a price equal to 85% of the fair market
+value of the stock on the first or last day of each Offering Period,
+whichever is lower. The ESPP will terminate at the earlier of May 31, 2005
+or the date on which all 50,000 shares available for issuance under the
+ESPP have been sold. During 2000, the Company sold 4,827 shares of common
+stock at $488 per share under the ESPP. At December 31, 2000, 45,173
+shares remained available for sale. Compensation costs related to the ESPP
+are immaterial.
+9. BANK CREDIT AGREEMENT
+On January 29, 1998, the Company entered into a $15,000,000 credit
+facility with Fleet National Bank Fleet. On May 7, 1999, the Company
+replaced this facility with a new two-year $10,000,000 revolving credit
+facility with Fleet the Fleet Credit Facility. The Fleet Credit
+Facility provided the Company with a $10,000,000 credit facility used to
+fund working capital. Borrowings under the Fleet Credit facility bore
+interest on outstanding borrowings at Fleet prime rate and bore a
+commitment fee ranging from 025% to 0625% on any unused portion of the
+Fleet Credit Facility. The Fleet Credit Facility also permitted the Company
+to designate a LIBOR rate on outstanding borrowings with a margin ranging
+from 150 to 225 percentage points over the market rate Margin,
+depending on the Company meeting certain ratios. Concurrent with the Fleet
+Credit Facility, the Company entered into a swap agreement with Fleet under
+which the Company fixed its interest rate at 563% plus the applicable
+Margin for two years on $3,000,000 of outstanding borrowings under the
+Fleet Credit Facility. The Fleet Credit Facility was secured by a lien on
+substantially all the assets of the Company, imposed certain financial
+covenants and restricted the payment of cash dividends and the creation of
+liens.                    26
+27
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+9. BANK CREDIT AGREEMENT CONTINUED
+On March 14, 2000, the Company entered into a new two-year $13,000,000
+revolving credit facility the New Fleet Credit Facility with Fleet. The
+New Fleet Credit Facility replaced the Fleet Credit Facility. The New Fleet
+Credit Facility provided the Company with a $13,000,000 credit facility
+used to fund working capital. Borrowings under the New Fleet Credit
+facility bore interest on outstanding borrowings at Fleet prime rate plus
+a margin ranging from zero to 075 percentage points and bore a commitment
+fee ranging from 0375% to 075% on any unused portion of the New Fleet
+Credit Facility. The New Fleet Credit Facility also permitted the Company
+to designate a LIBOR rate on outstanding borrowings with a margin ranging
+from 15 to 30 percentage points over the market rate, depending on the
+Company meeting certain ratios. The New Fleet Credit Facility was secured
+by a lien on substantially all the assets of the Company, imposed certain
+financial covenants and restricted the creation of liens.
+On September 21, 2000, the Company entered into a two-year revolving
+credit facility the Webster Credit Facility with Webster Bank
+Webster expiring on September 21, 2002. The Webster Credit Facility
+replaced the New Fleet Credit Facility. Under the Webster Credit Facility,
+the Company may borrow up to $12 million, based on certain financial
+criteria of the Company at the time of any borrowing, to fund working
+capital. Borrowings under the Webster Credit Facility bear a floating rate
+of interest at the higher of the Prime Rate as published in The Wall
+Street Journal or one-half of one percent 1/2% over the federal funds
+rate as defined in the Webster Credit Facility 95% at December 31,
+2000. Under certain circumstances, the Company may select a fixed interest
+rate for a specified period of up to 90 days on borrowings based on the
+current LIBOR rate as adjusted as specified in the Webster Credit
+Facility plus 25%, which may be reduced to 225% on July 1, 2001 if there
+is no Event of Default as defined in the Webster Credit Facility. The
+Company will also pay a fee of three-eighths of one percent 3/8% on
+unused borrowing capacity under the Webster Credit Facility. Borrowings
+under the Webster Credit Facility are secured by a lien on substantially
+all the assets of the Company. The Webster Credit facility also imposes
+certain financial covenants on the Company and restricts the payment of
+dividends on its common stock and the creation of other liens. The Company
+had $5,944,000 of outstanding borrowings under this facility at December
+31, 2000.
+10. COMMITMENTS AND CONTINGENCIES
+At December 31, 2000, the Company was lessee on operating leases for
+equipment and real property. The terms of certain leases provide for
+escalating rent payments in later years of the lease as well as payment of
+minimum rent and real estate taxes. Rent expense amounted to approximately
+$991,000, $953,000 and $957,000 in 2000, 1999 and 1998, respectively.
+Minimum aggregate rental payments required under operating leases that have
+initial or remaining non-cancelable lease terms in excess of one year as of
+December 31, 2000 are as follows: $891,000 in 2001; $871,000 in 2002;
+$873,000 in 2003; $855,000 in 2004; $868,000 in 2005 and $1,663,000
+thereafter.
+The Company has a long-term purchase agreement for certain printer
+components. Under the terms of the agreement, the Company receives
+favorable pricing for volume purchases over the life of the contract. In
+the event anticipated purchase levels are not achieved, the Company would
+be subject to retroactive price increases on previous purchases. Management
+currently anticipates achieving sufficient purchase levels to maintain the
+favorable prices.
+11. STOCK OPTIONS AND WARRANTS
+STOCK OPTIONS. On July 30, 1996, the Company adopted the 1996 Stock
+Plan which provides for the grant of awards to officers and other key
+employees of the Company, and the Directors' Stock Plan which provides for
+non-discretionary awards to non-employee directors. The plans provide for
+awards in the form of: i incentive stock options, ii non-qualified
+stock options, iii shares of restricted stock, iv restricted units, v
+stock appreciation rights or vi limited stock appreciation rights.
+Options granted are at prices equal to 100% of the fair market value of the
+common stock at the date of grant. Options granted have a ten-year term and
+generally vest over a five-year period, unless automatically accelerated
+for certain defined events. At December 31, 2000, the Company has reserved
+1,150,000 and 110,000 shares of common stock for issuance under the 1996
+Stock Plan and Directors' Stock Plan, respectively.                    27
+28
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+11. STOCK OPTIONS AND WARRANTS CONTINUED
+During the fourth quarter of 1998, the Company approved the
+cancellation and reissuance of certain outstanding options under the 1996
+Stock Plan. Under the program, holders of outstanding options as of
+December 10, 1998, excluding the Company executive officers, obtained in
+substitution for existing options new options for the same number of
+shares. The new options, totaling 190,600, are exercisable at a price of
+$475 per share, the fair market value of the common stock on the reissue
+date. The new options maintain the vesting schedule established by the
+canceled option. These 190,600 options have been treated as canceled and
+granted in 1998 in the table below.
+The 1996 Stock Plan and Directors' Stock Plan option activity is
+summarized below                                     Year Ended December 31,
+2000             1999             1998
+Weighted           Weighted          Weighted
+Average            Average           Average
+Exercise           Exercise          Exercise
+Shares      Price    Shares      Price    Shares      Price
+Outstanding at beginning of
+period:               818,100     $789    752,300      $804    542,600     $1097
+Granted              190,500      986    104,500      586    428,100      575
+Exercised             25,000     605    5,100      475     200      850
+Canceled             64,600     753    33,600      507   218,200     1083
+Outstanding at end of period     919,000     $834    818,100      $789    752,300     $ 804
+Options exercisable at end
+of period              436,580     $819    296,140      $833    165,360     $ 828
+Options Outstanding                 Options Exercisable
+Weighted-     Weighted-              Weighted-
+Outstanding at    Average      Average     Exercisable at   Average
+December 31,    Exercise     Remaining     December 31,    Exercise
+Range of Exercise Prices      2000       Price     Contractual Life    2000       Price
+In years
+$ 250  - $ 500        238,400      $428        61       139,740      $440
+501  -  750        84,300       617        80       18,400      615
+751  -  1000        344,800       876        61       208,840      864
+1001  -  1250        145,000      1022        91        4,900      1169
+1251  -  1500        45,500      1375        58       28,100      1375
+1501  -  1750        61,000      1638        66       36,600      1638     The Company applies APB 25 and related interpretations in accounting
+for its long-term incentive stock plans. Accordingly, no compensation cost
+has been recognized for its stock options.
+Had compensation expense been recognized based on the fair value of
+the options at their grant dates, as prescribed in FAS 123, the Company
+net income loss and net income loss per share would have been as
+follows                    28
+29
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+11. STOCK OPTIONS AND WARRANTS CONTINUED                                        Year Ended December 31,
+2000        1999        1998
+In thousands, except per share data
+Net income loss available to common shareholders:
+As reported                         $ 664      $ 324       $ 1,206
+Pro forma under FAS 123                   1,171       422         747
+Net income loss per share:
+Basic and diluted:
+As reported                        012       006         020
+Pro forma under FAS 123                  021      008        012     The fair value of each option grant is estimated on the date of grant
+using the Black-Scholes option pricing model with the following assumptions
+used for the grants made during the years ended December 31, 2000, 1999 and
+1998.                                          Year Ended December 31,
+2000       1999        1998
+Risk-free interest rate                         63%       58%       49%
+Dividend yield                              0%        0%        0%
+Expected volatility factor                       831%       780%       781%
+Expected option term                        71 years     75 years     10 years
+Weighted average fair value of options granted during period      $778       $455      $ 469     RESTRICTED STOCK: Under the 1996 Stock Plan, the Company has granted
+shares of restricted common stock, for no consideration, to its officers,
+one outside director and certain key employees. The 1996 Stock Plan
+restricted stock activity is summarized below                                 Year Ended December 31,
+2000      1999      1998
+Outstanding shares at beginning of period     95,080     91,440     78,800
+Granted                     5,000     13,000     25,000
+Vested                    12,960     9,360     9,360
+Canceled                    3,800       -     3,000
+Outstanding shares at end of period        83,320     95,080     91,440
+Of the 83,320 shares of restricted stock outstanding at December 31,
+2000, 29,320 shares vest over a five-year period, while 54,000 shares vest
+at the end of a five-year period. Under certain conditions, vesting may be
+automatically accelerated. Upon issuance of the restricted stock, unearned
+compensation equivalent to the market value at the date of grant is charged
+to a separate component of shareholders' equity and subsequently amortized
+over the vesting period. Amortization expense of $277,000, $254,000 and
+$231,000 was recorded during 2000, 1999 and 1998, respectively.
+WARRANTS: On August 22, 1996, the Company sold to the underwriters of
+its initial public offering, for nominal consideration, a warrant to
+purchase from the Company up to 115,000 shares of common stock at an
+exercise price of $1020 per share. The warrant is exercisable until
+August 20, 2001.
+On April 7, 2000, in connection with the sale of the Preferred Stock,
+the Company issued to its investment advisors, McFarland Dewey & Co.,
+warrants to purchase from the Company up to 10,000 shares of common stock
+at an exercise price of $900 per share. The warrants are exercisable
+through April 7, 2005.                    29
+30
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+12. STOCKHOLDER RIGHTS PLAN
+In December 1997, the Board of Directors adopted a Stockholder Rights
+Plan declaring a distribution of one right the Rights for each
+outstanding share of the Company common stock to shareholders of record
+at December 15, 1997. Initially, each of the Rights will entitle the
+registered holder to purchase from the Company one one-thousandth of a
+share of Series A Preferred Stock, $001 par value, at a price of $69 per
+one one-thousandth of a share. The Rights, however, will not become
+exercisable unless and until, among other things, any person or group of
+affiliated persons acquires beneficial ownership of 15 percent or more of
+the then outstanding shares of the Company Common Stock. If a person, or
+group of persons, acquires 15 percent or more of the outstanding Common
+Stock of the Company subject to certain conditions and exceptions more
+fully described in the Rights Agreement, each Right will entitle the
+holder other than the person, or group of persons, who acquired 15 percent
+or more of the outstanding Common Stock to purchase Preferred Stock of the
+Company having a market value equal to twice the exercise price of the
+Right. The Rights are redeemable, under certain circumstances, for $00001
+per Right and will expire, unless earlier redeemed, on December 2, 2007.
+On February 16, 1999, the Company amended its Stockholder Rights Plan
+to remove the provision in the plan that stipulated that the plan may be
+modified or redeemed only by those members of the Board of Directors who
+are defined as continuing directors.
+13. INCOME TAXES
+The components of the income tax provision are as follows                            Year Ended December 31,
+2000      1999      1998
+In thousands
+Current  Federal                  $ 561    $  88     $  779
+State                     43       18       126
+Foreign                    194       12       131
+324      118      1,036
+Deferred:
+Federal                    94      37      371
+State                     34       18       44
+Foreign                     4        3                                                                124      16      415
+Total income tax provision benefit    $ 448    $  102     $  621
+The Company had foreign income before taxes of $665,000, $65,000 and
+$435,000 in 2000, 1999 and 1998, respectively.
+Deferred income taxes arise from temporary differences between the tax
+basis of assets and liabilities and their reported amounts in the financial
+statements. The Company gross deferred tax assets and liabilities were
+comprised of the following                      December 31,
+In thousands             2000     1999
+Gross deferred tax assets:
+Liabilities and reserves       $1,435    $1,320
+Gross deferred tax liabilities:
+Depreciation             $ 576    $ 539
+30
+31
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+13. INCOME TAXES CONTINUED
+Differences between the U.S. statutory federal income tax rate and the
+Company effective income tax rate are analyzed below                                  Year Ended December 31,
+2000     1999     1998
+Federal statutory tax rate               340%    340%     340%
+State income taxes, net of federal income taxes    03     132      60
+Non-deductible purchase accounting adjustments     99     416      44
+Tax benefit from foreign sales corporation       31      --     22
+Tax benefit from tax credits             229    600     58
+Foreign rate differential               35     16     09
+Other                         27     32     15
+Effective tax rate                 566%    240%     340%
+14. DISCLOSURE REGARDING FAIR VALUE OF FINANCIAL INSTRUMENTS
+The carrying amount for cash and cash equivalents approximates fair
+value because of the short maturity of these instruments. The carrying
+amount of receivables, other current assets, other assets, accounts payable
+and accrued liabilities is a reasonable estimate of fair value because of
+the short nature of the transactions. The carrying value of long-term debt
+approximates the fair value based upon the variable rate on that debt.
+Off-balance sheet derivative financial instruments include
+interest-rate swaps. At December 31, 1999, interest-rate swaps, held for
+purposes other than trading, had a fair value settlement of $35,000, based
+on the underlying principal amount of $3,000,000. The Company sold its
+interest-rate swap during 2000.
+15. SIGNIFICANT TRANSACTIONS
+RESTRUCTURING: During the fourth quarter of 2000 and fourth quarter of
+1998, the Company recorded a restructuring charge of $189,000 and $300,000,
+respectively, for severance costs related to the downsizing and
+reorganization of its manufacturing facility in Wallingford, CT. Severance
+costs resulted from the reduction of 11 and 14 employees in 2000 and 1999,
+respectively. At December 31, 2000, approximately $105,000 of restructuring
+expenses remained accrued.
+PREFERRED STOCK SALE: On April 7, 2000 the Company sold 4,000 shares of
+7% Series B Cumulative Convertible Redeemable Preferred Stock the
+Preferred Stock to Advance Capital Advisors, L.P. and its affiliate in
+consideration of $1,000 per share the Stated Value, for a total of
+$4,000,000, less issuance costs. The Preferred Stock is convertible at any
+time by the holders at a conversion price of $900 per common share. In
+addition, the Company issued warrants pro-rata to the Preferred Stock
+holders to purchase an aggregate of 44,444 shares of the Company common
+stock at an exercise price of $900 per common share. The warrants, valued
+at $175,000, are exercisable at any time until April 7, 2005, and will be
+accreted to preferred stock ratably over 60 months. The Preferred Stock is
+subject to mandatory conversion into shares of the Company common stock
+when such stock has traded at $35 per share or more for a 30-day period
+ending on or after April 7, 2003, or for a 60-day period beginning on or
+after April 7, 2002. The Preferred Stock is redeemable at the option of the
+holders on April 7, 2005 at $1,000 per share plus any unpaid dividends. On
+or after April 7, 2007, the Company has the right to require 1 redemption
+of the Preferred Stock at $1,000 per share plus any unpaid dividends or 2
+conversion of the Preferred Stock at $900 per common share. Upon a change
+of control which the Company does not believe probable, holders have the
+right to redeem the Preferred Stock for 200% of the Stated Value plus any
+unpaid dividends. The holders of the Preferred Stock have certain voting
+rights and are entitled to receive a cumulative annual dividend of $70 per
+share, payable quarterly and have preference to any other dividends, if
+any, paid by the Company.                    31
+32
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+15. SIGNIFICANT TRANSACTIONS CONTINUED
+PREFERRED STOCK SALE CONTINUED: Concurrent with the issuance of the
+Preferred Stock, the Company recorded a beneficial conversion charge. The
+beneficial conversion charge was calculated as the difference between the
+assigned fair value of the Preferred Stock and the fair value of the
+related common stock, as of April 7, 2000, into which the Preferred Stock
+was immediately convertible. Accordingly, a deemed preferred dividend of
+approximately $56,000 as of the issuance date has been recognized as a
+charge to retained earnings and net loss attributable to common
+shareholders, and as an increase to additional paid-in capital.
+GTECH LAWSUIT SETTLEMENT: On June 25, 1999, the Company commenced a
+lawsuit in the United States District Court for the District of Rhode
+Island against GTECH for misappropriation of trade secrets, breach of
+contract and related claims, seeking injunctive relief and compensatory and
+punitive damages. On July 15, 1999, GTECH and the Company signed a new
+five-year agreement under which the Company will be the exclusive
+manufacturer and supplier to GTECH of an impact printer for use in GTECH
+IsysR online lottery terminal. As part of the agreement, GTECH agreed to
+pay the Company $1 million for past design efforts, development costs and
+manufacturing interruption costs and agreed to place a non-cancelable order
+for delivery of a minimum of approximately $8 million of printers in the
+year 2000. In connection with the execution of this agreement, the parties
+agreed to have all claims under the lawsuits dismissed and filed dismissal
+stipulations to terminate the federal and state lawsuits. As a result of
+the settlement, the Company reported $770,000 $1 million cash settlement,
+less $230,000 of directly-related expenses in other income during 1999.
+LOAN TO OFFICER: On February 23, 1999, with the Board of Directors'
+approval, the Company provided a $330,000 loan to an officer of the
+Company. The loan proceeds were used to purchase 104,000 shares of the
+Company common stock on the open market during January and February 1999.
+The loan is payable on February 23, 2004, and is a full recourse obligation
+to the officer secured by 154,000 shares of the Company common stock,
+which includes 50,000 shares of restricted stock. The loan bears interest
+at a rate equivalent to the Company average borrowing rate under its
+current credit facility, and is payable annually. The principal amount of
+the loan is deducted from shareholders' equity.
+STOCK REPURCHASE PROGRAM: During November 1997, the Board of Directors
+approved the repurchase of up to 500,000 shares of the Company common
+stock at a price of no more than $12 per share. During May, August and
+October 1998, the Board approved the repurchase of an additional 500,000,
+250,000 and 250,000 shares, respectively, bringing the total authorized to
+15 million shares. The Company acquired 70,800 shares of its common stock
+for $229,000 in 1999, 1,003,000 shares for $7,170,000 in 1998, and 200,000
+shares for $2,251,000 in 1997. Since the Company began the stock repurchase
+program in December 1997 through December 31, 1999, it has repurchased
+1,273,800 shares for $9,650,000 an average cost of $758 per share. The
+Company did not repurchase any shares during 2000, and management does not
+expect to repurchase any additional shares in the foreseeable future.
+16. INTERNATIONAL OPERATIONS
+The Company has foreign operations primarily from TransAct Technologies
+Ltd., a wholly-owned subsidiary, which had sales to its customers of
+$11,164,000, $700,000 and $4,990,000 in the year ended December 31, 2000,
+1999 and 1998, respectively. The Company had export sales to its foreign
+customers from the United States of approximately $5,156,000, $7,807,000
+and $3,396,00 in the year ended December 31, 2000, 1999 and 1998,
+respectively.                    32
+33
+TRANSACT TECHNOLOGIES INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+17. SUBSEQUENT EVENTS unaudited
+On February 15, 2001, the Company announced plans to establish a global
+engineering and manufacturing center at its Ithaca, NY facility. As part of
+this strategic decision, the Company will consolidate all manufacturing and
+engineering into its existing Ithaca, NY facility and close its
+Wallingford, CT facility by the end of 2001. Production is planned to
+continue at the Wallingford facility until the end of 2001, with individual
+product lines scheduled to move over the course of 2001. The closing of the
+Wallingford facility is expected to result in the termination of employment
+of approximately 70 employees. The Company estimates that the non-recurring
+costs associated with the consolidation, including severance pay, employee
+benefits, moving expenses, non-cancelable lease payments, and other costs,
+will be approximately $30 to $35 million and will be recognized during
+2001.
+On February 27, 2001, the Company amended the Webster Credit Facility
+to 1 provide the Company with the ability to borrow up to $1,500,000 in
+excess of the amount permitted under the Webster Credit Facility
+borrowing base formula Permitted Over-Formula Borrowing and 2 revise
+certain financial covenants. The Permitted Over-Formula Borrowing is
+effective from March 1, 2001 through August 31, 2001.
+18. QUARTERLY RESULTS OF OPERATIONS UNAUDITED
+The Company quarterly results of operations for the years ended
+December 31, 2000, 1999 and 1998 unaudited are as follows                                       Quarter Ended
+In thousands, except per share amounts     March 27     June 26    September 23   December 31
+2000:
+Net sales                  $ 11,238     $ 13,740     $ 14,604    $ 14,138
+Gross profit                  3,013      3,665      3,867      3,597
+Net income loss                300      186       290      148
+Net income loss available to common
+Shareholders                  300      326       200      238
+Net income loss per share:
+Basic and diluted              005      006      004      004                            March 27     June 26    September 25   December 31
+1999:
+Net sales                  $ 9,201     $ 12,524     $ 13,020    $ 10,144
+Gross profit                  2,428      3,238      3,335      2,753
+Net income loss                279       146       837      380
+Net income loss per share:
+Basic and diluted              005      003       015      007                            March 28     June 27    September 26   December 31
+1998:
+Net sales                  $ 13,280     $ 12,500     $ 13,600    $ 12,859
+Gross profit                  3,746      3,435      3,778      2,867
+Net income loss                 634       231       533      192
+Net income loss per share:
+Basic and diluted               010       004       009      003                    33
+34
+Item 3. LEGAL PROCEEDINGS.
+None.
+Item 4. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+Information contained in Election of Directors and Section 16a
+Beneficial Ownership Reporting Compliance of the Company Proxy Statement the
+Proxy Statement for its Annual Meeting of Shareholders which is scheduled to
+be held on May 23, 2001 is hereby incorporated herein by reference. Also, see
+information under Executive Officers of Registrant in Item 1.

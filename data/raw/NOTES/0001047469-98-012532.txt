@@ -1,0 +1,610 @@
+ITEM 8. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+PAGE
+Report of Ernst & Young LLP, Independent      19
+Consolidated Balance Sheets as of December 31, 1997 and      20
+Consolidated Statements of Income for the years ended December 31, 1997, 1996 and 1995.     21
+Consolidated Statements of Stockholders' Equity Deficit for the years ended December 31, 1997, 1996, and
+22
+Consolidated Statements of Cash Flows for the years ended December 31, 1997, 1996, and 1995.     23
+Notes to Consolidated Financial      24
+18
+REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+The Board of Directors
+Peerless Group, Inc.
+We have audited the accompanying consolidated balance sheets of Peerless
+Group, Inc. the Company, as of December 31, 1997 and 1996, and the related
+consolidated statements of income, cash flows, and stockholders' equity
+deficit for each of the three years in the period ended December 31, 1997.
+These financial statements are the responsibility of the Company management.
+Our responsibility is to express an opinion on these financial statements based
+on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Peerless
+Group, Inc., at December 31, 1997 and 1996, and the consolidated results of its
+operations and its cash flows for each of the three years in the period ended
+December 31, 1997, in conformity with generally accepted accounting principles.
+ERNST & YOUNG LLP
+Dallas, Texas
+January 20, 1998
+19
+PEERLESS GROUP, INC.
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS
+ASSETS NOTE 4
+DECEMBER 31,
+1997    1996
+Current assets:
+Cash and cash  $  2,845 $  8,378
+Trade accounts    9,346   5,712
+Prepaid expenses and other current    1,152    541
+Total current    13,343   14,631
+Computer and other equipment, at    4,337   2,335
+Less accumulated    1,135    589
+3,202   1,746
+Computer software, maintenance contracts, and other assets, net of accumulated amortization
+of $396 and $1,482 at December 31, 1997 and 1996,     897    982
+Investment in preferred stock, at    2,500                                                        Total  $ 19,942 $ 17,359
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts  $  3,014 $  1,865
+Accrued    1,002   1,041
+Sales tax     646    568
+Unearned    7,121   7,573
+Total current    11,783   11,047
+Commitments NOTE 6
+Stockholders' equity NOTES 4 AND 8:
+Preferred stock, $01 par value:
+Authorized shares--5,000
+Issued shares--none
+Common stock, $01 par value:
+Authorized shares--10,000
+Issued shares--4,948 and 4,598 at December 31, 1997 and 1996, respectively.     49     46
+Additional paid-in    7,958   7,720
+Retained earnings     649   1,254
+Treasury stock, at cost 73 and 1 at December 31, 1997 and 1996, respectively.    379    1
+Unearned     118   199
+Total stockholders'    8,159   6,312
+Total liabilities and stockholders'  $ 19,942 $ 17,359
+SEE ACCOMPANYING NOTES
+20
+PEERLESS GROUP, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS
+YEAR ENDED DECEMBER 31,
+1997    1996    1995
+Revenues:
+Software license and  $ 10,339 $  9,987 $  7,181
+Hardware and    11,171   10,303   6,727
+Maintenance and    8,621   6,235   5,782
+Total    30,131   26,525   19,690
+Cost of revenues:
+Hardware and    8,528   7,754   5,258
+Software license and installation, maintenance and services.   11,794   8,882   6,872
+Total cost of    20,322   16,636   12,130
+Gross    9,809   9,889   7,560
+Operating costs and expenses:
+Research and    2,004   1,696   1,398
+Selling and    3,412   3,477   2,502
+General and    2,216   1,512   1,222
+Severance charge NOTE      --    341                                                    Total operating costs and    7,632   7,026   5,122
+Income from    2,177   2,863   2,438
+Other income expense:
+Interest     20   548   612
+Interest     280    133     68
+Total other income     260    415   544
+Income before income    2,437   2,448   1,894
+Provision for income     534    155     64
+Net  $  1,903 $  2,293 $  1,830
+Basic earnings per  $  040 $  082 $  090
+Diluted earnings per  $  037 $  055 $  049
+Shares used in computing basic earnings per    4,712   2,745   1,976
+Shares used in computing diluted earnings per    5,130   4,055   3,648
+SEE ACCOMPANYING NOTES.
+21
+PEERLESS GROUP, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY DEFICIT
+IN THOUSANDS
+COMMON STOCK                TREASURY STOCK
+ADDITIONAL  RETAINED                            NUMBER OF       PAID-IN   EARNINGS  NUMBER OF       UNEARNED
+SHARES   AMOUNT  CAPITAL   DEFICIT  SHARES   AMOUNT  COMPENSATION
+Balance at December 31, 1994.  2,080   $20   $3,948  $5,377   237   $281   $   Net     --    --      --    1,830    --     --       Common stock issued, net of unearned
+162    2     291     --    --     --    195
+Common stock     --    --     141     --    67    154      Accretion of redeemable common stock.    --    --     58     --    --     --                                                 Balance at December 31, 1995.  2,242    22    3,574   3,547   304    435    195
+Net     --    --      --    2,293    --     --       Common stock issued upon exercise of warrants.   506    5      8     --    --     --       Common stock issued upon exercise of options.    79    1      79     --    --     --       Common stock issued, net of unearned
+45    1     295     --    --     --     4
+Common stock     --    --      --     --     8     9      Cancellation of treasury stock upon change-of-
+domicile    311   3    440     --   311    443       Common stock issued upon initial public
+2,037    20    10,117     --    --     --       Accretion of redeemable common stock.    --    --     44     --    --     --       Compensation expense on options.    --    --     268     --    --     --       Reclassification of redeemable common stock upon
+exercise of underlying options.    --    --    1,011     --    --     --                                                 Balance at December 31, 1996.  4,598    46    7,720   1,254    1     1    199
+Net     --    --      --    1,903    --     --       Common stock issued upon exercise of warrants.   182    2      3     --    --     --       Common stock issued upon exercise of options.   168    1     247     --    --     --       Common stock issued, net of unearned
+--    --      1     --    2    10     72
+Common stock issued, employee stock purchase
+--    --     13     --    30    202       Common stock     --    --      --     --    104    590     9
+Balance at December 31, 1997.  4,948   $49   $ 7,958   $  649    73   $379   $118
+SEE ACCOMPANYING NOTES.
+22
+PEERLESS GROUP, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS
+YEAR ENDED DECEMBER 31,
+1997    1996    1995
+OPERATING ACTIVITIES
+Net  $  1,903 $  2,293 $  1,830
+Adjustments to reconcile net income to net cash provided by used in operating
+activities:
+Depreciation and    1,052    757    523
+Compensation      83    366     54
+Changes in operating assets and liabilities:
+Trade accounts    3,634  1,506   584
+Prepaid expenses and other current     660   451    34
+Accounts payable and accrued    1,188    812    939
+Unearned     452   594    87
+Net cash provided by used in operating     520   1,677   2,709
+INVESTING ACTIVITIES
+Additions to computer and other    2,246  1,419   381
+Investment in preferred    2,500    --         120   160                                                  Net cash used in investing    4,866  1,579   381
+FINANCING ACTIVITIES
+Note receivable from      --    271     Proceeds from      --     --   4,111
+Payments on      --   3,627  5,953
+Issuance of common     297     94     30
+Purchase of treasury     436    9   140
+Net proceeds from initial public      --   10,137          8    20    63
+Net cash provided by used in financing     147   6,886   2,015
+Net increase decrease in cash and cash    5,533   6,984    313
+Cash and cash equivalents at beginning of    8,378   1,394   1,081
+Cash and cash equivalents at end of  $  2,845 $  8,378 $  1,394
+SUPPLEMENTAL CASH FLOWS INFORMATION
+Cash paid for  $   19 $   542 $   737
+Cash paid for income  $   545 $   265 $   38
+SEE ACCOMPANYING NOTES.
+23
+PEERLESS GROUP, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1. DESCRIPTION OF BUSINESS AND BASIS OF PRESENTATION
+DESCRIPTION OF THE COMPANY
+Peerless Group, Inc., formerly known as TPG Holdings, Inc. the Company,
+is a computer software company which develops and provides banking and credit
+union software systems and services. The Company markets these systems along
+with the computer equipment hardware to financial institutions primarily
+located in the United States and Canada and provides conversion, support, and
+maintenance and outsourcing services to customers using the systems. In
+conjunction with the initial public offering of its common stock on October 3,
+1996 the Offering, TPG Holdings, Inc. formed a new wholly-owned Delaware
+subsidiary, Peerless Group, Inc., and TPG Holdings, Inc., was merged into this
+new corporation. The financial statements included herein reflect the merger and
+resulting change in capitalization as all share and per share amounts have been
+retroactively restated to reflect the merger. In conjunction with this change in
+capitalization, all treasury shares outstanding were cancelled.
+The consolidated financial statements of the Company include the accounts of
+the Company and all its subsidiaries. All significant intercompany transactions
+and balances are eliminated.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+CASH AND CASH EQUIVALENTS
+Cash and cash equivalents consist of money market funds, certificates of
+deposit and Treasury Bills with original purchased maturities of three months or
+less.
+DEPRECIATION
+Depreciation is provided on computer and other equipment using the
+straight-line method over a five-to ten-year estimated useful life.
+COMPUTER SOFTWARE AND MAINTENANCE CONTRACTS
+Computer software and maintenance contracts consist of fair values assigned
+to acquired software and maintenance contracts. The amounts are being amortized
+on a straight-line basis over the estimated economic benefit period of five
+years. The amounts amortized and charged to cost of sales were approximately
+$358,000, $403,000, and $308,000 in 1997, 1996 and 1995, respectively.
+CAPITALIZED SOFTWARE
+The Company expenses all software development costs as incurred until
+technological feasibility has been established for the product, at which time
+the costs are capitalized until the product is available for general release to
+customers.
+REVENUE RECOGNITION
+The Company sources of revenue and the methods of revenue recognition are
+as follows:
+Software license and installation--Revenues from software contracts
+involving installation are recognized when the installation is performed
+according to contractual terms, which, in the case of long-term contracts,
+involves the use of the percentage-of-completion method of accounting.
+Progress towards completion is measured based upon the percentage
+relationship that costs incurred to date
+24
+PEERLESS GROUP, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+bear to total estimated costs to complete the installation. Revenues from
+license fees not involving installation are recognized upon delivery of the
+software to the customer when no significant vendor obligations remain.
+Hardware and equipment--Commissions and revenues from hardware and equipment
+sales are recognized upon shipment by the manufacturer.
+Maintenance and services--Revenues from maintenance and service contracts
+are recognized ratably over the periods of the respective contracts.
+Revenues from data and check and statement imaging processing services are
+recognized in the period in which the services are performed.
+UNEARNED REVENUES
+Deposits received and amounts billed for software licenses, installation and
+hardware in advance of installation or delivery, and for annual software
+maintenance prior to performance of related services, are reflected as unearned
+until such amounts are recognized in accordance with the Company revenue
+recognition policy.
+FINANCIAL INSTRUMENTS AND RISK CONCENTRATION
+Cash and cash equivalents, accounts receivable, accounts payable, accrued
+liabilities and unearned revenues are stated at expected settlement values which
+approximate fair value.
+Accounts receivable potentially subject the Company to concentrations of
+credit risk as the Company markets its products and services primarily to
+financial institutions throughout the United States and Canada. The Company
+performs periodic credit evaluations of its customers' financial condition and
+generally does not require collateral; however, deposits for future services or
+products are frequently required.
+STOCK OPTIONS
+The Company has elected to follow Accounting Principles Board Opinion No.
+25, ACCOUNTING FOR STOCK ISSUED TO EMPLOYEES APB 25 and related
+Interpretations in accounting for its employee stock options because, as
+discussed in Note 9, the alternative fair value accounting provided for under
+Financial Accounting Standards Board Statement No. 123, ACCOUNTING FOR
+STOCK-BASED COMPENSATION Statement 123, requires use of option valuation
+models that were not developed for use in valuing employee stock options.
+USE OF ESTIMATES
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities, the
+disclosure of contingent assets and liabilities at the date of the financial
+statement, and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+25
+PEERLESS GROUP, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+EARNINGS PER SHARE
+In February 1997, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 128, EARNINGS PER SHARE Statement 128.
+Statement 128 replaced the calculation of primary and fully diluted earnings per
+share with basic and diluted earnings per share. Unlike primary earnings per
+share, basic earnings per share excludes any dilutive effects of options,
+warrants and convertible securities. Diluted earnings per share is very similar
+to the previously reported fully diluted earnings per share. All earnings per
+share amounts for all periods have been presented, and where appropriate,
+restated to conform to the Statement 128 requirements.
+RECENTLY ISSUED ACCOUNTING STANDARDS
+In June 1997, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 131, DISCLOSURES ABOUT SEGMENTS OF AN
+ENTERPRISE AND RELATED INFORMATION Statement 131, which is effective for years
+beginning after December 15, 1997. Statement 131 establishes standards for the
+way that public business enterprises report information about operating segments
+in annual financial statements and requires that those enterprises report
+selected information about operating segments in interim financial reports. It
+also establishes standards for related disclosures about products and services,
+geographic areas, and major customers. The Company will adopt the new
+requirements retroactively in 1998. Management has not completed its review of
+Statement 131, but does not anticipate that the adoption of this statement will
+affect results of operations or financial position, but will affect the
+disclosure of segment information.
+In October 1997, the Accounting Standards Executive Committee of the
+American Institute of Public Accountants issued Statement of Position SOP
+97-2, SOFTWARE REVENUE RECOGNITION, which supersedes SOP 91-1. The Company will
+be required to adopt SOP 97-2 for software transactions entered into beginning
+January 1, 1998. SOP 97-2 generally requires revenue earned on software
+arrangements involving multiple elements i.e., software products,
+upgrades/enhancements, postcontract customer support, installation, training,
+etc. to be allocated to each element based on the relative fair values of the
+elements. The fair value of an element must be based on evidence which is
+specific to the vendor. The revenue allocated to software products including
+specified upgrades/enhancements generally is recognized upon delivery of the
+products. The revenue allocated to postcontract customer support generally is
+recognized ratably over the term of the support and revenue allocated to service
+elements such as training and installation generally is recognized as the
+services are performed. If a vendor does not have evidence of the fair value for
+all elements in a multiple-element arrangement, all revenue from the arrangement
+is deferred until such evidence exists or until all elements are delivered. The
+Company management anticipates that the adoption of SOP 97-2 will not have a
+material impact on the Company results of
+operations.
+CHANGES IN PRESENTATION
+Certain prior year amounts have been reclassified to conform to current year
+presentation.
+3. INVESTMENT IN PREFERRED STOCK
+In May 1997, the Company purchased 25,000 shares of the preferred stock of
+Online Resources & Communications Corporation Online, a private electronic
+financial services company, for $25 million.
+26
+PEERLESS GROUP, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+3. INVESTMENT IN PREFERRED STOCK CONTINUED
+This preferred stock is convertible into approximately 833,000 shares of
+Online common stock. The Company also received warrants to purchase
+approximately 333,000 shares of Online common stock at $300 per share. The
+Company understands that Online is seeking additional financing. If Online is
+not able to obtain additional financing, the Company may be required to write
+off some or all of this investment.
+4. DEBT AND CREDIT AGREEMENTS
+LINE OF CREDIT
+In January 1997, the Company amended its line of credit agreement with a
+bank that provides for borrowings up to $2,500,000, reduced by the value of
+outstanding letters of credit issued by the bank on behalf of the Company.
+Borrowings using this line of credit bear interest at the bank prime rate
+850% at December 31, 1997 plus 1/2% and are collateralized by the assets of
+the Company wholly owned subsidiaries. The facility will expire on February 1,
+1999. No amounts were outstanding on the line of credit at December 31, 1997,
+and a letter of credit in the amount of $600,000 was issued by the bank on
+behalf of the Company at that date.
+The line of credit agreement contains restrictive covenants, the most
+significant of which relate to minimum defined annual net income, quarterly cash
+flow and the restriction on the payment of cash dividends. At December 31, 1997,
+the Company was in compliance with such covenants.
+Under the terms of the line of credit agreement, the bank was issued a
+warrant to purchase at any time on or before October 1, 2002, 115,680 shares of
+the Company common stock at a purchase price of $542 per share. Included in
+the warrant agreement was a provision allowing the bank to put the warrant back
+to the Company at any time after October 1, 1999, at a price equal to the
+then-current market price of the Company common stock. No value was assigned
+to the warrant at the date of issuance and no accretion was recorded, as the
+Company determined that there was no significant value separately assignable to
+the warrant and put option. In June 1996, the line of credit agreement was
+amended such that the provision allowing the bank to put the warrant back to the
+Company was terminated.
+LONG-TERM DEBT DUE TO RELATED PARTIES
+The Company repaid all of its debt upon completion of the Offering. In prior
+years, the terms of certain Subordinated Debentures and Acquisition notes
+included warrants to purchase up to 65% of the Company common stock by the
+holders of the Subordinated Debentures the Holders. After giving effect to
+several transactions, including the repurchase of warrants for $3,776,000 in
+cash and notes, which were recorded as reductions to additional paid-in-capital,
+the Holders had warrants to purchase 375% of the outstanding common stock of
+the Company at December 31, 1995. In June 1996, the Holders exercised warrants
+to purchase 505,710 shares of the Company common stock, and in October 1996,
+in conjunction with the Offering, they sold warrants to the underwriters to
+purchase 597,360 shares of the Company common stock. In December 1997, the
+Holders exercised warrants to purchase an additional 181,654 shares of the
+Company common stock. Therefore, at December 31, 1997, the Holders own
+warrants to purchase 181,654 shares of the Company common stock. The warrants
+are exercisable at a price of $0025 per share and expire in October, 2000.
+27
+PEERLESS GROUP, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+5. INCOME TAXES
+The Company uses the liability method in accounting for income taxes as
+required by Statement of Financial Accounting Standards No. 109 ACCOUNTING FOR
+INCOME TAXES. The components of the provision for income taxes are as follows
+in thousands:
+DECEMBER 31,
+1997    1996    1995
+Current:
+$   312 $   51 $   38
+124    362     26
+Total     436    413     64
+Deferred:
+70    245           28    13                                                 Total      98    258                                                 Total provision for income  $   534 $   155 $   64
+The effective income tax rate on income before income taxes differed from
+the Federal income tax statutory rate for the following reasons in thousands:
+YEAR ENDED DECEMBER 31,
+1997    1996    1995
+Income tax charge:
+At Federal statutory  $   824 $   832 $   644
+Unbenefitted utilized net operating      --    832   644
+Benefit of research and development tax     459    --      Federal alternative minimum      --     48     38
+Deferred federal benefit relating to the elimination of the valuation
+--    245      State income      96    271     26
+73     81                                                                                          $   534 $   155 $   64
+Given the historical trends in generating taxable income and the expected
+future earnings, in the fourth quarter of 1996 the Company determined that it
+was more likely than not that its net deferred tax assets would be realized. As
+a result of the Company judgement, the valuation allowance was eliminated and
+a deferred tax benefit of approximately $250,000 was recorded.
+During the three months ended September 30, 1997, the Company identified
+research and development tax credits totaling $459,000. As a result, the
+estimated effective tax rate for the fiscal year was lowered to 219%. As of
+December 31, 1997, the Company had $302,000 of research and development tax
+credits available for carryforward to future periods. These credits begin to
+expire in 2008.
+28
+PEERLESS GROUP, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+5. INCOME TAXES CONTINUED
+The significant components of the Company deferred tax assets and
+liabilities consist of the following in thousands:
+DECEMBER 31,
+1997    1996
+Deferred tax assets:
+Alternative minimum tax credit  $   -- $   85
+Net operating loss      --     65
+Compensation expense on      --    103
+Research and development tax     302      Allowance for bad      52           43     24
+Total deferred tax     397    277
+Deferred tax liabilities:
+Prepaid     185           51     19
+Total deferred tax     236     19
+Deferred income tax assets, net of deferred income tax  $   161 $   258
+6. LEASE COMMITMENTS
+In May 1997, the Company entered into an agreement to lease a building and
+certain real property for fifteen years. This operating lease requires monthly
+base rent payments of approximately $84,000 plus operating expenses and taxes,
+with the monthly base rent amount escalating every five years during the lease
+term. The lease is expected to commence in the third quarter of 1998. The
+Company intends to sublease certain of its existing facilities upon moving to
+the new facility.
+Minimum noncancelable lease payments required under operating leases for the
+years subsequent to December 31, 1997, are as follows in thousands:
+EXISTING
+YEAR                              NEW LEASE  LEASES    TOTAL
+-                                             
+$   505  $   396  $   901
+1,009     356    1,365
+1,009     320    1,329
+1,009     160    1,169
+1,009     65    1,074
+12,994      6   13,000
+Rental expense totaled approximately $323,000, $269,000, and $247,000 for
+the years ended December 31, 1997, 1996 and 1995, respectively.
+29
+PEERLESS GROUP, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+7. EMPLOYEE 401k PLAN
+The Company has a plan which provides retirement benefits under the
+provisions of Section 401k of the Internal Revenue Code the Plan for
+substantially all employees who have completed a specified term of service. The
+Company contributions equal 50% of employee contributions, up to a maximum of
+6% of eligible employee compensation, as defined. Benefits under the Plan are
+limited to the assets of the Plan. Contributions by the Company charged to
+expense during the years ended December 31, 1997, 1996 and 1995, were
+approximately $128,000, $122,000, and $90,000, respectively.
+8. COMMON STOCK
+In July 1996, the Company adopted an employee stock purchase plan under
+Section 423 of the Internal Revenue Code of 1986, as amended. Under the employee
+stock purchase plan, employees may make annual purchases of the Company common
+stock at a price equal to 85% of the market value of the common stock on certain
+specified dates. The Company has reserved 250,000 shares of its common stock for
+issuance under the employee stock purchase plan.
+During 1997 and 1996, the Company issued 1,675 and 19,620 shares,
+respectively, of restricted stock to employees at weighted-average fair values
+of $638 and $538 per share, respectively. The Company recorded approximately
+$10,000 and $102,000, respectively, of unearned compensation for the excess of
+the deemed value for accounting purposes of the common stock issued over the
+proceeds received upon issuance. The unearned compensation is charged to expense
+ratably over the vesting period of the common stock. During 1997 and 1996,
+approximately $83,000 and $98,000 was charged to operations.
+9. STOCK OPTIONS
+The Board of Directors and the stockholders of the Company approved the
+Peerless Group, Inc. 1997 Stock Option Plan the Plan effective as of April
+22, 1997. The Plan reserves 450,000 shares of the Company common stock for
+future issuance. Each option to be granted under the Plan will be exercisable as
+provided by the terms of each option, but in no case longer than ten years from
+the date of the option grant. Historically, the Company options have
+generally vested 20% on the date of grant and 20% each year for the following
+four years, with an exercise period of five years from the date of grant.
+30
+PEERLESS GROUP, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+9. STOCK OPTIONS CONTINUED
+A summary of the Company stock option activity and related information for
+the years ended December 31 follows in thousands except for per share data:
+1997             1996             1995
+WEIGHTED           WEIGHTED           WEIGHTED
+NUMBER OF    AVERAGE    NUMBER OF    AVERAGE    NUMBER OF    AVERAGE
+OPTIONS  EXERCISE PRICE   OPTIONS  EXERCISE PRICE   OPTIONS  EXERCISE PRICE
+Outstanding at beginning of year.     433   $  414      348   $  176      299   $  109
+Granted-Exercise price exceeds market
+price on date of grant.     170      805       10      880       24      287
+Granted-Exercise price equals market
+price on date of grant.     10      450      154      760       95      274
+168     148      79     101      60     044
+39     800       --       --      10     193
+Outstanding at end of year.     406      651      433      414      348      176
+Exercisable at end of year.     148   $  567      241   $  253      148   $  148
+Weighted average fair value of options
+granted-Exercise price exceeds
+market price on date of grant.         $  183           $  198           $  086
+Weighted average fair value of options
+granted-Exercise price equals market
+price on date of grant.         $  197           $  222           $  099
+The total options outstanding at December 31, 1997, included 96,000 options
+with exercise prices ranging from $260 to $287 and a weighted-average
+remaining contractual life of 20 years; and 310,000 options with exercise
+prices ranging from $450 to $880 and a weighted-average remaining contractual
+life of 42 years. Exercisable options at December 31, 1997, included 58,800
+options with exercise prices ranging from $260 to $287 and a weighted-average
+exercise price of $267; and 89,540 options with exercise prices ranging from
+$450 to $880 and a weighted-average exercise price of $764. Under APB 25,
+because the exercise price of the Company employee stock options equals or
+exceeds the market price of the underlying stock on the date of grant, no
+compensation expense is recognized.
+Pro forma information regarding net income and earnings per share is
+required by Statement 123, and has been determined as if the Company had
+accounted for its employee stock options under the fair value method of that
+Statement. The fair value for these options was estimated at the date of grant
+using a Black-Scholes option pricing model with the following weighted-average
+assumptions for 1997, 1996 and 1995 respectively: risk-free interest rates of
+582%, 579% and 737%; volatility factors of the expected market price of the
+Company common stock of 502, 347 and 447; and no dividend yields. In
+addition, the fair value of these options was estimated based on an expected
+life of one year from the vesting date using the multiple option method.
+The Black-Scholes option valuation model was developed for use in estimating
+the fair value of traded options which have no vesting restrictions and are
+fully transferable. In addition, option valuation models require the input of
+highly subjective assumptions including the expected stock price volatility.
+Because the
+31
+PEERLESS GROUP, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+9. STOCK OPTIONS CONTINUED
+Company employee stock options have characteristics significantly different
+from those of traded options, and because changes in the subjective input
+assumptions can materially affect the fair value estimate, in management
+opinion, the existing models do not necessarily provide a reliable single
+measure of the fair value of its employee stock options.
+For purposes of pro forma disclosures, the estimated fair value of the
+options is amortized to expense over the options' vesting period. The Company
+pro forma information follows in thousands, except for earnings per share
+information:
+1997    1996    1995
+Pro forma net  $  1,698 $  2,170 $  1,789
+Pro forma basic earnings per  $  036 $  077 $  088
+Pro forma diluted earnings per  $  034 $  053 $  048
+The pro forma disclosures only include the effect of options granted
+subsequent to December 31, 1994. Accordingly, the pro forma information does not
+reflect the pro forma effect of all previous stock option grants of the Company,
+and thus is not indicative of future amounts until Statement No. 123 is applied
+to all outstanding stock options.
+10. OPERATIONS
+The Company is dependent upon International Business Machines Corporation
+IBM as its principal computer hardware vendor for its financial institution
+applications systems. Additionally, operating systems on which the Company
+products function have been developed by IBM. Since its inception in 1989, the
+Company has been a value-added remarketer of IBM products pursuant to standard
+IBM Remarketer Agreements. The Company current remarketing agreement with IBM
+expires on February 28, 1999. Both IBM and the Company may, with or without
+cause, upon three months written notice, terminate the agreement. The Company
+has no indication that IBM will discontinue the remarketing agreement. The
+Company believes that its relationships with IBM are good.
+11. SEVERANCE CHARGE
+During the year ended December 31, 1996, the Company incurred a severance
+charge of $341,000 related to the resignation of a former officer $289,000 of
+which were non-cash compensation charges related to the extension of the
+exercise period of certain stock options and the acceleration of vesting of
+restricted stock awards.
+32
+PEERLESS GROUP, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+12. EARNINGS PER SHARE
+The following table sets forth the computation of basic and diluted earnings
+per share amounts in thousands except for earnings per share amounts:
+1997    1996    1995
+Numerator:
+Net  $  1,903 $  2,293 $  1,830
+Accretion on redeemable common      --    44    58
+Numerator for basic and diluted earnings per  $  1,903 $  2,249 $  1,772
+Denominator:
+Denominator for basic earnings per share-weighted average shares.   4,712   2,745   1,976
+Effect of dilutive securities:
+Stock      76    266    169
+365   1,072   1,503
+Employee stock purchase      4     --      Non-vested     27    28                                                    Dilutive potential common     418   1,310   1,672
+Denominator for diluted earnings per share-adjusted weighted average shares and
+assumed    5,130   4,055   3,648
+Basic earnings per  $  040 $  082 $  090
+Diluted earnings per  $  037 $  055 $  049
+Options to purchase 251,200 shares of common stock at $800 per share and
+20,000 shares of common stock at $880 per share were outstanding during 1997
+but were not included in the computation of diluted earnings per share because
+the options' exercise prices were greater than the average market price of the
+common shares and, therefore, the effect would be antidilutive.
+33
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+None.
+8
+PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The information required by this item regarding Directors of the Company is
+set forth in the Proxy Statement the Proxy Statement to be delivered to the
+Company stockholders in connection with the Company 1998 Annual Meeting of
+Stockholders under the heading Election of Directors, which information is
+incorporated herein by reference. The name, age and position of each executive
+officer of the Company is set forth under the heading Executive Officers in
+Part I of this Form10-K, which information is incorporated herein by reference.

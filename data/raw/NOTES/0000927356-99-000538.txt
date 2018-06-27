@@ -1,0 +1,965 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA               SCC COMMUNICATIONS CORP.
+INDEX TO FINANCIAL STATEMENTS
+Page
+Report of Independent Public       32
+Balance Sheets as of December 31, 1998 and       33
+Statements of Operations for the years ended December 31, 1998, 1997 and       34
+Statements of Stockholders' Equity Deficit for the years ended December 31, 1998, 1997 and 1996.      35
+Statements of Cash Flows for the years ended December 31, 1998, 1997 and       36
+Notes to Financial       37                    31
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+To the Board of Directors and Stockholders of SCC Communications Corp.  We have audited the accompanying balance sheets of SCC Communications Corp. a
+Delaware corporation as of December 31, 1998 and 1997, and the related
+statements of operations, stockholders' equity deficit and cash flows for each
+of the three years in the period ended December 31, 1998. These financial
+statements are the responsibility of the Company management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of SCC Communications Corp. as of
+December 31, 1998 and 1997, and the results of its operations and its cash flows
+for each of the three years in the period ended December 31, 1998, in conformity
+with generally accepted accounting principles.
+ARTHUR ANDERSEN LLP
+Denver, Colorado,
+February 19, 1999
+32
+SCC COMMUNICATIONS CORP.
+BALANCE SHEETS
+dollars in thousands
+December 31,
+1998       1997
+ASSETS
+CURRENT ASSETS:
+Cash and cash      $ 10,266     $ 2,503
+Short-term investments in marketable        7,761         Accounts receivable, net of allowance of approximately $50 in 1998 and 1997 for        4,820       2,328
+doubtful 
+Unbilled project       1,035        996
+Prepaids and        484        224
+Deferred income taxes -- current       2,025       1,300
+Total current       26,391       7,351
+PROPERTY AND EQUIPMENT, at cost:
+Computer hardware and       23,687      18,844
+Furniture and        800        709
+Leasehold        920        621
+25,407      20,174
+Less -- Accumulated      11,056      8,136
+Total property and       14,351      12,038
+OTHER        112        86
+LONG-TERM INVESTMENTS in marketable       2,054         DEFERRED INCOME TAXES --       1,504       1,200
+SOFTWARE DEVELOPMENT COSTS, net of accumulated amortization of $346 and $201 in
+1998 and 1997,        683        431
+$ 45,095     $ 21,106
+LIABILITIES AND STOCKHOLDERS' EQUITY DEFICIT
+CURRENT LIABILITIES:
+Accounts      $ 1,211     $  965
+Payroll-related        734        780
+Other accrued       2,546       2,671
+Property and other        696        368
+Current portion of notes payable Note         --        986
+Current portion of capital lease obligations Note       1,618       1,638
+Deferred contract       1,908       2,613
+Total current       8,713      10,021
+LONG-TERM DEBT:
+Notes payable, net of current portion Note         --       4,000
+Discount on long-term note payable Note         --      1,430
+Capital lease obligations, net of current portion Note 5.      2,791       4,321
+Total       11,504      16,912
+COMMITMENTS AND CONTINGENCIES Notes 7 and 11
+MANDATORILY REDEEMABLE CONVERTIBLE PREFERRED                         
+STOCK Note 4:
+Series A, B, C, D, E and F $001 par value; 6,188,575 shares authorized, issued
+and outstanding at December 31, 1997; entitled to $0 and $14,589 in 1998 and         
+1997, respectively, in liquidation or upon redemption if requested by the                  
+holders after September 1, 1998, stated at redemption value.        --      14,589
+PUTABLE COMMON STOCK WARRANT Note         --       1,472
+STOCKHOLDERS' EQUITY DEFICIT Note 4:
+Preferred stock, $001 par value; 15,000,000 shares authorized; none issued or          
+--         Common stock, $001 par value; 30,000,000 shares authorized; 10,886,353 and           
+1,994,281 shares issued at December 31, 1998 and 1997, respectively.        10         2
+Additional paid-in       43,320        452
+Treasury stock, 0 and 36,250 shares outstanding at December 31, 1998 and 1997,          
+respectively, at         --        3
+Stock subscriptions        59       99
+Accumulated       9,680     12,219
+Total stockholders' equity       33,591      11,867
+$ 45,095     $ 21,106
+The accompanying notes to financial statements are an integral part of these
+balance sheets.
+33
+SCC COMMUNICATIONS CORP.
+STATEMENTS OF OPERATIONS
+dollars in thousands, except per share data
+Year Ended December 31,
+1998      1997     1996
+REVENUE:
+Data management     $  30,610  $  24,005  $  13,165
+Licenses and implementation        3,839    3,067    1,637
+Total        34,449    27,072    14,802
+COSTS AND EXPENSES:
+Cost of data management        20,740    15,378    7,996
+Cost of licenses and implementation         836    1,283     596
+Sales and        4,119    3,850    3,204
+General and        4,959    3,227    1,533
+Total costs and        30,654    23,738    13,329
+INCOME FROM        3,795    3,334    1,473
+OTHER INCOME EXPENSE:
+Interest and other         654      88      34
+Interest and other         948    967    561
+INCOME FROM CONTINUING OPERATIONS BEFORE INCOME
+TAXES AND EXTRAORDINARY        3,501    2,455     946
+PROVISION BENEFIT FOR INCOME TAXES Note         379   2,328      9
+NET INCOME FROM CONTINUING OPERATIONS BEFORE EXTRAORDINARY ITEM.  
+3,880    4,783     937
+DISCONTINUED OPERATIONS Note 3:
+Loss from operations of discontinued division, net of tax.         --     876    562
+Loss from disposal of discontinued          --    2,032                                                   NET INCOME BEFORE EXTRAORDINARY        3,880    1,875     375
+EXTRAORDINARY LOSS FROM EARLY EXTINGUISHMENT OF DEBT, net of tax.        909     --                                                    NET     $   2,971  $  1,875  $   375
+Dividends accrued on Series D, E and F mandatorily redeemable
+convertible preferred         355    740    673
+Common stock warrant put price         77     8                                                   NET INCOME LOSS APPLICABLE TO COMMON     $   2,539  $  1,127  $   298
+NET INCOME PER SHARE FROM CONTINUING OPERATIONS BEFORE EXTRAORDINARY ITEM
+Note 2:
+$   053  $   217  $   015
+$   038  $   054  $   011
+NET INCOME LOSS PER SHARE BEFORE EXTRAORDINARY ITEM Note 2:
+$   053  $   061  $  017
+$   038  $   021  $   005
+NET INCOME LOSS PER SHARE Note 2:
+$   039  $   061  $  017
+$   029  $   021  $   005
+SHARES USED IN COMPUTING NET INCOME LOSS PER SHARE Note 2:
+6,433,564  1,857,413  1,790,230
+10,334,556  8,788,816  8,299,362
+The accompanying notes to financial statements are an integral part of these
+statements.
+34
+SCC COMMUNICATIONS CORP.
+STATEMENTS OF STOCKHOLDERS' EQUITY DEFICIT
+dollars in thousands, except per share data
+Total
+Common Stock   Additonal   Stock     Treasury Stock        Stockholders'
+Paid-in  Subscriptions   Accumulated  Equity
+Shares   Amount  Capital   Receivable  Shares   Amount   Deficit   Deficit
+BALANCES, at December 31,
+1,821,448 $   2  $  278  $   19  36,250  $  3  $ 13,049  $12,791
+Dividends accrued on Series D, E
+and F Convertible Preferred Stock     --    --     --      --     --     --     672    672
+Exercise of stock options.   19,451    --     20      --     --     --      --      20
+Net      --    --     --      --     --     --     375     375
+BALANCES, at December 31,
+1,840,899    2     298     19  36,250    3   13,346   13,068
+Dividends accrued on Series D, E
+and F Convertible Preferred Stock     --    --     --      --     --     --     740    740
+Exercise of stock options,               
+including options exercised in
+exchange for notes receivable.   153,382    --     154     80     --     --      --      74
+Common stock warrant put price
+adjustment Note 4.     --    --     --      --     --     --      8     8
+Net      --    --     --      --     --     --    1,875    1,875
+BALANCES, at December 31,
+1,994,281    2     452     99  36,250    3   12,219   11,867
+Dividends accrued on Series D, E
+and F Convertible Preferred Stock     --    --     --      --     --     --     355    355
+Issuance of common stock through                
+Initial Public Offering, net of         
+issuance costs of $964. 2,415,000    2   25,985      --     --     --      --   25,987 
+Conversion of preferred stock into  
+common stock. 6,188,575    6   14,938      --     --     --      --   14,944
+Conversion of common stock warrants  195,148    --    1,549      --     --     --      --    1,549
+Issuance of common stock under       
+Employee Stock Purchase Plan.   61,105    --     243      --     --     --      --     243
+Exercise of stock options.   68,494    --     39      --     --     --      --     39
+Common stock warrant put
+price adjustment.     --    --     --      --     --     --     77    77
+Stock subscription payments                                                
+--    --     --      40     --     --      --     40
+Tax benefit related to
+disqualifying dispositions of                                               
+common stock.     --    --     117      --     --     --      --     117
+Retirement of treasury stock.  36,250   --     3     --   36,250     3      --      Net      --    --     --      --     --     --    2,971    2,971
+BALANCES, at December 31, 1998. 10,886,353 $  10  $ 43,320  $   59     --  $  --   $ 9,680 $ 33,591
+The accompanying notes to financial statements are an integral part of these
+statements.
+35
+SCC COMMUNICATIONS CORP.
+STATEMENTS OF CASH FLOWS
+dollars in thousands
+Year Ended December 31,
+1998      1997   1996
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net       $ 2,971  $ 1,875  $  375
+Adjustments to reconcile net income to net cash provided by                 
+operating activities   Amortization and        4,315   3,534   2,242
+Amortization and write off of note payable        1,430    33       Accretion of investments in marketable         316    --       Gain on disposal of          --    40      Loss on disposal of discontinued          --   2,032       Provision for estimated losses on          7   196   321
+Provision for doubtful          --    25       Deferred income tax         912  2,500      Change in --                                             
+Accounts        2,492   977   102
+Unbilled project         39   190   778
+Prepaids and         286   202   327
+Accounts         246    236    309
+Accrued         150   1,337    477
+Deferred contract         705   303  1,932
+Decrease in current assets and liabilities from discontinued operations.         --    110  1,257
+Net cash provided by used in operating        4,369   5,380   456
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Acquisition of property and        2,995  2,646  2,361
+Proceeds from sale of net          --    603      Purchase of       14,446    --      Sale of investments in marketable        4,947    --      Software development         397   142   226
+Net cash used in investing       12,891  2,185  2,587
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from issuance of notes          --   4,275   2,150
+Principal payments on notes        4,986  1,439  1,527
+Principal payments on capital lease        5,038  3,634  2,528
+Exercise of stock          39    74    20
+Stock subscription payments          40    --      Purchases through employee stock purchase         243    --      Proceeds from initial public offering and overallotment, net of underwriters' discount.       26,951    --      Costs related to initial public         964    --      Proceeds from issuance of Series F Convertible Preferred          --    --   3,956
+Net cash provided by used in financing        16,285   724  2,071
+NET INCREASE DECREASE IN CASH AND CASH        7,763   2,471   972
+CASH AND CASH EQUIVALENTS, beginning of        2,503    32   1,004
+CASH AND CASH EQUIVALENTS, end of       $ 10,266  $ 2,503  $  32
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid during the period for       $  801  $  942  $  611
+Cash paid during the period for       $   95  $  18  $   4
+SUPPLEMENTAL SCHEDULE OF NONCASH FINANCING AND INVESTING ACTIVITIES:
+Dividends accrued on Series D, E and F Convertible Preferred Stock.      $  355  $  740  $  673
+Common stock issued to employees in exchange for employee notes receivable.      $  --  $  80  $                                                            Property acquired with capital       $ 3,488  $ 3,074  $ 5,327
+Conversion of debt and accrued interest thereon to Series F Convertible Preferred Stock.      $   --  $  --  $ 1,044
+Conversion of preferred       $ 14,943  $ --   $                                                           Conversion of       $ 1,549  $ --   $                                                           Retirement of treasury stock                                     $   3  $ --   $                                                           The accompanying notes to financial statements are an integral part of these
+statements.
+36
+SCC COMMUNICATIONS CORP.
+NOTES TO FINANCIAL STATEMENTS
+1 ORGANIZATION, BUSINESS AND LIQUIDITY
+SCC Communications Corp., the Company, is a Delaware corporation. The
+Company is the leading provider of 9-1-1 operations support systems services to
+incumbent local exchange carriers ILECs, competitive local exchange carriers
+CLECs and wireless carriers in the United States. The Company manages the
+data which enables 9-1-1 calls to be routed to the appropriate public safety
+agency with accurate and timely information about the caller identification
+and location. In addition, the Company licenses its 9-1-1 software to carriers
+that wish to manage the delivery of 9-1-1 data management services in-house.
+2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Operating Cycle
+Assets and liabilities related to contracts are included in current assets and
+liabilities in the accompanying balance sheets since they will be liquidated in
+the normal course of contract completion, although this may require more than
+one year.
+Property and Equipment
+Depreciation of property and equipment is computed using the straight-line
+method over estimated useful lives of three to five years for computer hardware
+and equipment, seven years for furniture and fixtures and the life of the lease
+for leasehold improvements. The costs of repairs and maintenance are expensed
+while enhancements to existing assets are capitalized.
+Software Development Costs
+The Company expenses the costs of developing computer software until
+technological feasibility is established and capitalizes all costs incurred from
+that time until the software is available for general customer release.
+Technological feasibility for the Company computer software products is based
+upon the earlier of the achievement of a a detailed program design free of
+high-risk development issues or b completion of a working model. Costs of
+major enhancements to existing products with a wide market are capitalized while
+routine maintenance of existing products is charged to expense as incurred. The
+establishment of technological feasibility and the ongoing assessment of the
+recoverability of capitalized computer software development costs requires
+considerable judgment by management with respect to certain external factors,
+including, but not limited to, technological feasibility, anticipated future
+gross revenues, estimated economic life and changes in software and hardware
+technology.
+Capitalized software costs are amortized on a product-by-product basis. The
+annual amortization is the greater of the amount computed using a the ratio
+that current gross revenues for a product bear to the total of current and
+anticipated future gross revenues for that product, or b the straight-line
+method over the remaining estimated economic life of the product which is
+typically five years. Amortization expense related to capitalized software costs
+from continuing operations totaled $145,000, $107,000 and $55,000, respectively,
+for the years ended December 31, 1998, 1997 and 1996, respectively, and is
+included in cost of data management services and licenses and implementation
+services in the statements of operations. Revenue Recognition
+The Company reports revenue based on its two segments, data management
+services and licenses and implementation services. Revenue from data management
+services generally consists of a non-recurring initial fee and monthly recurring
+revenue. The non-recurring initial fee is recognized using the percentage-of-
+completion method over the period required to convert the customer data to the
+Company system and otherwise prepare for implementation. Revenue from
+recurring monthly services is recognized in the period the services are
+rendered. Related expenses are recognized as they are incurred and are included
+in cost of data management services in the accompanying statements of
+operations.
+37
+Because the Company software requires significant modification for each
+customer, revenue related to software license fees and implementation of the
+Company 9-1-1 systems at customer sites is recognized using the percentage-of-
+completion method. Such contracts include a license fee for the use of the
+Company software and service fees for the installation and customization of
+the system. The Company costs to install its systems include direct labor,
+third party license fees and miscellaneous expenses. Such costs are included in
+cost of licenses and implementation services.
+In applying the percentage-of-completion method, revenue and related costs are
+recognized based on the percentage that labor hours incurred to date bear to
+total estimated labor hours. Revenue recognized in excess of amounts billed is
+reflected as unbilled project revenue and amounts billed in excess of revenue
+recognized are reflected as deferred contract revenue in the accompanying
+balance sheets. The Company recognizes any known or anticipated loss on
+contracts in process when such losses are determined to exist.
+Revenue from licenses and implementation services includes customer support
+revenue which is recognized ratably over the related contract period on a
+straight-line basis. Costs related to customer support revenue are included in
+cost of licenses and implementation services in the accompanying statements of
+operations. Concentration of Credit Risk
+Financial instruments which potentially subject the Company to concentrations
+of credit risk are primarily accounts receivable and investments in high-grade
+treasury bonds and commercial paper. The Company accounts receivable are from
+customers that are generally telecommunications service providers; accordingly,
+the Company accounts receivable are concentrated in the telecommunications
+industry. The Company principal customers Note 10 accounted for 30% and 40%
+of the Company accounts receivable as of December 31, 1998 and 1997,
+respectively. The Company has no significant financial instruments with off-
+balance sheet risk of accounting loss, such as foreign exchange contracts,
+option contracts or other foreign currency hedging arrangements.
+Research and Development
+Research and development efforts consist of salaries, supplies and other
+related costs. These costs are expensed as incurred and totaled approximately
+$1,376,000, $738,000 and $230,000 for the years ended December 31, 1998, 1997
+and 1996, respectively. These costs are included in cost of data management
+services and licenses and implementation services in the accompanying statements
+of operations and do not include development costs incurred as part of the
+efforts performed under licenses and implementation services contracts with the
+Company customers.
+Cash and Cash Equivalents
+For purposes of reporting cash flows, cash and cash equivalents include highly
+liquid investments with original maturities of 90 days or less.
+Use of Estimates
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions.
+These estimates affect the reported amounts of assets and liabilities,
+disclosure of contingent assets and liabilities at the date of the financial
+statements, and the reported amounts of revenue and expenses during the
+reporting period. Actual results could differ from those estimates.
+Fair Market Value of Financial Instruments
+Financial instruments include cash and cash equivalents, corporate debt
+securities, accounts receivable and debt obligations. The carrying amounts for
+cash and cash equivalents and accounts receivable approximate fair market value
+because of the short maturity of these instruments. The fair value of notes and
+capital lease obligations are estimated based on current rates available for
+debt with similar maturities and securities, and at December 31, 1998 and 1997,
+approximates the carrying value.
+38
+Investments in Marketable Securities
+The Company investments in corporate debt securities are classified as held-
+to-maturity and are carried at the amortized cost basis. The investments had
+the following values at December 31, 1998                      Amortized/            Gross Unrealized  Gross Unrealized 
+Accreted Cost Accrued Interest   Holding Gains    Holding Losses   Fair Value
+Corporate Debt Securities, maturing 
+within one year             $7,761,000    $237,000      $13,000       $2,000    $7,535,000
+Corporate Debt Securities, maturing 
+after one year through five years     2,054,000     33,000       3,000         --     2,024,000
+$9,815,000    $270,000      $16,000       $2,000    $9,559,000
+Income Taxes
+The Company follows Statement of Financial Accounting Standards No. 109 SFAS
+109, which requires recognition of deferred income tax assets and liabilities
+for the expected future income tax consequences, based on enacted tax laws, of
+temporary differences between the financial reporting and tax bases of assets
+and liabilities. SFAS 109 also requires recognition of deferred tax assets for
+the expected future tax effects of loss carryforwards and tax credit
+carryforwards. Deferred tax assets are then reduced, if deemed necessary, by a
+valuation allowance for the amount of any tax benefits which, on a more likely
+than not basis, are not expected to be realized Note 6.
+Stock Based Compensation Plans
+The Company applies APB Opinion No. 25, Accounting for Stock Issued to
+Employees, in accounting for its stock option and other stock-based
+compensation plans for employees and directors. The Company has adopted the
+disclosure provisions of Statement of Financial Accounting Standards No. 123
+SFAS 123, Accounting for Stock-Based Compensation, for such options and
+stock-based plans for employees and directors Note 4.
+Impairment of Long-Lived Assets
+The Company reviews its long-lived assets for impairment whenever events or
+changes in circumstances indicate that the carrying amount of an asset may not
+be recoverable from future undiscounted cash flows. Impairment losses are
+recorded for the excess, if any, of the carrying value over the fair value of
+the long-lived assets.
+Earnings Per Share
+The Company has adopted Statement of Financial Accounting Standards No. 128,
+Earnings Per Share, by retroactively restating income loss per share amounts
+for all periods presented. Basic income loss per share is determined by
+dividing net income loss available to common shareholders by the weighted
+average number of common shares outstanding during each period. Diluted income
+loss per share includes the effects of potentially issuable common stock, but
+only if dilutive i.e., a loss per share is never reduced. The treasury stock
+method, using the average price of the Company common stock for the period, is
+applied to determine dilution from options and warrants. The if-converted method
+is used for convertible securities. Potentially dilutive common stock options
+that were excluded from the calculation of diluted income per share because
+their effect is antidilutive totaled 51,000, 298,017 and 230,316 in 1998, 1997
+and 1996, respectively.
+A reconciliation of the numerators and denominators used in computing per
+share net income from continuing operations is as follows                              Year Ended December 31,
+1998        1997        1996
+Numerator:
+Net income from continuing
+operations before extraordinary       
+item numerator for diluted loss
+per share for 1998, 1997 and 1996.     $3,880,000     $4,783,000      $ 937,000
+Dividends on Convertible Preferred      
+355,000      740,000      673,000
+Common stock warrant put price          
+77,000       8,000                                              Numerator for basic income loss       
+per share before extraordinary item.     $3,448,000     $4,035,000      $ 264,000
+39
+Denominator for basic income loss
+per share:
+Weighted average common shares        
+6,433,564     1,857,413     1,790,230
+Denominator for diluted income loss                  
+per share:
+Convertible Preferred Stock.     3,051,900     6,188,575     5,970,710
+Weighted average common shares        
+6,433,564     1,857,413     1,790,230 
+Options issued to employees.      752,863      720,605      538,422
+Putable common stock warrant.       96,229       22,223                                                  Denominator for diluted       
+income loss per share.     10,334,556     8,788,816     8,299,362
+Income loss per common share was computed as follows                                Year Ended December 31,
+1998       1997       1996
+Basic income loss per share:
+Income per share from continuing operations  
+before extraordinary item.      $ 053      $ 217     $ 015 
+Loss per share from discontinued operations.        --      156     032
+Loss per share from extraordinary item.      014       --                                                     Basic income loss per share.      $ 039      $ 061     $017
+Diluted income loss per share:
+Income per share from continuing operations.      $ 038      $ 054     $ 011
+Loss per share from discontinued operations.        --      033     006
+Loss per share from extraordinary item.      009       --                                                     Diluted income per share.      $ 029      $ 021     $ 005
+Reverse Stock Split
+On March 18, 1998, the Company Board of Directors authorized a one-for-three
+reverse stock split which was effective June 23, 1998. All share amounts,
+equivalent share amounts and per share amounts have been adjusted retroactively
+to reflect the reverse stock split.
+Recently Issued Accounting Pronouncements Statement of Position 98-1
+In March 1998, the American Institute of Certified Public Accountants
+AICPA issued Statement of Position 98-1 SOP 98-1, Accounting for the
+Costs of Computer Software Developed or Obtained for Internal Use. In general,
+SOP 98-1 requires that certain costs to develop software for internal use be
+capitalized. This statement is effective for fiscal years beginning after
+December 15, 1998, although earlier adoption is permitted. These requirements
+are to be applied prospectively from the date of adoption. The Company believes
+SOP 98-1 will not materially impact its financial statements.
+Statement of Position 98-5
+In April 1998, the AICPA issued Statement of Position 98-5 SOP 98-5,
+Reporting on the Costs of Start-Up Activities. SOP 98-5 provides guidance on
+the financial reporting of start-up and organization costs and requires costs of
+start-up activities and organization costs to be expensed as incurred. SOP 98-5
+is effective for fiscal years beginning after December 15, 1998 and the Company
+believes SOP 98-5 will not materially impact its financial statements.
+Statement of Financial Accounting Standards No. 133
+In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 133, Accounting for Derivative Instruments
+and Hedging Activities. The Statement establishes accounting and reporting
+standards requiring that every derivative instrument including certain
+derivative instruments embedded in other contracts be recorded in the balance
+sheet as either an asset or liability measured at its fair value. The
+statement requires that changes in the derivative fair value be recognized
+currently in earnings unless specific hedge accounting criteria are met. Special
+accounting for qualifying hedges allows a derivative gains and losses to
+offset related results on the hedged item in the income statement, and requires
+that a company must formally document, designate, and assess the effectiveness
+of transactions that receive hedge accounting.
+Statement No. 133 is effective for fiscal years beginning after June 15, 1999.
+A company may also implement the Statement as of the beginning of any fiscal
+quarter after issuance that is, fiscal quarters beginning June 16 1998 and thereafter. Statement No. 133 cannot be applied retroactively.
+Statement No. 133 must be applied to a derivative instruments and b certain
+derivative instruments embedded in hybrid contracts that were
+40
+issued, acquired, or substantively modified after December 31, 1997 and, at the
+company election, before January 1, 1998.
+The Company does not typically enter into arrangements that would fall under
+the scope of Statement No. 133. The Company management has not yet quantified
+the impacts of adopting Statement 133 on the Company financial statements and
+has not determined the timing of or method of the Company adoption of
+Statement No. 133. However, should the Company determine to utilize the
+arrangements covered by Statement No. 133, the Statement could increase
+volatility in earnings and other comprehensive income. Because the Company has
+not historically entered into such arrangements, management believes that
+Statement No. 133 will not significantly affect its financial reporting.
+Statement of Position 98-9
+In December 1998, the AICPA issued Statement of Position 98-9 SOP 98-9,
+Modification of SOP 97-2, Software Revenue Recognition, With Respect to Certain
+Transactions. SOP 98-9 amends certain paragraphs of Statement of Position 97-2
+SOP 97-2, Software Revenue Recognition, to require the application of a
+residual method of accounting for software revenue when certain conditions
+exist. SOP 98-9 also amends Statement of Position 98-4 SOP 98-4, Deferral
+of the Effective Date of a Provision of SOP 97-2 to extend the deferral of the
+application of certain passages of SOP 97-2 provided by SOP 98-4 through fiscal
+years beginning on or before March 15, 1999.  All other provisions of SOP 98-9
+are effective for transactions entered into in fiscal years beginning after
+March 15, 1999. Earlier adoption is permitted, however, retroactive application
+is prohibited. The Company believes SOP 98-9 will not materially impact its
+financial statements.
+Reclassifications
+Certain reclassifications have been made to prior year balances to conform to
+the current year presentation.
+3 DISCONTINUED OPERATIONS
+On June 30, 1997, the Company sold the net assets of its Premise Products
+Division. The sale resulted in a net loss of $2,032,000. The net losses of this
+division are included in the statements of operations as loss from operations of
+discontinued division. Revenue from the division for the six months ended June
+30, 1997 and for the year ended December 31, 1996 was $5,785,000 and
+$12,274,000, respectively.
+4 STOCKHOLDERS' EQUITY DEFICIT
+Common Stock and Preferred Stock
+In March 1998, the Company Board of Directors authorized an increase in
+common stock to 30,000,000 shares and authorized 15,000,000 shares of
+undesignated preferred stock. In 1998 the Company also retired 36,250 shares of
+treasury stock.
+Mandatorily Redeemable Convertible Preferred Stock
+At December 31, 1997, the Company had the following series of preferred stock
+outstanding                    Shares     Liquidation 
+Authorized,      or        Original
+Issued and    Redemption     Purchase
+Outstanding     Price       Price
+Series A.     1,515,152    $ 1,500,000    $ 1,500,000
+Series B.     1,010,101     1,000,000     1,000,000
+Series C.      442,328      730,000      730,000
+Series D.      912,123     2,371,000     1,614,458
+Series E.     1,083,381     3,255,000     2,632,617
+Series F.     1,225,490     5,733,000     5,000,000
+6,188,575    $14,589,000    $12,477,075
+In connection with the Company initial public offering in June 1998, the
+Company mandatorily redeemable convertible preferred stock was converted on a
+one-for-one basis to common stock. Activity for 1996, 1997 and 1998 is as
+follows                    41
+Shares Issued and Outstanding
+Series A    Series B  Series C  Series D  Series E   Series F    Total
+BALANCES, at December 31,
+1,515,152  1,010,101  442,328  912,123  1,083,381      --  4,963,085
+Series F Convertible Preferred
+Stock issued at $408 per share
+in exchange for cash and notes
+--      --     --     --      --  1,225,490  1,225,490
+BALANCES, at December 31,
+1996 and 1997.    1,515,152  1,010,101  442,328  912,123  1,083,381  1,225,490  6,188,575
+Conversion of preferred stock to
+common stock.    1,515,152 1,010,101 442,328 912,123 1,083,381 1,225,490 6,188,575
+BALANCES, at December 31,
+--      --     --     --      --      --                                         The activity related to the liquidation or redemption value of Series A
+through Series F Convertible Preferred Stock for the periods ended December 31,
+1998, 1997 and 1996 is as follows                   
+Liquidation or Redemption Value
+Series A    Series B   Series C   Series D   Series E   Series F   Total
+BALANCES, at December 31,
+$ 1,500,000    $ 1,000,000  $ 730,000 $ 2,113,000  $ 2,833,000 $    --  $ 8,176,000
+Series F Convertible
+Preferred Stock
+issued at $408 per
+share in exchange for
+cash and notes
+--        --      --      --      --  5,000,000   5,000,000
+Dividends accrued on
+Series D, E and F
+Convertible Preferred
+--        --      --    129,000    211,000   333,000    673,000
+BALANCES, at December 31,
+1,500,000    1,000,000   730,000   2,242,000   3,044,000  5,333,000   13,849,000
+Dividends accrued on
+Series D, E and F
+Convertible Preferred
+--        --      --    129,000    211,000   400,000    740,000
+BALANCES, at December 31,
+1,500,000    1,000,000   730,000   2,371,000   3,255,000  5,733,000   14,589,000
+Dividends accrued on
+Series D, E and F
+Convertible Preferred
+--        --      --    62,000    101,000   192,000    355,000
+Conversion of Series A-F
+Convertible Preferred Stock to
+Common Stock.  1,500,000   1,000,000  730,000  2,433,000  3,356,000 5,925,000 14,944,000
+BALANCES, at December 31,
+$    --    $    --  $   --  $    --  $    --  $    -- $                                Until the mandatorily redeemable convertible preferred stock was converted,
+dividends of 8% per year were accrued that would be due upon liquidation or
+redemption.
+Putable Common Stock Warrant
+In November 1997, the Company borrowed $4,000,000 from Banc One Capital
+Partners II, LLC the Lender Note 5. In connection with the loan, the
+Lender received a warrant to purchase 195,148 shares of the Company common
+stock for $100. In June 1998, the Lender exercised this warrant. Because of the
+put feature of the warrant, the Company recorded an amount equal to the number
+of shares under the warrant times the difference between the current market
+value, as defined, and the market value of the shares at the time the warrant
+was issued. This amount was recorded as an increase in the value of the putable
+common stock warrant and charged to accumulated deficit in the accompanying
+financial statements through the time that the warrant was exercised. The
+amount recorded was $77,000 and $8,000 in 1998 and 1997, respectively.
+Stock Subscriptions Receivable
+In September 1997, in connection with the sale of the Company Premise
+Products Division, several former employees of the Company signed full recourse
+promissory notes to the Company to exercise their vested stock options. The
+notes accrue interest at 607% per annum. The Company extended the due date on
+the notes to March 20, 1999 and is pursuing collection of the notes that remain
+unpaid.
+42
+Stock Option Plan
+The Company adopted the 1998 Stock Incentive Plan 1998 Plan effective June
+23, 1998, which is a successor to the Company 1990 Option Plan. A total of
+2,928,872 shares have been authorized for issuance under the 1998 Plan,
+including shares authorized under the 1990 Option Plan. The shares reserved for
+issuance will increase automatically on the first trading day of each calendar
+year, beginning with the 1999 calendar year, by 3% of the number of shares of
+common stock outstanding on the last trading day of the immediately preceding
+calendar year. The 1998 Plan allows for issuances of options to officers, non-
+employee Board members and consultants, as provided for under the terms of the
+1998 Plan.
+In October 1995, the Company granted an option to purchase 66,666 shares of
+common stock to an officer of the Company. The option is exercisable at $600
+per share and was issuable contingent on the attainment of certain objectives.
+During 1997, the Company Board of Directors determined that the officer had
+met the objectives required under the agreement, causing the options to be
+issued. No compensation expense was recorded on this option because the exercise
+price exceeded the fair market value of the shares.
+Employee Stock Purchase Plan
+On March 18, 1998, the Company adopted an employee stock purchase plan
+ESPP under which eligible employees may contribute up to 10% of their
+salaries through payroll deductions to purchase shares of the Company common
+stock. The first offering period of the ESPP began March 1, 1998 and ended on
+December 31, 1998. Thereafter, offering periods will be successive six month
+periods. At the end of each offering period, amounts contributed by employees
+will be used to purchase shares of the Company common stock at a price equal
+to 85% of the lower of the closing price of the common stock on the first day or
+last day of the offering period. The Company Board of Directors has authorized
+the issuance of up to 200,000 shares under the ESPP and may terminate the ESPP
+at any time. At January 1 of each year, the shares available under the ESPP will
+be restored to 200,000, although the Company Board of Directors may elect to
+restore a lesser number of shares. In 1998, the Company issued 61,105 shares
+under the ESPP.
+Statement of Financial Accounting Standards No. 123 SFAS 123
+SFAS 123, Accounting for Stock-Based Compensation, defines a fair value
+based method of accounting for employee stock options or similar equity
+instruments. However, SFAS 123 allows the continued measurement of compensation
+cost for such plans using the intrinsic value based method prescribed by APB
+Opinion No. 25, Accounting for Stock Issued to Employees APB 25, provided
+that pro forma disclosures are made of net income or loss assuming the fair
+value based method of SFAS 123 had been applied. The Company has elected to
+account for its stock-based compensation plans under APB 25; accordingly, for
+purposes of the pro forma disclosures presented below, the Company has computed
+the fair values of all options granted under the 1998 Option Plan, which
+succeeds the 1997 Option Plan, during 1998, 1997 and 1996, using the Black-
+Scholes pricing model and the following weighted average assumptions                            1998        1997        1996
+Risk-free interest rate.       471%       641%       616%
+Expected dividend yield.       000%       000%       000%
+Expected lives      44 years     50 years     50 years
+Expected       66004%       0001%       0001  To estimate lives of options for this valuation, it was assumed options will
+be exercised upon becoming fully vested. All options are initially assumed to
+vest. Cumulative compensation costs recognized in pro forma net income or loss
+with respect to options that are forfeited prior to vesting is adjusted as a
+reduction of pro forma compensation expense in the period of forfeiture. Because
+the Company common stock was not yet publicly traded, the expected market
+volatility was assumed to be zero in 1996 and 1997. In 1998, the Company
+common stock was not yet traded for an extended period of time, thus the
+expected market volatility was based on the stock prices of companies whose
+operations are similar to the Company. Actual volatility of the Company
+common stock may vary. Fair value computations are highly sensitive to the
+volatility factor assumed; the greater the volatility, the higher the computed
+fair value of options granted.
+The total fair value of options granted under the 1998 Option Plan was
+computed to be approximately $1,406,000, $499,000 and $187,000 for the years
+ended December 31, 1998, 1997 and 1996, respectively. These amounts are
+amortized ratably over the vesting periods of the options or recognized at date
+of grant if no vesting period is required. Pro forma stock-based compensation,
+net of the effect of forfeitures, was $417,000, $232,000 and $80,000 for 1998,
+1997 and 1996, respectively.
+43
+A summary of stock options under the 1998 Option Plan as of December 31, 1998,
+1997 and 1996 and changes during the years then ended are presented below                    1998          1997          1996
+Weighted        Weighted        Weighted 
+Average        Average        Average 
+Exercise        Exercise        Exercise 
+Shares   Price   Shares   Price    Shares   Price  
+Outstanding at beginning    
+of year.  1,106,610   $303  1,073,908   $168   919,958   $135
+Granted.   379,211    581   270,016    693   231,983    312
+Exercised.   68,494   054  153,382   100   19,450   099
+Canceled.   77,447   864   83,932   246   58,583   192
+Outstanding at end of
+year.  1,339,880   $362  1,106,610   $303  1,073,908   $168
+Weighted average fair
+value of options
+granted.    $319       $   180       $   081
+The following table summarizes information about the options outstanding at
+December 31, 1998                           Options Outstanding             Options Exercisable
+Weighted
+Average     Weighted              Weighted
+Number       Remaining     Average      Number      Average
+Range of          Outstanding     Contractual    Exercise     Exercisable    Exercise
+Exercise Prices        At 12/31/98      Life       Price     at 12/31/98     Price
+-                                                        
+$012 -- 030.       191,841   222 years        $ 18      191,841     $ 18
+$075 -- 300.       505,819   625 years         197      415,031      152
+$375 -- 450.       314,053   961 years         406       14,893      20
+$600 -- 750.       284,844   865 years         710       90,075      220
+$900 -- 1275.        43,323   931 years        1201        606      13
+1,339,880   707 years        $ 362      712,408     $112
+If the Company had accounted for its stock-based compensation plan in
+accordance with SFAS 123, the Company net income from continuing operations
+would have been reported as follows                                1998       1997      1996
+Net income from continuing operations:
+As     $3,880,000    $4,783,000   $937,000
+Pro     $3,463,000    $4,551,000   $857,000
+Basic income loss from continuing operations per
+share:
+As     $   053    $   217   $  015
+Pro     $   047    $   205   $  010
+Diluted net income loss from continuing
+operations per share:
+As     $   038    $   054   $  011
+Pro     $   034    $   052   $  010 5 LONG-TERM DEBT
+At December 31, 1998 and 1997, notes payable and long-term debt consisted of
+the following                                               December 31,
+1998        1997
+Borrowings on revolving line of credit bearing interest at prime 950% at December
+31, 1997, due April 15, 1999. Collateralized by certain assets of the Company.
+Maximum borrowing amount of 80% of qualified accounts receivable up to $2,000,000.      
+Paid in full in June,     $    --    $  950,000
+Secured promissory note to a bank, bearing interest at prime plus 1% 950% at
+December 31, 1997, minimum monthly payments in varying amounts, including imputed
+interest of 950% per annum, collateralized by certain assets of the Company. Paid in         
+full in February,         --       36,000
+Note payable to Banc One Capital Partners II, LLC, bearing interest at 11% through May
+31, 1999, and 12% thereafter. Note paid in full in June, 1998. Note 4.        --     4,000,000
+Capitalized lease obligations for equipment due on various dates through October 1,
+2002, minimum monthly payments in varying amounts, currently $211,000 including
+imputed interest ranging from 850% to 950% per annum, collateralized by the related
+assets with a net book value of $4,273,000 and $5,943,000, respectively.     4,409,000     5,959,000
+4,409,000     10,945,000  
+Less -- Current     1,618,000    2,624,000 
+$ 2,791,000    $ 8,321,000  
+44
+The Company prepaid the $4,000,000 note payable with Banc One Capital Partners
+II, LLC on June 30, 1998 and incurred a prepayment premium equal to 4% of the
+amount, totaling $160,000. In addition, the company wrote off the remaining
+debt discount related to the note payable of $1,282,000. The prepayment penalty
+and write off of the debt discount totaling $1,442,000 were recorded as an
+extraordinary item, net of the related income tax benefit of $533,000.
+Debt maturities of long-term debt as of December 31, 1998, are as follows                                Capital
+Leases
+$ 1,954,000
+1,692,000
+1,073,000
+305,000
+5,024,000
+Less -- Amount related to interest.      615,000
+Principal portion of future obligations.     4,409,000
+Less -- Current      1,618,000
+$ 2,791,000
+6 INCOME TAXES
+The Company has operated in three countries, the United States, Canada and
+Australia. For income tax return reporting purposes, the Company has
+approximately $8,500,000 of net operating loss carryforwards and approximately
+$467,000 of research and development tax credit carryforwards available to
+offset future federal taxable income or federal tax liabilities in the United
+States. The research and development credit and net operating loss carryforwards
+expire at various dates through 2011. The Company also has $208,000 of foreign
+tax credit carryforwards.
+The Tax Reform Act of 1986 contains provisions which may limit the net
+operating loss and credit carryforwards available to be used in any given year
+upon the occurrence of certain events including significant changes in ownership
+of the Company. In accordance with certain provisions of the Internal Revenue
+Code of 1986, as amended the Code, a greater than 50% change in ownership of
+a company within a three year period results in an annual limitation on the
+Company ability to utilize its net operating loss carryforwards from tax
+periods prior to the ownership change.
+Deferred income tax assets and liabilities at December 31, 1998 and 1997, were
+as follows                              December 31,
+1998            1997
+Current -
+Accrued liabilities and other.        $ 852,000        $  656,000
+Deferred revenue.          200,000          438,000
+Net operating loss carryforwards.         1,179,000         1,097,000
+Less - Valuation allowance.         206,000         891,000
+2,025,000         1,300,000
+Noncurrent -
+Depreciation differences.         901,000         630,000
+Net operating loss carryforwards.         1,974,000         2,467,000
+Tax credit carryforwards.          675,000          611,000
+Less -- Valuation allowance.         244,000        1,248,000
+1,504,000         1,200,000
+$3,529,000        $ 2,500,000
+As of December 31, 1998 and 1997, the Company reversed $1,689,000 and
+$2,413,000, respectively, of the valuation allowance on part of its deferred tax
+assets, as the Company believes it is more likely than not that such tax
+benefits will be realized. Approximately $533,000 of the income tax benefit in
+1998 was allocated to the extraordinary loss on early extinguishment of debt.
+Management believes the remaining tax assets of $450,000 as of December 31,
+1998 relate to tax credits that do not satisfy the realization criteria set
+forth in SFAS No. 109 and has recorded a valuation allowance for such net tax
+assets.
+The components of the provision benefit for income taxes attributable to
+income from operations as of December 31, 1998, 1997 and 1996, were as follows                    45
+December 31,
+1998        1997         1996
+Current provision benefit       $    --     $  172,000        $ 69,000
+--         --        60,000
+$    --     $  172,000        $ 9,000
+Deferred benefit, federal and state.      912,000     2,500,000                                                    Income tax provision benefit.     $912,000    $2,328,000       $ 9,000
+The components of the provision benefit for income taxes attributable to
+income from discontinued operations as of December 31, 1998, 1997 and 1996, were
+as follows                       December 31,
+1998      1997      1996
+Current provision  Foreign.   $ --       $100,000    $146,000
+A reconciliation of income tax provision benefit computed by applying the
+federal income tax rate of 34% to income from continuing operations before
+income taxes as of December 31, 1998, 1997 and 1996, is as follows                                                 December 31,
+1998      1997     1996
+Computed normal tax   $  700,000  $  835,000  $ 322,000
+Tax effect of permanent differences and      9,000     34,000   21,000
+State tax, net of federal tax     68,000    113,000   44,000
+Change in valuation allowance attributable to
+continuing   1,689,000  3,310,000  378,000
+Income tax provision   $ 912,000  $2,328,000 $  9,000
+The provision for income taxes is attributable to continuing operations and
+discontinued operations in 1997 and 1996 is as follows. The entire 1998
+provision benefit is related to continuing operations.                                   December 31,
+1997        1996
+Provision attributable to continuing operations.   $  982,000      $ 387,000
+Change in valuation allowance attributable to        3,310,000      378,000
+continuing           Net provision benefit attributable to continuing      2,328,000        9,000
+Benefit attributable to discontinued operations.     797,000      432,000
+Change in valuation allowance attributable to        
+discontinued      897,000       578,000
+Net provision attributable to discontinued operations.     100,000       146,000
+Total income tax provision benefit.   $2,228,000      $ 155,000
+7 COMMITMENTS
+The Company leases its office and research facilities and certain equipment
+under operating lease agreements which expire through December 2002. Rent
+expense for the years ended December 31, 1998, 1997 and 1996 was approximately
+$1,030,000, $718,000 and $621,000, respectively. Future minimum lease
+obligations under these agreements are as follows           
+1999.      $1,667,000
+2000.      1,493,000
+2001.      1,478,000
+2002.      1,489,000
+Total.      $6,127,000
+8 EMPLOYEE BENEFIT PLAN
+The Company has a 401k plan under which eligible employees may defer up to
+15% of their compensation. The Company may make matching contributions and
+discretionary contributions if approved by the Board of Directors. For 1998,
+1997 and 1996, no employer matching or discretionary contributions were made to
+the 401k plan. However, in February 1999, the Company Board of Directors
+approved a matching contribution for employees, which is effective April 1,
+1999. The Company will match 50% of employee contributions up to 6% of the
+employee salary, not to exceed $1,000 in 1999. Matching contributions will
+vest 35%, 70% and 100% for one, two and three years of service, respectively.
+9 RELATED PARTY TRANSACTION
+The Company provides data management and certain consulting services to and
+leases equipment from entities in which a stockholder of the Company has an
+ownership interest. A representative of the stockholder is a member of 
+46
+the Company Board of Directors. The Company received net proceeds of
+approximately $6,735,000, $6,959,000 and $6,606,000 in 1998, 1997 and 1996,
+respectively, pursuant to these agreements. Amounts due to the stockholder under
+the lease agreements net of amounts due to the Company for services rendered as
+of December 31, 1998 and 1997 were $3,962,000 and $5,148,000, respectively. The
+leases have interest rates ranging from 850% to 950%, require monthly payments
+and have expiration dates varying through October 2002.
+10 REPORTABLE SEGMENTS AND MAJOR CUSTOMERS
+Reportable Segments
+The Company has two reportable segments, data management services and licenses
+and implementation services. The Company measures its reportable segments based
+on revenue for each segment and costs directly related to each segment. General
+and administrative, sales and marketing and other costs are not measured by
+segment. Data management services include the provisioning of an outsourcing
+solution for 9-1-1 data management to customers, including ILECs, CLECs and
+wireless carriers. Licenses and implementation services include the licensing,
+customization and installation of the Company 9-1-1 software solutions.
+Substantially all of the Company customers are in the United States.
+These segments are managed separately because the nature of and resources used
+for each segment is unique. Data management services include ongoing data
+management and monitoring of systems and other enhanced services. Under data
+management services, the customer data is transferred to the Company systems
+and the Company owns the systems used to manage the data. Under licenses and
+implementation services, the customer performs data management and systems
+monitoring activities. The customer also owns the hardware, licenses the
+Company software and maintains the data on its internal systems under this
+segment.
+Revenue and costs are segregated in the Statement of Operations for the two
+reportable segments. The Company does not segregate assets between the segments
+as it is impractical to do so. Major Customers
+Revenue from certain customers exceeded 10% of total revenue for the
+respective year as follows: 27%, 25% and 21% in 1998; 30%, 29% and 22% in 1997
+and 47% and 35% in 1996. Contracts with certain of these customers have a ten-
+year duration and provide for fixed monthly fees based upon the number of
+subscriber records managed and upon the services selected by the customer. All
+of these customers are in the Company data management services segment.
+11 LEGAL MATTERS
+The Company is subject to various claims and business disputes in the ordinary
+course of business. While the outcome of these matters cannot be predicted with
+certainty, management anticipates that the ultimate outcome of the issues will
+not have a material impact on the financial statements.
+47
+Item 1.        3
+Item 2.       21
+Item 3. Legal       22
+Item 4. Submission of Matters to a Vote of Security       22
+PART II
+Item 5a. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The Company Directors and executive officers and their ages as of February 28,
+1999 are as follows       Name        Age           Position
+-    
+George K. Heinrichs.   41  President, Chief Executive Officer and
+Director
+Nancy K. Hamilton.   46  Chief Financial Officer
+John G. Hill 1.   57  Director
+Darrell A. Williams 12.   39  Director
+David Kronfeld 2.   51  Director 1 Member of Compensation Committee
+2 Member of Audit Committee
+George K. Heinrichs has been the President and a Director of the Company since
+he cofounded the Company in 1979, and also has served as Chief Executive Officer
+since February 1995. Prior to founding the Company, Mr. Heinrichs served in a
+variety of public safety and criminal justice positions.
+Nancy K. Hamilton has been the Chief Financial Officer and Senior Vice
+President of the Company since December 1993. Prior to joining the Company, Ms.
+Hamilton was Vice President and Chief Financial Officer of Fischer Imaging
+Corp., a manufacturer of medical imaging systems, from January 1993 to November
+1993. Prior to January 1993, Ms. Hamilton served in a variety of senior
+management positions, including Chief Financial Officer, at NBI, Incorporated,
+which at that time was a developer of hardware and software and a systems
+integrator.
+John G. Hill has been a Director of the Company since January 1990. Since
+1989, Mr. Hill has been a general partner of Hill, Carman Ventures, a limited
+partnership which is the general partner of The Hill Partnership III, a venture
+capital fund and a stockholder of the Company. Since 1981, Mr. Hill has been the
+General Partner of Hill Ventures. Mr. Hill currently serves as a director of
+Genicom Corporation, a provider of midrange printer solutions, network
+integration and multivendor services.
+David Kronfeld has been a Director of the Company since March 1998 and
+previously served as a Director of the Company from February 1992 until July
+1996. Mr. Kronfeld has been a manager of JK Management L.L.C. since its
+founding in October 1995. Since 1989, Mr. Kronfeld has been a general partner of
+Boston Capital Ventures Limited Partnership, Boston Capital Ventures II Limited
+Partnership, and Boston Capital Ventures III, L.P., all of which are venture
+capital funds and stockholders of the Company, and a general partner of Boston
+Capital Ventures, a venture capital fund.
+Darrell A. Williams has been a Director of the Company since February 1998.
+Mr. Williams is Vice President, Venture Capital in the Ameritech Development
+Corporation, which he joined in January 1995. From 1992 to 1995, Mr. Williams
+was Director, Investment Acquisitions and Divestitures of Ameritech Corporation.
+Board Committees
+The Company has a standing Audit Committee currently composed of Darrell A.
+Williams and David Kronfeld. The Audit Committee reviews and supervises the
+Company financial controls, including selecting the Company auditors,
+reviewing the books and accounts of the Company, meeting with the officers of
+the Company regarding the Company financial controls, acting upon
+recommendations of auditors, and taking such further action as the Committee
+deems necessary to complete an audit of the books and accounts of the Company,
+as well as other matters that may come before it or as directed by the Board of
+Directors of the Company.
+48
+The Company has a standing Compensation Committee currently composed of John
+G. Hill and Darrell A. Williams. The Compensation Committee reviews and acts on
+matters relating to compensation levels and benefits plans for the Company
+executive officers and key employees. The Compensation Committee is also
+responsible for granting stock awards, stock options, stock appreciation rights
+and other awards to be made under the Company existing incentive compensation
+plans.

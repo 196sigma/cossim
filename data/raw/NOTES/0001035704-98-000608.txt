@@ -1,0 +1,753 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA         KENTEK INFORMATION SYSTEMS, INC. AND SUBSIDIARIES
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS                                                                PAGE
+Independent Auditors' Reports                                                 14
+Consolidated Balance Sheets as of June 30, 1998 and 1997                                    16
+Consolidated Statements of Income for the Years Ended June 30, 1998, 1997 and 1996                       17
+Consolidated Statements of Stockholders' Equity for the Years Ended June 30, 1998, 1997 and 1996                18
+Consolidated Statements of Cash Flows for the Years Ended June 30, 1998, 1997 and 1996                     19
+Notes to Consolidated Financial Statements                                           20
+Financial Statement Schedule II - Consolidated Valuation and Qualifying Accounts                        28                    13
+14              INDEPENDENT AUDITORS' REPORT To the Board of Directors and Stockholders
+Kentek Information Systems, Inc.
+Boulder, Colorado We have audited the accompanying consolidated balance sheets of Kentek
+Information Systems, Inc. and subsidiaries as of June 30, 1998 and 1997, and the
+related consolidated statements of income, stockholders' equity, and cash flows
+for the years then ended. These financial statements and financial statement
+schedules are the responsibility of the Company management. Our responsibility
+is to express an opinion on these financial statements and financial statement
+schedules based on our audits. The consolidated statements of operations,
+stockholders' equity, and cash flows and related financial statement schedule of
+the Company for the year ended June 30, 1996 were audited by other auditors
+whose report, dated August 9, 1996, expressed an unqualified opinion on those
+statements and financial statement schedule.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of Kentek Information Systems, Inc.
+and subsidiaries as of June 30, 1998 and 1997, and the results of its operations
+and its cash flows for the years then ended in conformity with generally
+accepted accounting principles. Also, in our opinion, the financial statement
+schedules for each of the two years in the period ended June 30, 1998, when
+considered in relation to the basic consolidated financial statements taken as a
+whole, presents fairly in all material respects the information set forth
+therein. DELOITTE & TOUCHE LLP
+Denver, Colorado
+August 15, 1998                    14
+15        REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS To the Board of Directors and Stockholders
+Kentek Information Systems, Inc.
+Boulder, Colorado We have audited the accompanying consolidated statements of income,
+stockholders' equity, and cash flows of Kentek Information Systems, Inc. and
+subsidiaries for the year ended June 30, 1996. Our audit also included the
+consolidated financial statement schedule for the year ended June 30, 1996
+listed in the Index at Item 8. These financial statements are the responsibility
+of the Company management. Our responsibility is to express an opinion on
+these financial statements and financial statement schedule based on our audit.
+We conducted our audit in accordance with generally accepted auditing standards.
+Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audit provides a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the results of operations and cash flows of
+Kentek Information Systems, Inc. and subsidiaries for the year ended June 30,
+1996, in conformity with generally accepted accounting principles. Also, in our
+opinion, the financial statement schedule for the year ended June 30, 1996, when
+considered in relation to the basic consolidated financial statements taken as a
+whole, presents fairly in all material respects the information set forth
+therein. BDO Seidman, LLP
+Los Angeles, California
+August 9, 1996                    15
+16
+KENTEK INFORMATION SYSTEMS, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+AS OF JUNE 30, 1998 AND 1997
+THOUSANDS                   ASSETS                                                   JUNE 30
+1998        1997
+Current assets:
+Cash and cash equivalents                               $16,347     $ 18,216
+Marketable securities Note 2                             19,308      16,374
+Investment in limited partnership Note 2                        7,000          Accounts receivable, less allowance for doubtful accounts of
+$490 and $653                                     5,297       6,213
+Inventories Note 3                                   7,725      10,074
+Deferred income taxes Note 7                              2,000       2,628
+Other                                           701       1,045
+Total current assets                                58,378      54,550
+Property and equipment:
+Land and buildings                                     96        117
+Tooling                                         9,749      11,189
+Furniture, fixtures and equipment                            5,927       5,975
+Leasehold improvements                                   541        502
+Total property and equipment                              16,313      17,783
+Less accumulated depreciation and amortization                     14,519      16,062
+Property and equipment, net                            1,794       1,721
+Deposits and other                                     1,300       1,381
+Total assets                                    $61,472      $57,652
+LIABILITIES AND STOCKHOLDERS' EQUITY Current liabilities:
+Accounts payable                                    $ 2,200      $ 3,324
+Accrued expenses:
+Income taxes                                       180         -
+Bonus                                          539        618
+Other                                         2,331       2,547
+Total current liabilities                              5,250       6,489
+Other                                             505        502
+Total liabilities                                  5,755       6,991
+Commitments and contingencies Note 9
+Stockholders' equity Note 5:
+Common stock, $01 par--shares authorized, 12,000;
+shares outstanding, 7,137 and 6,929                            71        69
+Additional paid-in capital                               44,821      43,945
+Foreign currency translation adjustment                         988       753
+Retained earnings                                    11,813       7,400
+Total stockholders' equity                               55,717      50,661
+Total liabilities and stockholders' equity                     $61,472     $ 57,652
+See accompanying notes to consolidated financial statements.                    16
+17         KENTEK INFORMATION SYSTEMS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+FOR THE YEARS ENDED JUNE 30, 1998, 1997 AND 1996
+THOUSANDS, EXCEPT PER SHARE AMOUNTS                                       YEAR ENDED JUNE 30
+1998       1997       1996
+Net sales Note 8:
+Printers                          $7,041     $ 8,370      $18,436
+Consumable supplies and spare parts             38,012      48,090      55,945
+Total                          45,053      56,460      74,381
+Cost of sales                          22,324      30,443      44,408
+Gross profit                           22,729      26,017      29,973
+Operating expenses:
+Selling, general and administrative             8,815      10,167      10,521
+Research and development                   9,671      8,601       6,175
+Total operating expenses                18,486      18,768      16,696
+Operating income                         4,243      7,249      13,277
+Other income, net Note 10                    3,314      1,377        188
+Income before income taxes                    7,557      8,626      13,465
+Income tax expense Note 7                    2,580      3,865        363
+Net income                            $4,977     $ 4,761      $13,102
+Net income applicable to common stockholders Note 5      $4,977     $ 4,761      $11,750
+Net income per share:
+Basic                          $ 070     $ 070      $ 659
+Diluted                         $ 070     $ 069      $ 245
+Weighted average shares:
+Basic                          7,068      6,849       1,987
+Diluted                         7,143      6,924       5,344
+See accompanying notes to consolidated financial statements.                    17
+18
+KENTEK INFORMATION SYSTEMS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+FOR THE YEARS ENDED JUNE 30, 1998, 1997 AND 1996
+THOUSANDS                SENIOR CONVERTIBLE    CONVERTIBLE                     FOREIGN   RETAINED
+PREFERRED STOCK   PREFERRED STOCK     COMMON STOCK   ADDITIONAL CURRENCY   EARNINGS
+PAID-IN TRANSLATION ACCUMULATED
+SHARES   AMOUNT  SHARES   AMOUNT   SHARES    AMOUNT  CAPITAL ADJUSTMENT  DEFICIT
+BALANCE JUNE 30, 1995      11,005  $  550  1,785   $  18    836   $   8   $ 31,484    $ 541  $ 9,917
+Conversion of preferred 
+stock to common Note 5  11,005   550 1,785    18  3,789      38     530      --      Sale of common stock, net 
+of offering costs 
+Note 5            --    --    --     --   2,200      22    15,601      --      Payment of excess 
+liquidation preference
+on preferred stock 
+conversion Note 5       --    --    --     --    --      --    4,152     --      Foreign currency translation
+adjustment           --    --    --     --    --      --      --    1,090     
+Net income            --    --    --     --    --      --      --      --  13,102
+BALANCE JUNE 30, 1996        --    --    --     --   6,825      68    43,463     549  3,185
+Exercise of stock options     --    --    --     --    104      1     482        Dividends paid          --    --    --     --    --      --      --      --   546
+Foreign currency translation
+adjustment           --    --    --     --    --      --      --     204      Net income            --    --    --     --    --      --      --      --   4,761
+BALANCE JUNE 30, 1997        --    --    --     --   6,929      69    43,945     753  7,400
+Exercise of stock options     --    --    --     --    208      2     876      --      Dividends paid          --    --    --     --    --      --      --      --   564
+Foreign currency translation
+adjustment           --    --    --     --    --      --      --     235      Net income            --    --    --     --    --      --      --      --   4,977
+BALANCE JUNE 30, 1998        --  $  --    --   $  --   7,137   $  71   $ 44,821    $988  $11,813
+See accompanying notes to consolidated financial statements.                    18  19
+KENTEK INFORMATION SYSTEMS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED JUNE 30, 1998, 1997 AND 1996
+THOUSANDS                                            YEAR ENDED JUNE 30
+1998       1997       1996
+OPERATING ACTIVITIES:
+Net income                              $ 4,977    $  4,761     $ 13,102
+Adjustments to reconcile net income to net
+cash provided by operating activities:
+Depreciation and amortization                    1,278      1,281       1,648
+Loss on disposal of property and equipment              38       777        191
+Deferred income tax expense benefit                 565       318      3,656
+Unrealized gains on forward exchange contracts and
+trading securities                         500      159             Realized and unrealized gains on available-for-sale
+securities                            1,558     1,345           Changes in operating assets and liabilities:
+Trading securities, net                    3,254     8,000               Accounts receivable                       916       885        724
+Inventories                          2,008      3,794      2,122
+Other current assets                       28       429       129
+Other assets                           8       758       181
+Accounts payable and accrued expenses              351     1,937       118
+Net cash provided by operating activities                  4,139       704       9,717
+INVESTING ACTIVITIES:
+Purchases of available-for-sale securities              10,786     13,237           Investments in limited partnerships                  7,000       --           Purchase of equipment                         1,226     1,062       832
+Proceeds from sale of available-for-sale securities          13,233      6,367           Proceeds from sale of equipment                       3      4,928        12
+Net cash used in investing activities                    5,776     3,004       820
+FINANCING ACTIVITIES:
+Principal payments of long-term debt and capital lease obligations     --      5,150       85
+Proceeds from issuance of common stock                  878       483      17,600
+Dividends paid                              564      546           Payment of offering costs                         --        --      1,977
+Payment of excess liquidation preference on preferred stock        --        --      4,152
+Net cash provided by used in financing activities              314      5,213      11,386
+Effect of exchange rate changes on cash                    546      263       680
+Net increase decrease in cash and cash equivalents            1,869     7,776      19,603
+Cash and cash equivalents, beginning of year                18,216      25,992       6,389
+Cash and cash equivalents, end of year                   $16,347    $ 18,216     $ 25,992
+Supplemental cash flow information: 
+Cash paid during the year for:
+Interest                             $   7    $   25     $  233
+Income taxes                            2,392      5,304       3,251 Non-cash activities: Preferred stock of $568,000 was converted into common 
+stock during the year ended June 30, 1996.      See accompanying notes to consolidated financial statements.                    19
+20
+KENTEK INFORMATION SYSTEMS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Kentek Information Systems, Inc. the Company is a supplier of
+mid-range, non-impact laser printers and related consumable supplies and spare
+parts. The Company was incorporated under the laws of the State of Delaware in
+1981. The Company operations in the United States U.S. consist of
+manufacturing facilities in Boulder, Colorado, which are used to manufacture the
+consumable supply products. The Company principal subsidiary, Nippon Kentek
+Kaisha Ltd., a Delaware corporation Nippon Kentek, is engaged in research
+and development and manufacturing-related activities in Japan. The Company
+designs and engineers its printer engines and supervises their assembly under
+contract with a Japanese company. The Company distributes its printers,
+consumable supplies and spare parts exclusively through sales to OEM customers
+and systems integrators.
+Principles of Consolidation - The consolidated financial statements
+include the accounts of the Company and its wholly owned subsidiaries, Kentek
+Europe BV, Kentek GmbH and Nippon Kentek. All significant intercompany balances
+and transactions have been eliminated in consolidation.
+Foreign Currency Translation - The functional currency for the
+Company foreign operations is the applicable local currency. The translation
+of the applicable foreign currency into U.S. dollars is performed for balance
+sheet accounts using current exchange rates in effect at the balance sheet date
+and for revenue and expense accounts using a weighted average exchange rate
+during the period. Resulting translation adjustments are accumulated in the
+foreign currency translation adjustment component of stockholders' equity.
+Currency transaction gains and losses are recognized in net income currently.
+Use of Estimates - The preparation of financial statements in
+conformity with generally accepted accounting principles requires management to
+make estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the reporting period. Actual results could differ from those estimates.
+In addition, significant estimates are included in the accompanying
+financial statements related to reserves for inventory obsolescence,
+uncollectible accounts receivable and warranty reserves which are based upon
+historical and developing trends, aging of items, and other information deemed
+pertinent to estimate collectibility and realizability. It is possible that
+these reserves may change within a year, and the effect of the change could be
+material to the consolidated financial statements.
+Cash Equivalents - The Company considers cash, money market accounts
+and all highly liquid investments purchased with an original maturity of three
+months or less to be cash equivalents.
+Marketable Securities - Management has determined that the Company
+marketable securities portfolio consists of both available-for-sale and trading
+securities.
+Marketable securities classified as available-for-sale are available to
+support current operations and to take advantage of other investment
+opportunities. These securities are stated at fair value based upon market
+quotations. Unrealized gains and losses on available-for-sale securities were
+not significant. Realized gains and losses are included in other income, net.
+Marketable securities classified as trading securities are carried at
+fair value based upon market quotations. Net realized and unrealized gains and
+losses on trading securities are included in other income, net.
+Concentrations of Credit Risk - The Company financial instruments
+that are exposed to concentrations of credit risk consist primarily of cash and
+cash equivalent balances in excess of the insurance provided by federal
+insurance authorities, marketable securities and accounts receivable.
+The Company cash equivalents are placed with a major financial
+institution and are primarily invested in investment grade commercial paper with
+an average original maturity of three months or less and money market accounts.
+The Company marketable securities consist of commercial paper and various
+equity securities. The exposure to loss resulting from the concentrations of
+credit risk with respect to accounts receivable is limited due to generally
+short payment terms and the customers' dispersion across geographic areas. The
+Company performs ongoing credit evaluation of its customer financial condition
+and generally requires no collateral from its customers.
+Inventories - Inventories are valued at the lower of cost determined
+primarily by the weighted moving average method or market.
+Property, Equipment and Depreciation - Property and equipment are
+stated at cost. Depreciation is computed by the straight-line method over the
+following estimated useful lives                                                            YEARS
+Tooling                                                     3
+Furniture, fixtures and equipment                                       3-7
+Leasehold improvements                                        Term of Lease     Impairment of Long-lived Assets - The carrying value of long-lived
+assets and certain identified intangible assets held and used by the Company are
+evaluated for impairment whenever there is an event or change in circumstances
+that indicates that such assets have been impaired or that the carrying value of
+such assets might not be recoverable.
+20  21
+Income Taxes - The Company accounts for income taxes in accordance with
+the Financial Accounting Standards Board FASB Statement of Financial
+Accounting Standards SFAS No. 109, Accounting for Income Taxes, which
+requires an asset and liability approach to financial accounting and reporting
+for income taxes. Deferred income tax assets and liabilities are computed
+annually for differences between the financial statement basis and the income
+tax basis of assets and liabilities that will result in taxable or deductible
+amounts in the future. Such deferred income tax computations are based on
+enacted tax laws and rates applicable to the years in which the differences are
+expected to affect taxable income.
+Stock Option Plans - The Company accounts for stock-based compensation
+to employees and directors using the intrinsic value method in accordance with
+Accounting Principles Board APB Opinion No. 25, Accounting for Stock Issued
+to Employees and has adopted the disclosure only provisions of SFAS No. 123,
+Accounting for Stock Based Compensation.
+Net Income Per Share - During 1998, the Company adopted SFAS No. 128,
+Earnings Per Share. SFAS No. 128 establishes standards for computing and
+presenting earnings per share EPS and supercedes APB Opinion No. 15 and its
+related interpretations. All prior periods presented have been restated in
+accordance with SFAS No. 128. SFAS No. 128 replaces the presentation of primary
+EPS with a presentation of basic EPS, which excludes dilution, and requires dual
+presentation of basic and diluted EPS for all entities with complex capital
+structures. Diluted EPS is computed similarly to fully diluted EPS pursuant to
+APB Opinion No. 15. For the year ended June 30, 1996, net income has been
+reduced by the Excess Liquidation Preference ELP Note 5 attributable to
+the Senior Convertible Preferred Stock SCPS totaling $1,352,000, in
+computing net income per share. Stock options were omitted from the denominator
+because they were antidilutive and were not material. A reconciliation of the
+numerator and denominator used in the calculation of basic and diluted earnings
+per share is presented below.                           Income      Shares       Per-Share
+Numerator  Denominator      Amount
+FOR THE YEAR ENDED JUNE 30, 1998
+- 
+Net income                     $4,977
+Basic net income per share              Income available to
+Common stockholders                $4,977      7,068         $070
+Effect of stock options                         75
+Diluted net income per share            $4,977      7,143         $070
+FOR THE YEAR ENDED JUNE 30, 1997
+- 
+Net income                     $4,761
+Basic net income per share              Income available to
+Common stockholders                $4,761      6,849        $070
+Effect of stock options                         75
+Diluted net income per share            $4,761      6,924        $069
+FOR THE YEAR ENDED JUNE 30, 1996
+- 
+Net income                     $13,102
+Basic net income per share              Income available to
+common stockholders                $11,750      1,987        $659
+Effect of convertible preferred stock                 3,357
+Diluted net income per share            $11,750      5,344        $245
+Revenue Recognition and Product Warranty - Sales of printers,
+consumable supplies and spare parts are recorded upon shipment to customers. The
+Company warrants its printers against defects in design, materials and
+workmanship for two years. A provision for estimated future costs relating to
+warranty expense is recorded when products are shipped.
+Research and development - Costs incurred in connection with research
+and development activities are expensed as incurred.
+New Accounting Pronouncements- In June 1997, the FASB issued SFAS No.
+130, Reporting Comprehensive Income. SFAS N. 130 establishes standards for
+reporting and display of comprehensive income and its components revenues,
+expenses, gains, and losses in a full set of general-purpose financial
+statements. The Company is required to adopt this statement in fiscal year 1999.
+Reclassification of financial statements for earlier periods provided for
+comparative purposes are required. The Company has determined that the adoption
+of this Statement will have no material impact on its financial disclosures.
+In June 1997, the FASB issued SFAS No. 131, Disclosures about Segments
+of an Enterprise and Related Information, which will be effective for the
+Company beginning July 1, 1998. SFAS No. 131 redefines how operating segments
+are determined and requires disclosure of certain financial and descriptive
+information about a company operating segments. The Company has determined
+that the adoption of this statement will not have a material impact on its
+financial statement disclosures.                    21
+22
+In June 1998, the FASB issued SFAS No. 133, Accounting for Derivative
+Instruments and Hedging Activities. SFAS No. 133 establishes accounting and
+reporting standards requiring that all derivative instruments including certain
+derivative instruments embedded in other contracts be recorded in the balance
+sheet as either an asset or liability measured at its fair value. SFAS No. 133
+requires that changes in the derivative fair value be recognized currently in
+earnings unless specific hedge accounting criteria are met. The accounting
+provisions for qualifying hedges allow gains and losses recognized related to a
+hedged item in the income statement to be offset by related derivative gains
+and losses, and requires the Company to formally document, designate, and assess
+the effectiveness of transactions that qualify for hedge accounting. The Company
+is not required to adopt this Statement until July 1999. The Company has not
+determined its method or timing of adopting this Statement or the impact on its
+financial statements. However, when adopted this Statement could increase
+volatility in reported earnings and other comprehensive income of the Company.
+In January 1998, the American Institute of Certified Public Accountants
+AICPA issued Statement of Position SOP No. 98-1, Accounting for the
+Costs of Computer Software Developed or Obtained for Internal Use. This SOP
+provides guidance on the accounting for computer software costs. In April 1998,
+the AICPA issued SOP No. 98-5, Reporting on the Costs of Start-up Activities.
+This SOP provides guidance on the accounting for the cost of start-up
+activities. The Company is not required to adopt these statements until July
+2000 and does not expect the adoption of these standards to result in material
+changes to previously reported amounts or disclosures.
+Reclassifications - Certain prior year amounts have been reclassified
+to conform with the current year presentation.
+2.    INVESTMENTS
+Marketable Securities - The Company accounts for its investments in
+marketable securities in accordance with SFAS No. 115, Accounting for Certain
+Investments in Debt and Equity Securities. SFAS No. 115 requires an entity to
+categorize its investments as held-to-maturity, available-for-sale, or trading
+securities, according to the use of investment, and to record unrealized gains
+and losses in net income or as separate component of stockholders' equity,
+depending on the investment classification. Management determines the proper
+classifications of investments in obligations with fixed maturities and
+marketable equity securities at the time of purchase and reevaluates such
+designations as of each balance sheet date. As of June 30, 1998 and 1997,
+available-for-sale and trading securities consisted of the following                                 GROSS       GROSS      ESTIMATED
+UNREALIZED     UNREALIZED      FAIR
+COST        GAINS       LOSSES      VALUE
+THOUSANDS
+JUNE 30, 1998
+Available-for-sale securities
+Bank and corporate debt     $ 7,326      $    -     $    -      $ 7,326
+Trading securities
+Equity              11,549         433          -      11,982
+Total               $18,875      $   433     $    -      $19,308    JUNE 30, 1997
+Available-for-sale securities
+Bank and corporate debt     $ 8,215      $    -     $    -      $ 8,215
+Trading securities
+Equity              8,000         159          -       8,159
+Total               $16,215      $   159     $    -      $16,374     As of June 30, 1998, securities classified as available-for-sale had
+contractual maturity dates ranging from July 1998 to April 2029, the cost for
+these securities approximated their fair value as of June 30, 1998 and 1997.
+During 1998 and 1997, proceeds from sales of available-for-sale securities
+approximated $13,233,000 and $6,367,000, respectively. The Company uses the
+specific identification method to determine cost for available-for-sale
+securities. Gross unrealized gains and losses on sales of available-for-sale
+securities were not material in 1998 and 1997. Net unrealized holding gains on
+trading securities of $433,000 and $159,000 have been included in net income for
+1998 and 1997, respectively.
+Investments in Limited Partnerships - As of June 30, 1998, the Company
+has investments in two limited partnerships. The first investment of $3,000,000
+was made in June 1998 in the HCM High Yield Opportunity Fund, LP HCM. The
+prospectus for HCM indicates that HCM investment objective is to provide
+investors with risk-adjusted rates of return through a portfolio structured to
+generally have the following characteristics: low volatility; short duration
+generally less than 2 years; and an overall high degree of liquidity in the
+underlying securities. The partnership will attempt to achieve these objectives
+through a two-pronged investment strategy: an emphasis on non-investment grade
+fixed income financial instruments including bonds and bank loans that, in
+HCM judgement, are likely i to be repurchased by the issuer at a premium
+within twelve to eighteen months as a result of the occurrence of a corporate
+event such as an IPO, asset sale, merger or refinancing and ii active trading
+of the portfolio. Withdrawals from the partnership may be made quarterly with 30
+days notice. The second investment of $4,000,000 was also made in June 1998 in
+Cerberus, LP CLP. The prospectus for CLP indicates that CLP invests in
+publicly traded and private debt, trade claims, large and middle market bank
+loans, distressed real estate and public and private equity, including post
+bankruptcy equity. To control risk, assets are broadly diversified among 60 or
+more positions. Withdrawals from the fund may be made each June 30 and December
+31 with 90 days notice. The Company accounts for the investments in limited
+partnerships at cost. Based on information provided by HCM and CLP General
+Partners, the Company proportionate share in the fair value of each
+partnership as of June 30, 1998 approximated the Company carrying value for
+each investment.
+22
+23
+3. INVENTORIES
+Inventories consist of the following net of allowance                                              JUNE 30
+1998       1997
+THOUSANDS
+Finished printers, consumable supplies and spare parts               $4,072     $ 6,064
+Raw materials                                    3,653      4,010
+$7,725     $10,074
+4. REVOLVING CREDIT AGREEMENT
+The Company has an unsecured revolving line-of-credit agreement with a
+bank, which expires October 31, 1998. The available loan amount is $5,000,000.
+The line-of-credit agreement provides for interest at the bank prime rate. The
+Company must meet certain financial ratio requirements under the terms of the
+agreement. At June 30, 1998 and 1997, no amounts were drawn on the
+line-of-credit.
+5. CAPITAL STOCK
+The Company Board of Directors have authorized a stock buy-back
+program with a maximum repurchase of 5% of the outstanding common shares.
+Management intends to evaluate its investments and the Company current stock
+price in determining the timing and amount of stock repurchase. During 1998,
+1997 and 1996, the Company declared and paid cash dividends per common share
+equal to $008, $008 and nil, respectively.
+On April 17, 1996, the Company completed its IPO of 2,200,000 shares of
+common stock in the offering at $8 per share. In addition, non-management
+stockholders sold an additional 675,000 shares. The Company received $15,623,000
+in proceeds, net of offering costs of $1,977,000.
+Effective immediately prior to the IPO, the outstanding SCPS and
+Convertible Preferred Stock CPS were converted into common stock and the
+SCPS and CPS authorized shares were canceled. The SCPS was voting and had a
+primary liquidation preference of $1 per share, plus the aggregate amount of the
+ELP. ELP accrued on the SCPS at an annual rate of 12%. On April 23, 1996, the
+ELP of approximately $4,152,000 was paid to SCPS holders, and the SCPS shares
+were converted into common stock at a conversion rate of 13869245 shares of
+common stock per SCPS share. Note 1.
+6. STOCK OPTION PLAN
+The Company currently has one stock option plan, the 1992 Stock Option
+Plan the Plan. The Plan provides for the grant of incentive stock options to
+officers, directors, and employees of the Company. The Company has reserved
+1,250,000 shares of its authorized common stock for stock options for issuance
+in connection with the plan. The Plan provides for the grant of stock options,
+including incentive stock options and non-statutory stock options. At June 30,
+1998, there were 426,148 shares available for future stock option grants. The
+following table summarizes information on stock option activity for the Plan                                       EXERCISE PRICE        WEIGHTED AVERAGE
+NUMBER OF SHARES        PER SHARE       EXERCISE PRICE PER SHARE
+Outstanding at
+July 1, 1995                  344,112        $324 - $649           $413
+Granted                     378,575            $649           $649
+Expired                     41,685        $324 - $649           $443
+Outstanding at
+June 30, 1996                  681,002        $324 - $838           $543
+Granted                     117,000        $600 - $788           $648
+Exercised                   104,817        $324 - $649           $461
+Canceled and expired              45,772        $324 - $838           $661
+Outstanding at
+June 30, 1997                  647,413        $324 - $788           $567
+Granted                     109,500        $794 - $950           $868
+Exercised                   207,890        $324 - $649           $422
+Canceled and expired              37,878        $324 - $663           $572
+Outstanding at
+June 30, 1998                  511,145        $324 - $950           $690
+Options issued to officers and employees under the Plan vest
+proportionately over three years on each of the first, second, and third
+anniversary dates of the option grant date and expire in five years. Options
+granted subsequent to July 1, 1997 have a ten-year life. Options issued to
+directors under the Plan vest 100% six months after the grant date and expire in
+ten years.
+The Company accounts for stock options issued to officers, directors and
+employees using the intrinsic value method prescribed
+by APB No. 25 and has adopted the disclosure-only provisions of SFAS No. 123.
+Accordingly, no compensation expense has been recognized for options issued
+under the Plan. Had compensation expense for the Plan been determined based on
+the fair value at the grant date of awards under those plans consistent with the
+provisions of SFAS No. 123, the Company net earnings and earnings per share
+would have been reduced to the pro forma amounts indicated below                    23
+24                        FISCAL YEAR ENDED      FISCAL YEAR ENDED     FISCAL YEAR ENDED
+6/30/98           6/30/97          6/30/96
+Net income - as reported             $4,977,000          $4,761,000         $13,102,000
+Net income - pro forma               4,511,000          4,437,000         12,995,000
+Net income per share - as reported
+Basic                       $070            $070            $659
+Diluted                      070             069            245
+Net income per share - pro forma
+Basic                       $064            $065            $654
+Diluted                      064             064            243   The fair value of each stock option granted is estimated on the date of
+grant using the Black-Scholes option-pricing model. The following assumptions
+used for grants in 1998, 1997 and 1996; risk-free interest rate of 520% in
+1998, 600% in 1997 and 647% in 1996; annual dividend of $08; expected life of
+five years; and expected volatility of 5321% in 1998, 5700% in 1997 and 5150%
+in 1996. The outstanding stock options at June 30, 1998 have a weighted average
+remaining contractual life of four years. The weighted average fair value of
+options granted in 1998, 1997 and 1996 were $427, $316 and $309,
+respectively.
+The following table summarizes information about stock options outstanding
+under the Plan as of June 30, 1998                                      WEIGHTED                 WEIGHTED
+NUMBER     WEIGHTED AVERAGE       AVERAGE       NUMBER   AVERAGE EXERCISE
+RANGE OF    OUTSTANDING        REMAINING      EXERCISE    EXERCISABLE         PRICE
+EXERCISE PRICES     AT 6/30/98     CONTRACTUAL LIFE        PRICE     AT 6/30/98      EXERCISABLE
+- 
+$649       50,391          1 year        $649       50,391         $649
+649       53,679         2 years        649       53,679         649
+649      150,157         3 years        649      150,157         649
+324 to 663       21,837         4 years        505       15,170         649
+324       2,772         5 years        324       2,772         324
+324       1,848         6 years        324       1,848         324
+649       9,553         7 years        649       9,553         649
+649       57,408         8 years        649       57,408         649
+564 to 950      104,000         9 years        808       36,000         649
+794 to 881       59,500         10 years        800       27,000         564
+- 
+$324 to $950      511,145                    $690      403,978         $645
+7. TAXES ON INCOME
+Taxes on income consists of the following                                           YEAR ENDED JUNE 30
+1998       1997       1996
+THOUSANDS
+Current expense:
+Federal                             $ 1,670     $ 3,072     $ 3,273
+State                                 345       475        746
+Foreign                                --        --                                                                                           2,015      3,547       4,019
+Deferred expense benefit:
+Federal                                454       215       1,035
+State                                 111       103        55
+565       318       1,090
+Reduction in valuation allowance                    --        --      4,746
+565       318      3,656
+Income tax expense                          $ 2,580     $ 3,865     $  363
+The components of the net deferred tax asset are shown below                                              JUNE 30
+1998         1997
+THOUSANDS
+Inventories                                  $ 1,426       $ 1,694
+Accrued expenses and other                            397         730
+Property and equipment                              773         710
+Accounts receivable allowance                           177         204
+Net deferred tax asset                             2,773        3,338
+Less current deferred tax asset                      2,000        2,628
+Non-current deferred tax asset                        $  773       $  710
+24
+25
+The net deferred tax asset of $2,773,000 at June 30, 1998 is realizable
+as the Company has determined, based on several recurring periods of profitable
+operations, continuing efforts to enhance and develop existing and new customer
+relationships, its movement of a substantial portion of its supplies
+manufacturing to the United States from Japan and the strengthening of the
+dollar against the yen, that it is more likely than not that it will have
+sufficient taxable income in future periods to realize the corresponding tax
+benefit resulting from the deferred tax asset. Management plans to re-evaluate
+the positive and negative evidence to this effect on a quarterly basis and make
+appropriate adjustments to the deferred tax asset. Components of the net
+deferred tax asset, other than property and equipment, primarily reverse
+annually. As a result of the nature of these temporary differences, $773,000 of
+the net deferred tax asset at June 30, 1998 is classified as non-current. The
+non-current portion, which is included in deposits and other assets, is
+attributable to property and equipment.
+The net deferred tax asset at June 30, 1997 was $3,338,000. The current
+portion of $2,628,000 is a result of temporary differences that primarily
+reverse annually. The remaining non-current portion of $710,000 is attributable
+to property and equipment.
+A reconciliation of the Company effective tax rates to the federal
+statutory rate is shown below                                                YEAR ENDED JUNE 30
+1998        1997       1996
+THOUSANDS
+Federal and state income tax computed at statutory rates             $2,887       $3,217       $4,578
+Reduction of valuation allowance                           --         --       4,746
+Research and development credits                          366        --         Other permanent differences                             59        648        531
+Tax expense                                   $2,580       $3,865       $ 363
+8. SALES TO PRINCIPAL CUSTOMERS
+Transactions
+Sales to customers and their affiliates which were 10% or more of total
+net sales are shown below                                                 YEAR ENDED JUNE 30
+1998        1997        1996
+Customer A                                      28%         34%        32%
+Customer B                                      18         14         16
+Customer C                                      --          2         10
+Customer D                                      18         15         10 9. COMMITMENTS AND RELATED PARTY TRANSACTIONS
+Operating Leases
+The Company leases office and warehouse space under operating leases
+expiring at various dates through the year 2001. Rent expense for the years
+ended June 30, 1998, 1997 and 1996 was $983,000, $928,000, and $980,000. Future
+minimum lease payments under operating leases are as follows    YEAR ENDING
+JUNE 30,                                         THOUSANDS
+1999                                             $801
+2000                                             679
+2001                                             447
+$1,927
+Employment Agreement
+On April 1, 1989, the Company entered into an Employment Agreement with
+its President and Chief Executive Officer. The Employment Agreement, as amended,
+provides for an annual salary of $252,000, an annual bonus equal to 15% of the
+Company pre-tax profits for each fiscal year and automobile allowance of $800
+per month. The Employment Agreement can be terminated by the Company by written
+notice at any time and in such event, the President and Chief Executive Officer
+is entitled to a monthly severance payment equal to his then current monthly
+salary for a period of six months after such termination. In addition, the
+President and Chief Executive Officer is obligated not to solicit any employees
+to leave employment of the Company for a period of three years after termination
+of his employment. As of June 30, 1998, 1997 and 1996 bonuses of approximately
+$113,000, $129,000 and $202,000 have been recorded.
+Profit-Sharing Plan
+The Company has a savings and profit sharing plan, which allows
+participants to make contributions by salary reduction pursuant to Section
+401k of the Internal Revenue Code. The Company matches 50% of employee
+contributions up to 6% of the employee salary. The Company contributions are
+vested 20% per year beginning with the second year of service. During the years
+ended June 30, 1998, 1997 and 1996 the Company contributions to the plan were
+$118,000, $73,000 and $53,000.
+25
+26
+Related Party Transactions
+The Chairman of the Board of Directors provides consulting services to
+the Company. Consulting expense for these services for the years ended June 30,
+1998, 1997 and 1996 were approximately $79,000, $81,000 and $78,000.
+10. OTHER INCOME, NET
+Other income, net consists of the following                                       YEAR ENDED JUNE 30
+1998       1997       1996
+THOUSANDS
+Investment income                        $3,189      $2,000      $  520
+Foreign currency exchange gain                    67        --         Interest expense                          7      96       253
+Loss on sale of assets held for sale                 --      568         Miscellaneous                            65       41        79
+Other income, net                        $3,314     $1,377      $  188
+11. CONTINGENCIES
+The Company is involved with certain claims and disputes incidental to its
+business. The Company currently believes that the disposition of all claims and
+disputes, individually or in the aggregate, should not have a material adverse
+effect on the Company financial condition, results of operations or liquidity.
+12. OPERATIONS BY GEOGRAPHIC AREA
+The Company operations are conducted in one business segment, mid-range,
+non-impact laser printers and related consumable supplies and spare parts. The
+Company production facilities are located in the U.S. and Japan. Export sales
+from U.S. based operations, primarily to Germany, approximated $3,254,000 3,415,000 and $8,741,000 in 1998, 1997 and 1996, respectively. Intercompany
+sales are transacted at established transfer prices and the related profits are
+eliminated in consolidation. General corporate assets included in U.S. based
+operations primarily consist of cash and cash equivalents, marketable securities
+and other investments. These assets approximated $42,655,000, $34,590,000 and
+$25,992,000 in 1998, 1997 and 1996, respectively. During the years ended June
+30, 1998, 1997 and 1996 the Company had foreign and domestic sales, operating
+income and identifiable assets as shown below                                     U.S.       JAPAN      EUROPE      TOTAL
+THOUSANDS
+1998
+Net sales                             $41,799     $  --     $ 3,254      $45,053
+Operating income expense                     5,438      1,080       115      4,243
+Identifiable assets                        58,303      3,132        37      61,472
+1997
+Net sales                                     $53,045     $   --     $ 3,415
+$56,460
+Operating income expense                     9,899      2,683        33      7,249
+Identifiable assets                        54,246      3,195        211      57,652
+1996
+Net sales                                     $65,640     $   --     $ 8,741
+$74,381
+Operating income expense                     14,885      1,638        30      13,277
+Identifiable assets                        49,521      10,460        264      60,245 13. ESTIMATED FAIR VALUE OF FINANCIAL INSTRUMENTS
+Foreign Exchange Risk Management
+The Company has operations in Japan, and as a result, operating
+expenses are dependent on dollar-yen exchange rates. The Company has purchased
+Japanese yen forward contracts to minimize the effect of fluctuating foreign
+currencies on its reported income, generally over the ensuing three months. The
+forward contracts do not qualify as hedges for financial reporting purposes and
+are reported in the financial statements net of changes in forward rates that
+are reflected in income. Although the volatility of income over the period
+covered by such contracts is reduced, increased volatility may be reported
+during interim periods. The counterparties to the Company forward contracts
+consist of two financial institutions. The credit ratings and concentration of
+risk of these financial institutions are monitored on a continuing basis and
+present no significant credit risk to the Company. As of June 30, 1997, the
+Company did not have any foreign currency forward contracts outstanding. At June
+30, 1998, outstanding Japanese yen contractual amounts were as follows                       NOTIONAL
+AMOUNT     GAINS   LOSSES
+THOUSANDS
+Japanese yen forward contracts    $ 2,748    $67     $                      26
+27
+Fair Value of Financial Instruments
+The carrying amount of cash and cash equivalents approximates fair value due to
+the short-term maturities of these instruments. The fair value of marketable
+securities was estimated based on quoted market prices as of year-end. The
+estimated fair values of the Company financial instruments are as follows                            1998             1997
+CARRYING    FAIR     CARRYING    FAIR
+AMOUNT     VALUE     AMOUNT     VALUE
+THOUSANDS
+Nonderivatives:
+Cash and cash equivalents      $16,347    $16,347    $18,216    $18,216
+Marketable securities         19,308     19,308    16,374     16,374
+Investments in limited partnerships  7,000     7,000      -           Derivatives:
+Japanese yen forward contracts       -       67      -                           27
+28         KENTEK INFORMATION SYSTEMS, INC. AND SUBSIDIARIES
+FINANCIAL STATEMENT SCHEDULE II--CONSOLIDATED VALUATION AND QUALIFYING ACCOUNTS
+FOR THE YEARS ENDED JUNE 30, 1998, 1997 AND 1996
+THOUSANDS                                            ADDITIONS
+BALANCE AT    CHARGED TO             BALANCE AT
+BEGINNING OF    COSTS AND              END OF
+PERIOD     EXPENSES      DEDUCTIONS    PERIOD
+Year Ended June 30, 1998:
+Allowance for doubtful accounts                  $ 653     $  165      $ 328      $ 490
+Allowance for inventory                       4,145       279       1,186      3,238
+Deferred tax asset valuation allowance                 --        --        --                                                                                                   $4,798     $  444      $1,514      $3,728
+Year Ended June 30, 1997:
+Allowance for doubtful accounts                  $ 627     $  138      $ 112      $ 653
+Allowance for inventory                       3,548      1,023        426      4,145
+Deferred tax asset valuation allowance                 -        -         -        -
+$4,175     $ 1,161      $ 538      $4,798
+Year Ended June 30, 1996:
+Allowance for doubtful accounts                  $ 686     $  --      $  59      $ 627
+Allowance for inventory                       2,336      1,725        513      3,548
+Deferred tax asset valuation allowance               4,746        --       4,746                                                                                                   $7,768      $1,725      $5,318      $4,175
+28  29 

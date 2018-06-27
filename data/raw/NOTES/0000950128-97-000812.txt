@@ -1,0 +1,766 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+See Item 14 below and the index therein for a listing of financial
+statements and supplementary data filed as part of this report.
+24
+25
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+To the Shareholders and
+Board of Directors
+SEEC, Inc.
+Pittsburgh, Pennsylvania
+We have audited the accompanying balance sheets of SEEC, Inc. as of March
+31, 1996 and 1997, and the related statements of operations, changes in
+shareholders' equity deficit, and cash flows for each of the three years in
+the period ended March 31, 1997. We have also audited the schedule listed in the
+accompanying index. These financial statements and schedule are the
+responsibility of the Company management. Our responsibility is to express an
+opinion on these financial statements and schedule based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements and schedule are
+free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements and
+schedule. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+presentation of the financial statements and schedule. We believe that our
+audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of SEEC, Inc. as of March 31,
+1996 and 1997, and the results of its operations and its cash flows for each of
+the three years in the period ended March 31, 1997, in conformity with generally
+accepted accounting principles.
+Also, in our opinion, the schedule presents fairly, in all material
+respects, the information set forth therein.
+BDO Seidman, LLP
+Boston, Massachusetts
+June 3, 1997
+25
+26
+SEEC, INC.
+BALANCE SHEETS
+MARCH 31
+1996      1997
+ASSETS
+CURRENT ASSETS:
+Cash and cash   $  110,841   $ 3,811,401
+Short-term investments Note       --    8,987,771
+Accounts receivable:
+Trade--less allowance for doubtful accounts of $7,776 and $10,000
+at March 31, 1996 and 1997, respectively Notes 4 and 10.    244,679     872,363
+Affiliate--ERA Notes 6 and       992     84,142
+Prepaid     39,734     178,210
+Total current     396,246   13,933,887
+EQUIPMENT, NET NOTES 5 AND     27,693     119,565
+INVESTMENT IN AFFILIATE NOTE      5,000      5,000
+$  428,939   $14,058,452
+LIABILITIES AND SHAREHOLDERS' EQUITY DEFICIT
+CURRENT LIABILITIES:
+Accounts payable:
+$  60,416   $  306,778
+Affiliate--ERA Notes 6 and       --     23,650
+Accrued payroll, related taxes and     45,660     21,890
+Accrued interest payable Note     20,250     15,546
+Accrued royalties Note       --     90,509
+Other accrued      6,514     82,558
+Deferred maintenance     54,103     122,378
+Customer     21,330         Current maturities of long-term debt Note 10.    60,000     120,000
+Total current     268,273     783,309
+Due to officers/shareholders Notes 11 and 12.    172,477         Notes payable to related parties, less current portion Notes 9 and
+599,638         Long-term debt, less current maturities Note 10.    240,000     120,000
+Advance royalty Note     796,479     780,552
+Accrued royalties Note     29,040     30,331
+Total    2,105,907    1,714,192
+COMMITMENTS AND CONTINGENCIES
+NOTES 6, 7, 8, 11, 13, 14 AND 16
+SHAREHOLDERS' EQUITY DEFICIT
+NOTES 2, 6, 8, 9, 10, 11, 12 AND 15:
+Preferred stock--no par value; 10,000,000 shares authorized; none
+outstanding
+Common stock 01 par value; 20,000,000 shares authorized;
+2,357,923 and 5,000,833 issued and outstanding at March 31, 1996
+and 1997,     23,580     50,008
+Additional paid-in     30,812   14,489,601
+Accumulated   1,731,360   2,127,749
+Unrealized losses on       --     67,600
+Total shareholders' equity   1,676,968   12,344,260
+$  428,939   $14,058,452
+The accompanying notes are an integral part of these financial statements.
+26
+27
+SEEC, INC.
+STATEMENTS OF OPERATIONS
+YEARS ENDED MARCH 31
+1995     1996     1997
+REVENUE Note 4:
+Software license fees Notes 6 and 7.  $ 287,011  $ 269,589  $1,090,458
+Software maintenance    105,399    101,868    151,453
+Professional services--product related.    42,355    181,395    776,287
+Professional    349,898    476,413    604,466
+Total    784,663   1,029,265   2,622,664
+OPERATING EXPENSES:
+Cost of software license and maintenance fees
+Notes 6 and     91,468    101,991    252,368
+Professional services--product related.    13,952    58,542    470,159
+Professional services--other Note 6.   242,921    439,545    512,559
+General and administrative Note 13.   132,358    142,058    441,717
+Sales and    235,977    236,788    999,496
+Research and development Note 6.   407,231    336,954    427,490
+Total operating   1,123,907   1,315,878   3,103,789
+LOSS FROM    339,244   286,613   481,125
+OTHER INCOME EXPENSE, NET:
+Interest expense Notes 7, 9, 10 and 12.   62,866   74,712   50,371
+Interest and other     5,818    19,380    135,107
+Total other income expense, net.   57,048   55,332    84,736
+NET LOSS Note   $ 396,292  $ 341,945  $ 396,389
+Net loss per common   $   15  $   13  $   13
+Weighted average number of common and common equivalent
+shares   2,623,826   2,630,050   3,036,027
+The accompanying notes are an integral part of these financial statements.
+27
+28
+SEEC, INC.
+STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY DEFICIT
+YEARS ENDED MARCH 31, 1995, 1996 AND 1997
+COMMON STOCK
+ADDITIONAL          UNREALIZED     TOTAL
+NUMBER OF         PAID-IN   ACCUMULATED   LOSSES ON   SHAREHOLDERS'
+SHARES   AMOUNT    CAPITAL    DEFICIT   INVESTMENTS  EQUITY DEFICIT
+Balance--April 1, 1994 Note
+1.  2,036,750  $20,368  $  30,353  $ 993,123   $   --    $  942,402
+Exercise of stock options.    3,394     34     1,616      --       --       1,650
+Net loss for year.     --     --       --   396,292      --      396,292
+Balance--March 31, 1995.  2,040,144   20,402     31,969  1,389,415      --     1,337,044
+Exercise of warrants Note
+11.   91,474    915     1,106      --       --       2,021
+Acquisition of software rights
+from affiliate Note 6.   226,305   2,263     2,263      --       --         Net loss for year.     --    --       --   341,945      --      341,945
+Balance--March 31, 1996.  2,357,923   23,580     30,812  1,731,360      --     1,676,968
+Issuance of common stock for:
+Conversion of notes and
+other
+long-term liabilities
+payable
+to related parties Notes
+9 and 12.   237,025   2,370    783,165      --       --      785,535
+Cash Note 15.   211,425   2,114    745,326      --       --      747,440
+Initial public offering, less
+issuance costs Note 2.  2,070,000   20,700   12,929,054      --       --     12,949,754
+Exercise of warrants Note
+11.   124,460   1,244     1,244      --       --       2,488
+Net loss for year.     --     --       --   396,389      --      396,389
+Unrealized losses on
+investments.     --     --       --      --    67,600      67,600
+Balance--March 31, 1997.  5,000,833  $50,008  $14,489,601  $2,127,749   $ 67,600   $ 12,344,260
+The accompanying notes are an integral part of these financial statements.
+28
+29
+SEEC, INC.
+STATEMENTS OF CASH FLOWS
+YEARS ENDED MARCH 31
+1995     1996     1997
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net   $396,292  $341,945  $ 396,389
+Adjustments to reconcile net loss to net cash used by
+operating activities:
+13,389    14,351     36,050
+Provision for doubtful accounts.     --    6,836     9,392
+Proceeds from advance royalty.   620,000   120,000           Accrued non-current interest.   46,046    46,048     13,420
+Accrued non-current royalty.   10,785    11,588     1,291
+Changes in operating assets and liabilities:
+Accounts    26,262   62,239   637,076
+Accounts    16,734   15,742    83,150
+Prepaid    17,260   21,041   138,476
+Accounts    49,221   14,020    246,362
+Accounts    43,923     --     23,650
+Accrued payroll, related taxes and
+27,794   10,860    23,770
+Accrued interest payable.   13,075    7,175     4,704
+Accrued      --      --     90,509
+Other accrued      279    5,972     76,044
+Deferred maintenance revenue.   2,174    1,262     68,275
+Advance    81,225   21,177    15,927
+Customer    43,355   10,315    21,330
+Net cash used by operating activities.    666  202,863   755,829
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of    18,564   16,035   127,922
+Purchase of short-term      --      --   9,055,371
+Net cash used by investing activities.   18,564   16,035  9,183,293
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from long-term    300,000      --        Repayment of long-term      --      --    60,000
+Proceeds from sale of common stock, net.     --      --   13,697,194
+Exercise of common stock warrants and options.    1,650    2,021     2,488
+Net cash provided by financing activities.   301,650    2,021   13,639,682
+Net increase decrease in cash and cash equivalents.   282,420   216,877   3,700,560
+CASH AND CASH EQUIVALENTS:
+Beginning of    45,298   327,718    110,841
+End of   $ 327,718  $ 110,841  $ 3,811,401
+Supplemental cash flow information:
+Cash paid during the period for interest.  $   --  $ 19,825  $  40,500
+Purchase of software rights from affiliate Note 6.  $   --  $  2,263  $                                         Conversion of debt to common stock Notes 9 and 12.  $   --  $   --  $  785,535
+Unrealized losses on investments charged to
+shareholders' equity   $   --  $   --  $  67,600
+The accompanying notes are an integral part of these financial statements.
+29
+30
+SEEC, INC.
+NOTES TO FINANCIAL STATEMENTS
+NOTE 1--BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+Business. SEEC, Inc. the Company provides a suite of software products
+and related services to assist primarily Fortune 1000 companies and
+similarly-sized business and governmental organizations in the maintenance and
+redevelopment of existing legacy COBOL software applications and related
+databases for large mainframe systems. The Company also provides solutions for
+the system redevelopment required for year 2000 compliance and to support the
+migration of existing COBOL applications from a mainframe to a client/server
+environment.
+The Company PC-Windows-based products for COBOL application maintenance
+and redevelopment are designed to be alternatives to existing mainframe-based
+tools. Marketing efforts are conducted through the Company direct sales force,
+product distributors, and relationships with third-party service providers under
+non-exclusive marketing licenses. The Company sells and supports its products
+and services from its Pittsburgh, Pennsylvania headquarters.
+The Company has a strategic software research and development alliance with
+ERA Software Systems Private, Limited ERA, a software consulting and
+development group based in India. The Company and ERA are affiliated through
+common ownership see Notes 6 and 7.
+Recapitalization. On January 15, 1997, the Board of Directors effected a
+1-for-22094 reverse stock split in connection with the January 22, 1997 initial
+public offering of the Company common stock. All shares, options, warrants and
+per share amounts in the accompanying financial statements have been adjusted to
+reflect the effects of this recapitalization.
+Use of Estimates. The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the reporting period. Actual results could differ from those estimates.
+Cash, Cash Equivalents and Concentrations of Credit Risk. The statements of
+cash flows classify changes in cash and cash equivalents short-term,
+highly-liquid investments readily convertible into cash with an original
+maturity of three months or less according to operating, investing or financing
+activities. Financial instruments which potentially expose the Company to
+concentrations of credit risk consist principally of cash, temporary cash
+investments and accounts receivable.
+The Company places its cash and temporary cash investments with financial
+institutions which management considers to be of high quality; however, at times
+such deposits may be in excess of the Federal Deposit Insurance Corporation
+insurance limit.
+Concentrations of credit risk with respect to accounts receivable result
+from a significant portion of revenues being derived from a small number of
+entities see Notes 4 and 7; however, the Company customer base is expanding
+and is dispersed across many different industries and geographic areas. The
+Company generally extends credit to its customers without requiring collateral;
+however, it closely monitors extensions of credit and has not experienced
+significant credit losses.
+Short-term Investments. Short-term investments consist of short duration
+fixed-income securities, primarily U.S. government agency issues and corporate
+bonds. The average duration of the short-term investment portfolio of debt
+securities is approximately two years. The Company short-term investments are
+classified as available-for-sale and are carried at fair value with the net
+unrealized loss reported as a separate component of shareholders' equity.
+Realized gains and losses are recognized in the results of operations.
+Revenue Recognition. Revenues are derived from the license of software
+products, customer support and maintenance contracts, and COBOL maintenance and
+redevelopment contracts, including year 2000 compli-
+30
+31
+ance solutions. Revenue from product sales is recognized upon shipment. Customer
+support and maintenance contract revenue is recognized ratably over the term of
+the related agreement. The Company provides programming and reengineering
+services under time and materials and fixed price contracts. Revenues from time
+and materials contracts are recognized as the services are provided. Revenues
+from fixed price contracts, which are all less than six months in duration, are
+recognized on achievement of specified performance milestones negotiated with
+customers. This method, which recognizes revenues on substantially the same
+basis as the percentage-of-completion method, is used because management
+considers milestones to be the best available measure of progress on these
+contracts. Provision for estimated losses on uncompleted contracts is made in
+the period in which such losses are determinable see Note 7.
+Equipment. Equipment is stated at cost. Maintenance and repairs which are
+not considered to extend the useful life of assets are charged to operations as
+incurred.
+Depreciation of equipment is calculated using the declining balance method.
+Estimated useful lives of assets are as follows: computer equipment--3 to 5
+years; software and other equipment--5 years; and furniture and fixtures--5 to 7
+years.
+Investment in Affiliate. The Company investment in ERA, which represents
+an ownership interest of less than 10%, is accounted for at cost. Management
+does not believe that the common ownership interests of the Company and ERA are
+sufficient to enable either of them to exert significant influence necessary to
+require the Company investment in ERA to be accounted for under the equity
+method of accounting. Further, in management opinion, the use of the equity
+method of accounting would not have a significant effect on the Company
+financial position or results of operations.
+Research and Development Costs. Statement of Financial Accounting Standards
+No. 86, Accounting for the Costs of Computer Software to be Sold, Leased or
+Otherwise Marketed FAS 86, establishes criteria for capitalization of
+software development costs beginning upon the establishment of product
+technological feasibility and concluding when the product is available for
+general release to customers.
+Management believes that in applying the above criteria, capitalizable
+costs must be carefully evaluated in conjunction with certain factors including,
+among other things, costs reimbursed by the ICICI grant see Notes 6 and 7,
+anticipated future revenues, estimated economic product life, amortization
+methodologies, and frequency of changes in software and hardware technologies.
+After carefully evaluating these factors, management concluded that the amounts
+which should have been capitalized pursuant to FAS 86, specifically costs
+incurred after technological feasibility is established and prior to general
+release of the software to customers, were immaterial and therefore no software
+development costs have been capitalized to date.
+Advertising Costs. The Company expenses advertising costs as incurred.
+Stock-Based Compensation. The Financial Accounting Standards Board has
+issued Statement of Financial Accounting Standards No. 123, Accounting for
+Stock-Based Compensation, which establishes financial accounting and reporting
+standards for stock-based employee compensation plans. The Company adopted this
+statement during the year ended March 31, 1997; however, it has elected to
+continue to account for stock options at their intrinsic value with disclosures
+of the effects of fair value accounting on net loss and net loss per share on a
+pro forma basis see Note 8.
+Income Taxes. Deferred federal and state income taxes arise from temporary
+differences and are accounted for using the asset and liability method to
+recognize their tax consequences by applying enacted statutory tax rates
+applicable to future years to differences between the financial statement
+carrying amounts and the tax bases of existing assets and liabilities. The
+effect on deferred taxes of a change in tax rates is recognized in the period
+that includes the enactment date see Note 14.
+Net Loss per Common Share. Net loss per common and common equivalent share,
+using the weighted average number of common and common equivalent shares
+outstanding, was computed in accordance with Securities and Exchange Commission
+Staff Accounting Bulletin No. 83 SAB 83 by applying the treasury stock method.
+Pursuant to SAB 83, common and common equivalent shares issued by the Company
+during the 12 months immediately preceding a proposed public offering at prices
+substantially below the initial public
+31
+32
+offering price, together with common share equivalents which result from the
+grant of common stock options having exercise prices substantially below the
+initial public offering price during the same period, have been included in the
+calculation of the shares used in computing net loss per share as if they were
+outstanding for all periods prior to the initial public offering.
+Common equivalent shares, consisting of warrants and stock options issued
+more than 12 months prior to the Company proposed initial filing date of its
+registration statement October 11, 1996, have not been included in the
+computation of net loss per common share because their effect was antidilutive.
+The Financial Accounting Standards Board has issued Statement of Financial
+Accounting Standards No. 128, Earnings per Share FAS No. 128, which
+establishes standards for computing and presenting earnings per share. The
+effect of adopting FAS No. 128 has not been estimated. The Company is required
+to adopt the disclosure requirements of FAS No. 128 during the year ended March
+31, 1998.
+Financial Instruments. The estimated fair value of the Company financial
+instruments, which include short-term investments, accounts receivable, accounts
+payable and notes payable approximates their carrying value.
+Reclassification. Other accrued expenses, which had previously been
+included in accounts payable-trade, are now presented separately. All financial
+information has been restated to conform with the current year presentation.
+NOTE 2--CAPITAL STOCK AND INITIAL PUBLIC OFFERING
+In January 1997 the Company sold, through an underwritten public offering,
+1,800,000 common shares. In February 1997, an additional 270,000 shares were
+sold pursuant to an underwriters over-allotment provision. The net proceeds of
+these sales, which totaled approximately $12,950,000, are expected to be used
+for expanded sales and marketing, new personnel, increased capital expenditures,
+working capital and other general corporate purposes. In connection with the
+initial public offering, the Company issued to underwriters warrants to purchase
+additional shares of common stock see Note 11.
+In advance of the initial public offering, the Board of Directors
+authorized an amendment of the Company Articles of Incorporation to increase
+the number of authorized shares of common stock to 20,000,000 shares and to
+authorize the issuance of 10,000,000 shares of preferred stock, without par
+value, issuable in series from time to time by the Board of Directors.
+NOTE 3--SHORT-TERM INVESTMENTS
+Short-term investments at March 31, 1997 include the following:
+UNREALIZED    MARKET
+COST    GAIN LOSS    VALUE
+U.S. Government agency securities.  $2,772,827    $13,716   $2,759,111
+Corporate    250,620      896     251,516
+Registered investment company consisting of
+U.S. Government and corporate fixed income
+6,031,924    54,780    5,977,144
+$9,055,371    $67,600   $8,987,771
+Management does not anticipate realization of the holding loss in the
+upcoming year due to the anticipated adequacy of cash and cash equivalents
+currently held to fund current operating requirements.
+NOTE 4--MAJOR CUSTOMERS
+During the years ended March 31, 1995, 1996 and 1997, a significant
+percentage of the Company revenues was derived from a limited number of
+customers. Sales to Complete Business Solutions, Inc. CBSI represented
+approximately 41%, 32% and 19% of revenues, respectively, for such periods.
+Additionally, sales to ASD International ASD and Wheeling Pittsburgh Steel
+Corporation WP represented 14%
+32
+33
+and 10%, respectively, of revenues in 1996. Sales to VIASOFT represented 13% of
+the Company total revenues for the year ended March 31, 1995. Accounts
+receivable from ASD and WP totaled $89,486 at March 31, 1996. Accounts
+receivable from CBSI totaled $152,757 at March 31, 1997.
+NOTE 5--EQUIPMENT
+Equipment consists of the following:
+MARCH 31
+1996     1997
+Computer   $ 52,393   $145,192
+Software and other    8,707    31,258
+Furniture and    10,427    22,999
+Total    71,527   199,449
+Accumulated   43,834   79,884
+Equipment,   $ 27,693   $119,565
+NOTE 6--TRANSACTIONS WITH AFFILIATE
+The Company and ERA developed certain COBOL analysis software products the
+Products through their cooperative research and development efforts, which were
+funded in part through grants from the Industrial Credit and Investment
+Corporation of India, Ltd. ICICI, an investment bank that administers an
+agreement between the governments of the United States of America and the
+Republic of India. The ongoing process of development of the Products commenced
+in 1990 and has been undertaken pursuant to the terms of various agreements
+among the Company, ERA and ICICI, which have been amended from time to time to
+reflect their evolving relationships.
+Until March 31, 1996, the Company had a 65% ownership interest in the
+Products and paid a royalty to ICICI see Note 7, a 10% royalty to ERA based on
+revenues from sales or licensing of Products and a monthly research and
+development fee of $5,000 to ERA.
+Pursuant to a product purchase agreement the Product Purchase Agreement
+dated March 31, 1996, the Company acquired ERA 35% interest in the Products in
+exchange for 226,305 shares of the Company common stock. The transaction was
+assigned a nominal value of $2,263 to reflect the predecessor basis of ERA in
+the Products by applying the Company accounting policy of expensing all
+research and development costs.
+Pursuant to the Product Purchase Agreement, the Company agreed to pay the
+following to:
+- ERA--a research and development fee royalty equal to 10% of gross
+Product revenues in no event will quarterly payments be less than
+$12,000 through December 31, 1996;
+- ICICI on behalf of ERA--5% of gross Product revenues until such aggregate
+payments see Note 7 satisfy ERA obligation to ICICI the ERA
+Obligation after which such payments shall cease; and,
+- ERA--a monthly maintenance fee of $5,000 for the first three years,
+$6,000 for the next three years, and thereafter in amounts to be mutually
+determined.
+Effective January 1, 1997, the Company and ERA agreed to amend the Product
+Purchase Agreement to eliminate the research and development fee royalty and
+the monthly maintenance fee described above. Concurrently, the Company and ERA
+agreed to a schedule of research and development projects to be performed by ERA
+at specified rates for the benefit of the Company. The total estimated cost of
+the projects pursuant to the initial schedule is $92,000. Other projects may be
+added as identified and agreed to by the Company and ERA.
+Upon a change in control in ERA, as defined in the Product Purchase
+Agreement, the Company has the right to repurchase some or all of its common
+stock owned by ERA. In the event of a change in control in the Company, as
+defined, ERA has the right to request a renegotiation of any or all of the
+research and
+33
+34
+development provisions of the Product Purchase Agreement. Further, under certain
+circumstances, the Company has the right to purchase ERA research and
+development facilities, at which time the Company will assume responsibility for
+repayment of any unpaid ERA Obligation under the June 1, 1990 ICICI Agreement
+see Note 7.
+The Product Purchase Agreement continues in effect until terminated by
+either party and places certain restrictions on ERA ability to design or
+develop similar products for itself or any third party for a period of two years
+subsequent to termination. The agreement also provides that all work performed
+subsequent to March 31, 1996 by ERA will be done on a work-for-hire basis; any
+products developed will be owned by the Company and will not result in any
+ownership rights to ERA.
+The Company also had an informal arrangement with ERA to administer the
+billing and collection function for a contract to provide consulting services to
+a corporation operating in the United States, for which the Company retained 10%
+of the collected revenues. The related contract expired in December 1996.
+Effective March 1, 1996, the Company formalized its marketing arrangements
+with ERA by entering into a marketing agreement to distribute the Company
+products on a non-exclusive basis in India. The agreement, which can be
+terminated by either party after eighteen months, provides for royalties to be
+paid by ERA to the Company based on 40% of revenues using the suggested
+international list prices established by the Company from customers in India
+through September 1, 1996, and 50% thereafter. Royalties received under the
+terms of the marketing agreement amounted to $11,500 and $205,799 for the years
+ended March 31, 1996 and 1997, respectively.
+The Company incurred the following expenses in connection with its
+activities with ERA during the periods presented below.
+YEARS ENDED MARCH 31
+1995    1996     1997
+Royalty   $26,552   $18,941   $ 36,310
+Research and development fees.  $60,000   $60,000   $129,218
+Fees applicable to professional services provided by
+ERA   $ 5,636   $72,429   $ 77,078
+NOTE 7--ROYALTY AGREEMENTS
+VIASOFT, Inc.--Effective December 1, 1993, the Company entered into a
+five-year license agreement the License Agreement with VIASOFT, Inc. the
+Licensee which generally granted to the Licensee a worldwide license to use and
+market certain of the Company products on a private label basis. The License
+Agreement provides, among other things, for royalties of up to 30% of any
+license or maintenance fees related to licensed products and minimum advance
+royalty payments totaling $900,000 during the eighteen-month exclusivity period
+which expired on May 31, 1995.
+Pursuant to the terms of the agreement, the Company gave notice to VIASOFT
+on December 3, 1996 of its intention to terminate the License Agreement as a
+result of VIASOFT not making minimum royalty payments of at least $1,000,000
+during the twelve-month period preceding the third anniversary of the date of
+the Agreement. The Company has received notice from VIASOFT that it does not
+intend to extend the License Agreement by making such minimum payments and
+acknowledging that the License Agreement will terminate effective June 4, 1997.
+The $780,552 balance of the advance royalty at March 31, 1997 will be
+recognized as income subsequent to such date as the Company fulfills requests
+from VIASOFT to manufacture and deliver copies of the licensed products to
+VIASOFT for resale. The Company is obligated to deliver to VIASOFT that number
+of copies of the licensed products equal to the balance of the advance royalty
+divided by the applicable product royalty amounts.
+34
+35
+The Company has not received any royalty payments beyond the minimum
+advance royalty of $900,000, which is being recognized as income as copies of
+the licensed products are delivered to VIASOFT for resale, and, to a lesser
+extent, as royalties on the related maintenance revenues are reported to the
+Company by VIASOFT. Software license fees as presented in the accompanying
+statements of operations includes VIASOFT royalty income of $81,225, $21,177 and
+$15,927 for the years ended March 31, 1995, 1996 and 1997, respectively.
+Total revenues from VIASOFT, including income from the advance royalty,
+represented 13%, 8% and 2% of the Company total revenues for the years ended
+March 31, 1995, 1996 and 1997, respectively.
+The License Agreement also requires the Company to pay a royalty of 5% of
+sales of its products which contain or use a COBOL parser, up to $1,000,000, but
+in no event less than $100,000, over five years. Any unpaid royalties will be
+paid in twelve monthly installments starting in June 1999.
+ICICI--Pursuant to the terms of the June 1, 1990 ICICI agreement, as
+amended the ICICI Agreement, the Company received a $255,000 grant to
+partially fund research and development costs to develop the Products in
+association with ERA. The grant program administered by ICICI was designed to
+accelerate the pace and quality of technological innovation through the
+promotion and financing of Indo-U.S. cooperative technology development ventures
+see Note 6. ERA received a grant of Indian Rs. 4,000,000 $111,480 at March
+31, 1997 under the ICICI Agreement for similar purposes.
+The ICICI Agreement requires the Company and ERA to make royalty payments
+based on Product revenues up to a maximum of $525,000 and Indian Rs. 8,000,000
+$222,960 at March 31, 1997, respectively. The Company and ERA are jointly and
+severally obligated for payment of the royalties. However, subsequent to March
+31, 1993, ICICI agreed to accept from the Company total royalties of 10% of
+Product revenues and 5% of revenues from Product maintenance and Product-related
+services in satisfaction of future royalties due from the Company and ERA. Total
+royalty expense under the ICICI Agreement for the years ended March 31, 1995,
+1996 and 1997, amounted to $33,940, $34,006 and $122,585, respectively.
+At March 31, 1996 and 1997, the balance of the maximum royalty obligation
+to be paid by the Company pursuant to the ICICI Agreement, after deducting
+accrued royalties at such dates, was $443,830 and $317,322, and the amount of
+the ERA Obligation see Note 6 was Indian Rs. 6,174,138 $179,742 and Rs.
+3,245,870 $90,465, respectively.
+NOTE 8--STOCK OPTION PLAN
+On September 12, 1994, the Company shareholders approved the SEEC, Inc.
+1994 Stock Option Plan the Plan under which a maximum of 226,305 common
+shares, subject to anti-dilution adjustments, may be awarded during the Plan
+ten-year term. The purpose of the Plan is to promote the interests of the
+Company and its shareholders by providing key employees with additional
+incentives to continue the success of the Company.
+Under the Plan, options are awarded by a committee designated by the
+Company Board of Directors or, if no committee is designated, the full Board.
+Incentive stock options and non-qualifying stock options may be granted to
+purchase a specified number of shares of common stock at a price not less than
+the fair market value on the date of grant and for a term not to exceed ten
+years. Options become exercisable at such times and in such installments as
+determined at the date of grant, subject to continued employment and certain
+other conditions, including a limited ability to sell or otherwise transfer
+shares issued pursuant to the Plan.
+35
+36
+Stock option plan activity during the fiscal years ended March 31, 1995,
+1996, and 1997 was as follows:
+YEAR ENDED MARCH 31
+1995          1996           1997
+WEIGHTED        WEIGHTED         WEIGHTED
+AVERAGE         AVERAGE         AVERAGE
+EXERCISE        EXERCISE         EXERCISE
+PRICE          PRICE          PRICE
+FIXED OPTIONS             SHARES  PER SHARE   SHARES  PER SHARE   SHARES   PER SHARE
+-                                                                    
+Outstanding at beginning of
+--   $ --    27,698   $ 45    49,556   $ 45
+31,092   $ 45    21,858   $ 44    98,709   $440
+3,394   $ 44      --   $ --      --   $       --   $ --      --   $ --    1,810   $331
+Outstanding at end of year.  27,698   $ 45    49,556   $ 45    146,455   $308
+Options exercisable at end of
+16,384         21,318          34,593
+Weighted average fair value of
+options granted during the
+$ 04         $  87
+The Company accounts for the Plan using the intrinsic value method.
+Accordingly, no compensation cost has been recognized for the Plan. The pro
+forma data below reflects the effect had compensation cost for the Plan been
+determined based on the fair market value at the grant dates for the awards
+under those plans in accordance with SFAS No. 123.
+1997
+Net Loss      As   $396,389
+Pro   $404,389
+Loss per Share   As    $13
+Pro    $13
+The fair value of each option grant is estimated on the date of grant using
+the Black-Sholes option-pricing model with the following assumptions: risk free
+interest rates of 7%, dividend yields of zero, and expected weighted average
+terms of 21 years. Volatility of 60% was only assumed in the estimation of fair
+value for options granted subsequent to the Company initial public offering.
+The estimated fair value of options granted in fiscal 1996 and resultant
+compensation cost was not significant.
+The following table summarizes information about stock options outstanding
+at March 31, 1997:
+OPTIONS OUTSTANDING           OPTIONS EXERCISABLE
+WEIGHTED     WEIGHTED           WEIGHTED
+AVERAGE     AVERAGE            AVERAGE
+RANGE OF           REMAINING    EXERCISE           EXERCISE
+EXERCISE    NUMBER    CONTRACTUAL    PRICE     NUMBER      PRICE
+PRICES    OF SHARES   LIFE YEARS   PER SHARE   OF SHARES    PER SHARE
+$44-49    49,556      746      $ 45     34,593     $ 45
+$331-400    83,599      964      $ 383       --         $813     13,300      996      $ 813       --                                              146,455      893      $ 308     34,593     $ 45
+During the year ended March 31, 1997, the Company issued non-qualified
+options to purchase a total of 11,315 shares of common stock at exercise prices
+ranging from $362 to $725, exercisable as follows: March 31, 1997-2,263; March
+31, 1998-4,526; March 31, 1999-4,526.
+36
+37
+NOTE 9--NOTES PAYABLE TO RELATED PARTIES
+Notes payable to related parties consisted of the following:
+MARCH 31
+1996     1997
+Unsecured note payable to a director with interest at 7% due
+June   $ 50,000   $     Unsecured note payable to shareholder with interest at 7% due
+June    95,000        Unsecured advance from shareholder with imputed interest at
+75,000        10% subordinated notes due April 1997--Series I.  100,000        10% subordinated notes due September 1997--Series II
+including $25,000 to a   125,000        Accrued   154,638                                                                               $599,638   $                                          
+In connection with negotiating the terms of the notes and advances payable,
+the Company issued warrants, on the basis of one warrant pre-split for each
+dollar of the loan principal, to purchase 201,403 shares of common stock at $02
+per share see Note 11.
+Interest charged to expense on the notes payable to related parties for the
+years ended March 31, 1995, 1996 and 1997 totaled $37,150, $37,152 and $11,054,
+respectively.
+Effective July 1996, all of the outstanding principal and accrued interest
+due to the related parties was converted into 184,198 shares of the Company
+common stock at a value of $331 per share. Accordingly, the entire balance of
+notes payable is classified as long-term at March 31, 1996.
+NOTE 10--LONG-TERM DEBT
+The Company is a party to a term loan agreement with ICICI pursuant to
+which ICICI made a loan of $300,000 to the Company. The loan bears interest at
+the prime rate plus 25% limited to a floor of 6% and ceiling of 9%. Quarterly
+principal payments of $30,000 were originally scheduled to commence December 15,
+1995. On July 23, 1996, the ICICI term loan agreement was amended to defer the
+start of the quarterly payments until December 15, 1996.
+The loan is secured by the Company trade accounts receivable and
+equipment. Upon any event of default, the Company may not declare dividends, and
+ICICI has the option to convert the then outstanding principal and accrued
+interest balance into shares of the Company common stock at a fair value to be
+determined by an independent appraiser.
+Aggregate maturities of long-term debt are $120,000 in each of the years
+ending March 31, 1998 and 1999.
+NOTE 11--COMMON STOCK WARRANTS
+At March 31, 1995, 1996 and 1997, the Company had outstanding warrants to
+purchase 258,932, 167,458 and 249,998 shares of the Company common stock,
+respectively see Notes 2, 9 and 12. All warrants are exercisable at $02,
+except for certain warrants outstanding at March 31, 1997 to purchase 207,000
+shares of common stock at $870 per share. These warrants, which were issued to
+the underwriters in connection with the Company initial public offering, are
+not exercisable until January 22, 1998. Warrants for 91,474 and 124,460 shares
+were exercised as of March 18, 1996, and March 25, 1997, respectively.
+Outstanding warrants expire as follows: December 31, 1999--42,998; January 22,
+2002--207,000. At March 31, 1995, 1996 and 1997, 258,932, 167,458 and 249,998
+shares of common stock, respectively, were reserved for issuance upon the
+exercise of outstanding warrants.
+37
+38
+NOTE 12--DUE TO OFFICERS/SHAREHOLDERS
+A portion of the annual salaries of two officers and shareholders,
+aggregating $127,106, was deferred. Interest at 7% has been accrued on the
+deferred salaries. The Company also issued warrants, on the basis of one warrant
+pre-split for each dollar of deferred salary, to purchase 57,529 shares of
+common stock at $02 per share see Note 11. Interest of $8,896 was charged to
+expense during each of the years ended March 31, 1995 and 1996, and $2,595 for
+the year ended March 31, 1997. Effective July 1996, the entire balance of
+principal and accrued interest was converted into 52,827 shares of the Company
+common stock at a value of $331 per share.
+NOTE 13--OPERATING LEASES
+The Company headquarters are occupied under an operating lease agreement
+which expires December 31, 1997. The Company also rents two apartments and two
+remote sales offices under terms of operating leases which have remaining terms
+of twelve months or less. Management intends to renew or replace these leases
+during the normal course of business. Total rent expense incurred for all leases
+during the years ended March 31, 1995, 1996, and 1997 amounted to $20,350 23,710 and $48,849, respectively. Current obligations under existing leases
+totaled $84,011 at March 31, 1997.
+NOTE 14--INCOME TAXES
+No provision for income taxes was recorded for the years ended March 31,
+1995, 1996 and 1997 due to the Company significant net operating loss
+position. As presented below, the Company has calculated a deferred tax benefit;
+however, a corresponding valuation allowance has been recorded to offset the
+deferred benefit of net operating loss carryforwards and reversing temporary
+differences since management could not determine that it is more likely than not
+that the benefit can be realized in the foreseeable future.
+The components of the net deferred tax asset are as follows:
+MARCH 31
+1996     1997
+Net deferred tax asset resulting from using the cash method
+of accounting for tax reporting, attributable to:
+Accounts   $ 27,571   $ 126,577
+Deferred maintenance revenue and advance royalty.   350,950    372,549
+Accrued interest    90,879     6,414
+Accrued    11,982    49,858
+Deferred    52,444           Accounts receivable,   100,533   359,937
+Prepaid    16,394   73,529
+Other,    58,584    13,552
+475,483    135,484
+Tax effect of federal and state net operating loss
+263,301    779,169
+Net deferred tax    738,784    914,653
+Valuation    738,784    914,653
+Deferred tax asset,   $   --   $                                         
+38
+39
+The Company has unused net operating loss carryforwards available at March
+31, 1997 that may be applied to reduce future taxable income and expire as
+follows:
+NET OPERATING LOSS
+EXPIRES DURING                              CARRYFORWARDS
+YEAR ENDING                              MARCH 31                             FEDERAL     STATE
+-                                                                     
+$    --   $ 630,442
+--   1,220,429
+65,955             70,111            230,949             53,743            255,274           1,220,429                                                                              $1,896,461   $1,850,871
+If an ownership change were to occur, within the meaning of the Internal
+Revenue Code of 1986, as amended, the utilization of net operating loss
+carryforwards would be subject to an annual limitation.
+The expected statutory tax benefit of the Company financial accounting
+losses for the years ended March 31, 1995, 1996 and 1997 have not been recorded
+due to the uncertainty of their ultimate realization. While the need for the
+valuation allowance is subject to periodic review, if the allowance is reduced,
+the tax benefits of the carryforwards will be recorded in future operations as a
+reduction of the Company income tax expense.
+NOTE 15--RELATED PARTY TRANSACTIONS
+In September 1996 the Company sold 4,139 shares of common stock to a
+director and 43,450 shares to family members of a director at a value of $362
+per share, for an aggregate purchase price of $172,440.
+NOTE 16--COMMITMENTS AND CONTINGENCIES
+The Company has entered into employment/severance change in control
+agreements with four executive officers and has employment agreements with
+certain key employees which provide for minimum annual salaries and automatic
+annual renewal at the end of the initial two-year term. The agreements generally
+contain, among other things, confidentiality agreements, assignment to the
+Company of inventions made during employment and under certain circumstances
+for two years following termination of employment and non-competition
+agreements for the term of the agreements plus two years.
+The executive employment/severance agreements provide for payments of up to
+one year compensation if there is a change of control in the Company, as
+defined, and a termination of employment. The maximum contingent liability under
+these agreements was approximately $363,000 at March 31, 1997.
+39
+40
+Item 3. LEGAL PROCEEDINGS.
+The Company is not a party to any material litigation.
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+Not applicable.
+PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+The information set forth under the captions Executive Officers of the
+Registrant, Election of Directors and Section 16a Beneficial Ownership
+Reporting Compliance in the Company Proxy Statement for the 1997 Annual
+Meeting of Shareholders is incorporated herein by reference in response to this
+Item 3. LEGAL PROCEEDINGS.
+The Company is not a party to any material litigation.
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+Not applicable.
+PART II
+Item 5. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+The information set forth under the caption Security Ownership of Certain
+Beneficial Owners and Management in the Proxy Statement is incorporated herein
+by reference in response to this Item 12.

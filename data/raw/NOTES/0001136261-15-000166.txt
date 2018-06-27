@@ -1,0 +1,610 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULE 
+Page FINANCIAL STATEMENTS: 
+Report of Independent Registered Public Accounting Firm
+47  Consolidated Balance Sheets at March 31, 2015 and 2014
+48 Consolidated Statements of Income for each of the three years in the period ended March 31,
+2015
+49  Consolidated Statements of Comprehensive Income for each of the three years in the period
+ended March 31, 2015
+50  Consolidated Statements of Stockholders' Equity for each of the three years in the period
+ended March 31, 2015
+51  Consolidated Statements of Cash Flows for each of the three years in the period ended March 31, 2015
+52  Notes to Consolidated Financial Statements 
+53  
+46 Report of Independent Registered Public Accounting Firm
+The Board of Directors and Stockholders
+8x8, Inc.
+We have audited the accompanying consolidated balance sheets of 8x8, Inc. the Company, as of March31, 2015 and 2014, and the related
+consolidated statements of income, comprehensive income, stockholders' equity and cash flows for each of the three years in the period ended March31, 2015. Our audits
+also included the financial statement schedule listed in a2. We also have audited the Company internal control over financial reporting as of March31, 2015,
+based on criteria established in Internal Control - Integrated Framework 2013 issued by the Committee of Sponsoring Organizations of the Treadway Commission. The
+Company management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the
+effectiveness of internal control over financial reporting included in the accompanying Management Report on Internal Control Over Financial Reporting appearing under Item 9A.
+Our responsibility is to express an opinion on these consolidated financial statements and schedule and an opinion on the Company internal control over financial reporting based
+on our audits.
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board United States. Those standards require that
+we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement and whether effective internal
+control over financial reporting was maintained in all material respects. Our audits of the consolidated financial statements included examining, on a test basis, evidence supporting
+the amounts and disclosures in the consolidated financial statements, assessing the accounting principles used and significant estimates made by management, and evaluating the
+overall financial statement presentation. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting,
+assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also
+include performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+A company internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and
+the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company internal control over financial reporting
+includes those policies and procedures that 1pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of
+the assets of the company; 2provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with
+generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of
+the company; and 3provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company assets that
+could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or
+procedures may deteriorate.
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the consolidated financial position of 8x8, Inc.,
+as of March31, 2015 and 2014, and the consolidated results of its operations and its cash flows for each of the three years in the period ended March31, 2015, in
+conformity with accounting principles generally accepted in the United States of America. Also, in our opinion, the related financial statement schedule, when considered in relation
+to the basic financial statements taken as a whole, presents fairly, in all material respects, the information set forth therein. Also in our opinion, 8x8, Inc., maintained, in all material
+respects, effective internal control over financial reporting as of March31, 2015, based on criteria established in Internal Control - Integrated Framework 2013 issued
+by the Committee of Sponsoring Organizations of the Treadway Commission. s/ Moss Adams LLP
+San Francisco, California
+May 29, 2015             47 8X8, INC.CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS March 31 2015 2014 ASSETS Current assets   Cash and cash equivalents         53,110    59,159   Short-term investments        123,984    47,181   Accounts receivable, net          6,642     5,503   Inventory            704       811   Deferred cost of goods sold            428       263   Deferred tax asset          4,454     2,065   Other current assets          2,274     1,951        Total current assets        191,596   116,933 Long-term investments                  72,021 Property and equipment, net         10,248     7,711 Intangible assets, net         12,260    15,095 Goodwill         36,887    38,461 Non-current deferred tax asset         43,169    47,797 Other assets          1,464     1,185    Total assets        295,624   299,203 LIABILITIES AND STOCKHOLDERS' EQUITY Current liabilities   Accounts payable          7,775     6,789   Accrued compensation          6,183     4,583   Accrued warranty            339       660   Accrued taxes          2,800     2,323   Deferred revenue          1,768     1,857   Other accrued liabilities          2,965     1,909        Total current liabilities         21,830    18,121 Non-current liabilities          1,352     1,619 Non-current deferred revenue            231     1,285         Total liabilities         23,413    21,025 Commitments and contingencies Note 7 Stockholders' equity   Preferred stock, $0001 par value   Authorized: 5,000,000 shares     Issued and outstanding: no shares at March 31, 2015 and 2014                          Common stock, $0001 par value     Authorized: 200,000,000 shares     Issued and outstanding: 88,065,528 shares and 88,525,015 shares      at March 31, 2015 and 2014, respectively             88        88  Additional paid-in capital        378,971   384,325  Accumulated other comprehensive loss income          2,109       430  Accumulated deficit        104,739   106,665        Total stockholders' equity        272,211   278,178    Total liabilities and stockholders' equity        295,624   299,203 The accompanying notes are an integral part of these consolidated financial statements.              48 8X8, INC.
+CONSOLIDATED STATEMENTS OF INCOME 
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS Years Ended March 31 2015 2014 2013 Service revenue        148,208   116,607    94,384 Product revenue         14,205    11,990     9,402        Total revenue        162,413   128,597   103,786 Operating expenses   Cost of service revenue         29,701    22,445    19,928   Cost of product revenue         15,863    15,170    11,801   Research and development         15,118    11,633     8,147   Sales and marketing         80,667    60,906    45,573   General and administrative         18,182    15,368     8,558   Gain on patent sale          1,000             12,965        Total operating expenses        158,531   125,522    81,042 Income from operations          3,882     3,075    22,744 Other income, net            833       742       105 Income from continuing operations before    provision for income taxes          4,715     3,817    22,849 Provision for income taxes          2,789     2,219     9,399 Income from continuing operations          1,926     1,598    13,450 Income from discontinued operations    net of income tax provision                     320       489 Gain on disposal of discontinued operations   net of income tax provision of $456                     596          Net income          1,926     2,514    13,939 Income per share - continuing operations   Basic           002      002      019   Diluted           002      002      018 Income per share - discontinued operations   Basic 000      001      001   Diluted 000      001      001 Net income per share    Basic           002      003      020    Diluted           002      003      019 Weighted average number of shares    Basic         89,071    78,310    71,390    Diluted         91,652    81,658    74,700 The accompanying notes are an integral part of these consolidated financial statements.              49 8X8, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS INCOME
+IN THOUSANDS Years Ended March 31 2015 2014 2013 Net income          1,926     2,514    13,939 Other comprehensive income loss, net of tax    Unrealized gain loss on investments in securities            26       41        22    Foreign currency translation adjustment          2,513       507          Comprehensive loss income           613     2,980    13,961  
+The accompanying notes are an integral part of these consolidated financial statements. 
+50 8X8, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+IN THOUSANDS, EXCEPT SHARES Accumulated Additional Other Common Stock Paid-in Comprehensive Accumulated Shares Amount Capital Income Loss Deficit Total Balance at March 31, 2012      70,679,493        71   241,555       58   123,118   118,450 Issuance of common stock under   stock plans       1,503,238         1     2,400                       2,401 Cost of issuance of common stock                              43                         43 Repurchase of common stock         73,751               419                        419 Stock-based compensation expense                            2,634                       2,634 Income tax benefit from stock   based compensation                               49                          49 Unrealized investment gain                                        22                 22 Net income                                             13,939    13,939 Balance at March 31, 2013      72,108,980        72   246,176       36   109,179   137,033 Issuance of common stock, net of   issuance costs      14,375,000        14   125,736                     125,750 Issuance of common stock under   stock plans       2,091,435         2     5,165                       5,167 Repurchase of common stock         50,400               489                        489 Stock-based compensation expense                            7,595                       7,595 Income tax benefit from stock   based compensation                              142                         142 Unrealized investment loss                                       41                41 Foreign currency translation adjustment                                       507                507 Net income                                              2,514     2,514 Balance at March 31, 2014      88,525,015        88   384,325       430   106,665   278,178 Issuance of common stock under   stock plans       2,043,781         2     4,525                       4,527 Cost of issuance of common stock                               8                          8 Repurchase of common stock      2,503,268        2    19,369                      19,371 Stock-based compensation expense                            9,347                       9,347 Income tax benefit from stock   based compensation                              151                         151 Unrealized investment loss                                       26                26 Foreign currency translation adjustment                                     2,513              2,513 Net income                                              1,926     1,926 Balance at March 31, 2015      88,065,528        88   378,971     2,109   104,739   272,211 The accompanying notes are an integral part of these consolidated financial statements. 
+51 8X8, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS Years Ended March 31 2015 2014 2013 Cash flows from operating activities   Net income          1,926     2,514    13,939   Adjustments to reconcile net income to net cash provided by   operating activities      Depreciation          3,540     2,567     2,523      Amortization of intangibles          2,232     1,643     1,428      Amortization of capitalized software            341       147               Net Accretion of discount and amortization of    premium on marketable securities            896       114               Gain on disposal of discontinued operations                    596               Gain on escrow settlement                    565               Stock-based compensation expense          9,347     7,595     2,634      Tax benefit from stock-based compensation           151      142       49      Deferred income tax expense          2,390     2,266     9,308      Other            256       650       616   Changes in assets and liabilities      Accounts receivable          1,529     1,575     2,171      Inventory             52      276        27      Other current and noncurrent assets           196      488       30      Deferred cost of goods sold           207       163       60      Accounts payable       605     1,035       410      Accrued compensation          1,632       488       524      Accrued warranty           321       208        65      Accrued taxes            490       276       440      Deferred revenue          1,065       681       345      Other current and noncurrent liabilities          1,002       282     1,839        Net cash provided by operating activities         21,240    14,917    31,788 Cash flows from investing activities   Acquisitions of property and equipment          5,826     2,853     5,678   Cost of capitalized software           724      755      190   Purchase of investments        106,021   141,604            Sales of investments         36,764    24,219            Proceeds from maturities of investments         63,546                     Acquisition of businesses, net of cash acquired                  18,474            Proceeds from disposition of discontinued operations, net of transaction costs                   3,000                 Net cash used in investing activities         12,261   136,467     5,868 Cash flows from financing activities   Capital lease payments           149       85       86   Repurchase of common stock         19,371      489      419   Tax benefit from stock-based compensation            151       142        49   Proceeds from cost of issuance of common stock, net of issuance costs                 125,750       43   Proceeds from issuance of common stock under employee stock plans          4,455     5,167     2,458        Net cash used in provided by financing activities         14,914   130,485     1,959   Effect of exchange rate changes on cash       114       81          Net decrease increase in cash and cash equivalents          6,049     8,854    27,879 Cash and cash equivalents, beginning of year         59,159    50,305    22,426 Cash and cash equivalents, end of year         53,110    59,159    50,305 Supplemental and non-cash disclosures   Acquisition of property and equipment, net in connection with     acquisitions of businesses                     956            Acquisition of capital lease in connection with acquisitions of businesses                     216            Interest paid              5         5         8   Income taxes paid            159       427       415 The accompanying notes are an integral part of these consolidated financial statements.              52 8X8, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+1. THE COMPANY AND SIGNIFICANT ACCOUNTING POLICIES
+THE COMPANY
+8x8, Inc. 8x8 or the Company was incorporated in California in February 1987 and was reincorporated in Delaware in December 1996. 
+The Company is a leading provider of VoIP technology and SaaS Software as a service communication solutions in the cloud for SMBs and mid-market and distributed
+enterprises. The Company delivers a broad suite of SaaS services to in-office and mobile devices spanning cloud telephony, virtual contact center and virtual meeting through its
+proprietary unified SaaS platform. The Company currently serves approximately 41,600 business customers with over 650,000 subscriptions, making it a leading provider of UCC
+services in the cloud. The Company software abstracts complex networking, redundancy, security and interconnection requirements to provide a seamless and easy-to-use
+solution for its customers. The Company software also integrates with leading enterprise resource planning, customer relationship management, or human capital management,
+and other third-party application suites, such as Salesforce.com and NetSuite,
+to provide organizations an integrated, fully functional business communications and collaboration experience that is critical to operate their businesses.
+The Company fiscal year ends on March 31 of each calendar year. Each reference to a fiscal year in these notes to the consolidated financial statements refers to the fiscal
+year ended March 31 of the calendar year indicated for example, fiscal 2015 refers to the fiscal year ended March 31, 2015.
+Common Stock Offering 
+In November 2013, the Company completed an underwritten registered offering of common stock in which it sold 14,375,000 shares for total cash proceeds of
+approximately $1258 million, net of issuance costs of $06 million. The shares issued in the offering had been registered under a shelf
+registration statement previously filed with the Securities and Exchange Commission relating to up to $250,000,000 of the Company securities. A member of the Company board
+of directors participated in the offering and purchased 30,000 shares at the public offering price.
+Acquisition of Voicenet Solutions Limited
+In November 2013, the Company entered into a share purchase agreement with the shareholders and optionholders of Voicenet Solutions Limited, a provider of cloud
+communications and collaboration services in the United Kingdom. See Note 13. 
+PRINCIPLES OF CONSOLIDATION
+The consolidated financial statements include the accounts of 8x8 and its subsidiaries. All material intercompany accounts and transactions have
+been eliminated. 
+USE OF ESTIMATES
+The preparation of the consolidated financial statements in conformity with accounting principles generally accepted in the United States requires management to make
+estimates and assumptions that affect the reported amounts of assets, liabilities and equity and disclosure of contingent assets and liabilities at the date of the consolidated financial
+statements and the reported amounts of revenues and expenses during the reporting period. On an on-going basis, the Company evaluates its estimates, including, but not limited
+to, those related to bad debts, returns reserve for expected cancellations, valuation of inventories, income and sales tax, and litigation and other contingencies. The Company bases
+its estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making
+judgments about the carrying value of assets and liabilities, and equity that are not readily apparent from other sources. Actual results could differ from those estimates under
+different assumptions or conditions.             53 REVENUE RECOGNITION
+Service and Product Revenue
+The Company recognizes service revenue when persuasive evidence of an arrangement exists, delivery has occurred or services have been rendered, price is fixed or
+determinable and collectability is reasonably assured. The Company defers recognition of service revenues in instances when cash receipts are received before services are
+delivered and recognizes deferred revenues ratably as services are provided.
+The Company recognizes revenue from product sales for which there are no related services to be rendered upon shipment to customers provided that persuasive evidence of
+an arrangement exists, the price is fixed or determinable, title has transferred, collection of resulting receivables is reasonably assured, there are no customer acceptance requirements, and there
+are no remaining significant obligations. Gross outbound shipping and handling charges are recorded as revenue, and the related costs are included in cost of goods sold. Reserves
+for returns and allowances for customer sales are recorded at the time of shipment. In accordance with the Financial Accounting Standards Board FASB Accounting
+Standards Codification ASC 605, Revenue Recognition, the Company records shipments to distributors, retailers, and resellers, where the right of return exists,
+as deferred revenue. The Company defers recognition of revenue on product sales to distributors, retailers, and resellers until the products have been sold to the end customer.
+The Company records revenue net of any sales and service related taxes and mandatory government charges that are billed to its customers. The Company believes this
+approach results in consolidated financial statements that are more easily understood by users.
+Under the terms of the Company typical subscription agreement, new customers can terminate their service within 30 days of order placement and receive a full refund of fees
+previously paid. The Company has determined that it has sufficient history of subscriber conduct to make a reasonable estimate of cancellations within the 30-day trial period.
+Therefore, the Company recognizes new subscriber revenue that is fixed or determinable and that are not contingent on future performance or future deliverables in the month in
+which the new order was shipped, net of an allowance for expected cancellations.
+Multiple Element Arrangements
+ASC 605-25, Revenue Recognition - Multiple Element Arrangements, requires that revenue arrangements with multiple deliverables be divided into separate units of
+accounting if the deliverables in the arrangement meet specific criteria. The provisioning of the 8x8 cloud service with the accompanying 8x8 IP telephone constitutes a
+revenue arrangement with multiple deliverables. For arrangements with multiple deliverables, the Company allocates the arrangement consideration to all units of accounting
+based on their relative selling prices. In such circumstances, the accounting principles establish a hierarchy to determine the relative selling price to be used for allocating
+arrangement consideration to units of accounting as follows: i vendor-specific objective evidence of fair value VSOE, ii third-party evidence of selling price TPE, and iii
+best estimate of the selling price BESP.
+VSOE generally exists only when the Company sells the deliverable separately, on more than a limited basis, at prices within a relatively narrow range. When VSOE
+cannot be established, the Company attempts to establish the selling price of deliverables based on relevant TPE. TPE is determined based on manufacturer prices for similar
+deliverables when sold separately, when possible. When the Company is unable to establish selling price using VSOE or TPE, it uses a BESP for the allocation of arrangement
+consideration. The objective of BESP is to determine the price at which the Company would transact a sale if the product or service was sold on a stand-alone basis. BESP is
+generally used for offerings that are not typically sold on a stand-alone basis or for new or highly customized offerings. The Company determines BESP for a product or service by
+considering multiple factors including, but not limited to the price list established by its management which is typically based on general pricing practices and targeted gross margin of products and services sold; and
+analysis of pricing history of new arrangements, including multiple element and stand-alone transactions.             54 In accordance with the guidance of ASC 605-25, when the Company enters into revenue arrangements with multiple deliverables the Company allocates arrangement
+consideration, including activation fees, among the 8x8 IP telephones and subscriber services based on their relative selling prices. Arrangement consideration allocated to the IP
+telephones that is fixed or determinable and that is not contingent on future performance or future deliverables is recognized as product revenues
+during the period of the sale less
+the allowance for estimated returns during the 30-day trial period. Arrangement consideration allocated to subscriber services that is fixed or determinable and that is not contingent
+on future performance or future deliverables is recognized ratably as service revenues as the related services are provided, which is generally over the initial contract term.
+DEFERRED COST OF GOODS SOLD
+Deferred cost of goods sold represents the cost of products sold for which the end customer or distributor has a right of return. The cost of the products sold is
+recognized contemporaneously with the recognition of revenue, when the subscriber has accepted the service.
+CASH, CASH EQUIVALENTS AND INVESTMENTS
+The Company considers all highly liquid investments with an original maturity of three months or less to be cash equivalents. Management determines the appropriate
+categorization of its investments at the time of purchase and reevaluates the classification at each reporting date. The cost of the Company investments is determined based upon
+specific identification.
+The Company investments are comprised of mutual funds, commercial paper, corporate debt, municipal securities, asset backed securities, mortgage backed securities,
+international government securities, certificates of deposit and money market funds. At March 31, 2015 and 2014, all investments were classified as available-for-sale and reported
+at fair value, based either upon quoted prices in active markets, quoted prices in less active markets,or quoted market prices for similar investments, with unrealized gains
+and losses, net of related tax, if any, included in other comprehensive income loss and disclosed as a separate component of consolidated stockholders' equity. Realized gains and losses
+on sales of all such investments are reported within the caption of other income, net in the consolidated statements of income and computed using the specific identification method.
+The Company classifies its investments as current based on the nature of the investments and their availability for use in current operations. The Company investments in
+marketable securities are monitored on a periodic basis for impairment. In the event that the carrying value of an investment exceeds its fair value and the decline in value is
+determined to be other-than-temporary, an impairment charge is recorded and a new cost basis for the investment is established. These available-for-sale investments are primarily
+held in the custody of a major financial institution. 
+ACCOUNTS RECEIVABLE ALLOWANCE
+The Company estimates the amount of uncollectible accounts receivable at the end of each reporting period based on the aging of the receivable balance, current and
+historical customer trends, and communications with its customers. Amounts are written off only after considerable collection efforts have been made and the amounts are
+determined to be uncollectible. 
+INVENTORY
+Inventory is stated at the lower of standard cost, which approximates actual cost using the first-in, first-out method, or market. Any write-down of inventory to the lower
+of cost or market at the close of a fiscal period creates a new cost basis that subsequently would not be marked up based on changes in underlying facts and circumstances. On an
+on-going basis, the Company evaluates inventory for obsolescence and slow-moving items. This evaluation includes analysis of sales levels, sales projections, and purchases by
+item, as well as raw material usage related to the Company manufacturing facilities. If the Company review indicates a reduction in utility below carrying value, it reduces
+inventory to a new cost basis. If future demand or market conditions are different than the Company current estimates, an inventory adjustment may be required, and would be
+reflected in cost of goods sold in the period the revision is made. 
+PROPERTY AND EQUIPMENT
+Property and equipment are stated at cost less accumulated depreciation and amortization. Depreciation and amortization are computed using the straight-line method.
+Estimated useful lives of three years are used for equipment and software and five years for furniture and fixtures. Amortization of leasehold improvements is computed using the
+shorter of the remaining facility lease term or the estimated useful life of the improvements.             55 Maintenance, repairs and ordinary replacements are charged to expense. Expenditures for improvements that extend the physical or economic life of the
+property are capitalized. Gains or losses on the disposition of property and equipment are recorded in the Consolidated Statements of Income. 
+Construction in progress primarily relates to costs to acquire or internally develop software for internal use not fully completed as of March 31, 2015. ACCOUNTING FOR LONG-LIVED ASSETS
+The Company reviews the recoverability of its long-lived assets, such as property and equipment, definite lived intangibles or capitalized software, when events or changes in circumstances occur
+that indicate that the carrying value of the asset or asset group may not be recoverable. Examples of such events could include a significant disposal of a portion of such assets, an
+adverse change in the market involving the business employing the related asset or a significant change in the operation or use of an asset. The assessment of possible impairment
+is based on the Company ability to recover the carrying value of the asset or asset group from the expected future pre-tax cash flows undiscounted and without interest charges
+of the related operations. If these cash flows are less than the carrying value of such asset, an impairment loss is recognized for the difference between estimated fair value and
+carrying value. The measurement of impairment requires management to estimate future cash flows and the fair value of long-lived assets.
+No such charges were recorded in the periods presented. 
+GOODWILL AND OTHER INTANGIBLE ASSETS
+Goodwill and intangible assets with indefinite useful lives are not amortized. Goodwill represents the excess fair value of consideration transferred over the fair value of net
+assets acquired in business combinations. The carrying value of goodwill and indefinite lived intangible assets are not amortized, but are tested annually for impairment and more
+often if there is an indicator of impairment. The Company has determined that it has two reporting
+units, and allocates goodwill to the reporting units for the purposes of the annual test for impairment. The Company annual goodwill impairment test is performed on January 1 each year. No goodwill impairment charges were recorded in the periods presented.
+Intangible assets with finite useful lives are amortized on a straight-line basis over the periods benefited. Amortization expense for the customer relationship intangible asset is
+included in sales and marketing expenses. Amortization expense for technology is included in cost of service revenue. 
+WARRANTY EXPENSE
+The Company accrues for estimated product warranty cost upon revenue recognition. Accruals for product warranties are calculated based on the Company historical
+warranty experience adjusted for any specific requirements.
+RESEARCH, DEVELOPMENT AND SOFTWARE COSTS
+The Company accounts for software to be sold or otherwise marketed in accordance with ASC 985-20, Costs of Software to be Sold, Leased or Marketed
+ASC 985-20 which requires capitalization of certain software development costs subsequent to the establishment of technological feasibility. The Company defines
+establishment of technological feasibility as the completion of a working model. Software development costs for software to be sold or otherwise marketed incurred prior to the
+establishment of technological feasibility are included in research and development and are expensed as incurred. Software development costs incurred subsequent to the
+establishment of technological feasibility through the period of general market availability of the product are capitalized, if material.
+In fiscal 2015 and 2014, the Company capitalized approximately $0 and $08 million, respectively, of software development costs in accordance with ASC 985-20. At March 31,
+2015 and 2014, total capitalized software development costs included in other long-term assets was approximately $10 million, and accumulated amortization costs related to
+capitalized software was approximately $05 million and $01 million, respectively. 
+The Company accounts for computer software developed or obtained for internal use in accordance with ASC 350-40, Internal Use Software ASC 350-40,
+which requires capitalization of certain software development costs incurred during the application development stage. In fiscal 2015, the Company capitalized $15 million in
+accordance with ASC 350-40, of which $08 million is classified as property and equipment and $07 million is classified as long-term assets. In fiscal 2014, no such costs were
+capitalized. At March 31, 2015, the projects had not yet been placed into service, and accordingly no amortization has been recognized.
+56 ADVERTISING COSTS
+Advertising costs are expensed as incurred and were $68 million, $73 million and $65 million for the years ended March 31, 2015, 2014 and 2013, respectively. FOREIGN CURRENCY TRANSLATION
+The Company has determined that the functional currency of its UK foreign subsidiary is the subsidiary local currency, the British Pound Sterling, which the Company
+believes most appropriately reflects the current economic facts and circumstances of the UK subsidiary operations. The assets and liabilities of the subsidiary are translated at the
+applicable exchange rate as of the end of the balance sheet period and revenue and expenses are translated at an average rate over the period presented. Resulting currency
+translation adjustments are recorded as a component of accumulated other comprehensive income or loss within the stockholder equity in the consolidated balance sheets.
+BUSINESS SEGMENTS
+The Company has one reportable operating segment. The Company chief operating decision makers, the Chief Executive Officer, Chief Financial Officer, and Chief Technology Officer,
+evaluate performance of the Company and makes decisions regarding allocation of resources based on total Company results see Note 12. SUBSCRIBER ACQUISITION COSTS
+Subscriber acquisition costs are expensed as incurred and include the advertising, marketing, promotions, commissions, rebates and equipment subsidy costs
+associated with the Company efforts to acquire new subscribers.
+INCOME TAXES
+Income taxes are accounted for using the asset and liability approach. Under the asset and liability approach, a current tax liability or asset is recognized for the
+estimated taxes payable or refundable on tax returns for the current year. A deferred tax liability or asset is recognized for the estimated future tax effects attributed to temporary
+differences and carryforwards. If necessary, the deferred tax assets are reduced by the amount of benefits that, based on available evidence, is more likely than not expected to be
+realized. 
+CONCENTRATIONS
+Financial instruments that potentially subject the Company to significant concentrations of credit risk consist principally of cash and cash equivalents, investments and
+trade accounts receivable. The Company has cash equivalents and investment policies that limit the amount of credit exposure to any one financial institution and restrict placement
+of these funds to financial institutions evaluated as highly credit-worthy. The Company has not experienced any material losses relating to its investment instruments. 
+The Company sells its products to business customers and distributors. The Company performs ongoing credit evaluations of its customers' financial condition and generally
+does not require collateral from its customers.
+At March 31, 2015 and 2014, no customer accounted for more than 10% of accounts receivable. 
+The Company outsources the manufacturing of its hardware products to independent contract manufacturers. The inability of any contract manufacturer to fulfill supply
+requirements of the Company could materially impact future operating results, financial position or cash flows. If any of these contract manufacturers fail to perform on their
+obligations to the Company, such failure to fulfill supply requirements of the Company could materially impact future operating results, financial position and cash flows.
+The Company also relies primarily on third party network service providers to provide telephone numbers and PSTN call termination and origination services for its customers. If
+these service providers failed to perform their obligations to the Company, such failure could materially impact future operating results, financial position and cash flows.             57 FAIR VALUE OF FINANCIAL INSTRUMENTS
+The Company defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at
+the measurement date. When determining the fair value measurements for assets and liabilities required or permitted to be recorded at fair value, the Company considers the
+principal market or the most advantageous market in which it would transact.
+The accounting guidance for fair value measurement requires the Company to maximize the use of observable inputs and minimize the use of unobservable inputs when
+measuring fair value. Observable inputs are inputs that reflect the assumptions market participants would use in valuing the asset or liability and are developed based on market
+data obtained from sources independent of the Company. Unobservable inputs are inputs that reflect the Company assumptions about the factors that market participants would
+use in valuing the asset or liability developed based on the best information available in the circumstances.
+The standard establishes a fair value hierarchy based on the level of independent, objective evidence surrounding the inputs used to measure fair value by requiring that the
+most observable inputs be used when available. A financial instrument categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the
+fair value measurement. The fair value hierarchy is as follows Level 1 applies to assets or liabilities for which there are quoted prices in active markets
+for identical assets or liabilities that the Company has the ability to access at the measurement date.
+Level 2 applies to assets or liabilities for which there are inputs other than quoted prices
+included in Level 1 that are observable for the asset or liability, either directly or indirectly, such as quoted prices for similar assets or liabilities in active markets; quoted prices for
+identical assets or liabilities in markets with insufficient volume or infrequent transactions less active markets.
+Level 3 applies to assets or liabilities for which fair value is derived from valuation
+techniques in which one or more significant inputs are unobservable, including the Company own assumptions. The estimated fair value of financial instruments is determined by the Company using available market information and valuation methodologies considered to be appropriate.
+The carrying amounts of the Company cash and cash equivalents, accounts receivable and accounts payable approximate their fair values due to their short maturities. The
+Company investments are carried at fair value.
+ACCOUNTING FOR STOCK-BASED COMPENSATION
+The Company accounts for its employee stock options, stock purchase rights, restricted stock units and restricted performance stock units granted
+under the 1996 Stock Plan, 1996 Director Option Plan, the 2006 Stock Plan, the 2003 Contactual Plan, the 2012 Equity Incentive Plan, the
+2013 New Employee Inducement Incentive Plan and stock purchase rights under the 1996 Employee Stock Purchase Plan collectively Equity
+Compensation Plans under the provisions of ASC 718 - Stock Compensation. Under the provisions of ASC 718, stock-based compensation cost is measured at the
+grant date, based on the estimated fair value of the award, and is recognized as an expense over the employee requisite service period generally the vesting period of the equity
+grant, net of estimated forfeitures. 
+To value option grants, stock purchase rights and restricted stock units under the Equity Compensation Plans for stock-based compensation the Company used
+the Black-Scholes option valuation model. Fair value determined using the Black-Scholes option valuation model varies based on assumptions used for the expected stock prices
+volatility, expected life, risk free interest rates and future dividend payments. For fiscal years 2015, 2014 and 2013, the Company used the historical volatility of its stock over a
+period equal to the expected life of the options. The expected life assumptions represent the weighted-average period stock-based awards are expecting to remain outstanding.
+These expected life assumptions were established through the review of historical exercise behavior of stock-based award grants with similar vesting periods. The risk free interest
+is based on the closing market bid yields on actively traded U.S. treasury securities in the over-the-counter market for the expected term equal to the expected term of the option.
+The dividend yield assumption is based on the Company history and expectation of future dividend payout. Compensation expense for stock-based payment awards is recognized
+using the straight-line single-option method and includes the impact of estimated forfeitures.              58 The Company issued restricted performance stock units to a group of executives with vesting that is contingent on both market performance and continued service. For the
+market-based restricted performance stock units issued during the fiscal year ended March 31, 2015 the number of shares of the Company stock to be received at vesting if applicable service requirements are also met will range from 0% to 100% of the target amount
+based total shareholder return TSR, which compares the performance of the price per share of the Company common stock with the NASDAQ Composite Index Index for
+the three performance periods ending March 31, 2016, March 31, 2017 and March 31, 2018, for the fiscal year ended March 31, 2015; and for the three performance periods ending
+March 31, 2015, March 31, 2016 and March 31, 2017 for the fiscal year ended March 31, 2014, in the following manner: where in each such measurement period, 1 if the
+performance return on the price per share of the Company common stock exceeds the performance return on the NASDAQ Composite Index, which shall be determined by
+subtracting the percentage return on the NASDAQ Composite Index from the percentage return on the price per share of the Common Stock, then all of the TSR Performance
+Shares for such measurement period will be deemed earned and will vest; 2 if the performance return on the price per share of Common Stock is more than 50% lower than the
+performance return on the NASDAQ Composite Index, then none of the TSR Performance Shares for such measurement period will be deemed earned and will vest; and 3 if the
+performance return on the price per share of Common Stock is between 0% and 50% lower than the performance return on the NASDAQ Composite Index, then the number of TSR
+Performance Shares deemed earned and vesting for such measurement period will be reduced by 2% for each 1% by which the performance return on the NASDAQ Composite
+Index exceeds the performance return on the Common Stock, and
+the number of shares of the Company stock to be received at vesting will range from 0% or 100%
+of the target amount based on four tranches, with each tranche vesting at the later of a the satisfaction of the applicable service-based vesting requirement for that tranche, and b
+on the first date that the average stock price of the Company common stock for a consecutive 30 trading day period exceeds 150% of the grant date stock price. The minimum
+service vesting requirement for each tranche is as follows Tranche 1: One year following the date of the grant
+Tranche 2: Two years following the date of the grant
+Tranche 3: Three years following the date of the grant
+Tranche 4: Four years following the date of the grant To value these market-based restricted performance stock units under the Equity Compensation Plans, the Company used a Monte Carlo simulation model on the date of
+grant. Fair value determined using the Monte Carlo simulation model varies based on the assumptions used for the expected stock price volatility, the correlation coefficient
+between the Company and the NASDAQ Composite Index, risk free interest rates, and future dividend payments. The Company used the historical volatility and correlation of
+our stock and the Index over a period equal to the remaining performance period as of the grant date. The risk-free interest rate was based on the closing market bid yields on
+actively traded U.S. treasury securities in the over-the-counter market for the expected term equal to the remaining performance period as of the grant date. The dividend yield
+assumption was based on our history and expectation of future dividend payout. Compensation expense for restricted stock units with performance and market conditions is
+recognized over the requisite service period using the straight-line method on a tranche by tranche basis and includes the impact of estimated forfeitures.
+In October 2013, the board of directors approved the modification of unvested stock options to purchase 74,479 shares of common stock and unvested stock purchase rights
+totaling 37,000 shares of common stock held by the Company president upon his resignation. The options held by the Company president upon his resignation, taken as a whole,
+had a weighted average exercise price of $405 per share and range from $272 to $587 per share, and a weighted average remaining vesting term of 05 years. Approximately $11
+million of the $76 million of stock-based compensation charge in fiscal year 2014 applied to the options held by the former president of the Company and was recorded in general
+and administrative expenses.              59 COMPREHENSIVE LOSS INCOME
+Comprehensive loss income, as defined, includes all changes in equity net assets during a period from non-owner sources. The difference between net income and
+comprehensive loss income is due to foreign currency translation adjustments and unrealized gains or losses on investments classified as available-for-sale. NET INCOME PER SHARE 
+Basic net income per share is computed by dividing net income available to common stockholders numerator by the weighted average number of vested, unrestricted
+common shares outstanding during the period denominator. Diluted net income per share is computed on the basis of the weighted average number of shares of common stock
+plus the effect of dilutive potential common shares outstanding during the period using the treasury stock method. Dilutive potential common shares include outstanding stock
+options and employee restricted purchase rights. 
+DEFERRED RENT
+In April 2012, the Company entered into an 87-month lease agreement for its new headquarters. Under the terms of the lease agreement the Company received a three month rent holiday from rental payments; 
+base rent is $130,821 for the 15 months after the rent holiday; and 
+rent expense increases 3% each year thereafter. 
+In the second quarter of fiscal 2013, the Company received a $17 million allowance for reimbursement for the cost of tenant improvements that the Company included in cash
+flows from operating activities. In accordance with the guidance in ASC 840-20, Leases, the Company accounts for its headquarters facility operating lease as follows:
+Rent Holidays. The Company recognizes the related rent expense on a straight-line basis at the earlier of the first rent payment or the date of possession of the leased
+property. The difference between the amounts charged to expense and the rent paid is recorded as deferred lease incentives and amortized over the lease term.
+Rent Escalations. The Company recognizes escalating rent provisions on a straight-line basis over the lease term. The difference between the amounts charged to
+expense and the rent paid is recorded as deferred lease incentives and amortized over the lease term.
+Tenant Improvement Allowance. The tenant improvement allowance is deferred and amortized on a straight-line basis over the life of the lease as a reduction to rent
+expense.
+At March 31, 2015, total deferred rent included in other accrued liabilities and non-current liabilities was $03 million and $13 million, respectively. At March 31, 2014, total
+deferred rent included in other accrued liabilities and non-current liabilities was $02 million and $16 million, respectively.
+RECENT ACCOUNTING PRONOUNCEMENTS
+In April 2014, the FASB issued Accounting Standards Update ASU 2014-08, Presentation of Financial Statements Topic 205 and Property,
+Plant, and Equipment Topic 360: Reporting Discontinued Operations and Disclosures of Disposals of Components of an Entity.
+This ASU changes the requirements for reporting discontinued operations in FASB ASU 205-20, such that a
+disposal of a component of an entity or a group of components of an entity is required to be reported in discontinued operations if the disposal
+represents a strategic shift that has or will have a major effect on an entity operations and financial results. This ASU requires an entity to
+present, for each comparative period, the assets and liabilities of a disposal group that includes a discontinued operation separately in the asset and liability sections, respectively, of
+the statement of financial position, as well as additional disclosures about discontinued operations. Additionally, the ASU requires disclosures
+about a disposal of an individually significant component of an entity that does not qualify for discontinued operations presentation in the financial statements and expands the
+disclosures about an entity significant continuing involvement with a discontinued operation. The accounting update is effective for annual periods beginning on or after December 15, 2014.
+Early adoption is permitted but only for disposals that have not been reported in financial statements previously issued. The adoption is not expected to have a material impact
+on the Company results of operations, cash flows or financial position.             60 In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers Topic 606 and the IASB has issued IFRS 15, Revenue
+from Contracts with Customers. The issuance of these documents completes the joint effort by the FASB and the IASB to improve financial reporting by creating common
+revenue recognition guidance for U.S. GAAP and IFRS. The new guidance affects any entity that either enters into contracts with customers to transfer goods or services or enters
+into contracts for the transfer of nonfinancial assets unless those contracts are within the scope of other standards. This ASU will supersede the revenue recognition requirements in
+Topic 605, Revenue Recognition, and most industry-specific guidance.  For public entities, the amendments are effective for annual reporting periods
+beginning after December 15, 2016, including interim periods within that reporting period. Early application is not permitted. The Company is currently assessing the impact of
+this pronouncement to its consolidated financial statements.
+In June 2014, the FASB issued ASU 2014-12, Accounting for Share-Based Payments When the Terms of an Award Provide That a
+Performance Target Could Be Achieved after the Requisite Service Period. This ASU requires that a performance target that affects vesting and could be achieved after the
+requisite service period be treated as a performance condition. A reporting entity should apply existing guidance in ASC 718, Compensation-Stock
+Compensation, as it relates to such awards. ASU 2014-12 is effective for us in our first quarter of fiscal 2017 with early adoption permitted using either of two methods:
+i prospective to all awards granted or modified after the effective date; or ii retrospective to all awards with performance targets that are outstanding as of the
+beginning of the earliest annual period presented in the financial statements and to all new or modified awards thereafter, with the cumulative effect of applying ASU 2014-12 as an
+adjustment to the opening retained earnings balance as of the beginning of the earliest annual period presented in the financial statements. The Company is currently assessing the
+impact of this pronouncement to its consolidated financial statements.
+In April 2015, the FASB issued ASU 2015-05, Intangibles -Goodwill and Other -Internal-Use Software Subtopic 350-40: Customer Accounting for Fees Paid in a
+Cloud Computing Arrangement. This ASU provide guidance to customers about whether a cloud computing arrangement includes a software license. For public business
+entities, the amendments will be effective for annual periods, including interim periods within those annual periods, beginning after December 15, 2015. The Company is currently
+assessing the impact of this pronouncement to its consolidated financial statements.
+61 2. CASH, CASH EQUIVALENTS AND INVESTMENTS
+Cash, cash equivalents, and available-for-sale investments were in thousands Gross Gross Cash and Amortized Unrealized Unrealized Estimated Cash Short-Term As of March 31, 2015 Costs Gain Loss Fair Value Equivalents Investments   Cash         24,734                      24,734    24,734          Level 1   Money market funds         28,376                      28,376    28,376            Mutual funds          2,000               107     1,893           1,893    Subtotal         55,110               107    55,003    53,110     1,893 Level 2   Commercial paper          9,043         1              9,044              9,044   Corporate debt         75,284        57       10    75,331             75,331   Municipal securities          5,435         2        1     5,436              5,436   Asset backed securities         21,503         4        5    21,502             21,502   Mortgage backed securities          5,822                52     5,770              5,770   Agency bond          4,201         3              4,204              4,204   International government securities            800         4                804                804    Subtotal        122,088        71       68   122,091            122,091    Total        177,198        71      175   177,094    53,110   123,984              61 Gross Gross Cash and Amortized Unrealized Unrealized Estimated Cash Short-Term Long-Term As of March 31, 2014 Costs Gain Loss Fair Value Equivalents Investments Investments   Cash         26,548                      26,548    26,548                   Level 1  Money market funds         32,611                      32,611    32,611                     Mutual funds          1,964                55     1,909              1,909             Subtotal         61,123                55    61,068    59,159     1,909          Level 2   Commercial paper         30,374         5             30,379             30,379            Corporate debt         63,621        35       39    63,617             14,893    48,724   Municipal securities          5,435         5        1     5,439                       5,439   Asset backed securities         17,049         6        1    17,054                      17,054   International government securities            800         4                804                         804    Subtotal        117,279        55       41   117,293             45,272    72,021    Total        178,402        55       96   178,361    59,159    47,181    72,021 Contractual maturities of investments as of March 31, 2015 are set forth below in thousands Estimated Fair Value Due within one year         69,502 Due after one year         54,482    Total        123,984 3. INVENTORIES
+Components of inventories were as follows March 31 2015 2014 in thousands  Work-in-process       169        23  Finished goods       535       788       704       811 4. PROPERTY AND EQUIPMENT
+Property and equipment consisted of the following March 31 2015 2014 in thousands  Machinery and computer equipment    16,099     9,557  Furniture and fixtures       759       505  Licensed software     4,696     3,517  Leasehold improvements     3,812     3,468  Construction in progress       942             26,308    17,047 Less: accumulated depreciation and amortization    16,060     9,336    10,248     7,711              62 5. INTANGIBLE ASSETS
+The carrying value of intangible assets consisted of the following in thousands March 31, 2015 March 31, 2014 Gross Gross Carrying Accumulated Net Carrying Carrying Accumulated Net Carrying Amount Amortization Amount Amount Amortization Amount Technology     8,242     2,905     5,337     8,242     2,080     6,162 Customer relationships     9,686     3,720     5,966     9,686     1,710     7,976 Trade names/domains       957                957       957                957    Total acquired identifiable       intangible assets    18,885     6,625    12,260    18,885     3,790    15,095 At March 31, 2015, annual amortization of intangible assets, based upon our existing intangible assets and current useful lives, is estimated to be the following in thousands: Amount 2016          2,159 2017          2,152 2018          1,904 2019          1,658 2020          1,658   Thereafter          1,772   Total         11,303 6. GOODWILL
+The following table provides a summary of the changes in the carrying amounts of goodwill in thousands Balance as of March 31, 2013         25,150    Increase in goodwill related to acquisitions         14,155    Decrease in goodwill related to disposal of discontinued operations          1,210    Foreign currency translation            366 Balance as of March 31, 2014         38,461    Foreign currency translation          1,574 Balance as of March 31, 2015         36,887              63 7. COMMITMENTS AND CONTINGENCIES
+Guarantees
+Indemnifications
+In the normal course of business, the Company may agree to indemnify other parties, including customers, lessors and parties to other transactions with the Company, with
+respect to certain matters such as breaches of representations or covenants or intellectual property infringement or other claims made by third parties. These agreements may limit
+the time within which an indemnification claim can be made and the amount of the claim. In addition, the Company has entered into indemnification agreements with its officers and
+directors.
+It is not possible to determine the maximum potential amount of the Company exposure under these indemnification agreements due to the limited history of prior
+indemnification claims and the unique facts and circumstances involved in each particular agreement. Historically, payments made by the Company under these agreements have
+not had a material impact on the Company operating results, financial position or cash flows. Under some of these agreements, however, the Company potential indemnification
+liability might not have a contractual limit.
+Product Warranties
+The Company accrues for the estimated costs that may be incurred under its product warranties upon revenue recognition. Changes in the Company product warranty
+liability, which is included in cost of product revenues in the consolidated statements of income were as follows in thousands: Years Ended March 31 2015 2014 2013 Balance at beginning of year            660       452       387   Accruals for warranties            185       953       611   Settlements           364      745      546   Changes in estimate            142                   Balance at end of year            339       660       452 Leases
+The Company leases its headquarters facility in San Jose, California under an operating lease agreement that expires in October 2019. The lease is an industrial net lease
+with monthly base rent of $130,821 for the first 15 months with a 3% increase each year thereafter, and requires us to pay property taxes, utilities and normal maintenance costs. 
+The Company leases its UK headquarters in Aylesbury UK under operating lease agreements that expires in March 2017.
+The lease was amended in September 2014 for additional space. The lease has a base monthly rent of approximately $7,800 until March 2015, rising to
+approximately $8,800 thereafter, and requires us to pay property taxes, service charges, utilities and normal maintenance costs.
+The Company also leases office space in London UK under an operating lease agreement that expires in April 2019.  The lease has a base monthly rent of approximately
+$6,700 until March 2016, rising to approximately $7,100 thereafter.
+At March 31, 2015, future minimum annual lease payments under non-cancelable operating leases were as follows in thousands: Year ending March 31  2016          1,913  2017          1,977  2018          1,872  2019          1,926  2020 and Thereafter          1,100 Total          8,788 Rent expense for the years ended March 31, 2015, 2014 and 2013 was $18 million, $15 million and $12 million, respectively.              64 Capital Leases
+The Company has non-cancelable capital lease agreements for office equipment bearing interest at various rates. At March 31, 2015, future minimum annual lease
+payments under non-cancelable capital leases were as follows in thousands Year ending March 31  2016             29 Total minimum payments             29 Less: Amount representing interest             4             25 Less: Short-term portion of capital lease obligations            25 Long-term portion of capital lease obligations               Capital leases included in office equipment were approximately $05 million and $06 million at March 31, 2015 and 2014, respectively. Total accumulated amortization was
+approximately $03 million and $04 million at March 31, 2015 and 2014, respectively. Amortization expense for assets recorded under capital leases is included in depreciation
+expense.
+Minimum Third Party Customer Support Commitments
+In the third quarter of 2010, the Company amended its contract with one of its third party customer support vendors containing a minimum monthly commitment of
+approximately $04 million effective April 1, 2010. The agreement requires a 150-day notice to terminate. At March 31, 2015, the total remaining obligation under the contract was
+$22 million.
+Minimum Third Party Network Service Provider Commitments
+The Company entered into contracts with multiple vendors for third party network service which expire on various dates in fiscal 2016 through 2018.
+At March 31, 2015, future minimum annual payments under these third party network service contracts were as follows in thousands: Year ending March 31  2016          3,014  2017          2,452  2018            891        Total minimum payments          6,357 Legal Proceedings
+The Company, from time to time, is involved in various legal claims or litigation, including patent infringement claims that can arise in the normal course
+of the Company operations. Pending or future litigation could be costly, could cause the diversion of management attention and could upon resolution, have a material adverse
+effect on the Company business, results of operations, financial condition and cash flows.
+On February 22, 2011, the Company was named a defendant in a lawsuit, Bear Creek Technologies, Inc. v. 8x8, Inc.et al., along with 20 other defendants. On
+August 17, 2011, the suit was dismissed without prejudice as to the Company under Rule 21 of the Federal Rules of Civil Procedure. On August 17, 2011, Bear Creek Technologies,
+Inc. refiled its suit against the Company in the United States District Court for the District of Delaware. Further, on November 28, 2012, the U.S. Patent Trademark Office
+initiated a Reexamination proceeding with a Reexamination Declaration explaining that there is a substantial new question of patentability, based on four separate grounds and
+affecting each claim of the patent which is the basis for the complaint filed against us. On March 26, 2013, the USPTO issued a first Office Action in the Reexamination, with
+all claims of the '722 patent being rejected on each of the four separate grounds raised in the Request for Reexamination. On July 10, 2013, the Company filed an
+informational pleading in support of and joining a motion to stay the proceeding in the District Court; the District Court granted the motion on July 17, 2013, based on the possibility
+that at least one of the USPTO rejections will be upheld and considering the USPTO conclusion that Bear Creek patent suffers from a defective claim for priority. On
+March 24, 2014, the USPTO issued another Office Action in which the rejections of the claims were maintained. On August 15, 2014, the USPTO issued a Right of Appeal
+Notice, as the USPTO maintained all rejections of the patent claims.              65 On September 15, 2014, Bear Creek Technologies, Inc. filed a Notice of Appeal of this decision with the
+Patent Trial and Appeal Board. The case is currently on appeal. The Company believes that it has meritorious defenses to these claims and is presenting a vigorous defense, but we
+cannot estimate potential liability in this case at this early stage of litigation.
+On March 31, 2014, the Company was named as a defendant in a lawsuit, CallWave Communications LLC CallWave v. 8x8, Inc. CallWave also sued Fonality Inc. on
+March 31, 2014, and previously had sued other companies including Verizon, Google, T-Mobile, and ATT. The Company answered the complaint and filed counterclaims in
+response thereto. Thereafter, CallWave made numerous demands that 8x8 pay CallWave cash consideration for settling the suit. On April 21, 2015, the Company filed
+papers to present numerous counterclaims including patent misuse. On or about May 26, 2015, the parties concluded negotiations regarding CallWave cash-payment
+demands and agreed to settle all claims in the suit and potential future claims under confidential terms which await finalization by filing dismissal papers with the
+Court. As part of the settlement, the Company agreed to pay CallWave in a manner which the Company recognized as general and administrative expense in the
+statements of income as of March 31, 2015, as the Company determined the settlement consideration to be commensurate with a loss contingency, and the amount was
+probable and estimable. At March 31, 2015, the Company accrued a loss contingency related to this litigation and to other patent-related issues in current other
+accrued liabilities in the consolidated balance sheets.
+On December 31, 2014, the Company was named as a defendant in a lawsuit, Adaptive Data, LLC v. 8x8, Inc. Adaptive Data, LLC also sued another 36 other
+defendants on December 31, 2014 and another 16 defendants on January 5, 2015 regarding the same patents asserted in our case. Service of process has not yet been effected on the Company. On April 15, 2015, the Company was named as a defendant in a lawsuit, UrgenSync, LLC v. 8x8, Inc. UrgenSync, LLC also sued another 14 other defendants on the
+same day regarding the same patent asserted in the complaint filed against 8x8. 
+On April 16, 2015, the Company was named as a defendant in a lawsuit, Slocumb Law Firm v. 8x8, Inc. The Slocumb Law Firm alleges that it purchased certain business
+services from the Company that did not perform as advertised or expected, asserts causes of actions for fraud, breach of contract, violations of the Alabama Deceptive Trade
+Practices Act and negligence. On May 7, 2015, the Company filed a motion with the Alabama Federal Court seeking an order compelling the Slocumb Law Firm to arbitrate its
+claims against the Company in Santa Clara County, California pursuant to a clause mandating arbitration of disputes set forth in the terms and conditions to which Slocumb Law
+Firm agreed in connection with its purchase of business services from the Company. No briefing schedule or hearing date for the motion has been set as of this time. Discovery has
+not yet commenced in the case. The Company intends to vigorously defend against Slocumb Law Firm claims.
+State and Municipal Taxes 
+From time to time, the Company has received inquiries from a number of state and municipal taxing agencies with respect to the remittance of taxes. Several jurisdictions currently
+are conducting tax audits of the Company records. The Company collects or has accrued for taxes that it believes are required to be remitted. The amounts that have been
+remitted have historically been within the accruals established by the Company.  
+Regulatory
+VoIP communication services, like the Company, are subject to less regulation at the federal level than traditional telecommunication services and states are preempted
+from regulating such services. Many regulatory actions are underway or are being contemplated by federal and state authorities, including the FCC, and state regulatory agencies.
+The FCC initiated a notice of public rule-making in early 2004 to gather public comment on the appropriate regulatory environment for IP telephony which would include the services
+we offer. In November 2004, the FCC ruled that the VoIP service of a competitor and similar services are jurisdictionally interstate and not subject to state certification, tariffing and
+other legacy telecommunication carrier regulations.  
+The effect of any future laws, regulations and the orders on the Company operations, including, but not limited to, the 8x8 service, cannot be determined. But as a general
+matter, increased regulation and the imposition of additional funding obligations increases the Company costs of providing service that may or may not be recoverable from the
+Company customers which could result in making the Company services less competitive with traditional telecommunications services if the Company increases its retail prices
+or decreases the Company profit margins if it attempts to absorb such costs.              66 8. STOCKHOLDERS' EQUITY
+1996 Stock Plan
+In June 1996, the Company board of directors adopted the 1996 Stock Plan 1996 Plan. A total of 12,035,967 shares were reserved for issuance under
+the 1996 Plan prior to its expiration in June 2006. As of March, 31, 2015, there are no shares available for future grants under the 1996 Plan. The 1996 Plan provided for granting
+incentive stock options to employees and nonstatutory stock options to employees, directors or consultants. The stock option price of incentive stock options granted could not be
+less than the determined fair market value at the date of grant. Options generally vested over four years and had a ten-year term. 
+1996 Director Option Plan
+The Company 1996 Director Option Plan Director Plan was adopted in June 1996 and became effective in July 1997. A total of 1,650,000 shares of
+common stock were reserved for issuance under the Director Plan prior to its expiration in June 2006. As of March 31, 2015 there are no shares available for future grants under the
+Director Plan. The Director Plan provided for both discretionary and periodic grants of nonstatutory stock options to non-employee directors of the Company the Outside
+Directors. The exercise price per share of all options granted under the Director Plan was equal to the fair market value of a share of the Company common stock on the
+date of grant. Options generally vested over a period of four years. Options granted to Outside Directors under the Director Plan had a ten year term, or shorter upon termination of
+an Outside Director status as a director. 
+2006 Stock Plan
+In May 2006, the Company board of directors approved the 2006 Stock Plan 2006 Plan. The Company stockholders subsequently adopted the
+2006 Plan in September 2006, and the 2006 Plan became effective in October 2006. The Company reserved 7,000,000 shares of the Company common stock for issuance
+under this plan. As of March 31, 2015, 201,336 shares remained available for future grants under the 2006 Plan. The 2006 Plan provides for granting incentive stock options
+to employees and nonstatutory stock options to employees, directors or consultants. The stock option price of incentive stock options granted may not be less than the fair
+market value on the effective date of the grant. Other types of options and awards under the 2006 Plan may be granted at any price approved by the administrator, which generally
+will be the compensation committee of the board of directors. Options generally vest over four years and expire ten years after grant. In 2009, the 2006 Plan was amended to
+provide for the granting of stock purchase rights. The 2006 Plan expires in May 2016. 
+2003 Contactual Plan
+In the second fiscal quarter of 2012, the Company assumed the Amended and Restated Contactual, Inc. 2003 Stock Option Plan the 2003 Contactual Plan and
+registered an aggregate of 171,974 shares of the Company common stock that may be issued upon the exercise of stock options previously granted under the 2003 Contactual
+Plan and assumed by the Company when it acquired Contactual. No new stock options or other awards can be granted under 2003 Contactual Plan.
+2012 Equity Incentive Plan
+In June 2012, the Company board of directors approved the 2012 Equity Incentive Plan 2012 Plan. The Company stockholders subsequently
+adopted the 2012 Plan in July 2012, and the 2012 Plan became effective in August 2012. The Company reserved 4,100,000 shares of the Company common stock for
+issuance under this plan. In August 2014, the 2012 Plan was amended to allow for an additional 6,800,000 shares reserved for issuance. As of March 31, 2015, 5,957,088 shares
+remained available under the 2012 Plan. The 2012 Plan provides for granting incentive stock options to employees and nonstatutory stock options to employees, directors or
+consultants, and granting of stock appreciation rights, restricted stock, restricted stock units and performance units, qualified performance-based awards and stock grants. The stock
+option price of incentive stock options granted may not be less than the fair market value on the effective date of the grant. Other types of options and awards under the 2012 Plan
+may be granted at any price approved by the administrator, which generally will be the compensation committee of the board of directors. Options, restricted stock and restricted
+stock units generally vest over four years and expire ten years after grant. The 2012 Plan expires in June 2022. 
+2013 New Employee Inducement Incentive Plan
+In September 2013, the Company board of directors approved the 2013 New Employee Inducement Incentive Plan 2013 Plan. The Company
+reserved 1,000,000 shares of the Company common stock for issuance under this plan. In November 2014, the 2013 Plan was amended to allow for an additional 1,200,000
+shares reserved for issuance. As of March 31, 2015, 722,727 shares remained available for future grants under the 2013 Plan. The 2013 Plan provides for granting
+nonstatutory stock options, stock appreciation rights, restricted stock, restricted stock and performance units and stock grants solely to newly hired employees as a material
+inducement to accepting employment with the Company. Options are granted at market value on the grant date under the 2013 Plan, unless determined otherwise at the time of
+grant by the administrator, which generally will be the compensation committee of the board of directors. Options, generally expire ten years after grant. The 2013 Plan expires in
+September 2023.              67 Stock-Based Compensation
+The following table summarizes stock-based compensation expense in thousands Years Ended March 31 2015 2014 2013 Cost of service revenue            692       372       211 Cost of product revenue                                 Research and development          1,495       967       428 Sales and marketing          3,748     2,217     1,363 General and administrative          3,412     4,039       632 Total stock-based compensation expense    related to employee stock options    and employee stock purchases, pre-tax          9,347     7,595     2,634 Tax benefit                                 Stock based compensation expense related to    employee stock options and employee    stock purchases, net of tax          9,347     7,595     2,634 Stock Options, Stock Purchase Right and Restricted Stock Unit Activity
+Stock Option activity under all the Company stock option plans since March 31, 2012, is summarized as follows Weighted Average Exercise Number of Price Shares Per Share Outstanding at March 31, 2012        6,034,335      190    Granted          932,000      580    Exercised         835,246      149    Canceled/Forfeited         139,545      400 Outstanding at March 31, 2013        5,991,544      252    Granted        1,465,400      966    Exercised        1,283,470      275    Canceled/Forfeited         171,092      525 Outstanding at March 31, 2014        6,002,382      414    Granted        1,110,466      729    Exercised        1,326,385      187    Canceled/Forfeited         458,556      606 Outstanding at March 31, 2015        5,327,907      519 Vested and expected to vest at March 31, 2015        5,327,907      519 Exercisable at March 31, 2015        3,243,325      335             68 Stock Purchase Right activity since March 31, 2012 is summarized as follows Weighted Weighted Average Average Grant-Date Remaining Number of Fair Market Contractual Shares Value Term in Years Balance at March 31, 2012        966,400      250         261 Granted        443,436      575 Vested        367,017      214 Forfeited         84,244      289 Balance at March 31, 2013        958,575      411         252 Granted         22,380      969 Vested        392,844      325 Forfeited         98,484      518 Balance at March 31, 2014        489,627      483         193 Granted         31,432      788 Vested        223,360      398 Forfeited         73,864      539 Balance at March 31, 2015        223,835      592         150 Restricted Stock Unit activity since June 22, 2012 is summarized as follows Weighted Weighted Average Number of Average Grant Remaining Contractual Shares Date Fair Value Term in Years Balance at June 22, 2012                      -  Granted         25,000      691 Vested                      -  Forfeited                      -  Balance at March 31, 2013         25,000      691                 247 Granted       1,291,200      911 Vested        133,000      949 Forfeited         48,344      961 Balance at March 31, 2014       1,134,856      900                 200 Granted       1,965,786      668 Vested        187,788      954 Forfeited        214,168      830 Balance at March 31, 2015       2,698,686      733                 188             69 Significant option groups outstanding at March 31, 2015 and related weighted average exercise price, contractual life, and aggregate intrinsic value information for 8x8, Inc. stock option plans are as follows Options Outstanding Options Exercisable Weighted Weighted Weighted Average Average Average Exercise Remaining Aggregate Exercise Aggregate Price Contractual Intrinsic Price Intrinsic Shares Per Share Life Years Value Shares Per Share Value 055 to $ 126  1,095,000      111       29   7,982,430  1,095,000      111       7,982,430 127 to $ 392  1,067,933      163       14    7,233,393  1,064,403      162       7,214,201 425 to $ 686  1,543,322      610       82    3,543,355   622,739      550       1,803,291 752 to $ 974  1,471,652      926       87     156,354   415,871      962           1,083 1097 to $ 1126   150,000     1111       88                45,312     1109                5,327,907     18,915,532  3,243,325      17,001,005 The aggregate intrinsic value in the table above represents the total pre-tax intrinsic value the aggregate difference between the closing stock price of the Company common
+stock on March 31, 2015 and the exercise price for in-the-money options that would have been received by the option holders if all in-the-money options had been exercised on
+March 31, 2015.
+The total intrinsic value of options exercised in the years ended March 31, 2015, 2014 and 2013 was $81 million, $82 million and $33 million, respectively. As of March 31,
+2015, there was $246 million of unamortized stock-based compensation expense related to unvested stock options and awards which is expected to be recognized over a weighted
+average period of 276 years.
+Cash received from option exercises and purchases of shares under the Equity Compensation Plans for the years ended March 31, 2015, 2014 and 2013 were $45 million, $52
+million and $24 million, respectively. The total tax benefit attributable to stock options exercised in the year ended March 31, 2015, 2014 and 2013 was $151,000, $142,000 and
+$49,000, respectively.
+1996 Employee Stock Purchase Plan
+The Company 1996 Stock Purchase Plan Employee Stock Purchase Plan was adopted in June 1996 and became effective upon the closing of the
+Company initial public offering in July 1997. The Company suspended the Employee Stock Purchase Plan in 2003 and reactivated the Employee Stock Purchase Plan in fiscal
+2005. Under the Employee Stock Purchase Plan, 500,000 shares of common stock were initially reserved for issuance. At the start of each fiscal year, the number of shares of
+common stock subject to the Employee Stock Purchase Plan increases so that 500,000 shares remain available for issuance. During fiscal 2015, 2014 and 2013, 306,248, 282,062
+and 301,303 shares, respectively, were issued under the Employee Stock Purchase Plan. In May 2006, the Company board of directors approved a ten-year extension of the
+Employee Stock Purchase Plan. Stockholders approved a ten-year extension of the Employee Stock Purchase Plan at the 2006 Annual Meeting of Stockholders held September
+18, 2006. The Employee Stock Purchase Plan is effective until 2017.
+The Employee Stock Purchase Plan permits eligible employees to purchase common stock through payroll deductions at a price equal to 85% of the fair market value of the
+common stock at the beginning of each two year offering period or the end of a six month purchase period, whichever is lower. When the Employee Stock Purchase Plan was
+reinstated in fiscal 2005, the offering period was reduced from two years to one year. The contribution amount may not exceed ten percent of an employee base compensation,
+including commissions, but not including bonuses and overtime. In the event of a merger of the Company with or into another corporation or the sale of all or substantially all of the
+assets of the Company, the Employee Stock Purchase Plan provides that a new exercise date will be set for each option under the plan which exercise date will occur before the
+date of the merger or asset sale.              70 Assumptions Used to Calculate Stock-Based Compensation Expense
+The fair value of each of the Company option grants has been estimated on the date of grant using the Black-Scholes pricing model with the following assumptions Years Ended March 31 2015 2014 2013 Expected volatility 61 64 70 Expected dividend yield                                           Risk-free interest rate 14% to 19 07% to 22 05% to 08 Weighted average expected option term 60 years 61 years 53 years Weighted average fair value of options granted           414      570                 332 The estimated fair value of stock purchase rights granted under the Employee Stock Purchase Plan was estimated using the Black-Scholes pricing model with the following
+weighted-average assumptions:  Years Ended March 31 2015 2014 2013 Expected volatility 49 40 40 Expected dividend yield                                           Risk-free interest rate 012 009 014 Weighted average expected rights term 080 years 075 years 075 years Weighted average fair value of rights granted           252      283                 178 Stock Repurchases
+In July 2014, the Company board of directors authorized the Company to purchase up to $150million of its common stock from time to time until July
+22, 2015the 2014 Repurchase Plan. Share repurchases, if any, will be funded with available cash. Repurchases under the Repurchase Plan may be made through open
+market purchases at prevailing market prices or in privately negotiated transactions. The timing, volume and nature of share repurchases are subject to market prices and
+conditions, applicable securities laws and other factors, and are at the discretion of the Company management. Share repurchases under the Repurchase Plan may be
+commenced, suspended or discontinued at any time. There was no remaining authorized repurchase amount at March 31, 2015.
+In February, 2015 the Company board of directors authorized the Company to purchase up to $200million of its common stock from time to time until July 22,
+2015the 2015 Repurchase Plan with the same conditions as the 2014 Repurchase plan. The remaining authorized repurchase amount at March 31, 2015 was
+approximately $157 million.
+The stock repurchase activity as of March 31, 2015 is summarized as follows: Weighted Average Shares Price Amount Repurchased Per Share Repurchased1 Repurchase of common stock under 2014 Repurchase Plan        1,913,748      782              14,961,177 Repurchase of common stock under 2015 Repurchase Plan          574,467      738               4,239,216 Total        2,488,215              19,200,393 1 Amount excludes commission fees.             71 The total purchase prices of the common stock repurchased and retired were reflected as a reduction to consolidated stockholders' equity during the period of repurchase.
+In fiscal 2015, 2014 and 2013, the Company also withheld 15,053, 50,400, 73,751, respectively, shares related to tax withholdings on restricted stock awards with a total price of
+$01 million, $05 million, and $04 million, respectively.
+9. INCOME TAXES
+For the years ended March 31, 2015, 2014 and 2013, the Company recorded a provision for income taxes of approximately $28 million, $22 million and $94 million,
+respectively. The provision in each year was attributable to federal and state current and deferred taxes. The components of the consolidated provision for income taxes for
+fiscal 2015, 2014 and 2013 consisted of the following in thousands March 31 Current 2015 2014 2013   Federal             92                               State            457       276                 434   Foreign              1                                 Total current tax provision            550       276                 434 Deferred   Federal          2,602     1,578                7,185   State           363       365                1,780   Foreign                                               Total deferred tax provision          2,239     1,943                8,965    Income tax provision          2,789     2,219                9,399 The Company income from continuing operations before income taxes included $35 million, $08 million and $0 of foreign subsidiary loss for the fiscal years ended March 31, 2015,
+2014 and 2013, respectively.
+Deferred tax assets were comprised of the following in thousands: March 31 Current deferred tax assets 2015 2014   Net operating loss carryforwards     2,179                 333   Inventory valuation        14                  33   Reserves and allowances     2,394                1,791     Net current deferred tax assets     4,587                2,157 Net operating loss carryforwards    44,228               51,598 Research and development and other credit carryforwards     5,414                4,488 Fixed assets and intangibles     1,705               2,819     Net non-current deferred tax assets    47,937               53,267 Valuation allowance     4,901               5,562         Total    47,623               49,862 As of March31, 2015 and 2014, management assessed the realizability of deferred tax assets based on the available evidence, including a history of taxable income and
+estimates of future taxable income. At March 31, 2015, management evaluated the need for a valuation allowance and determined that a valuation allowance of approximately $49
+million was needed. At March 31, 2014, management evaluated the need for a valuation allowance and determined that a valuation allowance of approximately $56 million was
+needed. The net change in the valuation allowance for the years ended March 31, 2015 and 2014 was a decrease of $07 million and an increase of $25 million, respectively.             72 At March 31, 2015, the Company had net operating loss carryforwards for federal and state income tax purposes of approximately $1428 million and $667
+million, respectively, which expire at various dates between 2016 and 2035. The net operating loss carryforwards include approximately $309 million resulting from employee
+exercises of non-qualified stock options or disqualifying dispositions, the tax benefits of which, when realized, will be accounted for as an addition to additional paid-in capital rather
+than as a reduction of the provision for income taxes. In addition, at March 31, 2015, the Company had research and development credit carryforwards for federal and California tax
+reporting purposes of approximately $33 million and $51 million, respectively. The federal income tax credit carryforwards will expire at various dates between 2021 and 2035,
+while the California income tax credits will carry forward indefinitely. A reconciliation of the Company provision for income taxes to the amounts computed using the statutory U.S.
+federal income tax rate of 34% is as follows in thousands: Years Ended March 31 2015 2014 2013 Tax provision at statutory rate          1,599     1,285                7,768 State income taxes before valuation allowance   net of federal effect            269       196                 822 Research and development credits           725     1,534                385 Change in valuation allowance          1,480     1,264                1,038 Compensation/option differences           331      264                207 Non-deductible compensation            746       605                 403 Acquisition costs                     230                    Expiring CA NOLs          1,484       240                    Foreign loss not benefited          1,192       271                    Other             35       74                 40    Total income tax provision          2,789     2,219                9,399 The Company recognizes the tax benefit from uncertain tax positions if it is more likely than
+not that the tax positions will be sustained on examination by the tax authorities, based on the technical merits of the position. The tax benefit is measured based on the largest
+benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. A reconciliation of the beginning and ending amount of unrecognized tax benefits is as
+follows in thousands Unrecognized Tax Benefits 2015 2014 2013 Balance at beginning of year     2,165                  3,024     2,483 Gross increases - tax position in prior period        27                              73 Gross decreases - tax position in prior period                          1,081          Gross increases - tax positions related to the current year       228                    222       468 Settlements                                         Lapse of statute of limitations                                         Balance at end of year     2,420                  2,165     3,024 At March 31, 2015, the company had a liability for unrecognized tax benefits of $24 million, all of which, if recognized, would decrease the company effective tax rate.
+The Company does not expect its unrecognized tax benefits to change significantly over the next 12 months.
+The Company files U.S. federal and state income tax returns in jurisdictions with varying statutes of limitations.  The Company has not been under examination by income tax
+authorities in federal, state or other foreign jurisdictions. The 1996 through fiscal 2015 tax years generally remain subject to examination by federal and most state tax authorities.
+The Company policy for recording interest and penalties associated with tax examinations is to record such items as a component of operating expense income before taxes.
+During the fiscal year ended March 31, 2015, 2014 and 2013, the Company did not recognize any interest or penalties related to unrecognized tax benefits.              73 Utilization of the Company net operating loss and tax credit carryforwards can become subject to a substantial annual limitation due to the ownership change limitations
+provided by Section 382 of the Internal Revenue Code and similar state provisions. Such an annual limitation could result in the expiration or elimination of the net operating loss
+and tax credit carryforwards before utilization. The Company has performed an analysis of its changes in ownership under Section 382 of the Internal Revenue Code. Management
+currently believes that the Section 382 limitation will not limit utilization of the carryforwards prior to their expiration, with the exception of certain acquired loss and tax credit
+carryforwards of Contactual, Inc.
+10. EMPLOYEE BENEFIT PLAN
+401k Savings Plan
+In April 1991, the Company adopted a 401k savings plan the Savings Plan covering substantially all of its U.S. employees. Eligible employees may
+contribute to the Savings Plan from their compensation up to the maximum allowed by the Internal Revenue Service. In January 2007, the Company reactivated the employer
+matching contribution. The matching contribution is 100% of each employee contributions in each year, not to exceed $1,500 per annum. The matching expense in 2015, 2014
+and 2013 was $07 million, $04 million and $03 million, respectively. The Savings Plan does not allow employee contributions to be invested in the Company common stock. 11. NET INCOME PER SHARE
+The following is a reconciliation of the weighted average number of common shares outstanding used in calculating basic and diluted net income per share in thousands,
+except share and per share data Years Ended March 31, 2015 2014 2013 In Thousands, Except Per Share Amounts Numerator Income from continuing operations          1,926     1,598               13,450 Income from discontinued operations, net   of income tax provision                     916                 489 Net income available to common stockholders          1,926     2,514               13,939 Denominator Common shares         89,071    78,310               71,390 Denominator for basic calculation         89,071    78,310               71,390 Employee stock options          2,088     2,927                2,958 Employee restricted purchase rights            493       421                 352 Denominator for diluted calculation         91,652    81,658               74,700 Income per share - continuing operations   Basic           002      002                 019   Diluted           002      002                 018 Income per share - discontinued operations   Basic 000      001                 001   Diluted 000      001                 001 Net income per share    Basic           002      003                 020    Diluted           002      003                 019             74 The following shares attributable to outstanding stock options and restricted stock purchase rights were excluded from the calculation of diluted earnings per share because
+their inclusion would have been antidilutive in thousands: Years Ended March 31 2015 2014 2013 Common stock options          1,812       750                 953 Stock purchase rights             57        18                  16          1,869       768                 969 12. SEGMENT REPORTING
+ASC 280, Segment Reporting, establishes annual and interim reporting standards for an enterprise business segments and related
+disclosures about its products, services, geographic areas and major customers. Under ASC 280, the method for determining what information to report is based upon the way
+management organizes the operating segments within the Company for making operating decisions and assessing financial performance. The Company has one reportable
+operating segment. The Company chief operating decision makers, the Chief Executive Officer, the Chief Financial Officer, and the Chief Technology Officer, evaluate performance of the Company
+and make decisions regarding allocation of resources based on total Company results. 
+The Company revenue distribution by geographic region based upon the destination of shipments and the customer service address
+was as follows:  Years Ended March 31 2015 2014 2013 Americas principally US 92 97 99 Europe 7 2 0 Asia Pacific 1 1 1 100 100 100 Geographic area data is based upon the location of the property and equipment and is as follows in thousands March 31 2015 2014 North America     8,348                6,305 Europe     1,411                1,087 Asia-Pacific       489                 319    10,248                7,711 13. ACQUISITION
+Voicenet Solutions Limited
+On November 11, 2013, the Company entered into a share purchase agreement with the shareholders and optionholders of Voicenet Solutions Limited Voicenet, a
+provider of cloud communications and collaboration services in the United Kingdom the Transaction. The Company completed the acquisition of Voicenet on November 29, 2013.
+The Company purchased all of the outstanding shares of Voicenet for total consideration transferred of $193 million; $30 million was placed in escrow and eligible for release to the
+Voicenet shareholders and optionholders in installments on the first and second anniversaries of the closing date. The shares of Voicenet are held by a wholly-owned subsidiary of
+8x8 recently formed in the United Kingdom, such that Voicenet is an indirect, wholly-owned subsidiary of 8x8. 
+75 The Company recorded the acquired tangible and identifiable intangible assets and liabilities assumed based on their estimated fair values. The excess of the consideration
+transferred over the aggregate fair values of the assets acquired and liabilities assumed is recorded as goodwill. The amount of goodwill recognized is primarily attributable to the
+expected contributions of the entity to the overall corporate strategy in addition to synergies and acquired workforce of the acquired business. The finitelived intangible
+assets consist of customer relationship, with an estimated weighted-average useful life of 7 years. The fair value assigned to identifiable intangible assets acquired was based on
+estimates and assumptions made by management using the excess earnings method. Intangible assets are amortized on a straight-line basis. 
+The fair values of the assets acquired and liabilities assumed are as follows in thousands Fair Value Assets acquired   Cash       854   Current assets     1,114   Property and equipment       956   Intangible asset - customer relationship     6,381     Total assets acquired     9,305 Liabilities assumed  Current and non-current liabilities     4,132     Total liabilities assumed     4,132       Net identifiable assets acquired     5,173   Goodwill    14,155       Total consideration transferred    19,328 None of the goodwill recognized is expected to be deductible for income tax purposes.
+Voicenet contributed revenue of approximately $33 million and a net loss of approximately $08 million for the period from the date of acquisition to March 31, 2014. The
+Company determined that it is impractical to include such pro forma information given the difficulty in obtaining the historical financial information of Voicenet. Inclusion of such
+information would require the Company to make estimates and assumptions regarding Voicenet historical financial results that we believe may ultimately prove inaccurate.
+14. GAIN ON SETTLEMENT OF ESCROW CLAIM
+In December 2013, the Company settled an escrow claim for indemnification with the sellers of Contactual, Inc. Under the terms of the settlement, the Company recorded a gain
+of $06 million in other income, net, in the consolidated statement of income during the year ended March 31, 2014.
+Under the terms of the Contactual merger agreement and the escrow agreement, each indemnifying seller paid his, her or its pro rata share of
+the obligations owed to the Company on January 29, 2014. Upon receipt of the cash on January 29, 2014, the Company released the remaining escrow account balance to the
+sellers of Contactual Inc. 15. PATENT SALE
+In June 2012, the Company entered into a patent purchase agreement and sold a family of patents to a third party for approximately $120 million plus a future payment of up
+to a maximum of $30 million based on future license agreements entered into by the third party purchaser. In August 2014 and February 2013, the third party entered into two
+separate license agreements with its customers; therefore, the Company earned an additional $10 million each under the patent purchase agreement for fiscal 2015 and 2013.
+Under the terms and conditions of the patent purchase agreement, the Company has retained certain limited rights to continue to use the patents. The patent purchase agreement
+contains representations and warranties customary for transactions of this type.             76 16. DISCONTINUED OPERATIONS
+On September 30, 2013, the Company completed the sale of its dedicated server hosting business to IRC Company, Inc. IRC and, as a result, no longer provides
+dedicated server hosting services. In the transaction, IRC purchased 100% of the stock of Central Host, Inc., which had been wholly owned by the Company and all of the assets
+specific to the dedicated server hosting business.
+The Company sold its dedicated server hosting business for total consideration of $30 million in cash, which was received on October 1, 2013. 
+The dedicated server hosting business has been reported as discontinued operations. The results of operations of these discontinued operations are as follows Years Ended March 31 2015 2014 2013 Revenue                   1,430                3,828 Operating expense                     922                3,005 Income before income taxes                     508                 823 Provision for income taxes                     188                 334 Income from discontinued operations                     320                 489 Gain on disposal of discontinued operations    net of income tax provision of $456                     596                    17. SUBSEQUENT EVENT
+On May 26, 2015, the Company, together with 8x8 UK Investments Limited, its wholly-owned subsidiary, entered into a share purchase agreement with the shareholders of DXI
+Limited, API Telecom Limited, Easycallnow Limited, and RAS Telecom Limited collectively, DXI, for the purchase of the entire share capital of DXI. DXI provides
+SaaS for call center solution workflows. The total aggregate purchase price was approximately $255 million, consisting of $187 million in cash paid to DXI shareholders at
+closing, $38 million in cash deposited in escrow to be held for two years as security against indemnity claims made by the Company after the closing date, and $30 million in its common stock
+approximately 353,000 shares. The Company funded the aggregate cash purchase price from our cash and investments.   
+77 18. CONSOLIDATED QUARTERLY FINANCIAL DATA UNAUDITED
+In thousands, except per share data amounts QUARTER ENDED March 31 Dec. 31 Sept. 30 June 30 March 31 Dec. 31 Sept. 30 June 30 2015 2014 2014 2014 2014 2013 2013 2013 Service revenue         40,009    37,802               36,121    34,276    32,545        29,737    27,826    26,499 Product revenue          3,521     3,570                3,477     3,637     3,241         3,008     2,989     2,752 Total revenue         43,530    41,372               39,598    37,913    35,786        32,745    30,815    29,251 Operating expenses   Cost of service revenue          7,655     7,544                7,505     6,997     6,866         5,584     5,209     4,786   Cost of product revenue          4,173     3,959                3,762     3,969     3,999         4,041     3,783     3,347   Research and development          4,348     3,868                3,496     3,406     3,332         3,325     2,640     2,336   Sales and marketing         21,508    20,559               19,440    19,160    18,038        16,051    13,745    13,072   General and administrative          5,794     4,617                3,893     3,878     3,924         5,547     3,125     2,772   Gain on patent sale                                      1,000                                                       Total operating expenses         43,478    40,547               37,096    37,410    36,159        34,548    28,502    26,313 Income loss from operations             52       825                2,502       503      373        1,803     2,313     2,938 Other income net            210       246                 200       177       140          586         1        15 Income loss from continuing   operations before provision   benefit for income taxes            262     1,071                2,702       680      233        1,217     2,314     2,953 Provision benefit for   income taxes 1             79       627                1,411       672     1,738        1,306       826       961 Income loss from continuing   operations            183       444                1,291         8     1,971           89     1,488     1,992 Income from discontinued   operations, net of income   tax provision                                                           19                   154       147 Gain on disposal of discontinued   operations, net of income tax   provision of $456                                                            7                   589          Net income loss            183       444                1,291         8     1,945           89     2,231     2,139 Income loss per share   continuing operations   Basic           000      001                 001      000      002          000      002      003   Diluted           000      001                 001      000      002          000      002      003 Income per share   discontinued operations   Basic                 000                000                000                 000                000                000                   001                   000   Diluted                 000                 000                000                000                 000                000                 001                 000 Net income loss per share   Basic            000      001                 001      000 002          000      003      003   Diluted 000      001                 001      000 002          000      003      003 Shares used in per share calculations   Basic         88,950    89,594               89,073    88,592    88,184        79,742    72,970    72,510   Diluted         91,266    91,974               91,615    91,445    88,184        83,182    76,232    75,756  1
+Comparability affected by the decrease in fiscal 2015 and increase in fiscal 2014 in the valuation allowance related to the deferred tax asset which resulted in a
+decrease in fiscal 2015 and an increase in the provision for income taxes of $15 million and $13 million in the fourth quarter of fiscal 2015 and 2014, respectively.             78 Item 1.
+Business
+1  Item 1A.
+Risk Factors
+11  Item 1B.
+Unresolved Staff Comments
+30  Item 2.
+Properties
+30  Item 3.
+Legal Proceedings
+30  Item 4.
+Mine Safety Disclosures
+31 Part II.  Item 5. CONTROLS AND PROCEDURES
+Changes in Internal Control Over Financial Reporting
+There have not been any changes in the Company internal control over financial reporting, as such term is defined in Rules13a-15f and 15d-15f under the Securities
+Exchange Act of 1934, as amended the Exchange Act during the most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, the
+Company internal control over financial reporting. 
+Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures
+Evaluation of Disclosure Controls and Procedures 
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures, as
+such term is defined in Rules13a-15e and 15d-15e under the Exchange Act, as of March 31, 2015. Based on such evaluation, our Chief Executive Officer and Chief
+Financial Officer have concluded that, as of March 31, 2015, our disclosure controls and procedures were effective. 
+Management Report on Internal Control Over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rules13a-15f or 15d-15f
+under the Exchange Act. Under the supervision and with the participation of our management, including our chief executive officer and chief financial officer, we conducted an
+assessment of the effectiveness of our internal control over financial reporting based on criteria established in the framework in Internal Control - Integrated Framework 2013
+issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this assessment, our management concluded that its internal control over financial
+reporting was effective as of March31, 2015. 
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future
+periods are subject to the risks that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may
+deteriorate. 
+Moss Adams LLP, an independent registered public accounting firm, has audited and reported on the consolidated financial statements of 8x8, Inc. and on the effectiveness of
+our internal control over financial reporting. The report of Moss Adams LLP is contained in Item 8 of this Annual Report on Form 10-K. 

@@ -1,0 +1,727 @@
+ITEM8.
+Financial Statements and Supplementary Data INDEX TO CONSOLIDATED FINANCIAL STATEMENTS  Page Report of Independent Registered Public Accounting Firm 40 Consolidated Balance Sheets as of December31, 2014 and 2013 41 Consolidated Statements of Operations for the years ended December31, 2014, 2013, and
+2012 42 Consolidated Statements of Comprehensive Income Loss for the years ended December
+31, 2014, 2013, and 2012 43 Consolidated Statements of Stockholders Equity for the years ended December
+31, 2014, 2013, and 2012 44 Consolidated Statements of Cash Flows for the years ended December31, 2014, 2013, and
+2012 45 Notes to Consolidated Financial Statements 46  39 Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Stockholders of Pegasystems Inc. Cambridge, Massachusetts We have audited the accompanying consolidated balance
+sheets of Pegasystems Inc. and subsidiaries the Company as of December31, 2014 and 2013, and the related consolidated statements of operations, comprehensive income loss, stockholders equity, and cash flows for each of
+the three years in the period ended December31, 2014. We also have audited the Companys internal control over financial reporting as of December31, 2014, based on criteria established in Internal ControlIntegrated
+Framework 2013issued by the Committee of Sponsoring Organizations of the Treadway Commission. The Companys management is responsible for these financial statements, for maintaining effective internal control over financial
+reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Managements Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on
+these financial statements and an opinion on the Companys internal control over financial reporting based on our audits. 
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board United States. Those
+standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement and whether effective internal control over financial reporting was maintained in all
+material respects. Our audits of the financial statements included examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material
+weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe
+that our audits provide a reasonable basis for our opinions. A companys internal control over financial reporting is a
+process designed by, or under the supervision of, the companys principal executive and principal financial officers, or persons performing similar functions, and effected by the companys board of directors, management, and other
+personnel to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A companys internal
+control over financial reporting includes those policies and procedures that 1pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company;
+2provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being
+made only in accordance with authorizations of management and directors of the company; and 3provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the companys assets
+that could have a material effect on the financial statements. Because of the inherent limitations of internal control over
+financial reporting, including the possibility of collusion or improper management override of controls, material misstatements due to error or fraud may not be prevented or detected on a timely basis. Also, projections of any evaluation of the
+effectiveness of the internal control over financial reporting to future periods are subject to the risk that the controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may
+deteriorate. In our opinion, the consolidated financial statements referred to above present fairly, in all material
+respects, the financial position of Pegasystems Inc. and subsidiaries as of December31, 2014 and 2013, and the results of their operations and their cash flows for each of the three years in the period ended December31, 2014, in
+conformity with accounting principles generally accepted in the United States of America. Also, in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December31, 2014, based
+on the criteria established in Internal ControlIntegrated Framework 2013issued by the Committee of Sponsoring Organizations of the Treadway Commission. /s/ DELOITTE TOUCHE LLP Boston, Massachusetts 
+February26, 2015 
+40 Table of Contents
+PEGASYSTEMS INC. 
+CONSOLIDATED BALANCE SHEETS 
+in thousands, except per share amounts As of December31 2014 2013 ASSETS Current assets Cash and cash equivalents 114,585 80,231 Marketable securities 96,631 76,461 
+Total cash, cash equivalents, and marketable securities 211,216 156,692 Trade accounts receivable, net of allowance of $1,540 and $1,997 154,844 165,641 Deferred income taxes 12,974 12,336 Income taxes receivable 4,502 4,392 Other current assets 9,544 9,148 
+Total current assets 393,080 348,209 Property and equipment, net 30,156 28,957 Long-term deferred income taxes 69,258 56,745 Long-term other assets 2,783 2,526 Intangible assets, net 45,664 56,574 Goodwill 46,860 43,469 
+Total assets 587,801 536,480 
+LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities Accounts payable 4,752 3,671 Accrued expenses 42,958 31,624 Accrued compensation and related expenses 47,250 44,401 Deferred revenue 134,672 110,690 
+Total current liabilities 229,632 190,386 Income taxes payable 24,896 21,269 Long-term deferred revenue 20,859 34,196 Other long-term liabilities 17,709 18,841 
+Total liabilities 293,096 264,692 
+Commitments and contingencies Note 13 Stockholders equity 1 Preferred stock, $001 par value, 1,000 shares authorized; no shares issued and outstanding Common stock, $001 par value, 200,000 shares and 100,000 shares authorized; 76,357 shares and 76,324 shares issued and
+outstanding 764 764 Additional paid-in capital 141,495 139,565 Retained earnings 153,058 127,826 Accumulated other comprehensive loss income Net unrealized loss gain on available-for-sale marketable securities 65 77 Foreign currency translation adjustments 547 3,556 
+Total stockholders equity 294,705 271,788 
+Total liabilities and stockholders equity 587,801 536,480 
+1
+The number of common shares outstanding for all prior periods has been retroactively restated to reflect the Companys two-for-one common stock split effected in
+the form of a common stock dividend distributed on April1, 2014. See notes to consolidated financial
+statements. 
+41 Table of Contents
+PEGASYSTEMS INC. 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+in thousands, except per share amounts Year ended December31 2014 2013 2012 Revenue Software license 232,336 191,876 163,906 Maintenance 186,239 157,309 133,527 Services 171,429 159,769 164,277 
+Total revenue 590,004 508,954 461,710 
+Cost of revenue Software license 4,959 6,281 6,339 Maintenance 20,014 15,272 14,787 Services 160,121 135,853 136,254 
+Total cost of revenue 185,094 157,406 157,380 
+Gross profit 404,910 351,548 304,330 
+Operating expenses Selling and marketing 206,658 181,094 167,263 Research and development 108,591 79,726 76,726 General and administrative 37,442 29,594 28,915 Acquisition-related 488 1,306 Restructuring 192 1,731 
+Total operating expenses 353,371 293,451 272,904 
+Income from operations 51,539 58,097 31,426 Foreign currency transaction loss gain 3,769 1,593 780 Interest income, net 683 524 419 Other expense, net 459 635 1,680 
+Income before provision for income taxes 47,994 56,393 30,945 Provision for income taxes 14,739 18,350 9,077 
+Net income 33,255 38,043 21,868 
+Earnings per share 1 Basic 044 050 029 
+Diluted 042 049 028 
+Weighted-average number of common shares outstanding Basic 76,327 75,946 75,706 Diluted 78,531 77,974 77,718
+1
+The number of common shares and per share amounts have been retroactively restated for all prior periods presented to reflect the Companys two-for-one common
+stock split effected in the form of a common stock dividend distributed on April1, 2014. See notes to
+consolidated financial statements. 
+42 Table of Contents
+PEGASYSTEMS INC. 
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME LOSS 
+in thousands  Year ended December31 2014 2013 2012 Net income 33,255 38,043 21,868 Other comprehensive loss income Unrealized loss gain on securities, net of tax 142 11 31 Foreign currency translation adjustments 4,103 469 1,495 
+Total other comprehensive loss income 4,245 458 1,526 
+Comprehensive income 29,010 38,501 23,394 
+See notes to consolidated financial statements. 
+43 Table of Contents
+PEGASYSTEMS INC. 
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+in thousands, except per share amounts Common Stock AdditionalPaid-InCapital RetainedEarnings  Income TotalStockholdersEquity NumberofShares Amount Balance at January1, 2012 75,424 754 129,324 77,029 1,649 208,756 Repurchase of common stock 370 4 5,202 5,206 Exercise of common stock warrants 5 Issuance of common stock for share-based compensation plans 762 8 3,873 3,865 Issuance of stock under Employee Stock Purchase Plan 44 603 603 Issuance of stock awards 25 Stock-based compensation expense 11,506 11,506 Tax benefit from exercise or vesting of equity awards, net of deferred tax asset deficiencies of $284 5,839 5,839 Cash dividends declared $006 per share 4,548 4,548 Other comprehensive income 1,526 1,526 Net income 21,868 21,868 
+Balance at December31, 2012 75,890 758 138,197 94,349 3,175 236,479 Repurchase of common stock 780 8 12,516 12,524 Issuance of common stock for share-based compensation plans 1,149 14 5,694 5,680 Issuance of stock under Employee Stock Purchase Plan 38 545 545 Issuance of stock awards 27 Stock-based compensation expense 12,869 12,869 Tax benefit from exercise or vesting of equity awards, net of deferred tax asset deficiencies of $435 6,164 6,164 Cash dividends declared $006 per share 4,566 4,566 Other comprehensive income 458 458 Net income 38,043 38,043 
+Balance at December31, 2013 76,324 764 139,565 127,826 3,633 271,788 Repurchase of common stock 770 8 15,551 15,559 Issuance of common stock for share-based compensation plans 742 8 5,703 5,695 Issuance of stock under Employee Stock Purchase Plan 32 568 568 Issuance of stock awards 29 Stock-based compensation expense 19,205 19,205 Tax benefit from exercise or vesting of equity awards, net of deferred tax asset deficiencies of $77 3,411 3,411 Cash dividends declared $0105 per share 8,023 8,023 Other comprehensive income 4,245 4,245 Net income 33,255 33,255 
+Balance at December31, 2014 76,357 764 141,495 153,058 612 294,705 
+1
+The number and amount of common shares, additional paid-in capital, and per share amounts have been retroactively restated for all prior periods presented to reflect
+the Companys two-for-one common stock split effected in the form of a common stock dividend distributed on April1, 2014. See notes to consolidated financial statements. 
+44 Table of Contents
+PEGASYSTEMS INC. 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+in thousands  Year ended December31 2014 2013 2012 Operating activities Net income 33,255 38,043 21,868 Adjustment to reconcile net income to cash provided by operating activities Excess tax benefits from exercise or vesting of equity awards 3,387 6,435 6,031 Deferred income taxes 13,896 7,008 6,164 Depreciation and amortization 23,352 20,035 18,566 Amortization of investments 1,916 1,776 1,419 Stock-based compensation expense 19,205 12,869 11,506 Foreign currency transaction loss gain 3,769 1,593 780 Other non-cash 747 1,670 3,357 Change in operating assets and liabilities Trade accounts receivable 6,209 28,316 33,664 Income taxes receivable and other current assets 2,776 7,076 6,570 Accounts payable and accrued expenses 13,356 5,794 7,656 Deferred revenue 11,173 26,362 24,787 Other long-term assets and liabilities 2,908 7,244 9,801 
+Cash provided by operating activities 99,889 80,703 43,579 
+Investing activities Purchases of marketable securities 55,520 60,648 20,204 Proceeds from maturities and called marketable securities 33,244 27,814 24,576 Payments for acquisitions, net of cash acquired 3,918 25,565 Investment in property and equipment 11,463 5,598 23,610 
+Cash used in investing activities 37,657 63,997 19,238 
+Financing activities Issuance of common stock for share-based compensation plans 1,001 2,210 1,128 Excess tax benefits from exercise or vesting of equity awards 3,387 6,435 6,031 Dividend payments to shareholders 6,874 3,421 5,680 Common stock repurchases for tax withholdings for net settlement of equity awards 6,128 7,345 4,391 Common stock repurchases under share repurchase programs 15,418 12,446 5,179 
+Cash used in financing activities 24,032 14,567 8,091 
+Effect of exchange rate on cash and cash equivalents 3,846 567 922 
+Net increase in cash and cash equivalents 34,354 2,706 17,172 Cash and cash equivalents, beginning of year 80,231 77,525 60,353 
+Cash and cash equivalents, end of year 114,585 80,231 77,525 
+Supplemental disclosures Income taxes paid 14,722 11,107 5,106 Non-cash investing and financing activity Dividends payable 2,294 1,145 See notes to consolidated financial statements. 
+45 Table of Contents
+PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 1.
+BASIS OF PRESENTATION 
+a Business The Company develops, markets, licenses, and supports software to automate complex, changing business processes. The Company provides implementation, consulting, training, technical support and hosting
+services to facilitate the use of its software. b Management estimates and reporting 
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America
+U.S. requires management to make estimates and judgments that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the periods presented. Actual results could differ from those estimates. Accounts with reported amounts based on significant estimates and judgments include revenue, deferred income taxes, income taxes payable, fair
+value of assets acquired and liabilities assumed, intangible assets, goodwill, deferred revenue, and stock-based compensation. 
+c Principles of consolidation The consolidated financial statements include Pegasystems Inc. and its wholly owned subsidiaries. All intercompany accounts and transactions have been eliminated in consolidation. 
+d Stock split On March6, 2014, the Companys Board of Directors approved a two-for-one stock split of the Companys common stock, effected in the form of a stock dividend the Stock Split.
+On April1, 2014, each stockholder of record at the close of business on March20, 2014 the Record Date received as a dividend, one additional share of common stock, par value $01, for each share of common stock held on the
+Record Date. All shares and amounts of common stock, additional paid-in capital, and per share amounts in the Companys audited consolidated financial statements and in the accompanying notes for all periods presented have been restated to
+reflect the Stock Split, except for the number of authorized shares of common stock. e Retrospective application of
+purchase price adjustments During 2014, the Company made adjustments to the purchase price allocation in connection
+with its acquisition of Antenna Software, Inc. together with its subsidiaries, Antenna. These purchase price adjustments are reflected retrospectively as of December31, 2013 in the Companys audited consolidated balance
+sheet. These revisions did not have any impact on the Companys previously reported results of operations or cash flows. See Note 8 Acquisitions for further discussion of these adjustments. 2.
+SIGNIFICANT ACCOUNTING POLICIES 
+a Revenue recognition The Companys revenue is derived primarily from software licenses, maintenance fees related to the Companys software licenses, and consulting services. The Companys license arrangements,
+whether involving a perpetual license or a term license, generally contain multiple elements, including consulting services, training, and software maintenance services. 
+46 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Software revenue recognition requires judgment, including whether a software arrangement
+includes multiple elements, and if so, whether vendor-specific objective evidence VSOE of fair value exists for those elements. The amount of arrangement consideration allocated to undelivered elements is based on the VSOE of fair
+value for those elements and recognized as those elements are delivered. Any remaining portion of the total arrangement fee is allocated to the software license, the first delivered element. Revenue is recognized for each element when all of the
+revenue recognition criteria have been met. Changes in the mix of the elements in a software arrangement, the ability to
+identify VSOE for those elements, the fair value of the respective elements, and changes to a products estimated life cycle could materially impact the amount of earned and unearned revenue. 
+Before the Company can recognize revenue, the following four basic criteria must be met:  Persuasive evidence of an arrangementAs evidence of the existence of an arrangement, the Company uses a contract or purchase order signed
+by the client and the Company for software and maintenance, and a statement of work for consulting services. In the event the client is a reseller, the Company ensures a binding agreement exists between the reseller and end user of the software.
+Delivery of product and servicesThe Company delivers its software electronically or ships it via disk media. Services are considered
+delivered as the work is performed or, in the case of maintenance, over the contractual service period.  Fee is fixed or determinableThe Company assesses whether a fee is fixed or determinable at the onset of the arrangement. In addition, the
+Company assesses whether contract modifications to an existing arrangement constitute a concession. The Companys agreements do not include a right of return.  Collection of fee is probable The Company assesses the probability of collecting from each client at the onset of the arrangement based on
+a number of factors, including the clients payment history, its current creditworthiness, economic conditions in the clients industry and geographic location, and general economic conditions. If, in the Companys judgment,
+collection of a fee is not probable, revenue is recognized as cash is collected, provided all other conditions for revenue recognition have been met. Software license revenues Perpetual software license fees are recognized
+as revenue when the software is delivered, any acceptance required by contract that is not perfunctory is obtained, no significant obligations or contingencies exist related to the software, other than maintenance, and all other revenue recognition
+criteria are met. Term software license fees are payable on a monthly, quarterly, or annual basis under license agreements
+that typically have a three to five-year term and may be renewed for additional terms at the clients option. As a
+result of the Companys focus on frequent sales to its targeted clients, the Companys strategy is to sell initial term licensing agreements to those clients with the goal to generate follow-on sales, and as a result of extended payment
+terms and other factors, such as the risk of concessions, the Company recognizes term license revenue over the term of the agreement as payments become due or earlier if prepaid, provided all other criteria for revenue recognition have been met.
+Subscription revenue primarily consists of license, maintenance, and bundled services revenue recognized on the
+Companys license arrangements that include a right to unspecified future products, which is recognized ratably over the term of the subscription period. 
+47 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Maintenance revenues First-year maintenance typically is sold with the related software license and renewed on an annual basis thereafter. Maintenance revenue is deferred and recognized ratably over the term of the support
+period, which is generally one year and subject to annual renewals. Perpetual license maintenance obligations are based on separately stated renewal rates in the arrangement that are substantive and therefore represent VSOE of fair value. Term
+license arrangements include separately stated maintenance fees and the Company uses separate sales to determine VSOE of fair value. 
+Services revenues The Companys services revenue is comprised of fees for consulting services including software implementation, training, reimbursable expenses, and sales of its Pega Cloud as-a-platform offering Pega Cloud. Consulting services may be provided on a stand-alone basis or bundled with a license and software maintenance services. 
+Revenue from training services and consulting services under time and materials contracts is recognized as services are performed. The
+Company has VSOE of fair value for its training services and consulting services under time and materials contracts in North America, Australia, and Europe. Consulting services may occasionally be provided on a fixed-price basis. The Company does not have VSOE of fair value for fixed-price services or time and materials services in certain geographical
+regions. When these services are part of a multiple element arrangement, and the services are not essential to the functionality of the software, and when services, including maintenance, are the only undelivered element, the Company recognizes the
+revenue from the total arrangement ratably over the longer of the software maintenance period or the service period. Revenue from fixed-price services that are not bundled with a software license is generally recognized ratably over the service
+period, which is typically less than four months. Revenue from stand-alone sales of Pega Cloud is recognized ratably over the term of the service. When implementation services are sold together with the
+Companys Pega Cloud offering and these services have stand-alone value to the client, the Company
+accounts for these services separately from its Pega Cloud offering as described earlier. Stand-alone value is
+established through the clients ability to buy these services from many trained partner system integrators and from transactions sold independently from the sale of Pega Cloud. Since these multiple-element arrangements are not software license sales, the Company applies a selling price hierarchy. Under the selling price hierarchy,
+third-party evidence of selling price TPE will be considered if VSOE does not exist, and estimated selling price ESP will be used if neither VSOE nor TPE is available. Generally, the Company is not able to determine TPE
+as its sales strategy is customized to the needs of its clients and the Companys products and services are dissimilar to comparable products or services in the marketplace. In determining ESP, the Company applies significant judgment as it
+weighs a variety of factors, based on the facts and circumstances of the arrangement. The Company typically arrives at an ESP for a service that is not sold separately by considering company-specific factors such as geographies, competitive
+landscape, and pricing practices used to establish bundled pricing and discounting. Deferred revenue 
+Deferred software license revenue typically results from client billings for which all of the criteria to recognize revenue have not been
+met. Deferred maintenance revenue represents software license updates and product support contracts that are typically billed in advance and are recognized ratably over the support periods. Deferred services revenue represents advanced billings for
+consulting, hosting, and training services that are recognized as the services are performed. 
+48 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+b Fair value of financial instruments 
+The principal financial instruments held by the Company consist of cash equivalents, marketable securities, accounts receivable, and
+accounts payable. The carrying value of these instruments approximates their fair value due to their short maturities. See Note 3 Marketable Securities and Note 5 Fair Value Measurements for further discussion of financial
+instruments that are carried at fair value on a recurring basis. c Derivative instruments 
+The Company has historically used foreign currency forward contracts to manage its exposures to changes in foreign currency exchange
+rates associated with its foreign currency denominated accounts receivable, intercompany payables, and cash. The foreign currency forward contracts utilized by the Company are not designated as hedging instruments and as a result, the Company
+records the fair value of these contracts at the end of each reporting period in its consolidated balance sheet as other current assets for unrealized gains and accrued expenses for unrealized losses, with any fluctuations in the value of these
+contracts recognized in other expense, net, in its consolidated statement of operations. The fluctuations in the value of these foreign currency forward contracts partially offset the gains and losses from the remeasurement or settlement of the
+foreign currency denominated accounts receivable, intercompany payables, and cash held by the U.S. operating company, thus partly mitigating the volatility. Generally, the Company enters into foreign currency forward contracts with terms of
+90days or less. d Property and equipment 
+Property and equipment are recorded at cost. Depreciation and amortization are computed using the straight-line method over the estimated
+useful lives of the assets, which are three years for equipment and five years for furniture and fixtures. Leasehold improvements are amortized over the lesser of the term of the lease or the useful life of the asset. Repairs and maintenance costs
+are expensed as incurred. The Company capitalizes and amortizes certain direct costs associated with computer software
+developed or purchased for internal use. The Company amortizes capitalized software costs generally over three to five years commencing on the date the software is placed into service. During 2014, 2013, and 2012, the Company did not capitalize any
+costs for computer software developed for internal use. e Goodwill 
+Goodwill represents the residual purchase price paid in a business combination after all identified assets and liabilities have been
+recorded. Goodwill is not amortized. The Company operates as a single reporting unit. The Company performed its qualitative assessment as of November30, 2014, 2013, and 2012, and concluded it was not more likely than not that the fair value of
+its reporting unit was less than their carrying value. f Intangible and long-lived assets 
+All of the Companys intangible assets are amortized using the straight-line method over their estimated useful life. The Company
+evaluates its long-lived tangible and intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. Impairment is assessed by comparing the undiscounted cash
+flows expected to be generated by the intangible asset to its carrying value. If impairment exists, the Company calculates the impairment by comparing the carrying value of the intangible asset to its fair value as determined by discounted expected
+cash flows. The Company did not record any impairments in 2014, 2013, or 2012. 
+49 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+g Business combinations 
+The Company uses its best estimates and assumptions to accurately assign fair value to the tangible and intangible assets acquired and
+liabilities assumed at the acquisition date. The Companys estimates are inherently uncertain and subject to refinement. During the measurement period, which may be up to one year from the acquisition date, the Company may record adjustments to
+the fair value of these tangible and intangible assets acquired and liabilities assumed, with the corresponding offset to goodwill. In addition, uncertain tax positions and tax-related valuation allowances are initially established in connection
+with a business combination as of the acquisition date. The Company continues to collect information and reevaluates these estimates and assumptions quarterly and records any adjustments to the Companys preliminary estimates to goodwill
+provided that the Company is within the measurement period. Upon the conclusion of the measurement period or final determination of the fair value of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are
+recorded to the Companys consolidated statements of operations. h Research and development and software costs
+Research and development costs are expensed as incurred. Capitalization of computer software developed for resale
+begins upon the establishment of technological feasibility, generally demonstrated by a working model or an operative version of the computer software product. Such costs have not been material to date as technological feasibility is established
+within a short timeframe from the softwares general availability and, as a result, no costs were capitalized in 2014, 2013, or 2012. 
+i Stock-based compensation The Company recognizes stock-based compensation expense associated with equity awards based on the fair value of these awards at the grant date. Stock-based compensation is recognized over the requisite
+service period, which is generally the vesting period of the equity award, and is adjusted each period for anticipated forfeitures. The Company recognizes stock-based compensation using the accelerated recognition method, which treats each vesting
+tranche as if it were an individual grant. See Note 15 Stock-based Compensation for discussion of the Companys key assumptions included in determining the fair value of its equity awards at grant date. 
+j Acquisition-related expenses Acquisition-related costs are expensed as incurred and include direct and incremental costs associated with an impending or completed acquisition. During 2014 and 2013, the $05 million and $13 million,
+respectively, of acquisition-related costs were primarily professional fees associated with the Companys acquisition of Antenna Software, Inc. Antenna. k Restructuring expenses Restructuring expenses
+are recorded when a plan of restructuring is in place and management has committed to execution of the plan. To the extent that a restructuring plan provides employee benefits for services rendered in future periods beyond a minimum period, the
+costs are recognized over the requisite service period. In 2014 and 2013, restructuring costs include future lease payments and demising costs, net of estimated sublease income, for the elimination of space within one facility related to the
+integration of Antenna. See Note 12 Accrued Restructuring for further detail. 
+50 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+l Foreign currency translation 
+The translation of assets and liabilities for the majority of the Companys foreign subsidiaries is made at period-end exchange
+rates, while revenue and expense accounts are translated at the average exchange rates during the period transactions occurred. The resulting translation adjustments are reflected in accumulated other comprehensive income. The Companys India
+subsidiary, as well as all foreign Antenna subsidiaries, use the U.S. dollar as its functional currency, therefore, its monetary assets and liabilities are remeasured at current rates and its non-monetary assets are recorded at historical exchange
+rates. Realized and unrealized exchange gains or losses from transactions and remeasurement adjustments are reflected in foreign currency transaction loss gain, in the accompanying consolidated statements of operations. 
+m Accounting for income taxes The Company uses the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are determined based on temporary differences between the financial
+statement and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The Company regularly assesses the need for a valuation allowance against its deferred tax assets.
+Future realization of the Companys deferred tax assets ultimately depends on the existence of sufficient taxable income within the available carryback or carryforward periods. Sources of taxable income include taxable income in prior carryback
+years, future reversals of existing taxable temporary differences, tax planning strategies, and future taxable income. The Company records a valuation allowance to reduce its deferred tax assets to an amount it believes is more-likely-than-not to be
+realized. Changes in the valuation allowance impacts income tax expense in the period of adjustment. The Companys deferred tax valuation allowance requires significant judgment and uncertainties, including assumptions about future taxable
+income that are based on historical and projected information. The Company recognizes excess tax benefits when they are realized, through a reduction in income taxes payable using the with and without stock option method. 
+The Company assesses its income tax positions and records tax benefits based upon managements evaluation of the facts,
+circumstances, and information available at the reporting date. For those tax positions where it is more-likely-than-not that a tax benefit will be sustained, the Company records the largest amount of tax benefit with a greater than 50percent
+likelihood of being realized upon ultimate settlement with a taxing authority having full knowledge of all relevant information. For those income tax positions where it is not more-likely-than-not that a tax benefit will be sustained, no tax benefit
+is recognized in the financial statements. The Company classifies liabilities for uncertain tax positions as non-current liabilities unless the uncertainty is expected to be resolved within one year. The Company classifies interest and penalties on
+uncertain tax positions as income tax expense. As a global company, the Company uses significant judgment to calculate and
+provide for income taxes in each of the tax jurisdictions in which it operates. In the ordinary course of the Companys business, there are transactions and calculations undertaken whose ultimate tax outcome cannot be certain. Some of these
+uncertainties arise as a consequence of transfer pricing for transactions with the Companys subsidiaries and nexus and tax credit estimates. In addition, the calculation of acquired tax attributes and the associated limitations are complex.
+See Note 16 Income Taxes for further information. The Company estimates its exposure to unfavorable outcomes related to these uncertainties and estimates the probability of such outcomes. 
+n New accounting pronouncements Revenue from Contracts with Customers: In May 2014, the Financial Accounting Standard Board FASB issued Accounting Standards Update ASU No2014-09,
+Revenue from Contracts with Customers Topic 606. This ASU amends the guidance for revenue recognition to replace numerous, industry-specific requirements and converges areas under this topic with those of the International Financial
+Reporting Standards. 
+51 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+This ASU implements a five-step process for customer contract revenue recognition that focuses on transfer of control, as opposed to transfer of risk and rewards. This ASU also requires enhanced
+disclosures regarding the nature, amount, timing and uncertainty of revenues and cash flows from contracts with customers. Other major provisions include ensuring the time value of money is considered in the transaction price, and allowing estimates
+of variable consideration to be recognized before contingencies are resolved in certain circumstances. The amendments in this ASU are effective for reporting periods beginning after December15, 2016, and early adoption is not permitted.
+Entities can transition to the standard either retrospectively or as a cumulative-effect adjustment as of the date of adoption. This ASU will be effective for the Company January1, 2017. Management is currently assessing the impact the
+adoption of this ASU will have on the Companys consolidated financial statements.  3.
+MARKETABLE SECURITIES 
+in thousands
+December31, 2014 AmortizedCost UnrealizedGains UnrealizedLosses Fair Value Marketable securities Municipal bonds 27,820 52 17 27,855 Corporate bonds 65,487 5 144 65,348 Certificates of deposit 3,428 2 2 3,428 
+Marketable securities 96,735 59 163 96,631 
+in thousands
+December 31, 2013 AmortizedCost UnrealizedGains UnrealizedLosses Fair Value Marketable securities Municipal bonds 41,545 75 20 41,600 Corporate bonds 31,868 52 4 31,916 Certificates of deposit 2,948 1 4 2,945 
+Marketable securities 76,361 128 28 76,461 
+The Company considers debt securities with maturities of three months or less from the purchase date to
+be cash equivalents. Interest is recorded when earned. All of the Companys investments are classified as available-for-sale and are carried at fair value with unrealized gains and losses recorded as a component of accumulated other
+comprehensive loss income, net of related income taxes. As of December31, 2014, remaining maturities of marketable
+debt securities ranged from January 2015 to May 2017, with a weighted-average remaining maturity of approximately 13 months.  4.
+DERIVATIVE INSTRUMENTS 
+The Company has historically used foreign currency forward contracts forward contracts to manage its
+exposure to changes in foreign currency exchange rates associated with its foreign currency denominated accounts receivable, cash and intercompany payables. The U.S. operating company invoices most of its foreign clients in foreign currencies, which
+results in cash and receivables held at the end of the reporting period denominated in these foreign currencies. Since the U.S. operating companys functional currency is the U.S. dollar, the Company recognizes a foreign currency transaction
+gain or loss on the foreign currency denominated cash, intercompany payables and accounts receivable held by the U.S. operating company in its consolidated statements of operations when there are changes in the foreign currency exchange rates
+versus the U.S. dollar. 
+52 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+The Company has been primarily exposed to the fluctuation in the British pound, Euro, Australian dollar, and Indian rupee relative to the U.S. dollar. The Company began to use forward contracts
+to mitigate its British pound and Euro exposures in the second quarter of 2011 and for its Australian dollar and Indian rupee exposures in the third quarter of 2013. The forward contracts utilized by the Company are not designated as hedging instruments and as a result, the Company records the fair value of these contracts at the end of each reporting period in its
+consolidated balance sheet as other current assets for unrealized gains and accrued expenses for unrealized losses, with any fluctuations in the value of these contracts recognized in other expense, net, in its consolidated statement of operations.
+However, the fluctuations in the value of these foreign currency forward contracts partially offset the gains and losses from the remeasurement or settlement of the foreign currency denominated accounts receivable, intercompany payables, and cash
+held by the U.S. operating company, thus partly mitigating the volatility. Generally, the Company enters into foreign currency forward contracts with terms not greater than 90 days. 
+The Company is in the process of reassessing its hedging strategy and has not entered into any forward contracts since February 2014. As
+of December31, 2014 and 2013, the Company did not have any forward contracts outstanding. The Company entered into
+forward contracts with notional values as follows:  Year EndedDecember 31 Foreign currency in thousands
+2014 2013 2012 Euro 21,900 102,300 49,700 British pound 26,500 85,400 52,000 Australian dollar
+A 12,900 A 26,300 A Indian rupee
+Rs 204,000 Rs 690,000 Rs The total change in the fair value of the Companys forward contracts recorded in other expense,
+net, was as follows:  Change in Fair Value in USD Year Ended December 31 in thousands
+2014 2013 2012 Loss included in other expense, net 532 747 1,738
+5.
+FAIR VALUE MEASUREMENTS 
+Fair value is an exit price, representing the amount that would be received from the sale of an asset or paid to
+transfer a liability in an orderly transaction between market participants based on assumptions that market participants would use in pricing an asset or liability. As a basis for classifying the fair value measurements, a three-tier fair value
+hierarchy, which classifies the fair value measurements based on the inputs used in measuring fair value, was established as follows: Level 1 observable inputs such as quoted prices in active markets for identical assets or liabilities; Level 2
+significant other observable inputs that are observable either directly or indirectly; and Level 3 significant unobservable inputs in which there is little or no market data, which requires the Company to develop its own assumptions. This
+hierarchy requires the Company to use observable market data, when available, and to minimize the use of unobservable inputs when determining fair value. On a recurring basis, the Company records its marketable securities at fair value. 
+The Companys money market funds and investments classified within Level1 of the fair value hierarchy are valued using quoted
+market prices in active markets for identical assets. The Companys investments classified within Level 2 of the fair value hierarchy are valued based on a market approach using quoted prices  53 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+when available, or matrix pricing compiled by third party pricing vendors, using observable market inputs such as interest rates, yield curves, and credit risk. If applicable, the Company will
+recognize transfers into and out of levels within the fair value hierarchy at the end of the reporting period in which the actual event or change in circumstance occurs. In the fourth quarter of 2014, the Company transferred all municipal and
+corporate bonds from Level 1 to Level 2 based on the Companys periodic review of its policy and the fact that these securities are not traded as frequently as Level 1 investments. There were no significant transfers of investments between
+Level 1 and Level 2 during the year ended December31, 2013. The fair value hierarchy of the Companys cash
+equivalents and marketable securities at fair value is as follows:  in thousands
+December31,2014 QuotedPricesin Active Markets for IdenticalAssets Level 1 SignificantOther ObservableInputs Level 2 Money market funds 2,295 2,295 
+Marketable securities Municipal bonds 27,855 27,855 Corporate bonds 65,348 65,348 Certificates of deposit 3,428 3,428 
+Total marketable securities 96,631 96,631 
+in thousands
+December31,2013 QuotedPricesin Active Markets for IdenticalAssets Level 1 SignificantOther Observable Inputs Level 2 Money market funds 2,232 2,232 
+Marketable securities Municipal bonds 41,600 10,569 31,031 Corporate bonds 31,916 31,916 Certificates of deposit 2,945 2,945 
+Total marketable securities 76,461 42,485 33,976 
+Assets Measured at Fair Value on a Nonrecurring Basis 
+Assets recorded at fair value on a nonrecurring basis, such as property and equipment, and intangible assets are recognized at fair value
+when they are impaired. During 2014, 2013, and 2012, the Company did not recognize any impairments on its assets measured at fair value on a nonrecurring basis. 
+54 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 6.
+TRADE ACCOUNTS RECEIVABLE, NET OF ALLOWANCE 
+Unbilled trade accounts receivable relate to services earned under time and material arrangements and maintenance and
+license arrangements that have not been invoiced.  December31 in thousands
+2014 2013 Trade accounts receivable 128,757 129,020 Unbilled accounts receivable 27,627 38,618 
+Total accounts receivable 156,384 167,638 
+Allowance for sales credit memos 1,540 1,997 
+154,844 165,641 
+The Company records an allowance for estimates of potential sales credit memos when the related revenue
+is recorded and reviews this allowance periodically. The following reflects the activity of the allowance for sales credit memos:  Year Ended December31 in thousands
+2014 2013 2012 Balance at beginning of year 1,997 963 895 Provision for credit memos 2,164 5,374 1,773 Credit memos issued 2,621 4,340 1,705 
+1,540 1,997 963 
+7.
+PROPERTY AND EQUIPMENT 
+December31 in thousands
+2014 2013 Leasehold improvements 27,672 24,242 Computer equipment 15,295 13,004 Furniture and fixtures 5,321 5,150 Computer software purchased 3,750 3,750 Computer software developed for internal use 721 721 Fixed assets in progress 918 449 
+53,677 47,316 Less: accumulated depreciation and amortization 23,521 18,359 
+Property and equipment, net 30,156 28,957 
+Depreciation and amortization expense was approximately $93 million, $82 million, and $75 million, for
+the years ended December31, 2014, 2013, and 2012, respectively.  8.
+ACQUISITIONS 
+Acquisitions completed in 2014: The Company completed three acquisitions during the year ended December31, 2014, which were determined to be immaterial, both individually and in the aggregate, for $63 million in cash
+consideration, inclusive of $21 million in cash acquired, and $11 million in additional cash consideration to be paid in 2015, 
+55 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+which is included in accrued expenses. In addition, up to $15 million in additional cash consideration may be payable to the selling shareholders of one of the three acquired companies based on
+the achievement of certain performance milestones through the end of 2016. Acquisitions completed in 2013 
+Antenna On
+October9, 2013, the Company acquired Antenna, a leading provider of mobile application development platforms. The Company acquired all of the outstanding capital stock of Antenna in a cash merger for $271 million, including the final working
+capital adjustment to the purchase price, which was paid by the Company in the first quarter of 2014. During 2014 and 2013, the Company incurred direct and incremental expenses associated with the transaction of $03 million and $13 million,
+respectively, which were primarily professional fees. The operations of Antenna are included in the Companys operating
+results from the date of acquisition. Due to the rapid integration of the products, sales force, and operations of Antenna, other than the maintenance and hosting revenue attributable to the recognition of the fair value of acquired deferred
+maintenance and hosting revenue, it is no longer feasible for the Company to identify revenue from new arrangements solely attributable to Antenna. In 2014, the Company made $6 million in purchase price adjustments to goodwill primarily related to the final determination of assumed sales tax liabilities and deferred tax assets associated with the
+acquired NOLs. These purchase price adjustments are also reflected retrospectively as of December31, 2013 in the accompanying audited consolidated balance sheet. As of December31, 2014, as a result of the final purchase price allocation, the Company recognized $23 million of goodwill, which is primarily due to the expected synergies of the combined entities
+and the workforce in place. The goodwill created by the transaction is nondeductible for tax purposes. A summary of the final purchase price allocation for the acquisition of Antenna is as follows:  in thousands Total purchase consideration 
+Cash 27,141 
+Allocation of the purchase consideration Cash 783 Accounts receivable, net of allowance 4,184 Other assets 3,951 Property and equipment 655 Deferred tax assets, net 2,638 Identifiable intangible assets 10,355 Goodwill 23,018 Accounts payable 1,396 Accrued liabilities 12,861 Deferred revenue 4,186 
+Net assets acquired 27,141 
+The valuation of the assumed deferred revenue was based on the Companys contractual commitment to
+provide post-contract customer support to Antenna clients and future contractual performance obligations under 
+56 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+existing hosting arrangements. The fair value of this assumed liability was based on the estimated cost plus a reasonable margin to fulfill these service obligations. The majority of the deferred
+revenue was recognized in the 12 months following the acquisition. The valuation of the acquired intangible assets is
+inherently subjective and relies on significant unobservable inputs.The Company used an income approach to value the acquired customer related, technology and trade name intangible assets. The non-compete assets were valued using the
+with-and-without method, a form of the income approach which considers the cash flow differentials under multiple scenarios with or without key executives. The valuation for each of these intangible assets was based on estimated projections of
+expected cash flows to be generated by the assets, discounted to the present value at discount rates commensurate with perceived risk. The valuation assumptions take into consideration the Companys estimates of contract renewal, technology
+attrition and revenue growth projections. The estimated fair values for specifically identifiable intangible
+assets acquired, by major asset class, are as follows:  in thousands  years Customer related intangible assets 4,279 4 Technology 3,656 3 Non-compete 1,342 1 Trade name 1,078 3 
+10,355 32 
+Pro forma Information Unaudited 
+The following pro forma financial information presents the combined results of operations of the Company and Antenna as if the
+acquisition had occurred on January1, 2012 after giving effect to certain pro forma adjustments. The pro forma adjustments reflected herein include only those adjustments that are directly attributable to the Antenna acquisition, factually
+supportable, and expected to have a continuing impact on the Company. These pro forma adjustments include a net increase in amortization expense to eliminate historical amortization of Antenna intangible assets and to record amortization expense for
+the $104 million of acquired identifiable intangibles, a decrease in interest income as a result of the cash paid for the acquisition, a decrease in interest expense as a result of the repayment of all Antenna outstanding debt in connection with
+the acquisition, and the elimination of approximately $13 million of acquisition-related costs, including transaction costs incurred by the Company and Antenna. The pro forma financial information does not reflect any adjustments for anticipated
+synergies resulting from the acquisition and is not necessarily indicative of the operating results that would have actually occurred had the transaction been consummated on January1, 2012. Pro
+FormaYearEndedDecember31 in thousands, except per share amounts
+2013 2012 Revenue 532,978 499,839 Net income 35,814 9,028 Net income per basic share 1 047 012 
+Net income per diluted share 1 046 012 
+1
+The per share amounts have been retroactively restated for all prior periods presented to reflect the Companys two-for-one common stock split effected in the form
+of a common stock dividend distributed on April1, 2014. See Note 1 Basis of Presentation dfor further discussion of the Stock Split. 
+57 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 9.
+GOODWILL AND OTHER INTANGIBLE ASSETS 
+As discussed in Note 18 Geographic Information and Major Clients, the Company operates in one reportable
+segment, Digital Enterprise Business Solutions, and has one reporting unit. The following table presents the changes in the
+carrying amount of goodwill:  Year Ended December31 in thousands
+2014 2013 2012 Balance as of January1 43,469 20,451 20,451 Purchase price adjustments to goodwill retroactively applied1 6,006 Goodwill acquired during the year 3,431 17,012 Translation adjustments 40 
+Balance as of December31 46,860 43,469 20,451 
+1
+The purchase price adjustments identified during 2014 have been retroactively applied as of December31, 2013. 
+Intangible assets are recorded at cost and are amortized using the straight-line method over their estimated useful lives. in thousands
+Range ofUsefulLives Cost AccumulatedAmortization Net bookvalue December31, 2014 Customer related intangibles 4-9years 49,590 24,338 25,252 Technology 3-9 years 48,342 28,890 19,452 Other intangibles 1-3 years 5,361 4,401 960 
+Total 103,293 57,629 45,664 
+December31, 2013 Customer related intangibles 4-9 years 48,634 18,317 30,317 Technology 3-9 years 47,102 22,873 24,229 Other intangibles 1-5 years 4,658 2,630 2,028 
+Total 100,394 43,820 56,574 
+Amortization expense of acquired intangibles was reflected in the Companys consolidated statements
+of operations as follows:  Year Ended December31 in thousands
+2014 2013 2012 Amortization expense Cost of revenue 6,017 6,443 6,189 Selling and marketing 6,022 5,174 4,928 General and administrative 1,770 396 20 
+Total amortization expense 13,809 12,013 11,137 
+58 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+As of December31, 2014, future estimated amortization expense is as follows:
+in thousands
+2015 12,210 2016 11,523 2017 9,824 2018 8,825 2019 and thereafter 3,282 
+45,664 
+10.
+ACCRUED EXPENSES 
+December31 in thousands
+2014 2013 Partner commissions 2,441 4,106 Other taxes 10,970 10,381 Employee reimbursable expenses 1,474 1,539 Dividends payable 2,294 1,145 Professional services contractor fees 2,297 1,997 Self-insurance health and dental claims 2,115 1,265 Professional fees 2,444 2,868 Short-term deferred rent 1,446 740 Income taxes payable 8,966 1,450 Acquisition-related expenses and merger consideration 2,702 902 Restructuring 461 371 Marketing expenses and programs 1,840 1,279 Other 3,508 3,581 
+42,958 31,624 
+11.
+DEFERRED REVENUE 
+December31 in thousands
+2014 2013 Software license 38,961 28,826 Maintenance 83,467 72,715 Cloud 4,209 2,360 Services and other 8,035 6,789 
+Current deferred revenue 134,672 110,690 
+Software license 19,878 32,727 Maintenance and services 981 1,115 Cloud 354 
+Long-term deferred revenue 20,859 34,196 
+155,531 144,886 
+59 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 12.
+ACCRUED RESTRUCTURING 
+During the fourth quarter of 2013, in connection with the Companys evaluation of its combined facilities with
+Antenna, the Company approved a plan to eliminate space within one facility. The Company ceased use of this space during the fourth quarter of 2013 and recognized $17 million of restructuring expenses. During the third quarter of 2014, the Company
+restructured the remaining space within the same facility, revised its restructuring estimate, and recognized $02 million in additional restructuring expense. These restructuring expenses represent future lease payments and demising costs, net of
+estimated sublease income for this space. The lease expires in 2021. A summary of the restructuring activity is as follows:
+in thousands
+Antennapersonneland facilitiesrestructuring 1 Total Balance as of December31, 2011 1,043 
+Cash payments 602 
+Balance as of December31, 2012 441 
+Restructuring costs 1,731 1,731 Cash payments 441 Other 140 140 
+Balance as of December31, 2013 1,591 1,591 
+Restructuring costs 192 192 Cash payments 476 476 Other 128 128 
+Balance as of December31, 2014 1,179 1,179 
+1
+Includes $34 thousand of severance and related benefit costs for the reduction of six personnel in redundant roles that was paid by the end of the second quarter of
+2014.  December31 in thousands
+2014 2013 Reported as Accrued expenses 461 371 Other long-term liabilities 718 1,220 
+1,179 1,591 
+13.
+COMMITMENTS AND CONTINGENCIES 
+Commitments The Company leases space for its offices under noncancellable operating leases that expire at various dates through 2023. 
+60 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+As of December31, 2014, the Companys future minimum rental payments required
+under operating leases with noncancellable terms in excess of one year were as follows:  in thousands
+For the calendar year
+OperatingLeases 1 2015 12,645 2016 13,392 2017 13,125 2018 13,187 2019 11,281 2020 Thereafter 36,375 
+100,005 
+1
+Operating leases include future minimum rent payments, net of estimated sublease income, for facilities that we have vacated pursuant to our restructuring activities,
+as discussed in Note 12. Rent expense under operating leases is recognized on a straight-line basis to account
+for scheduled rent increases and landlord tenant allowances. In connection with the Companys lease for its office headquarters, the Company has a landlord tenant allowance totaling approximately $94 million, of which $84 million was used and
+reimbursed to the Company as of December31, 2012 and will be amortized as a reduction to rent expense on a straight-line basis over the term of the lease. Total rent expense under operating leases was approximately $125 million, $117 million
+and $141 million for the years ended December31, 2014, 2013 and 2012, respectively. Contingencies
+The Company is a party in various contractual disputes, litigation and potential claims arising in the ordinary course of
+business. The Company does not believe that the resolution of these matters will have a material adverse effect on its financial position or results of operations.  14.
+STOCKHOLDERS EQUITY 
+a Preferred stock The Company has authorized 1,000,000 shares of preferred stock, which may be issued from time to time in one or more series. The Board of Directors has the authority to issue the shares of preferred stock
+in one or more series, to establish the number of shares to be included in each series, and to fix the designation, powers, preferences and rights of the shares of each series and the qualifications, limitations or restrictions thereof, without any
+further vote or action by the stockholders. The issuance of preferred stock could decrease the amount of earnings and assets available for distribution to holders of common stock, and may have the effect of delaying, deferring or defeating a change
+in control of the Company. The Company had not issued any shares of preferred stock through December31, 2014. b Common stock
+The Company has 200,000,000 authorized shares of common stock, $001 par value per share, of which 76,357,000 shares
+were issued and outstanding at December31, 2014. At the Companys 2014 Annual Meeting of Stockholders, held on May20, 2014, the stockholders approved an amendment to the Companys Restated Articles of Organization increasing
+the number of authorized shares of common stock from 100,000,000 to 200,000,000. 
+61 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Since 2004, the Companys Board of Directors has approved stock repurchase programs
+that have authorized the Company to repurchase in the aggregate up to $119 million of its common stock. Purchases under these programs have been made on the open market.The following table is a summary of the Companys repurchase activity
+under all of the Companys repurchase programs for the years ended December31:  Year Ended December31 Dollars in thousands
+2014 2013 2012 Shares 1 Amount Shares 1 Amount Shares 1 Amount Prior year authorizations at January1 14,433 14,793 13,963 Authorizations 14,410 12,164 6,036 Repurchases paid 756,143 15,264 773,258 12,370 363,606 5,130 Repurchases unsettled 13,983 295 6,282 154 6,798 76 
+Authorized dollars remaining as of December31 13,284 14,433 14,793 
+1
+The number of shares outstanding for all prior periods has been retroactively restated to reflect the Companys two-for-one common stock split effected in the form
+of a common stock dividend distributed on April1, 2014. See Note 1 Basis of Presentation dfor further discussion of the Stock Split. c Dividends On May27, 2014, the Company announced an
+increase in its quarterly common stock cash dividend from $0015 to $003 per share, on a post-split basis. The Company declared quarterly dividends totaling $0105 per share, $006 per share, and $006 per share, on a post-split basis, for the
+years ended December31, 2014, 2013, and 2012, respectively. The Companys Board of Directors authorized the acceleration of the payment of the dividend declared in the fourth quarter 2012, otherwise payable in January 2013, to December
+2012. Therefore, there was no dividend payment in the first quarter of 2013. For the years ended December31, 2014, 2013, and 2012, the Company paid cash dividends of $69 million, $34 million, and $57 million, respectively. It is the
+Companys current intention to pay a quarterly cash dividend of $003 per share, however, the Board of Directors may terminate or modify this dividend program at any time without notice. d Warrants summary In January 2012, a former stockholder of
+1mind Corporation 1mind exercised a warrant to purchase 4,928 shares, on a post-split basis, of the Companys common stock, which was originally issued as part of the consideration for the Companys acquisition of 1mind in
+2002. In accordance with the net exercise provisions of this warrant, the Company withheld 156 shares, on a post-split basis, of its common stock to cover the exercise price of the warrant, which shares were valued at $2,094 based on the average
+closing price of its common stock over the ten consecutive trading days ending on the third trading day prior to the exercise date, and issued 4,772 shares, on a post-split basis, of its common stock. The issuance of these shares was made in
+reliance on an exemption from registration under Regulation D under the Securities Act of 1933. As of December31, 2014 and December31, 2013, there were no warrants outstanding. 15.
+STOCK-BASED COMPENSATION 
+The majority of the Companys stock-based compensation arrangements vest over either a four or five year vesting
+schedule and the Companys stock options have a ten-year term. The Company recognizes stock-based compensation using the accelerated recognition method, treating each vesting tranche as if it were an individual grant. 
+62 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+The Company periodically grants stock options and restricted stock units
+RSUs for a fixed number of shares upon vesting to employees and non-employee Directors. The exercise price for stock options is greater than or equal to the fair market value of the shares at the grant date. RSUs deliver to the
+recipient a right to receive a specified number of shares of the Companys common stock upon vesting. Unlike stock options, there is no cost to the employee at share issuance. The Company values its RSUs at the fair value of its common stock on
+the grant date, which is the closing price of its common stock on the grant date, less the present value of expected dividends, as the employee is not entitled to dividends during the requisite service period. Upon vesting of the RSUs, the Company
+withholds shares of common stock in an amount sufficient to cover the minimum statutory tax withholding obligations and issues shares of its common stock for the remaining amount. 
+Employees may elect to receive 50% of their target incentive compensation under the Companys Corporate Incentive Compensation Plan
+the CICP in the form of RSUs instead of cash. If elected by an employee, the equity amount is equal in value on the date of grant to 50% of his or her target incentive opportunity, based on the employees base salary. The number
+of RSUs granted is determined by dividing 50% of the employees target incentive opportunity by the fair value of a RSU on the grant date. If elected, the award vests 100% on the CICP payout date of the following year for all participants.
+Vesting is conditioned upon the performance conditions of the CICP and on continued employment; if threshold funding does not occur, the equity grant will be cancelled. The Company considers vesting to be probable on the grant date and recognizes
+the associated stock-based compensation expense over the requisite service period beginning on the grant date and ending on the vest date. The Company grants options that allow for the settlement of vested stock options on a net share basis net settled stock options, instead of settlement with a cash payment cash settled
+stock options. With net settled stock options, the employee does not surrender any cash or shares upon exercise. Rather, the Company withholds the number of shares to cover the option exercise price and the minimum statutory tax withholding
+obligations from the shares that would otherwise be issued upon exercise. The settlement of vested stock options on a net share basis results in fewer shares issued by the Company. 
+Share-Based Compensation Plans: 
+a 1994 Long-term Incentive Plan In 1994, the Company adopted the 1994 Long-Term Incentive Plan as amended in 2003, the 1994 Plan to provide employees, Directors and consultants with opportunities to purchase stock through
+incentive stock options and non-qualified stock options. In addition to options, participants under the 1994 Plan were eligible to receive stock appreciation rights, restricted stock and long-term performance awards. The term for granting awards
+under the 1994 Plan expired in April 2005, however, awards outstanding prior to expiration continued to be governed by the terms and conditions of the 1994 Plan. As of December31, 2014, all options to purchase shares of common stock under the
+1994 Plan were exercised. b 1996 Non-Employee Director Stock Option Plan 
+In 1996, the Company adopted the 1996 Non-Employee Director Stock Option Plan the Director Plan, which provided for the
+grant to non-employee Directors of the Company of options to purchase shares of its common stock. All shares authorized for issue under this plan have been awarded. Since 2006, in lieu of granting fully vested options, the Company has granted shares
+of its common stock to its non-employee directors under the 2004 Long-Term Incentive Plan, as described below. As of December31, 2014, options to purchase an aggregate of approximately 30,000 shares of common stock were outstanding under the
+Director Plan. 
+63 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+c Amended and Restated 2004 Long-Term Incentive Plan 
+In 2004, the Company adopted the 2004 Long-Term Incentive Plan the 2004 Plan to provide employees, non-employee Directors
+and consultants with opportunities to purchase stock through incentive stock options and non-qualified stock options. In addition to options, eligible participants under the 2004 Plan may be granted stock purchase rights and other stock-based
+awards. In July 2011, the Companys stockholders approved the Pegasystems Inc. Amended and Restated 2004 Long-Term Incentive Plan the Restated 2004 Plan, which authorized the issuance of an additional 5,000,000 shares under the
+plan and extended the term of the plan to 2021. Since 2006, the Company has granted to each non-employee director of the Company unrestricted shares of common stock on an annual basis in consideration of their board service. The number of
+unrestricted shares granted to each non-employee director was equal to $95,000, $70,000, and $70,000, divided by the fair market value of the Companys common stock on the grant date, for 2014, 2013, and 2012, respectively. On March6,
+2014, the Companys Board of Directors approved a two-for-one stock split of the Companys common stock, effected in the form of a stock dividend.See Note 1 Basis of Presentation dfor further discussion of the
+Stock Split. As a result of the Stock Split, the number of shares available for issuance under the 2004 Plan doubled. As of December31, 2014, approximately 7,788,000 shares were subject to outstanding options and stock-based awards under the
+Restated 2004 Plan. d 2006 Employee Stock Purchase Plan 
+In 2006, the Company adopted the 2006 Employee Stock Purchase Plan the 2006 ESPP pursuant to which the Companys
+employees are entitled to purchase up to an aggregate of 500,000 shares of common stock at a price equal to at least 85% of the fair market value of the Companys common stock on either the commencement date or completion date for offerings
+under the plan, whichever is less, or such higher price as the Companys Board of Directors may establish from time to time. Until the Companys Board of Directors determines otherwise, the Board has set the purchase price at 95% of the
+fair market value on the completion date of the offering period. As a result, the 2006 ESPP is non-compensatory and is tax qualified. Therefore, as of December31, 2014, no compensation expense related to shares issued under the plan had been
+recognized. In October 2012, the Companys Board of Directors amended the term of the 2006 ESPP such that it will continue until there are no shares remaining to be issued under the plan or until the plan is terminated by the Board of
+Directors, whichever occurs first. On March6, 2014, the Companys Board of Directors approved a two-for-one stock split of the Companys common stock, effected in the form of a stock dividend.See Note 1 Basis of
+Presentation dfor further discussion of the Stock Split. As a result of the Stock Split, the number of shares available for issuance under the 2004 Plan doubled. As of December31, 2014, approximately 307,000 shares had been
+issued thereunder. Shares reserved As of December31, 2014, there were approximately 5,896,000 shares remaining for issuance for future equity grants under the Companys stock plans, consisting of approximately 5,203,000 shares
+under the Restated 2004 Plan and approximately 693,000 shares under the 2006 ESPP. There were no shares available for future equity grants under the 1994 Plan or the Director Plan. Equity grants, assumptions and activity During 2014, the Company issued
+approximately 774,000 shares to its employees under the Companys share-based compensation plans and approximately 29,000 shares to the non-employee members of its Board of Directors. 
+64 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+The following table presents the stock-based compensation expense included in the
+Companys consolidated statements of operations:  Year ended December31 in thousands
+2014 2013 2012 Stock-based compensation expense Cost of revenues 5,335 4,085 3,655 Operating expenses 13,870 8,784 7,851 
+Total stock-based compensation before tax 19,205 12,869 11,506 Income tax benefit 5,563 3,918 3,699
+Stock Options The Company estimates the fair value of stock options using a Black-Scholes option valuation model. Key inputs used to estimate the fair value of stock options include the exercise price of the award, the
+expected term of the option, the expected volatility of the Companys common stock over the options expected term, the risk-free interest rate over the options expected term, and the Companys expected annual dividend yield.
+The amount of stock-based compensation recognized during a period is based on the value of the awards that are ultimately expected to vest. Forfeitures are estimated at the time of grant and revised, if necessary, in subsequent periods if actual
+forfeitures differ from those estimates. Ultimately, the Company recognizes the actual expense over the vesting period only for the shares that vest. The weighted-average grant-date fair value for stock options granted in 2014, 2013, and 2012, was
+$758, $672 and $472, respectively. The weighted-average assumptions used in the Black-Scholes option valuation model are
+as follows:  Year ended December31 2014 2013 2012 Expected volatility 1 47 49 54 Expected term in years 2 44 45 43 Risk-free interest rate 3 133 102 063 Expected annual dividend yield 4 044 042 052  1
+The expected volatility for each grant is determined based on the average of historical daily price changes of the Companys common stock over a period of time
+which approximates the expected option term.  2
+The expected option term for each grant is determined based on the historical exercise behavior of employees and post-vesting employment termination behavior.
+3
+The risk-free interest rate is based on the yield of zero-coupon U.S. Treasury securities for a period that is commensurate with the expected option term at the time of
+grant.  4
+The expected annual dividend yield is based on the weighted-average of the dividend yield assumptions used for options granted during the applicable period. The
+expected annual dividend has historically been based on the expected dividend of $006 per share, per year $0015 per share, per quarter times 4 quarters, on a post-split basis, divided by the average stock price. On May27, 2014, the Company
+announced an increase in its quarterly cash dividend from $0015 to $003 per share. Thus, for grants made after this date, the expected annual dividend is based on the expected dividend of $012 per share, per year $003 per share, per quarter
+times 4 quarters, divided by the average stock price. The Company elected to adopt the alternative transition
+method short cut method in calculating its historical pool of windfall tax benefits in regards to its share-based compensation. 
+65 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+The following table summarizes the combined stock option activity under the
+Companys stock option plans for the year ended December31, 2014:  Shares inthousands Weighted-averageexercise price  Aggregateintrinsicvaluein thousands Options outstanding as of January1, 2014 5,996 1048 Granted 1,361 2005 Exercised 954 717 Forfeited/Cancelled 303 1349 
+Options outstanding as of December31, 2014 6,100 1299 
+Vested and expected to vest as December31, 2014 5,103 1267 68 41,449 
+Exercisable as of December31, 2014 2,558 1003 51 27,477 
+The aggregate intrinsic value of stock options exercised i.e., the difference between the market price
+at exercise and the price paid by the employee at exercise in 2014, 2013, and 2012 was $132 million, $206 million and $85 million, respectively. The aggregate intrinsic value of stock options outstanding and exercisable as of December31,
+2014 is based on the difference between the closing price of the Companys stock of $2077 on December31, 2014 and the exercise price of the applicable stock options. 
+As of December31, 2014, the Company had unrecognized stock-based compensation expense related to the unvested portion of stock
+options of approximately $81 million that is expected to be recognized as expense over a weighted-average period of approximately 22 years. 
+RSUs The
+weighted-average grant-date fair value for RSUs granted in 2014, 2013, and 2012 was $1988, $1606, and $1618, respectively. The following table summarizes the combined RSU activity for periodic grants and the CICP under the Restated 2004 Plan for
+the year ended December31, 2014:  Sharesinthousands Weighted-Average Grant-Date
+FairValue AggregateIntrinsic Value
+inthousands Nonvested as of January1, 2014 928 1602 Granted 1,301 1988 Vested 389 1560 Forfeited 122 1800 
+Nonvested as of December31, 2014 1,718 1890 35,678 
+Expected to vest as of December31, 2014 1,294 1900 26,881 
+The RSUs associated with periodic grants vest over five years with 20% vesting after one year and the
+remaining 80% vesting in equal quarterly installments over the remaining four years. Approximately 100,000 RSUs granted in connection with the 2014 CICP are expected to vest 100% in March 2015. 
+The fair value of RSUs vested in 2014, 2013, and 2012 was $80 million, $73 million, and $71 million, respectively. The aggregate
+intrinsic value of RSUs outstanding and expected to vest as of December31, 2014 is based on the closing price of the Companys stock of $2077 on December31, 2014. 
+66 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+As of December31, 2014, the Company had approximately $129 million of
+unrecognized stock-based compensation expense related to all unvested RSUs that is expected to be recognized as expense over a weighted-average period of approximately 21 years. 16.
+INCOME TAXES 
+Effective tax rate The components of income before provision for income taxes are as follows for the years ended December31:  in thousands
+2014 2013 2012 Domestic 36,485 47,054 20,497 Foreign 11,509 9,339 10,448 
+Total income before provision 47,994 56,393 30,945 
+The components of the provision for income taxes are as follows for the years ended December31:
+in thousands
+2014 2013 2012 Current Federal 22,488 20,277 12,128 State 2,952 2,054 971 Foreign 3,195 3,027 2,142 
+Total current provision 28,635 25,358 15,241 
+Deferred Federal 11,972 6,069 4,759 State 1,209 634 870 Foreign 715 305 535 
+Total deferred benefit 13,896 7,008 6,164 
+Total provision 14,739 18,350 9,077 
+The effective income tax rate differed from the statutory federal income tax rate due to the following:
+2014 2013 2012 Statutory federal income tax rate 350 350 350 Valuation allowance 05 30 Transaction costs 04 State income taxes, net of federal benefit and tax credits 18 14 08 Permanent differences 13 10 17 Domestic production activities 49 38 39 Federal research and experimentation credits 17 28 Tax effects of foreign activities 22 19 27 Tax-exempt income 01 01 01 Provision to return adjustments 08 06 Non-deductible compensation 25 12 15 Provision for uncertain tax positions 07 15 28 Other 08 02 18 
+Effective income tax rate 307 325 293 
+67 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+Deferred income taxes 
+Deferred income taxes reflect the tax attributes and tax effects of temporary differences between the carrying amounts of assets and
+liabilities for financial reporting purposes and the amounts used for income tax purposes. Significant components of net deferred tax assets and liabilities are as follows: in thousands
+2014 2013 1 Deferred tax assets Net operating loss carryforwards 86,770 87,709 Accruals and reserves 24,393 21,191 Software revenue 13,199 7,863 Depreciation 4,655 4,374 Tax credit carryforwards 6,028 5,359 Other 38 22 
+Total deferred tax assets 135,083 126,474 Less valuation allowances 35,620 36,076 
+Total deferred tax assets 99,463 90,398 
+Deferred tax liabilities Intangibles 17,231 21,317 
+Total deferred tax liabilities 17,231 21,317 
+Net deferred income tax assets 82,232 69,081 
+Reported as Current deferred tax asset 12,974 12,336 Long-term deferred income tax assets 69,258 56,745 
+Total deferred income taxes 82,232 69,081 
+1
+The purchase price adjustments related to the Antenna acquisition identified during 2014 were retrospectively applied as of December31, 2013. See Note 8
+Acquisitions for further discussion of these adjustments. The Company regularly assesses the need
+for a valuation allowance against its deferred tax assets. In making that assessment, the Company considers both positive and negative evidence related to the likelihood of realization of the deferred tax assets to determine, based on the weight of
+available evidence, whether it is more-likely-than-not that some or all of the deferred tax assets will not be realized. This determination requires significant judgment, including assumptions about future taxable income that are based on historical
+and projected information. There were no material adjustments to the Companys valuation allowance position during 2014. The $05 million net decrease in the valuation allowance during the period primarily relates to movements in foreign
+exchange rates. The $24 million net increase in the valuation allowance during 2013 primarily relates to the valuation allowance recorded against the acquired Antenna federal and foreign NOLs that the Company had preliminarily determined it would
+not be able to utilize due to various limitations and restrictions. The Company acquired approximately $396 million and
+$581 million of federal and foreign NOLs, respectively, in the Antenna acquisition. The Company has determined that it may utilize $75 million of the acquired Antenna federal NOLs under the applicable section 382 limitation, and these losses are
+scheduled to expire through 2031. A valuation allowance is recorded on the deferred tax assets in excess of the federal NOLs that are deemed recoverable under the limitation. With regard to the acquired foreign NOLs, a full valuation allowance has
+been recorded as of December31, 2014 due to uncertainty regarding the availability of these NOLs to offset future income generated by the related foreign businesses due to limitations under local country
+68 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+change in control provisions. As of December31, 2014, the Company had approximately $393 million of acquired Antenna federal NOLs, which are subject to annual use limitations under section
+382. Based on those limitations, the Company anticipates using $71 million of the remaining NOLs by 2031. As of
+December31, 2014, the Company had approximately $1158 million of acquired Chordiant federal NOLs, which are subject to annual use limitations under section 382. Based on those limitations, the Company anticipates using $90 million of the
+remaining NOLs by 2029. In addition, the Company has $07 million of deferred tax assets related to state NOLs as of December31, 2014. As of December31, 2014, the Company had available $62 million of state tax research and experimentation RE credits and $05 million of investment tax credits expiring in the
+years 2015 through 2029. The Companys India subsidiary is a development center in an area designated as a Special
+Economic Zone SEZ and is entitled to a tax holiday in India. The tax holiday reduces or eliminates income tax in that country and is scheduled to expire in 2022. For the years ended December31, 2014, 2013, and 2012, the effect of
+the income tax holiday was to reduce the overall income tax provision by approximately $08 million, $05 million, and $05 million, respectively. The benefit of the tax holiday on net income per share diluted was $001 for each of the years ended
+December31, 2014, 2013, and 2012. In 2014, the Company reduced its income tax payable by $31 million for the tax
+benefit realized from the exercise, sale or vesting of equity awards. Undistributed earnings of the Companys foreign
+subsidiaries amounted to approximately $447 million as of December31, 2014. The Company has not provided any additional federal or state income taxes or foreign withholding taxes on the undistributed earnings as such earnings have been
+indefinitely reinvested in the business. It is impractical to estimate the amount of tax the Company could have to pay upon repatriation due to the complexity of foreign tax credit calculations and because the Company considers its earnings
+permanently reinvested. Uncertain tax benefits and other considerations 
+A reconciliation of the beginning and ending balances of the total amounts of gross unrecognized tax benefits is as follows: in thousands
+2014 2013 2012 Balance as of January1 40,929 26,317 25,312 Additions based on tax positions related to the current year 4,041 4,320 3,855 Additions for tax positions of prior years 285 350 969 Reductions Additions for acquired uncertain tax benefits 716 10,268 Reductions for tax positions of prior years 1,143 326 3,819 
+Balance as of December31 43,396 40,929 26,317 
+As of December31, 2014, the Company had approximately $434 million of total unrecognized tax
+benefits, of which $234 million would decrease the Companys effective tax rate if recognized. However, approximately $20 million of these unrecognized tax benefits relate to acquired NOLs and research tax credits, which are subject to
+limitations on use. The Company expects that the changes in the unrecognized benefits within the next twelve months will be approximately $05 million, all of which relate to the expiration of applicable statute of limitations and would reduce the
+Companys effective tax rate if realized. 
+69 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+For the year ended December31, 2014, the reductions for tax positions of prior
+years were related to the lapse in the applicable statute of limitations, revision of purchase accounting estimates, settlements of audits, and the impact for foreign currency exchange rates. For the years ended December31, 2013 and 2012, the
+reductions for tax positions of prior years were all related to the lapse in the applicable statute of limitations. The
+Company recognizes interest accrued and penalties related to unrecognized tax benefits in the income tax provision. For the years ended December31, 2014, 2013, and 2012, the Company recognized interest expense of approximately $03 million 03 million, and $01 million, respectively. For the years ended December31, 2014, 2013, and 2012, the Company did not recognize any significant penalties. As of December31, 2014 and 2013, the Company had accrued approximately $15
+million and $11 million, respectively, for interest and penalties. The Company files income tax returns in the U.S. and in
+foreign jurisdictions. The Companys 2011, 2012 and 2013 federal income tax returns are under examination. The Company is generally not subject to U.S. federal, state, or local, or foreign income tax examinations by tax authorities for the
+years before 2008. With few exceptions, the statute of limitations remains open in all jurisdictions for the tax years 2009 to the present.  17.
+EARNINGS PER SHARE 
+Basic earnings per share is computed using the weighted-average number of common shares outstanding during the period.
+Diluted earnings per share is computed using the weighted-average number of common shares outstanding during the period, plus the dilutive effect of outstanding options, warrants, and RSUs, using the treasury stock method and the average market
+price of the Companys common stock during the applicable period. Certain shares related to some of the Companys outstanding stock options, warrants and RSUs were excluded from the computation of diluted earnings per share because they
+were antidilutive in the periods presented, but could be dilutive in the future.  Year Ended December31 in thousands, except per share amounts
+2014 2013 2012 Basic 1 Net income 33,255 38,043 21,868 
+Weighted-average common shares outstanding 76,327 75,946 75,706 
+Earnings per share, basic 044 050 029 
+Diluted 1 Net income 33,255 38,043 21,868 
+Weighted-average common shares outstanding 76,327 75,946 75,706 Weighted-average effect of dilutive securities Stock options and warrants 1,698 1,626 1,554 RSUs 506 402 458 
+Effect of assumed exercise of stock options, warrants and RSUs 2,204 2,028 2,012 
+Weighted-average common shares outstanding, assuming dilution 78,531 77,974 77,718 
+Earnings per share, diluted 042 049 028 
+Outstanding options, warrants and RSUs excluded as impact would be antidilutive 98 226 124
+1
+The number of common shares and per share amounts have been retroactively restated for all prior periods presented to reflect the Companys two-for-one common
+stock split effected in the form of a common stock dividend distributed on April1, 2014. See Note 1 Basis of Presentation dfor further discussion of the Stock Split. 
+70 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 18.
+GEOGRAPHIC INFORMATION AND MAJOR CLIENTS 
+Operating segments are defined as components of an enterprise about which separate financial information is available
+that is evaluated regularly by the chief operating decision maker CODM in deciding how to allocate resources and in assessing performance. The Company develops and licenses its software solutions and provides consulting services, maintenance, and training related to its software. The Company derives substantially all of its revenue from the
+sale and support of one group of similar products and servicessoftware that provides business process solutions in the enterprise applications market. To assess performance, the Companys CODM reviews financial information on a
+consolidated basis. The Company has one operating segment after completing the integration of Antennas operations. Therefore, the Company determined it has one reportable segmentDigital Enterprise Business Solutions, and one reporting
+unit. The Companys international revenue is from sales to clients based outside of the U.S. The Company derived its
+operating revenue from the following geographic areas:  Year ended December31 Dollars in thousands
+2014 2013 2012 U.S. 327,154 55 278,945 55 250,022 54 Other Americas 32,642 6 18,942 4 27,741 6 United Kingdom 93,923 16 83,134 16 87,135 19 Other EMEA 1 87,050 15 82,743 16 70,583 15 Asia Pacific 49,235 8 45,190 9 26,229 6 
+590,004 100 508,954 100 461,710 100 
+1
+Includes Europe other than the UK, the Middle East and Africa, Other EMEA. 
+Long-lived assets related to the Companys U.S. and international operations were as follows: December31 Dollars in thousands
+2014 2013 U.S. 18,276 61 21,282 74 India 8,943 29 4,645 16 International, other 2,937 10 3,030 10 
+30,156 100 28,957 100 
+71 Table of Contents PEGASYSTEMS INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTSContinued 
+There were no clients accounting for 10% or more of the Companys total revenue in
+2014, 2013, and 2012. There was one client that accounted for 10% or more of the Companys trade receivables, net, as of December31, 2013, as listed below. The Companys financial services, healthcare and insurance clients as a group
+represent a significant amount of the Companys revenues and receivables. However, the Company determined this concentration did not have a material impact on its allowance for sales credit memos as of December31, 2014. December31 Dollars in thousands
+2014 2013 Trade receivables, net of allowances 154,844 165,641 Client A n/a 16 Marketable securities are another financial instrument that potentially subject the Company to a
+concentration of credit risk. See Note 3 Marketable Securities and Note 5 Fair Value Measurements for further discussion.  19.
+EMPLOYEE BENEFIT PLANS 
+The Company sponsors a 401k defined contribution retirement plan for qualifying employees pursuant to which the
+Company makes discretionary matching contributions. The Companys expense under the plan totaled approximately $34 million in 2014, $29 million in 2013, and $28 million in 2012. In addition, the Company has defined contribution plans for
+qualifying international employees and contributions expensed under those plans totaled approximately $51 million in 2014, $37 million in 2013, and $32 million in 2012. 20.
+SELECTED QUARTERLY INFORMATION UNAUDITED 
+2014 in thousands, except per share amounts
+1stQuarter 2ndQuarter 3rdQuarter 4thQuarter Revenue 140,464 142,985 137,631 168,924 Gross profit 94,551 96,294 91,249 122,816 Income from operations 14,627 2,222 4,997 29,693 Income before provision for income taxes 14,541 2,387 2,352 28,714 Net income 9,765 1,504 1,882 20,104 Net earnings per share, basic 1 013 002 002 027 
+Net earnings per share, diluted 1 012 002 002 026 
+2013 in thousands, except per share amounts
+1stQuarter 2ndQuarter 3rdQuarter 4thQuarter 2 Revenue 116,246 117,315 122,011 153,382 Gross profit 78,593 79,437 83,913 109,605 Income from operations 12,951 7,053 13,789 24,304 Income before provision for income taxes 12,018 6,657 13,410 24,308 Net income 9,069 4,703 8,710 15,561 Net earnings per share, basic 1 012 006 011 021 
+Net earnings per share, diluted 1 012 006 011 020 
+1
+On March6, 2014, the Companys Board of Directors approved a two-for-one stock split of the Companys common stock, effected in the form of a common
+stock dividend. See Note 1 Basis of Presentation dfor further discussion of the Stock Split.  2
+Reflects the Companys acquisition of Antenna on October9, 2013. See Note 8 Acquisitions for pro forma information for the year ended
+December31, 2013. 
+72 Table of Contents Item1B.
+Unresolved Staff Comments 
+None.  Item2.
+Controls and Procedures a Evaluation of Disclosure Controls and Procedures. Our
+management, with the participation of our Chief Executive Officer, or CEO, and Chief Financial Officer, or CFO, evaluated the effectiveness of our disclosure controls and procedures as defined in Rules 13a-15e and 15d-15e under the Securities
+Exchange Act as of December31, 2014. In designing and evaluating our disclosure controls and procedures, our management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable
+assurance of achieving their objectives, and our management necessarily applied its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on this evaluation, our CEO and CFO concluded that our disclosure
+controls and procedures were effective as of December31, 2014. b Managements Report on
+and Changes in Internal Control over Financial Reporting. Our management is responsible for establishing and
+maintaining adequate internal control over financial reporting, as such term is defined in Rules 13a-15f and 15d-15f under the Securities Exchange Act. Under the supervision and with the participation of our management, including our CEO and
+CFO, we conducted an evaluation of the effectiveness of our internal control over financial reporting as of December31, 2014 based on the framework in the updated Internal ControlIntegrated Framework 2013issued by the
+Committee of Sponsoring Organizations of the Treadway Commission COSO on May14, 2013. Based on this evaluation, management has concluded that iour disclosure controls and procedures were effective as of December31,
+2014 and iino change in our internal control over financial reporting as defined in Rules 13a-15f and 15d-15f under the Securities Exchange Act occurred during the quarter ended December31, 2014 that has materially affected, or
+is reasonably likely to materially affect, our internal control over financial reporting. Deloitte Touche LLP, our
+independent registered public accounting firm which also audited our consolidated financial statements, has issued an attestation report on our internal control over financial reporting, which is included on page 40 in Item8 Financial
+Statements and Supplementary Data.  Item1B.
+Unresolved Staff Comments 
+None.  Item2.
+Directors, Executive Officers, and Corporate Governance 
+Except as set forth below, the information required by this Item is contained in our proxy statement for our 2015 annual stockholders
+meeting the 2015 proxy statement under the heading Election of Directors, and is incorporated herein by reference. Information relating to certain filings on Forms 3, 4, and 5 is contained in our 2015 proxy statement under
+the heading Section 16a Beneficial Ownership Reporting Compliance, and is incorporated herein by reference. Information required by this item pursuant to Items 407 c3, 407d 4, and 407d 5of Regulation S-K
+relating to an audit committee financial expert, the identification of the audit committee of our Board of Directors and procedures of security holders to recommend nominees to our Board of Directors is contained in the 2015 proxy statement under
+the heading Corporate Governance and is incorporated herein by reference. We have adopted a written code of
+conduct that applies to our Board of Directors and all of our employees, including our principal executive officer, principal financial officer, principal accounting officer, or persons performing similar functions. A copy of our code of conduct can
+be found on our Website, www.pega.com. We intend to satisfy the disclosure requirements under Item505 of Form 8-K and under the applicable the NASDAQ Global Select Market rules by posting such information on our Website in accordance
+with such requirements. EXECUTIVE OFFICERS The names of our executive officers and certain information about them are set forth below as of February1, 2015: Alan Trefler, age 58, a founder of Pegasystems, serves as Chief Executive Officer and Chairman and has been a Director since we organized in 1983. Prior to 1983, he managed an electronic funds
+transfer product for TMI Systems Corporation, a software and services company. Mr.Trefler holds a B.A. degree in Economics and Computer Science from Dartmouth College. 
+Rafeal Brown, age 46, joined Pegasystems in October 2013 as Chief Financial Officer, Chief Administrative Officer and Senior Vice
+President. Mr.Brown served as a Senior Vice President of Finance, Treasury and Tax, at Salesforce.com, a leading provider of cloud computing software applications, where he was employed from 2004 to 2013. From 1999 to 2004, Mr.Brown
+worked at Cisco Systems, a leading provider of networking technologies. Mr.Brown is a certified public accountant and holds a B.S. in accounting from Southern Utah University and a Masters in accounting from Brigham Young University.
+Efstathios Kouninis, age 53, joined Pegasystems in April 2008 as Vice President of Finance. The Board of
+Directors appointed Mr.Kouninis as the Companys Chief Accounting Officer in May 2008 and Treasurer in January 2014. From February 2006 to April 2008, Mr.Kouninis served as Chief Financial Officer and Treasurer of Tasker Products
+Corporation, a publicly traded manufacturer of antimicrobial chemicals. From November 2004 to February 2006, Mr.Kouninis served on the Staff of the Division of Corporation Finance of the U. S. Securities and Exchange Commission.
+Mr.Kouninis holds a Post Baccalaureate in Accounting, a M.S. in taxation from Bentley College, and a B.S. from the University of Massachusetts. Douglas Kra, age 52, joined Pegasystems in November 2004 as Vice President of Global Services. In July 2014, the Company re-organized its sales and consulting services functions under one
+responsibility for specific geographic regions, and Mr.Kra was promoted to Senior Vice President of Global Customer Success for international regions. From 2002 to 2004, Mr.Kra served as Vice President at eLoyalty Corp., a consulting
+company specializing in customer relationship management. From 2000 to 2001, Mr.Kra served as President of Zefer Corp., an internet consulting firm. Prior to Zefer, Mr.Kra spent ten years at Cambridge Technology Partners Inc. in a
+variety of senior roles. He holds a B.A. in Computer Science from Brandeis University and an M.B.A. in finance from the New York University Stern School of Business. 
+74 Table of Contents
+Michael Pyle, age 60, joined Pegasystems in 1985 and has served as Senior Vice
+President of Engineering since August 2000. Including his positions with Pegasystems, Mr.Pyles professional background encompasses more than thirty years of software development and managerial experience throughout Europe and the U.S.
+Mr.Pyle completed his B.C.S. specializing in Computer Science and Systems Programming at the Civil Service College in London. Leon Trefler, age 54, joined Pegasystems in April 1998 as an Account Executive for Strategic Business Development. Since then he has held various senior sales management positions across the
+Company and in Channel Sales. In 2002, he launched the commercialization of PegaRULES Process Commander, the predecessor to Pega 7. From April 2007 to January 2010, Mr.Trefler served as Vice President of Sales, North America and in January
+2010, Mr.Trefler was promoted to Senior Vice President of Sales. In July 2014, the Company re-organized its sales and consulting services functions under one responsibility for specific geographic regions, and Mr.Trefler was promoted to
+Senior Vice President of Global Customer Success for the Americas region. Mr.Trefler holds a B.A. degree from Dartmouth College. Alan Trefler and Leon Trefler are brothers. There are no other family relationships among any of our executive officers or Directors. 

@@ -1,0 +1,536 @@
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY FINANCIAL DATA
+INDEX TO FINANCIAL STATEMENTS
+AND FINANCIAL STATEMENT SCHEDULE
+PAGE
+Report of Independent    20
+Consolidated Balance Sheets--As of December 31, 1996 and    21
+Consolidated Statements of Income--For each of the three years in the period ended December 31, 1997.   22
+Consolidated Statements of Cash Flows--For each of the three years in the
+period ended December 31,    23
+Consolidated Statements of Changes in Shareholders' Equity--For each of the three years in the period ended
+December 31,    24
+Notes to Consolidated Financial    25
+Financial Statement Schedule:
+Schedule II--Valuation and Qualifying Accounts--For each of the three years in the period ended
+December 31,    38 REPORT OF INDEPENDENT ACCOUNTANTS
+To the Stockholders and Board of Directors
+ThrustMaster, Inc.
+We have audited the consolidated financial statements and the financial
+statement schedule of ThrustMaster, Inc. and Subsidiary listed in the index on
+page 19 of this Form 10-K. These financial statements and financial statement
+schedule are the responsibility of the Company management. Our responsibility
+is to express an opinion on these financial statements and financial statement
+schedule based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated financial position of ThrustMaster,
+Inc. and Subsidiary as of December 31, 1996 and 1997 and the consolidated
+results of their operations and their cash flows for each of the three years in
+the period ended December 31, 1997, in conformity with generally accepted
+accounting principles. In addition, in our opinion, the financial statement
+schedule referred to above, when considered in relation to the basic financial
+statements taken as a whole, presents fairly in all material respects, the
+information required to be included therein.
+COOPERS & LYBRAND L.L.P.
+Portland, Oregon
+January 23, 1998             THRUSTMASTER, INC.
+CONSOLIDATED BALANCE SHEETS 
+Dollars in thousands
+DECEMBER 31,
+1996     1997
+ASSETS
+Current assets:
+Cash and cash     $6,420   $  449
+Accounts receivable, less allowance for doubtful 
+accounts of $14 and      9,820    16,604
+3,560    6,974
+Prepaid expenses and       109     294
+Deferred income       239     409
+Total current     20,148    24,730
+Plant and equipment,      1,081    2,119
+32      28
+Total     $21,261   $26,877
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Note     $  --   $ 1,110
+Accounts      3,021    2,919
+Accrued      2,311    3,504
+Current portion--long-term       10                                          Total current      5,342    7,533
+Deferred income       21      64
+Total      5,363    7,597
+Commitments Note 8
+Shareholders' equity:
+Preferred stock, no par value, 5,000,000 shares 
+authorized; none issued or       --       Common stock, no par value, 25,000,000 shares 
+authorized; 4,240,403 and 4,293,588 shares issued 
+and     13,301    13,486
+Retained      2,597    5,794
+Total shareholders'     15,898    19,280
+Total liabilities and shareholders' equity.    $21,261   $26,877
+The accompanying notes are an integral part of these consolidated financial
+statements.
+THRUSTMASTER, INC. 
+CONSOLIDATED STATEMENTS OF INCOME 
+Dollars in thousands, except per share amounts
+YEARS ENDED DECEMBER 31,
+1995    1996    1997
+$ 19,415 $ 30,821 $ 45,494
+Cost of goods    11,815   19,592   28,839
+Gross    7,600   11,229   16,655
+Operating expenses:
+Research and    1,845   2,105   2,697
+Selling, general and    4,111   5,961   9,450
+Total operating    5,956   8,066   12,147
+Income from    1,644   3,163   4,508
+Interest     404    466    304
+Income before income    2,048   3,629   4,812
+Provision for income     614   1,370   1,615
+Net  $  1,434 $  2,259 $  3,197
+Pro forma data Notes 2 and 11:
+Income before income  $  2,048
+Provision for income     687
+Net  $  1,361
+Net income per share
+$ 037 $  054 $  075
+$ 034 $  051 $  069
+Weighted average shares outstanding
+3,647   4,182   4,268
+4,060   4,468   4,660
+The accompanying notes are an integral part of these consolidated financial
+statements.             THRUSTMASTER, INC. 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+Dollars in thousands
+YEARS ENDED DECEMBER 31,
+1995    1996    1997
+Cash flows from operations:
+Net  $  1,434 $  2,259 $  3,197
+Adjustments to reconcile net income to net cash provided by used in 
+operating activities:
+376    766    615
+Deferred income     66   152   127
+Changes in assets and liabilities:
+Accounts     784  6,923  6,784
+1,572  1,034  3,414
+Prepaid expenses and other     346    286    181
+Payables and accrued     325   3,857   1,212
+Net cash provided by used in operating      59    941  5,482
+Cash flows from investing activities:
+Purchases of plant and     753   789  1,653
+Cash flows from financing activities:
+Proceeds from note    --     --     1,110
+Payments on long-term     56    11    10
+Proceeds from issuance of common    8,851     71     64
+Cash     556  --                                                        Net cash provided by financing    8,239     60   1,164
+Net increase decrease in cash and
+cash    7,545   1,670  5,971
+Cash and cash equivalents, beginning of     545   8,090   6,420
+Cash and cash equivalents, end of  $  8,090 $  6,420 $   449
+Cash paid during the year for:
+$    3  $   1  $   19
+Income     376     47    1,531 
+The accompanying notes are an integral part of these consolidated financial
+statements.
+23             THRUSTMASTER, INC. 
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+In thousands                                        COMMON STOCK
+RETAINED
+SHARES   AMOUNT  EARNINGS
+Balance, January 1,   2,192 $   875 $  1,815
+Reclassification of S corporation    --    1,660   1,660
+Proceeds from issuance of common   1,761   8,851    Tax benefits from stock options    --     491       --     --     155
+Net    --     --    1,434
+Balance, December 31,   3,953   11,877   1,434
+Proceeds from issuance of common    164     71     Tax benefits from stock options    --     257     Stock dividend declared Note    123   1,096   1,096
+Net    --     --    2,259
+Balance, December 31,   4,240   13,301   2,597
+Proceeds from issuance of common     54     64     Tax benefits from stock options    --     121     Net    --     --    3,197
+Balance, December 31,   4,294 $ 13,486 $  5,794
+The accompanying notes are an integral part of these consolidated financial
+statements.                    24                THRUSTMASTER, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Dollars in thousands, except per share amounts
+NOTE 1--THE COMPANY
+The consolidated financial statements include the accounts of ThrustMaster,
+Inc., the Company, an Oregon corporation, and its wholly-owned subsidiary,
+ThrustMaster Foreign Sales Corporation. The Company was incorporated on July 31,
+1990. The Company designs, develops, manufactures and markets a variety of game
+controllers, primarily for personal computers, and related equipment.
+NOTE 2--SIGNIFICANT ACCOUNTING POLICIES
+CASH AND CASH EQUIVALENTS. Cash equivalents consist of highly liquid debt
+instruments purchased with an original maturity of three months or less.
+INVENTORIES. Inventories are stated at the lower of cost or market on a
+first-in, first-out basis. Finished goods are costed using standard cost, which
+approximates the first-in, first-out method of accounting.
+PLANT AND EQUIPMENT. Plant and equipment are stated at cost and are 
+depreciated using the straight-line method over the estimated useful lives 
+three to seven years. Replacements and improvements which extend the useful 
+life are capitalized. Maintenance and repairs and routine replacements are 
+expensed as incurred. Upon disposal, costs and related accumulated 
+depreciation of the assets are removed from the accounts and resulting gains 
+and losses are reflected in operations.
+INCOME TAXES. From January 1, 1991 through December 31, 1994, the 
+Company was treated for federal income tax purposes as an S corporation under 
+Subchapter S of the Internal Revenue Code of 1986, as amended, and was 
+treated as an S corporation for state income tax purposes under comparable 
+state tax laws. As a result, the Company earnings from January 1, 1991 
+through December 31, 1994 have been, for federal and certain state income tax 
+purposes, taxed directly to the Company shareholders, rather than to the 
+Company. Effective January 1, 1995 the Termination Date, the Company S 
+corporation status was terminated. Subsequent to the Termination Date, the 
+Company is no longer treated as an S corporation and, accordingly, is subject 
+to federal and state income taxes on its earnings.
+Deferred tax assets and liabilities are recognized for the future tax 
+consequences attributable to differences between the financial reporting and 
+tax bases of assets and liabilities and operating loss and tax credit 
+carryforwards. Deferred tax assets and liabilities are measured using enacted 
+tax rates expected to apply to taxable income in the years in which those 
+temporary differences are expected to be recovered or settled. The effect on 
+deferred tax assets and liabilities of a change in tax rates is recognized in 
+income in the period of change. Valuation allowances are established when 
+necessary, to reduce deferred tax assets to the amounts expected to be 
+realized.
+REVENUE RECOGNITION. Revenue is recognized at the time of product 
+shipment. All products have a warranty for one year from date of sale 
+covering product defects. Certain sales agreements provide 
+25 NOTE 2--SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+the right to return on unsold merchandise. The Company provides for estimated 
+costs of warranty and returns when products are shipped. The Company offers 
+price protection to certain customers on its products. The Company records 
+anticipated price protection as a reduction of sales.
+RESEARCH AND ENGINEERING EXPENSE. Research and engineering costs are
+charged to operations as incurred.
+FOREIGN CURRENCY TRANSLATION. The Company maintains a sales and 
+distribution office and warehouse in Surrey, England, through which all of 
+its European sales are made. The financial statements of the Company 
+operations in the United Kingdom have been translated into U.S. dollars in 
+accordance with Statement of Financial Accounting Standards SFAS No. 52, 
+Foreign Currency Translation. Certain of the Company sales to foreign 
+distributors are denominated in foreign currencies. Gains and losses 
+associated with the foreign currency transaction gains and losses are 
+recorded in the Company financial statements at the settlement date. Gains 
+and losses associated with foreign currency receivables are recorded based 
+upon the exchange rate at the end of the period.
+EARNINGS PER SHARE DATA. In February 1997, the Financial Accounting 
+Standards Board issued Statement of Financial Accounting Standards No. 128, 
+Earnings per Share SFAS 128. This Statement supersedes APB Opinion No. 
+15 and specifies the computation, presentation and disclosure requirements 
+for earnings per share for entities with publicly held common stock or 
+potential common stock. The Company was required to adopt the provisions of 
+SFAS No. 128 for the year ended December 31, 1997. As it relates to the 
+Company, the principal differences between the provisions of SFAS 128 and 
+previous authoritative pronouncements are exclusion of common stock 
+equivalents in the determination of Basic Earnings Per Share and the market 
+price at which common stock equivalents are calculated in the determination 
+of Diluted Earnings per Share.
+Basic earnings per common share is computed using the weighted average 
+number of shares of common stock outstanding for the period. Diluted earnings 
+per common share is computed using the weighted average number of shares of 
+common stock and dilutive common equivalent shares outstanding during the 
+year. Common equivalent shares from stock options are excluded from the 
+computation when their effect is antidilutive.
+Stock Dividend On January 21, 1997, the Company board of directors 
+declared a 3% stock dividend payable to shareholders of record on February 
+14, 1997. Share, per share, common stock, stock option and warrant amounts 
+have been restated to reflect the effect of this stock dividend.
+USE OF ESTIMATES. The preparation of financial statements in conformity 
+with generally accepted accounting principles requires management to make 
+estimates and assumptions that affect the reported amounts of assets and 
+liabilities and disclosure of contingent assets and liabilities at the date 
+of the financial statements and the reported amounts of revenues and expenses 
+during the reporting period. Actual results could differ from those estimates.
+IMPACT OF RECENTLY ISSUED ACCOUNTING STANDARDS. During 1997, the 
+Financial Accounting Standards Board issued SFAS No. 130 and SFAS No. 131, 
+Disclosures About Segments of an Enterprise and Related Information. These 
+standards will become effective for the Company 1998 fiscal year. SFAS No. 
+130 establishes standards for reporting and display of comprehensive income 
+and 
+26 NOTE 2--SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+its components in a full set of general-purpose financial statements. SFAS 
+No. 131 changes current practice by establishing a new framework on which to 
+base segment reporting referred to as the management approach and also 
+requires interim reporting of segment information. Management is currently 
+assessing the impact of the implementation of these standards on the 
+consolidated financial statements of the Company.
+NOTE 3--CONCENTRATION OF CREDIT RISK, FOREIGN OPERATIONS, AND MAJOR
+CUSTOMER INFORMATION
+Financial instruments which potentially subject the Company to 
+concentrations of credit risk consist principally of cash and cash 
+equivalents and accounts receivable. The Company cash equivalents are in 
+high quality securities placed with institutions with high credit ratings.
+The Company accounts receivable are primarily from a small number of 
+computer wholesale distributors and software specialty stores located in the 
+United States, Canada, and western Europe. Management believes that any risk 
+of loss is significantly reduced by its ongoing credit evaluations of its 
+customers' financial condition.
+In 1995 product sales to two customers each accounted for approximately 10%
+of revenues. In 1996, no customer individually accounted for more than 10% of
+revenues. During 1997, two customers accounted for 118% and 104% of revenues,
+respectively.
+The Company operates in a single industry segment comprising interactive 
+control devices for use with personal computer entertainment software. 
+Certain of the Company products are manufactured and assembled in Taiwan 
+and China by an independent contractor. Products manufactured and assembled 
+by this vendor approximated 376% and 743%, and 899% of total products in 
+1995, 1996, and 1997 respectively.
+Net revenue by geographic region and as a percentage of total revenue for 
+each region outside the United States that constituted more than 10% of the 
+Company total revenue is as follows                                            YEARS ENDED DECEMBER 31,
+1995    1996    1997
+Net revenue by geographic region:
+$  2,489 $ 10,225 $ 13,473
+Net revenue as a percentage of total revenue:
+128%   332%   296   The Company U.K. operations accounted for substantially all of the 
+Company European sales. Identifiable assets of the Company U.K. 
+operations were $4,179 at December 31, 1997.
+27 NOTE 4--INVENTORIES
+Inventories are as follows                                                   DECEMBER 31,
+1996    1997
+Raw  $   762 $  1,062
+90     49
+Finished    2,708   5,863
+$  3,560 $  6,974
+NOTE 5--PLANT AND EQUIPMENT
+Plant and equipment consists of the following:
+DECEMBER 31,
+1996    1997
+Computers and other  $  1,075 $  1,652
+1,209   2,172
+Furniture and     230    343
+2,514   4,167
+Accumulated    1,433  2,048
+$  1,081 $  2,119
+NOTE 6--BANK LINE OF CREDIT
+At December 31, 1997, the Company had a revolving line of credit with a bank
+which provided for borrowings up to the lesser of one million dollars or 75% of
+eligible receivables. Borrowings are payable on demand and bear interest at a
+fluctuating rate equal to the prime rate or a rate based on LIBOR 85% at
+December 31, 1997. The Company bank temporarily increased the line of credit
+to the lesser of $50 million or 60% of eligible receivables through January 31,
+1998 to meet the Company seasonal working capital needs during the fourth
+quarter of 1997. The Company also may borrow up to two hundred thousand dollars
+to finance up to 80% of the cost of certain equipment. Borrowings under the
+agreement are collateralized by substantially all of the Company assets. Loan
+covenants under the agreement include maintaining a defined level of working
+capital and maximum debt to tangible net worth ratio. At December 31, 1997 1,110 was outstanding under the line.
+28 NOTE 7--ACCRUED LIABILITIES
+Accrued liabilities consist of the following                                                   DECEMBER 31,
+1996    1997
+Accrued payroll and payroll  $   132 $   208
+Accrued     460    601
+Warranty     365    785
+Federal and state income     977   1,056
+Accrued     322    771
+Other      55     83
+$  2,311 $  3,504
+A portion of the compensation paid by the Company to certain officers is
+determined based upon the Company revenues and net income for the year. The
+Company recorded expense of $118 in 1995, $251 in 1996, and $289 in 1997,
+related to such amounts.
+NOTE 8--COMMITMENTS
+The Company leases facilities and equipment under non-cancelable operating
+leases. Certain of the facility leases contain escalation clauses. The following
+is a schedule by years, through expiration of the leases, of future minimum
+lease payments required under these leases as of December 31, 1997:
+1998.$660
+1999. 705
+2000. 701
+2001. 705
+2002. 725   Under the agreements for the lease of its office, production, and
+distribution facilities, the Company is obligated to the lessors for its share
+of certain expenses related to the use, operation, maintenance and insurance of
+the property. These expenses, payable monthly in addition to the base rent, are
+not included in the amounts shown above. Rental expense totaled $239, $236 and
+$438 for the years ended December 31, 1995, 1996, and 1997, respectively.
+NOTE 9--STOCK OPTION PLANS AND WARRANTS
+The Company has adopted a stock option plan for employees the 1994 Stock
+Option Plan and a separate option plan for directors the Directors' Stock
+Option Plan. The Company has reserved 400,000 shares for issuance under the
+1994 Stock Option Plan and 160,000 shares for issuance under the Director
+Stock Option Plan. The 1994 Stock Option Plan provides for incentive stock
+option and nonqualified options to be granted. The Company previously made
+grants under a nonqualified plan adopted in 1990 in which 1,200,000 shares had
+been reserved. In July 1994, any ungranted
+29 NOTE 9--STOCK OPTION PLANS AND WARRANTS CONTINUED
+options and any future forfeitures under the 1990 option plan were 
+transferred to the 1994 Stock Option Plan.
+The stock option plans generally require the price of options to be at 
+the estimated fair market value of the stock at the date of grant. Options 
+have a maximum duration of ten years five years under certain circumstances 
+and may be exercised in varying amounts over the vesting periods.
+The following table summarizes stock option transactions:
+NUMBER OF SHARES
+AVAILABLE FOR
+UNDER OPTION     GRANT
+Balance January 1,     767,200      739,904
+Granted $875 to $8875 per     126,500     126,500
+Exercised $025 to $250 per    207,400         
+6,100      6,100
+Balance, December 31,     680,200      619,504
+Granted $4125 to $7625 per     331,000     331,000
+Exercised $025 to $075 per    164,100         
+134,500     134,500
+Effect of 3% stock dividend declared See Note 2.    21,378                                                       
+Balance, December 31,     733,978      423,004
+Granted $8625 to $1575 per     239,000     239,000
+Exercised $0243 to     41,394         
+40,233      40,233
+Effect of 3% stock dividend declared See Note 2.     4,470                                                         Balance December 31,     895,821      224,237
+The exercise price of the outstanding options at December 31, 1997 ranged
+between $024 and $1575 per share. The weighted average exercise price of
+outstanding options was $454 at December 31, 1997.
+The following table summarizes information about stock options outstanding
+at December 31, 1997           OPTIONS OUTSTANDING            OPTIONS EXERCISABLE
+WEIGHTED
+OUTSTANDING    AVERAGE    WEIGHTED  EXERCISABLE  WEIGHTED
+RANGE OF     AT     CONTRACTUAL   AVERAGE     AT     AVERAGE
+EXERCISE   DECEMBER 31,   REMAINING   EXERCISE  DECEMBER 31,  EXERCISE
+PRICES     1997      LIFE      PRICE     1997     PRICE
+-                                      
+$024 073    274,982      49   $  030    274,982  $  030
+$243 291     98,880      61      259    98,880     259
+$473 534    290,652      83      501    72,633     501
+$850 875    191,307      91      858    47,827     858
+$  1575      40,000      98     1500      --                                
+895,821                   494,322
+30 NOTE 9--STOCK OPTION PLANS AND WARRANTS Continued
+During 1995, warrants to purchase 139,050 shares were granted at a price of
+$757 per share after giving effect to the stock dividend discussed in Note 2.
+There were 117,151 warrants outstanding at December 31, 1997.
+The Company applies APB opinion No. 25 and related interpretations in
+accounting for its plans. However, in accordance with SFAS 123, pro forma
+disclosures as if the Company adopted the cost recognition requirements under
+SFAS 123 for all awards subsequent to January 1, 1995, are presented below.
+The fair value of each option granted during the years ended 1995, 1996 and
+1997 is estimated on the date of grant using the Black-Scholes option pricing
+model with the following assumptions: i average dividend yield of 0%, ii
+expected volatility of 270% for 1995, 288% for 1996, and 267% for 1997, iii
+expected average life of 33 years. The risk-free interest rate equivalent to
+the zero coupon treasury rate at the date of grant ranged from 60% to 70% for
+1995, from 48% to 63% for 1996, and from 59% to 68% for 1997.                                              YEARS ENDED DECEMBER 31,
+1995    1996    1997
+Net income -- as  $  1,361 $  2,259 $  3,197
+Net income -- pro    1,304   2,173   2,987
+Net income per share--as reported
+037    054    075
+034    051    069
+Net income per share--pro forma
+036    052    070
+032    049    064
+The effect of applying SFAS 123 in this pro forma disclosure are not
+indicative of future amounts.
+NOTE 10--CONSULTING AGREEMENT
+In December 1993, the Company entered into a consulting agreement with a
+company owned entirely by a shareholder and former chief executive officer. The
+agreement terminated in February 1996. Under the agreement, services included
+providing product concepts and consulting and assistance on product design.
+Payments of $205, and $36 were made pursuant to the agreement in 1995 and 1996,
+respectively.
+NOTE 11--INCOME TAXES
+Effective January 1, 1995, the Company was required to provide for deferred
+taxes, arising from the cumulative temporary differences between financial
+reporting and tax reporting, by recording a benefit for income taxes for such
+deferred taxes in its statement of income in the period                     31
+NOTE 11--INCOME TAXES CONTINUED
+in which the Termination Date occurred. The amount of this benefit during 1995
+was $73.
+The provision for income taxes is as follows:
+YEARS ENDED DECEMBER 31,
+1995 1   1996    1997
+Current payable:
+$   613  $  1,256 $  1,535
+67     266    207
+Total      680    1,522   1,742
+Deferred:
+6    126   105
+1     26    22
+Total       7    152   127
+$   687  $  1,370 $  1,615
+-  
+1 Unaudited pro forma information
+A reconciliation of the statutory federal income tax rate to the Company
+effective income tax rate is as follows:
+YEARS ENDED DECEMBER 31,
+1995 1   1996    1997
+Federal statutory     340%    340%   340%
+State income taxes, net of federal income tax      22     44    22
+Effect of research and experimentation tax credit and     27    6   27
+Effective income tax     335%    378%   335%
+-  
+1 Unaudited pro forma information
+Deferred income taxes result from items of income or expense being reported
+for income tax purposes in different periods than they are reported for
+financial reporting purposes. The primary effects of temporary differences which
+give rise to deferred tax assets and liabilities are as follows:
+DECEMBER 31,
+1996    1997
+Deferred tax asset:
+Warranty reserve, inventory reserve, and other accrued  $   239 $   409
+Deferred tax liability:
+Excess tax over book depreciation and      21     64
+32 NOTE 12--EARNINGS PER SHARE
+The following is a reconciliation of the numerators and denominators of the
+basic and diluted computations of earnings per share:
+PER
+SHARE
+INCOME   SHARES    AMOUNT
+YEAR ENDED DECEMBER 31, 1997
+Basic earnings per share:
+Income available to common  $  3,197    4,268  $  075
+Effect of dilutive securities
+Stock options    --       392
+Diluted earnings per share:
+Income available to common  $  3,197    4,660  $  069
+YEAR ENDED DECEMBER 31, 1996
+Basic earnings per share:
+Income available to common  $  2,259    4,182  $  054
+Effect of dilutive securities
+Stock options    --       286
+Diluted earnings per share:
+Income available to common  $  2,259    4,468  $  051
+YEAR ENDED DECEMBER 31, 1995
+Basic earnings per share:
+Income available to common  $  1,361    3,647  $  037
+Effect of dilutive securities
+Stock options    --       413
+Diluted earnings per share:
+Income available to common  $  1,361    4,060  $  034
+NOTE 13--401 K PLAN
+The Company has a 401k Plan the Plan covering substantially all
+employees meeting minimum service requirements. The Plan allows the Company to
+make discretionary matching contributions. The Company provided discretionary
+contributions of $23, $35, and $45 for the years ended December 31, 1995, 1996,
+and 1997, respectively.
+33 NOTE 14--QUARTERLY FINANCIAL INFORMATION UNAUDITED
+Selected unaudited and pro forma financial information for each of the
+quarters is as follows. Pro forma net income per share and net income per share
+data has been adjusted to reflect the stock dividend discussed in Note 2.                                         THREE MONTHS ENDED
+MARCH 31,  JUNE 30,  SEPTEMBER 30, DECEMBER 31,
+IN THOUSANDS, EXCEPT PER SHARE AMOUNTS
+1996
+$  4,564  $  4,250   $  6,931   $  15,076
+Cost of goods     2,970    2,615     4,142     9,865
+Operating     1,538    1,564     1,930     3,034
+Net      101     111      626     1,421
+Diluted net income per   $  002  $  0 03   $  0 14   $   031
+1997
+$  6,272  $  7,149   $ 10,509   $  21,564
+Cost of goods     3,786    4,480     6,548     14,025
+Operating     2,108    2,244     2,804     4,991
+Net      289     329      836     1,743
+Diluted net income per   $  006  $  007   $  018   $   037
+34 Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+Not applicable.
+PART II
+Item 5. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The information called for by this item is hereby incorporated herein by
+reference to the Registrant definitive Proxy Statement for the fiscal year
+ended December 31, 1997, which Proxy Statement will be filed with the Securities
+and Exchange Commission no later than 120 days after the end of the fiscal year
+covered by this report.

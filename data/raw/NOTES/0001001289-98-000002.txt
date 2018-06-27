@@ -1,0 +1,957 @@
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Quarterly supplementary data is included as part of Item 7, Management 
+Discussion and Analysis of Financial Condition and Results of Operations. The 
+Company consolidated financial statements required by this item are set forth 
+below.
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+Consolidated Financial Statements:                 Page    Report of Independent Accountants               22    Consolidated Balance Sheets at December 31, 1997 and 1996   23    Consolidated Statements of Operations for the three years 
+ended December 31, 1997                    24    Consolidated Statements of Cash Flows for the three years
+ended December 31, 1997                    25   	Consolidated Statements of Stockholders' Equity Deficit 
+for the three years ended December 31, 1997          26    Notes to Consolidated Financial Statements           27
+Financial Statement Schedule for the three years 
+ended December 31, 1997    Schedule II - Valuation and Qualifying Accounts        41
+All other financial statement schedules are omitted because the information 
+called for is not present in amounts sufficient to require submission of the 
+schedules or because the information is shown either in the financial 
+statements or the notes thereto.
+REPORT OF INDEPENDENT ACCOUNTANTS
+To the Board of Directors and Stockholders of Lumisys Incorporated
+In our opinion, the accompanying consolidated financial statements listed in the
+accompanying index present fairly, in all material respects, the financial 
+position of Lumisys Incorporated and its subsidiaries at December 31, 1997 
+and 1996 and the results of their operations and their cash flows for each of 
+the three years in the period ended December 31, 1997, in conformity with 
+generally accepted accounting principles. These financial statements are the 
+responsibility of the Company management; our responsibility is to express an 
+opinion on these statements based on our audits. We conducted our audits of 
+these statements in accordance with generally accepted auditing standards which 
+require that we plan and perform the audit to obtain reasonable assurance about 
+whether the financial statements are free of material misstatement. An audit 
+includes examining, on a test basis, evidence supporting the amounts and 
+disclosures in the financial statements, assessing the accounting principles 
+used and significant estimates made by management, and evaluating the overall 
+financial statement presentation. We believe that our audits provide a 
+reasonable basis for the opinion expressed above. PRICE WATERHOUSE LLP
+San Jose, California
+January 29, 1998
+LUMISYS INCORPORATED
+CONSOLIDATED BALANCE SHEETS
+in thousands, except per share amounts
+December 31,
+1997      1996
+ASSETS
+Current assets:
+Cash and cash equivalents         $ 7,522    $ 22,490
+Short-term investments           17,007        Accounts receivable, net of 
+allowances of $657 and $376         4,622      4,370
+Inventories Note 2             2,892      3,367
+Deferred tax assets             1,453      1,429
+Other current assets              316       529
+Total current assets            33,812     32,185
+Property and equipment, net Note 2       606       883
+Other assets                          173
+$ 34,418    $ 33,241
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable              $ 1,355    $  1,129
+Accrued expenses Note 2           2,967      2,288
+Merger and related costs           2,117                                Total current liabilities          6,439      3,417
+Note payable to related party          130       118
+Commitments and contingencies Note 7
+Stockholders' equity:
+Preferred stock, $0001 par value; 
+5,000 shares authorized; no shares 
+issued and outstanding                     Common stock, $0001 par value; 
+25,000 shares authorized; 10,370 
+and 9,994 shares issued and outstanding     10       10
+Additional paid-in capital          32,265     30,902
+Accumulated deficit             4,407     1,058
+Notes receivable from stockholders              114
+Deferred compensation related to 
+stock options                 19      34
+Total stockholders' equity         27,849     29,706
+$ 34,418    $ 33,241
+The accompanying notes are an integral part of these financial statements.
+LUMISYS INCORPORATED
+CONSOLIDATED STATEMENTS OF OPERATIONS
+in thousands, except per share amounts                        Year ended December 31,
+1997   1996    1995
+Sales                   $ 29,709  $ 28,686 $ 21,337
+Cost of sales                13,206   13,032  10,713
+Gross profit               16,503   15,654  10,620
+Operating expenses:
+Sales and marketing             4,506   3,093   2,250
+Research and development           6,620   5,545   3,713
+General and administrative          4,459   3,518   2,389
+Merger and related costs           4,159         Acquired in-process research and development         1,442
+Total operating expenses         19,744   12,156   9,794
+Income loss from operations        3,241   3,498    826
+Interest income, net             1,117    979    213
+Income loss before income taxes      2,124   4,477   1,039
+Provision benefit for income taxes     1,225   1,662   762
+Net income loss             $ 3,349 $ 2,815 $ 1,801
+Net income loss per share Note 1:
+Basic                  $ 033 $  029 $  027
+Diluted                 $ 033 $  029 $  025
+Weighted average shares used to 
+compute net income loss per 
+share Note 1:
+Basic                   10,080   9,598   6,714
+Diluted                  10,080   9,760   7,236 
+The accompanying notes are an integral part of these financial 
+statements.
+LUMISYS INCORPORATED
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+in thousands
+Year ended December 31,
+1997    1996   1995
+Cash flows from operating activities
+Net income loss            $ 3,349 $ 2,815 $ 1,801
+Adjustments to reconcile net income loss
+to net cash provided by operating 
+activities:
+Depreciation and amortization        244    250    441
+Non-cash merger costs            360          Provision for doubtful accounts       281    127    165
+Provision for obsolete inventories     215    102    375
+Deferred income taxes            24   315  1,114
+Deferred compensation related to 
+stock options                15    404    133
+Other                    12     8   14
+In-process acquired research 
+and development                      1,442
+Changes in assets and liabilities 
+net of effects of Imagraph and 
+XRS acquisitions:
+Accounts receivable            533  2,196   587
+Inventories                260    137  1,856
+Other current assets            213    230   185
+Other assets                173    227   100
+Accounts payable              226    722   763
+Merger and related costs         2,117           Accrued expenses              679    194    662
+Net cash provided by operating activities   889    511   1,926
+Cash flows from investing activities:
+Sales purchases of short-term 
+investments, net             17,007   3,934  3,934
+Purchases of property and equipment     327   853   140
+Purchase of Imagraph                    1,800
+Purchase of XRS                        200
+Purchase of minority interest in 
+affiliated company                      300
+Net cash provided by used in 
+investing activities           17,334   3,081  6,374
+Cash flows from financing activities:
+Proceeds from sale of common stock, 
+including stock option tax benefit     1,926   7,245  12,270
+Purchase of treasury stock          563         Payment on notes receivable from 
+stockholders                 114    191     Proceeds from note payable               250     Principal payments on note payable          250                          Net cash provided by financing activities  1,477   7,436  12,270
+Net increase decrease in cash equivalents14,968  11,028   7,822 
+Cash and cash equivalents at beginning 
+of period                 22,490   11,462   3,640
+Cash and cash equivalents at end of period$ 7,522  $ 22,490 $ 11,462
+Supplemental disclosures of cash flow information:
+Cash paid for income taxes        $  912  $  951 $  251
+Supplemental schedule of noncash investing 
+and financing activities:
+Series C mandatorily redeemable 
+convertible preferred stock issued 
+for purchase of Imagraph                   200
+Deferred compensation related to 
+stock options reversed for 
+terminated employees                 69     Common stock issued for purchase 
+of Star Tech.                588          The accompanying notes are an integral part of these financial
+statements.
+TABLE
+LUMISYS INCORPORATED
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY DEFICIT
+in thousands
+Notes    Deferred   Total
+Common Stock  Add'l       Receivable  Compensation Stockholders'
+Paid-in Accumulated  from    Related to   Equity
+Shares Amount Capital  Deficit Stockholders Stock Options Deficit
+Balance at 
+December 31, 
+1994     3,121 $  3 $  319  $ 5,674 $  283  $     $ 5,635
+Exercise of 
+stock options 1,077   1    36                    37
+Deferred 
+compensation 
+related to 
+stock options        173              173     Interest on note 
+receivable from 
+stockholder                  14          14
+Conversion of 
+mandatorily 
+redeemable 
+convertible 
+preferred 
+stock     2,275   2   9,928                   9,930
+Issuance of 
+common stock 
+in initial 
+public 
+offering   1,750   2	  12,208                   12,210
+Other       46      156               33     189
+Net income             1,801               1,801
+Balance at 
+December 31, 
+1995     8,269   8  22,820   3,873    297    140   18,518
+Exercise of 
+stock options  547   1    188                    189
+Tax benefit for 
+disqualified 
+dispositions 
+and exercise of 
+non-qualified 
+stock options       1,026                   1,026
+Interest on notes 
+receivable from 
+stockholders                  8           8
+Payments on notes 
+receivable from 
+stockholders                  191           191
+Issuance of 
+common stock 
+under employee 
+stock purchase 
+plan       28      177                    177
+Shares canceled 
+in connection
+with acquisition 
+of XRS      4     16                    16
+Proceeds of 
+initial public
+offering of 
+CompuRAD   1,067   1   5,966                   5,967
+Conversion of 
+debt into 
+common stock   87      541                    541
+Other            200               106     306
+Net income             2,815               2,815
+Balance at 
+December 31, 
+1996     9,994  10  30,902   1,058    114     34   29,706
+Exercise of 
+stock options  346      145                    145
+Tax benefit 
+for disqualified 
+dispositions and 
+exercise of 
+non-qualified 
+stock options       1,080                   1,080
+Payments on notes 
+receivable from 
+stockholders                  114           114
+Issuance of 
+common stock 
+in connection 
+with purchase of 
+Star Technologies, 
+Inc.       93      588                    588
+Buy back of 
+common stock  90     563                   563
+Issuance of 
+common stock 
+under employee 
+stock purchase 
+plan       27      113                    113
+Other                            15      15
+Net loss              3,349              3,349
+Balance at 
+December 31, 
+1997     10,370 $  10 $ 32,265 $ 4,407 $     $   19  $ 27,849
+The accompanying notes are an integral part of these financial statements.
+LUMISYS INCORPORATED
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1 - THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Lumisys Incorporated Lumisys or the Company designs, manufactures and 
+markets an integrated suite of hardware and software products for digitizing, 
+networking, archiving, routing and displaying medical images in a Picture 
+Archiving and Communication Systems PACS and teleradiology environment. 
+The Company offers laser and CCD X-ray film digitizers, video frame digitizers, 
+and software to enable healthcare organizations to capture, store, distribute 
+and display medical images over LANs and WANs. The Company commenced 
+operations on February 4, 1987, and operates in one industry segment.
+On November 25, 1997, the Company merged with CompuRAD, Inc. CompuRAD and 
+was accounted for as a pooling-of-interests see Note 3. Accordingly, the 
+consolidated historical financial statements for all periods presented combine 
+the financial results of Lumisys and CompuRAD.
+MANAGEMENT ESTIMATES AND ASSUMPTIONS
+The preparation of financial statements in conformity with generally accepted 
+accounting principles requires management to make estimates and assumptions 
+that affect the reported amounts of assets and liabilities and disclosure of 
+contingent assets and liabilities at the date of the financial statements and 
+reported amounts of sales and expenses during the reporting period. Actual 
+results could differ from those estimates.
+PRINCIPLES OF CONSOLIDATION
+The consolidated financial statements include the accounts of the Company and 
+its wholly-owned subsidiaries. All significant intercompany transactions and 
+balances have been eliminated.
+REVENUE RECOGNITION
+Revenues for hardware products are recognized when products are shipped. 
+Revenues for software products and systems including hardware, software and 
+installation are recognized after shipment and acceptance by the customer. 
+Revenue from maintenance, service and support agreements is recognized over the 
+term of the agreement which in most instances is one year. Revenue from post-
+contract customer support is recognized in the period the customer support 
+services are provided. Sales to international customers, primarily located in 
+Europe, represented, 12%, 9% and 8% of total sales in 1997, 1996 and 1995, 
+respectively. All transactions are denominated in U.S. dollars.
+In October, 1997, the American Institute of Certified Public Accountants issued 
+Statement of Position No. 97-2 SOP 97-2, Software Revenue Recognition, 
+which the Company currently intends to adopt for transactions entered into after
+January 1, 1998. SOP 97-2 provides guidance on recognizing revenue on software 
+transactions and supersedes SOP 91-1. The Company believes that the adoption 
+of SOP 97-2 will not have a significant impact on its current licensing or 
+revenue recognition practices.
+CASH EQUIVALENTS AND SHORT-TERM INVESTMENTS
+The Company considers all debt instruments with maturities of three months or 
+less when purchased to be cash equivalents. The Company generally invests its 
+available cash in commercial paper and money market funds with several 
+financial institutions.
+The Company has categorized its short-term investments as available-for-sale. 
+Unrealized gains or losses are recorded directly in stockholders' equity and 
+have been insignificant for all periods presented. As of December 31, 1997, 
+short-term investments consisted of marketable debt securities and its carrying 
+value approximated cost. As of December 31, 1996, the Company did not have any 
+short-term investments.
+INVENTORIES
+Inventories are stated at the lower of cost, determined using the first-in, 
+first-out method, or market, and reserves are provided for obsolete, slow-
+moving or unsaleable inventory.
+PROPERTY AND EQUIPMENT
+Property and equipment are stated at cost. Depreciation is provided using the 
+straight-line method over the estimated useful lives of the respective assets, 
+generally three years. Leasehold improvements are amortized using the 
+straight-line method over the lesser of the remaining lease terms or the 
+estimated useful lives of the related assets.
+RESEARCH AND DEVELOPMENT
+Research and development costs are expensed as incurred.
+SOFTWARE DEVELOPMENT COSTS
+Software development costs are included in research and development and are 
+expensed as incurred. Statement of Financial Accounting Standards No. 86 
+SFAS 86 requires the capitalization of certain software development costs 
+once technological feasibility is established. The capitalized cost is then 
+amortized on a straight-line basis over the estimated product life, or on the 
+ratio of current sales to total projected product sales, whichever method 
+results in greater amortization. To date, the period between achieving 
+technological feasibility, which the Company defines as the completion of a 
+working model, and the general availability of such software has been short and 
+software development costs qualifying for capitalization have been 
+insignificant. 
+WARRANTY
+Upon product shipment, the Company provides for the estimated cost that may be 
+incurred under its product warranties.
+INCOME TAXES
+A deferred income tax asset or liability is established for the expected future 
+consequences resulting from differences between the financial reporting and 
+income tax bases of assets and liabilities and from net operating loss and tax 
+credit carryforwards. Valuation allowances are established when necessary to 
+reduce deferred tax assets to the amounts, based on available evidence, which 
+are expected to be realized.
+CONCENTRATION OF CREDIT RISK
+Financial instruments that potentially subject the Company to significant 
+concentrations of credit risk consist primarily of cash, cash equivalents, 
+short term investments and accounts receivable. The Company limits the amount 
+of cash invested with any one financial institution. The Company trade 
+accounts receivable are derived primarily from sales in the United States, 
+Europe and the Far East. The Company credit policy is to require prepayment
+of 50% of the purchase order prior to shipment on domestic sales and prepayment
+of 100% or a letter of credit on foreign sales. Prepayments are generally made 
+less than one week prior to shipment. The Company prepayment policy has not 
+resulted in significant unearned revenue balances at the reported balance sheet
+dates. The Company performs ongoing credit evaluations of its customers' 
+financial condition and may modify its sales terms in certain circumstances 
+based on these reviews. The Company maintains reserves for potential credit 
+losses. Such losses have been insignificant for all periods presented.
+In each of the years ended December 31, 1997, 1996 and 1995, no customers 
+represented more than 10% of total sales of the Company.
+STOCK COMPENSATION
+The Company accounts for employee stock-based compensation in accordance with 
+Accounting Principles Board Opinion No. 25, Accounting for Stock Issued to 
+Employees. In January 1996, the Company adopted the disclosure requirements of
+SFAS No. 123 SFAS 123, Accounting for Stock-Based Compensation see Note 
+5.
+NET INCOME LOSS PER SHARE
+The Company adopted SFAS No. 128 SFAS 128, Earnings Per Share. SFAS 128 
+requires the presentation of basic and diluted earnings per share for companies 
+with potentially dilutive securities, such as options. All historical earnings 
+per share information has been restated as required by SFAS 128.
+Basic earnings per share is computed by dividing income loss available to 
+common shareholders by the weighted-average common shares outstanding for the 
+period. Diluted earnings per share reflects the weighted-average common shares 
+outstanding plus the potential effect of dilutive securities which are 
+convertible to common shares such as options, warrants, convertible debt and 
+preferred stock. 
+The following is a reconciliation between the components of the basic and 
+diluted net income loss per share calculations for the periods presented 
+below in thousands                    Year ended December 31,
+1997    1996    1995
+Net income loss         $ 3,349  $ 2,815  $ 1,801
+Weighted average shares 
+outstanding - basic        10,080   9,598   6,714
+Effect of dilutive securities:
+Potential common stock
+Stock options and warrants          162    522
+Weighted average shares 
+outstanding - diluted       10,080   9,760   7,236
+Due to the net loss in 1997, all potential common stock outstanding is 
+considered anti-dilutive and is excluded from the calculation of dilutive net 
+income loss per share. Potential common stock outstanding as of December 31, 
+1997 includes options to purchase 784,134 shares of common stock at an average 
+exercise price of $379.
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENT
+In June 1997, the Financial Accounting Standards Board FASB issued SFAS No. 
+130 SFAS 130, Reporting Comprehensive Income. SFAS 130 establishes 
+standards for reporting and display of comprehensive income and its components 
+in a financial statement that is displayed with the same prominence as other 
+financial statements for the periods beginning after December 15, 1997. 
+Comprehensive income, as defined, includes all changes in equity net assets 
+during a period from nonowner sources, including unrealized gains and losses on 
+available-for-sale securities. Reclassification of financial statements for 
+earlier periods for comparative purposes is required. The Company will adopt 
+SFAS 130 beginning in 1998 and does not expect such adoption to have a material 
+effect on its consolidated financial statements.
+In June 1997, the FASB issued SFAS No. 131 SFAS 131, Disclosure about 
+Segments of an Enterprise and Related Information. This statement establishes 
+standards for the way companies report information about operating segments in 
+annual financial statements for periods beginning after December 15, 1997. It 
+also establishes standards for related disclosures about products and services, 
+geographic areas, and major customers. It is not expected that adoption of 
+SFAS 131 will have a material impact to the Company consolidated financial 
+statements.
+NOTE 2 - COMPOSITION OF CERTAIN FINANCIAL STATEMENT AMOUNTS
+December 31,
+1997   1996
+in thousands
+Inventories      Raw materials        $ 2,363  $ 2,607
+Work-in-process         586    422
+Finished goods        1,093   1,273
+4,042   4,302
+Less: inventory reserves   1,150   935
+$ 2,892  $ 3,367
+Property and equipment:
+Machinery and equipment   $ 1,485  $ 1,561
+Furniture and fixture      64    344
+Leasehold improvements      45    39
+1,594   1,944	
+Less: accumulated 
+depreciation and amortization 988  1,061
+$  606  $  883
+Accrued expenses:
+Payroll and related 
+benefits          $ 1,122  $  720
+Warranty             465    471
+Accrued professional fees    401    165
+Unearned revenue         979    188
+Other                  744
+$ 2,967  $ 2,288
+NOTE 3 - MERGER AND ACQUISITIONS
+COMPURAD
+On November 25, 1997, the Company merged with CompuRAD, a provider of software
+that enables healthcare clinicians to access medical images and clinical 
+information at any point of care. Under the terms of the merger agreement, 
+CompuRAD stockholders received 0928 of a share of the Company common stock
+for each outstanding share of CompuRAD common stock, resulting in the Company
+issuing approximately 37 million shares, valued at approximately $234 million
+based upon the closing price of the Company common stock on November 25, 1997.
+Additionally, outstanding options to acquire CompuRAD common stock were replaced
+with options to acquire approximately 379,000 shares of the Company common 
+stock. The transaction has been accounted for using the pooling-of-interests
+method of accounting and, therefore, all periods have been restated to include
+the operations of CompuRAD as if the companies had been consolidated for all 
+periods presented.
+In connection with the merger, the Company recorded merger and related costs 
+during the fourth quarter totaling $42 million. Included in this charge were 
+provisions for merger transaction costs of $15 million, asset write-downs of 
+$13 million, employee severance and termination benefits of $04 million, 
+costs to combine and integrate operations of $08 million and other merger 
+related costs of $02 million. Of the $29 million in merger and related costs 
+which were accrued at the time of the merger, approximately $08 million has 
+been incurred at December 31, 1997.
+Revenues and net income loss for the separate companies through the date of 
+acquisition included in the Company consolidated statements of operations are 
+as follows in thousands                Period ended   Year ended December 31,
+November 25, 1997    1996    1995
+Revenues    Lumisys Incorporated   $ 23,927     $ 23,022   $ 17,662
+CompuRAD Inc.        6,886      6,914    3,908
+Intercompany eliminations  1,104     1,250    233
+Total          $ 29,709     $ 28,686   $ 21,337
+Net income loss:
+Lumisys Incorporated   $ 3,785     $ 3,439   $ 2,593
+CompuRAD Inc.        2,975      624    792
+Merger and related costs  4,159                                         Total          $ 3,349    $ 2,815   $ 1,801	
+IMAGRAPH CORPORATION
+On March 31, 1995, the Company purchased all the outstanding shares of Imagraph 
+Corporation Imagraph, a developer and manufacturer of advanced graphics 
+controllers and frame grabbers, in exchange for $1,800,000 in cash and 36,845 
+shares of Series C mandatorily redeemable convertible Preferred Stock. The 
+transaction was accounted for as a purchase; accordingly, the purchase price 
+was allocated to the assets acquired and liabilities assumed based upon their 
+estimated fair market values at the date of the acquisition. The in-process 
+research and development represents the estimated current fair market value, 
+using a risk-adjusted income approach, of specifically identified technologies 
+which had not reached technological feasibility and had no alternative future 
+uses. The purchased technology met the technological feasibility criteria for 
+capitalization and estimated current fair market value was determined using a 
+risk-adjusted income approach. The results of Imagraph are included in the 
+Company operations commencing from the date of acquisition. The allocation 
+of the purchase price, which is based principally on an independent appraisal, 
+is as follows in thousands         Accounts receivable         $ 855
+Inventories               940
+Property and equipment		         49
+In-process research and development   877
+Purchased technology          120
+Other assets               45
+Accounts payable assumed        717
+Other liabilities assumed       169
+Total purchase price        $2,000
+The total purchase price is derived as follows        Cash payment             $1,800
+Issuance of Series C mandatorily
+redeemable convertible 
+preferred stock             200
+$2,000
+The following pro forma information reflects the results of operations for the 
+years ended December 31, 1995 as if the acquisition of Imagraph had occurred as 
+of January 1, 1995, and after giving effect to certain adjustments. These pro 
+forma results have been prepared for comparative purposes only and do not 
+purport to be indicative of what operating results would have been had the 
+acquisition actually taken place as of January 1, 1995, or what operating 
+results may occur in the future.
+December 31, 1995	
+in thousands, except per share amounts
+Sales               $22,731	
+Net income            $ 1,932	
+Net income per share - basic   $ 029	
+Net income per share - diluted  $ 027	
+Weighted average shares used to 
+compute net income per 
+share Note 1:
+Basic    6,714
+Diluted   7,236
+X-RAY SCANNER CORPORATION
+On March 2, 1995, the Company purchased all the outstanding shares of X-ray 
+Scanner Corporation XRS, a developer and manufacturer of medical film 
+scanning digitizers, in exchange for $200,000 in cash, 15,058 shares of the 
+Company Common Stock and $10,000 in acquisition expenses. The transaction 
+was accounted for using the purchase method; accordingly, the purchase price 
+was allocated to the assets acquired and liabilities assumed based upon their 
+estimated fair market values at the date of acquisition. The in-process 
+research and development represents the estimated current fair market value, 
+using a risk-adjusted income approach, of specifically identified technologies 
+which had not reached technological feasibility and had no alternative future 
+uses. The results of XRS are included in the Company operations commencing 
+from the date of acquisition. Prior years results of XRS are not material in 
+relation to the results of operations of the Company. The allocation of the 
+purchase price is as follows in thousands     In-process research and development  $ 565
+Other assets               25
+Accounts payable assumed        150
+Other liabilities assumed        212
+Total purchase price         $ 228
+The total purchase price is derived as follows       Cash payment        $200
+Issuance of Common Stock   18
+Other expenses        10
+$228
+NOTE 4 - INCOME TAXES
+The provision benefit for income taxes consists of the following in 
+thousands                       Year ended December 31, 
+1997   1996   1995
+Current:
+Federal          $ 1,016  $ 1,619  $  126
+State             233    358    226
+1,249   1,977    352
+Deferred:
+Federal            24   365   751
+State                  50   363
+24   315  1,114
+$ 1,225  $ 1,662  $ 762
+During 1997, income taxes payable were reduced by approximately $11 million in 
+connection with the exercise of non-qualified stock options.
+The provision benefit reconciles to the amount computed by multiplying income 
+loss before tax by the U.S. statutory rate 34% as follows in thousands                      Year ended December 31, 
+1997    1996    1995
+Provision benefit at statutory rate  $ 722  $ 1,522  $  353
+Utilization of net operating loss 
+carryforward for 1997                    940
+Decrease in valuation allowance            62  1,114	
+CompuRAD pre-acquisition net operating 
+loss carryforwards            1,190          Nondeductible acquired research and 
+development                          490
+State taxes, net of federal benefit    127    269     62
+Nondeductible acquisition costs       860          Nondeductible S corporation loss           66    357
+Other                    24     1    30
+$ 1,225   $ 1,662  $ 762
+Deferred tax assets consist of the following in thousands                       December 31,
+1997   1996
+Net operating loss carryforwards    $ 1,248  $  303
+Tax credit carryforwards          98    160
+Nondeductible accruals          2,017   1,167
+Depreciation and amortization       136    502
+3,499   2,132
+Deferred tax assets valuation allowance 2,046   703
+Net deferred tax assets        $ 1,453  $ 1,429
+Management believes that the available objective evidence, including the recent 
+acquisitions made by the Company and the necessary expenditures for research 
+and development and for marketing in the high technology segment it pursues, 
+creates uncertainty regarding the attainment of sufficient profitability to 
+realize the deferred tax assets and therefore a partial valuation allowance has 
+been recorded. At December 31, 1997, the Company had net operating loss carry-forwards, as the 
+result of the acquisition of Imagraph and the merger with CompuRAD, available 
+to reduce income taxes for federal and state income tax purposes of 
+approximately $32 million and $20 million, respectively; such carry-forwards 
+expire through 2012. As a result of an ownership change and consolidated return
+rules, the utilization of such carryforwards is limited.
+NOTE 5 - COMMON STOCK AND STOCK PLANS
+CERTAIN EQUITY TRANSACTIONS
+In conjunction with an initial public offering of the Company Common Stock 
+the Offering in 1995, all outstanding shares of mandatorily redeemable 
+convertible Preferred Stock automatically converted into Common Stock upon the 
+closing of the Offering.
+In September and October 1995, the Company Board of Directors authorized, and 
+the stockholders approved, the reincorporation of the Company in Delaware and 
+the associated exchange of four shares of Common Stock and four shares of 
+mandatorily redeemable convertible Preferred Stock into one share of each 
+corresponding class and series of stock of the Delaware successor resulting in 
+a one-for-four reverse stock split of the Company Common and Preferred 
+Stock. All applicable share and per share amounts of Common and Preferred 
+Stock have been retroactively adjusted to reflect this reverse stock split. 
+Effective upon the closing of the Offering, the Company was authorized to issue 
+25,000,000 shares of Common Stock and 5,000,000 shares of undesignated 
+Preferred Stock and the Board of Directors have the authority to issue the 
+undesignated Preferred Stock in one or more series and to fix the rights, 
+preferences, privileges and restrictions thereof.
+STOCK PLANS
+The Company initially reserved 45,000 shares of Common Stock for issuance under 
+its 1987 Stock Option Plan the 1987 Plan. During 1990, the Board of 
+Directors authorized an additional 580,000 shares to be reserved for issuance 
+and during each of the years ended December 31, 1992, 1994 and 1995, the Board 
+of Directors authorized an additional 250,000 shares to be reserved for 
+issuance. The 1987 Plan provides for the grant of incentive stock options and 
+nonstatutory stock options designated Supplemental Stock. Incentive stock 
+options are available for employees, officers and employee directors and are 
+granted at exercise prices which are not less than 100% of fair market value on 
+the date of the grant. Supplemental Stock is available for employees, 
+officers, consultants and directors and is granted at exercise prices not less 
+than 85% of fair market value on the date of grant. All options are to have a 
+term not greater than ten years from the date of grant. The Board shall 
+determine the number of shares for which an option can be granted. Options 
+granted generally vest 25 percent after one year and then ratably at 625 
+percent per quarter over a three year period. In 1995 the Board granted 
+options for 299,838 shares of Common Stock.
+In September 1995, the Board of Directors determined that no additional options 
+would be granted under the 1987 Plan and adopted the 1995 Stock Option Plan 
+the 1995 Plan under which an aggregate of 350,000 shares of Common Stock 
+have been reserved for issuance upon exercise of options granted to employees, 
+officers and employee directors of and consultants to the Company. The 1995 
+Plan will terminate in September 2005, unless terminated earlier by the Board 
+of Directors. In each of the years 1997, 1996 and 1995 the Board granted 
+options for 42,550, 153,225 and 75,400 shares of Common Stock, respectively.
+The 1995 Plan provides for the grant of both incentive stock options and 
+nonstatutory stock options designated Supplemental Stock. The maximum term 
+of options granted under the 1995 Plan is ten years. The exercise price of 
+incentive stock options granted under the 1995 Plan must equal at least the 
+fair value of the Company Common Stock on the date of grant. The exercise 
+price of Supplemental Stock options under the Plan must equal at least 85% of 
+the fair market value of the Company Common Stock on the date of grant. The 
+exercise price of options granted to any person who at the time of grant owns 
+stock possessing more than 10% of the total combined voting power of all 
+classes of stock must be at least 110% of the fair market value of such stock 
+on the date of grant and the terms of these options cannot exceed five years. 
+The Board shall determine the number of shares for which an option can be 
+granted. Options granted under the 1995 Plan will generally vest 25 percent 
+after one year and then ratably at 625 percent per quarter over a three year 
+period.
+Under certain events, the Company has the right to repurchase, at the original 
+issue price, a declining percentage of certain of the common shares issued to 
+employees under written agreements with such employees. The Company right to 
+repurchase such stock declines on a percentage basis based on the length of the 
+employees' continuous employment with the Company. At December 31, 1997, 71 
+shares of Common Stock were subject to repurchase by the Company.
+The Company has recorded compensation expense for the difference between the 
+grant price and the deemed fair market value of the Company Common Stock for 
+options granted in March 1995. Such compensation expense was approximately 
+$15,000, $37,000 and $33,000 for the years ended December 31, 1997, 1996 and 
+1995, respectively. During 1996, forfeited options resulted in a reduction of 
+$69,000 from the maximum aggregated compensation expense to approximately 
+$104,000 over the vesting period of four years.
+In August 1995, the Board adopted the 1995 Non-Employee Directors Stock Option 
+Plan the Directors Plan, which provided for the automatic grant of options 
+to purchase shares of Common Stock to non-employee directors of the Company. 
+The Directors Plan will be administered by the Board.
+The maximum number of shares of Common Stock that may be issued pursuant to 
+options granted under the Directors Plan is 112,500. Pursuant to the terms of 
+the Directors Plan, each person who is elected as a director of the Company or 
+a compensated Chairman of the Board a Non-Employee Director will 
+automatically be granted an option to purchase 18,750 shares of Common Stock on 
+the date of his or her election to the Board. On the date of adoption of the 
+Directors Plan, each person who was then a Non-Employee Director of the Company 
+and who had not received within the one-year period prior to adoption of the 
+Directors Plan either an option grant or other right to purchase shares of 
+Common Stock, was granted an option to purchase 18,750 shares of Common Stock 
+under the Directors Plan. Thereafter, each Non-Employee Director will 
+automatically be granted an option to purchase an additional 18,750 shares of 
+Common Stock under the Directors Plan on the date any and all previous options 
+or stock purchases by such person either under the Directors Plan or otherwise 
+become fully vested. Options granted under the Directors Plan will vest 25 
+percent after one year and then ratably at 625 percent per quarter thereafter 
+over a three year period.
+No options granted under the Directors Plan may be exercised later than ten 
+years from the date of grant. The exercise price of options under the 
+Directors Plan must be equal to the fair market value of the Common Stock on 
+the date of grant. Options granted under the Directors Plan are generally 
+nontransferable. The Directors Plan will terminate August 2005 unless 
+terminated earlier by the Board.
+Pursuant to the Directors Plan, in May and November 1997 each of two Non-
+Employee Directors were granted options to purchase 18,750 shares of Common 
+Stock at exercises prices of $663 and $631 per share, respectively. No 
+options were granted pursuant to the Directors Plan in 1996 and in August 1995, 
+each of two Non-Employee Directors were granted options to purchase 18,750 
+shares of Common Stock at exercises prices of $600 per share.
+In November 1997, in connection with the acquisition of CompuRAD, the Company 
+assumed the stock option plans of CompuRAD. The options for shares outstanding 
+were converted to options to purchase 379,017 shares of Common Stock of the 
+Company. CompuRAD had a non-qualified stock option plan under which options 
+for 69,600 and 851,208 shares of common stock were granted in 1996 and 1995, 
+respectively. In July 1996, the Board of Directors of CompuRAD adopted the 
+1996 Stock Plan the 1996 Plan, reserving 371,200 shares for issuance 
+thereunder. Under the 1996 Plan, options for 322,429 and 0 shares of common 
+stock were granted in 1997 and 1996, respectively. No additional options will 
+be granted under the CompuRAD plans.
+A summary of the Company stock option activity is presented below in 
+thousands, except per share amounts                      Year Ended December 31,
+1997      1996      1995
+Weighted    Weighted    Weighted
+Average     Average     Average
+Exercise    Exercise    Exercise
+Shares Price  Shares Price  Shares Price
+Outstanding beginning of period 835 $ 307  1,163 $ 164  987  $ 027
+Granted             402  638   223  661 1,316   129	
+Exercised            312  026  409  044 1,076  004
+Forfeited            141  236  142  450  64  020
+Outstanding at period end    784  521   835  307  1,163  164
+Options vested at period end   291  386   303  122   219  059
+Weighted average grant date fair 
+value of such options granted 
+during the year           $ 482     $ 509     $ 206
+The following table summarizes information about fixed stock options 
+outstanding at December 31, 1997 in thousands, except per share amounts            Options Outstanding        Options Vested
+Weighted-
+Average	
+Range of         Remaining   Weighted-       Weighted-
+Exercise    Number  Contractual   Average  Number   Average
+Prices   Outstanding  Life   Exercise Price Vested Exercise Price
+-       026 to $120   224  637 years   $ 086     133    $ 080
+400 to 600   210  871		      568     60     571
+606 to 788   215  945		      657     40     680
+800 to 1113   135  871		      952     41     940
+784  824      $ 521     274    $ 386
+Employee Stock Purchase Plan
+In September 1995, the Company Board of Directors approved the 1995 Employee 
+Stock Purchase Plan the Purchase Plan and reserved 150,000 shares of Common 
+Stock for issuance to eligible employees. The Purchase Plan permits eligible 
+employees to purchase Common Stock through periodic payroll deductions of up to 
+10% of their annual compensation. Each offering period will have a duration of 
+12 months and shares of Common Stock will be purchased for each participant at 
+semi-annual intervals during each offering period. The price at which the 
+Common Stock is purchased under the Purchase Plan is equal to 85 percent of the 
+lower of the fair value on the commencement date of each offering period or the 
+semi-annual purchase date. As of December 31, 1997, 52,263 shares had been 
+issued under the Purchase Plan.
+FAIR VALUE DISCLOSURE
+At December 31, 1997, the Company has three stock-based compensation plans, as 
+described above. The Company has elected to continue to apply APB Opinion 25 
+and related Interpretations in accounting for its plans. Accordingly, no 
+compensation cost has been recognized for its fixed stock option plans and its 
+stock purchase plan. Had compensation cost for the Company three stock-based 
+compensation plans been determined based on the fair value at the grant dates 
+for awards under those plans consistent with the method of SFAS 123, the 
+Company net income loss and net income loss per share would have been 
+reduced to the pro forma amounts indicated below in thousands, except per 
+share amounts                          Year ended December 31,
+1997   1996  1995
+Net income loss per share      As reported $3,349 $ 2,815 $1,801
+Pro forma  3,966  2,573 1,722
+Net income loss per share - basic  As reported $ 033 $ 029 $ 027
+Pro forma   039  027  026
+Net income loss per share - diluted As reported $ 033 $ 029 $ 025
+Pro forma   039  026  024
+The fair value of each option is estimated on the date of grant using the 
+Black-Scholes option-valuation model with the following weighted-average 
+assumptions used for grants in 1997, 1996 and 1995, respectively: dividend 
+yield of 0 percent for all years; expected volatility of 660, 578 and 598 
+percent, risk-free interest rates of 627, 601 and 626 percent; and expected 
+lives of 6 years for 1997 and 3 years for non-officer/director and 5 years for 
+officers and directors for 1996 and 1995. 
+The fair value of the employees' purchase rights under the Purchase Plan, which 
+is described above, was estimated using the Black-Scholes option-valuation 
+model with the following assumptions for 1997, 1996 and 1995, respectively: 
+dividend yield of 0 percent for all years; an expected life of 1 year for all
+years; expected volatility of 66, 59 and 56 percent; and risk-free interest 
+rates of 566, 552 and 596 percent. The weighted-average fair value of
+purchase rights granted in 1997 was $395 per share and in both 1996 and 1995 
+was $274 per share. 
+WARRANT
+Warrants for the purchase of 92,800 shares of Common Stock were outstanding at 
+December 31 1996, with exercise prices of $720 per share. These warrants are 
+currently exercisable, will terminate in August 2001, and may be exercised on a 
+net basis.
+NOTE 6 - RELATED PARTY TRANSACTIONS
+During May 1994, the Company made loans totaling $275,000 to certain executives 
+and directors pursuant to the Company 1987 Stock Option Plan. The loans were 
+secured by 458,500 shares of the Company Common Stock. The loans bear 
+interest at the lesser of 494 percent per annum or the maximum rate 
+permissible by law. Accrued interest is payable annually in arrears. The 
+loans were due and paid in full on May 31, 1997. Notes receivable in the 
+amount of $114,000 deducted from stockholders' equity at December 31, 1996, 
+include loan balances plus accrued interest.
+During 1995, the Company made a loan totaling $125,000 to an employee of the 
+Company. The loan bears interest at 796 percent per annum and is payable at a 
+rate of $25,000 plus accrued interest annually commencing March 1, 1996. In 
+addition, the Company has entered into a non-competition agreement with the 
+same employee at a rate of $25,000 per year over a five year period commencing 
+March 1, 1995.
+The	Company president was, and certain of the Company stockholders are, 
+stockholders of Arizona State Radiology ASR. Certain technology was 
+transferred to CompuRAD at its inception by ASR. The terms and amount to be 
+paid to ASR for such technology were subject to negotiations between the 
+parties, which were finalized in July 1996. The final settlement, which is 
+reflected in the accompanying consolidated financial statements as if it had 
+occurred on January 1, 1993, called for CompuRAD to pay ASR a settlement 
+consisting of common stock, a note payable, and a deferred payment of $541,676 
+due either in cash or stock. The technology was valued at $610,000, based on 
+the value of consideration given, and was amortized over a three-year period 
+beginning January 1, 1993. The technology is fully amortized on the 
+accompanying consolidated balance sheets. CompuRAD issued 86,749 and 32,226 
+shares of stock to ASR in November 1996 and September 1997 in full settlement of
+the deferred payment. The note payable consists of a $250,000 unsecured, non-
+interest bearing note which is payable on December 31, 2002. Original issue 
+discount has been recorded to establish the effective interest rate of the note 
+to 14% per annum. 
+NOTE 7 - COMMITMENTS AND CONTINGENCIES
+The Company leases its facilities under noncancelable operating leases which 
+expire at various dates through June 30, 2002. Future minimum lease 
+commitments are as follows in thousands:
+Year ending 
+December 31,
+1998    $ 691
+1999     690
+2000     699
+2001     446
+2002     130
+$2,656
+Total rent expense was approximately $608,000, $485,000 and $358,000 for 1997, 
+1996 and 1995, respectively.
+On July 9, 1997 and July 10, 1997, two class action complaints were filed in 
+the Superior Court of the State of California, County of Santa Clara, and the 
+U.S. District Court for the Northern District of California, respectively, 
+against the Company, several of its current and former officers and directors, 
+and its underwriters. The complaints are brought on behalf of all persons who 
+purchased the Company Common Stock during the putative class period, November 
+15, 1995 to July 11, 1996. The complaints allege that, during the class 
+period, defendants made material misstatements and omitted to disclose material 
+information concerning the Company actual and expected performance and 
+results, causing the price of the Company Common Stock to be artificially 
+inflated. The federal complaint alleges claims under Sections 10b and 20a 
+of the Exchange Act, and SEC Rule 10b-5 promulgated thereunder; the state 
+complaint alleges claims under California state law. Neither the federal nor 
+the state complaint specifies the amount of damages sought. The Company and 
+the other defendants vigorously deny all allegations of wrongdoing and intend 
+to defend themselves aggressively. On January 9, 1998, the Santa Clara 
+Superior Court dismissed the State complaint in part with prejudice and in part 
+with leave to amend. Plaintiff has filed an amended complaint in State court 
+and on March 23, 1998, defendants filed a demurer to the amended complaint. On 
+March 6, 1998, the federal court dismissed the federal complaint with leave to 
+amend. There can be no assurance that the Company will prevail in these actions
+or that the plaintiffs will not recover damages.
+On July 18, 1997, a third-party filed a complaint in Santa Clara Superior Court 
+against the Company and one of its officers. The complaint contains causes of 
+action for liable, defamation, negligent infliction of emotional distress and 
+punitive damages. The Company and the other defendant vigorously deny all 
+allegations of wrongdoing and intend to defend themselves aggressively.
+Schedule II: VALUATION AND QUALIFYING ACCOUNTS
+Balance at           Balance at
+beginning             end
+of year Additions Deductions of year
+Year ended December 31, 1995:
+Allowance for doubtful accounts  $ 84   $ 172  $ 7   $ 249 
+Inventory reserves        $ 521   $ 402  $ 90   $ 833	
+Year ended December 31, 1996:
+Allowance for doubtful accounts  $ 249   $ 130  $ 3   $ 376
+Inventory reserves        $ 833   $ 434  $332   $ 935
+Year ended December 31, 1997:
+Allowance for doubtful accounts  $ 376   $ 580  $299   $ 657
+Inventory reserves        $ 935   $ 228  $ 13   $1,150
+Item 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON 
+ACCOUNTING AND FINANCIAL DISCLOSURE
+None.
+PART III
+Item 10. Directors and Executive Officers of the Registrant The information contained in Lumisys Incorporated Proxy Statement dated April 
+23, 1998 with respect to directors of the Company, is incorporated herein by 
+reference in response to this item.
+The executive officers of the Company and their ages as of December 31, 1997 
+are as follows    Name      Age      Position
+-    
+Stephen J. Weiss   59 Chief Executive Officer and Director
+Phillip Berman    44 President and Director
+Craig L. Klosterman  43 Chief Operating and Chief Financial Officer
+John M. Burgess    53 Vice President, Sales 
+Cary Cole       31 Vice President, Marketing
+Linden J. Livoni   49 Vice President, Engineering
+Kuldip K. Ahluwalia  41 Vice President, International Sales and Business
+Development
+Mark Mariotti     36 Vice President, General Manager, Imagraph
+Dean MacIntosh    38 Vice President, Finance
+Stephen J. Weiss has served as a member of the Company Board of Directors, 
+President and Chief Executive Officer since joining the Company in January 
+1990. Prior to that time, Mr. Weiss was a founder of Virtual Imaging, a 
+medical imaging company, where he last held the position of President. From 
+1971 to 1985, Mr. Weiss was an Executive Vice President of ADAC Laboratories, a 
+medical imaging company.
+Phillip Berman, M.D., has served as a member of the Company Board of 
+Directors and President since joining the Company in November 1997 as a result 
+of the acquisition of CompuRAD. Dr. Berman founded CompuRAD and served as 
+Chairman, President and Chief Executive Officer of CompuRAD since 1992. After 
+practicing medicine in New York, Dr. Berman founded Arizona State Radiology, 
+P.C., a radiology practice in Tucson, Arizona in 1988. Dr. Berman served as 
+President of ASR until 1995 and as Chairman of Radiology of St. Mary Hospital 
+in Tucson through 1992. 
+Craig L. Klosterman has served as the Chief Financial Officer since February 
+1993 and also as the Company Chief Operating Officer since October 1994. Mr. 
+Klosterman also served as Vice President, Operations for the Company from 
+January 1994 through October 1994. From 1988 to 1992, he worked at Voysys 
+Corporation, a telephone communications company, where he last held the 
+position of Vice President of Finance and from 1987 through 1988 he served as 
+controller of Silicon Solutions Corporation, a subsidiary of Zycad Corporation, 
+a computer-aided engineering company.
+Cary Cole has served as Vice President of Marketing since joining the Company 
+in November 1997 as a result of the acquisition of CompuRAD. Mr. Cole joined 
+CommpuRAD as a consultant in 1992 and served ad Vice President, Sales and 
+Marketing and Director of from 1993 through 1997. He was President of Student 
+Financial Resources Corporation and Educational Programs and Services 
+Corporation from 1990 to 1992.
+John M. Burgess has served as the Company Vice President of Sales since May 
+1990. From 1986 to 1990, Mr. Burgess served as Vice President, Sales and 
+Marketing for Diasonics, a medical imaging company. Prior to joining 
+Diasonics, Mr. Burgess served as an Executive Vice President of ADAC 
+Laboratories.
+Linden J. Livoni has served as the Company Vice President of Engineering 
+since January 1992. Prior to that time, Mr. Livoni spent six years as Director 
+of Engineering at Greyhawk Systems, Inc., a high-resolution display company. 
+Previously, Mr. Livoni served as Director of Engineering for the Digital 
+Radiography Division of Diasonics.
+Kuldip K. Ahluwalia has served as the Company Vice President of Marketing and 
+Business Development since December 1996. From 1994 through 1996, Mr. 
+Ahluwalia served as Marketing Manager for Toshiba America Medical Systems, a 
+medical imaging company. Prior to joining Toshiba, Mr. Ahluwalia held various 
+sales and marketing positions with General Electric Medical Systems.
+Dean MacIntosh has served as Lumisys' Vice President, Finance since February, 
+1997, and as Controller since joining Lumisys in August 1995. From 1987 to 
+1995, Ms. MacIntosh worked at SSE Telecom, Inc., a satellite communications 
+company where she last held the position of Vice President, Administration and 
+Corporate Controller.
+Mark Mariotti has served as Vice President of Lumisys and General Manager of 
+the Imagraph division of Lumisys since February 1997 and as Vice President of 
+Finance and Operations of the Imagraph division of Lumisys since joining 
+Lumisys in March 1995. From July 1988 to March 1995, Mr. Mariotti held several 
+postions at Imagraph, including Vice President of Finance and Operations and 
+Controller. Prior to joining Imagraph, Mr. Mariotti held senior financial and 
+accounting positions with Charles River Data Systems and Honeywell.

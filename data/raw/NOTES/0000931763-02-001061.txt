@@ -1,0 +1,803 @@
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Report of Independent Public Accountants To U.S. Xpress Enterprises, Inc. We have audited the accompanying consolidated balance sheets of U.S. Xpress
+Enterprises, Inc. a Nevada corporation and subsidiaries as of December 31,
+2001 and 2000, and the related consolidated statements of operations,
+stockholders' equity and cash flows for each of the three years in the period
+ended December 31, 2001. These financial statements are the responsibility of
+the Company management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of U.S. Xpress Enterprises, Inc.
+and subsidiaries as of December 31, 2001 and 2000, and the results of their
+operations and their cash flows for each of the three years in the period ended
+December 31, 2001 in conformity with accounting principles generally accepted in
+the United States. s/ ARTHUR ANDERSEN LLP Chattanooga, Tennessee
+January 29, 2002
+21         U.S. XPRESS ENTERPRISES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+In thousands, except per share amounts                                      Year Ended December 31,
+2001     2000     1999
+- 
+Operating Revenue                         $ 798,032  $ 787,085  $ 708,212
+Operating Expenses:
+Salaries, wages and benefits                    304,687   290,862   278,011
+Fuel and fuel taxes                        126,737   135,992   100,295
+Vehicle rents                            67,754    59,440    54,522
+Depreciation and amortization, net of gain/loss on
+disposition of equipment                      35,345    34,430    29,250
+Purchased transportation                      105,623   104,279    83,897
+Operating expenses and supplies                   51,195    51,382    44,629
+Insurance premiums and claims                    32,277    29,020    25,490
+Operating taxes and licenses                    14,154    13,542    14,709
+Communications and utilities                    11,556    11,216    12,174
+General and other operating expenses Note 3            35,225    36,991    33,708
+Total operating expenses                    784,553   767,154   676,685
+Income from Operations                         13,479    19,931    31,527
+Interest Expense, net                         14,937    15,449    12,388
+Income Loss Before Income Tax Provision               1,458    4,482    19,139
+Income Tax Provision Benefit                      330    2,417    7,758
+Net Income Loss                         $  1,128 $  2,065  $  11,381
+Earnings Loss Per Share - basic                 $   08 $   15  $   77
+Weighted average shares - basic                    13,757    14,095    14,785
+Earnings Loss Per Share - diluted                $   08 $   15  $   77
+Weighted average shares - diluted                   13,757    14,148    14,852
+The accompanying notes are an integral part of these consolidated statements.
+22         U.S. XPRESS ENTERPRISES, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+Dollars in thousands, except share amounts                                                  December 31,
+2001     2000
+- 
+Assets
+Current Assets
+Cash and cash equivalents                               $  8,185  $    34
+Customer receivables, net of allowance of $3,419 and $4,019 in 2001 and 2000,
+respectively                                        83,296    89,184
+Other receivables                                      7,824    14,294
+Prepaid insurance and licenses                               5,112    2,664
+Operating and installation supplies                             3,833    4,312
+Deferred income taxes                                    1,406    2,249
+Other current assets                                    6,594    4,051
+Total current assets                                 116,250   116,788
+Property and Equipment, at cost                               299,208   315,480
+Less accumulated depreciation and amortization                      84,926   96,578
+Net property and equipment                              214,282   218,902
+Other Assets
+Goodwill, net                                       68,875    70,717
+Investment in Transplace                                  5,815    5,815
+Other                                           12,246    11,239
+Total other assets                                  86,936    87,771
+Total Assets                                $ 417,468  $ 423,461
+Liabilities and Stockholders' Equity
+Current Liabilities
+Accounts payable                                    $  15,402  $  19,060
+Book overdraft                                         -    2,940
+Accrued wages and benefits                                 9,299    8,523
+Claims and insurance accruals                               13,590    8,704
+Other accrued liabilities                                  3,376    3,190
+Current maturities of long-term debt                            23,491    1,501
+Total current liabilities                               65,158    43,918
+Long-Term Debt, net of current maturities                          151,540   179,908
+Deferred Income Taxes                                     41,852    40,121
+Other Long-Term Liabilities                                  3,308    2,579
+Commitments and Contingencies Notes 8 and 10
+Stockholders' Equity
+Preferred Stock, $01 par value, 2,000,000 shares authorized, no shares issued         --         Common Stock Class A, $01 par value, 30,000,000 shares authorized, 13,300,466
+and 13,210,467 shares issued at December 31, 2001 and 2000, respectively          133     132
+Common Stock Class B, $01 par value, 7,500,000 shares authorized, 3,040,262
+shares issued and outstanding at December 31, 2001 and 2000                 30      30
+Additional paid-in capital                                105,586   105,124
+Retained earnings                                     75,669    76,797
+Other comprehensive loss                                   778         Treasury Stock, Class A, at cost 2,544,389 shares at
+December 31, 2001 and 2000                               24,483   24,483
+Notes receivable from stockholders                              211    233
+Unamortized compensation on restricted stock                         336    432
+Total stockholders' equity                              155,610   156,935
+Total Liabilities and Stockholders' Equity                 $ 417,468  $ 423,461
+The accompanying notes are an integral part of these consolidated balance
+sheets.
+23         U.S. XPRESS ENTERPRISES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+In thousands                                              Year Ended December 31,
+2001     2000     1999
+- 
+Cash Flows from Operating Activities:
+Net income loss                                $  1,128  $  2,065  $  11,381
+Adjustments to reconcile net income loss to net cash
+provided by operating activities:
+Deferred income tax provision benefit                      2,574    10,275     1,181
+Depreciation and amortization                          35,119    34,711    30,014
+Gain/loss on disposition of equipment                       226     281     764
+Changes in operating assets and liabilities, net of acquisitions:
+Receivables                                  12,358     6,655     4,113
+Prepaid insurance and licenses                        2,448     586      54
+Operating and installation supplies                      1,029     1,807     616
+Other assets                                 8,399    5,850    4,058
+Accounts payable and other accrued liabilities                 3,057     4,527    7,424
+Accrued wages and benefits                            776     1,306      606
+Other                                      317      86      56
+Net cash provided by operating activities                   43,481    54,715    34,543
+Cash Flows from Investing Activities:
+Payments for purchases of property and equipment                  53,400   56,187   74,622
+Proceeds from sales of property and equipment                    40,231    11,966    60,773
+Repayment of notes receivable from stockholders                     22      --        Acquisition of business, net of cash acquired                      --      --    1,798
+Investment in Transplace                                 --    5,000                                                
+Net cash used in investing activities                    13,147   49,221   15,647
+Cash Flows from Financing Activities:
+Net repayments under lines of credit                        123,199    9,801   21,000
+Borrowings under long-term debt agreements                     106,839    10,000        Payments of long-term debt                              3,317    1,229     852
+Book overdraft                                    2,940    2,054      886
+Proceeds from exercise of stock options                         103       8        Proceeds from issuance of common stock                         331      340      242
+Purchase of Class A Common Stock                             --    7,091    4,526
+Net cash used in financing activities                    22,183    5,719   25,250
+Net Increase Decrease in Cash and Cash Equivalents                  8,151     225    6,354
+Cash and Cash Equivalents, beginning of year                        34      259     6,613
+Cash and Cash Equivalents, end of year                       $  8,185  $    34  $   259
+Supplemental Information:
+Cash paid during the year for interest, net of capitalized interest       $  14,943  $  16,003  $  12,838
+Cash refunded paid during the year for income taxes, net            $  8,365  $  1,452  $  6,967
+Addition to property and equipment financed through capital
+lease obligation                                $  13,299  $    --  $                                               The accompanying notes are an integral part of these consolidated statements.
+24         U.S. XPRESS ENTERPRISES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+Dollars in thousands                                                  Notes   Unamortized
+Additional           Receivable Compensation
+Common Stock   Paid-In Retained Treasury   From   On Restricted
+Class A Class B  Capital Earnings  Stock Stockholders   Stock    Total
+- 
+Balance, December 31, 1998           $  130 $  30  $103,255 $ 63,351 $12,866 $  233   $   --  $153,667
+Net income                     --    --     --  11,381    --     --      --   11,381
+Issuance of 5,068 shares of Class A Common
+Stock for non-employee director compensation    --    --     56    --    --     --      --     56
+Issuance of 22,709 shares of Class A
+Common Stock for employee stock purchase plan   --    --    242    --    --     --      --    242
+Issuance of 41,901 shares of Class A Common
+Stock for PST acquisition              1    --    706    --    --     --      --    707
+Repurchase of 485,000 shares of Class A
+Common Stock                    --    --     --    --  4,526    --      --   4,526
+Balance, December 31, 1999             131    30  104,259  74,732  17,392   233      --  161,527
+Net income                     --    --     --   2,065    --     --      --   2,065
+Issuance of 5,322 shares of Class A
+Common Stock for non-employee director
+compensation                    --    --     38    --    --     --      --     38
+Proceeds from exercise of 1,200 options       --    --     8    --    --     --      --     8
+Issuance of 56,400 shares of Class A
+Common Stock for employee stock purchase plan   --    --    340    --    --     --      --    340
+Issuance of 60,000 shares of restricted
+Class A Common Stock to officers          1    --    479    --    --     --     480     Amortization of restricted stock          --    --     --    --    --     --      48     48
+Repurchase of 925,100 shares of
+Class A Common Stock               --    --     --    --  7,091    --      --   7,091
+Balance, December 31, 2000             132    30  105,124  76,797  24,483   233     432  156,935
+Net loss                      --    --     --  1,128    --     --          1,128
+Issuance of 4,258 shares of Class A
+Common Stock for non-employee director
+compensation                    --    --     29    --    --     --      --     29
+Issuance of 70,491 shares of Class A
+Common Stock for employee stock purchase plan    1    --    330    --    --     --      --    331
+Proceeds from exercise of 15,250 options      --    --    103    --    --     --      --    103
+Other comprehensive loss, net of tax        --    --     --   778    --     --      --    778
+Repayment of notes receivable from stockholders   --    --     --    --    --     22      --     22
+Amortization of restricted stock          --    --     --    --    --     --      96     96
+Balance, December 31, 2001           $  133 $  30  $105,586 $ 74,891 $24,483 $  211   $  336 $155,610
+The accompanying notes are an integral part of these consolidated statements.
+25         U.S. XPRESS ENTERPRISES, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Dollars in thousands, except per share amounts 1.  Organization and Operations
+U.S. Xpress Enterprises, Inc. the Company provides transportation services
+through two business segments. U.S. Xpress, Inc. U.S. Xpress is a truckload
+carrier serving the continental United States and parts of Canada and Mexico.
+CSI/Crown, Inc. CSI/Crown provides transportation services primarily to the
+floorcovering industry and deferred airfreight logistics services from airport
+to airport. 2.  Summary of Significant Accounting Policies
+Principles of Consolidation
+The consolidated financial statements include the accounts of the Company and
+its subsidiaries. All significant intercompany transactions and accounts have
+been eliminated.
+Use of Estimates in the Preparation of Financial Statements
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from those estimates.
+Cash and Cash Equivalents
+Cash and cash equivalents include all highly liquid investment instruments with
+an original maturity of three months or less.
+Recognition of Revenue
+For financial reporting purposes, the Company generally recognizes revenue and
+direct costs when shipments are completed.
+Concentration of Credit Risk
+Concentrations of credit risk with respect to customer receivables are limited
+due to the large number of entities comprising the Company customer base and
+their dispersion across many different industries. The Company performs ongoing
+credit evaluations and generally does not require collateral.
+Operating and Installation Supplies
+Operating supplies consist primarily of tires, parts, materials and supplies for
+servicing the Company revenue and service equipment. Installation supplies
+consist of various accessories used in the installation of floor coverings and
+are held for sale at various CSI/Crown distribution centers. Operating and
+installation supplies are recorded at the lower of cost on a first-in,
+first-out basis or market. Tires and tubes purchased as part of revenue and
+service equipment are capitalized as part of the cost of the equipment.
+Replacement tires and tubes are charged to expense when placed in service.
+Property and Equipment
+Property and equipment are carried at cost. Depreciation of property and
+equipment is computed using the straight-line method for financial reporting
+purposes and accelerated methods for tax purposes over the estimated useful
+lives of the related assets net of salvage value. The cost and lives at
+December 31, 2001 and 2000 are as follows                                  Cost
+Lives      2001    2000
+Land and buildings         10-30 years   $ 44,768  $ 24,952
+Revenue and service equipment    3-7 years    216,934   249,773
+Furniture and equipment       3-7 years     19,758    21,299
+Leasehold improvements       5-6 years     17,748    19,456
+$ 299,208  $ 315,480
+26 The Company recognized $28,445, $30,593 and $27,101 in depreciation expense in
+2001, 2000 and 1999, respectively. Gains/losses on sale of equipment of
+$226, $281 and $764 for 2001, 2000 and 1999, respectively, are included in
+depreciation and amortization expense in the consolidated statements of
+operations. The Company capitalized $41 and $483 of interest in 2001 and 2000,
+respectively.
+Upon the retirement of property and equipment, the related asset cost and
+accumulated depreciation are removed from the accounts and any gain or loss is
+reflected in the Company statement of operations with the exception of gains
+on trade-ins, which are included in the basis of the new asset. Expenditures for
+normal maintenance and repairs are expensed. Renewals or betterments that affect
+the nature of an asset or increase its useful life are capitalized.
+Goodwill
+The excess of the consideration paid by the Company over the estimated fair
+value of identifiable net assets acquired has been recorded as goodwill and has
+been amortized on the straight-line basis over periods ranging from 20 to 40
+years. The Company continually evaluates whether subsequent events and
+circumstances have occurred that indicate the remaining estimated useful life of
+goodwill might warrant revision or that the remaining balance may not be
+recoverable. When factors indicate that goodwill should be evaluated for
+possible impairment, the Company uses an estimate of the future undiscounted net
+cash flows of the related businesses over the remaining life of the goodwill in
+measuring whether goodwill is recoverable. The Company recognized $1,842, $1,999
+and $1,977 of goodwill amortization expense in 2001, 2000 and 1999,
+respectively. Accumulated amortization was $8,258, and $6,416 at December 31,
+2001 and 2000, respectively.
+Deferred Financing Costs
+Deferred financing costs are included in other assets in the accompanying
+consolidated balance sheets and include fees and costs incurred to obtain long-
+term financing, and are being amortized over the terms of the respective
+obligation. Amortization expense was $1,931, $387 and $175 in 2001, 2000 and
+1999, respectively. Accumulated amortization was $2,347 and $707 as of December
+2001 and 2000, respectively.
+Computer Software
+The Company accounts for computer software in accordance with the AICPA
+Statement of Position SOP 98-1, Accounting for the Costs of Computer
+Software Developed or Obtained for Internal Use. Computer software is included
+in other long-term assets and is being amortized on a straight-line basis over
+three years. The Company recognized $2,901, $1,732 and $761 of amortization
+expense in 2001, 2000 and 1999, respectively. Accumulated amortization was
+$5,852 and $3,461 at December 31, 2001 and 2000, respectively.
+Book Overdraft
+Book overdraft represents outstanding checks in excess of current cash levels.
+The Company funds its book overdraft from its line of credit and operating
+cash flows.
+Investment in Transplace
+On July 1, 2000, the Company and five other large transportation companies
+merged their logistics business units into a commonly owned, Internet-based
+global transportation logistics company, Transplace. The Company approximate
+13% interest is carried on a cost basis. See Note 9 regarding certain
+relationships and related transactions.
+Claims and Insurance Accruals
+Claims and insurance accruals consist of cargo loss, damage, liability personal
+injury and property damage and workers' compensation claims within the
+Company established retention levels. Claims in excess of retention levels are
+generally covered by insurance in amounts the Company considers adequate. Claims
+accruals represent the uninsured portion of pending claims at December 31, 2001
+and 2000, plus an estimated liability for incurred but not reported claims.
+Accruals for cargo loss, damage, liability and workers' compensation claims are
+estimated based on the Company evaluation of the type and severity of
+individual claims.
+Other Long-Term Liabilities
+Periodically, the Company receives volume rebates from vendors related to
+certain operating leases for new revenue and service equipment. Additionally,
+certain equipment leases include spare tires, which increase tire inventories.
+The Company defers recognition of these rebates and amortizes such amounts as a
+reduction of vehicle rent expense over the respective lease terms. At December
+31, 2001 and 2000, other long-term liabilities include deferred credits of
+$1,650 and $2,231, respectively.
+Earnings Per Share
+The difference between basic and diluted earnings per share is due to the
+assumed conversion of dilutive outstanding options resulting in approximately
+53,000 and 67,000 equivalent shares in 2000 and 1999, respectively. Due to the
+loss in 2001, the outstanding options are anti-dilutive and are not considered
+in earnings per share.
+27 Stock-Based Compensation The Company accounts for its stock-based compensation
+plans under Accounting Principles Board Opinion No. 25, Accounting for Stock
+Issued to Employees APB No. 25 and has elected the disclosure option of
+Statement of Financial Accounting Standards SFAS No. 123, Accounting for
+Stock-Based Compensation.
+Recent Accounting Pronouncements
+In June 2001, the Financial Accounting Standards Board FASB issued SFAS No.
+141, Business Combinations and SFAS No. 142 Goodwill and Other Intangible
+Assets collectively the Standards. The Standards are effective for fiscal
+years beginning after December 15, 2001. SFAS No. 141 requires companies to
+recognize acquired identifiable assets separately from goodwill if control over
+the future economic benefits of the assets results from contractual or other
+legal rights or the intangible asset is capable of being separated or divided
+and sold, transferred, licensed, rented or exchanged. The Standards require the
+value of a separately identifiable intangible asset meeting any of the criteria
+to be measured at its fair value. SFAS No. 142 requires that goodwill not be
+amortized and that amounts recorded as goodwill be tested for impairment. Upon
+adoption of SFAS No. 142, goodwill will be reduced if it is found to be
+impaired. Annual impairment tests will have to be performed at the lowest level
+of an entity that is a business and that can be distinguished, physically and
+operationally and for internal reporting purposes, from the other activities,
+operations and assets of the entity. The Company is required to adopt SFAS 142
+effective January 1, 2002. Based on the current levels of goodwill, the adoption
+of the Standards in fiscal 2002 will decrease annual amortization expense by
+approximately $18 million through the elimination of goodwill amortization. The
+adoption of SFAS No. 142 could have an adverse effect on the Company future
+results of operations if an impairment occurs. Management is currently
+evaluating the effect of this Statement on the Company results of operations
+and financial position.
+In August 2001, the FASB issued SFAS No. 144 Accounting for the Impairment or
+Disposal of Long-lived Assets. SFAS No. 144 addresses financial accounting and
+reporting for the impairment of long-lived assets and for long-lived assets to
+be disposed of. SFAS No. 144 supersedes SFAS No. 121, Accounting for the
+Impairment of Long-Lived Assets to be disposed of and among other factors,
+establishes criteria beyond that previously specified in SFAS No. 121 to be
+determined when a long-lived asset is to be considered as held for sale. The
+Company adopted SFAS No. 144 effective January 1, 2002 and is currently
+evaluating its impact.
+Reclassifications
+Certain reclassifications have been made in the prior year financial statements
+to conform to the 2001 presentation.
+3. Certain Transactions
+In December 2000, the Company recorded a one-time, pre-tax charge of $2,000 to
+general and other operating expenses related to the write-off of outstanding
+receivables with Dedicated Transportation Services, Inc. and other related
+expenses.
+On May 27, 1999, a settlement agreement and release was completed between the
+Company and Employee Solutions, Inc., pursuant to which certain pending claims
+between the Company and ESI were resolved. As a result of the settlement, the
+Company recorded a charge to general and other operating expenses of $1,250 in
+1999.
+4. Acquisitions
+Under the terms of the purchase agreements for acquisitions prior to 1999 and in
+settlement of certain contingent purchase price arrangements, the Company
+recorded approximately $4,000 of additional consideration in 1999, of which
+approximately $1,800 was paid in cash.
+28 5. Income Taxes
+The income tax provision benefit for 2001, 2000 and 1999 consisted of the
+following                 2001      2000       1999
+Current:
+Federal   $  3,139   $  7,976    $ 5,979
+State        235       118       598
+2,904     7,858      6,577
+Deferred         2,574      10,275      1,181
+$   330   $   2,417     $ 7,758
+A reconciliation of the income tax provision benefit as reported in the
+consolidated statements of operations to the amounts computed by applying
+federal statutory rates is as follows                                     2001    2000      1999
+Federal income tax at statutory rate            $  510  $  1,524   $  6,699
+State income taxes, net of federal income tax benefit       38     78      395
+Nondeductible goodwill amortization                391     553      548
+Other, net                            173     262      116
+Income tax provision benefit            $  330  $  2,417   $  7,758
+The tax effect of temporary differences that give rise to significant portions
+of deferred tax assets and liabilities at December 31, 2001 and 2000 consisted
+of the following                                 2001     2000
+Deferred tax assets:
+Allowance for doubtful accounts         $   --  $   567
+Insurance and claims reserves            2,255    2,307
+Alternative minimum tax credit carry forwards    5,416    4,808
+Other reserves                    323     200
+Net operating loss carry forwards          5,338    5,687
+Other                         17     794
+Total deferred tax assets         $ 13,349  $ 14,363
+Deferred tax liabilities:
+Allowance for doubtful accounts         $   359  $          Book over tax basis of property and equipment   45,061    44,025
+Deductible goodwill amortization          7,127    7,312
+Prepaid license fees                 306     269
+Other                         942     629
+Total deferred tax liabilities       $ 53,795  $ 52,235
+At December 31, 2001, the Company had approximately $8,951 of net operating loss
+NOL carry forwards from the PST acquisition, which will expire in 2010 and
+2011. The utilization of the NOL carry forwards is limited to future taxable
+income. Management believes it will be able to utilize the NOL carry forwards
+prior to their expiration. The Company also has approximately $5,416 of
+alternative minimum tax AMT credit carry forwards. AMT credits may generally
+be carried forward indefinitely and used in future years to the extent the
+Company regular tax liability exceeds the AMT liability for such future years.
+29 6. Long-Term Debt
+Long-term debt at December 31, 2001 and 2000 consisted of the following                                              2001       2000
+Obligation under line of credit with a group of banks, weighted average
+interest rate of 540% at December 31, 2001, maturing July 2003         $  45,000    $ 168,000
+Installment notes with finance companies, weighted average interest rate of
+743% at December 31, 2001, due in monthly installments with final
+maturities at various dates ranging from December 2002 to September 2008      105,469         Mortgage note payable, interest rate of 419% at December 31, 2001,
+due in monthly installments through October 2010, with final
+payment of $71 million in October 2010                        9,556       9,969
+Capital lease obligation, interest rate of 54% at
+December 31, 2001, due July 2003                           13,299         Capital lease obligation maturing January 2008                      1,569       1,676
+Other                                           138       1,764
+175,031      181,409
+Less: current maturities of long-term debt                      23,491      1,501
+$ 151,540    $ 179,908
+In December 2001, the Company entered into approximately $107 million in
+equipment installment notes, the proceeds of which were used primarily to reduce
+borrowings under the Company revolving line of credit. In connection
+therewith, the Company revolving line of credit with a syndicate of banks was
+amended. Under the terms of the amended agreement, the facility was reduced from
+$190 million to $87 million, and the maturity date was extended to July 2003. In
+June 2002, the amended facility will be reduced to $80 million. Borrowings under
+the line of credit bear interest, at the option of the Company, equal to either
+i the greater of the bank prime rate or the federal funds rate plus 20% or
+ii the rate offered in the Eurodollar market for amounts and periods
+comparable to the relevant loan plus 35%.
+Borrowings including letters of credit under the line of credit are limited to
+a specified percentage of eligible accounts receivable and the net book value of
+specified revenue equipment. Letters of credit are limited to an aggregate of
+$25,000 under the line. The credit agreement is collateralized by substantially
+all of the assets of the Company not otherwise encumbered. Letters of credit
+outstanding at December 31, 2001 against the line of credit were $18,660. At
+December 31, 2001, $23,340 was available for borrowing under the facility.
+During 1998, the Company entered into a long-term operating lease of a corporate
+office and operations facility. In connection with the amendment of the
+revolving credit facility in 2001, the Company amended the terms of the lease
+whereby the lease is now accounted for as a capital lease. Payments under the
+lease are based on LIBOR rates plus 35% with a final termination payment of
+$133 million due in July 2003.
+Borrowings under the mortgage note payable bear interest based on the 30-day
+commercial paper rate, plus a margin. This rate can be converted to a fixed rate
+at any time up to September 2002.
+The line of credit agreement subjects the Company to certain restrictions and
+financial covenants related to, among other matters, dividends, net worth,
+additional borrowings, acquisitions and dispositions and maintenance of certain
+financial ratios.
+The aggregate annual maturities of long-term debt for each of the next five
+years are           2002         $ 23,491
+2003          82,297
+2004          12,704
+2005          11,301
+2006          18,500
+30 7.    Comprehensive Income Loss
+Comprehensive income loss consisted of the following components for
+the years ended December 31, 2001, 2000 and 1999, respectively                                2001    2000    1999
+Net income loss                $ 1,128  $ 2,065  $ 11,381
+Net loss on current period cash flow hedges     778     0      0
+Total                      $ 1,906  $ 2,065  $ 11,381
+8.    Leases
+The Company leases certain revenue and service equipment and office and
+terminal facilities under long-term non-cancelable operating lease agreements
+expiring at various dates through September 2009. Rental expense under
+non-cancelable operating leases was approximately $77,533, $65,950 and
+$60,335 for 2001, 2000 and 1999, respectively. Revenue equipment lease terms
+are generally 3 years for tractors and 5-7 years for trailers. Substantially
+all revenue equipment leases provide for guarantees by the Company of a
+portion of the residual amount under certain circumstances at the end of the
+lease term.
+Approximate aggregate minimum future rentals payable under these operating
+leases for each of the next five years are             
+Revenue
+Equipment   Other    Total
+2002     $57,380   $9,284   $66,664
+2003     40,128    6,759    46,887
+2004     15,675    6,239    21,914
+2005      2,883    4,722    7,605
+2006      2,023    2,870    4,893
+Thereafter   2,023    2,461    4,484
+9.    Related Party Transactions
+The Company leases certain office and terminal facilities from entities owned
+by the two principal stockholders of the Company. The lease agreements are
+for five-year terms and provide the Company with the option to renew the
+lease agreements for four three-year terms. Rent expense of approximately
+$888, $851 and $868 was recognized in connection with these leases during
+2001, 2000 and 1999, respectively.
+The two principal stockholders of the Company and certain partnerships
+controlled by their families own 100% of the outstanding common stock of
+Paragon Leasing LLC Paragon. Paragon leased certain revenue and service
+equipment to the Company. Rent expense of approximately $326, $473 and $590
+was recognized in connection with these leases during 2001, 2000 and 1999,
+respectively.
+The two principal stockholders of the Company and certain partnerships
+controlled by their families own 45% of the outstanding common stock of
+Transcommunications, Inc. Transcom. Beginning in 1999, the Company began
+utilizing Transcom charge cards for over-the-road fuel purchases. The Company
+paid Transcom $230, $212 and $204 in fees for these services in 2001, 2000
+and 1999 respectively. Transcom provides communications services to the
+Company and its drivers. Total payments by the Company to Transcom for these
+services were approximately $445, $511 and $441 in 2001, 2000 and 1999,
+respectively.
+On July 1, 2000, the Company and five other large transportation companies
+contributed their non-asset based logistics business units into a commonly
+owned, Internet-based transportation logistics company, Transplace. The
+Company earned revenues of approximately $308 million and $126 million from
+Transplace in 2001 and 2000, respectively, for providing transportation
+services.
+31 10.   Commitments and Contingencies
+The Company is a defendant in a lawsuit filed by Forward Air, Inc. Forward
+Air, a deferred airfreight service provider, in the United States District
+Court in Greeneville, Tennessee, in which Forward Air has asserted a variety
+of claims primarily for trademark infringement and unfair competition
+allegedly arising out of the Company use of the name Dedicated Xpress
+Services, Inc. In its lawsuit, Forward Air asserts that after Forward Air
+purchased the assets of Dedicated Transportation Services, Inc. DTSI, an
+airfreight provider, the Company entered the deferred air freight logistics
+service business and is unfairly competing with Forward Air. Forward Air
+seeks unspecified damages and injunctive relief preventing the Company from
+using the name Dedicated Xpress Services, Inc.
+In a related case, SouthTrust Bank SouthTrust, the secured lender to
+DTSI, which foreclosed upon and sold the assets of DTSI to Forward Air, has
+filed a lawsuit against the Company concerning certain events surrounding
+such foreclosure and sale. In November 2000, the Company signed an agreement
+with SouthTrust to purchase certain assets of DTSI at foreclosure by
+SouthTrust. After the agreement was signed, SouthTrust advised the Company
+that it had received a higher offer for the assets from Forward Air and that
+it would cancel the agreement with the Company unless the Company matched the
+higher offer. SouthTrust then sold the assets of DTSI to Forward Air. In its
+lawsuit, SouthTrust claims the Company acted wrongfully and attempted to
+interfere with SouthTrust sale of DTSI assets to Forward Air. The lawsuit
+seeks damages in an unspecified amount from the Company, and seeks to have
+the Court declare that actions taken by SouthTrust in connection with the
+foreclosure and sale of DTSI assets were lawful and did not violate any
+legal rights of the Company.
+The Company believes that the claims asserted by Forward Air and SouthTrust
+are without merit and intends to vigorously defend the lawsuits.
+The Company is party to certain other legal proceedings incidental to its
+business. The ultimate disposition of these matters, in the opinion of
+management, based in part on the assessment of the likelihood of an adverse
+disposition of such matters, will not have a material adverse effect on the
+Company financial position or results of operations.
+Letters of credit of $18,660 were outstanding at December 31, 2001. The
+letters of credit are maintained primarily to support the Company insurance
+program see Note 2. The Company pays commitment fees of 350% on the
+outstanding portion of the letters of credit.
+11.   Derivative Financial Instruments
+The Company adopted SFAS No. 133, Accounting for Derivative Instruments and
+Hedging Activities, as amended, on January 1, 2001. SFAS No. 133 requires
+that all derivative instruments be recorded on the balance sheet at fair
+value. The Company has designated its interest rate swap agreements as cash
+flow hedge instruments. The swap agreements are used to manage exposure to
+interest rate movement by effectively changing the variable rate to a fixed
+rate. The critical terms of the interest rate swap agreements and the related
+debt are different with regard to maturity date; therefore, the Company
+expects some hedge ineffectiveness in the hedge relationship. Changes in fair
+value of the interest rate agreements will be recognized in other
+comprehensive income until the hedged items are recognized in earnings.
+The adoption of SFAS No. 133 resulted in recording a cumulative effect of a
+change in accounting principle of $99. Due to the immateriality of this
+amount, the cumulative effect of adoption was not broken out separately in
+the Statement of Stockholders' Equity, but was included in other
+comprehensive loss for the year ended December 31, 2001. At December 31,
+2001, the fair market value of the swap agreements decreased due primarily to
+a reduction in interest rates, and accumulated other comprehensive income was
+adjusted to an accumulated loss of $778, net of tax. For the year ended at
+December 31, 2001, the interest rate swaps were deemed to be partially
+ineffective cash flow hedges, and, accordingly, the Company recorded $192 of
+interest expense in the income statement related to the hedge
+ineffectiveness. Under these agreements, the Company receives interest
+payments at rates equal to LIBOR reset quarterly, and pays interest at fixed
+rates shown below     Notional   Fixed Rate  Variable Rate     Effective       Expiration
+Amounts   Component   Component       Date          Date
+$10,000    5730%     2200%    February 6, 1998    February 6, 2003
+15,000    5705      2200     February 6, 1998    February 6, 2003
+10,000    5145      2200      August 6, 1999    February 6, 2003
+10,000    5565      2020    September 8, 1998    September 8, 2003                    32  The Company is exposed to credit losses, in the event of non-performance by
+the counterparties, to its interest rate swap agreements. The Company
+anticipates, however, that the counterparties will be able to fully satisfy
+their obligations under the contracts. The Company does not obtain collateral
+or other security to support financial instruments subject to credit risk but
+monitors the credit-worthiness of counterparties.
+The fair value of the interest rate swap agreements is defined as the amount
+the Company would receive or would be required to pay to terminate further
+obligations under the agreements. At December 31, 2001, the Company estimates
+the amount it would be required to pay to terminate the agreements
+approximates $1,639.
+12.   Employee Benefit Plan
+The Company has a 401k retirement plan covering substantially all employees
+of the Company, whereby participants may contribute a percentage of their
+compensation, as allowed under applicable laws. The plan provides for a
+matching contribution by the Company. Participants are 100% vested in
+participant contributions and become vested in employer matching
+contributions over a period of six years. The Company recognized $1,277,
+$1,127 and $1,425 in expense under this employee benefit plan for 2001, 2000
+and 1999, respectively.
+13.   Stockholders' Equity
+Common Stock
+Holders of Class A Common Stock are entitled to one vote per share. Holders
+of Class B Common Stock are entitled to two votes per share. Once the Class B
+Common Stock is no longer held by the two principal stockholders of the
+Company or their families as defined, the stock is automatically converted
+into Class A Common Stock on a share per share basis.
+Preferred Stock
+Effective December 31, 1993, the Board of Directors approved the designation
+of 2,000,000 shares of preferred stock with par value of $01 per share. The
+Board of Directors has the authority to issue these shares and to determine
+the rights, terms and conditions of the preferred stock as needed.
+Stock Buyback
+As authorized by its Board of Directors, the Company purchased 925,100 and
+485,000 shares of the Company outstanding Class A Common Stock in the open
+market and in private transactions at a cost of $7,091 and $4,526 for 2000
+and 1999, respectively.
+Incentive Stock Plan
+The Company maintains the U.S. Xpress Enterprises, Inc. Incentive Stock Plan
+the Plan. The Plan provides for the issuance of shares of restricted
+common stock of the Company, as well as both incentive and nonstatutory stock
+options. There may be issued under the Plan as restricted stock, in payment
+of performance grants or pursuant to the exercise of stock options an
+aggregate of not more than 1,038,138 shares of Class A Common Stock.
+Participants of the Plan may include key employees as selected by the
+compensation committee of the Board of Directors. Under the terms of the
+Plan, the Company may issue restricted shares of common stock, grant options
+or issue performance grants to participants in amounts and for such prices as
+determined by the compensation committee. All options will vest immediately
+in the event of a change in control of the Company, or upon the death,
+disability or retirement of the employee.
+Under a 1993 sale of restricted stock to certain stockholder employees, notes
+receivable from stockholders were issued. The notes bear interest at 6% and
+are due to the Company upon demand.
+On July 1, 2000, 60,000 restricted shares of Class A Common Stock were issued
+to certain executive officers. The restrictions on these 60,000 shares expire
+ratably over a five-year period beginning July 3, 2001. Restrictions on these
+shares expire in the event of a change in control of the Company, or upon the
+death, disability or retirement of the employee.
+Non-Employee Directors Stock Plan
+In August 1995, the Company adopted the 1995 Non-Employee Directors Stock
+Award and Option Plan the Directors Stock Plan providing for the issuance
+of stock options to non-employee directors upon their election to the
+Company Board of Directors. The Directors Stock Plan also provides
+non-employee directors the option to receive certain board-related
+compensation in the form of the Company Class A Common Stock in lieu of
+cash. The number of shares of Class A Common Stock available for option or
+issue under the Directors Stock Plan may not exceed 50,000 shares.
+The Directors Stock Plan provides for the grant of 1,200 options to purchase
+the Company Class A Common Stock to each non-employee director upon the
+election or re-election of each such director to the board. The exercise
+price of options issued under
+33  the Directors Stock Plan is set at the fair market value of the Company
+stock on the date granted. Options vest ratably on each of the first, second
+and third anniversaries of the date of grant.
+If a board member elects to receive board-related compensation in the form of
+stock, the number of shares issued to each director in lieu of cash is
+determined based on the amount of earned compensation divided by the fair
+market value of the Company stock on the date compensation is earned.
+Employee Stock Purchase Plan
+In August 1997, the Company adopted an Employee Stock Purchase Plan the
+ESPP through which employees meeting certain eligibility criteria may
+purchase shares of the Company common stock at a discount. Under the ESPP,
+eligible employees may purchase shares of the Company common stock, subject
+to certain limitations, at a 15% discount. Common stock is purchased for
+employees in January and July of each year. Employees may not purchase more
+than 1,250 shares in any six-month period or purchase stock having a market
+value of more than $25 per calendar year. The Company has reserved
+300,000 shares for issuance under the ESPP. In January and July 2001,
+employees purchased 22,042 and 48,449 shares of the Company Class A Common
+Stock at $473 and $468 per share, respectively. In January and July 2000,
+employees purchased 30,899 and 25,501 shares of the Company Class A Common
+Stock at $627 and $574 per share, respectively. In January and July 1999,
+employees purchased 9,752 and 12,957 shares of the Company Class A Common
+Stock at $1275 and $909 per share, respectively. At December 31, 2001,
+124,392 shares were available for purchase under the ESPP. In January 2002,
+employees purchased 50,796 shares of the Company Class A Common Stock at
+$576 per share.
+Stock Options
+Stock options generally vest over periods ranging from three to six years and
+expire ten years from the date of grant. As options were granted at fair
+value, no compensation expense has been recognized. A summary of the
+Company stock option activity for 2001, 2000 and 1999 follows                                                     Weighted Average
+Shares        Option Price      Exercise Price
+Outstanding at December 31, 1998            357,126     $  472 - $2088       $ 1170
+Granted at market price                51,300      1013 -  1500        1313
+Canceled or expired                  14,000      1225 -  1913        1471
+Outstanding at December 31, 1999            394,426       472 -  2088        1178
+Granted at market price                387,150       650 -  806         711
+Exercised                       1,200            663         663
+Canceled or expired                  73,950      650 -  2088        1084
+Outstanding at December 31, 2000            706,426       472 -  2088         933
+Granted at market price                50,600       688  -  710         689
+Exercised                       15,250      650 -  688         675
+Canceled or expired                  76,000      650 -  1913        1011
+Outstanding at December 31, 2001            665,776     $  472 - $2088       $  911
+For SFAS No. 123 purposes, the fair value of each option grant and each stock
+purchase right under the ESPP has been estimated as of the date of grant
+using the Black-Scholes pricing model with the following weighted average
+assumptions for 2001, 2000 and 1999, respectively: risk-free interest rate of
+509%, 644% and 526%, expected life of five years, expected dividend yield
+of 0% and expected volatility of 625%, 60% and 60%. Using these assumptions,
+the fair value of the awards granted in 2001, 2000 and 1999 is $453, $1,292
+and $473, respectively, which would be amortized as compensation expense over
+the vesting period. Had compensation cost for the plan been determined in
+accordance with SFAS No. 123, utilizing the assumptions detailed above, the
+Company pro forma net income loss would have been $1,788, $1,592 and
+$11,083 for 2001, 2000 and 1999, respectively. Pro forma basic earnings
+loss per share would have been $013, $011 and $075 for 2001, 2000 and
+1999, respectively. Pro forma diluted earnings loss per share would have
+been $013, $011 and $075 for the same periods.
+The weighted average fair value of options granted during 2001, 2000 and 1999
+was $397, $410 and $742, respectively. Of the options outstanding at
+December 31, 2001, 489,076 have exercise prices between $472 and $806, with
+a weighted average exercise price of $677 and a weighted average remaining
+contractual life of 70 years. Of these options, 195,926 are exercisable at a
+weighted average exercise price of $611. Options to exercise 68,100 shares
+have exercise prices between $950 and $1225, with a weighted average
+exercise price of $1206 and a weighted average remaining contractual life of
+68 years. Of these options, 50,175 are exercisable at a weighted average
+exercise price of $1208. Options to exercise the
+34  remaining 108,600 shares have exercise prices between $1500 and $2088, with
+a weighted average exercise price of $1784 and a weighted average remaining
+contractual life of 60 years. Of these options, 63,600 were exercisable at a
+weighted average exercise price of $1893. As of December 31, 2001, 309,701
+of the options outstanding were exercisable with a weighted average exercise
+price of $971 per share. As of December 31, 2000, 235,731 of the options
+outstanding were exercisable with a weighted average exercise price of $1011
+per share. As of December 31, 1999, 209,564 of the options outstanding were
+exercisable with a weighted average exercise price of $913 per share.
+14.   Fair Value of Financial Instruments
+The carrying values of cash and cash equivalents, customer and other
+receivables, accounts payable and accrued liabilities are reasonable
+estimates of their fair values because of the short maturity of these
+financial instruments. Based on the borrowing rates available to the Company
+for long-term debt with similar terms and average maturities, the carrying
+amounts approximate the fair value of such financial instruments.
+15.   Operating Segments
+The Company has two reportable segments based on the types of services it
+provides to its customers: U.S. Xpress, which provides truckload operations
+throughout the continental United States and parts of Canada and Mexico, and
+CSI/Crown, which provides transportation services to the floorcovering
+industry and deferred airfreight logistics services from airport to airport.
+The accounting policies of the segments are the same as those described in
+the summary of significant accounting policies. Substantially all
+intersegment sales prices are market based. The Company evaluates performance
+based on operating income of the respective business units.                         U.S. Xpress    CSI/Crown    Consolidated
+1999
+Revenues - external customers      $   650,499  $   57,713  $    708,212
+Intersegment revenues               5,530        0       5,530
+Operating income                 28,869      2,658       31,527
+Depreciation and amortization          28,932      1,082       30,014
+Total assets                  390,922      18,115      409,037
+Capital expenditures               74,180       442       74,622
+2000
+Revenues - external customers      $   728,924  $   58,161  $    787,085
+Intersegment revenues               4,659        0       4,659
+Operating income                 17,107      2,824       19,931
+Depreciation and amortization          33,447      1,264       34,711
+Total assets                  403,440      20,021      423,461
+Capital expenditures               55,455       732       56,187
+2001
+Revenues - external customers      $   714,953  $   83,079  $    798,032
+Intersegment revenues              21,942        0       21,942
+Operating income loss             15,103      1,624      13,479
+Depreciation and amortization          33,730      1,389       35,119
+Total assets                  391,256      26,212      417,468
+Capital expenditures               52,505       895       53,400  The difference in consolidated operating income as shown above and
+consolidated income before income tax provision on the consolidated
+statements of operations is net interest expense of $14,937, $15,449 and
+$12,388 in 2001, 2000 and 1999, respectively.
+The difference in consolidated depreciation and amortization as shown above
+and consolidated depreciation and amortization, net of gain/loss on
+disposition of equipment on the consolidated statements of operations is
+gain/loss on sale of equipment of $226, $281 and $764 in 2001, 2000 and
+1999, respectively.
+35 16.   Quarterly Financial Data Unaudited                                   Quarter Ended
+March 31     June 30   September 30   December 31    Total
+Year Ended December 31, 2001
+Operating revenue               $ 186,478    $ 202,541    $ 207,464   $ 201,549   $ 798,032
+Income from operations               2,134      4,784      4,152      2,409     13,479
+Income loss before income taxes         2,031       643       629      699    1,458
+Net income loss                 1,220       387       304      599    1,128
+Earnings loss per share - basic          09       03       02      04     08
+Earnings loss per share - diluted         09       03       02      04     08
+Year Ended December 31, 2000
+Operating revenue               $ 191,841    $ 202,427    $ 197,135   $ 195,682   $ 787,085
+Income loss from operations           4,842      9,122      6,626      659    19,931
+Income loss before income taxes         1,447      5,150      2,481     4,596     4,482
+Net income loss                  868      3,084      1,368     3,255     2,065
+Earnings loss per share - basic /1/       006       022      010      024     015
+Earnings loss per share - diluted /1/      006       022      010      024     015 /1/ The sum of quarterly earnings per share differs from annual earnings per
+share because of differences in the weighted average number of common shares
+used in the quarterly and annual computations.
