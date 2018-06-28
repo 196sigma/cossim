@@ -21,17 +21,9 @@ To distribute computation on EC2:
 ## FILE STRUCTURE
 /code
 - cossim.py
-    - depends:
-    - outputs:
 - cossim-ec2-driver.py
-    - depends:
-    - outputs:
 - get_filestocompare.py
-    - depends:
-    - outputs:
 - get-s3-cossim-data.py
-    - depends:
-    - outputs:
 
 /data
 - raw/
