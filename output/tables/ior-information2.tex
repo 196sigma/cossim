@@ -1,0 +1,83 @@
+\centering 
+\tiny 
+\begin{longtable}{@{\extracolsep{5pt}}lD{.}{.}{-4} D{.}{.}{-4} } 
+%\captionsetup{width=.75\textwidth}
+  \caption{\textbf{Institutional Ownership, Accounting Comparability, and the Information Environment Regression Models}} \label{ior-information} \\ \hline 
+\caption*{
+\tiny This table reports the results of the following regression model:
+
+\begin{minipage}{\linewidth}
+\begin{equation}\label{eq:baspread}
+\begin{aligned}
+IO_{it} &= \beta_{0} + \beta_{1}COMP_{it} + \beta_{2}COMP_{it}\times X_{it} + \beta_{3} X_{it}  + \beta_{4}TANG_{it} + \beta_{5}MVE_{it} + \beta_{6}PRICE_{it} \\
+& + \beta_{7}TURNOVER_{it} + \beta_{8}AGE_{it} + \beta_{9}SP500_{it} + \beta_{10}DIV_{it} + \beta_{11}LEVERAGE_{it} + \beta_{12}Q_{it} \\
+&+ \beta_{13}RETURN_{it} + \beta_{14}ROA_{it} + \beta_{15}ASSETS_{it} + \gamma_{t} + \varepsilon_{it},
+\end{aligned}
+\end{equation}
+\end{minipage}
+where in Column (1) $X$ is $Q\_BASPREAD\_D$, a dummy variable equal to one if the average effective bid-ask spread for that industry-year is in the lowest (first) quintile and equal to zero otherwise and in Column (2) $X$ is $Q\_NANALYSTS\_D$, a dummy variable equal to one if the average number of analysts following firms for that industry-year is in the highest (fifth) quintile and equal to zero otherwise. $COMP$ denotes the aggregate accounting comparability level for each industry in a specific year. Data span all stocks listed on the NYSE, NASDAQ, or American Stock Exchange (AMEX) and all industries over the years 1980 to 2015. Institutional ownership, $IO$, for each firm in each year as the ratio of shares held by institutions to the total shares outstanding. All variables are aggregated at the industry (two-digit SIC) level. December fiscal-year-end firms. $AGE$ is the number of years the firm appears in Compustat.
+
+$TURNOVER$ is the ratio of monthly trading volume to number of shares outstanding.
+$RETURN$ is the stock return over the preceeding year.
+$PRICE$ is the average daily stock price over the preceeding year.
+$ASSETS$ is the natural logarithm of the book value of assets.
+$MVE$ is the natural logarithm of market capitalization.
+$BASPREAD$ is the average bid-ask spread.
+$SP500$ an indicator variable for whether or not the firm is in the S\&P 500.
+$DIV$ is the dividend yield .
+The ratio of the book value of total debt to assets ($LEVERAGE$.)
+Tobin's $q$ ($Q$), calculated as in \cite{chungpruitt1994}.
+Return on assets  ($ROA$)--the ratio of net income to the book value of total assets.
+The level of asset tangibility ($TANG$), calculated as in \cite{almeidacampello2007}. All variables are winsorized at the 1\% and 99\% level. Final sample consists of 41,159 firm-year observations aggregated into 1,375 industry-year observations.
+}\\ \hline \\[-1.8ex] 
+ & \multicolumn{2}{c}{\textit{Dependent variable: Institutional Ownership ($IO$)}} \\ 
+\cline{2-3} 
+\\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)}\\ 
+\hline \\[-1.8ex] 
+ COMP & 0.0096^{***} & 0.0152^{***} \\ 
+  & (0.0029) & (0.0030) \\ 
+  COMP$\times$Q\_BASPREAD\_D & 0.0153^{**} &  \\ 
+  & (0.0063) &  \\ 
+  Q\_BASPREAD\_D & 0.0347^{**} &  \\ 
+  & (0.0164) &  \\ 
+  COMP$\times$Q\_NANALYSTS\_D &  & -0.0130^{*} \\ 
+  &  & (0.0068) \\ 
+  Q\_NANALYSTS\_D &  & 0.0483^{**} \\ 
+  &  & (0.0192) \\ 
+  TANG & 0.0635 & 0.0476 \\ 
+  & (0.0417) & (0.0432) \\ 
+  MVE & 0.0321^{***} & 0.0317^{***} \\ 
+  & (0.0056) & (0.0058) \\ 
+  PRICE & 0.0009^{***} & 0.0011^{***} \\ 
+  & (0.0003) & (0.0003) \\ 
+  TURNOVER & 0.0341^{***} & 0.0355^{***} \\ 
+  & (0.0041) & (0.0041) \\ 
+  AGE & 0.0008^{*} & 0.0007 \\ 
+  & (0.0005) & (0.0005) \\ 
+  SP500 & 0.1278^{***} & 0.1481^{***} \\ 
+  & (0.0208) & (0.0210) \\ 
+  DIV & -0.0053^{***} & -0.0048^{***} \\ 
+  & (0.0014) & (0.0015) \\ 
+  LEVERAGE & -0.0729^{**} & -0.0807^{**} \\ 
+  & (0.0305) & (0.0316) \\ 
+  Q & -0.0107^{***} & -0.0109^{***} \\ 
+  & (0.0019) & (0.0019) \\ 
+  RETURN & -0.0252^{***} & -0.0233^{**} \\ 
+  & (0.0088) & (0.0091) \\ 
+  ROA & 0.0622^{***} & 0.0631^{***} \\ 
+  & (0.0134) & (0.0137) \\ 
+  ASSETS & -0.00003 & -0.0070 \\ 
+  & (0.0049) & (0.0050) \\ 
+  year & 0.0093^{***} & 0.0090^{***} \\ 
+  & (0.0005) & (0.0005) \\ 
+  Constant & -18.4275^{***} & -17.8202^{***} \\ 
+  & (1.0222) & (1.0484) \\ 
+ \hline \\[-1.8ex] 
+Observations & \multicolumn{1}{c}{1,348} & \multicolumn{1}{c}{1,326} \\ 
+R$^{2}$ & \multicolumn{1}{c}{0.5441} & \multicolumn{1}{c}{0.5145} \\ 
+Adjusted R$^{2}$ & \multicolumn{1}{c}{0.5386} & \multicolumn{1}{c}{0.5086} \\ 
+\hline 
+\hline \\
+\textit{Note:}  & \multicolumn{2}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+ & \multicolumn{2}{r}{Year fixed effects included.} \\ 
+\end{longtable} 

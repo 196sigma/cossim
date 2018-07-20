@@ -1,0 +1,51 @@
+\centering 
+  \footnotesize 
+\begin{longtable}{@{\extracolsep{5pt}}lD{.}{.}{-4} D{.}{.}{-4} D{.}{.}{-4} D{.}{.}{-4} } 
+\caption[\textbf{Active-to-Passive Institutional Ownership Ratio, Regression in Changes}]{\textbf{Active-to-Passive Institutional Ownership Ratio, Regression in Changes}\\
+\footnotesize
+OLS results of regressing changes in the ratio of active-to-passive dollars invested (investors), $PCT\text{-}ACTIVE$ ($NUM\text{-}ACTIVE$) on the textual similarity of accounting policy disclosures from the ``Summary of Significant Accounting Policies'' section, $SIM$, from firms' 10-K's. Control variables are included. All other variables are defined in Appendix A.} \label{changes} 
+\\[-1.8ex]\hline 
+\hline
+ & \multicolumn{4}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-5} 
+& \multicolumn{2}{c}{$\Delta PCT\text{-}ACTIVE$} & \multicolumn{2}{c}{$\Delta NUM\text{-}ACTIVE$} \\ 
+[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)}\\ 
+\hline \\[-1.8ex] 
+CONSTANT & 0.0351^{***} & 0.0288^{***} & 0.0451^{***} & 0.0319^{***} \\ 
+  & (0.0033) & (0.0034) & (0.0029) & (0.0029) \\ 
+ $\Delta$SIM & -0.0018^{***} & -0.005^{***} & -0.0030^{***} & -0.0013^{**} \\ 
+  & (0.0006) & (0.0006) & (0.0006) & (0.0005) \\ 
+  $\Delta$MVE &  & 0.0025 &  & 0.0319^{***} \\ 
+  &  & (0.0063) &  & (0.0053) \\ 
+  $\Delta$PRICE &  & 0.0007^{***} &  & 0.0005^{***} \\ 
+  &  & (0.0001) &  & (0.0001) \\ 
+  $\Delta$TURNOVER &  & 0.0035^{***} &  & 0.0054^{***} \\ 
+  &  & (0.0013) &  & (0.0011) \\ 
+  $\Delta$BASPREAD &  & -0.4683^{***} &  & -0.4413^{***} \\ 
+  &  & (0.1543) &  & (0.1292) \\ 
+  $\Delta$DIV &  & 0.0002 &  & 0.0001 \\ 
+  &  & (0.0001) &  & (0.0001) \\ 
+  $\Delta$LEVERAGE &  & 0.0954^{***} &  & 0.0276 \\ 
+  &  & (0.0216) &  & (0.0181) \\ 
+  $\Delta$Q &  & -0.0021 &  & -0.0052^{**} \\ 
+  &  & (0.0026) &  & (0.0022) \\ 
+  $\Delta$RETURN &  & -0.0032 &  & -0.0120^{***} \\ 
+  &  & (0.0022) &  & (0.0018) \\ 
+  $\Delta$ROA &  & -0.0011 &  & 0.0120 \\ 
+  &  & (0.0140) &  & (0.0118) \\ 
+  $\Delta$ASSETS &  & -0.0067 &  & 0.0103 \\ 
+  &  & (0.0079) &  & (0.0066) \\ 
+  $\Delta$NANALYSTS &  & -0.0010 &  & -0.0007 \\ 
+  &  & (0.0007) &  & (0.0005) \\ 
+  $\Delta$PE &  & 0.00002 &  & 0.00003^{*} \\ 
+  &  & (0.00002) &  & (0.00001) \\ 
+ \hline \\[-1.8ex] 
+Observations & \multicolumn{1}{c}{32,938} & \multicolumn{1}{c}{32,141} & \multicolumn{1}{c}{32,938} & \multicolumn{1}{c}{32,141} \\ 
+R$^{2}$ & \multicolumn{1}{c}{0.0027} & \multicolumn{1}{c}{0.0361} & \multicolumn{1}{c}{0.0098} & \multicolumn{1}{c}{0.1154} \\ 
+Adjusted R$^{2}$ & \multicolumn{1}{c}{0.0024} & \multicolumn{1}{c}{0.0302} & \multicolumn{1}{c}{0.0094} & \multicolumn{1}{c}{0.1100} \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{4}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+ & \multicolumn{4}{r}{Year and firm fixed effects included.} \\ 
+ & \multicolumn{4}{r}{Standard errors are clustered at the firm level.} \\ 
+\end{longtable} 

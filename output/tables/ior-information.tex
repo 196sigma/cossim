@@ -1,0 +1,65 @@
+
+% Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
+% Date and time: Wed, Apr 06, 2016 - 05:44:26 PM
+% Requires LaTeX packages: dcolumn 
+\begin{table}[H] \centering 
+  \caption{IO And Information Environment regression models.} 
+  \label{ior-information} 
+\tiny 
+\begin{tabular}{@{\extracolsep{5pt}}lD{.}{.}{-4} D{.}{.}{-4} } 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{2}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-3} 
+\\[-1.8ex] & \multicolumn{2}{c}{ior} \\ 
+\\[-1.8ex] & \multicolumn{2}{c}{\textit{OLS}} \\ 
+\\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)}\\ 
+\hline \\[-1.8ex] 
+ q\_acctcomp & 0.0096^{***} & 0.0152^{***} \\ 
+  & (0.0029) & (0.0030) \\ 
+  I(q\_acctcomp \textasteriskcentered  q\_baspread\_d) & 0.0153^{**} &  \\ 
+  & (0.0063) &  \\ 
+  q\_baspread\_d & 0.0347^{**} &  \\ 
+  & (0.0164) &  \\ 
+  I(q\_acctcomp \textasteriskcentered  q\_nanalysts\_d) &  & -0.0130^{*} \\ 
+  &  & (0.0068) \\ 
+  q\_nanalysts\_d &  & 0.0483^{**} \\ 
+  &  & (0.0192) \\ 
+  tang & 0.0635 & 0.0476 \\ 
+  & (0.0417) & (0.0432) \\ 
+  I(log(mve)) & 0.0321^{***} & 0.0317^{***} \\ 
+  & (0.0056) & (0.0058) \\ 
+  price & 0.0009^{***} & 0.0011^{***} \\ 
+  & (0.0003) & (0.0003) \\ 
+  turnover & 0.0341^{***} & 0.0355^{***} \\ 
+  & (0.0041) & (0.0041) \\ 
+  age & 0.0008^{*} & 0.0007 \\ 
+  & (0.0005) & (0.0005) \\ 
+  sp500 & 0.1278^{***} & 0.1481^{***} \\ 
+  & (0.0208) & (0.0210) \\ 
+  div & -0.0053^{***} & -0.0048^{***} \\ 
+  & (0.0014) & (0.0015) \\ 
+  leverage & -0.0729^{**} & -0.0807^{**} \\ 
+  & (0.0305) & (0.0316) \\ 
+  q & -0.0107^{***} & -0.0109^{***} \\ 
+  & (0.0019) & (0.0019) \\ 
+  bhr & -0.0252^{***} & -0.0233^{**} \\ 
+  & (0.0088) & (0.0091) \\ 
+  roa & 0.0622^{***} & 0.0631^{***} \\ 
+  & (0.0134) & (0.0137) \\ 
+  I(log(at)) & -0.00003 & -0.0070 \\ 
+  & (0.0049) & (0.0050) \\ 
+  I(year) & 0.0093^{***} & 0.0090^{***} \\ 
+  & (0.0005) & (0.0005) \\ 
+  Constant & -18.4275^{***} & -17.8202^{***} \\ 
+  & (1.0222) & (1.0484) \\ 
+ \hline \\[-1.8ex] 
+Observations & \multicolumn{1}{c}{1,348} & \multicolumn{1}{c}{1,326} \\ 
+R$^{2}$ & \multicolumn{1}{c}{0.5441} & \multicolumn{1}{c}{0.5145} \\ 
+Adjusted R$^{2}$ & \multicolumn{1}{c}{0.5386} & \multicolumn{1}{c}{0.5086} \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{2}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+ & \multicolumn{2}{r}{Year fixed effects included.} \\ 
+\end{tabular} 
+\end{table} 

@@ -1,0 +1,32 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+The style file: aea.bst
+Database file #1: articles.bib
+Warning--entry type for "fasb2010" isn't style-file defined
+--line 519 of file articles.bib
+Repeated entry---line 779 of file articles.bib
+ : @article{ferreiramatos2008
+ :                            ,
+I'm skipping whatever remains of this entry
+Name 1 in "Healy, Paul M., and Krishna G. Palepu" has a comma at the end for entry healypalepu2007
+while executing---line 1138 of file aea.bst
+Name 1 in "Healy, Paul M., and Krishna G. Palepu" has a comma at the end for entry healypalepu2007
+while executing---line 1138 of file aea.bst
+Name 1 in "Healy, Paul M., and Krishna G. Palepu" has a comma at the end for entry healypalepu2007
+while executing---line 1174 of file aea.bst
+Name 1 in "Healy, Paul M., and Krishna G. Palepu" has a comma at the end for entry healypalepu2007
+while executing---line 1178 of file aea.bst
+Name 1 in "Healy, Paul M., and Krishna G. Palepu" has a comma at the end for entry healypalepu2007
+while executing---line 1210 of file aea.bst
+Name 1 in "Healy, Paul M., and Krishna G. Palepu" has a comma at the end for entry healypalepu2007
+while executing---line 1210 of file aea.bst
+Name 1 in "Healy, Paul M., and Krishna G. Palepu" has a comma at the end for entry healypalepu2007
+while executing---line 1243 of file aea.bst
+Name 1 in "Healy, Paul M., and Krishna G. Palepu" has a comma at the end for entry healypalepu2007
+while executing---line 1261 of file aea.bst
+Name 1 in "Healy, Paul M., and Krishna G. Palepu" has a comma at the end for entry healypalepu2007
+while executing---line 1261 of file aea.bst
+Name 1 in "Healy, Paul M., and Krishna G. Palepu" has a comma at the end for entry healypalepu2007
+while executing---line 1261 of file aea.bst
+Warning--empty journal in oecd2014
+Warning--empty journal in ostrower2014
+(There were 11 error messages)

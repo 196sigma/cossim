@@ -1,0 +1,457 @@
+\documentclass[thesis]{thesis-umich}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{dcolumn} % for newcolumntype
+\usepackage{array} % for new columntype
+\usepackage[width=.95\textwidth]{caption}
+\usepackage{rotating} % for sidewaystable
+\usepackage{ragged2e} % for text justification
+\usepackage{longtable}
+\usepackage{rotfloat}
+\usepackage{pdflscape} 
+\usepackage[labelfont=bf]{caption} 
+\usepackage{array}
+\usepackage[flushleft]{threeparttable} 
+\usepackage{threeparttablex} 
+\usepackage{bigstrut} 
+% Lets threeparttable work with longtable 
+\usepackage[outdir=graphics/]{epstopdf} 
+\usepackage{graphics}
+\usepackage{changepage} 
+
+\bibpunct{(}{)}{;}{a}{,}{,}
+%\bibliographystyle{abbrvnat}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}b{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}b{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}b{#1}}
+
+\title{Accounting Policy Similarity and Active vs. Passive Institutional Investors}
+
+\author{Reginald Edwards}
+\email{reggie@umich.edu}
+\ordid{ORCID iD: 0000-0001-5478-6131}
+\department{Business Administration}
+
+\year=2018
+
+\frontpagestyle{1}
+\dedication{To Linda and Dr. Edwards, the elder.}
+
+\acknowledgments{%
+%\acknowledgments{
+I would like to thank my dissertation committee chairs Raffi Indjejikian and Venky Nagar and members Allison Earl and Robert F. Dittmar. I am also grateful for the advice and comments of Ryan Ball, Greg Miller, Cathy Shakespeare, Christopher Williams, and Reuven Lehavy, as well as workshop participants at the University of Michigan. I appreciate the financial support of the Ross Doctoral Fellowship, the Paton Accounting Fellowship, and the University of Michigan Rackham Merit Fellowship.}
+\acknowledgmentswidth{1}
+
+\committee{%
+Professor Venky Nagar, Co-Chair\\
+Professor Raffi Indjejikian, Co-Chair\\
+Professor Robert Dittmar\\
+Professor Allison Earl}
+
+\cochair{Venky Nagar, Raffi Indjejikian}
+\showlistofappendices
+
+\abbreviations{
+ \acro{SOP 97-2}{American Institute of Certified Public Accountants' Statement of Position 97-2}
+ \acro{ASU 2009-13}{Financial Accounting Standards Board's Accounting Standards Update 2009-13}
+}
+
+\abstract{
+I examine the differential effects of similarity in accounting policy disclosures by firms on investment by active and passive institutional investors. I develop a novel measure of accounting similarity based on the textual disclosure of firms' accounting policies from their annual reports. I find that, among firms with less similar textual descriptions of their accounting policies, investment by active institutions is higher than that of passive institutional investors. This suggests that these investors have a real or perceived information advantage in investing in firms with less comparable accounting. To establish causality, I use a difference-in-differences approach that relies on the plausibly exogenous introduction of an accounting rule change, which is likely to decrease accounting similarity, and the rule's subsequent reversal. My paper offers novel evidence on an under-explored relation between the textual properties of accounting disclosures and investor preferences.}
+
+\begin{document} 
+
+
+\chapter{Introduction}\label{chap:introduction} 
+Publicly traded firms in the United States are required to file detailed annual reports, which are subsequently made available to the public. These annual reports, known as ``10-K's'' from the Securities and Exchange Commission form number of the report, must contain descriptions of the operations of the firm, financial results, and the accounting treatment used to prepare the financial statements. By accounting treatment, it is meant the set of allowed accounting rules chosen by the firm to recognize revenues and expenses and to measure assets and liabilities. Firms discuss these accounting treatments in the section of the 10-K known as the ``Summary of Significant Accounting Policies,''  which itself is a subsection of the ``Notes to the Financial Statements'' (henceforth ``the notes''). The accounting policies section is typically the first subsection of the notes, which themselves typically are the first section after the financial statements (balance sheet, income statements, statement of cash flows, and statement of shareholders' equity). In this paper I find novel evidence that the accounting policies section contains significant predictive content for investor behavior.
+
+My focus is on institutional investors--large investors who often trade on behalf of a large number of individuals. Such institutions make up the vast majority of dollars invested in public equity markets. Prior empirical studies have assumed that institutional investors uniformly prefer firms with higher quality accounting (\cite{defondetal2011, fangetal2015, kimetal2016}). However, theoretical models predict that investors' preferences for information from firms depends on the degree of their private information (e.g., \cite{easleyohara2004}). In this study, I attempt to determine if investors who take a more active approach or a more passive approach to selecting stocks prefer firms that have more or less similar accounting treatments--as measured by textual descriptions of their accounting policies-- to their peer firms.
+
+I first demonstrate that managers' discretion over implementing accounting rules influences the degree to which their accounting policies sections are similar to peer firms. Using this finding, I identify an accounting rule change that reduced managers' discretion in recognizing revenue and its subsequent reversal  to identify causally the differential impact of accounting policy similarity on the behavior of active and passive investors. To address my research question, I develop and validate a novel proxy for the textual similarity of firms' financial statements.  And, appealing to the plausibly exogenous nature of the shock to accounting policy similarity induced by the accounting rules,  I provide evidence that investors who are more likely to trade based on superior private information (``active'' investors) buy more shares of firms with less similar accounting policy descriptions than investors who are more likely to trade based on public information.
+
+My measure of accounting similarity captures primarily the accounting choices among firms, which is a measure of how comparable firms are. Commonly cited examples of choices that can alter comparability are the treatment of inventory (last-in, first-out versus first-in, first-out), the classification of leases as operating or capital leases, and the more all-encompassing choice of US Generally Accepted Accounting Principles or International Financial Reporting Standards. The common thread is that to the extent that accounting rules allow discretion by managers, different choices by managers may lead to higher or lower levels of comparability across firms. Below I describe two settings in which the level of discretion afforded to managers under the accounting rules shifted. These settings will be useful in establishing a causal link between the textual similarity of accounting policies descriptions and investor ownership.
+
+Effective as of the end of 1998, accounting standard setters created Statement of Position 97-2 (\ac{SOP 97-2}), to constrain the discretion of managers in firms that engage in multiple-element software products and services. These rules governed the recognition of revenue for the sale of products that were bundled with services for installation, updates, and ongoing customer support. The standard was set in response to perceived aggressive revenue recognition by software firms. Due to the complex nature of contracts for then new bundled software and services stretching over many periods, managers had significant leeway to use estimates and assumptions when assigning revenue generated from these sales. As a result of SOP 97-2 firms that sold products or services with a significant software-based component were required to adhere to a more uniform set of revenue recognition principles. However, provisions of this rule were later removed by an accounting standard update in 2009.\footnote{FASB Accounting Standards Update 2009-13 and 2009-14, effective June 15 2010.} This rule change limited the scope of SOP 97-2 and returned to managers of firms who sold products and services with a mix of software and non-software components (i.e., multiple element arrangements) a high level of discretion. In this paper I argue that both rule changes represent a plausibly exogenous shock to the textual similarity of firms' financial statements, specifically with respect to descriptions of their accounting treatments, and I examine the differential impact on active and passive institutional investors. 
+
+To examine this impact, I must define and construct a measure of textual similarity at the individual firm-level. To do so, I compare the textual description of firms' accounting policies from their annual reports (Form 10-Ks) to the descriptions disclosed by their peer firms and average these pairwise measures. 
+
+Certain large institutional investors trade primarily on widely available public information (\cite{busheegoodman2007})--these I label passive investors. I argue that these investors prefer accounting figures that are more comparable across firms. There are three reasons that this may hold. The first is that simple accounting-based valuation tools, such as ratio analysis and comparisons of multiples, are more successful when establishing a comparable peer firm is easier (\cite{bhojrajlee2002, youngzeng2015, leeetal2015}). Second, as \cite{bradshawetal2009} document, analyst forecasts are more useful in more comparable industries--another reason investors may prefer comparable accounting. Third, A more comparable accounting system makes it harder for a single manager to hide bad news from investors (\cite{kimetal2016}).
+
+In contrast, for active investors--those who trade on perceived comparative information advantages--the opposite case may hold. There is theoretical and empirical evidence that sophisticated investors may prefer firms with a more opaque information environment. Accounting policy disclosures capture the major accounting choices firms make, which influence the ability of financial statement users to compare accounting information across firms at a given point in time and over time for a given firm. Therefore, this opacity may allow these investors to profit from superior information processing capabilities (\cite{kimverrecchia1994}) or privately acquired information (\cite{maffett2012}).
+
+% Preview of results
+My OLS results are consistent with this intuition. To provide evidence on the direction of causality, I exploit the accounting rule changes in SOP 97-2 and \ac{ASU 2009-13} that present plausibly exogenous \emph{opposing} shocks to the ``Summary of Significant Accounting Policies'' text of a specific, known subset of firms. Using a difference-in-differences (DD) regression specification, I find that decreased textual similarity causes higher investment by active investors relative to passive investors, and vice-versa.
+
+The rest of the paper is organized as follows. 
+Chapter \ref{chap:lit-review} reviews prior literature related to my work. 
+Chapter \ref{chap:data}  describes data sources and presents descriptive statistics. 
+Chapter \ref{chap:results} describes my empirical design, identification strategy, and presents empirical results. 
+Chapter \ref{chap:conclusion} concludes.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Literature Review}\label{chap:lit-review} 
+My work draws on several different and disparate streams of research in economics, finance, and accounting. Primarily, this paper is related to the literature on institutional investor preferences and trading behavior. Accounting information plays a role in analyzing the actions of these economic agents through the accounting system's effect on information asymmetry. Thus, my paper draws on work in the broader information asymmetry and information choice literature. Secondarily, this paper shares technical considerations with others in finance and accounting that use textual analysis tools to understand the information content of firms' 10-K's. Within this area, increasingly researchers are examining specifically the ``Notes to the Financial Statements''. I discuss prior work in each of these areas.
+
+\section{Active vs. Passive Institutional Investors} \label{sec:avp}
+Institutional investors--mutual funds, pensions, endowments, hedge funds, and banks--today own an aggregate of 80\% of publicly traded shares and owing to their central role in the capital markets, institutions have been a focus of research in finance and accounting for at least three decades. Research into institutions can generally be classified into two groups--consequences and preferences. By consequences, I mean the price or volume effects of institutional investment on target firms' publicly traded equity. By preferences, I mean the types of firms (in terms of size, liquidity, governance, or other features) in which institutions prefer to invest. 
+
+This paper is related to studies of institutional preferences.
+Studies in this group have found that institutions prefer stocks with high volatility and low transactions costs (\cite{falkenstein1996}) and firms that are larger, more liquid, and have had recently depressed stock prices (\cite{gompersmetrick2001}). 
+
+Studies about the capital market consequences of institutional investment provide necessary motivation for studies such as this on institutional preferences. According to theoretical work of \cite{merton1987}, firms are likely to benefit from an increased investor base and recent surveys of institutional investors by the Organization for Economic Cooperation and Development (\cite{oecd2014}) indicate that this is a primary concern for managers.\footnote{In addition to the presence of institutional investors the type of institutions (e.g., long-term or short-term) can have a profound impact on managers' incentives. The OECD contend that attracting long-term institutional investors is an active and worthwhile goal for policymakers because infrastructure investments may be appealing to large institutions because they tend to take a long-term investment horizon (\cite{oecd2014}).} Corroborating this, empirical studies (\cite{lehavysloan2008}) have documented the benefits of increased ownership of firms' shares by institutional investors (e.g. mutual funds, hedge funds, pensions and endowments). Therefore it is important to understand the drivers of investment by different types of institutions. \footnote{Many of the empirical studies in accounting and finance that have combined to map the preferences of institutional investors broadly belong to one of two research streams--those that find drivers of institutional investor demand and those studies that examine the impact of investment by institutions. Real and financial outcomes that have been previously studied are payout policy (\cite{grinsteinmichaely2005}), corporate governance (\cite{chungzhang2011}), operating performance and capital expenditure (\cite{ferreiramatos2008}), transparency surrounding corporate pension plans (\cite{eatonetal2014}), the public-to-private takeover premium (\cite{bajo2013}), and stock return volatility (\cite{busheenoe2000})}
+
+Two of the earliest studies to address how features of the financial reporting environment influence institutional investor ownership are \cite{healyetal1999} and \cite{busheenoe2000}. Both papers focus on disclosure quality as a driver of investor demand. Both papers also find that institutions invest more in firms with higher quality disclosure, as proxied by equity research analysts' subjective ratings of disclosure. My work adds to these prior studies by including the similarity of accounting treatment as measured from the text of accounting policy disclosures in the 10-K as another feature of the reporting environment that affects investor demand. However, I do not address the economic impacts of these institutional preferences. My focus is financial reporting attributes as a driver of institutional ownership rather than the outcomes associated with the latter.\footnote{Economic outcomes of institutional ownership have been studied in \cite{lehavysloan2008}, \cite{grinsteinmichaely2005}), \cite{chungzhang2011}, \cite{ferreiramatos2008}, \cite{eatonetal2014}, \cite{bajo2013}, \cite{busheenoe2000}, among others. See Section \ref{lit-review} for a discussion of this literature. }
+
+The view that institutions prefer firms with more comparable accounting is directly supported by \cite{defondetal2011}, who examine the link between cross-border investment and uniformity of accounting policy in the EU around adoption of IFRS. The authors find that mandatory IFRS adoption increased ownership by mutual funds of firms outside of their home countries when adoption in the target country was (a) highly credible; \emph{and} (b) led to a large increase in uniformity. \cite{defondetal2011} however, do not find that mandatory IFRS adoption increased mutual fund ownership in firms in their home countries. A potential explanation for this non-result is that an increase in uniformity of accounting standards associated with IFRS did not make firms' accounting information significantly more comparable within countries to alter the investment strategies of institutions. This view is consistent with the evidence in \cite{yipyoung2012} and \cite{cascinogassen2015}, which show no strong increase in country comparability around the adoption of IFRS in EU countries.
+
+Another possible explanation for the non-result of \cite{defondetal2011} is that some domestic mutual funds enjoy a comparative advantage in information processing among their home-country firms. Thus, on net these funds would not stand to benefit from any increase in comparability among the home-country firms. 
+
+The central hypothesis of this paper is that the textual disimilarity of accounting policy disclosures represents an information processing costs for investors such that \emph{the relative percentage of shares held by active institutional investors to passive investors is decreasing in the degree of textual similarity of the ``Summary of Significant Accounting Policies'' section of the 10-K.}
+
+\section{Information Asymmetry and Investor Demand Literature}\label{sec:infoasymm}
+% add investor choice lit too
+Inofrmation asymmetry is a primary driver of the price of firms' equity. Analytical models in the economics and finance literatures that have shown how this can be include \cite{grossmanstiglitz1980}, \cite{hellwig1980}, \cite{admati1985}, \cite{wang1993}, and \cite{easleyohara2004}. In \cite{grossmanstiglitz1980} the presence of ``noise traders''--that is investors who do not trade on factors related to the firm's stock but on factors instead related to their own needs for liquidity--provide a necessary source of information asymmetry for investors to earn returns to any investing strategy.\footnote{In the language of economic decision theory, the noise trader approach prevents rational expectations equilibria from being fully revealing.} \cite{hellwig1980} shows how information asymmetry can persist in a capital market with a large number of traders and that the importance of any piece of information to any trader depends on her prior preferences. One of the findings of \cite{admati1985} is that investors reaction to information depends on their own prior private information and that differences in these priors (i.e., information asymmetry) can lead to different posterior beliefs and therefore different trading behavior. \cite{wang1993} provides more specific claims for how information asymmetry can impact stock prices, specifically through its impacts on price volatility and autocorrelation in returns. 
+
+The prior papers show the effects of information asymmetry but do not address the source of information asymmetry. \cite{easleyohara2004} shows both how information asymmetry can affect the cost of capital for a firm and provides a role for the accounting system in determining the level of information asymmetry in the market. In their model, the quality and quantity of public information in the market affects stock prices. When firms release more and better information to the public it increases the precision of the beliefs of uninformed investors, thereby lowering the risks to these investors. \cite{easleyohara2004} point out that standard asset pricing models would not capture this result because the accounting treatments do not have an effect on the firm's underlying operations or earnings. My work here looks at a very specific mechanism for how accounting choices that do not change the underlying economics of the firm can influence investor behavior.
+
+\section{Relation to the Literature on Accounting Comparability} \label{sec:comparability}
+Financial statement analysis textbooks (see\cite{healypalepu2007, kolleretal2005}) generally advise users of financial statements to begin an accounting-based comparison of peer firms by noting discrepancies in the calculations and assumptions used to generate balance sheet and income statement numbers. This is because the extent to which the accounting numbers of two firms can be compared and how likely their future perfomance is to covary depend on the accounting choices used to map economic reality to reported numbers. 
+
+As required by US GAAP, firms discuss the details of these calculations and assumptions in their annual reports.
+Therefore, an indirect proxy for accounting comparability can be constructed from the ``Summary of Significant Accounting Policies'' from firms' annual report, the standard location of these disclosures. These disclosures are nested within the ``Notes to the Financial Statements'' section, after the audited financial statements. 
+
+I extract the ``Summary of Significant Accounting Policies''  section from the financial statements computationally. I then use a document similarity algorithm to compare the text in this section of each firm reporting in a given fiscal year to each other firm in that fiscal year. I explain in more detail the exact procedure in a subsequent section. In short, each selection of text is viewed as a collection of word ``tokens'' and the frequency of each token in each document is counted. Two documents are then compared based on the number of words they have in common and how often they contain each of those words. The result is that documents that contain many of the same words will have a high similarity score and two selections of text that have do not share many words will have a very low similarity score.\footnote{One of the first papers in finance and accounting to use this approach to compare firms' disclosures was \cite{hobergetal2014}, which compared the product discreptions from the ``Item 1. Business'' sections across firms' annual reports.}
+
+I use the accounting policy descriptions to measure accounting similarity because they directly address the firm's treatment of economic transactions in the financial statements. By comparing these disclosures to peer firms, the measure attempts to capture differences in accounting that are not due to merely differences in firm structure. In regression analyses firm-specific, time-varying control variables help to further address this concern.
+
+Financial reports are a mix of quantitative figures (net income, assets, cash flows etc.) and textual disclosures, which are intended to help financial statement consumers understand the process by which the figures were generated. These disclosures cover many aspects of firms' operational environment and potential future risks, the Summary of Significant Accounting Policies section of the notes to the financial statements directly addresses the assumptions and procedures used to map the firm's economic reality to its accounting figures. While many different accounting treatments may lead a firm to calculate net income as \$100, the more the firm discloses about the underlying process the better investors will be able to assess performance and assign value. Analyzing accounting treatments textually in this way is a noisy, but feasible method for determining how similarly earnings (and other accounting figures) are computed across otherwise similar firms.
+
+Accounting treatments are a function of firms' business environments (economic reality), the accounting rules, and the managerial discretion allowed under the accounting rules. I attempt to hold the first two inputs constant and appeal to plausibly exogenous variation in the latter input to establish a causal link between accounting and investor behavior.
+
+One potential economic interpretation of the information captured by the textual similarity of accounting policy disclosures is that of accounting ``comparability.'' Such an input-based measure of accounting comparability differs from the output-based methods of \cite{bhojrajlee2002} and \cite{defrancoetal2011}, who use a regression-based approach to estimate mappings from returns to earnings for a focal firm and apply these to a target firm. Comparability in these studies is measured as the accuracy of these projected earnings. Similar methods have been used in recent work to link accounting comparability to peer earnings restatements (\cite{campbellyeung2016}), the valuation of seasoned equity offerings (\cite{shaneetal2014}), and expected crash risk (\cite{kimetal2016}). I add to this growing literature by proposing a measure of comparability less sensitive to the estimation problems of these measures. Specifically, my measure of comparability does not require more than two years of financial reports, nor does it rely on a statistical relations between earnings and returns that  are likely to be very weak. A drawback to using the textual similarity of accounting disclosures is that it is difficult, if not impossible, to disentangle comparability measured in this manner from underlying complexity of the firm. Of necessity, future empirical studies that address directly accounting or financial statement comparability must make use of multiple empirical proxies.
+
+\chapter{Data Sources, Variable Definitions, and Descriptive Statistics} \label{chap:data} 
+\section{Firm-Level Accounting and Institutional Investment Data}
+I make use of several common sources of data in my empirical analyses.
+Company accounting data are from Compustat, stock price and returns data are from CRSP, and analyst forecast and coverage data from IBES. 
+Investors with over \$100 million in qualifying assets are required to report recent investment holdings to the SEC via Form 13-F. Data on institutional holdings are from Thomson-Reuters' 13-F database. My data span all stocks listed on the NYSE, NASDAQ, or American Stock Exchange (AMEX) and all industries over the years 1994 to 2015. I define institutional ownership for each firm in each year as the ratio of shares held by institutions to the total shares outstanding. My final sample consists of 41,159 firm-year observations. Table \ref{ior-mve-summary} contains summary statistics of the institutional investor holdings for 1980-2015, raw and unclassified in terms of active or passive investors for comparisons with prior studies. Over the entire time period for which data are available, institutional investors held over 41\% of shares in firms.\footnote{In recent years, this number is approximately 80\%.}
+
+Table \ref{ior-mve-summary} also shows a decomposition of institutional ownership percentage by market value of equity. For comparison, I present statistics for the sample used in this study alongside the time period considered in \cite{grinsteinmichaely2005}'s study on institutional holdings and payout policy. Their study only covers the period up to 1996 and has very different selection process based on the data needs for their analysis, yet the patterns of institutional ownership by market capitalization are qualitatively similar. 
+
+My classification for active and passive investors is derived from the institutional investor classification data provided by Brian Bushee\footnote{http://acct.wharton.upenn.edu/faculty/bushee/IIclass.html}. These classifications in turn are derived from and improvements on Thomson Reuters' classification scheme. Figure \ref{fig:ior} shows the time series of institutional ownership percentage. In the figure, the institutions are disaggregated by type. Type 1 institutions are bank trusts; type 2 are insurance companies; type 3 are investment companies; type 4 are independent investment advisors; type 5 includes corporate pension funds, public pension funds, university endowments, foundation endowments, and miscellaneous large institutions. From the figure, it is clear that large institutions hold the majority of publicly traded shares and this relationship has been stable over time.
+
+I classify active investors as investment companies, independent investment advisors, corporate (private) pension funds, public pension funds, and university and foundation endowments. I classify passive investors as banks and insurance companies. My classification of active investors is intended to capture the segment of institutions that have significant human and intellectual capital to devote to analyzing financial statements. Active institutions deploy teams of researchers, buy external research and data on target firms, and may engage directly with firms' managers and investor relations department. Passive institutional investors trade primarily based on the past history of earnings, returns, and financial ratios of firms, which are cheaply available. Passive investors hold a larger number of stocks in more diversified portfolios. They spend much less time analyzing each individual financial statement. To the extent that I can successfully distinguish between these two classes of invesors, I can test empirically the predictions of asymmetric asset pricing models that claim investor demand is linked to the degree of private information by investors.
+
+My primary outcome variable is the ratio of dollars held by active investors to that of passive investors, which I label $PCT\text{-}ACTIVE$. My secondary outcome variable is the ratio of the number of active investors to passive investors, $NUM\text{-}ACTIVE$. The bottom panel of Table \ref{summary-stats} contains summary statistics for these variables, which indicate that the majority of firms (a 95\% confidence interval) have a share of active-to-passive investment, herein defined, between 60\% and 100\%.
+Figure \ref{fig:pctactive} shows the time series of these ratios of institutional investment. Both outcome variables have trended upwards over time. By construction, as active institutional investment has become the majority of institutional investment, the gap between dollars and number of investors has closed.
+
+\section{Accounting Similarity Measurement}\label{sec:sim}
+Common practice among readers of financial statements is to compare accounting treatments between a target firm and it's peer firms. Since this information on accounting treatments is disclosed in the ``Summary of Significant Accounting Policies'' section of the annual report, this is where I measure accounting similarity. I use what is known in the natural language processing area as a ``bag-of-words'' approach to analyzing these sections of text. I assume that if two firms use very different words to describe their accounting policies then their accounting policies are very different. Using a bag-of-words approach I can create a vector representation of the words in each document (i.e. each accounting policies section I extract). This vector representation of document words makes the empirical analysis of textual similarity more tractable. However, this approach loses semantic and morphological content.
+
+To measure the similarity of accounting policy disclosures, I programatically retrieve all 10-K filings from the Securities and Exchange Commission's EDGAR database of company filings. I extract the ``Summary of Significant Accounting Policies'' section of the footnotes using textual analysis algorithms I implement in the Python programming language. Details on the mathematical basis for the construction of the measure are given in a subsequent section. For each firm I compute the similarity of its accounting policy disclosures to that of firms in the same industry (2-digit Standard Industrial Classification, or SIC, code) in the same year.\footnote{The SIC system was created in 1937 by the US government to classify firms into industry. There have been alternate measures proposed by regulators and researchers in economics, finance, and accounting. The SIC system itself is deprecated among US Federal statistical agencies in favor of the North American Industry Classification System, or NAICS. However, the SIC system is the current system favored by the SEC.} I then average the similarity score for each firm-year and denote this value as $SIM$. 
+
+My similarity measure is a cosine similarity measure of the changes in words firms use to describe  their significant accounting policies in the footnotes to their annual reports. I compare these disclosures to that of peer firms. My presumption is that these disclosures from managers represent a meaningful source of information, which investors can use to compare numerical accounting figures across firms. This is in-keeping with the original Accounting Principles Board pronouncement around such information:
+
+\begin{quote}
+\footnotesize
+Applying generally accepted accounting principles requires that judgment be exercised as to the relative appropriateness of acceptable alternative principles and methods of application in specific circumstances of diverse and complex economic activities. ...
+
+The accounting policies of a reporting entity are the specific accounting principles and the methods of applying those principles that are judged by the management of the entity to be the most appropriate in the circumstances to present fairly financial position, cash flows, and results of operations in accordance with generally accepted accounting principles and that, accordingly, have been adopted for preparing the financial statements.
+
+The accounting policies adopted by a reporting entity can affect significantly the presentation of its financial position, cash flows, and results of operations. Accordingly, \textbf{the usefulness of financial statements for purposes of making economic decisions about the reporting entity depends significantly upon the user's understanding of the accounting policies followed by the entity.}
+\end{quote}
+(APB 22, emphasis added)
+
+The construction of textual similarity, $SIM$,  between two sets of accounting policy disclosures involves three components. First, denote  the set of all words occurring in the ``Summary of Significant Accounting Policies'' descriptions in a year is $\Omega_t$. We measure a  scalar, $J_t \equiv \vert\vert \Omega_t \vert\vert$, that is, the number of unique words used in  the descriptions of both firms. For each firm $i$ in year  $t$, an ordered binary vector $W_{it}$ is constructed such that each element $W^{(j)}_{it}$ of  $W_{it}$ is one if and only if word $j$ occurs in the given firm's text in the given  year. Let $N_{it} \equiv W_{it}/\vert\vert W_{it} \vert\vert,$ the normalized vector of word  occurrences for each firm-year. For each year, construct a similar vector $U_t$ of size $J_t$ in  which each element $U^{(j)}_t$ is equal to the sum of the number of occurrences of each word $j$  among both sets of text. From this vector, compute a measure of the aggregate  change in text from year $t-1$ to year $t$ as the change in the number of times the word was used. Denote this aggregate word use change variable as  $D_{t-1,t}$. 
+
+Formally,
+\begin{equation}
+D_{t-1,t} \equiv \bigg\vert\bigg\vert \sum_{j} (U_{j,t} - U_{j, t-1}) \bigg\vert\bigg\vert.
+\end{equation}
+
+The textual similarity of a firm's accounting policy disclosures in a year is constructed as
+\begin{equation}
+SIM_{it} \equiv \frac{W_{it}}{\vert\vert W_{it} \vert\vert} \cdot \frac{D_{it}}{\vert\vert D_{it} 
+\vert\vert},
+\end{equation}
+which is the cosine of the angle between the firms' vectors of word occurrences and the aggregate word change vector.
+
+In subsequent analysis I make use of a measure of a firm's \emph{self} similarity, 
+\begin{equation}
+SELF\text{-}SIM_{it} \equiv 1 - \frac{W_{it}}{\vert\vert W_{it} \vert\vert} \cdot \frac{W_{it}}{\vert\vert 
+W_{it} \vert\vert},
+\end{equation}
+
+which attempt to measure the degree to which the firm is changing its description of its own accounting policies from one year to the next. By construction,  the similarity measure is on the closed interval from zero to one. 
+
+\subsection{Preprocessing}\label{ssec:preprocess}
+% steps to download 10-K's. Discuss attrition, compustat matching
+% steps to extract SAP, discuss attrition. Summary stats to show representativeness (ts, xs, industry)
+% lemmatization and stemming
+To more accurately analyze the 10-K sections I perform several preprocessing steps on the corpus. Specifically, I remove alphanumeric sequences and punctuation, convert all words to lowercase, and perform stemming and lemmatization on each document.
+Stemming and lemmatization are methods from the fields of computational linguistics and natural language processing that are designed to normalize textual corpora for automated analyses. Stemming requires to conversion of a word token to its root, removing pluralization and conjugation. Lemmatization is designed to convert word tokens that are different but often used to refer to the same physical entity to a common token. 
+
+Below is an example from the 2011 annual report of IBM. The filing originally contained the line:
+
+\begin{quote}
+Additionally, changes to noncontrolling interests in the Consolidated Statement of Changes in Equity were \$(29) million, \$8 million and \$(1) million for the years ended December 31, 2011, 2010 and 2009, respectively
+The accounts of variable interest entities (VIEs) are included in the Consolidated Financial Statements, if required.
+\end{quote}
+
+After the pre-processing steps described above, the line became:
+
+\begin{quote}
+addit chang noncontrol interest consolid statement chang equiti million million million year end decemb respect account variabl interest entiti vie includ consolid financi statement requir
+\end{quote}
+
+To reduce further the amount of irrelevant information contained in each piece of text extracted from the 10-K, I weight each word token that occurs via a method known as term frequency-inverse document frequency (tf-idf). This weighting scheme reduces the influence of overly common terms in a text corpus on the analysis of that corpus. These steps should reduce the amount of noise in the construction of accounting similarity.
+
+% computation of pairwise cossim
+% summary stats: n-gram analyses
+
+\section{Empirical Validation of Textual Similarity Measure}\label{sec:validation}
+Since this measure of textual similarity of accounting policy disclosures is new, I explore the measure's empirical properties and relation with common constructs in accounting and finance.
+
+The graphs below show the time series and cross-sectional distributions of both peer-firm textual similarity, $SIM$, and own-firm textual similarity, $SELF-SIM$. The latter measure is the similarity of the text in the ``Summary of Significant Accounting Policies'' section for a given firm and itself one year prior. As expected, own-firm textual similarity tracks that of $SIM$ for each firm, but is almost always higher.
+
+The bottom panel of Table \ref{summary-stats} contains summary statistics for my similarity measure. For $SIM$, the mean is lower than the median, indicating the presence of a few observations with very low textual similarity.
+
+The percentile values of $SIM$ indicate sufficient variation, but by themselves lack a clear interpretation. Therefore I perform a univariate regression with $SIM$ as the dependent variable and each of my subsequent control variables. This provides an empirical explanation of the sources of variation in textual similarity. 
+Reported in Table \ref{cossim-uni}, I find that $SIM$ is negatively associated with measures that largely capture firm complexity--age, size, and payout and leverage structure. Textual similarity is positively associated with asset tangibility and liquidity and is not statistically associated with capital market related factors. In multivariate analyses (Table\ref{tab:determinants}) I find that $SIM$ is positively and statistically significantly associated at at least the 10\% level with size, turnover, buy-and-hold returns over the period, and firm age. It is negatively associated with stock price, Tobin's $q$, earnings, inclusion in the S\&P 500, analyst following, and forward price-to-earnings ratio. Own-firm similarity ($SELF\text{-}SIM$) is positively associated with stock price, Tobin's $q$, leverage, and assets. It is negatively associated with size, turnover, returns, firm age, and inclusion in the S\&P 500. In general these associations move in the opposite direction to that of peer-firm textual accounting policy disclosures' similariy ($SIM$).
+
+One possible interepration of these associations is related to the life cycle of the firm. That is, firms in more mature and stable stages of their operations (as opposed to new firms in more dynamic product markets) have more similar accounting treatments to their peers. This use of more similar accounting treatment could be the result of firms and their peers converging on accounting practices over time.
+%industry
+% density plots of SIM by each variable (hi/lo decile)
+
+% earnings tests
+As a further validation, I examin the predictive power of $SIM$ for properties of firms' earnings. I preform OLS regressions of several measures of contemporaneous and future earnings. In the equation below $ACCOUNTING$ is one of the following dependent variables: $SIM$: (peer-firm) accounting similarity or $SELF\text{-}SIM$: own-firm accounting similarity over prior year. $EARNINGS$ is one of $ROA_{it}$: contemporaneous net income scaled by assets, $ROA_{it+1}$: future net income scaled by assets, $NEG\_EARNINGS_{it+1}$: an indicator equal to one if future net income is negative, or $DEC\_EARNINGS_{it+1}$: an indicator equal to one if next period's net income is less than the current year.
+
+\begin{equation} \label{eq:full-ols} 
+\begin{aligned} 
+EARNINGS_{it+1} &=
+\beta_{0} + \beta_{1}ACCOUNTING_{it} + \beta_{2}TANG_{it} + \beta_{3}MVE_{it} \\&
++ \beta_{4}AGE_{it} + \beta_{5}SP500_{it} + \beta_{6}DIV_{it} + \beta_{7}LEVERAGE_{it} \\&
++ \beta_{8}Q_{it} + \beta_{9}RETURN_{it} + \beta_{10}ASSETS_{it} \\&
++ \beta_{11}EARNINGS_{it} + Year_{t} + \varepsilon_{it+1}. 
+\end{aligned}
+\end{equation}
+
+In Equation \ref{eq:full-ols}, $Year$ captures year fixed-effects. These fixed-effects control for unobserved time-specific factors that may influence the relationship between earnings performance and similarity. All other variables are as defined in Section \ref{sec:controls}. The other variables control for numerous potentially confounding observable factors identified by prior studies. I also include the lagged value of the dependent variables to adjust for the autocorrelation. 
+
+Overall, the full regression results with control variables are mixed. Table \ref{tab:earnings} reports that accounting similarity is positively and statistically associated with contemporaneous earnings ($ROA$). $SIM$ is negatively, but not statistically significantly associated with future earnings. However, $SIM$ is weakly related to future bad performance--negative earnings and earnings decreases.
+
+\section{Control Variables} \label{sec:controls}
+For each observation I control for a variety of factors that may confound the relationship between active investor ownership and textual similarity of accounting policies, $SIM$. Prior studies have shown that certain firm characteristics may be associated with institutional investor demand. These characteristics are liquidity demands of institutions \cite{falkenstein1996, ferreiramatos2008, huang2009}, preferences by institutions for larger companies (\cite{gompersmetrick2001}) and dividend payers (\cite{grinsteinmichaely2005}), and the age and leverage of constituent firms (\cite{badrinathetal1996}). 
+
+The control variables I include are the number of years the firm appears in Compustat (\emph{AGE}), the ratio of monthly trading volume to number of shares outstanding 
+(\emph{TURNOVER}), the stock return over the preceding year 
+(\emph{RETURN}), the average daily stock price over the preceding year 
+(\emph{PRICE}), the natural logarithm of the book value of assets 
+(\emph{ASSETS}), the natural logarithm of market capitalization 
+(\emph{MVE}), the average bid-ask spread 
+(\emph{BASPREAD}), an indicator variable for whether or not the firm is in the S\&P 500 
+(\emph{SP500}), the dividend yield 
+(\emph{DIV}), the ratio of the book value of total debt to assets 
+(\emph{LEVERAGE}), Tobin's $q$ (\emph{Q}), calculated as in \cite{chungpruitt1994}, return on assets (\emph{ROA})--the ratio of net income to the book value of total assets, and the level of asset tangibility (\emph{TANG}), calculated as in \cite{almeidacampello2007}. 
+
+I include the number of equity research analysts who provide earnings forecasts for the firm (\emph{NANALYSTS}), as a proxy for the quality of the information environment of the firm. Table \ref{summary-stats} shows summary statistics for these variables. These variables are very similar to those in \cite{chungzhang2011}, who use a similar set of control variables. Finally, I include the \emph{forward} price-to-earnings ratio (\emph{PE})--computed as the current period stock price divided by the one-year-ahead analyst consensus earnings forecast--as a measure of investors' performance expectations for the firm.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Chapter: Empirical Results
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Empirical Results}\label{chap:results}
+\section{Baseline Ordinary Least Squares Results}\label{sec:ols}
+For each firm in each fiscal year in my sample, I compute the similarity between that firm's ``Summary of Significant Accounting Policies'' section and that of all other firms in its industry (2-digit SIC). I then take the median over all industry peers as that firm's level of similarity. My dependent variable is the ratio of active-to-passive investors for each firm as of that firm's fiscal year-end date. In all subsequent regressions I lag my variable of interest, $SIM$, and all control variables. I also rank $SIM$ for each firm into deciles by year.
+
+\subsection{Regression of Levels of Active-to-Passive Ownership Ratio} 
+To assess how textual similarity of accounting disclosures affects the ratio of active to passive institutional investor ownership, in Table \ref{tab:levels} I report ordinary least squares (OLS) results of estimating variants of the following regression pooled over each firm $i$ and year $t$: 
+
+\begin{equation} \label{eq:active-comp-ols} 
+\begin{aligned} 
+PCT\text{-}ACTIVE_{it+1} &=
+\beta_{0} + \beta_{1}COMP_{it} + \beta_{2}TANG_{it} + \beta_{3}MVE_{it} + \beta_{4}PRICE_{it} \\ & +
+\beta_{5}TURNOVER_{it} + \beta_{6}AGE_{it} + \beta_{7}BASPREAD_{it} \\ &+ \beta_{8}SP500_{it} +
+\beta_{9}DIV_{it} + \beta_{10}LEVERAGE_{it} + \beta_{11}Q_{it} \\ &+ \beta_{12}RETURN_{it} +
+\beta_{13}ROA_{it} + \beta_{14}ASSETS_{it} \\ &+ \beta_{15}NANALYSTS + Year_{t} + Firm_{i} + \varepsilon_{it}. 
+\end{aligned}
+\end{equation}
+
+In Equation \ref{eq:active-comp-ols}, $Year$ and $Firm$ capture year and firm fixed-effects, respectively. These fixed-effects control for unobserved time-specific and firm-specific factors that may influence the relationship between active ownership and similarity. All other variables are as defined in Section \ref{sec:controls}. The other variables control for numerous potentially confounding observable factors identified by prior studies. Since the expected impact of firm-level factors, especially similarity, is likely to take at least a year, I examine the effect of all variables on the one-year-ahead ratio of active-to-passive investor ownership. I also include the lagged value of $PCT\text{-}ACTIVE$ to adjust for the autocorrelation in the dependent variable. Lastly, I repeat the estimation by replacing $PCT\text{-}ACTIVE$ with $NUM\text{-}ACTIVE$--the ratio of the number of active institutional investors to passive institutional investors--as the dependent variable. 
+
+I start with a simple model that regresses the one-year-ahead active-to-passive investor ownership ratio only on my main variable of interest, $SIM$ and year and firm fixed-effects (I cluster standard errors at the firm level). The regression is estimated for 32,940 firm-year observations. I find that the coefficient estimate is -0.005, suggesting a negative (positive) relation between active (passive) investor ownership and comparability. I then add the time-varying control variables. The coefficient estimate of $SIM$ is still negative and significant at the 1\% level, indicating that the negative relation between accounting similarity and active institutional ownership holds even after controlling for a large variety of other possible drivers of institutional ownership. This relationship is also economically meaningful: an increase in similarity from the first to the ninth decile is associated, \emph{ceteris paribus}, with a decrease in institutional ownership by around 7\%.
+
+%Consistent with the results of prior studies, I find that active institutional investor ownership is associated with industries with firms with a higher market cap, liquidity (as measured by bid-ask spread and turnover), and performance (as measured by ROA), more firms that are in the S\&P 500, and firms with lower leverage and recent poor stock returns. My results are also consistent with the stylized notion that institutions prefer stocks with a higher dollar price.
+
+Columns (3) and (4) of Table \ref{tab:levels} report the regression results from estimating Equation \ref{eq:active-comp-ols} with the dependent variable replaced by $NUM\text{-}ACTIVE$. I observe a very similar pattern for the coefficient estimates of $SIM$ in both the baseline regression and the specification that includes time-varying controls.
+
+\subsection{Regression of Changes in Active-to-Passive Ownership Ratio}  \label{ssec:changes}
+Since many econometric time series are smooth, regression analyses using levels can generate spurious regressions, an effect which can be mitigated by a changes specification of the regression(\cite{grangernewbold1974}). Table \ref{changes} reports results of a regression with change in the active-to-passive institutional ownership ratio and change in similarity as the dependent and independent variables, respectively, along with changes in the control variables. The $R^2$'s for these models are lower, but in all cases, for all types of institutions the coefficient on $SIM$ is negative and statistically significant.
+
+There are two major potential sources of endogeneity that hinder my ability to claim that increased textual similarity of accounting disclosures causes higher institution ownership. The first is reverse causality--that is, higher institutional ownership causes firms to alter their behavior in ways that increase their similarity. The second threat to causal inference is an omitted variable that is correlated with both my measure of accounting similarity and institutional ownership, which would lead to biased and inconsistent coefficient estimates. To mitigate the impact of this form of endogeneity I employ a thorough set of theoretically and empirically motivated control variables. These variables control for other observable factors that may influence institutional ownership. Additionally, in untabulated analyses, I switch my dependent variable $PCT\text{-}ACTIVE$ and variable of interest $SIM$. Regressing one-year-ahead similarity on $PCT\text{-}ACTIVE$ and control variables, I find no statistically significant relation between the two. This somewhat alleviates concerns that active investor ownership causes changes in similarity.
+
+\section{Identification}\label{sec:identification}
+My analysis of the differential effect of the textual similarity of accounting policy disclosures on active and passive institutional investment utilizes a quasi-natural experiment involving accounting rule changes that limited and increased managerial discretion. My assumption, which I validate, is that managerial discretion is a primary driver of the accounting treatments disclosed in the ``Summary of Significant Accounting Policies'' section of the 10-K.
+
+The first event, the American Institute of Certified Public Accountants' (AICPA's) Statement of Position 97-2 (SOP 97-2), adopted in \cite{srivastava2014}, relies on the rule's aim to decrease the level of discretion for managers in recognizing revenue associated with certain software-containing products and services. Unlike its role in \cite{srivastava2014}, which was as a shock to the contracting role of earnings, reduced discretion over revenue recognition in my setting serves as a source of exogenous variation in accounting treatment, which should affect institutional investor ownership in a firm only through its effect on similarity. The second event is the subsequent partial reversal of the provisions in SOP 97-2. The requirements in SOP 97-2 were subsequently relaxed in the FASB's ASU 2009-13. This allows me to estimate a treatment reversal effect in the spirit of \cite{leary2009}. 
+
+The outcome of these rules was a respective increase then decrease in similarity in the treatment sample. The questions then are whether there is an increase (decrease) in similarity around the SOP 97-2 (ASU 2009-13) event window and whether this increase (decrease) is associated with an economically significant effect on the ratio of active-to-passive institutional investor ownership. I use a difference-in-differences (DD) analysis to estimate these effects. As ASU 2009-13 was only a partial reversal of the limited discretion given to managers under SOP 97-2, I expect my results in this test to be somewhat weaker in magnitude. In the next section I provide further institutional details of these accounting rule changes and how they are useful for my research question.
+
+\section{Two Quasi-Natural Experiments: SOP 97-2 and ASU 2009-13}\label{sec:experiments}
+%To estimate the causal impact of accounting comparability on institutional investor ownership, I use the adoption of an accounting rule that increased the comparability of firms' financial statements and its subsequent reversal.
+% SOP 97-2
+The American Institute of Certified Public Accountants' (AICPA's) Statement of Position 97-2 (SOP 97-2) reduced the amount of discretion managers of affected firms had with respect to one aspect of revenue recognition. 
+% Why were they passed? (Plausible exogeneity to your outcome variable)
+% What firms do they affect and over what time periods?
+% What do the rules specify?
+SOP 97-2 was put forth to curtail revenue recognition practices that were perceived to be overly aggressive. Specifically, firms that sold software were able to shift revenue across reporting periods. This is because software-based products began to shift from a good to more of a service. Software updates and support were bundled into the initial price but would be delivered over future months and, increasingly, years. This growing mismatch of revenues and expenses could allow firms to prematurely allocate a portion of the selling price to revenue. SOP 97-2 required a strict precedent, known as vendor specific objective evidence (VSOE), for recognizing revenue from these multiple element arrangements. The fair-value-like requirement of VSOE meant that firms needed a long history of standalone pricing for each element in a multielement arrangement (\cite{cfo2008}). Without this evidence, firms would have to delay the recognition of all revenues until all services have been delivered.
+
+Over time, as more products began to incorporate software components, the range of products and services covered by SOP 97-2 grew beyond that initially intended by standard setters. Subsequently, FASB introduced an updated standard to reduce the scope of SOP 97-2. Known as Accounting Standards Update (ASU) 2009-13, this rule limited SOP 97-2 to pure software transactions and allowed managers to make use of estimates when allocating the price of longer term contracts to deliver bundled software services.
+
+The limited discretion allowed under SOP 97-2 may have increased the similarity of accounting treatments of these firms financial statements to each other by forcing similar economic transactions to appear similar.\footnote{It is possible the comparability of reported income statement numbers decreased by forcing dissimilar economic transactions to appear similar. For my setting it is only necessary that companies \emph{appear} to have more similar accounting, which would generate a disincentive for investors to exert effort collecting and analyzing information. A simple example illustrates this point. Consider two firms, Firm 1 and Firm 2, that have agreed to provide \$100 in service over the next four years. Firm 1 will provide an equal value of the service over each period (i.e. \$25 in each year). Firm 2 will provide \$25 worth of service in year 1 and \$75 worth in year 4. SOP 97-2 would require both firms to recognize \$0 in revenue for the first three years and \$100 in the fourth. In the presence of the accounting rule, managers would be barred from using their judgment in deciding when to recognize each amount of revenue. These transactions, with markedly different underlying economics, would appear similar. However, managers have extensive leeway to widely disclose non-GAAP figures in such cases. They have much less incentive and leeway to discuss these effects in the Significant Accounting Policies section of the 10-K, which is the focal point at which I measure similarity.} 
+I view this case as likely and prior research has documented a pervasive pattern of increased discretion given to managers (e.g., \cite{dechowskinner2000}, \cite{beneish2001}, \cite{hribarjenkins2004}, \cite{beattyetal2002}, \cite{ayersetal2006}) leading to lower quality financial statements. Empirically, this is the association I document between similarity and the introduction of SOP 97-2.\footnote{Anectdotally, Boeing has recently come under scrutiny for its atypical accounting for large upfront investments in developing airplanes and the extensive use of estimates in allocating the costs of the planes (\cite{ostrower2014}). The accounting rules permit this level of discretion by Boeing's managers, but other manufacturers in the same industry allocate the majority of the cost upfront. This is a typical real world example of the mechanism by which I view more discretion as leading to lower similarity.} At the same time, this rule increased the potential gains to superior private information of firms. Investors with the ability or an endowment of more precise information as to the nature of the underlying transactions would thus benefit. 
+
+Through similar reasoning, the reversal of parts of SOP 97-2 by ASU 2009-13 allows me to identify the effect of decreasing textual similarity of accounting disclosures on the ratio of active-to-passive institutional investor ownership.
+
+% EITF 09-3
+\subsection{Difference-in-Differences Design}\label{ssec:dd}
+
+My Difference-in-Differences methodology requires that I specify a representative event window around the accounting rule change events. The trade-off when selecting this event window is that an overly wide window will confound the effects of the rule changes with other economic events, while a window that is too narrow may not capture the effects of interest. I define the pre-period as years 1995 to 1997, as the effective date for SOP 97-2 was fiscal-years ending after December 31, 1997. I use years 1998 to 2001 as the post-period for treated firms. To the extent that firms did not adjust financial reports in line with the new standard in a timely manner, this classification of the post-period will bias against finding results. ASU 2009-13 was promulgated concurrently with Accounting Standards Update 2009-14 (ASU 2009-14), which also relaxed revenue recognition criteria for firms engaged in \emph{non-software} multi-element contracts. It is not necessary for my analysis to separate firms affected by the two standards since both serve to increase (decrease) managerial discretion (similarity). Both rules were effective after 2010. Therefore my pre-period for ASU 2009-13 are the years 2008 and 2009; the post-period are the years 2011 to 2013.
+
+Next, I assign firms into treatment and control groups based on industry (Standard Industrial Classification (SIC) codes). SOP 97-2 primarily applied to firms that engaged in bundled hardware and software products with services for installation, upgrades, and customer support. Following \cite{srivastava2014} I classify treated firms as those in the following industries based on three-digit SIC codes: household audio, video equipment, and audio receiving (365); communication equipment (366); electronic components and semiconductors (367); computer hardware (368); telephone communications (481); or computer programming, software, and data processing (737). This classification is not perfect. There are likely to be firms for which the rules in SOP 97-2 do not apply and firms outside of this classification for which they do. To the extent that these two types of misclassification are random and not systematically related to my outcome variables, this will induce noise but not bias in my estimation sample. 
+
+ASU 2009-13 was adopted by firms in the same industries as those affected by SOP 97-2 \emph{except} pure software firms. Therefore I exclude these industries from the classification of treated firms (SIC codes 7375 and 7379).\footnote{From the SIC Code Manual this includes: ``Establishments primarily engaged in providing on-line information retrieval services on a contract or fee basis. The information generally involves a range of subjects and is taken from other primary sources. Establishments primarily engaged in performing activities, such as credit reporting, direct mail advertising, stock quotation services, etc., and who also create data bases are classified according to their primary activity. Establishments primarily engaged in collecting data bases from primary sources and reformatting or editing them for distribution through information retrieval services are classified in Industry 7379.''}
+
+The identification challenge is to account for the fact that both accounting treatments and active-to-passive institutional investment in firms may vary from one year to the next. In other words, one needs to account for the fact there may be natural changes from year-to-year in the independent and dependent variables. The difference-in-differences approach divides the sample of firms into treatment and control groups. In the context of my paper, the treatment groups include all firms that were affected by SOP 97-2 and, separately, all firms affected by ASU 2009-13. The control group includes firms not affected by these rule changes. Formally the DD can be estimated via regressions of the form:
+
+\begin{equation} \label{eq:active-comp-dd} 
+\begin{aligned} 
+PCT\text{-}ACTIVE &=\beta_{0} + \beta_{1}TREATED \times POST + \beta_{2}TREATED \\&+ \beta_{3}POST + \gamma^{\prime}\mathbf{X} + \varepsilon.
+\end{aligned}
+\end{equation}
+
+Above, $\mathbf{X}$ is a vector of time-varying firm-level control variables. The DD analysis, by comparing the temporal changes in effects for the treatment and control groups, allows for both group-specific and time-specific effects. The DD estimator is unbiased under the condition that the rule changes are not systematically related to other factors that affect the control group. I estimate Equation \ref{eq:active-comp-dd} for $PCT\text{-}ACTIVE$ and $NUM\text{-}ACTIVE$ and with ASU 2009-13 treatment firms and matched firms.
+
+A potential concern with the above estimator is the possibility that the treatment and control firms may be meaningfully and systematically different from each other. In this case, the partial effect may be confounded by also capturing the differences in the characteristics of the different groups. For instance it may be the case the firms with good future prospects (as proxied by Tobin’s q or the forward price-to-earnings ratio) engage in more complex activities that make their accounting less comparable to peer firms. I will want to keep the pre-event firm characteristics of my treatment sample similar to those of my control sample. To account for such potential systematic differences across the two samples, I use a statistical matching technique on observed firm characteristics. 
+
+After identifying relevant treatment and control firms, I match control firms to treatment on several key variables prior to estimation. I match candidate control firms based on propensity scores using the pre-selected independent variables (age, assets, bid-ask spread, buy-and-hold return, dividend yield, leverage, market value of equity, analyst following, forward price-to-earnings, stock price, Tobin’s $q$, return on assets, an S\&P 500 indicator, and stock turnover). My approach ensures that the changes in ownership are caused only by the plausibly exogenous change in accounting similarity by making treatment and control firms similar \emph{ex ante} except for the application of SOP 97-2 and ASU 2009-13.
+
+In Table \ref{post-match} I report the univariate comparisons between treatment and control firms' characteristics in the pre-event years. The univariate comparisons indicate that no systematic significant differences exist in the matching variables. This suggests that the matching process has successfully removed significant \emph{observable} differences between treatment and control groups before the events. To the extent that this is not the case, changes in ownership may be due to causes other than the shock to similarity.
+
+% discuss parallel trends
+I perform two diagnostic tests to ensure the validity of the parallel trends assumptions between treatment and control, which is necessary for a DD estimation. First, I examine the difference in the ratio of active-to-passive institutional investor ownership between the treatment and control groups over a six-year event window surrounding the accounting rule changes. Figure \ref{trends} shows the difference between the treatment and control groups is stable in the three years leading up to the shocks, suggesting that there are no pre-trends present for ownership. This graphical inspection gives confidence that the parallel trends assumption for DD is not violated.
+
+\subsection{Difference-in-Differences Estimation Results} \label{ssec:ddresults}
+I first check the DD estimator for accounting similarity to verify the premise of the quasi-natural experiments: plausibly exogenous shocks to similarity due to accounting rules SOP 97-2 and ASU 2009-13 should lead to an increase and a decrease in similarity, respectively, for the treatment group relative to the control. Table \ref{comp-dd} reports the results of this analysis. Columns (1) and (2) report the DD estimation around the SOP 97-2 rule change event. The third and fourth columns of Table \ref{comp-dd} report results around the ASU 2009-13 event. Consistent with my conjecture, I observe a relative increase in similarity by around 6.9\% after SOP 97-2, a relative decrease in similarity by around 4.97\% after ASU 2009-13. For context, the average value of my measure of accounting similarity in the sample is 36.4\% and the effect of SOP 97-2 (ASU 2009-13) would be to move the median firm from to the 8th (2nd) decile. The pre-trend graphs in Figure \ref{cossim-trends} lends support to the validity of this initial difference-in-differences analysis.
+
+This finding can be thought of as, essentially, the first stage of my estimation. The effect is economically meaningful and statistically significant in the direction expected. I will incorporate this number in subsequent analyses of the economic impact of accounting similarity.
+
+I next look at how the ratio of active-to-passive institutional investor ownership changes for the treatment sample across the rule changes. Increases in this ratio implies that investment by active (passive) institutions is higher (lower). These results are present in Table \ref{dd1}. The first column includes the DD analysis without the control variables, Column (2) includes these controls, and Columns (3) and (4) repeat the analysis with $NUM\text{-}ACTIVE$. 
+
+First, I discuss the SOP 97-2 treatment event results. The average change in the active-to-passive ownership ratio for treatment firms is -7\%, and that for control firms is -3.59\%. The DD estimator for $PCT\text{-}ACTIVE$ is -4\% and significant at the 5\% level. In terms of economic significance, my analysis suggests that an exogenous 6.9\% increase in similarity causes the share of active institutional investment to decrease by about -4\%  compared to a similar firm without a change in its level of similarity to its peers. The average change in the number of active-to-passive owners for treatment firms is -5.58\%, and that for control firms is -0.58\%. The DD estimator for $NUM\text{-}ACTIVE$ is -5\% and significant at the 1\% level. This suggests that an exogenous 6.9\% increase in similarity causes the share of active institutional investors to decrease by about -5\%.
+
+Next, I discuss the results around the ASU 2009-13 treatment event, which partially reversed the limited discretion given to managers under SOP 97-2 for treated firms. The average change in the active-to-passive ownership ratio for treatment firms is 2.77\%, and that for control firms is 0.89\%. The DD estimator for $PCT\text{-}ACTIVE$ is 1.88\% and significant at the 1\% level. In terms of economic significance, my analysis suggests that an exogenous 4.97\% decrease in accounting similarity causes the share of active institutional investment to increase by about 1.88\%  compared to a similar firm without a change in the level of textual similarity of accounting policy disclosures to its peers. The average change in the number of active-to-passive owners for treatment firms is much smaller at 0.58\% and significant only at the 10\% level.
+
+\section{Alternative Explanations and Mechanisms}\label{sec:robust}
+There are two plausible explanations for my results, which I attempt to rule out. The first is that managers alter their tendency to manage earnings in a way that correlates with the behavior of investors. I perform a separate difference-in-differences analysis to explore this potential effect. I use as a proxy for earnings management the tendency of managers to just meet or beat consensus analyst forecasts. I define the meet/just beat threshold as realized earnings figures that are with zero to three cents of the median one-year-ahead analyst forecast (see \cite{beattyetal2002} and \cite{ayersetal2006}). It is unclear \emph{ex ante} if the earnings management behavior of firms changes, what the differential response of active investors with respect to passive investors would be. Nevertheless, the results in Table \ref{meet} show no strong evidence that earnings management increases around either the SOP 97-2 or the ASU 2009-13 treatment events. This is consistent with the results of \cite{srivastava2014}.
+
+The second alternative explanation is that managers' alter their voluntary disclosure behavior in response to changes in the similarity or complexity of their financial statements--possibly resulting from shocks to the level of discretion allowed by the accounting rules. However, to the extent that managers increase voluntary disclosure when accounting similarity decreases, this will bias against my results. The evidence in Table \ref{cig-dd} show now clear evidence of management increases in voluntary disclosure around either the SOP 97-2 or the ASU 2009-13 treatment events.
+
+\chapter{Conclusion}\label{chap:conclusion} 
+In this paper, I examine the differential effect of the textual similarity of accounting policy disclosures on active versus passive institutional investor ownership. I find that firms with accounting policy disclosure that are more similar to their peers have lower (higher) active (passive) investor ownership. To establish causality, I use a difference-in-differences estimation with treatment events that represent shocks to managerial discretion. I show that increases (decreases) in managerial discretion allowed by accounting rules cause decreases (increases) in the similarity of accounting treatments within an industry. My identification tests suggest a causal effect of the textual similarity of accounting policy disclosures on the active-to-passive investor ownership ratio. The evidence is consistent with the hypothesis that active investors prefer to invest in marginally more difficult to understand firms, as that lets them exploit a real or perceived comparative informational advantage. Overall, my study offers novel evidence of a previously under-explored impact of a high degree of uniformity of accounting treatments (as proxied by firms' disclosures), namely, that it may not be preferred by certain classes of investors.
+
+Another contribution of this paper is the development of a measure of the similarity of accounting treatments among peer firms. I assume that firms with more similar accounting treatments will have more similar disclosure of their accounting policies. Because firms are required to disclose their accounting policies in a section of their annual reports known as the ``Summary of Significant Accounting Policies,'' I compute for each firm the similarity of this section of textual disclosure to its industry peers. I provide novel evidence that these disclosures are associated with future firm performance. Importantly, I discover that my measure of textual similarity of firms' accounting policy disclosures is associated with poor future performance. Though not central to my research question, this finding supports prior research that has found that more opaque or difficult to understand firms are more likely to face significant negative performance shocks in the future (e.g. \cite{kimetal2016}).
+
+A primary driver of the similarity of disclosure about accounting treatments is the notion of accounting comparability. However, comparability is only one desirable trait of accounting numbers, along with relevance and reliability (\cite{fasb2010}). It is possible that, overall, comparability may be in conflict with one or both of these other goals. If so, investors may rationally choose to invest in groups of firms with less comparable accounting than they would in absence of the tradeoffs with relevance or reliability. This would make it harder to uncover an empirical association between investor preferences and accounting comparability. A limitation of this study is that I do not examine the relationship between my proxy for comparability and relevance/reliability. This is a potential avenue for future work.
+
+Throughout, I have claimed that active investors may prefer firms with less similar disclosure because it either 1) enables them to exploit their comparative advantage in processing complex information, or 2) they merely perceive they have such a comparative advantage. It is interesting follow-up question which of these two cases holds. Future work may link institutional investors' performance with the disclosure attributes of their portfolio firms. It may be the case that funds that invest in firms with lower accounting quality or more idiosyncratic accounting treatments generate higher returns, lower returns, or in equilibrium, due to competitive pressures in the market for shares, see no effect on performance. Linking a dimension of accounting quality to the performance of investors may address the social welfare implications of the properties of financial statements.
+\newpage
+\appendix
+\chapter{Variable Definitions}\label{app:vardefs}
+\input{tables/variable-definitions.tex}
+\newpage
+\chapter{Tables and Figures} \label{app:appendix}
+
+\begin{figure}[H] 
+\centering
+\includegraphics[width=6in, height=3in]{figures/ior_by_quarter}
+\caption[\textbf{The ratio of institutional investor ownership in US common stocks, over time, disaggregated by institution type.}]{\footnotesize \textbf{The ratio of institutional investor ownership in US common stocks, over time, disaggregated by institution type.}
+Type 1: banks trusts.
+Type 2: insurance companies. 
+Type 3: investment companies.
+Type 4: independent investment advisors.
+Type 5: corporate pension funds, public pension funds, university endowments, foundation endowments, and miscellaneous.} \label{fig:ior}
+\end{figure} 
+\newpage
+
+\begin{figure}[H] 
+\centering
+\includegraphics[width=6in, height=3in]{figures/pctactive_by_quarter}
+\caption[\textbf{The ratio of active-to-passive institutional investor ownership in US common stocks, over time.}]{\footnotesize \textbf{The ratio of active-to-passive institutional investor ownership in US common stocks, over time.}} \label{fig:pctactive}
+\end{figure} 
+\newpage
+
+\begin{figure}[H] 
+\centering
+\includegraphics[width=6in, height=3in]{figures/cossim-year}
+\vspace{10mm}
+\includegraphics[width=6in, height=3in]{figures/cossim-dist}
+\caption[\textbf{Time-series and cross-sectional distribution of $SIM$}]{\footnotesize (Top panel) Time series trends of accounting comparability measure $SIM$. (Bottom panel) Pooled cross-sectional distribution of $SIM$.} \label{cossim-figures}
+\end{figure} 
+\newpage
+
+\begin{figure}[H] 
+\centering
+\includegraphics[width=6in, height=3in]{figures/cossim-sop972-trends}
+\vspace{10mm}
+\includegraphics[width=6in, height=3in]{figures/cossim-asu200913-trends}
+\captionsetup{justification=centering, width=.95\textwidth} 
+\caption[\textbf{Trends of textual accounting disclosure similarity in the treatment sample net of control sample.}]{\footnotesize \textbf{Trends of textual accounting disclosure similarity in the treatment sample net of control sample.}\\
+Panel A shows the trend surrounding the SOP 97-2 event window. Panel B shows the trend surrounding the ASU 2009-13 event window.} \label{cossim-trends}
+\end{figure} 
+\newpage 
+
+\begin{figure}[H] 
+\centering
+\includegraphics[width=6in, height=3in]{figures/sop972-trends}
+\vspace{10mm}
+\includegraphics[width=6in, height=3in]{figures/asu200913-trends}
+\captionsetup{justification=centering, width=.95\textwidth} 
+\caption[\textbf{Trends of active-to-passive institutional investor ownership in the treatment sample net of control sample.}]{\footnotesize \textbf{Trends of active-to-passive institutional investor ownership in the treatment sample net of control sample.} Panel A shows the trend surrounding the SOP 97-2 event window. Panel B shows the trend surrounding the ASU 2009-13 event window.} \label{trends}
+\end{figure} 
+\newpage
+\input{tables/ior-mve-summary2.tex} 
+\newpage 
+\input{tables/summary-stats2.tex} 
+\newpage
+\input{tables/cossim-uni-2}
+\newpage
+\input{tables/determinants-2.tex}
+\newpage
+\input{tables/acc_sim_ols3.tex}
+\newpage
+\input{tables/correlation-matrix2.tex} 
+\newpage
+\input{tables/levels2.tex}
+\newpage 
+\input{tables/changes2.tex}
+\newpage 
+\input{tables/cossim-dd2.tex}
+\newpage 
+\input{tables/post-match-diffs-1-2.tex} 
+\newpage
+\input{tables/dd1-2.tex}
+\newpage
+\input{tables/dd2-2.tex}
+\newpage
+\input{tables/meet-dd2.tex}
+\newpage
+\input{tables/cig-dd2.tex}
+\justify
+\begingroup
+\bibliographystyle{aea}
+\normalfont
+\normalsize
+    \setlength{\bibsep}{10pt}
+    \setstretch{1}
+    \bibliography{articles}
+\endgroup
+\end{document}

@@ -1,0 +1,63 @@
+
+% Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
+% Date and time: Tue, Oct 04, 2016 - 8:43:50 PM
+% Requires LaTeX packages: dcolumn 
+\begin{table}[H] \centering 
+  \caption{Active and Passive Institutional Ownership, Levels} 
+  \label{levels} 
+\footnotesize 
+\begin{tabular}{@{\extracolsep{5pt}}lD{.}{.}{-4} D{.}{.}{-4} D{.}{.}{-4} D{.}{.}{-4} } 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{4}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-5} 
+\\[-1.8ex] & \multicolumn{2}{c}{active\_ratio\_lead1} & \multicolumn{2}{c}{numowners\_active\_ratio\_lead1} \\ 
+\\[-1.8ex] & \multicolumn{2}{c}{\textit{OLS}} & \multicolumn{2}{c}{\textit{OLS}} \\ 
+\\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)}\\ 
+\hline \\[-1.8ex] 
+ active\_ratio & 0.7563^{***} & 0.7806^{***} &  &  \\ 
+  & (0.0128) & (0.0155) &  &  \\ 
+  numowners\_active\_ratio &  &  & 0.9366^{***} & 0.9015^{***} \\ 
+  &  &  & (0.0136) & (0.0178) \\ 
+  d\_cossim & -0.0005 & -0.0013^{**} & 0.0006 & -0.0007 \\ 
+  & (0.0006) & (0.0006) & (0.0006) & (0.0006) \\ 
+  lmktval &  & -0.0062 &  & -0.0041 \\ 
+  &  & (0.0047) &  & (0.0042) \\ 
+  price &  & 0.0005^{***} &  & 0.0002^{**} \\ 
+  &  & (0.0001) &  & (0.0001) \\ 
+  turnover &  & 0.0026^{*} &  & -0.0008 \\ 
+  &  & (0.0013) &  & (0.0012) \\ 
+  age &  & 0.0003^{**} &  & 0.0003^{**} \\ 
+  &  & (0.0001) &  & (0.0001) \\ 
+  baspread &  & 0.1134 &  & -0.1213 \\ 
+  &  & (0.1510) &  & (0.1358) \\ 
+  sp500 &  & -0.0153^{**} &  & -0.0134^{**} \\ 
+  &  & (0.0060) &  & (0.0054) \\ 
+  div &  & 0.0008^{**} &  & -0.0004 \\ 
+  &  & (0.0003) &  & (0.0003) \\ 
+  leverage &  & -0.0397^{***} &  & -0.0294^{***} \\ 
+  &  & (0.0120) &  & (0.0108) \\ 
+  q &  & -0.0011 &  & 0.0044^{**} \\ 
+  &  & (0.0024) &  & (0.0022) \\ 
+  bhr &  & 0.0121^{***} &  & 0.0205^{***} \\ 
+  &  & (0.0035) &  & (0.0031) \\ 
+  roa &  & -0.0104 &  & -0.0311^{**} \\ 
+  &  & (0.0170) &  & (0.0152) \\ 
+  lassets &  & 0.0062 &  & 0.0132^{***} \\ 
+  &  & (0.0046) &  & (0.0041) \\ 
+  I(log(nanalysts + 1)) &  & 0.0030 &  & 0.0018 \\ 
+  &  & (0.0038) &  & (0.0034) \\ 
+  pe\_fwd &  & -0.0001^{***} &  & -0.0001 \\ 
+  &  & (0.00004) &  & (0.00004) \\ 
+  Constant & 0.2325^{***} & 0.2011^{***} & 0.0782^{***} & 0.0397^{***} \\ 
+  & (0.0114) & (0.0171) & (0.0110) & (0.0147) \\ 
+ \hline \\[-1.8ex] 
+Observations & \multicolumn{1}{c}{2,940} & \multicolumn{1}{c}{2,387} & \multicolumn{1}{c}{2,940} & \multicolumn{1}{c}{2,387} \\ 
+R$^{2}$ & \multicolumn{1}{c}{0.5462} & \multicolumn{1}{c}{0.5637} & \multicolumn{1}{c}{0.6187} & \multicolumn{1}{c}{0.6484} \\ 
+Adjusted R$^{2}$ & \multicolumn{1}{c}{0.5459} & \multicolumn{1}{c}{0.5607} & \multicolumn{1}{c}{0.6185} & \multicolumn{1}{c}{0.6460} \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{4}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+ & \multicolumn{4}{r}{Year and firm fixed effects included.} \\ 
+\end{tabular} 
+\end{table} 

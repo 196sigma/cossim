@@ -1,0 +1,32 @@
+\documentclass{article}
+
+\usepackage{longtable}
+\usepackage{lipsum} % just for dummy text- not needed for a longtable
+
+\begin{document}
+\lipsum[1]
+\lipsum[1]
+\lipsum[1]
+
+%\begin{table}[htbp] 
+\centering
+\begin{longtable}{| p{.20\textwidth} | p{.80\textwidth} |} 
+\hline
+foo & bar \\ \hline 
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+foo & bar \\ \hline
+\caption{Your caption here} % needs to go inside longtable environment
+\label{tab:myfirstlongtable}
+\end{longtable}
+%\end{table} 
+
+Table \ref{tab:myfirstlongtable} shows my first longtable.
+\end{document}

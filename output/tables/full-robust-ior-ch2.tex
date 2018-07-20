@@ -1,0 +1,75 @@
+%\begin{table}[H] 
+\centering 
+\tiny 
+\begin{longtable}{@{\extracolsep{5pt}}lD{.}{.}{-4} D{.}{.}{-4} D{.}{.}{-4} D{.}{.}{-4} D{.}{.}{-4} D{.}{.}{-4} } 
+  \caption{\textbf{Regression Results Using Changes in Institutional Ownership and Comparability}}   \label{full-robust-ior-ch} \\[-1.8ex]\hline 
+  \caption*{\tiny This table reports the results of the following regression model:
+
+	\begin{minipage}{\linewidth}
+	\begin{equation*}
+		\begin{aligned}
+		\Delta IO_{it} &= \beta_{0} + \beta_{1}\Delta COMP_{it} + \beta_{2}TANG_{it} + \beta_{3}MVE_{it} + \beta_{4}PRICE_{it} + \beta_{5}TURNOVER_{it} + \beta_{6}AGE_{it} + \beta_{7}BASPREAD_{it} \\
+		&+ \beta_{8}SP500_{it} + \beta_{9}DIV_{it} + \beta_{10}LEVERAGE_{it} + \beta_{11}Q_{it} + \beta_{12}RETURN_{it} + \beta_{13}ROA_{it} + \beta_{14}ASSETS_{it} + \gamma_{t} + \varepsilon_{it},
+	\end{aligned}
+	\end{equation*}
+	\end{minipage}
+where $COMP$ denotes the aggregate accounting comparability level for each industry in a specific year. Data span all stocks listed on the NYSE, NASDAQ, or American Stock Exchange (AMEX) and all industries over the years 1980 to 2015. Institutional ownership, $IO$, for each firm in each year as the ratio of shares held by institutions to the total shares outstanding. All variables are aggregated at the industry (two-digit SIC) level. December fiscal-year-end firms. $AGE$ is the number of years the firm appears in Compustat.
+$TURNOVER$ is the ratio of monthly trading volume to number of shares outstanding.
+$RETURN$ is the stock return over the preceeding year.
+$PRICE$ is the average daily stock price over the preceeding year.
+$ASSETS$ is the natural logarithm of the book value of assets.
+$MVE$ is the natural logarithm of market capitalization.
+$BASPREAD$ is the average bid-ask spread.
+$SP500$ an indicator variable for whether or not the firm is in the S\&P 500.
+$DIV$ is the dividend yield .
+The ratio of the book value of total debt to assets ($LEVERAGE$.)
+Tobin's $q$ ($Q$), calculated as in \cite{chungpruitt1994}.
+Return on assets  ($ROA$)--the ratio of net income to the book value of total assets.
+The level of asset tangibility ($TANG$), calculated as in \cite{almeidacampello2007}. All variables are winsorized at the 1\% and 99\% level. Final sample consists of 41,159 firm-year observations aggregated into 1,375 industry-year observations.}\\ \hline \\[-1.8ex] 
+ & \multicolumn{6}{c}{\textit{Dependent variable: Change in Institutional Ownership Percentage, $\Delta IO$}} \\ 
+\cline{2-7} 
+\\[-1.8ex] 
+\multicolumn{1}{L{1.75cm}}{Comparability Quintile} & \multicolumn{1}{C{1.5cm}}{All Institutions}& \multicolumn{1}{C{1cm}}{Type 1 (banks)}& \multicolumn{1}{C{2cm}}{Type 2 (insurance companies)} & \multicolumn{1}{C{2cm}}{Type 3 (investment companies)} & \multicolumn{1}{C{2cm}}{Type 4 (independent investment advisors)}   & \multicolumn{1}{C{2cm}}{Type 5 (other institutions: pension funds, foundations, university endowments)} \\ 
+\hline \\[-1.8ex] 
+ $\Delta$COMP & 0.0121^{***} & 0.0008^{*} & 0.0007^{**} & 0.0012^{**} & 0.0064^{***} & 0.0033^{*} \\ 
+  & (0.0020) & (0.0005) & (0.0003) & (0.0006) & (0.0012) & (0.0018) \\ 
+  MVE & 0.0028 & -0.0003 & -0.0001 & -0.0005 & -0.0022 & 0.0060^{**} \\ 
+  & (0.0028) & (0.0007) & (0.0004) & (0.0008) & (0.0017) & (0.0024) \\ 
+  TANG & -0.0223 & -0.0055 & -0.0060 & -0.0064 & -0.0002 & -0.0040 \\ 
+  & (0.0330) & (0.0080) & (0.0049) & (0.0094) & (0.0203) & (0.0290) \\ 
+  PRICE & 0.0002 & 0.0001 & 0.00004 & 0.00004 & 0.0001 & 0.00002 \\ 
+  & (0.0002) & (0.0001) & (0.00003) & (0.0001) & (0.0001) & (0.0002) \\ 
+  TURNOVER & 0.0091^{***} & 0.0012 & -0.0005 & -0.0008 & 0.0023 & 0.0074^{***} \\ 
+  & (0.0031) & (0.0008) & (0.0005) & (0.0009) & (0.0019) & (0.0027) \\ 
+  AGE & 0.0001 & 0.00004 & -0.00002 & -0.0001 & 0.0001 & 0.0001 \\ 
+  & (0.0004) & (0.0001) & (0.0001) & (0.0001) & (0.0002) & (0.0003) \\ 
+  BASPREAD & -0.4263^{***} & -0.0865^{***} & -0.0288 & -0.0576 & -0.2376^{***} & -0.0120 \\ 
+  & (0.1366) & (0.0329) & (0.0203) & (0.0390) & (0.0840) & (0.1198) \\ 
+  SP500 & -0.0095 & -0.0011 & -0.00004 & 0.0040 & 0.0016 & -0.0144 \\ 
+  & (0.0163) & (0.0039) & (0.0024) & (0.0047) & (0.0100) & (0.0143) \\ 
+  DIV & -0.0024^{**} & -0.0001 & -0.00004 & 0.0004 & 0.0008 & -0.0035^{***} \\ 
+  & (0.0012) & (0.0003) & (0.0002) & (0.0003) & (0.0007) & (0.0010) \\ 
+  LEVERAGE & 0.0102 & 0.0021 & 0.0094^{***} & -0.0127^{*} & -0.0228 & 0.0366^{*} \\ 
+  & (0.0232) & (0.0056) & (0.0035) & (0.0066) & (0.0143) & (0.0204) \\ 
+  Q & -0.0004 & -0.00003 & -0.00002 & -0.0003 & -0.0012 & 0.0012 \\ 
+  & (0.0016) & (0.0004) & (0.0002) & (0.0005) & (0.0010) & (0.0014) \\ 
+  RETURN & 0.0037 & 0.0048^{***} & -0.0008 & 0.0025 & -0.0026 & -0.0013 \\ 
+  & (0.0068) & (0.0016) & (0.0010) & (0.0019) & (0.0042) & (0.0060) \\ 
+  ROA & -0.0002 & 0.0002 & 0.0004 & 0.0016 & 0.0086 & -0.0113 \\ 
+  & (0.0115) & (0.0028) & (0.0017) & (0.0033) & (0.0071) & (0.0101) \\ 
+  ASSETS & 0.000000 & 0.000000 & -0.000000 & -0.000000 & 0.0000 & 0.000000 \\ 
+  & (0.000000) & (0.000000) & (0.000000) & (0.000000) & (0.000000) & (0.000000) \\ 
+  year & -0.0012^{***} & -0.00002 & -0.0001 & -0.0002 & -0.0005^{**} & -0.0004 \\ 
+  & (0.0004) & (0.0001) & (0.0001) & (0.0001) & (0.0003) & (0.0004) \\ 
+  Constant & 2.3497^{***} & 0.0457 & 0.1793 & 0.3651 & 1.0631^{**} & 0.7429 \\ 
+  & (0.8130) & (0.1961) & (0.1211) & (0.2323) & (0.5001) & (0.7129) \\ 
+ \hline \\[-1.8ex] 
+Observations & \multicolumn{1}{c}{1,280} & \multicolumn{1}{c}{1,280} & \multicolumn{1}{c}{1,280} & \multicolumn{1}{c}{1,280} & \multicolumn{1}{c}{1,280} & \multicolumn{1}{c}{1,280} \\ 
+R$^{2}$ & \multicolumn{1}{c}{0.0580} & \multicolumn{1}{c}{0.0224} & \multicolumn{1}{c}{0.0230} & \multicolumn{1}{c}{0.0167} & \multicolumn{1}{c}{0.0420} & \multicolumn{1}{c}{0.0274} \\ 
+Adjusted R$^{2}$ & \multicolumn{1}{c}{0.0468} & \multicolumn{1}{c}{0.0108} & \multicolumn{1}{c}{0.0114} & \multicolumn{1}{c}{0.0051} & \multicolumn{1}{c}{0.0306} & \multicolumn{1}{c}{0.0158} \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{6}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+ & \multicolumn{6}{r}{Year fixed effects included.} \\ 
+\end{longtable} 
+%\end{table} 

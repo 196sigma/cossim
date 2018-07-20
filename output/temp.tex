@@ -1,0 +1,37 @@
+%% ---- DEDICATION PAGE ------------------------------------------------
+% Command that holds the value text of the dedication
+\newcommand{\@dedication}{}
+% Command that sets the dedication style
+\newcommand{\@dedicationstyle}{\@frontpagestyle}
+% Command that sets the width of the dedication text area
+\newcommand{\@dedication@width}{0.66}
+
+% Command to change it from the default
+\newcommand{\dedication}[2][]{ %
+ % Show the dedication.
+ \showdedication %
+ % Set the dedication text.
+ \renewcommand{\@dedication}{#2} %
+ % Set the dedication style.
+ \ifthenelse{\equal{#1}{}}{}{%
+ \renewcommand{\@dedicationstyle}{#1}}}
+% Command to change just the dedication style
+\newcommand{\dedicationstyle}[1]{%
+\renewcommand{\@dedicationstyle}{#1}}
+% Command to adjust the dedication text area width
+\newcommand{\dedicationwidth}[1]{%
+\renewcommand{\@dedication@width}{#1}}
+
+% Command to insert it
+\newcommand{\insertdedication}{\@dedication}
+
+% Command for page with the dedication
+\newcommand*{\dedicationpage}{ %
+ % Set the page formatting.
+ \frntpg %
+ % Add this page to the table of contents.
+ \phantomsection\addcontentsline{toc}{chapter}{Dedication}
+ % Insert the text and formatting.
+ \insertfront{\@dedication %
+  }{\@dedicationstyle}{Dedication}{\@dedication@width}
+}
